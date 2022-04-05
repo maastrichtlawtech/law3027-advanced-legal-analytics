@@ -25,7 +25,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-MANIFEST
+.empty
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -127,3 +127,27 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# macOS dir files
+.DS_Store
+
+# Microsoft Office temporary files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+*.xlk
+
+# VScode
+.vscode/
+
+# Data files
+*.csv
+*.txt
+*.tsv
+*.pdf
+*.pkl
+*.bin
+*.gz
+core.*
+*.ckpt 
+events.out.tfevents.*

@@ -1,0 +1,21 @@
+name: ala
+channels:
+  - defaults
+  - conda-forge
+  - anaconda
+dependencies:
+  - python=3.6.12
+  - pip
+  - jupyter
+  - ipykernel
+  - nbformat
+  - numpy
+  - pandas
+  - nltk=3.5
+  - spacy=2.1.8
+  - seaborn
+  - matplotlib
+  - pip:
+    - lexnlp==1.8.0
+    - blackstone==0.1.15
+    - https://blackstone-model.s3-eu-west-1.amazonaws.com/en_blackstone_proto-0.0.1.tar.gz
