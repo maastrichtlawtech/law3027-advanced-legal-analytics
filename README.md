@@ -30,7 +30,7 @@ Upon completion of the course, you will be able to:
 
 | Topic                                  | Tasks                              | Notebook                           |
 |----------------------------------------|------------------------------------|------------------------------------|
-| **1:**  | [Description](tasks/tutorial1.md)  | [ipynb](notebooks/tutorial1.ipynb) |
+| **1:**  | [Introduction to Text Processing]  | [ipynb](notebooks/tutorial1.ipynb) |
 | **2:**  | [Description](tasks/tutorial2.md)  | [ipynb](notebooks/tutorial2.ipynb) |
 | **3:**  | [Description](tasks/tutorial3.md)  | [ipynb](notebooks/tutorial3.ipynb) |
 | **4:**  | [Description](tasks/tutorial4.md)  | [ipynb](notebooks/tutorial4.ipynb) |
