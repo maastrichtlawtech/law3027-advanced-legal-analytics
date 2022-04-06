@@ -30,9 +30,9 @@ Upon completion of the course, you will be able to:
 
 | Topic                                  | Tasks                              | Notebook                           |
 |----------------------------------------|------------------------------------|------------------------------------|
-| **1:**  | [Introduction to Text Processing]  | [ipynb](notebooks/tutorial1.ipynb) |
-| **2:**  | [Description](tasks/tutorial2.md)  | [ipynb](notebooks/tutorial2.ipynb) |
-| **3:**  | [Description](tasks/tutorial3.md)  | [ipynb](notebooks/tutorial3.ipynb) |
-| **4:**  | [Description](tasks/tutorial4.md)  | [ipynb](notebooks/tutorial4.ipynb) |
-| **5:**  | [Description](tasks/tutorial5.md)  | [ipynb](notebooks/tutorial5.ipynb) |
-| **6:**  | [Description](tasks/tutorial6.md)  | [ipynb](notebooks/tutorial6.ipynb) |
+| **1**  | Introduction to Text Processing | [ipynb](notebooks/tutorial1.ipynb) |
+| **2**  | Contract Automation | [ipynb](notebooks/tutorial2.ipynb) |
+| **3**  | [Description]  | [ipynb](notebooks/tutorial3.ipynb) |
+| **4**  | [Description]  | [ipynb](notebooks/tutorial4.ipynb) |
+| **5**  | [Description]  | [ipynb](notebooks/tutorial5.ipynb) |
+| **6**  | [Description] | [ipynb](notebooks/tutorial6.ipynb) |
