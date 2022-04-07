@@ -28,8 +28,8 @@ Upon completion of the course, you will be able to:
 
 ### Tutorials
 
-| Topic                                  | Tasks                              | Notebook                           |
-|----------------------------------------|------------------------------------|------------------------------------|
+| Week   | Tasks                              | Notebook                           |
+|--------|------------------------------------|------------------------------------|
 | **1**  | Introduction to Text Processing | [ipynb](notebooks/tutorial1.ipynb) |
 | **2**  | Contract Automation | [ipynb](notebooks/tutorial2.ipynb) |
 | **3**  | [Description]  | [ipynb](notebooks/tutorial3.ipynb) |
