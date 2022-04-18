@@ -1,0 +1,335 @@
+1
+
+                   EXCLUSIVE DISTRIBUTOR AGREEMENT
+
+     EXCLUSIVE DISTRIBUTOR AGREEMENT ("Agreement") dated as April 15, 1994 by and between IMRS OPERATIONS INC. d/b/a IMRS INC., a Delaware corporation with its principal place of business at 777 Long Ridge Road, Stamford, Connecticut 06902, U.S.A. (hereinafter referred to as "Developer") and Delteq Pte Ltd, a Singapore company (and a subsidiary of Wuthelam Industries (S) Pte LTD) with its principal place of business at 215 Henderson Road, #101-03 Henderson Industrial Park, Singapore 0315 (hereinafter referred to as "Distributor").
+
+     WHEREAS, Developer has developed certain computer programs and related documentation more particularly described in Schedule A attached hereto (the "Products") and desires to grant distributor the right to market and distribute the Products in Singapore, Malaysia, Indonesia, Thailand, and Brunei (the "Territory"); and
+
+     WHEREAS, Distributor is in the business of marketing and distributing computer-related products and desires to have Developer grant to it the right to market and distribute the Products in the Territory.
+
+     NOW, THEREFORE, in consideration of the mutual promises set forth herein, and for other good and valuable consideration, the receipt and sufficiency whereof are hereby acknowledged, the parties hereto agree as follows:
+
+1.   LICENSE
+
+     1.1  Exclusive Distribution License.              ------------------------------
+
+     Upon the terms and subject to the conditions of this Agreement, Developer hereby grants to Distributor an exclusive, non-transferable fight and license to market and distribute the Products in the Territory. Distributor shall distribute the Products to existing and new customers of Distributor located in the Territory (the "End-Users") who enter into an End-User License Agreement (as hereinafter defined). The Products shall be in executable object code form only and Distributor shall have no fight to the source code of such Products. The Products distributed to End-Users shall be in executable object code form only. Distributor shall not itself, nor allow others to modify, translate, decompile, nor create or attempt to create, by reverse engineering or otherwise, the source code from the object code of the Products supplied hereunder, or adapt the Products in any way or for use to create a derivative work. Should Distributor wish to create such a derivative work, Distributor must first seek and obtain express written permission to do so from the Developer and Developer may withold such permission at its sole discretion. Distributor may not, and may not permit End-Users to, use, reproduce, siblicense, distribute or dispose of the Products, in whole or in part, except as expressly permitted under this Agreement.
+
+                                   1
+
+2
+
+     1.2  The Territory.              -------------
+
+     Distributor may market and distribute the Products solely within the Territory. Distributor shall not have the right to establish third-party agreements for the license, sale, installation and/or support of the Products in the Territory or elsewhere, without the prior written approval of Developer, which approval may be withheld for any reason.
+
+     1.3  License of the Products to End-Users; Other Responsibilities of              --------------------------------------------------------------- Distributor. - - - -----------
+
+     (a)    In connection with Distributor's license and distribution of the Products to End-Users, Distributor will have End-Users execute a Software License Agreement in the form attached hereto as Schedule B (the "End-User License Agreement"). Distributor may not negotiate the terms of the End-User License Agreement with any prospective End-User or agree to any conflicting, different or additional terms from those set forth in the End-User License Agreement without Developer's prior written consent. Developer shall have no liability to Distributor in the event any prospective End-User refuses to agree to enter into an End-User License Agreement.
+
+     (b)   Distributor will at all times during the term hereof use all reasonable efforts to promote and increase sales of Products throughout the Territory, and will work diligently to obtain orders for Products. Developer shall, during the term hereof, adopt such policies, strategies, prices, customer license terms and conditions, and decisions which will reasonably support Distributor in promoting and increasing sales of Products throughout the Territory and shall respond to Distributor as soon as reasonably practicable with respect to the foregoing.
+
+     (c)    Distributor will promote the sale of Products throughout the Territory to End-Users by means of personal visits, presentations, seminars, correspondence. Specific marketing and sales programs will be defined jointly by Distributor and Developer.
+
+
+
+
+
+     (d)   Distributor hereby acknowledges that prompt, courteous and professional service of all End-Users and the fostering and maintenance of good relations with End-Users is of paramount importance to Developer, and Distributor hereby agrees to use reasonable efforts to so serve End-Users and promote such relations with End-Users. Distributor shall call upon End-Users regularly, provide assistance and information to End-Users as requested by End-Users or Developer, serve as liaison between End-Users and Developer, and comply with such policies and procedures as Developer may from time to time communicate to Distributor.
+
+     (e)    Distributor shall take all necessary steps to ensure that it and all of its sales personnel are fully familiar with and can effectively demonstrate the Products, are familiar with the Developer's then-current price list, and applicable Developer policies and procedures.
+
+     (f)    Distributor shall attend such annual sales and consulting meetings for, among other things, training and education as Developer shall reasonably require. Distributor
+
+                                    2
+
+3
+
+shall be responsible for the cost of any travel or lodging for attendance at such meetings required by Developer.
+
+     (g)   All payments by End-Users for Products shall be made directly to Distributor, and Distributor shall so advise Developer of the End-Users to whom sales are made.
+
+     (h)   Distributor will not incur or create any liability on behalf of Developer or in any way pledge or purport to pledge the credit of Developer.
+
+     (i)   Distributor will: (i) work closely with Developer to implement the agreed upon sales strategy and marketing strategy for Developer in the Territory; (ii) prepare any market survey or other marketing or sales report reasonably requested by Developer from time to time; and (iii) inform Developer promptly of any commercial, financial, technical or other information which would be of interest to Developer, including but not limited to foreseeable developments regarding End-Users' needs of which Distributor becomes aware.
+
+     (j)   Distributor will observe all directions and instructions given by Developer in relation to Developer's commercial policy, delivery and payment terms and the distribution of Products, and, in the absence of any such directions or instructions in relation to any particular matter, will act in such manner as Distributor reasonably considers to be most beneficial to the best interests of Developer.
+
+     (k)   Distributor will observe and take all necessary or appropriate steps to observe the standards and technical specifications applicable to Developer's business as may be communicated from time to time by Developer to Distributor.
+
+     (1)   Developer shall be the sole source of all copies of the Products or their components distributed by Distributor under the terms of this Agreement. Furthermore, Developer's and the Product names shall appear on the initial screen in all cases. Distributor may mark all such products and materials with its own names or logos to indicate that the Distributor is a marketer of the Products, provided that any such label or lettering is no larger in size than that used for the name and logo of Developer.
+
+     (m)   Distributor shall allocate a minimum of two (2) dedicated people to sell and support the Products full-time. Distributor shall immediately notify Developer in the event that these people are assigned additional responsibilities that prevent them from remaining dedicated to the Products full-time.
+
+                                     3
+
+4
+
+     1.4  Product Changes.              ---------------
+
+     Developer retains the right, in its sole discretion, to upgrade or modify the Products from time to time. In addition, upon ninety (90) days prior written notice to Distributor, Developer may add or delete Products from Schedule A. Upon receipt of any such notice of any upgrade or modification, or upon the expiration of the notice period set forth above for additions or deletions to Schedule A, Distributor shall cease to market and distribute earlier versions of the Products and/or Products deleted from Schedule A.
+
+     1.5  License to Use Trademark and Trade Name.              ---------------------------------------
+
+     Any and all trademarks and trade names which Developer uses in connection with the license granted hereunder are and shall remain the exclusive property of Developer. Nothing contained in this Agreement shall be deemed to give Distributor any right, title or interest in any trademark or trade name of Developer relating to the Products. Subject to notice in writing from Developer which modifies or cancels such authorization, during the term of this Agreement, Distributor may use at no charge the trademarks and trade names specified by Developer in writing for normal advertising and promotion of Products. Developer occasionally uses third party trademarks, trade names or screen shots in advertising; Distributor may not use such trademarks, trade
+
+
+
+
+
+names or screen shots in writing for advertising without the prior written permission from the third party developer.
+
+2.     PRICE, PAYMENT AND SHIPMENT.        ---------------------------
+
+     2.1    Price.                -----
+
+     Distributor shall adhere to the then current Developer Prices for each Product (collectively, the "Prices"). Developer's current Prices for each Product are set forth in Schedule C. Developer may increase or decrease the Prices for any or all Products upon written notice to Distributor. Distributor must receive, for each instance, express written permission from Developer to sell Product at any price other than such Prices.
+
+     2.2.   Orders, Payment and Shipment.                ----------------------------
+
+     Upon Developer's receipt of a written order from Distributor (each an "Order") together with a copy of an executed End-User License Agreement and Contract Summary Form (Appendix D), Developer will ship to Distributor the designated quantities of the Products. At Distributor's expense, the Products shall be shipped by Developer to Distributor F.O.B. origin, freight pre-paid, with risk of loss to pass to Distributor upon delivery of the Products by Developer to a common carrier. Notwithstanding the above, upon notice to Distributor, Developer may ship the Software directly to Distributor's customer. The terms and conditions of this Agreement shall apply to all Orders submitted to Developer by Distributor. Orders issued by
+
+                                   4    5
+
+Distributor to Developer are solely for the purpose of requesting delivery dates and quantities. All Orders shall be subject to acceptance by Developer; Developer will not unreasonably delay acceptance of any order. Developer shall use reasonable efforts to deliver accepted Orders but shall not be liable for any damages to Distributor or to any third party caused by Developer's delay or error in filling, or failure to fill, any Orders for any reason. Except as otherwise provided herein, all fees and expenses payable hereunder for which Developer issues an invoice to Distributor shall be due and payable thirty (30) days from the date of the invoice. A late payment charge of the lesser of one and one-half percent (1.5%) per month or the highest interest rate allowed by applicable law shall be charged upon all unpaid amounts due hereunder for more than thirty (30) days.
+
+     2.3 Reporting; Royalties.             --------------------
+
+     Distributor shall submit Monthly Sales and Royalty Reports and make payments to Developer as provided herein. All royalties paid to Developer shall be based upon Developer's list prices in U.S. Dollars, except as otherwise agreed in writing by Developer.
+
+     Software license fees associated with Software license agreements in which the sales cycle begins on or after May 1, 1994 (hereinafter "New Software license agreements") for Product sites located in the Territory, shall be allocated and distributed as follows:
+
+              Gross Software Revenue Generated     % to Distributor                  --------------------------------     ----------------                  Per Annum July 1- June 30
+
+              US$O -- $999,999                          40%                  US$1,O00,000 +                            50%
+
+     On July 1 each year, the gross software revenue generated figure will be reset to zero and the accumulation of software revenues will restart.
+
+     However, the foregoing allocation of such fees associated with the New Software license agreements involving a headquarter Product or other site licenses situated outside of the Territory may be subject to reduced percentages to Distributor due to royalties owed to other Developer entities, affiliates, or distributors located outside the Territory, who may also have participated in the sale. Each such situation will be evaluated individually and a final decision on the royalty due will be based upon each party's relative contribution and will be made in Developer's sole discretion. The general guidelines for such cases are outlined in Appendix E (Bergamo Rules).
+
+     Installation, consulting, and training fees associated with the Products are due and payable to the party performing the services.
+
+                                    5    6
+
+     License Renewal and Maintenance Fees will be split evenIy with 50% distributed to Developer and 50% distributed to Distributor, also subject to paragraph 4 of this section 2.3.
+
+     Distributor will submit a monthly report to Developer which accurately identifies the Software license fees, maintenance fees, and any other fees set forth in this Agreement (repons outlined in Schedule D). This report is due at
+
+
+
+
+
+the earliest possible time, but in no event later than ten (10) days following the end of each calendar month Payment by Distributor of the applicable royalty fees to Developer shall accompany the report; provided, however, that Developer shall have the reasonable fight to inspect Distributor's books from time to time during the term hereof and for a one (1) year period after the termination of this Agreement for purposes of verifying the royalties payable to Developer. In addition, Distributor shall report the acquisition of each new license  for the Software system to Developer and will provide either an English translation of the End-User License Agreement or a completed contract extract schedule in the form of Exhibit D (Contract Summary Form) within one (1) day of accepting the order.
+
+     24  Inspection and Acceptance.             -------------------------
+
+     Distributor shall inspect all Products immediately upon delivery and shall, within seven (7) calendar days, give written notice to the common cartier and Developer of any claim for damages or shortages. Distributor shall give written notice to Developer within thirty (30) calendar days of delivery in the event that any Product does not conform with the terms of this Agreement. If Distributor fails to give any such notice, the Products shall be deemed accepted for all purposes of this Agreement.
+
+     2.5    Taxes.                -----
+
+     In addition to the Prices and other fees payable hereunder, Distributor shall record and pay any federal, state, local or other duties, withholding and excise taxes, now or hereafter applied on the sale, transportation, import, export, licensing or use of the Products including sales tax, value added tax or similar tax. Any taxes imposed by federal, state or any local government or any amount in lieu thereof, including interest and penalties thereon, paid or payable at any time by Developer in connection with Developer's license to Distributor, exclusive of taxes based on Developer's net income, shall be borne by Distributor.
+
+     Distributor shall co-operate with and assist Developer, as reasonably necessary, to obtain United States tax credits for any duties or taxes described in this Section 2.5 which may be credited to and/or recovered by Developer and applied by Developer to reduce its United States tax liability. In the event Developer obtains any such tax credits, Developer shall notify Distributor of the amount thereof and Distributor shall be entitled to apply such amount against future amounts payable by Distributor to Developer hereunder.
+
+                                    6
+
+7
+
+3.  MAINTENANCE AND SUPPORT.     -----------------------
+
+     3.1   Distributor Support               -------------------
+
+     Distributor shall remain solely responsible for all installation, maintenance, consulting and support services to the End-Users with regard to the Products. Developer agrees to deliver to Distributor together with the first Order delivered to Distributor a copy of the Product to be used solely by Distributor's personnel providing installation, maintenance, consulting or support services to End-Users and shall only be used at Distributor's site. Distributor's failure to maintain the confidentiality of the Products pursuant to the terms of this Agreement shall be deemed a material breach of this Agreement. As mutually agreeable, Developer, Developer's affiliates, or Distributor may each provide local support to the sites of multi-location clients, each on behalf of the other where the provisions of such support will enhance the quality of support provided to the client. Such services will be provided at the local billing rate or such alternative billing rate as shall be agreed between the parties. The party providing the support shall receive all revenues arising therefrom unless otherwise agreed. Furthermore, it is understood that travel expenses, if any, are to be borne by the client utilizing the support services or by the Distributor unless otherwise agreed. For End-Users that have a World Wide Retainer in place, Distributor will provide local support in the Territory as defined in the World Wide Retainer (Schedule F).
+
+     3.2    Audit Rights.                ------------
+
+     Distributor shall maintain accurate books and records of all End-User License Agreements granted for the Products (which will include at a minimum the location, type and number of products and sites, renewal and payment terms and any special conditions or terms), the End-Users receiving maintenance, and consulting and support services, payable under this Agreement. Upon reasonable notice to Distributor, Distributor shall make such books and records available to Developer, at Distributor's place of business during normal business hours, to audit the payments being made by Distributor hereunder.
+
+     3.3  End-User Training and Developer Consulting Services              ---------------------------------------------------
+
+     Distributor shall be solely responsible for the training of End-Users. Developer may be available at its then current standard rates to provide training, special enhancements, customization and other special work or services to either Distributor or End-Users.
+
+
+
+
+
+                                    7
+
+8
+
+4.     CONFIDENTIALITY AND PROPRIETARY RIGHTS.        --------------------------------------
+
+     4.1    Confidentiality.                ---------------
+
+     Distributor acknowledges that in the course of dealings between the parties, Distributor may acquire information about Developer, its business activities and operations, its technical information and trade secrets, including but not limited to the Products, all of which are highly confidential and proprietary to Developer (the "Confidential Information"). Confidential Information shall not include information generally available to or known by the public, or information independently developed outside the scope of this Agreement. Distributor shall hold all such Confidential Information in strict confidence and shall not reveal or use the same except pursuant to a court order or upon written request of Developer. The Confidential Information shall be safeguarded with at least as great a degree of care as Distributor uses to safeguard its own most confidential materials or data relating to its own business, but in no event less than a reasonable degree of care.
+
+     4.2    Proprietary Rights.                ------------------
+
+     Distributor acknowledges and agrees that the Products, and all copies thereof, constitute valuable trade secrets of Developer and/or proprietary and confidential information of Developer and title thereto remains in Developer. Ownership of all applicable copyrights, trade secrets, patents and other intellectual property rights in the Products are and shall remain vested in Developer. All other aspects of the Products, including without limitation, algorithms, models, programs, methods of processing, design and structure of individual programs and their interaction and programming techniques employed therein shall remain the sole and exclusive property of Developer and shall not be sold, revealed, disclosed or otherwise communicated, directly or indirectly, by Distributor to any person, company or entity whatsoever other than as expressly set forth herein. The copyright notice and restricted rights legends contained in the Products shall appear on all tapes, diskettes and other tangible media distributed by Distributor.
+
+     4.3    Specific Remedies.                -----------------
+
+     If Distributor commits a breach of any of the provisions of Sections 4.1 or 4.2 above, Developer shall have, in addition to all other fights in law and equity, (a) the right to have such provisions specifically enforced by any court having equity jurisdiction, it being acknowledged and agreed that any such breach will cause irreparable injury to Developer and that money damages will not provide an adequate remedy, and (b) the right to require Distributor to account for and pay to Developer all compensation, profits, monies or other tangible benefits (collectively "Benefits") derived or received as the result of any transactions constituting a breach of any of the provisions of this Article 4, and Distributor hereby agrees to account for and pay such Benefits.
+
+                                    8
+
+9
+
+     4.4    Covenant Not to Compete.                -----------------------
+
+     During the term of this Agreement and for a period of two (2) years after the termination hereof for any reason, Distributor will not market, or attempt to market, a computer program which competes in any way with the Products in the areas of consolidation, financial information, financial transaction processing, reporting, data collection, or modeling, including but not limited to the use of personal computers, nor which competes with any modification, alteration or enhancement to the Products which is developed during the term of this Agreement.
+
+5.  LIMITED WARRANTY.     ----------------
+
+     5.1 Limited Warranty.             ----------------
+
+     For ninety (90) days after delivery of a Product to Distributor, Developer warrants that media upon which the Products are delivered shall be of good quality and workmanship. Upon written notice from Distributor of defective media for a Product, Developer shall use reasonable efforts to promptly provide replacement media.
+
+     5.2 Disclaimer of Warranties.             ------------------------
+
+     EXCEPT FOR THE LIMITED WARRANTY SET FORTH IN SECTION 5.1, THE PRODUCTS ARE PROVIDED "AS IS". DEVELOPER SPECIFICALLY DISCLAIMS ALL WARRANTIES EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE WITH RESPECT'TO THE PRODUCTS OR DEFECTS IN THE TAPE, DISKETTE OR OTHER TANGIBLE MEDIA AND DOCUMENTATION, OPERATION OF THE PRODUCTS, AND ANY PARTICULAR APPLICATION OR USE OF THE PRODUCTS.
+
+6.       LIMITATION OF LIABILITY.          -----------------------
+
+
+
+
+
+     IN NO EVENT SHALL DEVELOPER BE LIABLE FOR ANY LOSS OF PROFIT OR ANY OTHER COMMERCIAL DAMAGE, INCLUDING BUT NOT LIMITED TO SPECIAL, INCIDENTAL, CONSEQUENTIAL OR OTHER INDIRECT DAMAGES UNDER ANY CAUSE OF ACTION ARISING OUT OF OR RELATING TO THIS AGREEMENT, INCLUDING, WITHOUT LIMITATION, CLAIMS ARISING FROM MALFUNCTION OR DEFECTS IN THE PRODUCTS. DEVELOPER'S MAXIMUM LIABILITY HEREUNDER IS EXPRESSLY LIMITED TO THE LESSER OF: THE AMOUNT PAID UNDER THIS AGREEMENT BY DISTRIBUTOR TO DEVELOPER WITHIN THE SIX (6) MONTH PERIOD IMMEDIATELY PRECEDING THE CAUSE GIVING RISE TO THE CLAIM; OR FIVE HUNDRED THOUSAND DOLLARS ($5OO,000).
+
+                                    9
+
+10
+
+7.  DISTRIBUTOR OBLIGATIONS.     -----------------------
+
+     7.1    Marketing Efforts.                -----------------
+
+     Distributor agrees to use its best efforts to promote the sale of the Products in the Territory. Distributor agrees to permit Developer to review all of Distributor's promotion and advertising material for the Products prior to use. Distributor shall not use and shall withdraw and retract any promotion or advertising that Developer finds unsuitable, or is in breach of the terms of this Agreement.
+
+     7.2   Prohibited Practices.                --------------------               Distributor may not make any contracts or commitments on behalf of Developer nor make any warranties or other representations regarding the Products other than those authorized herein or by Developer in a separate writing.
+
+     7.3   Export Notice.               -------------
+
+     Distributor agrees to provide Developer with reasonable advance notice of each country- to which it intends to export the Products. Prior to exporting to a foreign country for the first time, Distributor shall provide Developer with a reasonable opportunity to file such proprietary rights notices, applications, and other documents as Developer determines to be reasonably necessary to protect in such country the proprietary rights associated with the Products. Distributor agrees at Developer's expense to cooperate with Developer in the protection of such proprietary rights in each country to which it exports the Products.
+
+     7.4  Compliance with Laws.              --------------------              Distributor agrees to comply with all applicable laws and  regulations, both foreign and domestic, in its performance under this Agreement, including, but not limited to, domestic and foreign export/import laws and regulations.
+
+8.  TERMS AND TERMINATION.     ---------------------
+
+     8.1  Term.              ----
+
+     This Agreement shall have an initial term of one (1) year from the date first above written (the "Initial Term"), and shall thereafter automatically renew for successive two (2) year periods (each a "Renewal Term"), unless earlier terminated in accordance with the terms of this Agreement. Developer may cancel this Agreement if the total gross annual software revenue does not meet DeVeloper's revenue forecast for the Distributor, such cancellation to be eftected by written notice delivered to Distributor not later than 30 days after any Developer's Fiscal Year end (June 30). Either party may cancel this Agreement effective on the last day of the Initial Term, or
+
+                                      10    11
+
+any Renewal Term, by serving written notice of such termination on the other party at least ninety (90) days prior to the end of the Initial Term or any Renewal Term as the case may be.
+
+     8.2   Developer Termination.               ---------------------
+
+     This Agreement may be terminated immediately by Developer under any of the following conditions:
+
+     (a)   if one of the parties shall be declared insolvent or bankrupt;
+
+     (b)   if a petition is filed in any court to declare one of the parties bankrupt or for a reorganization under the Bankruptcy Code or any similar statute and such petition is not dismissed in ninety (90) days or if a Trustee in Bankruptcy or a Receiver or similar entity is appointed for one of the parties;
+
+     (c)   if Distributor does not pay Developer within thirty (30) days from the date that any payments are due hereunder;
+
+
+
+
+
+     (d)   if Distributor breaches the provisions of Sections 4.1 or 4.2 of this Agreement; or
+
+     (e)   if Distributor otherwise materially breaches the terms of this Agreement, and such breach is not cured within thirty (30) days after written notice of such breach is given by Developer.
+
+     8.3   Duties Upon Termination.               -----------------------
+
+     (a)    Provided termination is not a result of a material breach of Sections 4.1 or 4.2, the parties agree to continue their cooperation in order to effect an orderly termination of their relationship. Distributor may continue running the Products solely for purposes of providing maintenance to End-Users granted licenses pursuant to an End-User License Agreement prior to termination. Upon termination, Distributor shall have no fight to order or receive any additional copies of the Products and all of Distributor's rights and licenses granted hereunder shall immediately cease. Within thirty (30) days of termination, Distributor shall return all copies of any promotional materials, marketing literature, written information and reports pertaining to the Products that have been supplied by Developer.
+
+     (b)    Upon termination of this Agreement for any reason, Distributor shall forthwith return all Products, documentation and materials relating thereto to Developer. Termination of this Agreement shall not relieve Distributor of any financial obligations to Developer which remain unsettled at the date of termination, nor of the terms relating to proprietary rights, trade secrets, or non compete restrictions; provided, further, that if this Agreement is terminated for any reason, Developer shall have the option, but not the obligation to
+
+                                    11    12
+
+assume at no cost to Developer, any or all of Distributor's third party agreements (including End-User Agreements) relating to the Products and to receive any and all fees therefrom.
+
+     8.4  Survival              --------
+
+     The provisions of Sections 4, 5 and 9 shall survive the termination of this Agreement.
+
+9.   INDEMNIFICATION.      ---------------
+
+     9.1    Copyright Indemnification.                -------------------------
+
+     Developer shall indemnify, defend and hold Distributor harmless from any claims, demands, liabilities or expenses, including reasonable attorneys' fees, directly resulting from any infringement or violation of any copyright with respect to the Product(s), as so awarded by a final judgment against Distributor by a court of competent jurisdiction that the Product(s) infringe any third party's copyright, Developer shall, in its sole discretion:
+
+     (a)   procure for Distributor the right to continue to use, distribute and sell the Product(s) at no additional expense to Distributor;
+
+     (b)   provide Distributor with a non-infringing version of the Product(s) with substantially similar functionality; or
+
+     (c)   notify Distributor that the Product(s) are being withdrawn from the market and Distributor agrees to immediately cease its distribution of such Product(s). If all Products are withdrawn from the market, this Agreement will immediately terminate.
+
+     9.2   Cooperation by Distributor.               --------------------------
+
+     Notwithstanding Section 9.1 of this Agreement, Developer is under no obligation to indemnify and hold Distributor harmless unless:
+
+     (a)    Developer shall have been promptly notified of the suit, action, proceeding or claim by Distributor and furnished by Distributor with a copy of each communication, notice or other action relating to said suit, action, proceeding or claim;
+
+     (b)    Developer shall have the right to assume sole authority to conduct the trial or settlement of such suit, action, proceeding or claim or any negotiations related thereto at Developer's expense; and
+
+     (c)    Distributor shall provide reasonable information and assistance requested by Developer in connection with such claim or suit.
+
+                                     12
+
+13
+
+     9.3    Distributor Indemnification.                ---------------------------
+
+     Distributor shall indemnify, defend and hold Developer harmless from
+
+
+
+
+
+any claims, demands, liability or expenses, including reasonable attorneys' fees, incurred by Developer as a result of any claim or proceeding against Developer arising out of or based upon (i) the combination, operation or use of the Products with any hardware, products, programs or data not supplied or approved in writing by Developer, if such infringement would have been avoided but for such combination, operation or use (ii) modification of the Products by Distributor or End- Users(iii) any breach of this Agreement by the Distributor or (iv) any breach by the Distributor of any End User or other agreement to which Developer or Distributor is a party.
+
+10.   GENERAL.       -------
+
+     10.1  Force Majeure.               -------------                        Neither party shall be liable or deemed to be in default for any delay or failure in performance (other than the payment of money) under this Agreement or interruption of service resulting directly or indirectly from acts of God, or any causes beyond the reasonable control of such party.
+
+     10.2  Jurisdiction and Venue.               ----------------------
+
+     This Agreement shall be governed by and construed in accordance with the laws of the State of Connecticut, U.S.A. without regard to its conflict of taws provision. Jurisdiction for litigation of any dispute, controversy or claim arising out of or in connection with this Agreement, or the breach thereof shall be only in the Federal or the State court with competent jurisdiction located in Stamford, Connecticut.
+
+     10.3  Entire Agreement.               ----------------
+
+     This Agreement, including the Schedules attached hereto, constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all previous proposals, both oral and written, negotiations, representations, commitments, writings and all other communications between the parties. This Agreement may not be modified except by a writing signed by a duly authorized representative of each of the parties.
+
+                                     13
+
+14
+
+     10.4   Independent Contractors.                -----------------------
+
+     It is expressly agreed that Developer and Distributor are acting hereunder as independent contractors and under no circumstances shall any of the employees of one party be deemed the employees of the other for any purpose. This Agreement shall not be construed as authority for either party to act for the other party in any agency or other capacity, or to make commitments of any kind for the account of or on behalf of the other except to the extent and for the purposes provided for herein.
+
+     10.5   Assignment.                ----------
+
+     This Agreement is not assignable by either party hereto without the prior written consent of the other, except that this Agreement shall be assignable by Developer to an affiliated entity or upon the sale of the fight to license and sublicense the Products to the purchaser of said right. This Agreement shall be binding upon and inure to the benefit of the parties and their respective successors and permitted assigns.
+
+     10.6   Severability and Waiver.                -----------------------
+
+     If any provision of this Agreement is determined by a court of competent jurisdiction to be invalid or unenforceable, such determination shall not affect the validity or enforceability of any other part or provision of this Agreement. No waiver by any party of any breach of any provisions hereof shall constitute a waiver unless made in writing signed by the party.
+
+     IN WITNESS WHEREOF, the parties hereto have executed this Agreement by a duly authorized representative as of the date set forth above.
+
+     DISTRIBUTOR:                            DEVELOPER:         -----------                             ---------         DELTEQ SYSTEMS PTE LTD                  IMRS OPERATIONS INC. d/b/a                                                 IMRS INC.
+
+     By:   /s/ S.C. CHEN                     By: /s/ DAVID M. SAMPLE               --------------------                  -----------------------
+
+     Name: S.C. Chen                         Name: David M. Sample                                                       ---------------------
+
+     Title: Managing Director                Title: Senior Vice President
+
+                                       14

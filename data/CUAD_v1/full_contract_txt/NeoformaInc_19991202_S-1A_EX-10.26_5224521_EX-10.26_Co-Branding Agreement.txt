@@ -1,0 +1,701 @@
+1                                                                    EXHIBIT 10.26
+
+Confidential Treatment Requested
+
+                          CO-BRANDING AGREEMENT
+
+     This Co-Branding Agreement (this "Agreement") by and between VerticalNet, Inc., a Pennsylvania corporation having a principal place of business at 700 Dresher Road, Suite 100, Horsham, Pennsylvania, PA 19044 ("VerticalNet"), and Neoforma.com, Inc., a Delaware corporation having a principal place of business at 3255-7 Scott Boulevard, Santa Clara, CA 95054 ("Neoforma"), is dated as of November 19, 1999 (the "Effective Date").
+
+     In consideration of the mutual covenants herein, and intending to be legally bound hereby, the Parties agree as follows:
+
+1. DEFINITIONS.
+
+     1.1 ADVERTISING shall mean any paid advertisements, links, pointers, sponsorships, buttons, banners, navigation, or any other placements or promotions or similar services or rights on a Site, but excluding Advertising that is not paid for or which is part of an overall partnering or revenue sharing arrangement and any Product Listings.
+
+     1.2 AFFILIATE shall mean, when used with reference to a Party, any individual or entity directly or indirectly controlling, controlled by or under common control with such Party. For purposes of this definition, "control" means the direct or indirect ownership of at least 50% of the outstanding voting securities of a Party, or the right to control the policy decisions of such Party.
+
+     1.3 CAREER CENTER GROSS MARGIN shall have the meaning ascribed thereto in Section 10.5.1  [CO-BRANDED CAREER CENTER].
+
+     1.4 CO-BRANDED CAREER CENTER shall mean the Site located at an URL to be mutually agreed upon (which agreement shall not be unreasonably withheld or delayed) containing a VerticalNet Mark and a Neoforma Mark listing openings for positions and posting other career information in the medical and healthcare fields substantially in the form of the existing "Career Center" portions of the VerticalNet Medical Online Communities.
+
+     1.5 CO-BRANDED SITES shall mean the Co-Branded Career Center and the Co-Branded Training and Education Center.
+
+     1.6 CO-BRANDED TRAINING AND EDUCATION CENTER shall mean the Site located at an URL to be mutually agreed upon (which agreement shall not be unreasonably withheld or delayed) containing a VerticalNet Mark and a Neoforma Mark listing training and education offerings in the medical and healthcare fields substantially in the form of the existing "Training and Education" portions of the VerticalNet Medical Online Communities.
+
+     1.7 CONFIDENTIAL INFORMATION shall mean all proprietary and confidential information of a Party, including, without limitation, trade secrets, technical information, business information, sales information, customer and potential customer lists and identities, product sales plans, sublicense agreements, inventions, developments, discoveries, software, know-how, methods, techniques, formulae, data, processes and other trade secrets and proprietary ideas, whether or
+
+2
+
+not protectable under patent, trademark, copyright or other areas of law, that the other Party has access to or receives and which, if disclosed in writing, is marked as "Confidential Information," or if disclosed orally, is confirmed in writing to be "Confidential Information" within five days of such oral disclosure, but does not include information that (a) is or becomes publicly available through no fault of the receiving Party; (b) was already known to the receiving Party at the time it was disclosed to the receiving Party, as evidenced by written records of the receiving Party; (c) is independently developed by or on behalf of the receiving Party without reference or access to such information, as evidenced by written records of the receiving Party; or (d) is received from a third party who is under no obligation of confidentiality to the disclosing Party.
+
+     1.8 DEDUCTIBLES shall mean credits for claims, allowances, seller rebates or returned goods, commissions paid to any third parties, and sales, service, excise, use, value-added and other similar taxes (excluding income taxes) actually paid.
+
+     1.9 INITIAL TERM shall mean the Effective Date through the day prior to the second anniversary of the Effective Date, unless earlier terminated pursuant to Section 11.
+
+     1.10 INTELLECTUAL PROPERTY shall mean any and all trade secrets, patents, copyrights, trademarks, URLs, trade dress, brand features, know-how and similar rights of any type under the laws of any applicable governmental authority, including, without limitation, all applications and registrations relating to any of the foregoing.
+
+     1.11 INTELLECTUAL PROPERTY RIGHTS shall mean all rights in and to Intellectual Property.
+
+     1.12 LABORATORY PRODUCTS shall mean any equipment, instruments or other products used for scientific research and analysis in the field of human health care, including, but not limited to, the categories of equipment, instruments and products listed on EXHIBIT A, (i) that is (a) previously used and is being resold by or on behalf of the prior end-user purchaser or (b) previously sold but unused and is being resold by or on behalf of the prior end-user purchaser, and (ii) excluding Medical Products.
+
+     1.13 LABORATORY PRODUCTS LISTINGS shall mean any VerticalNet Laboratory Product Listings and Neoforma Laboratory Product Listings.
+
+     1.14 LABORATORY PRODUCTS NET REVENUE shall mean the Transaction Fees derived from the promotion and sale of the Neoforma Product Listings for Laboratory Products through the Co-Branded Sites, less any Deductibles.
+
+Source: NEOFORMA INC, S-1/A, 12/2/1999
+
+
+
+
+
+     1.15 LINK shall mean a link (including, but not limited to, a hyperlink, button or banner) that connects two Sites in a manner so that when a user clicks on the link, the user is transferred directly from one Site to a second Site. A "Link from Site A to Site B" indicates that Site A is the Site of origin and Site B is the Site to which the user is linked.
+
+     1.16 MEDICAL PRODUCTS shall mean any equipment, including capital equipment, instruments and other products used for in-patient diagnostic or treatment purposes in the field of human health care, excluding Laboratory Products.
+
+                                    2    3
+
+     1.17 MEDICAL PRODUCTS LISTINGS shall mean any VerticalNet Medical Product Listings and Neoforma Medical Product Listings.
+
+     1.18 MEDICAL PRODUCTS NET REVENUE shall mean the Transaction Fees derived from the sale of New Medical Products and Used and Excess Medical Products through the Neoforma Sites, less any Deductibles.
+
+     1.19 NEOFORMA AUCTION shall mean the functionality and services provided at the "auction" portion of the Neoforma Site.
+
+     1.20 NEOFORMA CAREER CONTENT shall have the meaning ascribed thereto in Section 4.5  [CO-BRANDED CAREER CENTER].
+
+     1.21 NEOFORMA COMPETITORS shall mean Medibuy.com, Promedix.com, Medicalbuyer.com and Medsite.com. During the Term, Neoforma may add to this defined term additional third parties whose primary purpose is the multi-vendor online sale of Medical Products.
+
+     1.22 NEOFORMA CONTENT shall mean the Neoforma Career Content and the Neoforma T&E Content.
+
+     1.23 NEOFORMA DELIVERABLE shall mean any good, service or other item to be delivered or made available by Neoforma.
+
+     1.24 NEOFORMA GAR shall mean Neoforma GAR, Inc.
+
+     1.25 NEOFORMA HOME PAGE shall mean the home page located at the Neoforma Site.
+
+     1.26 NEOFORMA LABORATORY PRODUCTS LISTING shall mean a Neoforma Product Listing relating to a Laboratory Product that is not already listed on a VerticalNet Site.
+
+     1.27 NEOFORMA LINK shall mean a Link that contains a Neoforma Mark and will take users of other Sites to the Neoforma Home Page.
+
+     1.28 NEOFORMA MARK shall mean any trademark, service mark, trade name, domain name, design or logo of Neoforma.
+
+     1.29 NEOFORMA MEDICAL PRODUCTS LISTING shall mean a Neoforma Product Listing relating to a Medical Product that is not already covered by a VerticalNet Medical Product Listing on Neoforma Plan and/or Neoforma Shop.
+
+     1.30 NEOFORMA PLAN shall mean the "plan" portion of the Neoforma Site.
+
+     1.31 NEOFORMA PRODUCT LISTING shall mean a Product Listing of Neoforma for Medical Products or Laboratory Products, including any Neoforma Product Listings for Laboratory Products made available hereunder by Neoforma to VerticalNet.
+
+                                    3    4
+
+     1.32 NEOFORMA RESOURCES HOME PAGE shall mean the Site located at http://www.neoforma.com/rf/index.html?PageMode=Static&file=resrc_main&hdrTab= resources&subHdrTab=0&dir=resources (or a successor Site thereto).
+
+     1.33 NEOFORMA SHOP shall mean the "shop" portion of the Neoforma Site.
+
+     1.34 NEOFORMA SITE shall mean any Site owned and operated by Neoforma, including, but not limited to, the Site located at www.neoforma.com (or any successor Sites to any of the foregoing).
+
+     1.35 NEOFORMA T&E CONTENT shall have the meaning ascribed thereto in Section 5.5  [CO-BRANDED TRAINING AND EDUCATION SITE].
+
+     1.36 NET ADVERTISING REVENUE shall mean the gross amount collected by a Party from a third party for the sale of Advertising, less any Deductibles.
+
+     1.37 NEW MEDICAL PRODUCTS shall mean new, unused Medical Products.
+
+     1.38 PARTY shall mean VerticalNet or Neoforma.
+
+     1.39 PRODUCT LISTING shall mean a listing of a third party's product at a Site in exchange for a fee, commission, or other compensation for purposes of promoting the sale of such third party's product to a third party purchaser, including, without limitation, sales by auction.
+
+     1.40 QUALIFIED LEAD shall mean a customer referred by Neoforma to VerticalNet that is not, at the time of referral, a customer of VerticalNet, which customer has agreed to place a listing on (a) the Co-Branded Career Center and/or (b) the Co-Branded Training and Education Center.
+
+     1.41 RENEWAL TERM shall have the meaning ascribed thereto in Section 11.1  [AUTOMATIC RENEWAL].
+
+     1.42 SITE shall mean a site located on the World Wide Web portion of the Internet.
+
+     1.43 TERM shall mean the Initial Term and any Renewal Terms.
+
+     1.44 TRAINING AND EDUCATION GROSS MARGIN shall have the meaning ascribed thereto in Section 10.5.2  [CO-BRANDED TRAINING AND EDUCATION CENTER].
+
+Source: NEOFORMA INC, S-1/A, 12/2/1999
+
+
+
+
+
+     1.45 TRANSACTION ORIGINATION PARTY shall mean the Party from whose Site a third party clicked through, using a Link, to a Site containing a Product Listing resulting in the purchase of the product promoted in such Product Listing by such third party.
+
+     1.46 TRANSACTION FEE shall mean any payments, including, without limitation, fees and commissions, but collected by a Party from a third party in consideration for goods or services, excluding any Advertising for the benefit of a third party, provided or promoted at one or more Sites operated or controlled by such Party.
+
+     1.47 URL shall mean a universal resource locator used for purposes of identifying a page located on the Internet.
+
+                                    4    5
+
+     1.48 USED AND EXCESS MEDICAL PRODUCTS shall mean (a) previously used Medical Products being resold by or on behalf of the prior end-user purchaser and (b) previously sold but unused Medical Products being resold by or on behalf of the prior end-user purchaser.
+
+     1.49 VERTICALNET AUCTION shall mean, in VerticalNet's discretion, the Site located at www.labx.com (or a successor Site thereto) or the "Auction" portion of the Site located at www.hospitalnetwork.com."
+
+     1.50 VERTICALNET BUYER'S GUIDE shall mean the "Buyer's Guide" portion of the VerticalNet Medical Online Communities (or a successor Site thereto).
+
+     1.51 VERTICALNET COMPETITOR shall mean any Site primarily directed to the sale or auction of Laboratory Products.
+
+     1.52 VERTICALNET CONTENT shall have the meaning ascribed thereto in Section 6.1  [VERTICALNET CONTENT].
+
+     1.53 VERTICALNET DELIVERABLE shall mean any good, service or other item to be delivered or made available by VerticalNet.
+
+     1.54 VERTICALNET LABORATORY PRODUCTS LISTING shall mean a VerticalNet Product Listing relating to a Laboratory Product that is not already covered by a Neoforma Medical Product Listing on a VerticalNet Site.
+
+     1.55 VERTICALNET LINK shall mean a Link that contains a VerticalNet Mark and will take users of other Sites to a page of a VerticalNet Site.
+
+     1.56 VERTICALNET MARK shall mean any trademark, service mark, trade name, domain name, design or logo of VerticalNet.
+
+     1.57 VERTICALNET MEDICAL ONLINE COMMUNITIES shall mean the Sites located at www.edental.com, www.hospitalnetwork.com, www.medicaldesignonline.com, and www.nurses.com (or any successor Sites to any of the foregoing).
+
+     1.58 VERTICALNET MEDICAL PRODUCTS LISTING shall mean a VerticalNet Product Listing relating to a Medical Product that is not already listed on Neoforma Plan and Neoforma Shop.
+
+     1.59 VERTICALNET PRODUCT LISTING shall mean a Product Listing of VerticalNet for Medical Products or Laboratory Products, including any VerticalNet Product Listings made available hereunder by VerticalNet to Neoforma.
+
+     1.60 VERTICALNET PRODUCT SHOWCASE shall mean the "Product Showcase" portion of the VerticalNet Medical Online Communities.
+
+     1.61 VERTICALNET SITE shall mean any Site owned and operated by VerticalNet, including, but not limited to, the VerticalNet Medical Online Communities, the Co-Branded Sites and the Site located at www.verticalnet.com (or a successor Site to any of the foregoing).
+
+                                    5    6
+
+2. MEDICAL PRODUCTS.
+
+     2.1 Within 30 days after the Effective Date, VerticalNet shall provide a copy of all VerticalNet Medical Product Listings for Used and Excess Medical Products existing as of the Effective Date to Neoforma for use on Neoforma Plan, Neoforma Shop and Neoforma Auction on an exclusive basis (even as to VerticalNet), to the extent VerticalNet has the right to do so.
+
+     2.2 Within 30 days after the Effective Date, VerticalNet shall provide a copy of all VerticalNet Medical Product Listings for New Medical Products existing as of the Effective Date to Neoforma for use on Neoforma Plan, Neoforma Shop and Neoforma Auction on an exclusive basis (even as to VerticalNet), to the extent VerticalNet has the right to do so. VerticalNet shall use commercially reasonable efforts to acquire consent from its customers to provide all VerticalNet Medical Product Listings for New Medical Products existing as of the Effective Date to Neoforma.
+
+     2.3 From time to time during the Term, VerticalNet shall provide a copy of all VerticalNet Medical Product Listings received by VerticalNet after the Effective Date to Neoforma as such Product Listings are made available to VerticalNet for use on Neoforma Plan, Neoforma Shop and Neoforma Auction on an exclusive basis (even as to VerticalNet), to the extent VerticalNet has the right to do so. VerticalNet shall use commercially reasonable efforts to acquire consent from its customers to provide all VerticalNet Medical Product Listings for New Medical Products received by VerticalNet after the Effective Date to Neoforma.
+
+     2.4 Notwithstanding the foregoing, VerticalNet's activities in connection with its "Storefronts" and "E-Commerce Centers" (as conducted today, in a fashion substantially similar to the manner in which such activities are conducted today or as otherwise mutually agreed upon by the parties, which agreement shall not be unreasonably withheld or delayed) shall not be considered to be a breach of Section 2.1  [MEDICAL PRODUCTS], 2.2  [MEDICAL PRODUCTS] or 2.3  [MEDICAL PRODUCTS].
+
+     2.5 VerticalNet hereby grants Neoforma an exclusive license, even as to
+
+Source: NEOFORMA INC, S-1/A, 12/2/1999
+
+
+
+
+
+VerticalNet, to use, modify, enhance, reproduce, display, perform and transmit the VerticalNet Medical Product Listings, subject to and in accordance with the terms, conditions and provisions of this Agreement, to the extent that VerticalNet has the right to do so.
+
+     2.6 Neoforma shall list each VerticalNet Product Listing on Neoforma Plan or Neoforma Shop or Neoforma Auction. The look-and-feel of the VerticalNet Product Listings as displayed on Neoforma Plan, Neoforma Shop and Neoforma Auction shall be substantially consistent with the look-and-feel of the other Medical Products Listings displayed on such Sites, unless otherwise agreed upon by the Parties.
+
+     2.7 VerticalNet shall add a Neoforma Link to each VerticalNet Buyer's Guide labeled "Neoforma Search" (or as otherwise mutually agreed upon by the Parties), substantially consistent with the prototype attached hereto as EXHIBIT B, which Links shall be as prominent as the other Links on such Sites. If a user of a VerticalNet Buyer's Guide clicks on such button, such user shall be linked to a Site containing a VerticalNet frame surrounding the appropriate search results on Neoforma Shop. As soon as is commercially reasonable, and in any event, no later that the first anniversary of the Effective Date, such search results shall only contain
+
+                                    6    7
+
+Product Listings for New Medical Products. Notwithstanding the foregoing, if, at any time, Neoforma lists Used and Excess Medical Products on Neoforma Shop, VerticalNet may remove or relocate the Neoforma Link described in this Section 2.7  [MEDICAL PRODUCTS], in VerticalNet's reasonable discretion.
+
+     2.8 Neoforma hereby grants VerticalNet the right to frame all pages of the Neoforma Sites that contain Medical Products Listings with a frame containing VerticalNet Marks substantially consistent with the prototype attached hereto as EXHIBIT C, which framed pages shall only be accessible from the VerticalNet Sites. VerticalNet shall place a Link on the homepage of each VerticalNet Medical Online Community under "Marketplace" to such framed pages of the Neoforma Sites.
+
+     2.9 Neoforma shall host and maintain Neoforma Plan, Neoforma Shop and Neoforma Auction. Neoforma owns and shall continue to own the domain name and the URL used in connection with its business, including but not limited to, Neoforma Plan, Neoforma Shop and Neoforma Auction.
+
+     2.10 VerticalNet shall not enter into any agreement with a Neoforma Competitor for the on-line listing of Medical Products or place any Link to the Site of a Neoforma Competitor on the VerticalNet Medical Online Communities.
+
+     2.11 During the Term, VerticalNet shall not use its Site located at www.meddeals.com to conduct online auctions of Medical Products.
+
+3. LABORATORY PRODUCTS.
+
+     3.1 Within 30 days after the Effective Date, Neoforma shall provide a copy of all Neoforma Laboratory Product Listings existing as of the Effective Date to VerticalNet for use on the VerticalNet Sites on an exclusive basis (even as to Neoforma), to the extent Neoforma has the right to do so. Notwithstanding the foregoing, the provisions of Sections 3.1  [LABORATORY PRODUCTS] through 3.8  [LABORATORY PRODUCTS] shall not apply to any Laboratory Product sold through live (non-virtual) auctions conducted by Neoforma (through Neoforma GAR or otherwise) for which no Product Listing is made; provided, however, that Neoforma shall use commercially reasonable efforts to acquire Product Listings for all such Laboratory Products. If Neoforma receives a set of Product Listings packaged as a "lot," Neoforma shall use commercially reasonable efforts to provide all Laboratory Product Listings contained in such "lot" to VerticalNet in accordance with this Agreement.
+
+     3.2 From time to time during the Term, Neoforma shall provide a copy of all Neoforma Laboratory Product Listings received by Neoforma after the Effective Date to VerticalNet as such Product Listings are made available to Neoforma for use on the VerticalNet Sites on an exclusive basis (even as to Neoforma).
+
+     3.3 Neoforma hereby grants VerticalNet an exclusive license, even as to Neoforma, to use, modify, enhance, reproduce, display, perform and transmit the Neoforma Laboratory Product Listings, subject to and in accordance with the terms, conditions and provisions of this Agreement, to the extent Neoforma has the right to do so.
+
+                                    7    8
+
+     3.4 VerticalNet shall list each such Neoforma Product Listing on the VerticalNet Auction. Neoforma shall provide each Neoforma Product Listing to VerticalNet in the form of the template attached hereto as EXHIBIT D. The look-and-feel of the Neoforma Product Listings as displayed on the VerticalNet Auction shall be substantially consistent with the look-and-feel of the other Laboratory Products Listings displayed on the VerticalNet Auction, unless otherwise agreed upon by the Parties.
+
+     3.5 VerticalNet hereby grants Neoforma the right to frame all pages of the VerticalNet Auction that contain Laboratory Products Listings with a frame containing Neoforma Marks, which framed pages shall only be accessible from the Neoforma Sites.
+
+     3.6 VerticalNet shall host and maintain the VerticalNet Auction. VerticalNet owns and shall continue to own the domain name and the URL used in connection with the VerticalNet Auction.
+
+     3.7 Neoforma shall add Links labeled "Laboratory" or "Laboratory Equipment" (or as otherwise mutually agreed upon by the Parties) to a Site containing a Neoforma frame surrounding the VerticalNet Auction from Neoforma Plan, Neoforma Shop and Neoforma Auction, which Links shall be as prominent as the other Links on such Sites.
+
+     3.8 Neoforma shall not enter into, and shall cause its Affiliates to not enter into, any agreement with a third party for the on-line listing of Laboratory Products on a VerticalNet Competitor or place any Link to a VerticalNet Competitor on the Neoforma Sites.
+
+Source: NEOFORMA INC, S-1/A, 12/2/1999
+
+
+
+
+
+     3.9 Within four weeks after the Effective Date, the Parties will collaborate to establish a close mutually-beneficial arrangement between Neoforma GAR and VerticalNet.
+
+4. CO-BRANDED CAREER CENTER
+
+     4.1 VerticalNet shall design, develop and implement a Co-Branded Career Center and shall use commercially reasonable efforts to implement the Co-Branded Career Center as soon as possible following the Effective Date, and in any event, no later than February 1, 2000. The Co-Branded Career Center shall contain employment listings from the "Career Center" portion of each VerticalNet Medical Online Community. The overall "look and feel" of the Co-Branded Career Center shall be mutually agreed upon by the Parties and shall be substantially in the form of EXHIBIT E. VerticalNet shall host and maintain the Co-Branded Career Center in accordance with the terms and conditions set forth in this Agreement. Neoforma may maintain and/or add other career resource links to the Neoforma Sites; provided, however, that Neoforma shall not place any Links on any Neoforma Site to a Site that is primarily a career center and shall not place a Neoforma Link on any Site that is primarily a career center.
+
+     4.2 The Co-Branded Career Center shall contain Links to the "Career Center" portion of each VerticalNet Medical Online Community.
+
+     4.3 After the Co-Branded Career Center is implemented, VerticalNet shall notify Neoforma in writing at least five days prior to making any material change to the Co-Branded Career Center. If Neoforma does not notify VerticalNet of its rejection of such change within five days, Neoforma shall be deemed to have approved such change.
+
+                                    8    9
+
+     4.4 VerticalNet shall register and own the domain name and the URL used in connection with the Co-Branded Career Center, subject, however, to Neoforma's agreement on the name to be used for the URL, which domain name and URL shall be mutually agreed upon by the Parties.
+
+     4.5 From time to time during the Term, Neoforma shall provide Qualified Leads to VerticalNet for job listings for inclusion, at VerticalNet's then current listing rate, in the Co-Branded Career Center and, in VerticalNet's sole discretion, on any other VerticalNet Site. VerticalNet shall be responsible for, and shall have sole control of, all credit, billing and collection in connection with the Qualified Leads. Neoforma shall have no authority to make collections on behalf of VerticalNet.
+
+     4.6 Neoforma hereby grants VerticalNet an exclusive license to use, modify, enhance, reproduce, display, perform and transmit the Neoforma Career Content, subject to and in accordance with the terms, conditions and provisions of this Agreement. VerticalNet shall not disclose, transfer or otherwise provide the Neoforma Career Content to any third party, except as otherwise permitted under this Agreement.
+
+     4.7 Neoforma shall place a Link on the Neoforma Resources Home Page (unless otherwise mutually agreed upon by the Parties) labeled "Career Center" (or a mutually agreeable substitute for such term) in a mutually agreeable location and size that will directly transfer users to the Co-Branded Career Center, which Links shall be as prominent as (a) the other Links on such Site and (b) the "Career" Link on such Site on the Effective Date. Neoforma shall not place any Link on a Neoforma Site to, or a Neoforma Link on the Site of, any other provider or host of a service similar to the Co-Branded Career Center or to any other career service websites.
+
+     4.8 VerticalNet hereby grant Neoforma the right to frame all pages of the Co-Branded Career Center with a frame, which framed pages shall only be accessible from the Neoforma Sites.
+
+5. CO-BRANDED TRAINING AND EDUCATION SITE
+
+     5.1 VerticalNet shall design, develop and implement a Co-Branded Training and Education Center and shall use commercially reasonable efforts to implement the Co-Branded Training and Education Center as soon as possible following the Effective Date. The Co-Branded Training and Education Center shall contain training and education listings from the "Training and Education" portion of each VerticalNet Medical Online Community. The overall "look and feel" of the Co-Branded Training and Education Center shall be mutually agreed upon by the Parties and shall be substantially in the form of EXHIBIT F. VerticalNet shall host and maintain the Co-Branded Training and Education Center in accordance with the terms and conditions set forth in this Agreement.
+
+     5.2 The Co-Branded Training and Education Center shall contain Links to the "Training and Education" portion of each VerticalNet Medical Online Community.
+
+     5.3 After the Co-Branded Training and Education Center is implemented, VerticalNet shall notify Neoforma in writing at least five days prior to making any material change to the Co-Branded Training and Education Center. If Neoforma does not notify VerticalNet of its rejection of such change within five days, Neoforma shall be deemed to have approved such change.
+
+                                    9    10
+
+     5.4 VerticalNet shall register and own the domain name and the URL used in connection with the Co-Branded Training and Education Center, subject, however, to Neoforma's agreement on the name to be used for the URL, which domain name and URL shall be mutually agreed upon by the Parties.
+
+     5.5 On the Effective Date, Neoforma shall provide a copy of all listings for inclusion, at VerticalNet's reasonable business discretion and at VerticalNet's then current listing rate, in the Co-Branded Training and Education Center and, in VerticalNet's sole discretion, on any other VerticalNet Site (the "Neoforma T&E Content") on an exclusive basis (even as to Neoforma). Neoforma shall provide the Neoforma T&E Content to VerticalNet. VerticalNet shall be responsible for, and shall have sole control of, all credit, billing and collection in connection with the Neoforma T&E Content. Neoforma shall have no authority to make collections on behalf of VerticalNet.
+
+     5.6 From time to time during the Term, Neoforma shall provide Qualified
+
+Source: NEOFORMA INC, S-1/A, 12/2/1999
+
+
+
+
+
+Leads to VerticalNet for job listings for inclusion, at VerticalNet's then current listing rate, in the Co-Branded Training and Education Center and, in VerticalNet's sole discretion, on any other VerticalNet Site.
+
+     5.7 Neoforma hereby grants VerticalNet an exclusive license to use, modify, enhance, reproduce, display, perform and transmit the Neoforma T&E Content, subject to and in accordance with the terms, conditions and provisions of this Agreement. VerticalNet shall not disclose, transfer or otherwise provide the Neoforma T&E Content to any third party, except as otherwise permitted under this Agreement.
+
+     5.8 Neoforma shall place a Link on the Neoforma Resources Home Page (unless otherwise mutually agreed upon by the Parties) labeled "Training and Education" (or mutually agreeable substitutes for such terms) in a mutually agreeable location and size that will directly transfer users to the Co-Branded Training and Education Center, which Links shall be as prominent as (a) the other Links on such Site and (b) the "Training" Link on the Site on the Effective Date. Neoforma shall not place any Link on a Neoforma Site to, or a Neoforma Link on the Site of, any other provider or host of a service similar to the Co-Branded Training and Education Center or to any other training or education service websites.
+
+6. VERTICALNET CONTENT
+
+     6.1 VerticalNet shall from time to time provide or make available to Neoforma, for use in accordance with the provisions of this Agreement, the title and an abstract of (a) all original content created from time to time by the managing editor of the VerticalNet Medical Online Communities, and (b) the content created from time to time by guest columnists for the VerticalNet Medical Online Communities (the "VerticalNet Content"), to the extent such columnists have approved the provision of such content by VerticalNet to Neoforma.
+
+     6.2 VerticalNet hereby grants to Neoforma a non-exclusive, non-transferable license to use, reproduce, display and transmit the VerticalNet Content, solely in connection with the operation of the Neoforma Site, subject to and in accordance with the terms, conditions and provisions of this Agreement. Neoforma may reproduce, display and transmit any VerticalNet
+
+                                    10    11
+
+Content for up to three weeks on the Neoforma Site, and after the expiration of such three week period Neoforma shall cease to reproduce, display and transmit such VerticalNet Content and shall remove such VerticalNet Content from the Neoforma Site.
+
+     6.3 On each page of the Neoforma Site that contains all or a portion of the VerticalNet Content, Neoforma shall place a VerticalNet Link to the VerticalNet Site that contains the full text of such VerticalNet Content in a mutually agreeable location and size.
+
+     6.4 Neoforma shall not remove any titles or any trademark, copyright or patent notices, or any proprietary or restricted rights notices that appear on the VerticalNet Content. All such titles and notices must be reproduced on all permitted copies of the VerticalNet Content.
+
+7. ADVERTISING
+
+     7.1 ADVERTISEMENTS ON THE NEOFORMA SITE.
+
+             7.1.1 During the Term, VerticalNet shall have the non-exclusive right (except as to Neoforma) to arrange for the sale of Advertising on Neoforma Plan (and any other parts of the Neoforma Sites within which Neoforma elects to include Advertising) to third parties. During the Term, the parties shall meet from time to time to discuss the Advertising inventory available for sale. Any Advertising inventory that Neoforma appoints VerticalNet to arrange to sell shall not also be appointed to any third party to arrange for sale to third parties.
+
+             7.1.2 VerticalNet will use commercially reasonable efforts to sell advertisements on the Neoforma Sites. The advertising policies (including rates and procedures) applicable to VerticalNet's sale of advertising for the Neoforma Sites will be established by Neoforma (the "Neoforma Advertising Policies"). Neoforma shall promptly notify VerticalNet of any changes to the Neoforma Advertising Policies.
+
+             7.1.3 VerticalNet shall provide notice to Neoforma of each advertiser that agrees to place an advertisement on a Neoforma Site on the terms and conditions contained in the then current Neoforma Advertising Policies. Neoforma shall then have three business days after receipt of such notice to (a) accept or reject such advertiser, in its reasonable business discretion, and (b) notify VerticalNet of its decision. If, at the end of such three-day period, Neoforma has not responded to such notice, Neoforma shall be deemed to have accepted such advertiser. Neoforma shall then work with the advertiser to facilitate the placement of the advertisement and maintain such advertisement on the agreed-upon page of a Neoforma Site. Neoforma shall have the right to terminate its agreement with any such advertiser in its reasonable business discretion. Neoforma shall be responsible for, and shall have sole control of, all credit, billing and collection with the advertisements on the Neoforma Sites. VerticalNet shall have no authority to make collections on behalf of Neoforma.
+
+             7.1.4 During the Term, Neoforma shall not place any advertisements on a Neoforma Site for any VerticalNet Competitor.
+
+     7.2 ADVERTISEMENTS ON THE CO-BRANDED SITES.
+
+                                    11    12
+
+             7.2.1 During the Term, VerticalNet shall have the exclusive right to arrange for the sale of all advertising on the Co-Branded Sites, subject to reasonable approval of each such advertiser by Neoforma. Neoforma shall have two days to consider each VerticalNet request for approval of the sale of advertising on a Co-Branded Site. If, at then end of such two-day period, Neoforma has neither approved nor denied a request, VerticalNet's request shall be deemed approved.
+
+Source: NEOFORMA INC, S-1/A, 12/2/1999
+
+
+
+
+
+             7.2.2 VerticalNet will use reasonable efforts to sell advertisements on the Co-Branded Sites subject to VerticalNet's then current advertising policies (including rates and procedures).
+
+8. CO-MARKETING ACTIVITIES
+
+     8.1 ADVERTISING CAMPAIGNS. VerticalNet and Neoforma shall use commercially reasonable efforts to co-promote the VerticalNet Medical Online Communities, the Co-Branded Sites, the VerticalNet Buyer's Guide, Neoforma Plan, Neoforma Shop and Neoforma Auction in mutually agreeable advertising, collateral marketing material and sales force activities. All co-promotion advertising materials produced by or on behalf of either Party (the "Originating Party") shall be subject to the written approval of the other Party (the "Receiving Party"), which approval shall not to be unreasonably withheld, delayed or conditioned. The Receiving Party shall notify the Originating Party of its approval or disapproval of such advertising materials as soon as practicable, but in any event within five business days after Receiving Party's receipt thereof. Any failure of the Receiving Party to respond within such five business day period shall be deemed disapproval of the advertising materials in question.
+
+     8.2 REGISTRATION. The parties shall use commercially reasonable efforts to coordinate their registration systems to create a "pass-through" registration system for users first accessing the other's Sites. If a user first accesses a Neoforma Site from a VerticalNet Site, such user shall be considered a VerticalNet user for the purposes of this Agreement, to the extent such user identifies him/her/itself, or Neoforma can reasonably identify such user, as a VerticalNet user. If a user first accesses a VerticalNet Site from a Neoforma Site, such user shall be considered a Neoforma user for the purposes of this Agreement, to the extent such user identifies him/her/itself, or VerticalNet can reasonably identify such user, as a Neoforma user.
+
+     8.3 CROSS-PROMOTION. The Parties shall place Links to each other's Sites in mutually agreeable locations and sizes on their respective Sites as soon as practicable, and in no event more than 15 days after the Effective Date. The Links shall remain on the Sites during the Term; provided, however, that such Links may be removed or relocated if the Parties mutually agree thereto.
+
+     8.4 NEWSLETTERS.
+
+             8.4.1 NEOFORMA NEWSLETTERS. If Neoforma distributes a newsletter to its users or customers, Neoforma shall promote the VerticalNet Auction, the Co-Branded Career Center and the Co-Branded Training and Education Center in each such newsletter, in a manner consistent with the manner in which other third party promotions are set forth in such newsletters.
+
+                                    12    13
+
+             8.4.2 VERTICALNET NEWSLETTERS. VerticalNet shall allow Neoforma to place sponsorships at no additional charge for Neoforma Shop, Neoforma Plan or Neoforma Auction in the VerticalNet newsletter distributed to its subscriber base two times during each calendar month, in a manner consistent with the manner in which other third party sponsorships are set forth in such newsletters.
+
+     8.5 LINKS.
+
+             8.5.1 Throughout the first six months after the Effective Date, VerticalNet shall place button Links to Neoforma Shop or Neoforma Auction on (a) [*] of all available third-party advertising inventory on the home pages of the VerticalNet Medical Online Communities. Thereafter, VerticalNet shall place button Links to Neoforma Shop or Neoforma Auction on unsold third-party advertising inventory (up to [*] of the total third party advertising inventory) on the home pages of the VerticalNet Medical Online Communities as frequently as VerticalNet places internal advertisements on such advertising inventory and (b) the site located at www.meddeals.com.
+
+             8.5.2 Throughout the Term, VerticalNet shall place button Links to Neoforma Shop or Neoforma Auction on (a) the VerticalNet Buyer's Guides (as described in Section 2.7  [MEDICAL PRODUCTS]) and VerticalNet Auction, and (b) the "News Analysis," "Product Center" and "Discussion Forums" portions of the VerticalNet Medical Online Communities.
+
+9. INTELLECTUAL PROPERTY
+
+     9.1 Except as set forth in Section 2.10  [MEDICAL PRODUCTS], nothing in this Agreement shall be construed as preventing VerticalNet from implementing VerticalNet Links on any other Site.
+
+     9.2 Except as set forth in Sections 3.8  [LABORATORY PRODUCTS] and 5.8  [CO-BRANDED TRAINING AND EDUCATION SITE], nothing in this Agreement shall be construed as preventing Neoforma from implementing Neoforma Links on any other Site.
+
+     9.3 VerticalNet hereby grants to Neoforma a non-exclusive, non-transferable, royalty-free, right and license to link to the VerticalNet Sites through a VerticalNet Link. VerticalNet shall furnish Neoforma with a full color representation of each VerticalNet Link at least two days prior to its scheduled placement on a page of the Neoforma Site. If VerticalNet subsequently modifies any VerticalNet Link or the URL associated with such VerticalNet Link, it shall furnish a representation of same to Neoforma, which Neoforma shall substitute for the prior version within two days after receipt thereof. VerticalNet shall have final approval over all VerticalNet Links on the Neoforma Site.
+
+     9.4 Neoforma hereby grants VerticalNet a non-exclusive, non-transferable, royalty-free, right and license to link to the Neoforma Sites through a Neoforma Link. Neoforma shall furnish VerticalNet with a full color representation of each Neoforma Link at least two days prior to its scheduled placement on the Co-Branded Sites or a VerticalNet Medical Online Community. If Neoforma subsequently modifies any Neoforma Link or the URL associated with such Neoforma Link, it shall furnish a representation of same to VerticalNet, which VerticalNet shall substitute for the prior version within two days after receipt thereof. Neoforma shall have final approval over all Neoforma Links on the Co-Branded Sites or a VerticalNet Medical Online Community.
+
+*Certain information on this page has been omitted and filed separately with the
+
+Source: NEOFORMA INC, S-1/A, 12/2/1999
+
+
+
+
+
+Commission. Confidential treatment has been requested with respect to the  omitted portions.
+
+                                    13    14
+
+     9.5 Except for the express rights granted to Neoforma under this Agreement, Neoforma acknowledges and agrees that the Intellectual Property of VerticalNet is and shall remain the sole property of VerticalNet and nothing in this Agreement shall confer in Neoforma any right of ownership or license rights in VerticalNet's Intellectual Property. In addition, Neoforma shall not now or in the future contest the validity of VerticalNet's Intellectual Property.
+
+     9.6 Except for the express rights granted to VerticalNet under this Agreement, VerticalNet acknowledges and agrees that the Intellectual Property of Neoforma is and shall remain the sole property of Neoforma and nothing in this Agreement shall confer in VerticalNet any right of ownership or license rights in Neoforma's Intellectual Property. In addition, VerticalNet shall not now or in the future contest the validity of Neoforma's Intellectual Property.
+
+     9.7 Neoforma agrees to use the VerticalNet Marks in accordance with the terms of this Agreement and with good trademark practices including, but not limited to, protecting the value of the goodwill residing in such Intellectual Property.
+
+     9.8 VerticalNet agrees to use the Neoforma Marks in accordance with the terms of this Agreement and with good trademark practices including, but not limited to, protecting the value of the goodwill residing in such Intellectual Property.
+
+     9.9 Except as explicitly set forth herein, nothing in this Agreement shall be construed as preventing either Party from developing other co-branded versions of its materials, data, information and content.
+
+10. COMMERCIAL TERMS
+
+     10.1 DEVELOPMENT FEE. On the Effective Date, Neoforma shall pay to VerticalNet a one-time, non-refundable fee in the amount of [*] in consideration of VerticalNet's design, development and implementation of the Co-Branded Sites pursuant to Sections 4.1  [CO-BRANDED CAREER CENTER] and 5.1  [CO-BRANDED TRAINING AND EDUCATION SITE], respectively.
+
+     10.2 PROMOTIONAL FEES. In consideration of the performance by VerticalNet of its obligation to promote the Neoforma Shop, Neoforma Plan and Neoforma Auction under Section 8.2  [REGISTRATION], Neoforma shall pay to VerticalNet a promotional fee equal to [*], payable in eight equal quarterly and non-refundable installments of [*], with the first installment payable on the Effective Date, the second installment payable on the [*] month anniversary of the Effective Date, the third installment payable on the [*] month anniversary of the Effective Date, the fourth installment payable on the [*] month anniversary of the Effective Date, the fifth installment payable on the [*] month anniversary of the Effective Date, the sixth installment payable on the [*] month anniversary of the Effective Date, the seventh installment payable on the [*] month anniversary of the Effective Date and the eighth and final installment payable on the [*] month anniversary of the Effective Date.
+
+     10.3 MEDICAL PRODUCTS LISTINGS.
+
+             10.3.1 During each 12 month period during the Initial Term that commences on the Effective Date or an anniversary of the Effective Date (each, a "Contract Year"),
+
+*Certain information on this page has been omitted and filed separately with the  Commission. Confidential treatment has been requested with respect to the  omitted portions.
+
+                                    14    15
+
+commissions shall accrue in an amount equal to [*] of any Medical Products Net Revenues during such Contract Year resulting from (a) any VerticalNet Medical Products Listing or (b) any Neoforma Medical Products Listing for which VerticalNet was the Transaction Origination Party. From and after the point when such accrued commissions equal [*] in any Contract Year (such [*] of accrued commissions shall not be payable by Neoforma), Neoforma shall pay to VerticalNet commissions equal to [*] of any Medical Products Net Revenues during such Contract Year resulting from (a) any VerticalNet Medical Products Listing or (b) any Neoforma Medical Products Listing for which VerticalNet was the Transaction Origination Party.
+
+             10.3.2 After the Initial Term, Neoforma shall pay to VerticalNet commissions equal to [*] of any Medical Products Net Revenues during such Contract Year resulting from (a) any VerticalNet Medical Products Listing or (b) any Neoforma Medical Products Listing for which VerticalNet was the Transaction Origination Party.
+
+     10.4 LABORATORY PRODUCTS LISTINGS. During the Term, VerticalNet shall pay to Neoforma commissions equal to [*] of any Laboratory Products Net Revenues during such Contract Year resulting from (a) any Neoforma Laboratory Products Listing or (b) any VerticalNet Laboratory Products Listing for which Neoforma was the Transaction Origination Party.
+
+     10.5 CO-BRANDED SITES.
+
+             10.5.1 CO-BRANDED CAREER CENTER. VerticalNet will pay Neoforma [*] of the Career Center Gross Margin. "Career Center Gross Margin" shall mean the listing fees related to the Neoforma Career Content and e-commerce revenue derived during the Term from users of the Co-Branded Career Center (less Deductibles).
+
+             10.5.2 CO-BRANDED TRAINING AND EDUCATION CENTER. VerticalNet will pay Neoforma [*] of the Training and Education Gross Margin. "Training and Education Gross Margin" shall mean the listing fees related to the Neoforma T&E Content and e-commerce revenue derived during the Term from users of the Co-Branded Training and Education Center (less Deductibles).
+
+     10.6 ADVERTISING REVENUE.
+
+Source: NEOFORMA INC, S-1/A, 12/2/1999
+
+
+
+
+
+             10.6.1 Except as set forth in Section 10.6.4  [ADVERTISING REVENUE], during the Term, VerticalNet shall not share any revenue derived from advertisements hosted on any VerticalNet Site with Neoforma; provided, however, that if Neoforma brings VerticalNet a Qualified Ad Lead (as defined below) for a new customer that turns into a sale of advertising on a VerticalNet Medical Online Community, VerticalNet shall pay to Neoforma a commission of [*] of the Net Advertising Revenue resulting from such sale of advertising. As used in this Section 10.6.1  [ADVERTISING REVENUE], a "Qualified Ad Lead" shall mean a customer referred to VerticalNet by Neoforma that is not, at the time of referral, a customer of VerticalNet, and which customer has agreed to place an advertisement on a VerticalNet Medical Online Community on the terms and conditions contained in VerticalNet's then current advertising policies.
+
+*Certain information on this page has been omitted and filed separately with the  Commission. Confidential treatment has been requested with respect to the  omitted portions.
+
+                                    15    16
+
+             10.6.2 VerticalNet shall have the first right to sell renewals of Advertising originally sold by VerticalNet on the Neoforma Sites until 30 days after the then current term of such Advertising expires.
+
+             10.6.3 Neoforma shall pay to VerticalNet a commission of [*] of the Net Advertising Revenue received during the Term for the initial placement and renewals of Advertising sold by VerticalNet on the Neoforma Sites. In addition, if Neoforma sells Advertising to a third party on the Neoforma Sites independently from VerticalNet and if Neoforma previously rejected Advertising by such party when proposed by VerticalNet pursuant to Section 7.1.3  [ADVERTISEMENTS ON THE NEOFORMA SITE], or terminated without cause a prior agreement with such third party that had resulted from such a proposal by VerticalNet, then Neoforma shall pay [*] of the Net Advertising Revenue resulting from such Advertising during the Term to VerticalNet. Neoforma shall provide prompt notice to VerticalNet of each advertiser that has agreed with Neoforma to place an advertisement on a Neoforma Site.
+
+             10.6.4 VerticalNet shall pay to Neoforma a commission of [*] of the Net Advertising Revenue received by VerticalNet during the Term for Advertising on the Co-Branded Sites.
+
+     10.7 PAYMENT TERMS. Except as otherwise provided in this Agreement, each Party shall provide the other Party with all amounts due under this Agreement for the prior calendar quarter within 30 days after the end of each calendar quarter during the Term. Each payment shall be accompanied by a statement detailing the amount of applicable gross revenue received, the calculation of the amount due to the other Party and the amount of the payment accompanying such statement. All payments due to either Party hereunder shall be made in immediately available U.S. funds, without set-off or counterclaim, less any taxes, duties, charges, withholdings, restrictions or conditions of any nature imposed or levied by any governmental taxing or other authority.
+
+     10.8 TAXES. All payments required under this Agreement are exclusive of federal, state, local and foreign taxes, duties, tariffs, levies and similar assessments. When applicable, such taxes shall appear as separate items on a Party's invoice or statement of the other Party. Payment of such taxes or charges shall be the responsibility of the Party whose obligation it is under this Agreement to make the payment in respect of which such taxes are assessed, excluding any taxes based upon the other Party's net income. In lieu thereof, a Party shall provide the other Party with a tax or levy exemption certificate acceptable to the taxing or levying authority.
+
+     10.9 AUDITS. During the 18-month period following the payment by one Party of any amount due under this Agreement to the other Party, the Party receiving payment (the "Auditing Party") shall have the right, at its own expense, to have an independent "Big Five" accounting firm (the "Auditor") audit the financial records of the other Party (the "Audited Party") relating to such payment to verify the accuracy of the Audited Party's financial records in order to verify the amount of the payments owed and/or paid. The Auditing Party may cause the Auditor to perform such an audit not more than once in any 12-month period, unless a prior audit within the past two years revealed that the amount owed by the Audited Party to the Auditing Party was underpaid in excess of 8% of the amount owed, in which case an audit may be performed no more frequently than twice in any 12-month period. If the amount owed by the Audited Party to
+
+*Certain information on this page has been omitted and filed separately with the  Commission. Confidential treatment has been requested with respect to the  omitted portions.                                        16    17
+
+the Auditing Party was underpaid, the Audited Party shall pay the additional amount owed and all accrued interest thereon to the Auditing Party within 15 days of notice of such underpayment to the Audited Party. If the amount owed by the Audited Party to the Auditing Party was underpaid in excess of 10% of the amount owed, the fees of such audit shall also be paid to the Auditing Party within 15 days of notice of such to the Audited Party. If the amount owed by the Audited Party to the Auditing Party was overpaid, the Auditing Party shall return the excess amount paid to the Auditing Party within 15 days of notice of such underpayment to the Auditing Party. The Auditing Party shall give reasonable advance written notice to the Audited Party, and each audit shall be conducted during normal business hours and in a manner that does not cause unreasonable disruption to the conduct of business by the Audited Party.
+
+     10.10 INTEREST. All payments not paid by the date such payments are due shall bear interest from the due date to the date payments are actually paid at the rate of the lower of (a) 1% per month or (b) the maximum rate permitted by law.
+
+11. TERM AND TERMINATION
+
+     11.1 AUTOMATIC RENEWAL. This Agreement will automatically renew at the end of the Initial Term or a subsequent renewal term on a year to year basis (each, a "Renewal Term"), unless either Party notifies the other at least 30 days prior to the end of the Initial Term or then current Renewal Term, as applicable, of its intention not to renew this Agreement (a "Termination Notice").
+
+Source: NEOFORMA INC, S-1/A, 12/2/1999
+
+
+
+
+
+     11.2 TERMINATION FOR CAUSE. Either Party may terminate this Agreement immediately upon written notice to the other Party in the event any material breach of a material term of this Agreement by such other Party that remains uncured 30 days in the case of a breach of a payment obligation, or 45 days for all other breaches, after notice of such breach was received by such other Party; provided, however that if such breach is not reasonably capable of cure within the applicable cure period, the breaching Party shall have an additional 180 days to cure such breach so long as the cure is commenced within the applicable cure period and thereafter is diligently prosecuted to completion as soon as possible.
+
+     11.3 UPON TERMINATION. Upon termination of this Agreement, (a) each Party's liability for any charges, payments or expenses due to the other Party that accrued prior to the date of termination shall not be extinguished by termination, and such amounts (if not otherwise due on an earlier date) shall be immediately due and payable on the termination date; (b) VerticalNet shall be responsible for all charges, payments or expenses incurred by it in connection with the removal of the Neoforma Links, Neoforma Content and Neoforma Product Listings from the Co-Branded Sites and all other VerticalNet Sites; (c) Neoforma shall be responsible for all charges, payments or expenses incurred by it in connection with the removal of the VerticalNet Links, VerticalNet Content and VerticalNet Product Listings from the Neoforma Sites; (d) all rights of Neoforma to use, display, reproduce or publish the VerticalNet Marks shall immediately cease, (e) all rights of VerticalNet to use, display, reproduce or publish the Neoforma Marks shall immediately cease, (f) all rights of Neoforma to use, display, reproduce and transmit the VerticalNet Content and VerticalNet Product Listings shall immediately cease and Neoforma shall, at VerticalNet's cost, return one copy of the VerticalNet Content and VerticalNet Product Listings for Medical Products to VerticalNet in electronic format and destroy all other copies of
+
+                                    17    18
+
+such content, (g) all rights of VerticalNet to use, create derivative works of, reproduce, display, perform and transmit the Neoforma Content and Neoforma Product Listings shall immediately cease and VerticalNet shall, at Neoforma's cost, return one copy of the Neoforma Content and the Neoforma Product Listings for Laboratory Products to Neoforma in electronic format and destroy all other copies of such content, (h) all rights of VerticalNet to arrange for the sale of advertising on the Neoforma Sites shall immediately cease, (i) VerticalNet shall retain ownership of the domain names and URLs at which the VerticalNet Sites (including, but not limited to, the Co-Branded Sites) are located, and (j) Neoforma shall retain ownership of the domain names and URLs at which the Neoforma Sites (including, but not limited to Neoforma Plan and Neoforma Shop) are located. If a Termination Notice is sent, the parties shall promptly meet to discuss a phase-out of the Co-Branded Sites and all Links and transfers of Product Listings set forth herein.
+
+12. DISPUTE RESOLUTION
+
+     12.1 NEGOTIATION AND ESCALATION. If any controversy or claim arises relating to this Agreement, the Parties will attempt in good faith to negotiate a solution to their differences, including progressively escalating any controversy or claim through senior levels of management. If negotiation does not result in a resolution within 30 days of when one Party first notifies the other of the controversy or claim, either Party may resort to arbitration under Section 12.2  [ARBITRATION].
+
+     12.2 ARBITRATION. Any controversy or claim between the Parties concerning any breach or alleged breach of this Agreement or performance or nonperformance of any obligation under this Agreement which cannot be resolved by negotiation will be resolved by binding arbitration under this Section 12.2  [ARBITRATION] and the then-current Commercial Rules and supervision of the American Arbitration Association (the "AAA"). If any part of this Section 12.2  [ARBITRATION] is held to be unenforceable, it will be severed and will not affect either the duty to arbitrate or any other part of this Section 12.2  [ARBITRATION]. The arbitration will be held in Philadelphia, Pennsylvania, before a sole disinterested arbitrator who is knowledgeable in business information and the Internet and experienced in handling commercial disputes. The arbitrator shall be appointed jointly by the Parties hereto within 30 days following the date on which the arbitration is instituted. If the Parties are unable to agree upon the arbitrator within such 30-day period, the AAA shall be instructed to select such arbitrator within 15 days thereafter. The arbitrator's award will be final and binding and may be entered in any court having jurisdiction. The arbitrator will not have the power to award punitive or exemplary damages, or any damages excluded by, or in excess of, any damage limitations expressed in this Agreement. Issues of arbitrability will be determined in accordance solely with the federal substantive and procedural laws relating to arbitration; in all other respects, the arbitrator will be obligated to apply and follow the substantive law of the Commonwealth of Pennsylvania.
+
+     12.3 EQUITABLE RELIEF. Notwithstanding anything to the contrary in this Agreement, in the event of an alleged violation of Article 13  [CONFIDENTIALITY] of this Agreement by either Party, the Party alleging such a violation may seek temporary injunctive or other appropriate equitable relief from any court of competent jurisdiction pending appointment of an arbitrator. The Party requesting such relief shall simultaneously file a demand for arbitration of the dispute, and shall
+
+                                    18    19
+
+request that the American Arbitration Association proceed under its rules for an expedited hearing.
+
+     12.4 COSTS. Unless the arbitrator, if any, determines otherwise, each Party will bear its own attorneys' fees and other costs associated with the negotiation and arbitration provided for by this Article 12  [DISPUTE RESOLUTION], except that costs and expenses of the arbitrators shall be shared equally. If court proceedings to stay litigation or compel arbitration are necessary, the Party who unsuccessfully opposes such proceedings will pay all associated costs, expenses and attorneys' fees that are reasonably incurred by the other Party.
+
+     12.5 TWO YEAR LIMITATION. Except for claims under Sections 15.4  [INDEMNIFICATION BY NEOFORMA] and 15.5  [INDEMNIFICATION BY VERTICALNET] hereof, neither Party may bring a claim or action regardless of form, arising out of or related to this Agreement, including any claim of fraud or misrepresentation, more than two years after the cause of action accrues or
+
+Source: NEOFORMA INC, S-1/A, 12/2/1999
+
+
+
+
+
+becomes known, whichever is later.
+
+     12.6 CONFIDENTIALITY. In order to facilitate the resolution of controversies or claims between the Parties with respect to each Party hereto, such controversies or claims, including details regarding negotiations, arbitration and settlement terms, shall be treated as Confidential Information of the other Party hereto in accordance with Article 13  [CONFIDENTIALITY].
+
+     12.7 REMEDIAL MEASURES. In the event of (a) any material remediable breach of this Agreement by the other Party which remains uncured 30 days after notice of such breach (other than a breach of a payment obligation) was received by the other Party or (b) any material breach which cannot be cured, the non-breaching Party may take reasonable remediable measures at the cost of the breaching Party without prejudice and in addition to any other rights arising from such breach. In addition, the non-breaching Party shall take reasonable steps to mitigate damages arising out of such breach.
+
+13. CONFIDENTIALITY
+
+     13.1 CONFIDENTIALITY OBLIGATIONS. Except as permitted elsewhere under this Agreement, each Party agrees to take Reasonable Steps (as defined below) (a) to receive and maintain the Confidential Information of the other Party in confidence, (b) not to disclose such Confidential Information to any third parties and (c) to promptly notify the disclosing Party upon learning of any law, rule, regulation or court order that purports to compel disclosure of any Confidential Information of the disclosing Party and to reasonably cooperate with the disclosing Party in the exercise of the disclosing Party's right to protect the confidentiality of such Confidential Information. Neither Party hereto shall use all or any part of the Confidential Information of the other Party for any purpose other than to perform its obligations under this Agreement. The Parties will take Reasonable Steps (as defined below) to ensure that their employees, representatives and agents comply with this provision. As used herein, "Reasonable Steps" means at least the same degree of care that the receiving Party uses to protect its own Confidential Information, and, in no event, no less than reasonable care.
+
+     13.2 EXCLUSIONS. Nothing contained herein shall prevent a Party from disclosing Confidential Information pursuant to any applicable law, rule, regulation or court order; provided, however, that such Party complies with the notice provisions of Section 13.1(c)  [CONFIDENTIALITY OBLIGATIONS] to the
+
+                                    19    20
+
+extent permissible under applicable laws, rules, regulations or court orders. Such disclosure shall not alter the status of such information hereunder for all other purposes as Confidential Information.
+
+     13.3 TERMINATION. Upon termination of this Agreement, all Confidential Information shall be returned to the disclosing Party or destroyed unless otherwise specified or permitted elsewhere under this Agreement. The confidentiality obligations contained in this Article 13  [CONFIDENTIALITY] shall survive termination of this Agreement for a period of three years.
+
+     13.4 INJUNCTION. Each Party acknowledges and agrees that the provisions of this Article 13  [CONFIDENTIALITY] are reasonable and necessary to protect the other Party's interests in its Confidential Information, that any breach of the provisions of this Article 13  [CONFIDENTIALITY] may result in irreparable harm to such other Party, and that the remedy at law for such breach may be inadequate. Accordingly, in the event of any breach or threatened breach of the provisions of this Article 13  [CONFIDENTIALITY] by a Party hereto, the other Party, in addition to any other relief available to it at law, in equity or otherwise, shall be entitled to seek temporary and permanent injunctive relief restraining the breaching Party from engaging in and/or continuing any conduct that would constitute a breach of this Article 13  [CONFIDENTIALITY], without the necessity of proving actual damages or posting a bond or other security.
+
+     13.5 PUBLICITY. Except as may be required by applicable laws, rules or regulations (including those arising under any securities laws), neither Party will originate any publicity, news release or other public announcement, written or oral, whether to the public press or otherwise, concerning the relationship between the Parties or the transactions described in this Agreement without the prior written consent of the other Party, which consent shall not be unreasonably withheld or delayed. In the event disclosure is required by applicable law, rules or regulations, then the Party required to so disclose such information shall, to the extent possible, provide to the other Party for its approval (such approval not to be unreasonably withheld) a written copy of such public announcement at least five business days prior to disclosure. Notwithstanding the foregoing, either Party shall have the right to make a press release with respect to its entering into this Agreement; provided that such Party provides to the other Party a copy of the proposed press release no less than five business days prior to its proposed release and that the contents of such press release shall be subject to the other Party's consent, which consent shall not be unreasonably delayed or withheld.
+
+14. REPRESENTATIONS AND WARRANTIES. Each Party hereby represents, covenants and warrants to the other Party that:
+
+     14.1 It has the corporate power to enter into this Agreement and to grant the rights and licenses granted herein and otherwise perform this Agreement;
+
+     14.2 It is not a Party to any agreement or understanding and knows of no law or regulation that would prohibit it from entering into and performing this Agreement or that would conflict with this Agreement; and
+
+     14.3 When executed and delivered by it, this Agreement will constitute a legal, valid and binding obligation of it, enforceable against it in accordance with this Agreement's terms.
+
+                                    20    21
+
+15. DISCLAIMER OF WARRANTY, LIMITATION OF LIABILITY AND INDEMNIFICATION.
+
+     15.1 DISCLAIMER OF WARRANTIES. EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, VERTICALNET HEREBY DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED OR
+
+Source: NEOFORMA INC, S-1/A, 12/2/1999
+
+
+
+
+
+STATUTORY, WITH RESPECT TO ANY AND ALL VERTICALNET DELIVERABLES, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.
+
+     15.2 DISCLAIMER OF WARRANTIES. EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEOFORMA HEREBY DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, WITH RESPECT TO ANY AND ALL NEOFORMA DELIVERABLES, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.
+
+     15.3 LIMITATION OF LIABILITY. EXCEPT IN CONNECTION WITH A BREACH BY EITHER PARTY OF ARTICLE 13, THE INDEMNIFICATION OBLIGATIONS OF NEOFORMA UNDER SECTIONS 15.4(c)  [INDEMNIFICATION BY NEOFORMA] AND (d) AND THE INDEMNIFICATION OBLIGATIONS OF VERTICALNET UNDER SECTION 15.5(c)  [INDEMNIFICATION BY VERTICALNET] AND (d), NEITHER PARTY WILL BE LIABLE FOR ANY SPECIAL, INDIRECT, CONSEQUENTIAL, EXEMPLARY OR INCIDENTAL DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY (INCLUDING NEGLIGENCE), EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. EXCEPT IN CONNECTION WITH A BREACH BY EITHER PARTY OF ARTICLE 13, THE INDEMNIFICATION OBLIGATIONS OF NEOFORMA UNDER SECTION 15.4(c)  [INDEMNIFICATION BY NEOFORMA] AND (d) AND THE INDEMNIFICATION OBLIGATIONS OF VERTICALNET UNDER SECTION 15.5(c)  [INDEMNIFICATION BY VERTICALNET] AND (d), EACH PARTY'S LIABILITY FOR DAMAGES HEREUNDER SHALL NOT EXCEED $1,000,000.
+
+     15.4 INDEMNIFICATION BY NEOFORMA. Neoforma shall indemnify and hold harmless VerticalNet and its officers, directors, employees and agents from and against any and all losses, claims, damages, liabilities, obligations, penalties, judgments, awards, costs, expenses and disbursements, including without limitation, the costs, expenses and disbursements, as and when incurred, of investigating, preparing or defending any action, suit, proceeding or investigation asserted by a third party, caused by, relating to, based upon, arising out of or in connection with (a) any breach by Neoforma of the representations, warranties or agreements made by it under this Agreement, (b) negligence, recklessness or intentional misconduct on the part of Neoforma or its Affiliates or its officers, directors, employees, agents or consultants, (c) any claim that the Neoforma Content, Neoforma Product Listings, Neoforma Sites or a Neoforma Mark violates, infringes or misappropriates any Intellectual Property Rights or any other right of any third party, or (d) the use of a VerticalNet Mark or a VerticalNet Deliverable outside of the license rights granted herein.
+
+     15.5 INDEMNIFICATION BY VERTICALNET. VerticalNet shall indemnify and hold harmless Neoforma and its officers, directors, employees and agents from and against any and all losses,
+
+                                    21    22
+
+claims, damages, liabilities, obligations, penalties, judgments, awards, costs, expenses and disbursements, including without limitation, the costs, expenses and disbursements, as and when incurred, of investigating, preparing or defending any action, suit, proceeding or investigation asserted by a third party, caused by, relating to, based upon, arising out of or in connection with (a) any breach by VerticalNet of the representations, warranties or agreements made by it under this Agreement, (b) negligence, recklessness or intentional misconduct on the part of VerticalNet or its officers, directors, employees, agents or consultants, (c) any claim that the VerticalNet Content, VerticalNet Product Listings, VerticalNet Sites or a VerticalNet Mark violates, infringes or misappropriates any Intellectual Property Rights or any other right of any third party, or (d) the use of a Neoforma Mark or a Neoforma Deliverable outside of the license rights granted herein.
+
+     15.6 INDEMNITEE OBLIGATIONS. Each person seeking to be reimbursed, indemnified, defended and/or held harmless under Sections 15.4  [INDEMNIFICATION BY NEOFORMA] or 15.5  [INDEMNIFICATION BY VERTICALNET] (each, an "Indemnitee") shall (a) provide the Party obliged to indemnify such Indemnitee with prompt written notice of any claim, suit, demand or other action for which such Indemnitee seeks to be reimbursed, indemnified, defended or held harmless (each, a "Claim"), which notice shall include a reasonable identification of the alleged facts giving rise to such Claim; (b) grant such Party reasonable authority and control over the defense and settlement of any such Claim; and (c) reasonably cooperate with such Party and its agents in defense of any such Claim. Each Indemnitee shall have the right to participate in the defense of any Claim for which such Indemnitee seeks to be reimbursed, indemnified, defended or held harmless, by using attorneys of such Indemnitee's choice, at such Indemnitee's expense. Any settlement of a Claim for which any Indemnitee seeks to be reimbursed, indemnified, defended or held harmless under this Article shall be subject to the prior written approval of such Indemnitee, such approval not to be unreasonably withheld, conditioned or delayed.
+
+     15.7 ESSENTIAL PART OF BARGAIN. The Parties acknowledge that the disclaimers and limitations set forth in this Article 15  [DISCLAIMER OF WARRANTY, LIMITATION OF LI...] are an essential element of this Agreement between the Parties and that the Parties would not have entered into this Agreement without such disclaimers and limitations.
+
+16. MISCELLANEOUS
+
+     16.1 GOVERNING LAW. This Agreement shall be governed by and interpreted under the laws of the Commonwealth of Pennsylvania without regard to its conflicts of law provisions.
+
+     16.2 NO ASSIGNMENT. Except as otherwise set forth herein, neither Party shall transfer, assign or cede any rights or delegate any obligations hereunder, in whole or in part, whether voluntarily or by operation of law, without the prior written consent of the other Party, which consent may be withheld at the other Party's reasonable business discretion; provided, however, that either Party may transfer this Agreement without prior written consent of the other Party to an Affiliate or in connection with a merger or sale of all or substantially all of the stock or assets of such Party.
+
+     16.3 GOOD FAITH. The Parties undertake to display to each other the utmost good faith, consistent with their respective rights and obligations set forth in this Agreement.
+
+                                    22    23
+
+     16.4 INDEPENDENT CONTRACTORS. In connection with this Agreement, each Party is an independent contractor. This Agreement does not, and shall not be construed to, create an employer-employee, agency, joint venture or partnership relationship between the Parties. Neither Party shall have any authority to act
+
+Source: NEOFORMA INC, S-1/A, 12/2/1999
+
+
+
+
+
+for or to bind the other Party in any way, to alter any of the terms or conditions of any of the other Party's standard forms of invoices, sales agreements, warranties or otherwise, or to warrant or to execute agreements on behalf of the other or to represent that it is in any way responsible for the acts, debts, liabilities or omissions of the other Party.
+
+     16.5 NOTICES. All notices, reports, payments and other communications required or permitted to be given under this Agreement (each, a "Notice") shall be in writing and shall be given either by personal delivery against a signed receipt, by express delivery using a nationally recognized overnight courier, or by facsimile. All Notices shall be properly addressed as follows, or to such other addresses as may be specified in a Notice given hereunder:
+
+If to VerticalNet:                          with a copy to:
+
+  Attn: General Counsel                       Attn: Mario V. Shaffer      VerticalNet, Inc.                           VerticalNet, Inc.      700 Dresher Road, Suite 100                 700 Dresher Road, Suite 100      Horsham, Pennsylvania 19044                 Horsham, Pennsylvania 19044      Fax No.: (215) 443-3336                     Fax No.: (215) 784-1960
+
+If to Neoforma:                             with a copy to:
+
+  Attn: Chief Financial Officer               Attn: Ralph M. Pais, Esq.      Neoforma, Inc.                              Fenwick & West LLP      3255-7 Scott Boulevard                      Two Palo Alto Square      Santa Clara, CA 95054                       Palo Alto, CA 94306      Fax No.: 408-549-6211                       Fax No.: 650-494-1417
+
+A Notice shall be deemed to be effective upon personal delivery or, if sent via overnight delivery, upon receipt thereof. A Notice sent via facsimile is deemed effective on the same day (or if such day is not a business day, then on the next succeeding business day) if such facsimile is sent before 5:00 p.m. Philadelphia time and on the next day (or if such day is not a business day, then on the next succeeding business day) if such Notice is sent after 5:00 p.m. Philadelphia time.
+
+     16.6 AMENDMENT OR MODIFICATION. No subsequent amendment, modification or waiver of any of the provisions of this Agreement shall be effective unless in writing and signed by the Parties.
+
+     16.7 ENTIRE AGREEMENT. This Agreement sets out the entire agreement between the Parties with respect to the subject matter of this Agreement and supersedes all prior agreements, proposals, arrangements and communications, whether oral or written, with respect to the subject matter hereof.
+
+                                    23    24
+
+     16.8 SEVERABILITY. If any provision of this Agreement is held by a tribunal of competent jurisdiction to be illegal, invalid, or otherwise unenforceable in any jurisdiction, then to the fullest extent permitted by law (a) the same shall not effect the other terms or provisions of this Agreement, (b) such term or provision shall be deemed modified to the extent necessary in the tribunal's opinion to render such term or provision enforceable, and the rights and obligations of the Parties shall be construed and enforced accordingly, preserving to the fullest extent the intent and agreements of the Parties set forth herein and (c) such finding of invalidity, illegality or unenforceability shall not affect the validity, legality or enforceability of such term or provision in any other jurisdiction.
+
+     16.9 NO WAIVER. Failure to enforce any term of this Agreement is not a waiver of future enforcement of that or any other term. No term or provision of this Agreement will be deemed waived and no breach excused unless such waiver or excuse is in writing and signed by the Party against whom enforcement of such waiver or excuse is sought.
+
+     16.10 SURVIVAL. Sections 10.7  [PAYMENT TERMS]-10.10  [INTEREST], 11.3  [UPON TERMINATION] and 12-16; any payment obligations of the Parties hereunder accruing prior to the date of termination; and any other provision herein expressly surviving termination or necessary to interpret the rights and obligations of the Parties in connection with the termination of the term of this Agreement will survive the termination or expiration of this Agreement.
+
+     16.11 NO THIRD PARTY BENEFICIARIES. Nothing in this Agreement is intended to confer benefits, rights or remedies unto any person or entity other than the Parties and their permitted successors and assigns.
+
+     16.12 WAIVER OF JURY TRIAL. Each Party hereby irrevocably waives all rights a Party may have to a trial by jury in any legal action or proceeding arising out of or in connection with this Agreement or the transactions contemplated hereby.
+
+     16.13 TITLES. The headings appearing at the beginning of the Sections contained in this Agreement have been inserted for identification and reference purposes only and shall not be used to determine the construction or interpretation of this Agreement. The nomenclature of the defined terms in this Agreement shall only be used for the construction of this Agreement, and are not to be used for any other purpose, including, but not limited to, interpretation for accounting purposes.
+
+     16.14 FORCE MAJEURE. Neither Party shall be held to be in breach of this Agreement by reason of a force majeure event, including, but not limited to, act of God, delay in transportation, fire, flood, earthquake, storm, war, act of a public enemy, civil commotion or any law, rule, regulation, order or other action by any public authority or any other matter reasonably beyond a Party's control. To the extent failure to perform is caused by such a force majeure event, such Party shall be excused from performance hereunder so long as such event continues to prevent such performance, and provided the non-performing Party takes all reasonable steps to resume full performance.
+
+     16.15 COMPLIANCE WITH LAWS. Each Party shall comply with all prevailing laws, rules and regulations and obtain all necessary approvals, consents and permits required by the applicable
+
+                                    24    25
+
+Source: NEOFORMA INC, S-1/A, 12/2/1999
+
+
+
+
+
+agencies of the government of the jurisdictions that apply to its activities or obligations under this Agreement.
+
+     16.16 EXECUTION IN COUNTERPARTS, FACSIMILES. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original and all of which together shall constitute one and the same instrument. This Agreement shall become binding when any one or more counterparts hereof, individually or taken together, bear the signatures of both Parties hereto. For the purposes hereof, a facsimile copy of this Agreement, including the signature pages hereto, shall be deemed an original.
+
+        [The remainder of this page is intentionally left blank.]
+
+                                    25    26
+
+IN WITNESS WHEREOF, the Parties to the Agreement by their duly authorized representatives have executed this Agreement as of the date first written above.
+
+VERTICALNET, INC.                           NEOFORMA.COM, INC.
+
+By: /s/ MARIA V. SHAFFER                    By: /s/ FREDERICK RUEGSEGGER    --------------------------------            ---------------------------------    Maria V. Shaffer    Vice President, Business Development      and International                      Title:  CFO                                                   ------------------------------
+
+27
+
+                                                                    EXHIBIT A
+
+CATEGORIES OF LABORATORY PRODUCTS
+
+PRODUCT GROUPING               PRODUCT CLASSIFICATION         POINTS TO - ----------------               ----------------------         ---------                                                          Analytical Instruments         Analytical Inst-other          Analytical Inst-other Analytical Instruments         Atomic Absorption              Atomic Absorption Analytical Instruments         Balances                       Balances Analytical Instruments         Chemistry Analyzers            Chemistry Analyzers Analytical Instruments         Chrom-Data                     Chrom-Data Analytical Instruments         Chrom-GC                       Chrom-GC Analytical Instruments         Chrom-HPLC                     Chrom-HPLC Analytical Instruments         Chrom-Other                    Chrom-Other Analytical Instruments         Chrom-TLC                      Chrom-TLC Analytical Instruments         Colorimeter                    Colorimeter Analytical Instruments         Computer Equipment             Computer Equipment Analytical Instruments         Electron Microscope            Electron Microscope Analytical Instruments         Electronics - Lab              Electronics - Lab Analytical Instruments         Elemental Analysis             Elemental Analysis Analytical Instruments         Infrared                       IR/UVVIS/XRAY Analytical Instruments         Mass Spectrometer              Mass Spectrometer Analytical Instruments         Particle Size                  Particle Size Analytical Instruments         pH / ISE                       pH / ISE Analytical Instruments         Physical Property Test         Physical Property Test Analytical Instruments         Polarimeter                    Polarimeter Analytical Instruments         Spectrophotometer              Spectrophotometer Analytical Instruments         Temperature Equip              Temperature Equip Analytical Instruments         Titrators                      Titrators Analytical Instruments         Universal Tester               Universal Tester Analytical Instruments         UV / VIS                       IR/UVVIS/XRAY Analytical Instruments         Viscometer                     Viscometer Analytical Instruments         X-Ray                          IR/UVVIS/XRAY Biotechnology                  Biotech-other                  Biotech-other Biotechnology                  Electrophoresis                Electrophoresis Biotechnology                  Fermenters                     Fermenters Biotechnology                  Microplates                    Microplates Biotechnology                  Molecular Biology              Molecular Biology Biotechnology                  Scintillation Counters         Scintillation Counters Clinical Laboratory            Clinical Lab - Other           Clinical Lab - Other Clinical Laboratory            Blood / Gas Analyzers          Blood / Gas Analyzers Clinical Laboratory            Blood Collection               Blood Collection Clinical Laboratory            Clinical Chemistry Analyzer    Clinical Chemistry Analyzer Clinical Laboratory            Hematology                     Hematology Clinical Laboratory            Medical Equipment              Medical Equipment Clinical Laboratory            Microbiology                   Microbiology
+
+28
+
+                                                      Clinical Laboratory            Other Body Fluid Analyzer      Other Body Fluid Analyzer Clinical Laboratory            Slide Stainers                 Histology Glassware                      Beakers                        Beakers Glassware                      Bottles                        Bottles Glassware                      Condensers                     Condensers Glassware                      Flasks                         Flasks Glassware                      Funnels                        Funnels Glassware                      Glass-other                    Glass-other Glassware                      Tubes                          Tubes Glassware                      Vials                          Vials Lab Equipment                  Animal Care                    Animal Care Lab Equipment                  Antiques                       Antiques Lab Equipment                  Autoclaves                     Autoclaves Lab Equipment                  Baths, Water/Oil/Dry           Baths, Water/Oil/Dry Lab Equipment                  Books/Manuals                  Books/Manuals
+
+Source: NEOFORMA INC, S-1/A, 12/2/1999
+
+
+
+
+
+Lab Equipment                  Centrifuge                     Centrifuge Lab Equipment                  Chillers                       Chillers Lab Equipment                  Cleaners                       Cleaners Lab Equipment                  Critical Environments          Critical Environments Lab Equipment                  Digesters                      Digesters/Mixers Lab Equipment                  Environmental Chambers         Environmental Chambers Lab Equipment                  Evaporators                    Evaporators Lab Equipment                  Filtration                     Filtration Lab Equipment                  Fraction Collectors            Fraction Collectors Lab Equipment                  Freeze Dry/Lyoph               Freeze Dry/Lyoph Lab Equipment                  Freezers / Refrigerators       Freezers / Refrigerators Lab Equipment                  Fume Hoods                     Fume Hoods Lab Equipment                  Furnaces                       Furnaces Lab Equipment                  Furniture - Lab                Furniture - Lab Lab Equipment                  Glove Boxes                    Glove Boxes Lab Equipment                  Heating Apparatus              Heating Apparatus Lab Equipment                  Histology                      Histology Lab Equipment                  Hotplates / Stirrers           Hotplates / Stirrers Lab Equipment                  Incubators                     Incubators Lab Equipment                  Lab Equipment - Other          Lab Equipment - Other Lab Equipment                  Liquid Handling / Pipettors    Liquid Handling / Pipettors Lab Equipment                  Metallurgical                  Metallurgical Lab Equipment                  Microtomes                     Histology Lab Equipment                  Mixers                         Digesters/Mixers Lab Equipment                  Mobile Lab                     Mobile Lab Lab Equipment                  Motors                         Motors Lab Equipment                  Optics                         Optics Lab Equipment                  Ovens                          Ovens Lab Equipment                  Petroleum Lab                  Petroleum Lab Lab Equipment                  Pharmaceutical                 Pharmaceutical Lab Equipment                  Photography                    Photography
+
+29
+
+                                                      Lab Equipment                  Process / Pilot                Process / Pilot Lab Equipment                  Pumps                          Pumps Lab Equipment                  Radioactivity                  Radioactivity Lab Equipment                  Recorders                      Recorders Lab Equipment                  Regulators / Gauges            Regulators / Gauges Lab Equipment                  Robotics                       Robotics Lab Equipment                  Safety                         Safety Lab Equipment                  Semi-Conductor                 Semi-Conductor Lab Equipment                  Shakers                        Shakers Lab Equipment                  Stirrers / Hotplates           Stirrers / Hotplates Lab Equipment                  Vacuum                         Vacuum Lab Equipment                  Valves / Fittings              Valves / Fittings Lab Equipment                  Water Purification             Water Purification LabSupplies                    Chemicals                      Chemicals LabSupplies                    Plasticware                    Plasticware LabSupplies                    Supplies                       Supplies Microscopes                    Image Analysis                 Image Analysis Microscopes                    Microscope Accessories         Microscope Accessories Microscopes                    Microscope Parts               Microscope Parts Microscopes                    Microscopes                    Microscopes Test/Measurement               Multimeter                     Multimeter Test/Measurement               Oscilloscopes                  Oscilloscopes Test/Measurement               Power Supply                   Power Supply Test/Measurement               Test/Meas-other                Test/Meas-other Test/Measurement               Timers/Controllers             Timers/Controllers Test/Measurement               Volt/Amp/Ohm Meters            Volt/Amp/Ohm Meters
+
+30
+
+                                                                    EXHIBIT B
+
+31
+
+                     [GRAPHIC OF WEB PAGE -- Features]
+
+32
+
+                                                                    EXHIBIT C
+
+33
+
+               [GRAPHIC OF WEB PAGE -- Vertical Side Pages]
+
+34
+
+                  [GRAPHIC OF WEB PAGE -- Specialty Shop]
+
+35
+
+                                                                    EXHIBIT D
+
+LABORATORY PRODUCT LISTING TEMPLATE PRODUCT LISTING TEMPLATE
+
+A Microsoft Excel Spreadsheet containing the following columns:
+
+Source: NEOFORMA INC, S-1/A, 12/2/1999
+
+
+
+
+
+- ----------- ----------- -------------- ---------- ---------------------- ----------- ----------- NAME        CATEGORY    MFG/BRAND      MODEL #    ORIGINAL ITEM PRICE    HEIGHT      WEIGHT - ----------- ----------- -------------- ---------- ---------------------- ----------- -----------                                                                     NAME        CATG        FLDA           FLDB       FLDC                   FLDD        FLDE - ----------- ----------- -------------- ---------- ---------------------- ----------- -----------
+
+- ------------- ----------- -------------- ---------------- ------------------- ------------------ CAPACITY      QUANTITY    STARTING BID   RESERVE PRICE    BID INCREMENTS(1)   START DATE/TIME(2) - ------------- ----------- -------------- ---------------- ------------------- ------------------                                                                 FLDG          QNTY        MINB           RSRV             INCR                STRT - ------------- ----------- -------------- ---------------- ------------------- ------------------
+
+(1) default is [*] (2) default is today
+
+- --------------- -------- -------------- -------- ----------- ---------------- ------------------ DURATION(3)     ITEM #   APPROX. AGE    SKU      LOCATION    SALESPERSON      DESCRIPTION - --------------- -------- -------------- -------- ----------- ---------------- ------------------                                                              DAYE            FLD1     FLD2           FLDF     FLDH        FLDI             DESC - --------------- -------- -------------- -------- ----------- ---------------- ------------------
+
+(3) default is 7 days
+
+- --------------- --------------------- -------- ----------- ------------------ ------------------ SELLER ID#      IMAGE LOCATION - --------------- --------------------- -------- ----------- ------------------ ------------------                                                                 SELL            IMAG - --------------- --------------------- -------- ----------- ------------------ ------------------
+
+*Certain information on this page has been omitted and filed separately with the  Commission. Confidential treatment has been requested with respect to the  omitted portions.    36
+
+This page describes each of the fields used in the Excel spreadsheet for bulk uploads. Please put details in the spreadsheet named Bulk Upload Spreadsheet. It is very important that you do not change the field names or their order on the spreadsheet.
+
+             - ----------------------------------------------------------------------------------------------- NAME*             The title by which you want the item called. i.e. Sartorius Microbalance.                   This field is 60 characters long but more details will fit in the                   description section. The name needs to be descriptive and distinct. There                   cannot be two items with the same name. Add a delineating feature such as                   model number or size to the name. - ----------------------------------------------------------------------------------------------- CATEGORY*         This field requires a number not word. See the enclosed list. If you do not                   find a category that fits your product, please contact us. We can add                   categories. - ----------------------------------------------------------------------------------------------- MFG/BRAND         Manufacturer or brand name - ----------------------------------------------------------------------------------------------- MODEL #           Model number - ----------------------------------------------------------------------------------------------- ORIGINAL ITEM     If known, this can be an incentive to buyers who then see your lower price. PRICE - ----------------------------------------------------------------------------------------------- HEIGHT            Include feet or inches. - ----------------------------------------------------------------------------------------------- WEIGHT            Include pounds or ounces. - ----------------------------------------------------------------------------------------------- CAPACITY          Specific information about the equipment i.e. "x" gallons/hr, "y"                   sheets/minute, etc. - ----------------------------------------------------------------------------------------------- QUANTITY*         This field requires only a number not each, case, etc. - ----------------------------------------------------------------------------------------------- STARTING          BID* This is the amount at which the bidding will start. It                   should be lower than your reserve price, if you set one.                   Please use whole dollars. - ----------------------------------------------------------------------------------------------- RESERVE PRICE     This is the amount you wish to receive for your product. If you set a                   reserve price, your item cannot be sold for less than the reserve. Please                   use whole dollars. - ----------------------------------------------------------------------------------------------- BID               INCREMENTS* $5 is the default, but feel free to change this to                   reflect your product's price using whole dollars. - ----------------------------------------------------------------------------------------------- START             DATE/TIME* This field must be filled out like the following                   example: 04/08/99 15:00 (MM/DD/YY 24:mm) A start time must be                   included. - ----------------------------------------------------------------------------------------------- DURATION*         The default for this field is 7 days. The options are 1, 3, 5, 7, 21 and 30. - ----------------------------------------------------------------------------------------------- ITEM #            Catalog number if the product came from a manufacturer's or distributor's                   catalog - ----------------------------------------------------------------------------------------------- APPROX. AGE       New, used, demo, reconditioned - ----------------------------------------------------------------------------------------------- SKU               Each, box, case
+
+Source: NEOFORMA INC, S-1/A, 12/2/1999
+
+
+
+
+
+- ----------------------------------------------------------------------------------------------- LOCATION          Where the equipment is currently located/resides. - ----------------------------------------------------------------------------------------------- SALESPERSON       For PaperExchange.com internal tracking. - ----------------------------------------------------------------------------------------------- DESCRIPTION       This field is only 1250 characters long. Use basic writing format here.                   Complete sentences are desired rather than a list of features. If you copy                   and paste from an outside source, please check to see that                   there are no tabs or returns in the paragraph. - ----------------------------------------------------------------------------------------------- SELLER ID#*       This is your six-digit ID number you received when you registered. - ----------------------------------------------------------------------------------------------- IMAGE             LOCATION A picture of your item is very helpful in selling                   your item and will greatly enhance its listing appearance. The                   picture needs to be in JPEG or GIF format. You can send these                   on a separate disk or email if desired. Please enclose a list                   delineating which picture goes with which item. - -----------------------------------------------------------------------------------------------                   *  indicates required fields
+
+               ** indicates fields with fieldnames to be determined and whose position                   within the columns is to be determined
+
+37
+
+                                                                    EXHIBIT E
+
+FORM OF CO-BRANDED CAREER CENTER
+
+        [GRAPHIC OF WEB PAGE -- the global healthcare marketplace]
+
+38
+
+                                                                    EXHIBIT F
+
+FORM OF CO-BRANDED TRAINING AND EDUCATION CENTER
+
+        [GRAPHIC OF WEB PAGE -- the global healthcare marketplace]
+
+Source: NEOFORMA INC, S-1/A, 12/2/1999

@@ -1,0 +1,475 @@
+Exhibit 10.4
+
+Execution Version
+
+GAS TRANSPORTATION AGREEMENT
+
+This Gas Transportation Agreement (this "Agreement") is hereby made and entered into on the 14t h day of April, 2015 (the "Effective Date") by and between PennTex North Louisiana Operating, LLC, a Delaware limited liability company ("Transporter"), and MRD Operating LLC, a Delaware limited liability company ("Customer"). Hereinafter, Transporter and Customer may sometimes be referred to collectively as the "Parties" and individually as a "Party."
+
+WITNESSETH
+
+WHEREAS, Transporter owns and operates a natural gas transportation system and related facilities; and
+
+WHEREAS, Customer owns or controls, and has the right, to deliver Gas (as hereinafter defined) for transportation and desires to have Transporter provide such service under the terms and conditions of this Agreement.
+
+NOW, THEREFORE, in consideration of the premises and the mutual covenants herein contained, the Parties covenant and agree as follows:
+
+Article I. Definitions
+
+For the purposes of this Agreement, the following definitions have the meanings as set forth below:
+
+"Affiliate" shall mean, when used with respect to any Person, any other Person that, directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with such Person. For this purpose, "control" of any Person shall mean the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of such Person, by ownership of voting interest, by contract or otherwise. For the purposes of this Agreement, (i) with respect to PennTex Midstream Partners, LLC and its subsidiaries, the term "Affiliate" shall exclude Memorial Resource Development Corp. and each of its subsidiaries and (ii) with respect to Memorial Resource Development Corp. and its subsidiaries, the term "Affiliate" shall exclude PennTex Midstream Partners, LLC and each of its subsidiaries.
+
+"AMI/MEA Agreement" shall mean that certain Amended and Restated Area of Mutual Interest and Midstream Exclusivity Agreement dated April 14, 2015 among PennTex North Louisiana, LLC, Customer, PennTex NLA Holdings, LLC and MRD WHR LA Midstream LLC, as such agreement may be amended, supplemented or otherwise modified from time to time.
+
+"Btu" shall mean one British thermal unit, the amount of heat required to raise the temperature of one pound of water one degree Fahrenheit at standard reference conditions.
+
+"Business Day" shall mean any day (other than a Saturday or Sunday) on which commercial banking institutions in Houston, Texas are generally open for business.
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015
+
+
+
+
+
+"Cash-out Price" shall have the meaning set forth for such term in Article IV.
+
+"Central Clock Time" shall mean the current time in the Central Time Zone taking into consideration the seasonal changes back and forth between Daylight Savings and Standard time.
+
+"Commencement Date" shall be the first day of the Month following the date Transporter notifies Customer that (i) the Transportation System is operational to the extent necessary to commence commercial service with respect to the receipt of Customer Gas at the Point of Receipt at the tailgate of the Lincoln Parish Plant and delivery of such Gas to the Points of Delivery located downstream of the Lincoln Parish Plant, (ii) the Lincoln Parish Plant is operational to the extent necessary to commence commercial service with respect to the receipt and processing of Customer Gas, and (iii) the Points of Delivery listed on Exhibit A that are owned by Transporter or its Affiliate are operational and all necessary interconnect agreements with Interconnecting Pipelines necessary to deliver Gas to such Points of Delivery are in effect to the extent necessary to commence commercial service with respect to the delivery (but, for the avoidance of doubt, not the further downstream transportation) of Customer's Gas. Transporter will not be responsible for delays to the Commencement Date due to the action or inaction of Customer or Third Party Operators.
+
+"Commencement Date Facilities" shall have the meaning given to such term in Article II.
+
+"Contract Year" shall mean a period commencing at 9:00 a.m., Central Clock Time, on the Commencement Date and ending at 9:00 a.m., Central Clock Time on the same day and calendar month of the following calendar year and thereafter for succeeding periods of twelve (12) consecutive Months each.
+
+"Customer" shall have the meaning given to such term in the preamble of this Agreement.
+
+"Customer's Firm Service Gas" shall mean, an amount of Customer Gas equal to 400,000 MMBtu per Day; provided, however, (y) Customer's Firm Service Gas shall be increased by the additional amount of Transportation System capacity provided pursuant to a New Facility, and (z) if any Plant described in clause (iii) of the definition of "Plants" exists, Customer's Firm Service Gas shall be increased by the amount of Gas Customer is committed to deliver to such Plant.
+
+"Customer Gas" shall mean Gas delivered by or on behalf of Customer for transportation on the Transportation System pursuant to this Agreement.
+
+"Day" or "Daily" shall mean a period of hours, commencing at 9:00 a.m., Central Clock Time, on a calendar day and ending at 9:00 a.m., Central Clock Time, on the next succeeding calendar day.
+
+"Default Interest Rate" shall mean the U.S. Prime Rate (as published in the "Money Rates" table of The Wall Street Journal, Eastern Edition) applicable on the first Business Day prior to the due date of payment and thereafter on the first Business Day of each succeeding calendar month (or, if such rate exceeds the maximum permissible rate under applicable law, the maximum rate permitted by such applicable law).   2
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015
+
+
+
+
+
+"Effective Date" shall have the meaning given to such term in the preamble of this Agreement.
+
+"Equivalent Quantities" shall mean, on any Day, a quantity of Gas (expressed in MMBtu) that has a Thermal Content equal to the Thermal Content of Customer Gas received from Customer at the Points of Receipt on that Day, less the Thermal Content of System Fuel & LUAF allocated to such Customer Gas for such Day.
+
+"Firm Service" shall mean service for which Transporter is contractually entitled to interrupt its performance only to the extent (i) that such performance is excused pursuant to the provisions of this Agreement relating to Force Majeure, (ii) of specified periods of maintenance, or (iii) that Transporter determines that the operation of all or any portion of its facilities will cause injury or harm to persons or property or to the integrity of its facilities, and with respect to each of (i), (ii) or (iii), only to the extent that Transporter has curtailed all service of the same priority on a pro rata basis in accordance with Article V.
+
+"Firm Service Gas" shall mean all Gas entitled to Firm Service on the Transportation System, including, without limitation, Customer's Firm Service Gas.
+
+"Force Majeure" shall have the meaning given to such term in Article X.
+
+"Gas" shall mean any mixture of gaseous hydrocarbons, consisting essentially of methane and heavier hydrocarbons and inert and noncombustible gases that are extracted from the subsurface of the earth.
+
+"Governmental Authority" shall mean any federal, state, local, municipal, tribal or other government; any governmental, regulatory or administrative agency, commission, body or other authority or entitled to any administrative, executive, judicial, legislative, regulatory or taxing authority or power; and any court or governmental tribunal, including any tribal authority having or asserting jurisdiction.
+
+"Gross Heating Value" shall mean the number of Btus produced by the complete combustion in air, at constant pressure of one (1) cubic foot of Gas, at a base temperature of sixty degrees Fahrenheit (60°F) and at a reference pressure base equal to 14.65 psia, with air of the temperature and pressure of the Gas, after the products of combustion are cooled to the initial temperature of the Gas, and after the air and water formed by the combustion is condensed to the liquid state. The gross heating value of the Gas shall be corrected for water vapor under testing conditions to the actual water vapor content of the Gas being delivered; provided, however, if the actual water vapor content is seven (7) pounds per 1,000,000 standard cubic feet of Gas or less, the Gas shall be deemed "dry" and no water vapor correction shall be made.
+
+"Imbalance" shall have the meaning set forth for such term in Article IV.
+
+"Interconnecting Pipelines" means any pipeline connected to the Transportation System for the further transportation of Gas downstream of the Transportation System.   3
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015
+
+
+
+
+
+"Interruptible Service" shall mean service for which Transporter is contractually entitled to interrupt its performance for any reason, including, without limitation, (i) the overall demand for services in the applicable facilities exceeding Transporter's capacity therein, (ii) an event of force majeure, (iii) maintenance or (iv) Transporter determines that the operation of all or any portion of its facilities will cause injury or harm to persons or property or to the integrity of its facilities.
+
+"Interruptible Service Gas" shall mean all Gas received by Transporter into the Transportation System that is not Firm Service Gas.
+
+"Lincoln Parish Plant" shall mean Transporter's gas processing plant located in Lincoln Parish, Louisiana.
+
+"Mcf" shall mean one thousand cubic feet of Gas at standard base conditions of 60°F and 14.73 psia.
+
+"Measurement Facility" shall mean the valves, fittings, piping, meters, transmitters and other associated measurement equipment located at a Point of Receipt or a Point of Delivery which provides custody transfer volumes. "Measurement Facilities" shall mean, collectively, each such Measurement Facility.
+
+"MMBtu" shall mean one million (1,000,000) Btus.
+
+"Month" or "Monthly" shall mean a period of time beginning at 9:00 a.m., Central Clock Time on the first Day of the calendar month and ending at 9:00 a.m., Central Clock Time on the first Day of the next succeeding calendar month.
+
+"Mount Olive Plant" shall mean Transporter's gas processing plant located in Mount Olive, Lincoln Parish, Louisiana that is Transporter's next gas processing plant constructed after the Lincoln Parish Plant.
+
+"Negative Imbalance" shall have the meaning set forth for such term in Article IV.
+
+"New Facility" shall have the meaning set forth for such term in Article II.
+
+"Parties" shall have the meaning given to such term in the preamble of this Agreement.
+
+"Party" shall have the meaning given to such term in the preamble of this Agreement.
+
+"Performance Assurance" shall have the meaning given to such term in Article XIV.
+
+"Person" shall mean any individual or any corporation, company, partnership, limited partnership, limited liability company, trust, estate, Governmental Authority or other entity.
+
+"Plants" shall mean (i) the Lincoln Parish Plant, (ii) the Mount Olive Plant and (iii) any other gas processing plant owned by Transporter or its Affiliate that is capable of receiving Customer Gas and redelivering such Gas to the Transportation System.   4
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015
+
+
+
+
+
+"Point of Delivery" shall mean the custody transfer meter at the outlet of Transporter's facilities at the point of interconnection between the Transportation System and Interconnecting Pipelines or other facilities. "Points of Delivery" shall mean, collectively, each Point of Delivery. As of the Effective Date, the Points of Delivery, and the maximum available capacity thereof, are set forth on Exhibit B.
+
+"Point of Receipt" shall mean each custody transfer meter at the tailgate of the Plants from which Customer Gas is received into the Transportation System. "Points of Receipt" shall mean, collectively, each Point of Receipt. As of the Effective Date, the Points of Receipt, and the maximum available capacity thereof, are set forth on Exhibit B.
+
+"Positive Imbalance" shall have the meaning set forth for such term in Article IV.
+
+"Service Type" shall mean the type of service provided for Gas delivered hereunder, either Firm Service or Interruptible Service.
+
+"Services" shall mean the transportation and, if applicable, compression services provided by Transporter to Customer hereunder.
+
+"System Fuel & LUAF" shall mean, for any period of calculation, (i) Customer's share of Gas or fuel equivalents (electricity or other energy sources converted to their Btu equivalent) used by Transporter to deliver Customer's Gas from the Point(s) of Receipt to the Point(s) of Delivery on the Transportation System during such period, and (ii) Gas lost and unaccounted for on the Transportation System during such period.
+
+"Taxes" shall mean any or all current or future taxes, fees, levies, charges, assessments and/or other impositions levied, charged, imposed, assessed or collected by any Governmental Authority having jurisdiction. For the avoidance of doubt, the term "Taxes" shall not include any current or future taxes, fees, levies, charges, assessments and/or other impositions levied, charged, imposed, assessed or collected with respect to the Transportation System or any of Transporter's other facilities, including without limitation, Transporter's natural gas processing plants.
+
+"Term" shall have the meaning given to such term in Article XV.
+
+"Thermal Content" means, with respect to Gas, the product of (i) a volume of Gas and (ii) the Gross Heating Value of such Gas, adjusted to a same pressure base of 14.73 psia, as expressed in MMBtus.
+
+"Third Party Operator" means an operator of a pipeline or other facility upstream or downstream of the Transportation System, other than Transporter or its Affiliates.
+
+"Transportation Fee" shall have the meaning given such term in Article VIII.
+
+"Transportation System" shall mean the Commencement Date Facilities and all other equipment, devices, Measurement Facilities, pipelines and other facilities owned or operated by Transporter at or downstream of the Points of Receipt, necessary to receive Customer Gas at the Points of Receipt for transport to the Points of Delivery, and all additions, modifications, alterations, replacements, extensions, or expansions made thereto by Transporter from time to time, including, without limitation, any New Facilities pursuant to Article II hereof.   5
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015
+
+
+
+
+
+"Transporter" shall have the meaning given to such term in the preamble of this Agreement.
+
+Article II. Dedication, Commencement Date Facilities, Post-Commencement Date Facilities and Transporter Services
+
+Dedication. During the Term, subject to the terms of the AMI/MEA Agreement, Customer dedicates and commits to this Agreement, and shall deliver or cause to be delivered to the Transportation System for transportation hereunder, all of Customer's owned or controlled residue Gas delivered from any of the Plants. Notwithstanding anything in this Agreement to the contrary, it is acknowledged and agreed that there is no minimum amount of residue Gas that must be delivered to the Transportation System hereunder; accordingly, Customer shall not have any liability (financial or otherwise) for failure to deliver any particular quantity of residue Gas to Transporter; provided, however, the foregoing sentence shall not reduce or eliminate Customer's obligation to pay the fees provided herein to the extent Services are provided hereunder.
+
+Commencement Date Facilities. Transporter shall design, engineer, modify, construct and equip, or caused to be designed, engineered, modified, constructed and equipped, the Transportation System, including, without limitation, the facilities and equipment described on Exhibit A attached hereto (the facilities and equipment described on Exhibit A being collectively referred to as the "Commencement Date Facilities").
+
+Post-Commencement Date Facilities.
+
+If after the Commencement Date, Customer requires an addition, modification, alteration, replacement, or expansion of the Transportation System (a "New Facility"), Customer will provide Transporter a written notification of such requested New Facility containing sufficient information for Transporter to estimate the cost to provide such New Facility. Although Transporter shall have no obligation to provide a requested New Facility, Transporter may, in its sole discretion, agree to construct or acquire such New Facility. The commercial terms applicable the construction or acquisition of any New Facility will be determined in accordance with the AMI/MEA Agreement. The Parties agree to make any revisions to this Agreement (including the Exhibits hereto) that are necessary to reflect any New Facility.
+
+Transportation Services. For each Day during the Term, (i) Transporter agrees to provide Firm Service on the Transportation System for Customer Gas delivered to the Transportation System in a quantity not to exceed Customer's Firm Service Gas for such Day, and Interruptible Service for all quantities in excess of Customer's Firm Service Gas for such Day, and deliver to Customer, or for the account of Customer, at the applicable Points of Delivery, Equivalent Quantities of Customer Gas received at the Points of Receipt, and (ii) Customer, or its designee, shall accept such Equivalent Quantities of Customer Gas at the Points of Delivery.   6
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015
+
+
+
+
+
+Notwithstanding anything in this Agreement to the contrary, it is acknowledged and agreed that there is no minimum amount of Customer Gas that must be delivered to the Transportation System hereunder; accordingly, Customer shall not have any liability (financial or otherwise) for failure to deliver any particular quantity of Gas to Transporter; provided, however, the foregoing sentence shall not reduce or eliminate Customer's obligation to pay the fees provided herein.
+
+Article III. Receipt and Delivery Pressures
+
+Pressure at Point of Receipt. Transporter will receive Customer Gas at the prevailing pressure at which such Customer Gas is delivered to the applicable Point of Receipt by the operator of the applicable Plant.
+
+Pressure at Point of Delivery. All Customer Gas delivered by Transporter will be delivered at the prevailing pressures of the Transportation System as may exist from time to time. Transporter shall at no time be required, unless otherwise agreed in writing, to construct New Facilities or modify the Commencement Date Facilities, including by the addition of compression facilities, to effect such delivery, including, but not limited to, instances in which a facility downstream of a Point of Delivery operates at a pressure in excess of the Transportation System working pressure. For the avoidance of doubt, any New Facilities required by Customer to comply with the operating pressure of facilities located downstream of a Point of Delivery shall be subject to the provisions of Article II.
+
+Article IV. Nominations, Confirmations and Imbalances
+
+Nominations. Each Month during the Term, Customer shall give written notice of Customer's nomination to Transporter specifying the average daily quantity of Customer Gas Customer requests be transported during such Month and designate a person who will be responsible for coordinating notices among Customer, Transporter and Third Party Operators in accordance with these procedures. Customer shall furnish such nomination to Transporter by email or other electronic means and such nomination shall specify such information as is necessary in order to perform the Services requested by Customer. If Customer anticipates any material revision to a Monthly nomination it has provided to Transporter, Customer will notify Transporter as promptly as possible. Transporter will transport hereunder as nearly as practicable at uniform hourly and Daily rates of flow unless otherwise mutually agreed by Customer and Transporter.
+
+Unless otherwise mutually agreed by Customer and Transporter, for Customer's initial nomination to be accepted for the first (1st) Day of any Month, Customer's nomination must be received by Transporter by 11:30 a.m. Central Clock Time on the third (3rd) Business Day prior to the last Day of the Month preceding such Month. Customer shall have the right to submit a new nomination or revise its existing nomination for any Day during such Month provided such nomination is received by Transporter prior to 11:30 a.m. Central Clock Time on the Business Day prior to the Day such new or revised nomination is requested to commence. Customer nominations received by Transporter after 11:30 a.m. Central Clock Time on the Business Day prior to the Day such new or revised service is requested to commence, or intraday nominations   7
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015
+
+
+
+
+
+for Gas flowing the same Day, may be accepted by Transporter, in its sole discretion. Such new or revised nomination shall specify Customer's anticipated service requirements for the remainder of the applicable Month.
+
+If Customer is advised by a Third Party Operator to reduce or suspend deliveries of Customer Gas to the Transportation System, Customer shall immediately notify Transporter orally of such reduction or suspension, and shall confirm such notification in writing, and adjust its nominations in order to maintain a balanced position to the extent possible.
+
+Confirmations. All nominations of Customer Gas shall be scheduled and implemented by Transporter on a prospective basis and only to the extent Transporter is able to confirm the receipt and delivery of such Gas with the operator(s) of the Point(s) of Delivery. If a conflict arises between Customer's new or revised nomination and an operator's confirmation, Customer understands and agrees such operator's confirmation shall control. If Customer submits a new or revised nomination to Transporter, Transporter will confirm the scheduled quantity to Customer by 3:00 Central Clock Time on the Business Day prior to the Day such new or revised nomination is requested to commence, except for intraday nominations for Gas flowing the same Day, which Transporter will confirm as soon as reasonably practicable.
+
+Commingling. Although Customer shall retain title to Customer Gas delivered to Transporter hereunder, Customer Gas shall constitute part of the supply of Gas from all sources, and as such, Transporter shall, subject to its obligation to deliver Equivalent Quantities each Day, have the right to commingle Customer Gas with Gas of other customers. Transporter shall allocate Customer's pro rata share of each NGL Component contained in any commingled stream of Gas at any Point(s) of Delivery based on the GPMs of each NGL Component contained in Customer's Gas as measured by chromatograph or other method acceptable in the industry at the Point(s) of Receipt.
+
+Imbalances. The term "Imbalance" means the cumulative difference in a Month between: (i) the quantity of Gas in MMBtu received for the account of Customer at the Point(s) of Receipt, less Customer's System Fuel & LUAF quantity, as applicable, and (ii) the quantity of Gas in MMBtu delivered for the account of Customer at the Point(s) of Delivery. After any adjustment for System Fuel & LUAF, if the Imbalance is the result of receipts at the Point(s) of Receipt exceeding the delivered (or scheduled, as applicable) quantity of Gas for Customer's account at the Point(s) of Delivery, it is a "Positive Imbalance". If the Imbalance is a result of receipts at the Point(s) of Receipt being lower than the delivered quantity of Gas for Customer's account at the Point(s) of Delivery, it is a "Negative Imbalance". Imbalances will be cashed out on a Monthly basis.   8
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015
+
+
+
+
+
+Cash Out. The cash-out settlement price will be the monthly arithmetical average of the prices ("Cash-out Price") as posted in Gas Daily's Daily Price Survey during the Month under the heading "Texas Gas Transmission Corp.," under the column labeled "Index" corresponding to the row labeled "Zone 1." Transporter will pay Customer an amount that is the product of the Positive Imbalance each Month, if any, and the Cash-out Price. Customer will pay Transporter an amount that is the product of the Negative Imbalance each Month, if any, and the Cash-out Price. If the actual monthly volume varies by more than five percent (5%) from the delivered volumes for the Month, then the Cash-out Price will be adjusted as follows:
+
+
+
+1. For Negative Imbalances, the Cash-out Price will be increased by the percentage variance, rounded up to the nearest whole percentage point, between the Point(s) of Delivery volumes and the adjusted Point(s) of Receipt volumes. (i.e., if the adjusted receipt volume from Customer is 7% less than the Point(s) of Delivery volume, then the Index Price will be increased by 7%), however in no event shall the Cash-Out Price be increased more than 10%; and
+
+
+
+2. For Positive Imbalances, the Cash-out Price will be decreased by the percentage variance, rounded up to the nearest whole percentage point, between the Point(s) of Delivery volumes and the adjusted Point(s) of Receipt volumes. (i.e., if the adjusted receipt volume from Customer is 7% greater than the Point(s) of Delivery volume, then the Index Price will be increased by 7%), however in no event shall the Cash-Out Price be increased more than 10%.
+
+Article V. Curtailment
+
+If the quantity of Customer Gas and all other Gas available for delivery into the Transportation System exceeds the capacity of the Transportation System at any point, then Transporter shall interrupt or curtail receipts of Customer Gas with respect to the affected point(s) only in accordance with the following:
+
+(a) First, Transporter shall curtail all Interruptible Service Gas prior to curtailing Firm Service Gas. In the event Transporter curtails some, but not all, Interruptible Service Gas on a particular Day, Transporter shall allocate the capacity of the Transportation System available for Interruptible Service Gas at the affected points on a pro rata basis based upon Customer's last confirmed nomination of Interruptible Service Gas hereunder and the last confirmed nominations of Interruptible Service Gas from all other shippers on the Transportation System prior to the event causing the curtailment.
+
+(b) Second, if additional curtailments are required beyond those described in the immediately preceding clause (a), Transporter shall curtail Firm Service Gas. In the event Transporter curtails some, but not all, Firm Service Gas on a particular Day, Transporter shall allocate the capacity of the Transportation System at the affected point(s) on a pro rata basis based upon Customer's last confirmed nomination of Firm Service Gas hereunder and the last confirmed nominations of Firm Service Gas from all other shippers on the Transportation System prior to the event causing the curtailment.
+
+Transporter shall provide Customer notice of any interruption or curtailment of the receipt of Customer Gas into the Transportation System as is reasonable under the circumstances.
+
+Article VI. Measurement & Testing
+
+The construction, ownership, installation, operation and maintenance of each Measurement Facility that is owned by a Person other than Transporter shall be governed by an interconnect agreement between Transporter and such Person. Each other Measurement Facility shall be constructed, installed, owned, operated and maintained by Transporter.   9
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015
+
+
+
+
+
+Article VII. Gas Quality
+
+Notwithstanding anything to the contrary in this Agreement, Customer Gas received at a Point of Receipt from one of the Plants shall be deemed to be in compliance with the applicable Gas quality specifications of the Transportation System.
+
+Article VIII. Fees, Billing & Payment
+
+Fees.
+
+(a) Transportation Fee. For all Customer Gas received by Transporter at a Point of Receipt and delivered to any Point of Delivery, Customer shall pay Transporter a transportation fee of $0.04 per MMBtu.
+
+(b) Other Services Fees. If Transporter provides any compression Services with respect to Customer Gas delivered hereunder, the fees applicable to such Services shall be as mutually agreed between the Parties. The Parties agree to supplement this Agreement with an addendum or other mutually agreeable modification to memorialize the terms applicable to the provision of any such additional Services.
+
+Invoices and Statements. On or before the fifteenth (15th) calendar Day of each Month, Transporter shall provide to Customer an invoice and statement for the previous Month setting forth the calculation of the net amount due hereunder to Transporter for the Services provided hereunder during such previous Month.
+
+Payment of Statements. Within fifteen (15) calendar Days following receipt of each of Transporter's invoices and statements, Customer shall make payment to Transporter of all undisputed amounts by wire transfer, in accordance with the account information provided to Customer, unless another form of payment is agreed to in writing by the Parties. Should Customer fail to make payment in full of all undisputed amounts within such time period, interest shall accrue on the unpaid balance at the Default Interest Rate or the maximum legal rate, whichever is the lesser, from the date such payment is due until the same is paid. If Customer fails to pay Transporter undisputed amounts due hereunder and such failure is not cured within ten (10) calendar Days' of written notice from Transporter to Customer, Transporter may suspend receipt and delivery of Customer Gas without prejudice to any other available remedies at law or in equity.   10
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015
+
+
+
+
+
+Billing Disputes. If a good faith dispute arises as to any amount payable hereunder, payment shall nevertheless be made when due of the amount not in dispute. Such payment shall not be deemed to be a waiver of the right to recoup any overpayment. If Customer withholds payment of any disputed amount, Customer shall, within seven (7) calendar Days after receipt of the statement for the month to which the disputed amount pertains, submit to Transporter a written explanation of the dispute and any available supporting documentation. The Parties shall then cooperate in good faith to resolve such dispute as expeditiously as possible.
+
+Audit Rights. Each Party or its designated representatives shall, upon reasonable notice to the other Party, have the right, no more frequently than two (2) times per twelve (12) consecutive calendar Months, at its own expense, at reasonable times and during normal business hours, to examine the books and records of such other Party to the extent necessary to verify the accuracy of any statement, charge, computation, or demand made under or pursuant to this Agreement. Each Party agrees to keep its records and books in accordance with generally accepted accounting practices in the oil and gas industry. Each invoice and statement shall be final as to both Parties unless questioned in writing within twenty four (24) Months following the date of such invoice or statement.
+
+Article IX. Notices
+
+Any notice, statement, claim or other communication required or permitted hereunder shall be in writing and shall be sent by: (i) hand delivery; (ii) United States mail with all postage fully prepaid; or (iii) courier with charges paid in accordance with the customary arrangements established by such courier, in each of the foregoing cases addressed to the Party at the following addresses, and shall be deemed given when received by the Party to whom it is addressed. The Parties opt out of electronic delivery of notices and amendments under this Agreement, except as to nominations, scheduling and imbalances, and except that this executed Agreement and executed amendments hereto may be delivered by scanning and emailing.
+
+Transporter:
+
+Notices and Correspondence:
+
+PennTex North Louisiana, LLC c/o PennTex North Louisiana Operating, LLC 11931 Wickchester Lane, Suite 300 Houston, Texas 77043 Attn: Steve Moore E-mail: smoore@penntex.com
+
+Customer:
+
+Notices and Correspondence:
+
+MRD Operating LLC c/o Memorial Resource Development Corp. 500 Dallas Street, Suite 1800 Houston, TX 77002 Attn: General Counsel E-mail: kroane@memorialrd.com   11
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015
+
+
+
+
+
+with a copy to:
+
+Attn: Jeremy Bolander E-mail: Jeremy.bolander@memorialrd.com
+
+Notices of change of address of either of the Parties shall be given in writing to the other Party in the manner aforesaid and shall be observed in the giving of all future notices, statements, payments, claims or other communications required or permitted to be given hereunder.
+
+Article X. Force Majeure
+
+The term "Force Majeure" as used herein shall mean acts of God; strikes, lockouts, or other industrial disturbances; conditions arising from a change in governmental laws, orders, rules, or regulations; acts of public enemy; wars; blockades; insurrections; riots; epidemics; landslides; lightning; earthquakes; fires; storms; floods; washouts; arrests and restraints of governments and people; civil disturbances; explosions; breakage or accident to machinery or lines of pipe; the necessity for making repairs, tests, alterations, or performing maintenance to machinery or lines of pipe; scheduled maintenance; freezing of wells or lines of pipe; partial or entire failure of wells, processing, or gasification and gas manufacturing facilities; orders or directives of, or proceedings initiated by, any Governmental Authority; and any other causes, whether of the kind herein enumerated or otherwise, not within the control of the Party claiming relief hereunder, and which by the exercise of due diligence, such Party is unable to prevent or overcome. Such term shall likewise include those instances (a) where either Transporter or Customer is required to obtain servitudes, rights-of-way, grants, permits or licenses to enable such Party to fulfill its obligations under this Agreement and is unable to acquire or experiences delays in acquiring such servitudes, rights-of-way, grants, permits or licenses, at reasonable costs, and after the exercise of reasonable diligence, and (b) the partial or entire failure or refusal of Third Party Operators to receive or deliver Gas, or increases in pressure of upstream or downstream pipelines. Force Majeure shall not include failure of Gas supply due to pricing considerations.
+
+In the event Transporter or Customer is rendered unable, wholly or in part, by reason of force majeure to carry out its obligations under this Agreement (other than the obligation to make payment of amounts due hereunder, including without limitation, payment of fees due hereunder), it is agreed that such Party shall give notice and reasonably full particulars of such force majeure, in writing, or other electronic means to the other Party within a reasonable time after the occurrence of the cause relied on, and the obligations of the Party giving such notice, so far as they are affected by such force majeure, shall be suspended during the continuance of any inability so caused, but for no longer period, and such cause shall, so far as possible, be remedied with all reasonable dispatch.
+
+It is understood and agreed that the settlement of strikes or lockouts shall be entirely within the discretion of the Party having the difficulty, and that the above requirement that any force majeure shall be remedied with all reasonable dispatch shall not require the settlement of strikes or lockouts by acceding to the demands of the opposing party when such course is inadvisable in the discretion of the Party having the difficulty.   12
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015
+
+
+
+
+
+Article XI. Warranties
+
+Customer warrants to Transporter that at the time Customer Gas is delivered to a Point of Receipt hereunder, Customer will have good title or the right to deliver such Customer Gas, and that such Customer Gas shall be free and clear of all liens and adverse claims, other than statutory liens and liens, encumbrances or claims under credit facilities or other credit arrangements in respect of borrowed money. Customer agrees, with respect to the Customer Gas delivered to Transporter hereunder, to indemnify Transporter against all suits, actions, debts, accounts, damages, costs (including attorney's fees), losses and expenses arising from or out of any adverse claims of any and all persons to or against said Customer Gas other than any lien, claim or encumbrance alleged to have arisen by, through or under Transporter or its Affiliate.
+
+Article XII. Taxes and Surcharges
+
+Customer shall pay, or cause to be paid, all production, severance, gross receipts, ad valorem, and similar Taxes, and all surcharges, levied or imposed on it by any Governmental Authority with respect to Customer Gas. In the event Transporter is required to pay or remit any such Tax or surcharge owed by Customer as a result of Customer Gas being transported on the Transportation System, Customer shall reimburse Transporter for such Tax or surcharge pursuant to Transporter's invoice for the same. Customer hereby agrees to indemnify, defend and hold harmless Transporter from and against any and all claims and losses arising out of or related to such Taxes or surcharges. This indemnity and defense obligation shall survive the expiration or termination of this Agreement. Transporter shall be responsible for all Taxes or surcharges levied or imposed on it by any Governmental Authority with respect to the Transportation System and Transporter's other facilities, including without limitation, Transporter's Gas gathering system, processing plants and Gas liquids pipeline system.
+
+Article XIII. Limitation of Liability & Indemnifications
+
+CUSTOMER SHALL RELEASE, DEFEND, INDEMNIFY AND HOLD HARMLESS TRANSPORTER AND TRANSPORTER'S MEMBERS, DIRECTORS, OFFICERS, AGENTS AND EMPLOYEES FROM AND AGAINST ANY AND ALL SUITS, ACTIONS, CAUSES OF ACTION, CLAIMS, DEMANDS, LOSSES, LIABILITIES AND EXPENSES (INCLUDING, WITHOUT LIMITATION, INTEREST, COURT COSTS, REASONABLE ATTORNEYS' FEES AND EXPENSES, AND OTHER COSTS OF DEFENSE) (COLLECTIVELY, "CLAIMS") RELATING TO, CAUSED BY OR ARISING OUT OF CUSTOMER'S BREACH OF ANY REPRESENTATION, WARRANTY OR COVENANT MADE BY CUSTOMER HEREUNDER, BUT NOT TO THE PROPORTIONATE EXTENT THAT SUCH CLAIM IS CAUSED BY OR RESULTS FROM OR ARISES OUT OF THE GROSS NEGLIGENCE OR WILLFUL MISCONDUCT OF TRANSPORTER.
+
+TRANSPORTER SHALL RELEASE, DEFEND, INDEMNIFY AND HOLD HARMLESS CUSTOMER AND CUSTOMER'S MEMBERS, DIRECTORS, OFFICERS, AGENTS   13
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015
+
+
+
+
+
+AND EMPLOYEES FROM AND AGAINST ANY AND ALL CLAIMS RELATING TO, CAUSED BY OR ARISING OUT OF (I) TRANSPORTER'S BREACH OF ANY REPRESENTATION, WARRANTY OR COVENANT MADE BY TRANSPORTER HEREUNDER, BUT NOT TO THE PROPORTIONATE EXTENT THAT SUCH CLAIM IS CAUSED BY OR RESULTS FROM OR ARISES OUT OF THE GROSS NEGLIGENCE OR WILLFUL MISCONDUCT OF CUSTOMER, AND (II) OPERATIONS CONDUCTED HEREUNDER OR IN CONNECTION HEREWITH BY TRANSPORTER TO THE EXTENT RESULTING FROM THE GROSS NEGLIGENCE OR WILLFUL MISCONDUCT OF TRANSPORTER.
+
+NO PARTY SHALL BE LIABLE FOR CONSEQUENTIAL, INCIDENTAL, PUNITIVE, EXEMPLARY OR INDIRECT DAMAGES, LOST PROFITS OR OTHER BUSINESS INTERRUPTION DAMAGES, BY STATUTE, IN TORT OR CONTRACT, OR OTHERWISE; PROVIDED, HOWEVER, THAT THIS LIMITATION SHALL NOT LIMIT A PARTY'S RIGHT TO RECOVERY HEREUNDER FOR ANY SUCH DAMAGES TO THE EXTENT SUCH PARTY IS REQUIRED TO PAY SUCH DAMAGES TO A THIRD PARTY IN CONNECTION WITH A MATTER FOR WHICH SUCH PARTY IS OTHERWISE ENTITLED TO INDEMNIFICATION HEREUNDER. THE LIMITATIONS IMPOSED ON REMEDIES AND THE MEASURE OF DAMAGES SHALL BE WITHOUT REGARD TO THE CAUSE OR CAUSES RELATED THERETO, INCLUDING THE NEGLIGENCE OF ANY PARTY, WHETHER SUCH NEGLIGENCE BE SOLE, JOINT OR CONCURRENT, OR ACTIVE OR PASSIVE.
+
+Article XIV. Creditworthiness
+
+If Customer has failed to pay any amount when due under this Agreement and if such non-payment is not being disputed in good faith by Customer, Transporter shall have the right to request and receive from Customer adequate assurance of performance ("Performance Assurance") which shall mean credit support in a form reasonably acceptable to Transporter and in an amount and for the term reasonably acceptable to Transporter. Any of the following shall be an acceptable form of credit support:
+
+(a) An irrevocable standby letter of credit from a bank satisfactory to Transporter;
+
+(b) Provide a prepayment or a deposit in advance of the Month in which Services hereunder are to be provided; or
+
+(c) A performance bond issued by a Person satisfactory to Transporter.
+
+If the credit of Customer's guarantor is satisfactory in Transporter's opinion, a demand for Performance Assurance can be satisfied with a guarantee issued on behalf of Customer in a form acceptable to Transporter, but only for as long as the credit of Customer's guarantor continues to be acceptable to Transporter. Transporter acknowledges and agrees that Memorial Resource Development Corp. is a satisfactory guarantor.
+
+Should Customer or its guarantor fail to provide Performance Assurance within ten (10) Business Days after receipt of written demand for such assurance, then Transporter shall have the right to suspend performance under this Agreement until such time as Customer furnishes Performance Assurance. For the avoidance of doubt, such suspension of performance by Transporter shall not relieve Customer of its obligation to make payments of amounts due hereunder, including, without limitation, payment of fees due hereunder.   14
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015
+
+
+
+
+
+If during the Term, if Transporter has failed to pay any amount when due under this Agreement and if such non-payment is not being disputed in good faith by Transporter, Customer shall have the right to request and receive from Transporter adequate Performance Assurance under similar terms and conditions as described above, including the right to suspend performance under this Agreement until such time as Transporter furnishes Performance Assurance.
+
+Article XV. Miscellaneous
+
+Entire Agreement. This Agreement, including any exhibits and attachments, constitutes the entire agreement between the Parties pertaining to the subject matter hereof, supersedes all prior agreements, understandings, negotiations and discussions, whether oral or written, of the Parties with respect thereto, and may not be amended or modified except by a written instrument signed by both Parties expressly identifying it as an amendment or modification hereof.
+
+Waiver. Any failure by either Party to comply with any of its obligations, agreements or conditions herein contained may only be waived in writing in an instrument specifically identified as a waiver and signed by the Party to whom such compliance is owed. No waiver of, or consent to a change in, any provision of this Agreement shall be deemed or shall constitute a waiver of, or consent to a change in, any other provisions hereof, nor shall such waiver constitute a continuing waiver unless expressly provided in the waiver.
+
+No Third Party Beneficiaries. Except for Persons indemnified hereunder, this Agreement is not for the benefit of any third party and nothing herein, expressed or implied, confers any right or remedy upon any Person not a party hereto other than Persons which become successors or assigns pursuant the provisions hereof.
+
+No Partnership. It is not the intention of the Parties to create, nor is there created hereby, a partnership, trust, joint venture or association. The status of each Party hereunder is solely that of an independent contractor.
+
+Published Indices. Unless expressly provided otherwise herein, if any published price index referred to in this Agreement ceases to be published, the Parties shall mutually agree to an alternative published price index representative of the published price index referred to in this Agreement.
+
+Headings. The headings and captions in this Agreement have been inserted for convenience of reference only and shall not define or limit any of the terms and provisions hereof.
+
+Governing Law. This Agreement is entered into in the State of Texas and shall be governed, interpreted and construed in accordance with the laws of the State of Texas without regard to the conflicts of laws provisions thereof. Exclusive venue for any suit, action or proceeding brought by either Party in connection with this Agreement or arising out of the terms or conditions hereof shall be in the state or federal courts situated in Harris County, Texas.   15
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015
+
+
+
+
+
+Agreement Subject to Laws. This Agreement is subject to all applicable state and federal laws and to all applicable orders, rules, and regulations of any Governmental Authority having jurisdiction. If either Party is ordered or required to do any act inconsistent with the provisions of this Agreement, then this Agreement shall continue nevertheless and shall be deemed modified to conform to the requirements of such law or regulation.
+
+Restrictions on Assignment. This Agreement may not be assigned, disposed of, alienated or otherwise transferred by either Party, in whole or in part, without the prior written consent of the other Party, which consent shall not be unreasonably withheld, conditioned or delayed, except as provided below.
+
+Permitted Assignments. Notwithstanding the foregoing, (i) either Party may assign this Agreement to an Affiliate of such Party without the consent of the other Party, (ii) either Party may pledge this Agreement to secure any credit facility or indebtedness of such Party or its Affiliates without the consent of the other Party, (iii) Transporter may assign this Agreement without Customer's consent in connection with the sale or transfer of the Transportation System, and (iv) Customer may assign or partially assign this Agreement without Transporter's consent in connection with the sale or transfer of all or part of Customer's ownership interests in the wells (or in the lands upon which such wells are located) producing Customer Gas delivered hereunder, provided that such assignee has a credit rating reasonably acceptable to Transporter at the time of such sale or transfer. In the case of transfers under clause (iv) above, the transferor shall be released from its obligations and liabilities under this Agreement to the extent of the obligations assumed by the transferee, provided that Customer's and such transferee's combined obligations to Transporter shall be no greater than Customer's obligations to Transporter prior to such transfer.
+
+Reports to Governmental Authorities. Neither Party represents or warrants that any information it may furnish to the other Party under the provisions of this Agreement will satisfy any of the requirements that may be imposed by any applicable state or federal laws and by any applicable orders, rules, and regulations of any Governmental Authorities having jurisdiction. Further, neither Party assumes the responsibility for the making of any reports to any Governmental Authorities that are required to be made by or on behalf of the other Party.
+
+Severability. The invalidity of any one or more provisions of this Agreement will not affect the validity of this Agreement as a whole, and in case of any such invalidity, this Agreement will be construed as if the invalid provision had not been included herein so long as the economic and legal substance of the transactions contemplated by this Agreement is not affected in any manner materially adverse to any Party. Upon such determination that one or more provisions of this Agreement are invalid, the Parties shall negotiate in good faith to modify this Agreement so as to effect the original intent of the Parties as closely as possible in an acceptable manner to the end that the transactions contemplated hereby are fulfilled to the extent possible.
+
+Expenses. Each Party shall pay its own legal fees and other costs and expenses incurred by it in connection with the execution and delivery of this Agreement.   16
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015
+
+
+
+
+
+No Inducements. No director, employee, or agent of any Party shall give or receive any commission, fee, rebate, gift, or entertainment of significant cost or value in connection with this Agreement.
+
+Counterpart Execution. This Agreement may be executed in any number of counterparts, each of which shall be considered an original, and all of which shall be considered one and the same instrument. Any signature delivered by a Party electronically shall be deemed an original signature.
+
+Term and Termination. This Agreement shall commence on the Effective Date and continue in full force and effect until the end of the fifteenth (15th) Contract Year, and shall continue in full force and effect thereafter until terminated by either Party by providing thirty (30) calendar days' prior written notice of termination to the other Party (such fifteen (15) Contract Year period, as may be further extended as provided herein is referred to as the "Term").
+
+Survival. The respective indemnification obligations of the Parties set forth in this Agreement shall survive the expiration of the Term and any termination of this Agreement.
+
+[Signature Page Follows]   17
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015
+
+
+
+
+
+This Agreement is executed by the authorized representatives of the Parties set forth below, to be effective as of the Effective Date.   CUSTOMER:
+
+MRD OPERATING LLC
+
+By: MEMORIAL RESOURCE DEVELOPMENT CORP., its sole member
+
+By: /s/ Kyle Roane Name: Kyle N. Roane Title: Senior Vice President
+
+TRANSPORTER:
+
+PENNTEX NORTH LOUISIANA OPERATING, LLC
+
+By: /s/ Robert O. Bond Name: Robert O. Bond Title: Chief Operating Officer
+
+Signature Page to Gas Transportation Agreement
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015
+
+
+
+
+
+Exhibit A Commencement Date Facilities
+
+Pipeline Facilities
+
+  •   0.9 miles of 24" pipeline between the Lincoln Parish Plant and the Points of Delivery below
+
+  •   12 miles of 24" pipeline between the Mount Olive Plant and the Points of Delivery below (such facilities will be placed in service afterthe Commencement Date in conjunction with the Mount Olive Plant)
+
+Points of Delivery
+
+  •   RIGS
+
+  •   Cardinal Arcadia Storage (owned by Transporter or its Affiliate)
+
+Points of Receipt
+
+  •   Lincoln Parish Plant (owned by Transporter or its Affiliate)
+
+  •   Mount Olive Plant (owned by Transporter or its Affiliate)
+
+Miscellaneous Appurtenant Facilities (launchers/receivers, etc.)   Exhibit A
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015
+
+
+
+
+
+Exhibit B
+
+I. Points of Delivery
+
+Receipt Point Name   Transporter's Meter #   Parish/State
+
+Maximum Volume* (in Mcf/d) RIGS Bratton Camp   10012   Lincoln Parish, LA   up to 400,000 Cardinal Arcadia Storage Bratton Camp   10011   Lincoln Parish, LA   up to 200,000
+
+II. Points of Receipt
+
+Delivery Point Name   Transporter's Meter #   Parish/State
+
+Maximum Volume* (in Mcf/d) PennTex Lincoln Parish Plant   10010   Lincoln Parish, LA   up to 200,000 PennTex Mount Olive Plant   TBD   Lincoln Parish, LA   up to 200,000   * Subject to increased Maximum Volume capacity in accordance with any future expansion of an applicable Measurement Facility.
+
+Exhibit B
+
+Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015

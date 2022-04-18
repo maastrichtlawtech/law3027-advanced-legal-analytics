@@ -1,0 +1,603 @@
+EXHIBIT 10.47
+
+               MANIFEST SYSTEM SERVICES AND CO-BRANDING AGREEMENT                --------------------------------------------------
+
+     This Manifest System Services and Co-Branding Agreement ("Agreement") is                                                                --------- made and entered into as of April 27, 1999 (the "Effective Date"), by and                                                  -------------- between iShip.com, Inc., a Washington corporation (the "Company"), and Mail                                                         ------- Boxes Etc. USA, Inc., a California corporation ("MBE").                                                  ---
+
+                                    RECITALS                                     --------
+
+     A.  The Company has developed an Internet-based shipping system.
+
+     B.  MBE wishes to have the Company provide an Internet-based service based on the Company's Internet-based shipping system and the MBE retail manifest system to the MBE Centers (as defined below) for use in manifesting and shipping customer packages, all subject to the terms and conditions set forth in this Agreement.
+
+     C.  The Company and MBE desire to engage in certain co-branding activities on the Internet so as to allow customers of MBE Centers to use the Company's Internet-based shipping system in a convenient manner and to list the MBE Centers as drop-off locations and retail shipping centers.
+
+     D.  In connection with the services to be provided hereunder, the Company desires to issue to MBE a warrant to purchase up to One million three hundred thirty three thousand three hundred thirty three (1,333,333) shares (as determined pursuant to the terms of the Warrant) of Series B Preferred Stock of the Company substantially in the form attached hereto as Exhibit A (the                                                          --------- "Warrant").  -------                                     AGREEMENT                                     ---------
+
+1.   Definitions.      -----------
+
+     The following terms are defined for the purposes of this Agreement as follows:
+
+     (a) "Acceptance" shall mean MBE's acknowledgment pursuant to Section 2           ---------- below that (i) access to the Service has been granted, and (ii) the Service functions in accordance with the Specifications.
+
+     (b) "Authorized Equipment" shall mean the particular type of computer           -------------------- equipment and the specifications thereof set forth in Exhibit B attached hereto                                                       --------- on which the Service is intended to be accessed and used by the MBE Centers.
+
+     (c) "Brand Features" means each party's respective trademarks, trade names,           -------------- service marks, service names and distinct brand elements that appear from time to time in each party's properties, ventures and services worldwide and are protected under U.S. copyright law or as to which each party has established trademarks or trade dress rights and any modifications to the foregoing that may be created during the term of this Agreement.
+
+     (d) "Brand Guidelines" means the guidelines, if any, for use of the Brand           ---------------- Features, which may be prescribed by each party from time to time during the term of this Agreement.
+
+     (e) "Bounty Customer" shall mean any Company Internet Customer or Third           --------------- Party/Company Customer.
+
+     (f) "Company Internet Customer" shall have the meaning set forth on Exhibit           -------------------------                                      ------- C attached hereto. -
+
+     (g) "Company Site" shall mean the web site or sites of the Company on the           ------------ Internet, one of which is currently located at www.iship.com.                                                -------------
+
+     (h) "Company Technology" shall mean the Internet-based manifest system of
+
+Source: STAMPS.COM INC, 10-Q, 11/14/2000
+
+
+
+
+
+          ------------------ the Company that allows users to, among other things, compare various shipping services, print shipping labels and/or track shipments using the Internet.
+
+     (i) "Confidential Information" shall mean the Service Documentation, the           ------------------------ Specifications and any information disclosed by one party to the other pursuant to this Agreement that is in written, graphic, machine readable or other tangible form and is marked "Confidential," "Proprietary" or in some other manner to indicate its confidential nature, including but not limited to information related to the respective parties' business, products, proposed new products, customers or related information. Confidential Information may also include oral information disclosed by one party to the other pursuant to this Agreement, provided that such information is designated as confidential at the time of disclosure and is reduced to writing by the disclosing party within a reasonable time (not to exceed thirty (30) days) after its oral disclosure, and such writing is marked in a manner to indicate its confidential nature and delivered to the receiving party.
+
+     (j) "eBay Customer" shall have the meaning set forth on Exhibit C.           -------------                                      ---------
+
+     (k) "In-Center Customer" shall have the meaning set forth on Exhibit C.           ------------------                                      ---------
+
+     (l) "Intellectual Property Rights" means all rights in and to trade           ---------------------------- secrets, patents, copyrights, trademarks, know-how, as well as moral rights and similar rights of any type under the laws of any governmental authority, domestic or foreign, including rights in and to all applications and registrations relating to any of the foregoing.
+
+     (m) "Link" means a URL hidden behind a formatting option that may take the           ---- form of a colored item of text (such as a URL description), logo or image, and which allows a user to automatically move to or between web pages or web sites.
+
+     (n) "Listings" shall mean the listing of the names, addresses, pricing and           -------- other identifying information of each MBE Center which is a party to a Subscription Agreement (as defined in Section 3(b)  [Service]).
+
+     (o) "Manifest" means the exclusive MBE retail manifest system to be           -------- developed by the parties hereto in accordance with the Specifications.
+
+                                      -2-
+
+     (p) "MBE Center" shall mean each franchise of MBE operating a franchise           ---------- retail outlet within the United States which enters into a Subscription Agreement.
+
+     (q) "MBE-Generated Customer" shall mean any In-Center Customer, Remote           ---------------------- Self-Service Customer or MBE Internet Customer.
+
+     (r) "MBE Internet Customer" shall have the meaning set forth on Exhibit C.           ---------------------                                      ---------
+
+     (s) "MBE Sites" shall mean the web sites operated by MBE on the Internet           --------- during the term of this Agreement, including but not limited to the websites currently located at www.mbe.com and www.mbeonline.com.
+
+     (t) "Remote Self-Service Customer" shall have the meaning set forth on           ---------------------------- Exhibit C. ---------
+
+     (u) "Specifications" shall mean the specifications for the Manifest set           -------------- forth on Exhibit D, as updated from time to time during the term of this          --------- Agreement in accordance with the terms of this Agreement.
+
+     (v) "Stations" shall mean the retail manifest shipping stations within each           -------- MBE Center and the remote off-site manifest shipping stations, in each case within the United States, of any MBE Center utilizing Authorized Equipment.
+
+     (w) "Service" shall mean the combination of the Company Technology and the           ------- Manifest.
+
+     (x) "Service Documentation" shall mean all manuals, instructions or other           ---------------------
+
+Source: STAMPS.COM INC, 10-Q, 11/14/2000
+
+
+
+
+
+information provided by the Company to MBE or MBE Centers which directly relate to the functionality and operation of the Service.
+
+     (y) "Third Party/Company Customer" shall have the meaning set forth on           ---------------------------- Exhibit C. ---------
+
+     (z) "Third Party/MBE Customer" shall have the meaning set forth on           ------------------------ Exhibit C. ---------
+
+     (aa) "Update" shall mean any and all bug fixes, error corrections, and            ------ maintenance updates of the Service.
+
+2.   Development, Delivery and Acceptance.      ------------------------------------
+
+     (a) Development License. Each party hereby grants to the other party a          ------------------- [***]* (except as provided in Section 18(b)  [Assignment]("Assignment")), [***]* (with no  ---                                                         --- right to sublicense except as set forth below) under all of its Intellectual Property Rights to use, reproduce, modify, and create derivative works of each party's preexisting Intellectual Property Rights solely as is reasonably and actually necessary to complete the development of the Service. Each party may grant sublicenses to contractors or subcontractors it engages to work on the Service, provided
+
+----------      *  Confidential treatment has been requested for the bracketed portion. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+                                      -3-
+
+that any such subcontractor has entered into an enforceable agreement reasonably acceptable to the other party relating to the assignment of Intellectual Property Rights.
+
+     (b) Delivery. The Company shall use its commercially reasonable best          -------- efforts to complete the design of the Manifest and the Service in a timely and professional manner consistent with commercial software industry standards on or before August 1, 1999 and deliver the URL and the access codes or passwords necessary to use the Service to MBE and each subscribing MBE Center on or before September 1, 1999. MBE and MBE Centers shall provide any assistance reasonably requested by the Company in connection with completing such design and effecting such delivery. The parties shall cooperate to implement a beta roll-out of the Service in approximately 100 Designated Locations of MBE Centers selected by mutual agreement of the Company and MBE on or before September 1, 1999, and thereafter shall mutually agree on a plan to make the Service available to all MBE Centers by no later than October 1, 1999.
+
+     (c) Inspection. Following the completion of the beta roll-out and testing          ---------- of the Service, MBE shall have a period of twenty (20) business days to undertake inspection and testing of the Manifest to determine conformance with applicable Specifications. The Company shall provide any assistance reasonably requested by MBE in assessing such conformance. If MBE finds that any part of the Manifest does not conform with the applicable Specifications, MBE shall, within the inspection period, notify the Company and provide a detailed written description of such nonconformance. Following confirmation by the Company of such nonconformance, the Company will alter the Manifest within a reasonable time to correct such nonconformance.
+
+     (d) Acceptance. Upon verification by MBE that the Manifest conform with the          ---------- Specifications in all material respects, or if MBE fails to notify the Company within the twenty (20) business day inspection period, the Service shall be deemed Accepted. MBE's sole remedy for correction of problems after Acceptance shall be under the Warranties set forth in Section 11.
+
+3.   Provision of Service.      --------------------
+
+     (a) Scope of Agreement. Any Service Documentation provided to MBE and/or          ------------------ MBE Centers by the Company shall be subject to all terms and conditions of this Agreement. All use of and access to the Service by MBE and all MBE Centers shall also be subject to all terms and conditions of this Agreement.
+
+     (b) Service. The Company will operate the Service at its network operating          -------
+
+Source: STAMPS.COM INC, 10-Q, 11/14/2000
+
+
+
+
+
+center. The Company shall bear all costs associated with the network operating center, including without limitation hardware and software, networking equipment and bandwidth charges, redundant storage and/or mirroring across multiple geographic locations, and maintenance; provided, however, that Company and MBE                                        --------  ------- shall each pay one-half of the costs and expenses associated with transmitting information and data from the servers maintained or used by the Company to the VSAT network hub, including hardware and backhaul circuits. The Company will make the Service available to MBE Centers via one or more secure Internet sites. Each MBE Center approved by MBE that wishes to participate in the Service shall enter into a Subscription Agreement with the Company in a form to be mutually agreed upon by the parties, which form
+
+                                      -4-
+
+shall include appropriate obligations of the MBE Centers as set forth in this Agreement (the "Subscription Agreement"). MBE agrees to use its commercially                 ---------------------- reasonable best efforts to facilitate the execution of a Subscription Agreement by each participating MBE Center within a reasonable amount of time after the Effective Date. The Company hereby grants the MBE Centers a [***]* under all of                                                              --- Company's Intellectual Property Rights solely to access and use the Service in accordance with the terms and conditions of this Agreement and the Subscription Agreement.
+
+     (c) Authorized Equipment. Each MBE Center shall be responsible for          -------------------- obtaining, installing and maintaining the Authorized Equipment at its sole cost and expense. The Subscription Agreement shall provide that an MBE Center that accesses or uses the Service on any hardware or other equipment, or in conjunction with any software, that does not constitute Authorized Equipment does so as its own risk, and the Company shall not be liable for any failure of the Service on hardware or other equipment, or in conjunction with any software, that does not constitute Authorized Equipment.
+
+     (d) Exclusivity          -----------
+
+         (i)   The Company shall not enter into any agreement or arrangement,      including without limitation any sale, license, service agreement,      co-branding agreement, co-marketing agreement or linking agreement with any      provider of manifesting or shipping services through non-carrier retail      shipping locations; provided, however, that:
+
+               (A) the Company may provide listings of carrier drop-boxes or      carrier-owned counter drop-off locations specific to a particular carrier      (including, without limitation, locations within retail establishments) on      the Company Site, provided that such listings do not include retail      shipping locations, including UPS authorized shipping outlets, FedEx      authorized shipping centers and other commercial mail receiving agencies;      and
+
+               (B) the Company may enter into any such agreement or arrangement      so long as MBE is given advance written notice of such agreement or      arrangement and such agreement or arrangement prohibits the use of the      Manifest or any Company Technology to manifest or ship packages for retail      customers and provided further that Company terminates service to any such      entity that uses the Manifest or any Company Technology to serve retail      customers.
+
+         (ii)  MBE shall not enter into any agreement or arrangement with any      provider of an online or Internet-based manifest system other than the      Company.
+
+         (iii) The Company may, at its option, terminate the exclusivity      provisions set forth in this Section 3(d)  [Exclusivity] upon the occurrence of any of the      following events: (A) MBE
+
+----------      *  Confidential treatment has been requested for the bracketed portion. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+                                      -5-
+
+     and all MBE Centers together fail to ship at least [***]* packages                                                          ---      manifested by the Service in any period of three (3) full months commencing      on the earlier of (x) March 1, 2000, and (y) the use of the Service to      manifest packages by at least [***]* MBE Centers (other than any such                                     ---      failure which is directly caused by an event of force majeure (as set forth      in Section 18(e)  [Force Majeure] or by the failure of the Service to operate in accordance      with the Specifications or by the Company's breach of any of its      obligations hereunder), or (B) MBE ceases to own at least [***]* shares of
+
+Source: STAMPS.COM INC, 10-Q, 11/14/2000
+
+
+
+
+
+                                                                ---      common stock of the Company (calculated on an as-converted basis and as      adjusted for any stock split, stock dividend, recapitalization or similar      transaction).
+
+         (iv)  Beginning 18 months after the Effective Date, MBE may, at its      option, terminate the exclusivity provisions set forth in this Section 3(d)  [Exclusivity]      if (A) MBE and all MBE Centers together fail to ship at least [***]*                                                                     ---      packages manifested by the Service in any three (3) full month period      ending 18 months after the Effective Date and (B) such failure to meet the      volume requirements set forth above is related to the unsatisfactory      performance of the Service as evidenced by written communications from a      commercially significant number of MBE Centers.
+
+4.   Support; Training.      -----------------
+
+     (a) Updates and Service Revisions. The Company will make Updates to the          ----------------------------- Service in accordance with the requirements set forth in the Specifications at no charge for the entire term of this Agreement. Without limiting the foregoing, the Service shall be updated from time to time during the term of this Agreement to include accurate and current (i) Listings and (ii) pricing and service descriptions for each carrier supported by the Manifest, in each case as soon as reasonably practicable following the receipt by the Company of such Listings, pricing and service descriptions. As reasonably necessary, the Company shall update the Specifications to reflect such Updates and shall provide a copy of same to MBE at least once per calendar quarter. If the Company develops additional Intellectual Property Rights that are made available without development charge to other customers of the Company, the Company will also make such Intellectual Property Rights available to MBE without development charge.
+
+     (b) MBE Center Support. MBE shall have the right to designate in writing up          ------------------ to five (5) second-level support personnel individuals and alternates to such individuals as contact persons (the "Contact Persons") (although the parties may                                      --------------- mutually agree to increase such number of Contact Persons to ensure adequate support exists for the MBE Centers) Such Contact Persons shall interface with the MBE Centers with respect to matters relating to the Service and may transmit request assistance and descriptions of problems encountered with the Service to the Company via electronic mail, fax, or overnight mail. The Company will provide telephone support to the Contact Persons at a level and in such a manner as the parties mutually agree to be adequate. The Company shall use reasonable efforts to provide the Contact Persons with answers and solutions to problems encountered by MBE or the MBE Center in the course of MBE's or MBE Centers' normal and proper use of the Service in accordance with the terms and
+
+----------      *  Confidential treatment has been requested for the bracketed portion. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+                                      -6-
+
+conditions of this Agreement. Only the Contact Persons may contact the Company in connection with matters relating to technical support, and the Company shall have no obligation to answer questions or assist MBE or MBE Centers' personnel other than the Contact Persons. The Company shall provide a reasonable amount of training and training materials to the Contact Persons to provide the Contact Persons with information concerning the Service and to assist the Contact Persons in providing support to the MBE Centers and other personnel of MBE. MBE shall take reasonable steps to ensure that MBE Centers and personnel of MBE other than the Contact Persons do not contact the Company directly with respect to issues relating to support of the Service. The Company shall take reasonable steps to provide adequate industry standard support of all Internet users of the Company Site and other sites using the Company Technology. MBE and MBE Centers may refer all support questions relating directly to the Company Site or the Company Technology to the Company in accordance with the foregoing.
+
+5.   Records; Audits.      ---------------
+
+     The Company shall maintain complete and accurate records of the number of packages shipped by the MBE Centers using the Service and all payments due or accrued to the Company by MBE Centers hereunder. MBE shall, at any time during the term of this Agreement, be entitled to audit all such records upon ten (10) days written notice to the Company, in order to confirm the accuracy of such records and conformance with the terms and conditions of this Agreement; provided, however, that no more than one (1) such audit may be conducted in any --------  ------- ninety (90)-day period. Any such audit shall be performed at MBE's expense during the Company's normal business hours; provided, however, that in the event                                             --------  ------- that such audit reveals any non-compliance with any term of this Agreement by the Company, the Company shall bear the cost of such audit.
+
+Source: STAMPS.COM INC, 10-Q, 11/14/2000
+
+
+
+
+
+6.   Additional Development.      ----------------------
+
+     (a) Request for Proposal. From time to time, MBE may request additional          -------------------- custom software or other custom development to be provided by the Company under this Agreement. If MBE has a requirement for a specific enhancement or modification of the Service, MBE will identify to the Company in writing a summary of such requirement (the "Request for Proposal"). Such Request for                                   -------------------- Proposal will provide a description sufficient to enable the Company to determine the general demand for and its plans, if any, to develop the same or similar enhancements or modifications.
+
+     (b) Terms and Conditions. If the Company decides that it has the technical          -------------------- ability to fulfill the Request for Proposal, then the Company will respond to MBE within forty-five (45) days of receiving the Request for Proposal, stating the terms and conditions upon which the Company would be able to undertake such development, including, but not limited to, changes to the Specifications, custom development charges, and a proposed delivery schedule.
+
+     (c) Development and Billing Rates. The Company shall perform such          ----------------------------- development in accordance with the highest professional standards. The cost of such development shall be the Company's standard billing rates then in effect (in addition to reimbursement of any expenses, in accordance with the Company's standard practices), which shall be paid by MBE within thirty (30) days of receipt of an invoice therfor. No additional fees or bounties shall be owed or
+
+                                      -7-
+
+payable in connection with such development, unless such development results in a revenue-generating feature or functionality of the Service which is outside of the scope of the Specifications, in which case the parties shall negotiate in good faith to mutually agree upon a reasonable fee mechanism therefor and/or reimbursement of development expenses. Upon completion of such additional development, the Company shall update the Specifications to reflect such additional development and shall provide a copy of same to MBE.
+
+     (d) Credit. MBE shall receive a credit applicable to such billing rates          ------ (but not to reimbursement of expenses) for any development performed by the Company under this Section 6 equal to [***]* of the total fees paid by MBE and                                        --- all MBE Centers, which credit shall be reflected on a monthly statement by the Company to MBE. Any such credit must be used within twelve (12) months of receipt of payment by the Company.
+
+7.   Ownership.      ---------
+
+     (a) General. The Company will have full and exclusive right, title and          ------- ownership interest in and to the Service and the Specifications and the Intellectual Property Rights therein. The Company is, and shall be, the sole owner of all inventions, discoveries and/or enhancements relating to the Service and the Specifications, including all copies, translations, compilations, partial copies, derivative works and updated works, whether partial or complete and whether or not merged into other program materials and whether in written or unwritten form. Except as authorized by this Agreement (including MBE's right to use the Specifications as set forth in Section 15(d)(iv)  [Effect of Termination]) or as otherwise agreed in writing, MBE and MBE Centers may not, directly, or through any person or entity, in any form or manner, copy, distribute, reproduce, incorporate, use or allow access to the Service or the Specifications, or modify, prepare derivative works of, decompile, reverse engineer, disassemble or otherwise attempt to derive source code or object code from the Service or the Specifications.
+
+     (b) Proprietary Notices. MBE will ensure that all copies of Service          ------------------- Documentation made in accordance with this Agreement will incorporate copyright and other proprietary notices in the same manner that the Company incorporates such notices in the Service or in any manner reasonably requested by the Company, and MBE agree not to delete or modify any such notices incorporated in the Service Documentation in any respect. MBE will also permit the Company to enter any of MBE's premises during regular business hours to inspect the use of the Service in any reasonable manner. The Subscription Agreement shall provide that MBE Centers will comply with the terms of this Section 7(b)  [Proprietary Notices].
+
+     (c) List of Trademarks. Each party (the "Granting Party") hereby grants the          ------------------                   -------------- other party (the "Using Party") a limited license to use its Brand Features in                   ----------- connection with the marketing, distribution, provision of access to, and support of the Service. The Using Party agrees that such Brand Features are the exclusive property of the Granting Party and that all usage of such marks and any goodwill established by the use of such marks shall inure to the benefit of
+
+Source: STAMPS.COM INC, 10-Q, 11/14/2000
+
+
+
+
+
+the Granting Party and that this Agreement does not confer any goodwill or other
+
+----------      *  Confidential treatment has been requested for the bracketed portion. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+                                      -8-
+
+interests in such marks on the Using Party The Using Party will comply with the Granting Party's Brand Guidelines. The Using Party shall provide to the Granting Party examples of any use of the Brand Features of the Granting Party prior to use. The Using Party shall modify or discontinue such use if requested by the Granting Party. Neither party shall adopt or attempt to register any trademark, trade name, or service mark which is confusingly similar to the other party's Brand Features such as "Ship Mailboxes" (and the like).
+
+     (d) Customer Information. The Company and MBE shall jointly own (without          -------------------- duty to account) all customer lists and related customer data gathered through the use of the Service by customers of MBE and MBE Centers ("Customer Data").                                                              ------------- During the term of this Agreement, neither party shall provide any Customer Data to any third party (other than MBE Centers or an affiliate of MBE or the Company) without the prior written consent of the other party The Company shall initially provide the Customer Data to MBE in acceptable electronic format as soon as practicable following the reasonable request of MBE, and, once MBE (at its sole cost and expense) has implemented an appropriate means to warehouse the Customer Data, the parties shall take reasonable steps to transfer all existing Customer Data to MBE and implement a system whereby the Customer Data is automatically downloaded and provided to MBE on a periodic basis. The Company agrees to retain the Customer Data in accordance with the Company's own data retention policies, and in any case for no less than 13 months from the creation of such Customer Data. The Company, MBE, affiliates of the Company and MBE, and the MBE Centers may each use the Customer Data for marketing and other purposes in accordance with a mutually agreed upon privacy policy and in accordance with any mutually agreed upon privacy policy displayed to customers in connection with the Service. Notwithstanding the foregoing, the Company agrees not to use any Customer Data to solicit any MBE-Generated Customers with respect to any services offered by the Company; provided, however, that the Company may use Customer Data to solicit such customers who have a shipping account with a carrier or with respect to services not offered by MBE and the MBE Centers. Notwithstanding the foregoing, MBE agrees not to use any Customer Data in any manner which would reasonably be expected to eliminate any Bounty Package payment to the Company hereunder.
+
+     (e) Reserved Rights. Without limitation of the foregoing, each party          --------------- reserves all rights other than those expressly granted in this Agreement, and no licenses are granted except as expressly set forth herein.
+
+     (f) Notices. Each party agrees to display mutually agreeable trademark and          ------- copyright notices or legends of the other party when using such other party's Brand Features. Each party shall in advance submit to the other party the proposed placement of such notices or legends (including, without limitation, the place and manner of incorporation into electronic media or transmissions), and such other party shall have the right, acting reasonably, to approve the same.
+
+8.   Payments; Taxes.      ---------------
+
+     (a) Basic Fee. In consideration for the Service provided hereunder, for          --------- each package shipped utilizing the Service (other than a package which is shipped first class by the U.S. Postal
+
+                                      -9-
+
+Service), the Company shall be entitled to receive the amount of [***]* (the                                                                   --- "Basic Fee"). MBE agrees to use its commercially reasonable efforts to execute  --------- agreements, or to facilitate the execution of agreements among the appropriate parties, so that such Basic Fee is paid to the Company directly from the carrier which ships such package no later than fifteen (15) days following the end of the month in which such package was shipped. If MBE is unable, despite its commercially reasonable efforts, to facilitate the execution of such an agreement with one or more carriers, the Basic Fee shall be paid by each MBE Center directly pursuant to the terms of the Subscription Agreement.
+
+     (b) Bounty Fee. In further consideration for the Service and the other          ---------- obligations of the Company hereunder, for each package shipped by or through an MBE Center by a Bounty Customer who pays the shipping rates charged by such MBE
+
+Source: STAMPS.COM INC, 10-Q, 11/14/2000
+
+
+
+
+
+Center, ("Bounty Package"), the Company shall be entitled to receive the           -------------- following amounts (the "Bounty Fee") from each such MBE Center, for Bounty                         ---------- Packages shipped during each calendar month:
+
+         (i)   in the event that less than [***]* Bounty Packages shall have                                             --- been shipped by the MBE Centers during the twelve (12) full months prior to the shipping of such Bounty Package (or, if such information is not yet available for the month prior to the month in which such Bounty Package is shipped, the most recent twelve (12) full months for which such information is available) (the "Measurement Period"), the amount of [***]* per Bounty Package shipped via       ------------------                   --- air transportation and the amount of [***]* per Bounty Package shipped via                                       --- ground transportation;
+
+         (ii)  in the event that at least [***]* but less than [***]* Bounty                                            ---                  --- Packages have been shipped by the MBE Centers during the Measurement Period, the amount of [***]* per Bounty Package shipped via air transportation and the            --- amount of [***]* per Bounty Package shipped via ground transportation;            ---
+
+         (iii) in the event that at least [***]* but less than [***]* Bounty                                            ---                  --- Packages shall have been shipped by the MBE Centers during the Measurement Period, the amount of [***]* per Bounty Package shipped via air transportation                        --- and the amount of [***]* per Bounty Package shipped via ground transportation;                    --- and
+
+         (iv)  in the event that at least [***]* Bounty Packages shall have been                                            --- shipped by the MBE Centers during the Measurement Period, the amount of [***]*                                                                          --- per Bounty Package shipped via air transportation and the amount of [***]* per                                                                      --- Bounty Package shipped via ground transportation.
+
+     (c) eBay Fee. In further consideration for the Service and the other          -------- obligations of the Company hereunder, for each package shipped by or through an MBE Center by an eBay Customer ("eBay Package"), the Company shall be entitled                                  ------------ to receive the following amounts from such MBE Center for eBay Packages shipped during each calendar month, in each case
+
+----------      *  Confidential treatment has been requested for the bracketed portion. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+                                      -10-
+
+after deduction of the lesser of (x) [***]* and (y) the amount paid or to be                                       --- paid by such eBay Customer directly to the Company with respect to the shipment of such package (the "eBay Fee"):                       --------
+
+         (i)   in the event that at least [***]* but less than [***]* eBay                                            ---                  --- Packages have been shipped by MBE and the MBE Centers during the Measurement Period, the amount of [***]* per eBay Package shipped via air transportation and                        --- the amount of [***]* per eBay Package shipped via ground transportation;                ---
+
+         (ii)  in the event that at least [***]* but less than [***]* eBay                                            ---                  --- Packages shall have been shipped by the MBE Centers during the Measurement Period, the amount of [***]* per eBay Package shipped via air transportation and                        --- the amount of [***]* per eBay Package shipped via ground transportation; and                ---
+
+         (iii) in the event that at least [***]* eBay Packages shall have been                                            --- shipped by the MBE Centers during the Measurement Period, the amount of [***]*                                                                          --- per eBay Package shipped via air transportation and the amount of [***]* per                                                                    --- eBay Package shipped via ground transportation.
+
+Source: STAMPS.COM INC, 10-Q, 11/14/2000
+
+
+
+
+
+     (d) Payment Cycle. The Company shall bill and collect all amounts due to          ------------- the MBE Centers for Bounty Packages and eBay Packages from each Bounty Customer or eBay Customer, as the case may be, by processing credit card transactions over the Internet. The Company shall pay such amounts, less the relevant Bounty Fee or eBay Fee then in effect, to MBE on the next business day or as soon as reasonably practicable (but in any event within one week) following the shipment date of each package, and MBE agrees to distribute such amounts to the MBE Centers. At the Company's option, Bounty Customers or eBay Customers may also be entitled to pay directly for the shipment of such Bounty Package or eBay Package at MBE Centers, and the Company shall be entitled to deduct the relevant Bounty Fee or eBay Fee then in effect from any payments due to such MBE Center for shipment of Bounty Packages, eBay Packages or otherwise.
+
+     (e) Right of Offset. In the event of any default in payment by an MBE          --------------- Center under this Section 8 which continues uncured for a period of thirty (30) days, in addition to any rights or remedies which the Company may have at law or equity or pursuant to this Agreement, the Company shall have the right (but not the obligation) to (i) terminate providing the Service to such MBE Center and (ii) offset any amounts owed to the Company by such MBE Center from any payments owed to such MBE Center by the Company.
+
+     (f) Taxes. MBE shall pay or reimburse the Company for all taxes, duties and          ----- assessments imposed on MBE or the Company in connection with the license or use of the Service by MBE under this Agreement, including without limitation all sales, use, excise and other taxes and duties, excluding only taxes based upon the Company's net income. MBE shall
+
+----------      *  Confidential treatment has been requested for the bracketed portion. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+                                      -11-
+
+hold the Company harmless from all claims and liability arising from MBE's failure to report or pay any such taxes, duties and assessments.
+
+     (g) [***]*           ---
+
+     (h) Independent MBE Centers. Notwithstanding any other provision of this          ----------------------- Agreement, Company acknowledges and agrees that each participating MBE Center is an independently owned and operated franchise and that MBE is not responsible for any debts or acts or omissions of its franchisees. Each use by an MBE Center of the Service shall be pursuant to the terms and conditions of a Subscription Agreement and each participating MBE Center shall be responsible for paying to Company any charges incurred. Company further acknowledges that each participating MBE Center may choose to make the Service (or some portion thereof) available to customers of MBE Centers.
+
+9.   Co-Marketing Obligations.      ------------------------
+
+     (a) Listings. MBE shall supply and regularly update the Listings, and the          -------- Company shall include the Listings in the Company Site and shall use commercially reasonable best efforts to include such Listings on other third party web sites utilizing the Company Technology.
+
+     (b) Mutual Links. During the term of this Agreement, each party will ensure          ------------ that the relevant pages in each party's website will include Links to the other party's site(s). Without limiting the foregoing, and within the first three (3) months following the Effective Date, the Company shall assist MBE at no additional charge in developing a series of Links between the MBE Site and the Company Site. The purpose of such Links shall be to allow MBE Internet Customers to access certain agreed-upon features provided by the Company Site. At a minimum, such functionality shall be equivalent to that provided by the Company Site to public Internet users. As mutually agreed upon by the parties, the parties may place advertising banners promoting their products and services on appropriate pages of the other party's website.
+
+     (c) Marketing and Public Relations. So long as such activities are in          ------------------------------ compliance with MBE Brand Guidelines then in effect (i) the Company shall display the logo of MBE on the Company Site and identify MBE as the exclusive retail shipping partner of the Company, (ii) to the extent reasonably practicable, the Company shall include the logo of MBE on every carrier or shipping label generated pursuant to this Agreement and (iii) the parties agree to use reasonable efforts to cooperate to develop a co-branded Company/MBE logo to display on Internet-generated shipping labels generated pursuant to this Agreement.
+
+Source: STAMPS.COM INC, 10-Q, 11/14/2000
+
+
+
+
+
+10.  Confidential Information.      ------------------------
+
+     (a) Limited Access. MBE and MBE Centers agree not to provide or otherwise          -------------- make available any Service Documentation or other Confidential Information of the Company to any person other than employees, consultants, contractors or agents of MBE and MBE Centers with a
+
+----------      *  Confidential treatment has been requested for the bracketed portion. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+                                      -12-
+
+need to use such Service Documentation or Confidential Information in accordance with the terms of this Agreement.
+
+     (b) Confidentiality. Each party shall treat as confidential all          --------------- Confidential Information of the other party, shall not use such Confidential Information except as set forth in this Agreement, and shall use reasonable efforts not to disclose such Confidential Information to any third party. Without limiting the foregoing, each of the parties shall use at least the same degree of care which it uses to prevent the disclosure of its own confidential information of like importance to prevent the disclosure of Confidential Information disclosed to it by the other party under this Agreement. Each party shall promptly notify the other party of any actual or suspected misuse or unauthorized disclosure of the other party's Confidential Information.
+
+     (c) Exceptions. Each party agrees not to disclose or otherwise make such          ---------- Confidential Information available to third parties without the other party's prior written consent except to the extent that the Confidential Information (i) was in the public domain at the time it was disclosed or has entered the public domain through no fault of such party, (ii) was known to such party, without restriction, at the time of disclosure, as demonstrated by files in existence at the time of disclosure, (iii) is disclosed with the prior written approval of the other party, (iv) was independently developed by such party without any use of Confidential Information, (v) became known to such party, without restriction, from a source other than the other party without breach of this Agreement by such party and otherwise not in violation of the other party's rights, (vi) is required to be disclosed under securities laws or (vii) is disclosed pursuant to the order or requirement of a court, administrative agency, or other governmental body; provided, however, that such party shall use                                     --------  ------- all reasonable efforts to provide prompt, written, and sufficient advance notice thereof to the other party to enable the other party to seek a protective order or otherwise prevent or restrict such disclosure. Each party agrees that to take appropriate action by instruction, agreement, or otherwise with its employees, agents and representatives to satisfy such party's obligations under this Agreement with respect to use, copying, modification, protection and security of Confidential Information.
+
+     (d) Return of Confidential Information. Upon expiration or termination of          ---------------------------------- this Agreement, each party shall return all Confidential Information received from the other party.
+
+     (e) Confidentiality of Agreement. Each party shall be entitled to disclose          ---------------------------- the existence of this Agreement, but agrees that the terms and conditions of this Agreement shall be treated as Confidential Information and shall not be disclosed to any third party; provided, however, that each party may disclose                               --------  ------- the terms and conditions of this Agreement; (i) as required by any court or other governmental body; (ii) as otherwise required by law, (iii) to legal counsel of the parties; (iv) in confidence, to accountants, banks, and financing sources and their advisors; (v) in connection with the enforcement of this Agreement or rights under this Agreement; or (vi) in confidence, in connection with an actual or proposed merger, acquisition, or similar transaction.
+
+11.  Representations, Warranties and Covenants.      -----------------------------------------
+
+     (a) Warranty. Company represents and warrants that during the term of this          -------- Agreement the Service shall confirm to its specifications and the Specifications in all material
+
+                                      -13-
+
+respects, provided that the Service is properly used in accordance with the terms of this Agreement and the Subscription Agreement, and shall not contain a higher number of, or more serious errors, than would be expected by a reasonable
+
+Source: STAMPS.COM INC, 10-Q, 11/14/2000
+
+
+
+
+
+commercial user of a service similar to the Service.
+
+     (b) Outages. After Acceptance and during the term of this Agreement,          ------- Company will use its best efforts to make the Service available to the MBE Centers from 4 a.m. to 9 p.m. PST every day. Scheduled maintenance which may result in an interruption to the Service shall be performed outside of these hours. Each party shall provide the other party with reasonable and prompt notification of all known failures of the Service to be operational during these hours ("Outages"). The Company shall make qualified personnel available to MBE personnel by telephone, e-mail or pager (response within twenty (20) minutes) for the reporting of Outages at no additional charge. Company will then use its best efforts to resolve the Outage as soon as possible. Within six months of the Effective Date, the Company and MBE will jointly develop a disaster recovery plan outlining plans to respond to Outages.
+
+     (c) No Conflicts. The Company is not currently subject and throughout the          ------------ term will not be subject to any obligations or disabilities that will or might prevent or interfere with fully keeping and performing all of the agreements, covenants and conditions to be kept or performed hereunder, and the Company has not made nor will make any agreement, commitment, grant or assignment, and will not do, or omit to do, any act or thing that could or might interfere or impair the complete enjoyment of the rights granted and the Services to be provided hereunder.
+
+     (d) Originality. The Company represents and warrants that it currently has          ----------- and throughout the term will have full title to and ownership of (or licenses to) the Service and all Intellectual Property Rights embodied in or used in connection therewith, free and clear of liens, claims and encumbrances, and that it has full power and authority to grant the rights provided herein.
+
+     (e) Year 2000. Company represents, warrants and covenants that the Service          --------- includes design, performance and functionality such that the Service will not generate any invalid and/or incorrect date-related results when used during any year prior to, during or after the calendar year 2000.
+
+     (f) Remedies. The Company's sole and exclusive liability and MBE's sole and          -------- exclusive remedy for breach of the representations and warranties set forth in this Section 11 shall be, at the Company's election, to either (i) use its best efforts to make the Service perform in accordance with the Specifications in all material respects as soon as reasonably practicable, or (ii) return the Fees paid by MBE and MBE Centers for the Service in which case MBE would have the right to either terminate the entire Agreement or the portions of the Agreement affected by breach of the representation and warranties. In the event that the Company elects (i) of this sub-section in accordance with the terms and conditions set forth herein and is unable to make the Service perform in accordance with the Specifications in all material respects within twenty one (21) days after such election, MBE may then elect to continue to proceed under (i) or MBE may elect to proceed under (ii) of this sub-section.
+
+                                      -14-
+
+     (g) Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES STATED ABOVE, NEITHER          ---------- PARTY MAKES ANY PROMISES, REPRESENTATIONS OR WARRANTIES, EITHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, WITH RESPECT TO THE SYSTEM OR THE MANIFEST, INCLUDING ITS CONDITION, ITS CONFORMITY TO ANY REPRESENTATION OR DESCRIPTION, OR THE EXISTENCE OF ANY LATENT OR PATENT DEFECTS, AND EACH PARTY SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY INTELLECTUAL PROPERTY RIGHTS.
+
+12.  Indemnity for Patent or Copyright Infringement.      ----------------------------------------------
+
+     (a) Indemnity. The Company will defend, at its expense, any action brought          --------- against MBE and its directors, officers, employees, agents, affiliates, successors, assigns or franchisees ("Indemnitees") based upon a claim that the Service used properly in accordance with the terms of this Agreement and the Subscription Agreement infringes a U.S. patent or copyright or misappropriates a trade secret under U.S. law (a "Claim"). The Company further agrees to pay all damages and costs (including reasonable attorneys' fee and expert witness fees) incurred by any Indemnitee in connection with such Claim. The Company shall have sole control of any such action or settlement negotiations. Without the consent of MBE, which shall not be unreasonably withheld, the Company shall not settle any such Claim in a manner that (i) imposes damages or costs on any Indemnitee not covered by the Company hereunder or (b) imposes any injunctive or other non-monetary relief on any Indemnitee. MBE shall notify the Company promptly in writing of each such Claim and gives the Company all authority, information and assistance, at the Company's expense, reasonably necessary to settle or defend such claim.
+
+     (b) Remedy Options. If the Service becomes, or in the opinion of the
+
+Source: STAMPS.COM INC, 10-Q, 11/14/2000
+
+
+
+
+
+         -------------- Company may become, the subject of a claim of infringement of any U.S. patent or copyright, the Company shall notify MBE, and the Company may, at its option: (i) procure for MBE and MBE Centers the right to use the Service free of any liability or (ii) replace or modify the Service to make it non-infringing.
+
+     (c) Sole and Exclusive Liability. THIS SECTION 12 SETS FORTH THE SOLE AND          ---------------------------- EXCLUSIVE LIABILITY OF THE COMPANY FOR INFRINGEMENT OF THIRD PARTY INTELLECTUAL PROPERTY RIGHTS.
+
+     (d) Exclusions from Indemnification. The Company assumes no liability, and          ------------------------------- shall have no obligation to defend or pay any amounts to any Indemnitee hereunder for (i) any method or process in which the Service may be used by MBE or any MBE Center which is not set forth in the Specifications, (ii) any improper use of the Service by an Indemnitee or (iii) the combination, operation or use of the Service with non-Company software or data, if such infringement could have been avoided but for the combination, operation or use of the Service with such programs or data.
+
+13.  Indemnification.      ---------------
+
+     (a) Indemnification by the Company. The Company, at its own expense, will          ------------------------------ indemnify, defend and hold harmless MBE, and its employees, franchisees, representatives and
+
+                                      -15-
+
+agents, against any claim, suit, action, or other proceeding brought against MBE or such party, to the extent that such claim, suit, action or other proceeding is based on or arises from.
+
+         (i)   any misrepresentation or breach or representation or warranty of the Company contained herein; or
+
+         (ii)  any breach of any covenant or agreement to be performed by the Company hereunder.
+
+     The Company will pay all costs, damages, and expenses, including, but not limited to, reasonable attorneys' fees and costs awarded against or otherwise incurred by MBE in connection with or arising from any such claim, suit, action or proceeding attributable to any such claim.
+
+     (b) Indemnification by MBE. MBE, at its own expense, will indemnify, defend          ---------------------- and hold harmless the Company, and its employees, representatives and agents, against any claim, suit, action, or other proceeding brought against the Company or such party, to the extent that such claim, suit, action or other proceeding is based on or arises from:
+
+         (i)   any misrepresentation or breach of representation or warranty of MBE contained herein; or
+
+         (ii)  any breach of any covenant or agreement to be performed by MBE hereunder.
+
+     MBE will pay all costs, damages, and expenses, including, but not limited to, reasonable attorneys' fees and costs awarded against or otherwise incurred by the Company in connection with or arising from any such claim, suit, action or proceeding attributable to any such claim.
+
+     (c) Procedures. Each party's obligation to indemnify the other hereunder          ---------- shall be conditioned upon (i) the indemnified party providing the indemnifying party with prompt notice of any claim that could lead to a claim for indemnification, (ii) the indemnified party permitting the indemnifying party to assume and control the defense of such action, with counsel chosen by the indemnifying party (who shall be reasonably acceptable to the indemnified party) and (iii) the indemnified party not entering into any settlement or compromise of any such claim without the indemnifying party's prior written consent, which shall not be unreasonably withheld or delayed.
+
+                                      -16-
+
+14.  Limitation of Liability. Notwithstanding anything to the contrary in      ----------------------- this Agreement, in no event shall either party's liability under any provision of this Agreement or otherwise arising out of or related to this Agreement (other than payments due or accrued under Section 8, exceed the amounts paid by MBE and the MBE Centers to the Company pursuant to this Agreement. The parties further agree that NEITHER PARTY WILL BE LIABLE FOR ANY LOST PROFITS, FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES OR FOR ANY CLAIM OR DEMAND AGAINST A PARTY BY ANY OTHER PARTY. IN NO EVENT WILL EITHER PARTY BE LIABLE FOR
+
+Source: STAMPS.COM INC, 10-Q, 11/14/2000
+
+
+
+
+
+CONSEQUENTIAL, INCIDENTAL, SPECIAL, INDIRECT, OR EXEMPLARY DAMAGES ARISING OUT OF THIS AGREEMENT, EVEN IF A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND UNDER ANY CAUSE OF ACTION, INCLUDING NEGLIGENCE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
+
+15.  Term and Termination.      --------------------
+
+     (a) Term and Renewal Option. The initial term of this Agreement shall          ----------------------- commence on the Effective Date and end on the fifth anniversary of the Effective Date. MBE shall have the right to elect by written notice to the Company at any time between two (2) and six (6) months prior to the end of such initial term or any subsequent Renewal Period (as defined below), to notify the Company that MBE elects to seek to extend such term for additional two (2)-year periods (each a "Renewal Period") In the event of such election, MBE and the Company shall have  -------------- a period of sixty (60) days in which to negotiate commercially reasonable Basic Fees, Bounty Fees and eBay Fees (and other applicable fees) ("Fee Schedule")                                                               ------------ under which the Company would be willing to renew this Agreement for such Renewal Period. If the parties are unable to reach agreement during such sixty (60) day period, either party may request that the Fee Schedule be submitted to arbitration pursuant to Section 18(m)  [Arbitration]. If MBE notifies the Company of its intent to so renew prior to the end of such initial term or such Renewal Period, the term of this Agreement shall automatically be extended for the Renewal Period and, other than the Fee Schedule, all of the terms and conditions of this Agreement shall remain in full force and effect.
+
+     (b) Termination.          -----------
+
+         (i)   Either party may, at its option, terminate this Agreement upon notice to the other party if (A) the other party materially fails to comply with any of the material terms and conditions of this Agreement and (B) if such default has not been cured within thirty (30) days (forty five (45) days if required by the nature of the breach) after written notice to the other party or, if such breach is not curable within thirty (30) days (forty five (45) days if required by the nature of the breach), reasonable efforts and progress are not being made to cure such breach.
+
+         (ii)  This Agreement shall terminate, without notice, (A) upon the institution by or against either party of insolvency, receivership or bankruptcy proceedings or any other proceedings for the settlement of such party's debts, (B) upon either party's making an assignment for the benefit of creditors, or (C) upon either party's dissolution or ceasing to do business.
+
+                                      -17-
+
+     (c) Termination Period.          ------------------
+
+         (i)   If this Agreement is terminated or expires in accordance with this Section 15 (other than termination by the Company in the event of an uncured material breach by MBE), then MBE shall have a period of up to twenty-four (24) months from and after the date of such termination, to make arrangements with respect to the conversion of the Service to a non-Company manifest system (the "Termination Period"). The date when the Service shall have                       ------------------ been converted to a non-Company manifest system shall hereinafter be referred to as the "Termination Completion Date" and shall be the effective date of          -------------------------- termination of this Agreement, in such event. During the Termination Period each party will continue to perform its obligations hereunder, and MBE and MBE Centers will continue to pay any applicable fees and payments hereunder to the Company. MBE shall keep the Company informed as reasonably necessary with respect to such conversion. MBE also shall give the Company written notice of the estimated Termination Completion Date promptly after a reasonably definitive projected Termination Completion Date is known by MBE, and shall give written notice to the Company promptly after any change in such estimated Termination Completion Date.
+
+         (ii)  During the Termination Period, the Company will give reasonable cooperation and support to MBE to assure an orderly and efficient transition and, without limiting the generality of the foregoing, at MBE's expense, the Company shall be obligated to provide MBE with data reasonably necessary for MBE to convert or implement the non-Company systems, procedures and practices.
+
+     (d) Effect of Termination.          ----------------------
+
+         (i)   Sections 1, 7, 10, 13, 14, 15, 16 and 18, as well as any payments accrued prior to termination of this Agreement, shall survive any termination or expiration of this Agreement.
+
+         (ii)  Within thirty (30) days after the Termination Completion Date,
+
+Source: STAMPS.COM INC, 10-Q, 11/14/2000
+
+
+
+
+
+each party shall, at its own expense, destroy or return to the Company and make no further use of, any property, materials or other items of the other party and shall certify, in writing that it has done so
+
+         (iii) Nothing contained herein shall limit any other remedies that either party may have for the default of the other party under this Agreement nor relieve either party of any of their obligations incurred prior to termination of this Agreement.
+
+         (iv)  During the Termination Period and thereafter, and notwithstanding any other provision of this Agreement, MBE will be free to use its own personnel, and/or engage or contract with any third party to use the Specifications to design, develop and market an Internet-based manifest system similar to the Manifest (including products that contain functionality similar to the Service and which have a "look and feel" similar or identical to the Manifest), in each case solely for the benefit of MBE and the MBE Centers and international franchisees or licensees of MBE. MBE shall not use the object code or source code of the Manifest in the course of such development. Subject to MBE's compliance with the provisions of this subsection (iv), the Company shall not
+
+                                      -18-
+
+assert any claim against MBE under the Company's Intellectual Property Rights in the Specifications or the Manifest in connection with such development, other than for use of the Company's trademarks, trade names, service marks and service names. Neither party shall have the right to retain or use the specific software implementation of the Manifest developed by the parties hereunder; provided, however, that the Company may retain one (1) copy of the software implementation of the Manifest solely for archival and evidentiary purposes.
+
+16.  Publicity. Upon execution of this Agreement, the parties will jointly      --------- prepare a mutually acceptable description of their business relationship as contemplated by this Agreement which may be used by either party in press releases and other marketing materials from time to time during the term of this Agreement. Additional press releases or publicity materials shall be approved by each party in writing prior to release.
+
+17.  Warrant. On the Effective Date, the Company shall issue the Warrant to      ------- MBE, upon the terms and subject to the conditions set forth therein.
+
+18.  Miscellaneous.      -------------
+
+     (a) Amendments and Waivers. Any term of this Agreement may be amended or          ---------------------- waived only with the written consent of the parties or their respective successors and assigns. Any amendment or waiver effected in accordance with this Section 18(a)  [Amendments and Waivers] shall be binding upon the parties and their respective successors and assigns.
+
+     (b) Assignment. Each party shall have the right to assign its rights,          ---------- obligations and privileges hereunder to an assignee in connection with any merger, acquisition or sale of all or substantially all of the business to which this Agreement relates. Each MBE Center shall have the right to assign its rights and obligations and privileges under a Subscription Agreement in connection with any merger, acquisition or sale of all or substantially all of such MBE Center's assets. The terms and conditions of this Agreement shall inure to the benefit of and be binding upon the respective permitted successors and assigns of the parties. Nothing in this Agreement, express or implied, is intended to confer upon any party other than the parties hereto or their respective successors and assigns any rights, remedies, obligations, or liabilities under or by reason of this Agreement, except as expressly provided in this Agreement.
+
+     (c) Entire Agreement. This Agreement is the product of both of the parties          ---------------- hereto, and constitutes the entire agreement between such parties pertaining to the subject matter hereof, and merges all prior negotiations and drafts of the parties with regard to the transactions contemplated herein. Any and all other written or oral agreements existing between the parties hereto regarding such transactions are expressly canceled.
+
+     (d) Independent Contractor. Neither party shall, for any purpose, be deemed          ---------------------- to be an agent of the other party and the relationship between the parties shall only be that of independent contractors. Neither party shall have any right or authority to assume or create any obligations or to make any representations or warranties on behalf of any other party, whether express or implied, or to bind the other party in any respect whatsoever.
+
+                                      -19-
+
+Source: STAMPS.COM INC, 10-Q, 11/14/2000
+
+
+
+
+
+     (e) Force Majeure. In the event that either party is prevented from          ------------- performing or is unable to perform any of its obligations under this Agreement (other than a payment obligation) due to any Act of God, fire, casualty, flood, earthquake, war, strike, lockout, epidemic, destruction of production facilities, riot, insurrection, material unavailability, or any other cause beyond the reasonable control of the party invoking this section, and if such party shall have used its best efforts to mitigate its effects, such party shall give prompt written notice to the other party, its performance shall be excused, and the time for the performance shall be extended for the period of delay or inability to perform due to such occurrences. If a force majeure event causes the Company to allocate limited resources among all of its customers, [***]*.                                                                        --- The Company shall resume operation of the Service as soon as reasonably practicable upon conclusion of any force majeure event. Notwithstanding the foregoing, if such party is not able to perform within sixty (60) days after the event giving rise to the excuse of force majeure, the other party may terminate the Agreement.
+
+     (f) Governing Law. This Agreement and all acts and transactions pursuant          ------------- hereto and the rights and obligations of the parties hereto shall be governed, construed and interpreted in accordance with the laws of the State of California, without giving effect to principles of conflicts of law.
+
+     (g) Severability. If one or more provisions of this Agreement are held to          ------------ be unenforceable under applicable law, the parties agree to renegotiate such provision in good faith, in order to maintain the economic position enjoyed by each party as close as possible to that under the provision rendered unenforceable. In the event that the parties cannot reach a mutually agreeable and enforceable replacement for such provision, then (i) such provision shall be excluded from this Agreement, (ii) the balance of the Agreement shall be interpreted as if such provision were so excluded and (iii) the balance of the Agreement shall be enforceable in accordance with its terms.
+
+     (h) Waiver. The waiver of any particular breach or default or any delay in          ------ exercising any rights shall not constitute a waiver of any subsequent breach or default.
+
+     (i) Notices. Any notice required or permitted by this Agreement shall be in          ------- writing and shall be deemed sufficient upon receipt, when delivered personally or by courier, overnight delivery service or confirmed facsimile, or forty-eight (48) hours after being deposited in the regular mail as certified or registered mail (airmail if sent internationally) with postage prepaid, if such notice is addressed to the party to be notified at such party's address or facsimile number as set forth below, or as subsequently modified by written notice.
+
+----------      *  Confidential treatment has been requested for the bracketed portion. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+                                      -20-
+
+     If to the Company:                       iShip.com, Inc.                                               2515 - 140th Ave. NE                                               Suite E-110                                               Attn: President                                               Bellevue, WA 98005                                               Facsimile Number: 425/602-5025
+
+     With a Copy To:                          Craig E. Sherman                                               Venture Law Group                                               4750 Carillon Point                                               Kirkland, WA 98033                                               Facsimile Number: 425/739-8750
+
+     If to MBE:                               Mail Boxes Etc. USA, Inc.                                               6060 Cornerstone Court West                                               San Diego, CA 92121                                               Attn: Thomas K. Herskowitz                                               Facsimile Number: 619/546-7499
+
+     (j) Headings. The headings of the several sections of this Agreement are          -------- intended for convenience of reference only and are not intended to be a part of or to affect the meaning or interpretation of this Agreement.
+
+     (k) Counterparts. This Agreement may be executed in counterparts, each of          ------------ which shall be deemed an original and all of which together shall constitute one instrument.
+
+     (l) Advice of Legal Counsel. Each party acknowledges and represents that,
+
+Source: STAMPS.COM INC, 10-Q, 11/14/2000
+
+
+
+
+
+         ----------------------- in executing this Agreement, it has had the opportunity to seek advice as to its legal rights from legal counsel and that the person signing on its behalf has read and understood all of the terms and provisions of this Agreement. This Agreement shall not be construed against any party by reason of the drafting or preparation thereof.
+
+     (m) Arbitration.          -----------
+
+               (i)   Every claim or dispute arising out of or relating to the          negotiation, performance or non-performance of this Agreement shall be          determined by arbitration in accordance with the Commercial Arbitration          Rules of the American Arbitration Association ("AAA"), or as otherwise          agreed by the parties. The place of arbitration shall be San Diego,          California.
+
+               (ii)  In the event of any such claim or dispute, the parties          shall first attempt to resolve the matter through good faith, informal          negotiations, including non-binding mediation. In the event that the          parties are unable to resolve the dispute, either party hereto may          demand arbitration by written notice to the other party and to the AAA          in San Diego. The parties shall mutually agree on one arbitrator. If          the parties cannot so agree, the single arbitrator shall be selected by          the AAA. The costs of arbitration are to be shared equally by the          parties. Each party shall be responsible for its own costs and          attorneys' fees.
+
+                                      -21-
+
+               (iii) The arbitrator shall not have any power to alter, modify          or change any of the terms of this Agreement or to grant any remedy          which is either inconsistent with or prohibited by the terms of this          Agreement, or not available in a court of law. The arbitrator shall not          have the authority to commit errors of law or errors of legal          reasoning. In addition, the arbitrator shall have no power or authority          to award punitive, consequential or incidental damages.
+
+               (iv)  The arbitrator shall, within thirty (30) days after the          matter has finally been submitted to him or her, render a written          decision making specific findings of fact and setting forth the reasons          for the decision which shall be consistent with the terms of this          Agreement. The parties intend that this agreement to arbitrate be          valid, binding, enforceable, and irrevocable. The terms of this Section          shall survive the termination or expiration of this Agreement.          Judgement on any award of the arbitrator shall be binding and may be          entered in any court having jurisdiction thereof.
+
+                            [Signature page follows]
+
+                                      -22-
+
+         The parties have executed this Agreement as of the date first set forth above.
+
+                                               COMPANY:                                         LICENSEE:
+
+ISHIP.COM, INC.                                  MAILBOXES ETC. USA, INC.
+
+/s/ Stephen M. Teglovic                          /s/ Charles Lynn Lowder ---------------------------------------          ---------------------------------------- (Signature)                                      (Signature)
+
+Stephen M. Teglovic                              Charles Lynn Lowder ---------------------------------------          ---------------------------------------- (Print Name)                                     (Print Name)
+
+CEO/Pres                                         Executive Vice President/General Counsel ---------------------------------------          ---------------------------------------- (Title)                                          (Title)
+
+                   SIGNATURE PAGE TO MANIFEST SYSTEM LICENSE                            AND CO-BRANDING AGREEMENT
+
+                                    EXHIBIT A
+
+                                 FORM OF WARRANT
+
+                                    EXHIBIT B
+
+Source: STAMPS.COM INC, 10-Q, 11/14/2000
+
+
+
+
+
+AUTHORIZED EQUIPMENT: ---------------------
+
+     A PC reasonably adequate to access and use the Service for manifesting and shipping packages, with the following minimum specifications:
+
+     .    a reasonably adequate scale and a label printer      .    An internet/network connection of at least 256k bits/sec      .    Processor: P5-233      .    Ports: 2 Com ports, 1 Parallel port      .    RM: 64 Megs      .    HDD: 1.2 GB      .    Video. 4 MB      .    OS: Win 98/OSR2      .    Browser: IE 5 SP1
+
+                                    EXHIBIT C                                POTENTIAL CUSTOMERS
+
+=======================================================================================================================                             TYPE                             DEFINITION ----------------------------------------------------------------------------------------------------------------------                                                                                        I                               A customer  physically present in the retail store-front                                                              or  remote  off-site  locations  of  MBE  Centers  for a                      In-Center Customer                      transaction in  which they do not  utilize an LMS or                                                              MBEX (as such terms are defined below). ----------------------------------------------------------------------------------------------------------------------                                                              A  customer  utilizing  a  self-service  lobby  manifest                             II                               system  in  a  MBE  Center  ("LMS")  or  a  self-service                                                                                            ---                Remote Self-Service Customer                  MBE-branded   remote  manifest  system  ("MBEX")  for  a                                                                                                        ----                                                              transaction. ----------------------------------------------------------------------------------------------------------------------                                                              A  customer  shipping  a  PLD-compliant  and  ramp-ready                          III A                               package* through a MBE Center that is manifested                   MBE Internet Customer                      through the MBE Sites. ----------------------------------------------------------------------------------------------------------------------                                                              A  customer  shipping  a  PLD-compliant  and  ramp-ready                          III B                               package through a MBE Center, which package is               Company Internet Customer                      manifested through the Company site. ----------------------------------------------------------------------------------------------------------------------                                                              A  customer  shipping  a  PLD-compliant  and  ramp-ready                                                              package   through  a  MBE  Center,   which   package  is                          III C (1)                           manifested  through  the  Internet  web  site of a third                  Third Party/MBE Customer                    party that is con-branded or otherwise  affiliated  with                                                              MBE. ----------------------------------------------------------------------------------------------------------------------                                                              A  customer  shipping  a  PLD-compliant  and  ramp-ready                                                              package   through  a  MBE  Center,   which   package  is                          III C (2)                           manifested  through  the  Internet  web  site of a third                Third Party/Company Customer                  party that is  co-branded or otherwise  affiliated  with                                                              the Company or the Service. ----------------------------------------------------------------------------------------------------------------------                                                              A  customer  shipping  a  PLD-compliant  and  ramp-ready                                                              package   through  a  MBE  Center,   which   package  is                          III C (3)                           manifested  through an  Internet  web site  operated  by                        eBay Customer                         eBay  Incorporated  or in connection  with an auction or                                                              sale conducted on such web site. ----------------------------------------------------------------------------------------------------------------------                             IV                               A  customer  that   utilizes  the  Service   and/or  the                      Company Customer                        Company's   products   and   services   other   than  in                                                              connection with a MBE Center. ----------------------------------------------------------------------------------------------------------------------
+
+---------- *  "PLD-compliant and ramp-ready" shall mean compliance with the electronic    data requirements of each carrier supported by the Service.
+
+                                    EXHIBIT D
+
+                              SYSTEM SPECIFICATIONS
+
+     The Service will enable MBE and MBE Centers to process packages for domestic shipment, weigh these packages, and create shipping labels. The Service will export data to a given MBE Center's Point-of-Sale (POS) station, and will support ARS/BIN packages, consignee billing, freight insurance, MBE proprietary or designated transit declared value, and customer address book access. All carrier rating information will be maintained by the Company from its central database management system (DBMS). MBE Centers will be allowed to create or
+
+Source: STAMPS.COM INC, 10-Q, 11/14/2000
+
+
+
+
+
+modify their own mark-ups for shipping, and, at its expense, the Company will update and/or adjust its pricing information for each MBE Center for each carrier to reflect such modifications. This Exhibit D may be modified from time to time by mutual agreement of the parties.
+
+     The maximum amount of information downloaded from the Company's server to the counter manifest station will be 15 kilobytes or less per package processed.
+
+     The following carriers and services will be supported:
+
+UPS ---
+
+Domestic: --------          Ground          Three Day Select          Second Day Air          Second Day Air AM,          Next Day Air Saver          Next Day Air          Next Day Air Early AM
+
+International: -------------          Canada Standard          Worldwide Expedited            (including Canada/Mexico as set forth in the Specifications)          Worldwide Express            (including Canada/Mexico as set forth in the Specifications)
+
+FedEx -----
+
+Domestic: --------          Express Saver          2 Day          Standard Overnight          Priority Overnight          First Overnight
+
+International: -------------          International Economy          International Priority
+
+USPS ----
+
+Domestic: --------          Parcel Post          Priority Mail          Express Mail          First Class
+
+International: -------------          Parcel Post Air          Parcel Post Surface          Small Parcel Air          Small Parcel Surface          Express Mail          Global Priority Mail
+
+--------------------------------------------------------------------------------
+
+     The Service will include the following features, the more detailed functionality of which will be agreed to from time to time by the parties as the Service is developed:
+
+1.       Table of Contents 2.       Table of Illustrations 3.       Introduction 3.1.     Purpose 3.2.     Scope 3.3.     Introduction 4.       Implementation 4.1      Organization 4.1.1.   Opening the Counter Manifest System 4.1.2.   Main Screen Organization 4.1.3.   Menu Structure 4.2.     General Functionality 4.2.1.   Keyboard & Mouse Behavior 4.2.2.   Sortable List Boxes
+
+Source: STAMPS.COM INC, 10-Q, 11/14/2000
+
+
+
+
+
+4.2.3.   Find Package/Transaction Dialogs 4.2.4.   Find Manifest Dialogs 4.2.5.   Find Dialog Search Behavior 4.3.     Process Menu 4.3.1.   Process Package 4.3.2.   Find Package 4.3.3.   Find Customer 4.3.4.   Customer Address Dialog 4.3.5.   Recipient Address Dialog
+
+4.3.6.   Address Book Dialog 4.3.7.   City/State/Postal Verification Dialog 4.3.8.   Region Locator Dialog 4.3.9.   Transaction Complete Dialog 4.3.10.  Point of Sale (POS) Export Records 4.3.11.  Enter ARS/BIN Package 4.3.12.  Process Consignee Billed 4.3.13.  Freight Insurance 4.3.14.  Reprint Last label 4.3.15.  Reprint label 4.3.16.  Edit Transaction 4.3.17.  Void Transaction 4.3.18.  Recall Voided Transaction 4.4.     Estimate 4.4.1.   Price a Package 4.4.2.   Create Estimate 4.4.3.   Edit Estimate 4.4.4.   Delete Estimate 4.5.     Manifest 4.5.1.   Perform End of Day 4.5.2.   Track a Package 4.5.3.   View Manifests 4.5.4.   View Transaction 4.5.5.   Reprint Manifest 4.6.     Reports 4.6.1.   Manifest Reports 4.6.2.   Rate Reports 4.6.3.   Management Reports 4.7.     Administration 4.7.1.   Preferences 4.7.2.   Center Information 4.7.3.   Taxable Items 4.7.4.   Scales and Printers 4.7.5.   Modify Rates Dialog 4.7.6.   Modify Rates for Zone Based Services 4.7.7.   Modify Rates for Weight Based/Single Zone Services 4.7.8.   Modify FedEx Service Option Rates Dialog 4.7.9.   Modify UPS Service Option Rates Dialog 4.7.10.  Modify USPS Service Option Rates Dialog 4.7.11.  Copy Rates 4.7.12.  Alternate Insurance Rates 4.8.     About 4.8.1.   Rate Effective Dates 4.8.2.   Version 5.       Services and Services Options 5.1.     Services
+
+5.1.1.   UPS 5.1.2.   FedEx 5.1.3.   USPS 5.2      Service Options 5.2.1.   Declared Value 5.2.2.   Delivery Notification 5.2.3.   Proof of Delivery 5.2.4.   COD 5.2.5.   Call Tag 5.2.6.   Earliest Delivery Time 5.2.7.   Deliver Without Signature 5.2.8.   Certified Mail
+
+Source: STAMPS.COM INC, 10-Q, 11/14/2000

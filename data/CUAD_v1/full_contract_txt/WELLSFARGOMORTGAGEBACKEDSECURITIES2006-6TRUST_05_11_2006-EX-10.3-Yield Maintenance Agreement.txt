@@ -1,0 +1,293 @@
+EXHIBIT 10.3
+
+Yield Maintenance Agreement
+
+[LOGO UBS]
+
+Date:               27 April 2006
+
+To:                 Wells Fargo Bank, N.A., not individually, but solely as                     Master Servicer on behalf of Wells Fargo Mortgage Backed                     Securities 2006-6 Trust ("Counterparty")
+
+Attention:          Swaps Administration
+
+From:               UBS AG, London Branch ("UBS AG")
+
+Subject:            Interest Rate Cap Transaction                     UBS AG Ref: 37346733
+
+Dear Sirs
+
+The purpose of this communication is to confirm the terms and conditions of the Transaction entered into between us on the Trade Date specified below. This Confirmation constitutes a "Confirmation" as referred to in the Master Agreement or Agreement specified below.
+
+The definitions contained in the 2000 ISDA Definitions as published by the International Swaps and Derivatives Association, Inc., are incorporated into this Confirmation. In the event of any inconsistency between any of the definitions listed above and this Confirmation, this Confirmation will govern.
+
+If you and we are parties to a master agreement that governs transactions of this type (whether in the form of the 1992 ISDA Master Agreement (Multicurrency-Cross Border)(the "ISDA Form") or any other form (a "Master Agreement"), then this Confirmation will supplement, form a part of, and be subject to that Master Agreement. If you and we are not parties to such a Master Agreement, then you and we agree to use all reasonable efforts promptly to negotiate, execute and deliver an agreement in the form of the ISDA Form, with such modifications as you and we will in good faith agree. Upon the execution by you and us of such an agreement, this Confirmation will supplement, form a part of and be subject to and governed by that agreement, except as expressly modified below. Until we execute and deliver that agreement, this Confirmation, together with all other documents referring to the ISDA Form (each a "Confirmation") confirming transactions (each a "Transaction") entered into between us (notwithstanding anything to the contrary in a confirmation), shall supplement, form a part of, and be subject to an agreement in the form of the ISDA Form as if we had executed an agreement in such form (but without any Schedule except for the election of the laws of New York as the Governing Law and U.S. Dollars as the Termination Currency) on the Trade Date of the first Transaction between us (hereinafter the "Agreement"). In the event of any inconsistency between the provisions of any such Agreement and this Confirmation, this Confirmation will prevail for the purposes of this Transaction.
+
+The terms of the particular Swap Transaction to which this Confirmation relates are as follows:
+
+General Terms
+
+Trade Date:                       27 April 2006
+
+Effective Date                    01 April 2006
+
+Termination Date:                  1 April 2009
+
+Calculation Amount:               The lesser of (a) USD 20,000,000.00 and (b)                                   the aggregate Principal Balance (as defined                                   in the Pooling and Servicing Agreement) of the                                   Class I-A-22 Certificates as of the last day                                   of the relevant Calculation Period.
+
+Seller of the Cap:                UBS AG
+
+Buyer of the Cap:                 Counterparty
+
+Calculation Agent:                UBS AG
+
+Business Days:                    New York
+
+Broker:                           None
+
+Fixed Amounts
+
+Fixed Rate Payer:                Counterparty
+
+Fixed Amount:                    USD[              ]
+
+Fixed Rate Payer Payment Date:   27 April 2006
+
+Business Day Convention:         Not Applicable
+
+Floating Amounts
+
+
+
+
+
+Floating Rate Payer:             UBS AG
+
+Cap Rate:                        5.0 percent per annum
+
+Floating Amount:                 To be determined in accordance with the                                  following formula:                                  Greater of                                  (1)Calculation  Amount *  Floating  Rate Day                                  Count Fraction * (Floating Rate Option - Cap                                  Rate) and (2) 0
+
+Floating Rate Option:            USD-LIBOR-BBA
+
+Designated Maturity:             One Month
+
+Spread:                          None
+
+Floating Rate Day Count          30/360 Fraction:
+
+Floating Rate Payer Period       01 January,  01 February,  01 March,  01 April, End  Dates:                      01 May, 01 June, 01 July, 01 August, 01                                  September,  01 October, 01 November and 01                                  December, in each year, from and including 01                                  May 2006, up to and including the Termination                                  Date, subject to adjustment in accordance with                                  the Business DayConvention specified                                  immediately below, and thereshall be No                                  Adjustment to the Period End Dates.
+
+Floating Rate Payer Payment      Delayed  Payment shall be applicable.  The Dates:                           FloatingRate  Payer  Payment  Dates  shall be                                  two  Business Days prior to 25 January, 25                                  February, 25 March, 25 April, 25 May, 25 June,                                  25 July, 25 August, 25 September, 25 October,                                  25 November and 25 December, in each year, from                                  and including 25 May 2006, up to and including                                  25 April 2009, notwithstanding the specified &bbsp;                                Termination Date, subject to adjustment in                                  accordance with the Business Day Convention                                  specified immediately below.
+
+Reset Dates:                     First day of each Calculation Period.
+
+Business Day Convention:         Modified Following
+
+Additional Provisions
+
+(i)     "Specified Transaction" shall have the meaning specified in Section 14         of the ISDA Form.
+
+(ii)    The "Breach of Agreement" provisions of Section 5(a)(ii) of the ISDA         Form will be applicable to UBS AG and inapplicable to the Counterparty.
+
+(iii)   The "Credit Support Default" provisions of Section 5(a)(iii) of the ISDA         Form will be inapplicable to UBS AG and the Counterparty.
+
+(iv)    The "Misrepresentation" provisions of Section 5(a)(iv) of the ISDA Form         will be inapplicable to UBS AG and the Counterparty.
+
+(v)     The "Default Under Specified Transaction" provisions of Section 5(a)(v)         of the ISDA Form will be inapplicable to UBS AG and the Counterparty.
+
+(vi)    The "Cross Default" provisions of Section 5(a)(vi) of the ISDA Form will         be inapplicable to UBS AG and the Counterparty.
+
+(vii)   The "Credit Event Upon Merger" provisions of Section 5(b)(iv) of the         ISDA Form will be inapplicable to UBS AG and the Counterparty.
+
+(viii)  The "Automatic Early Termination" provision of Section 6(a) of the ISDA         Form will be inapplicable to UBS AG and the Counterparty.
+
+(ix)    Severability. If any term, provision, covenant, or condition of this         Agreement, or the application thereof to any party or circumstance,         shall be held to be invalid or unenforceable (in whole or in part) for         any reason, the remaining terms, provisions, covenants, and conditions         hereof shall continue in full force and effect as if this Agreement had         been executed with the invalid or unenforceable portion eliminated, so         long as this Agreement as so modified continues to express, without         material change, the original intentions of the parties as to the         subject matter of this Agreement and the deletion of such portion of         this Agreement will not substantially impair the respective benefits or         expectations of the parties; provided, however, that this severability         provision will not be applicable if any provision of Section 2, 5, 6 or         13 (or any definition or provision in Section 14 to the extent it         relates to, or is used in or in connection with, such section) is held         to be invalid or unenforceable, provided, further, that the parties         agree to first use reasonable efforts to amend the affected provisions         of Section 2, 5, 6 or 13 (or any definition or provision in Section 14         to the extent it relates to, or is used in or in connection with, such         section) so as to preserve the original intention of the parties.
+
+The parties shall endeavor to engage in good faith negotiations to         replace any invalid or unenforceable term, provision, covenant or         condition with a valid or enforceable term, provision, covenant or         condition, the economic effect of which comes as close as possible to
+
+
+
+
+
+that of the invalid or unenforceable term, provision, covenant or         condition.
+
+(x)     Consent to Recording. Each party hereto consents to the monitoring or         recording, at any time and from time to time, by the other party of any         and all communications between officers or employees of the parties,         waives any further notice of such monitoring or recording, and agrees to         notify its officers and employees of such monitoring or recording.
+
+(xi)    Waiver of Jury Trial. EACH PARTY IRREVOCABLY WAIVES ANY AND ALL RIGHT TO         TRIAL BY JURY IN ANY LEGAL PROCEEDING IN CONNECTION WITH THIS AGREEMENT,         ANY CREDIT SUPPORT DOCUMENT TO WHICH IT IS A PARTY, OR ANY TRANSACTION.         EACH PARTY ALSO ACKNOWLEDGES THAT THIS WAIVER IS A MATERIAL INDUCEMENT         TO THE OTHER PARTY'S ENTERING INTO THIS AGREEMENT.
+
+(xii) Fully Paid Transaction. Notwithstanding the terms of Sections 5 and             6 of the Agreement, if Counterparty has satisfied all of its payment             obligations under Section 2(a)(i) of the Agreement with respect to             this Transaction, and unless UBS AG is required to return (whether             pursuant to an order of a court with due authority to cause UBS AG             to be required to return any such payment to Counterparty (or any             duly authorized representative thereof) or whether otherwise             pursuant to appropriate proceedings to return to Counterparty (or             any duly authorized representative thereof)) or UBS AG otherwise             returns to Counterparty (or any duly authorized representative             thereof) upon demand of Counterparty (or any duly authorized             representative thereof) any portion of such payment, then: (a) the             occurrence of an event described in Section 5(a) of the Agreement             with respect to Counterparty shall not constitute an Event of             Default or Potential Event of Default with respect to Counterparty             as the Defaulting Party in respect of this Transaction and (b) UBS             AG shall be entitled to designate an Early Termination Date pursuant             to Section 6 of the Agreement in respect of this Transaction only as             a result of a Termination Event set forth in either Section 5(b)(i)             or Section 5(b)(ii) of the Agreement with respect to UBS AG as the             Affected Party or Section 5(b)(iii) of the Agreement with respect to             UBS AG as the Burdened Party. For purposes of the Transaction to             which this Confirmation relates, Counterparty's only obligation             under Section 2(a)(i) of the Agreement is to pay the Fixed Amount on             the Fixed Rate Payer Payment Date, each as defined in this             Confirmation.
+
+(xiii)  Governing Law. The parties to this Agreement hereby agree that the law         of the State of New York shall govern their rights and duties in whole         without regard to the conflict of law provisions thereof (other than New         York General Obligations Law Sections 5-1401 and 5-1402).
+
+(xiv)   Non-Recourse. Notwithstanding any provision herein or in the ISDA Form         to the contrary, the obligations of Counterparty hereunder are limited         recourse obligations of Counterparty, payable solely from the Trust         Estate (as defined in the Pooling and Servicing Agreement) and the         proceeds thereof to satisfy Counterparty's obligations hereunder. In the         event that the Trust Estate and proceeds thereof should be insufficient         to satisfy all claims outstanding and following the realization of the         Trust Estate and the distribution of the proceeds thereof in accordance         with the Pooling and Servicing Agreement, any claims against or         obligations of Counterparty under the ISDA Form or any other         confirmation thereunder, still outstanding shall be extinguished and         thereafter not revive.
+
+(xv)    Set-Off. Notwithstanding any provision of this Agreement or any other         existing or future agreement, each party irrevocably waives any and all         rights it may have to set off, net, recoup or otherwise withhold or         suspend or condition payment or performance of any obligation between it         and the other party hereunder against any obligation between it and the         other party under any other agreements. The provisions for Set-off set         forth in Section 6(e) of the Agreement shall not apply for purposes of         this Transaction; provided, however, that upon the designation of any         Early Termination Date, in addition to, and not in limitation of any         other right or remedy under applicable law, UBS AG may, by notice to         Counterparty require Counterparty to set off any sum or obligation that         UBS AG owed to Counterparty against any collateral currently held by         Counterparty that UBS AG has posted to Counterparty, and Counterparty         shall effect such setoff promptly, if and to the extent permitted to do         so under applicable law, provided that Counterparty's exercise of this         setoff is not stayed or otherwise delayed by order of any court,         regulatory authority or other governmental agency or any receiver other         person appointed in respect of UBS AG or any of its property.
+
+(xvi)   Proceedings. UBS AG covenants and agrees that it will not institute         against or join any other person in instituting against the Counterparty         any bankruptcy, reorganization, arrangement, insolvency, winding up or         liquidation proceedings, or other proceedings under any United States         federal or state law, or other bankruptcy, insolvency, liquidation, or         similar law, in connection with any obligations relating to this         Transaction or otherwise prior to the date that is one year and one day         or, if longer, the applicable preference period after all the         Certificates (as defined below) have been paid in full; provided, that         this paragraph shall not restrict or prohibit UBS AG, after the filing         of any proceeding filed independently of UBS AG, from joining any other         person, including without limitation the Master Servicer, in any         bankruptcy, reorganization, arrangement, insolvency, moratorium,         liquidation or other analogous proceedings relating to Counterparty         under any bankruptcy or similar law.
+
+
+
+
+
+(xvii)  The ISDA Form is hereby amended as follows: for the purposes of this         Transaction, the word "third" shall be replaced by he word "first" in         the third line of Section 5(a)(i) of the ISDA Form; provided, however,         that notwithstanding the foregoing, an Event of Default shall not occur         under either if, as demonstrated to the reasonable satisfaction of the         other party, (a) the failure to pay or deliver is caused by an error or         omission of an administrative or operational nature; and (b) funds or         the relevant instrument were available to such party to enable it to         make the relevant payment or delivery when due; and (c) such relevant         payment is made within the earlier of (a) three Business Days following         receipt of written notice from an the other party of such failure to pay         or (b) 12:00 p.m. Eastern Standard Time on the Distribution Date (as         defined in the Pooling and Servicing Agreement) immediately following         the failure to pay.
+
+(xviii) Multibranch Party. For the purpose of Section 10(c) of the Agreement:
+
+(i)     UBS AG is a Multibranch Party and may act through its branches                 in any of the following territories or countries: England and                 Wales, France, Hong Kong, United States of America, Singapore,                 Sweden and Switzerland.
+
+(ii)    Counterparty is not a Multibranch Party.
+
+(xix)   Offices. Section 10(a) of the ISDA Form shall apply with respect to UBS         AG.
+
+(xx)    Payments on Early Termination. For the purpose of Section 6(e) of this         Agreement:
+
+(i)     Market Quotation will apply.         (ii)    The Second Method will apply.
+
+(xxi)   Event of Default relating to Bankruptcy. Clause (2) of Section 5(a)(vii)         shall not apply to Counterparty.
+
+(xxii)  "Affiliate" will have the meaning specified in Section 14 of the ISDA         Form Master Agreement, provided that the Counterparty shall be deemed to         not have any Affiliates for purposes of this Agreement, including for         purposes of Section 6(b)(ii).
+
+(xxiii) Compliance with Regulation AB.
+
+(i) UBS AG agrees and acknowledges that Wells Fargo Asset Securities Corporation (the "Depositor") is required under Regulation AB under the Securities Act of 1933, as amended, and the Securities Exchange Act of 1934, as amended (the "Exchange Act") ("Regulation AB"), to disclose certain financial information regarding UBS AG, depending on the aggregate "Significance Percentage" (as defined in Item 1115 of Regulation AB) of all Transactions under this Agreement, together with any other transactions that fall within the meaning of "derivative contracts" for the purposes of Item 1115 of Regulation AB between UBS AG and Counterparty, as calculated from time to time in accordance with the Calculation Methodology (as defined below).
+
+(ii) It shall be a swap disclosure event ("Swap Disclosure Event") if, on any Business Day after the date hereof, the Depositor notifies UBS AG the Significance Percentage has reached one of the thresholds for significance of derivative contracts set forth in Item 1115 of Regulation AB (based on a reasonable determination by the Depositor, in good faith and using the Calculation Methodology, of such Significance Percentage).
+
+(iii) Upon the occurrence of a Swap Disclosure Event, UBS AG, at its own expense, shall (a) provide to the Depositor the applicable Swap Financial Disclosure (as defined below), (b) secure another entity to replace UBS AG as party to this Agreement on terms substantially similar to this Agreement and subject to prior notification to the Swap Rating Agencies, which entity (or a guarantor therefor) meets or exceeds the Approved Rating Thresholds (or which satisfies the Rating Agency Condition) and which entity is able to provide the appropriate Swap Financial Disclosure or (c) obtain a guaranty of UBS AG's obligations under this Agreement from an affiliate of UBS AG that is able to comply with the financial information disclosure requirements of Item 1115 of Regulation AB, such that disclosure provided in respect of the affiliate will, in the judgment of counsel to the Depositor, satisfy any disclosure requirements applicable to the Swap Provider, cause such affiliate to provide Swap Financial Disclosure and cause such affiliate to provide indemnity for the Swap Financial Disclosure that is reasonably acceptable to the Depositor. If permitted by Regulation AB, any required Swap Financial Disclosure may be provided by reference to or incorporation by reference from reports filed pursuant to the Exchange Act.
+
+(iv) UBS AG agrees that, in the event that UBS AG provides Swap Financial Disclosure to the Depositor in accordance with paragraph (iii)(a) above, or causes its affiliate to provide Swap Financial Disclosure to the Depositor in accordance with paragraph (iii)(c) above, it will indemnify and hold harmless the Depositor, its respective directors or officers and any person controlling the Depositor, from and against any and all losses, claims, damages and liabilities (any "Damage") caused by any untrue statement or alleged untrue statement of a material fact contained in such Swap Financial Disclosure or caused by any omission or alleged omission to state in such Swap Financial Disclosure a material fact required to be stated therein or necessary to make the statements therein, in light of the circumstances under which they were made, not misleading; provided, however that the foregoing shall not apply to any Damage caused by the negligence or any willful action of the Depositor or any other party (other than UBS AG or any of its affiliates or any of their respective agents), including without limitation any failure to calculate the Significance Percentage according to the terms of this Agreement or to make any
+
+
+
+
+
+filing as and when required under Regulation AB.
+
+(v) In the event that UBS AG provides the information referred to above, such information shall be provided not later than five (5) business days prior to the date in which the Master Servicer is required to file a Form 10-D for such Distribution Date.
+
+For the purposes hereof:
+
+"Calculation Methodology" means such method for determining maximum probable exposure of a derivative contract as reasonably determined by the Depositor.
+
+"Swap Financial Disclosure" means the financial information specified in Item   1115 of Regulation AB relating to the applicable Significance Percentage and   any necessary auditors consents relating to such financial information.
+
+Additional Termination Events:
+
+The following Additional Termination Events will apply to UBS AG:
+
+1. Ratings Event. If a Ratings Event (as defined below) has occurred and UBS AG has not complied with the requirements set forth in the succeeding paragraph within the 30 day time period specified therein, then an Additional Termination Event shall have occurred with respect to UBS AG and UBS AG shall be the sole Affected Party with respect to such an Additional Termination Event.
+
+Rating Agency Downgrade:
+
+If a Ratings Event occurs with respect to UBS AG, then UBS AG shall, at       its own expense, (i) assign this Transaction hereunder to a third party       within thirty (30) days of such Ratings Event that meets or exceeds, or as       to which any applicable credit support provider meets or exceeds, the       Approved Rating Threshold (as defined below) on terms substantially       similar to this Confirmation or (ii) deliver collateral acceptable in a       form and amount acceptable to Fitch Ratings ("Fitch") and Moody's       Investors Service Inc. ("Moody's) within thirty (30) days of such Ratings       Event and subject to written confirmation from Fitch and Moody's that       delivery of such collateral in the context of such downgrade will not       result in a withdrawal, qualification or downgrade of the then current       ratings assigned to the Certificates. For the avoidance of doubt, a       downgrade of the rating on Wells Fargo Mortgage Backed Securities 2006-6       Trust, Mortgage Pass-Through Certificates, Series 2006-6, Class I-A-22       (the "Certificates") could occur in the event that UBS AG does not post       sufficient collateral.
+
+For purposes of this Transaction, a "Ratings Event" shall occur with       respect to UBS AG if its long term unsecured debt rating (the "Long Term       Rating") ceases to be rated at least "A1" by Moody's Investors Service,       Inc. or at least "A+ by Fitch Ratings (such ratings being referred to as       the "Approved Ratings Threshold"), (unless, within 30 days after such       withdrawal or downgrade Fitch and Moody's have reconfirmed the rating of       the Certificates which were in effect immediately prior to such withdrawal       or downgrade).
+
+2. Swap Disclosure Event. If upon the occurrence of a Swap Disclosure Event (as defined in paragraph (xxiii) above), UBS AG has not, within 5 business days after such Swap Disclosure Event complied with any of the provisions set forth in paragraph (xxiii) above, then an Additional Termination Event shall have occurred with respect to UBS AG with UBS AG as the sole Affected Party with respect to such Additional Termination Event.
+
+Transfer, Amendment and Assignment:
+
+No transfer, amendment, waiver, supplement, assignment or other modification of this Transaction (other than the pledge of this Transaction to the Master Servicer pursuant to the Pooling and Servicing Agreement) shall be permitted by either party unless Moody's and Fitch have been provided notice of the same and confirm in writing (including by facsimile transmission) that they will not downgrade, qualify, withdraw or otherwise modify its then-current rating of the Certificates; provided however that except with respect to a transfer at the direction of UBS, nothing in this provision shall impose any obligation on UBS to give notice to any rating agency.
+
+Permitted Security Interest:
+
+For purposes of Section 7 of the Agreement, UBS AG hereby consents to the Permitted Security Interest.
+
+"Permitted Security Interest" means the collateral assignment by the Counterparty of the Cap Collateral to the Master Servicer pursuant to the Pooling and Servicing Agreement, and the granting to the Master Servicer of a security interest in the Cap Collateral pursuant to the Pooling and Servicing Agreement.
+
+"Cap Collateral" means all right, title and interest of the Counterparty in this Agreement, each Transaction hereunder, and all present and future amounts payable by UBS AG to the Counterparty under or in connection with the Agreement or any Transaction governed by the Agreement, whether or not evidenced by a Confirmation, including, without limitation, any transfer or termination of any such Transaction.
+
+Payer Tax Representations
+
+For the purposes of Section 3(e) of the Master Agreement, UBS AG will make the
+
+
+
+
+
+following representation and Counterparty will not make the following representation: it is not required by any applicable law, as modified by the practice of any relevant governmental revenue authority, of any Relevant Jurisdiction to make any deduction or withholding for or on account of any Tax from any payment (other than interest under Section 2(e), 6(d)(ii) or 6(e) of the Master Agreement) to be made by it to the other party under this Agreement. In making this representation, it may rely on (i) the accuracy of any representations made by the other party pursuant to Section 3(f) of the Master Agreement, (ii) the satisfaction of the agreement contained in Section 4(a)(i) or 4(a)(iii) of the Master Agreement and the accuracy and effectiveness of any document provided by the other party pursuant to Section 4(a)(i) or 4(a)(iii) of this Agreement and (iii) the satisfaction of the agreement of the other party contained in Section 4(d) of this Agreement, provided that it shall not be a breach of this representation where reliance is placed on clause (ii) and the other party does not deliver a form or document under Section 4(a)(iii) of this Agreement by reason of material prejudice to its legal or commercial position.
+
+Payee Tax Representations
+
+For the purpose of Section 3(f) of the ISDA Form, UBS AG makes the following representation:
+
+It is a non-U.S. branch of a foreign person as that term is used in section 1.1441-4(a)(3)(ii) of the United States Treasury Regulations (the "Regulations") for United States federal income tax purposes.
+
+For the purpose of Section 3(f) of the ISDA Form, the Counterparty makes the following representations:
+
+1.    The Counterparty is a New York common law trust and is regarded as a          Real Estate Mortgage Investment Conduit for federal income tax          purposes.
+
+2.    It is a "U.S. person" (as that term is used in section          1.1441-4(a)(3)(ii) of the United States Treasury Regulations for United          States federal income tax purposes.
+
+Agreement to Deliver Documents
+
+For purposes of Section 4(a)(i) and (ii) of the ISDA Form, the parties agree to deliver the following documents as applicable.
+
+Party required       Form/Document/            Date by which to deliver           Certificate               to be delivered document
+
+UBS AG and           Any form or document      Promptly upon Counterparty         required or reasonably    reasonable                      requested to allow the    demand by the                      other party to make       other party.                      payments without any                      deduction or                      withholding for or on                      account of any Tax, or                      with such deduction or                      withholding at a                      reduced rate. Counterparty         One duly executed and     Promptly upon                      completed U.S. Internal   reasonable                      Revenue Service Form      demand by the                      W-9 (or successor         other party                      thereto)
+
+Party required to  Form/Document/             Date by which to  Covered by Section deliver document   Certificate                be delivered      3(d) Representation                                                         UBS AG             Any documents required     Upon the          Yes                    by the receiving party     execution and                    to evidence the            delivery of                    authority of the           this Agreement                    delivering party for it    and such                    to execute and deliver     Confirmation                    this Confirmation and to                    evidence the authority                    of the delivering party                    to perform its                    obligations under this                    Agreement or the                    Transaction governed by                    this Confirmation
+
+UBS AG             A certificate of an        Upon the          Yes                    authorized officer of the  execution and                    party, as to the           delivery of                    incumbency and authority   this                    of the respective          Confirmation                    officers of the party                    signing this Confirmation
+
+UBS AG             Opinion of Counsel for     No later than     No                    UBS AG                     15 days after
+
+
+
+
+
+closing
+
+Relationship Between Parties Each party will be deemed to represent to the other party on the date on which it enters into this Transaction that (in the absence of a written agreement between the parties which expressly imposes affirmative obligations to the contrary for this Transaction):
+
+(a) Non-Reliance. Each party is acting for its own account, and has made its own independent decisions to enter into this Transaction and this Transaction is appropriate or proper for it based upon its own judgment and upon advice from such advisers as it has deemed necessary. Each party is not relying on any communication (written or oral) of the other party as investment advice or as a recommendation to enter into this Transaction; it being understood that information and explanation relating to the terms and conditions of this Transaction shall not be considered investment advice or a recommendation to enter into this Transaction. No communication (written or oral) received from the other party shall be deemed to be an assurance or guarantee as to the expected results of this Transaction.
+
+(b) Assessment and Understanding. Each party is capable of assessing the merits of and understands (on its own behalf or through independent professional advice), and accepts, the terms, conditions and risks of this Transaction. Each party is also capable of assuming and assumes, the risks of this Transaction.
+
+(c) Status of the Parties. Neither party is acting as a fiduciary for or as an adviser to the other in respect of this Transaction.
+
+(d) Eligible Contract Participant. Each party constitutes an "eligible contract participant" as such term is defined in Section 1(a)12 of the Commodity Exchange Act, as amended.
+
+Master Servicer Capacity. It is expressly understood and agreed by the parties hereto that insofar as this Confirmation is executed by the Master Servicer (i) this Confirmation is executed and delivered by Wells Fargo Bank, N.A., not in its individual capacity, but solely as Master Servicer with respect to Wells Fargo Mortgage Backed Securities 2006-6 Trust (the "Trust") under the Pooling and Servicing Agreement, dated as of April 27, 2006 (the "Pooling and Servicing Agreement") in the exercise of the powers and authority conferred upon and vested in it thereunder and pursuant to instruction set forth therein, (ii) each of the representations, undertakings and agreements herein made on the part of the Trust is made and intended not as a personal representation, undertaking or agreement by Wells Fargo Bank, N.A., but is made and intended for the purpose of binding only the Trust, (iii) nothing herein contained shall be construed as imposing any liability on Wells Fargo Bank, N.A. individually or personally, to perform any covenant either express or implied contained herein, all such liability, if any, being expressly waived by the parties hereto and by any Person claiming by, through or under the parties hereto, and (iv) under no circumstances shall Wells Fargo Bank, N.A. in its individual capacity be personally liable for the payment of any indebtedness or expenses or be personally liable for the breach or failure of any obligation, representation, warranty or covenant made or undertaken by the Trust under this Confirmation or any other related documents (other than the Master Servicer's express obligations under the Pooling and Servicing Agreement).
+
+References in this clause to "a party" shall, in the case of UBS AG and where the context so allows, include references to any affiliate of UBS AG.
+
+Account Details for UBS AG: Currency:                USD Correspondent Bank:      UBS AG, STAMFORD BRANCH Swift Address:           UBSWUS33XXX Favour:                  UBS AG LONDON BRANCH Swift Address:           UBSWGB2LXXX Account No:              101-wa-140007-000
+
+Offices (a) The office of UBS AG for the Interest Rate Cap Transaction is London; and The office of Counterparty for the Interest Rate Cap Transaction is:
+
+9062 Annapolis Road Columbia, Maryland 21045 Attn: Client Manager - WFMBS 2006-6 Telephone: 410.884.2000 Fax: 410.715.2380
+
+Contact Names at UBS AG: Payment Inquiries        Elisa Doctor                Email:                                       &bbsp;              DL-USOTCRATES-SETTS@ubs.com
+
+Phone: 203.719.1110 Pre Value Payments:      Pre Value Payment           203.719.1110                          Investigations: Post Value Payments:     Post Value Payment          203.719.1110                          Investigations: Confirmation Queries:    Confirmation Control:       203.719.3373 ISDA Documentation:      Credit Risk Management:     212.713.1170 Swift:                   UBSWGB2L Fax:                     203.719.0274 Address:                 UBS AG
+
+
+
+
+
+100 Liverpool Street                          London EC2M 2RH
+
+Address for notices or communications to the Counterparty:
+
+9062 Old Annapolis Road Columbia, MD 21045 Attn: Corporate Trust Services - WFMBS 2006-6
+
+Payments to Counterparty: Wells Fargo Bank, NA San Francisco, CA ABA #: 121-000-248 Acct #: 3970771416 Acct Name: SAS Clearing For Further Credit: Interest Rate Cap, Account # 50915701
+
+(For all purposes)
+
+Please confirm that the foregoing correctly sets forth the terms and conditions of our agreement by executing a copy of this Confirmation and returning it to us or by sending to us a letter or facsimile substantially similar to this letter, which letter or facsimile sets forth the material terms of the Transaction to which this Confirmation relates and indicates your agreement to those terms or by sending to us a return letter or facsimile in the form attached.
+
+This Confirmation may be executed in several counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument.
+
+Yours Faithfully For and on Behalf of UBS AG, London Branch
+
+By: /s/ Todd Harper                  By: /s/ Mark J. Evans II
+
+Name :  Todd Harper                  Name  : Mark J. Evans II Title : Associate Director           Title:  Director         UBS Operations                       Operations
+
+Acknowledged and Agreed by Wells Fargo Bank N.A., not individually, but solely as Master Servicer on behalf of Wells Fargo Mortgage Backed Securities 2006-6 Trust By: /s/ Jennifer L. Richardson
+
+Name :   Jennifer L. Richardson Title :  Assistant Vice President
+
+UBS AG London Branch, 1 Finsbury Avenue, London, EC2M 2PP UBS AG is a member of the London Stock Exchange and is regulated in the UK by the Financial Services Authority.  Representatives of UBS Limited introduce trades to UBS AG via UBS Limited.

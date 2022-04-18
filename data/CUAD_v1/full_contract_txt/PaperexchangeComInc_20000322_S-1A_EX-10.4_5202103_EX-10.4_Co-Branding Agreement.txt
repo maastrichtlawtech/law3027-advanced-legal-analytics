@@ -1,0 +1,989 @@
+Exhibit 10.4
+
+                              CO-BRANDING AGREEMENT
+
+This Co-Branding Agreement (this "Agreement") dated September 30, 1999 (the "Effective Date") is entered into between VerticalNet, Inc., a Pennsylvania corporation having a principal place of business at 700 Dresher Road, Suite 100, Horsham, Pennsylvania, PA 19044 ("VerticalNet"), and PaperExchange.com, LLC, a Delaware limited liability company having a principal place of business at 545 Boylston Street, 8th Floor, Boston, MA 02116 ("PaperExchange"). In consideration of the mutual covenants herein, and intending to be legally bound hereby, the parties agree as follows:
+
+1. DEFINITIONS
+
+      1.1. Affiliate shall mean, when used with reference to a party, any individual or entity directly or indirectly controlling, controlled by or under common control with such party. For purposes of this definition, "control" means the direct or indirect ownership of at least 50% of the outstanding voting securities of a party, or the right to control the policy decisions of such party.
+
+      1.2. Career Center Net Revenue shall have the meaning ascribed thereto in Section 7.1.1  [Co-Branded Career Center].
+
+      1.3. Co-Branded Career Center shall mean the "Career Center" portion of Pulp and Paper Online located at: http://www.pulpandpaperonline.com/Content/CareerCenter/Home/JobScan_Home.asp (or a successor Site thereto).
+
+      1.4. Co-Branded Equipment Listings shall mean the "Auctions" portion of Pulp and Paper Online located at: http://www2.pulpandpaperonline.com/content/auctions/home.asp (or a successor Site thereto).
+
+      1.5. Co-Branded Sites shall mean the Co-Branded Career Center and the Co-Branded Equipment Listings.
+
+      1.6. Co-Branded URLs shall mean the mutually agreed-upon URLs which shall be registered jointly by VerticalNet and PaperExchange and shall route users through to the Co-Branded Sites.
+
+      1.7. Confidential Information shall mean all proprietary and confidential information of a party, including, without limitation, trade secrets, technical information, business information, sales information, customer and potential customer lists and identities, product sales plans, sublicense agreements, inventions, developments, discoveries, software, know-how, methods, techniques, formulae, data, processes and other trade secrets and proprietary ideas, whether or not protectable under patent, trademark, copyright or other areas of law, that the other party has access to or receives, but does not include information that (a) is or becomes publicly available through no fault of receiving party; (b) was already known to the receiving party at the time it was disclosed to the receiving party, as evidenced by written records of the receiving party; (c) is independently developed by employees of the receiving party who had no knowledge of or
+
+* Confidential Treatment Requested: material has been omitted and filed   separately with the Commission.
+
+access to such information, as evidenced by written records of the receiving party; or (d) is received from a third party who is under no obligation of confidentiality to the disclosing party.
+
+      1.8. Equipment Listings Net Revenue shall have the meaning ascribed thereto in Section 7.1.2  [Co-Branded Equipment Listings].
+
+      1.9. Initial Term shall mean the Effective Date through the day prior to the fourth anniversary of the Effective Date, unless earlier terminated pursuant to Section 8.
+
+      1.10. Intellectual Property shall mean any and all trade secrets, patents, copyrights, trademarks, URLs, trade dress, brand features, know-how and similar rights of any type under the laws of any applicable governmental authority, including, without limitation, all applications and registrations relating to any of the foregoing.
+
+      1.11. Intellectual Property Rights shall mean all rights in and to Intellectual Property.
+
+      1.12. Link shall mean a link (including, but not limited to, a hyperlink, button or banner) that connects two Sites in a manner so that when a user clicks on the link, the user is transferred directly from one Site to a second Site. A "Link from Site A to Site B" indicates that Site A is the Site of origin and Site B is the Site to which the user is linked.
+
+      1.13. Net Advertising Revenue shall mean the gross amount billed to an advertiser for the sale of advertising on the Third Party Advertising Allocation on the PaperExchange Site, less (a) credits for claims, allowances, retroactive price reductions or returned goods, and (b) sales, excise, use, value-added and other similar taxes (excluding income taxes) actually paid, if applicable.
+
+      1.14. Packaging Online shall mean the Site located at www.packagingonline.com (or a successor Site thereto).
+
+      1.15. PaperExchange Career Content shall have the meaning ascribed thereto in Section 2.2  [CO-BRANDED CAREER CENTER AND CO-BRANDED ...].
+
+      1.16. PaperExchange Competitor shall mean any exchange, auction or reverse auction for the sale, purchase and/or exchange of pulp, paper and paper packaging.
+
+      1.17. PaperExchange Equipment Content shall have the meaning ascribed thereto in Section 2.2  [CO-BRANDED CAREER CENTER AND CO-BRANDED ...].
+
+      1.18. PaperExchange Deliverable shall mean any good, service or other item to be delivered or made available by PaperExchange.
+
+      1.19. PaperExchange Home Page shall mean the home page located at the PaperExchange Site.
+
+      1.20. PaperExchange Link shall mean a Link that contains a PaperExchange Mark and will take users of other Sites to the PaperExchange Home Page.
+
+                                       2
+
+Source: PAPEREXCHANGE COM INC, S-1/A, 3/22/2000
+
+
+
+
+
+      1.21. PaperExchange Mark shall mean any trademark, service mark, trade name, domain name, design or logo of PaperExchange.
+
+      1.22. PaperExchange Revenue shall mean the gross revenue received by PaperExchange from Transaction Fees less (a) credits for claims, allowances, retroactive price reductions or returned goods, and (b) sales, excise, use, value-added and other similar taxes (excluding income taxes) actually paid.
+
+      1.23. PaperExchange Site shall mean the Site located at www.PaperExchange.com (or a successor Site thereto).
+
+      1.24. Pulp and Paper Online shall mean the Site located at www.pulpandpaperonline.com (or a successor Site thereto).
+
+      1.25. Pulp and Paper Online Competitor shall mean any online vertical community portal for professionals in the pulp and paper industry (other than Pulp and Paper Online and PaperExchange).
+
+      1.26. Renewal Term shall have the meaning ascribed thereto in Section 8.1  [Automatic Renewal].
+
+      1.27. Site shall mean an Internet World Wide Web site.
+
+      1.28. Storefront shall mean a Site contained in (and linked to) a VerticalNet Site that, among other things, provides information regarding an advertiser and the advertiser's products and/or services, links a visitor to the advertiser's website, and/or generates sales leads for the advertiser from interested visitors, but does not include direct e-commerce fulfillment, such as catalog sales.
+
+      1.29. Term shall mean the Initial Term and any Renewal Terms.
+
+      1.30. Third Party Advertising Allocation shall have the meaning ascribed thereto in Section 4.1  [Advertisements on the PaperExchange Site].
+
+      1.31. Transaction Fees shall mean the fees received by PaperExchange from third parties in consideration for facilitating the purchase and/or sale of pulp and/or paper through the PaperExchange Site.
+
+      1.32. VerticalNet Archived Content shall have the meaning ascribed thereto in Section 3.2  [VERTICALNET CONTENT].
+
+      1.33. VerticalNet Content shall have the meaning ascribed thereto in Section 3.1  [VERTICALNET CONTENT].
+
+      1.34. VerticalNet Deliverable shall mean any good, service or other item to be delivered or made available by VerticalNet.
+
+      1.35. VerticalNet Link shall mean a Link that contains a VerticalNet Mark and will take users of other Sites to a page of Pulp and Paper Online.
+
+                                       3
+
+      1.36. VerticalNet Mark shall mean any trademark, service mark, trade name, domain name, design or logo of VerticalNet.
+
+2. CO-BRANDED CAREER CENTER AND CO-BRANDED EQUIPMENT LISTINGS
+
+      2.1. No later than seven days after the Effective Date, VerticalNet shall, at VerticalNet's sole cost and expense, design, develop and implement the Co-Branded Sites with the overall "look and feel" agreed upon by VerticalNet and PaperExchange, as shown in Exhibit A. After the Co-Branded Sites are implemented, VerticalNet shall notify PaperExchange in writing at least five days prior to making any material change to a Co-Branded Site, including, without limitation, a change in the location, sizing or placement of the PaperExchange Links. If PaperExchange does not notify VerticalNet of its rejection of such change within five days, PaperExchange shall be deemed to have approved such change. VerticalNet shall design, host and maintain the Co-Branded Sites at its sole cost and expense. Within 30 days after the Effective Date, VerticalNet and PaperExchange shall agree upon the Co-Branded URLs. The parties shall register the Co-Branded URLs reasonably promptly after the parties have agreed upon them.
+
+      2.2. From time to time, PaperExchange shall provide to VerticalNet, at PaperExchange's sole cost and expense, relevant content provided to it by third parties consisting of (a) job listings for inclusion, at VerticalNet's reasonable business discretion and at VerticalNet's then current listing rate, in the Co-Branded Career Center or on any other VerticalNet Site except a Site co-branded with a PaperExchange Competitor (the "PaperExchange Career Content") and (b) equipment listings for inclusion, at VerticalNet's reasonable business discretion and at VerticalNet's then current listing rate, in the Co-Branded Equipment Listings or on any other VerticalNet Site except a Site co-branded with a PaperExchange Competitor (the "PaperExchange Equipment Content", and together with the PaperExchange Career Content, the "PaperExchange Content"). PaperExchange shall not provide such PaperExchange Content to VerticalNet until the third party placing the listing has agreed to VerticalNet's then current terms and conditions, subject to final approval by VerticalNet. PaperExchange shall provide the PaperExchange Content in the form of the templates attached hereto as Exhibits B and C. Any listings placed on the Co-Branded Sites (or other VerticalNet Site as permitted in this Section 2.2  [CO-BRANDED CAREER CENTER AND CO-BRANDED ...]) by a user that entered the Co-Branded Site or permitted VerticalNet Site, as applicable, from a PaperExchange Site or from a Link to Pulp and Paper Online jointly placed by VerticalNet and PaperExchange, or placed solely by PaperExchange, on a third party's Site shall be treated as "PaperExchange Content" for all purposes of this Agreement. VerticalNet shall be responsible for, and shall have sole control of, all credit, billing and collection in connection with the PaperExchange Content. PaperExchange shall have no authority to make collections on behalf of VerticalNet.
+
+      2.3. PaperExchange hereby grants VerticalNet an exclusive license to use, modify, enhance, reproduce, display, perform and transmit the PaperExchange Content, subject to and in accordance with the terms, conditions and provisions of this Agreement. VerticalNet shall not disclose, transfer or otherwise provide the PaperExchange Content to any third party, including, but not limited to, any PaperExchange Competitor, except as otherwise permitted under this Agreement.
+
+                                       4
+
+      2.4. PaperExchange shall, at PaperExchange's sole cost and expense, place Links on the PaperExchange Home Page labeled "Career Center" and "Equipment Listings" (or mutually agreeable substitutes for such terms) in a mutually agreeable location and size that will directly transfer users to the Co-Branded Sites.
+
+      2.5. VerticalNet, in its reasonable business discretion, shall market the Co-Branded Sites on Pulp and Paper Online, at pulp and paper industry trade shows, in its print advertisement campaigns and through its sales force. Such marketing activities shall be at VerticalNet's sole cost and expense.
+
+      2.6. PaperExchange, in its reasonable business discretion, shall market the Co-Branded Sites on the PaperExchange Home Page, at pulp and paper industry trade shows, in its print advertisement campaigns and through its sales force.
+
+Source: PAPEREXCHANGE COM INC, S-1/A, 3/22/2000
+
+
+
+
+
+Such marketing activities shall be at PaperExchange's sole cost and expense.
+
+      2.7. VerticalNet will provide, install, repair, maintain and pay for the communications, computer and peripheral equipment, services and facilities supporting the Co-Branded Sites. VerticalNet shall maintain the Co-Branded Sites in a high quality and professional manner consistent with its maintenance of other VerticalNet Sites. VerticalNet and PaperExchange shall be responsible for the sale of all advertising on the Co-Branded Sites; provided, however, that neither party shall sell advertising on the Co-Branded Sites to a competitor (as defined in 1.16 and 1.25) and provided that each party shall submit any proposed advertising for the Co-Branded Sites to the other party for its prior written approval, such approval not to be unreasonably withheld, delayed or conditioned.
+
+      2.8. VerticalNet shall be solely responsible for the development, operation and maintenance of Pulp and Paper Online and for all materials that appear on Pulp and Paper Online, except for the PaperExchange Content.
+
+      2.9. PaperExchange shall be solely responsible for the development, operation and maintenance of the PaperExchange Site and for all materials that appear on the PaperExchange Site, except for the VerticalNet Content and the VerticalNet Archived Content.
+
+3. VERTICALNET CONTENT
+
+      3.1. VerticalNet shall provide or make available to PaperExchange, for use in accordance with the provisions of this Agreement, (a) the full text of all original content (headlines, feature articles, columns and case studies) created from time to time by the Managing Editor of Pulp and Paper Online, and (b) the content created from time to time by guest columnists for Pulp and Paper Online, to the extent such columnists have approved the provision of such content by VerticalNet to PaperExchange. VerticalNet shall provide such content (the "VerticalNet Content") to PaperExchange twice per week, in two "batches" of the VerticalNet Content created or acquired since the last provision of VerticalNet Content by VerticalNet to PaperExchange.
+
+      3.2. VerticalNet hereby grants to PaperExchange a non-exclusive, non-transferable license to use, reproduce, display and transmit the VerticalNet Content, solely in connection with the development, maintenance and operation of the PaperExchange Site, subject to and in accordance with the terms, conditions and provisions of this Agreement. PaperExchange may
+
+                                       5
+
+reproduce, display and transmit any VerticalNet Content for up to three weeks on the PaperExchange Site, and after the expiration of such three week period PaperExchange shall cease to reproduce, display and transmit such VerticalNet Content and remove such VerticalNet Content from the PaperExchange Site.
+
+      3.3. PaperExchange shall place a VerticalNet Link in a mutually agreeable location and size on each page of the PaperExchange Site that contains all or a portion of the VerticalNet Content.
+
+      3.4. PaperExchange shall list on a mutually acceptable page of the PaperExchange Site headlines and abstracts of the VerticalNet Content then reproduced, displayed and transmitted on the PaperExchange Site. PaperExchange shall place two VerticalNet Links in mutually agreeable locations and sizes on such page of the PaperExchange Site, the first of which will take users to the Buyer's Guide on Pulp and Paper Online, and the second of which will take users to the Professional e-Bookstore on Pulp and Paper Online. VerticalNet and PaperExchange shall mutually agree upon the method of implementing such links.
+
+      3.5. PaperExchange shall not remove any titles or any trademark, copyright or patent notices, or any proprietary or restricted rights notices that appear on the VerticalNet Content and/or the VerticalNet Archived Content. All such titles and notices must be reproduced on all permitted copies of the VerticalNet Content and/or the VerticalNet Archived Content.
+
+      3.6. During the Term, VerticalNet will not disclose, transfer or otherwise provide the VerticalNet Content and/or the VerticalNet Archived Content to any PaperExchange Competitor.
+
+4. ADVERTISING
+
+      4.1. Advertisements on the PaperExchange Site.
+
+            4.1.1. During the Term, VerticalNet shall have the exclusive right to arrange for the sale of ***** of the third party advertising inventory (which shall consist of a minimum of one advertisement per page on each of the "Co-Branded Equipment," "Co-Branded Careers," "Resources" and "Home Page" sections or successor, replacement or substitute sections) of the PaperExchange Site and shall be consistent with the amount of advertising on other business to business vertical sites on the PaperExchange Site (the "Third Party Advertising Allocation"). PaperExchange shall retain the right to place advertisements for its own account on the remaining ***** of the Third Party Advertising Allocation; provided, however, that if any portion of such Third Party Advertising Allocation remains unsold 45 days after it becomes available for advertising, VerticalNet shall have the exclusive right to arrange for third party advertising on such unsold Third Party Advertising Allocation.
+
+            4.1.2. VerticalNet will use reasonable efforts to sell advertisements on the PaperExchange Site. The advertising policies (including rates and procedures) applicable to VerticalNet's sale of advertising for the PaperExchange Site will be mutually agreed upon by VerticalNet and PaperExchange (the "PaperExchange Advertising Policies"). Any changes to the agreed upon PaperExchange Advertising Policies shall be mutually agreed upon by the parties.
+
+* Confidential Treatment Requested: material has been omitted and filed   separately with the Commission.
+
+                                       6
+
+            4.1.3. VerticalNet shall provide notice to the Director of Online Marketing of PaperExchange of each advertiser that agrees to place an advertisement on a PaperExchange Site on the terms and conditions contained in the then current PaperExchange Advertising Policies. PaperExchange shall then have three business days after receipt of such notice to (a) accept or reject such advertiser, in its reasonable business discretion, and (b) notify VerticalNet of its decision. If, at the end of such three-day period, PaperExchange has not responded to such notice, PaperExchange shall be deemed to have accepted such advertiser. PaperExchange shall then work with the advertiser to facilitate the Placement of the advertisement and maintain such advertisement on the agreed-upon page of the PaperExchange Site. PaperExchange shall have the right to terminate its agreement with any such advertiser in its reasonable business discretion. To the extent an advertisement of equivalent size and location appears on both Pulp and Paper Online and the PaperExchange Site, the parties shall mutually agree upon the CPM, CPC or other use-based advertising rates, which rate shall be identical for such advertisements. PaperExchange shall be responsible for, and shall have sole control of, all credit, billing and collection with the advertisements on the PaperExchange Site. VerticalNet shall have no authority to make collections on behalf of PaperExchange.
+
+Source: PAPEREXCHANGE COM INC, S-1/A, 3/22/2000
+
+
+
+
+
+      4.2. Sales Leads. PaperExchange will, in its sole discretion, request that its Board of Directors and veteran industry sales force use reasonable efforts to provide pulp and paper industry specific sales strategies and specific sales leads to VerticalNet. Such strategies and leads shall include segments of the industry that are currently lacking effective advertising solutions, and how such industry participants could be marketed to by VerticalNet for the purposes of this Section 4. VerticalNet may only use the information provided to them pursuant to this Section 4.2  [Sales Leads] in connection with its performance under this Section 4.
+
+      4.3. Non-Competition.
+
+            4.3.1. During the Term, VerticalNet shall not (a) act as an advertising agent or representative for any PaperExchange Competitor and (b) place any advertisements on Pulp and Paper Online from any PaperExchange Competitor.
+
+            4.3.2. During the Term, PaperExchange shall not place any advertisements on the PaperExchange Site from any Pulp and Paper Online Competitor.
+
+5. CO-MARKETING ACTIVITIES
+
+      5.1. Trade Shows and Conventions.
+
+            5.1.1. During the Term, PaperExchange shall use commercially reasonable efforts to expand its presence at major national and international pulp and paper industry trade shows and conventions, including booth exhibitions, attendance by industry veteran sales force from all the major paper grades and industry panel sponsorships, when available. PaperExchange, in its reasonable business discretion, shall actively engage in co-branded activities with VerticalNet at PaperExchange's booth exhibitions and shall maintain an open invitation policy for VerticalNet to send its own sales force to co-locate, subject to Section 5.1.3  [Trade Shows and Conventions], with PaperExchange at its trade show booths.
+
+            5.1.2. VerticalNet, in its reasonable business discretion, shall offer PaperExchange
+
+                                       7
+
+exhibit booth space at pulp and paper industry trade shows that VerticalNet is unable to use on the same terms that VerticalNet accepted for such space.
+
+            5.1.3. When VerticalNet and PaperExchange are both attending pulp and paper industry trade shows, VerticalNet and PaperExchange shall work together to share costs of such trade shows and related material.
+
+      5.2. Sales Force Visits. PaperExchange shall use commercially reasonable efforts to (a) expand its sales force presence on a national and international basis, in all major paper grades and (b) commit its sales force to promote Pulp and Paper Online through "on-the-ground" activities including site visits to mills, converters, printers and brokers.
+
+      5.3. Advertising Campaigns.
+
+            5.3.1. PaperExchange shall, in its reasonable business discretion, promote the PaperExchange Site through print medium.
+
+            5.3.2. VerticalNet shall, in its reasonable business discretion, promote Pulp and Paper Online through print medium.
+
+            5.3.3. VerticalNet and PaperExchange shall co-promote the PaperExchange Home Page and Pulp and Paper Online in mutually agreeable advertising and collateral marketing material. All co-promotion advertising materials produced by or on behalf of either party (the "Originating Party") shall be subject to the written approval of the other party (the "Receiving Party"), which approval shall not to be unreasonably withheld, delayed or conditioned. The Receiving Party shall notify the Originating Party of its approval or disapproval of such advertising materials as soon as practicable, but in any event within five business days after Receiving Party's receipt thereof. Any failure of the Receiving Party to respond within such five business day period shall be deemed disapproval of the advertising materials in question.
+
+      5.4. Pulp and Paper Online Promotion. PaperExchange shall place the VerticalNet Links in a mutually agreeable location and size on the PaperExchange Site as soon as practicable and in no event more than 15 days after the Effective Date. The VerticalNet Links shall remain on the PaperExchange Site during the Term.
+
+      5.5. PaperExchange Home Page Promotion. VerticalNet shall place the PaperExchange Links on Pulp and Paper Online in a mutually agreeable location and size as soon as practicable and in no event more than 15 days after the Effective Date. The PaperExchange Links shall remain on Pulp and Paper Online during the Term.
+
+      5.6. Newsletter. VerticalNet shall include a PaperExchange Link in a mutually agreeable location and size in the Pulp and Paper Online weekly online newsletter sent to VerticalNet's newsletter database.
+
+      5.7. Discussion Groups. VerticalNet, in its reasonable business discretion, shall provide to PaperExchange co-sponsorship opportunities for discussion groups and USENET forums.
+
+      5.8. Non-Competition.
+
+                                       8
+
+            5.8.1. During the Term and for a period of four years after the termination of this Agreement, VerticalNet shall not, directly or indirectly, by itself, through its Affiliates or through any type of joint venture or similar affiliation with a third party, without prior written approval from PaperExchange, buy, sell or trade (a) paper pulp products through exchanges, auctions, or reverse auctions or any other e-commerce medium, (b) paper (other than finished paper-based products, including, but not limited to, books, stamps and labels) and copy paper (i) through exchanges, auctions or reverse auctions or (ii) in quantities greater than one ton through any e-commerce medium, (c) raw materials used to make paper packaging, including, but not limited to, linerboard, medium, other containerboard grades and corrugated sheet through exchanges, auctions, reverse auctions or any other e-commerce medium, or (d) paper rolls and reels weighing more than 50 pounds used by printers through exchanges, auctions, reverse auctions or any other e-commerce medium; provided, however, that this Section 5.8.1  [Non-Competition] shall not apply to advertisements, Storefronts or similar features on VerticalNet's Sites.
+
+            5.8.2. During the Term, VerticalNet will not, directly or indirectly, design, host, operate, maintain or otherwise participate in a co-branded career center or a co-branded equipment listing Site with a PaperExchange Competitor or license a VerticalNet Link for use or display on any PaperExchange Competitor's Site.
+
+Source: PAPEREXCHANGE COM INC, S-1/A, 3/22/2000
+
+
+
+
+
+            5.8.3. During the Term, PaperExchange will not, directly or indirectly, design, host, operate, maintain or otherwise participate in a co-branded career center or a co-branded equipment listing Site with a Pulp and Paper Online Competitor or license a PaperExchange Link for use or display on any Pulp and Paper Online Competitor's Site.
+
+      5.9. Exchange.
+
+            5.9.1. PaperExchange shall provide to VerticalNet an ID and a password that will allow VerticalNet to access the "Exchange" portion of the PaperExchange Site. PaperExchange shall provide reasonable training to VerticalNet with respect to the creation, operation and marketing of such an exchange.
+
+            5.9.2. PaperExchange will place a VerticalNet Link in a mutually agreeable location and size on the "Exchange" portion of the PaperExchange Site.
+
+      5.10. Allocation of Resources. During the Term, each of PaperExchange and VerticalNet agrees to dedicate reasonable financial, marketing and staffing resources in order to actively promote the activities contemplated by this Agreement and will use reasonable efforts to maintain the strategic alliance described in this Agreement (and its focus on the pulp, paper and packaging industry generally) as a high priority.
+
+6. INTELLECTUAL PROPERTY
+
+      6.1. Except as set forth in Sections 4.3.1  [Non-Competition] and 5.8  [Non-Competition], nothing in this Agreement shall be construed as preventing VerticalNet from implementing VerticalNet Links on any other Site.
+
+      6.2. Except as set forth in Sections 4.3  [Non-Competition] or 5.8.3  [Non-Competition], nothing in this Agreement shall be construed as preventing PaperExchange from implementing PaperExchange Links on any other Site.
+
+                                       9
+
+      6.3. VerticalNet hereby grants to PaperExchange a non-exclusive, non-transferable, royalty-free, right and license to link to Pulp and Paper Online through a VerticalNet Link. VerticalNet shall furnish PaperExchange with a full color representation of each VerticalNet Link at least two days prior to its scheduled placement on a page of the PaperExchange Site. If VerticalNet subsequently modifies any VerticalNet Link or the URL associated with such VerticalNet Link, it shall furnish a representation of same to PaperExchange, which PaperExchange shall substitute for the prior version within two days after receipt thereof. VerticalNet shall have final approval over all VerticalNet Links on the PaperExchange Site.
+
+      6.4. PaperExchange hereby grants VerticalNet a non-exclusive, non-transferable, royalty-free, right and license to link to the PaperExchange Site through a PaperExchange Link. PaperExchange shall furnish VerticalNet with a full color representation of each PaperExchange Link at least two days prior to its scheduled placement on Pulp and Paper Online. If PaperExchange subsequently modifies any PaperExchange Link or the URL associated with such PaperExchange Link, it shall furnish a representation of same to VerticalNet, which VerticalNet shall substitute for the prior version within two days after receipt thereof. PaperExchange shall have final approval over all PaperExchange Links on Pulp and Paper Online.
+
+      6.5. Except for the express rights granted to PaperExchange under this Agreement, PaperExchange acknowledges and agrees that the Intellectual Property of VerticalNet is and shall remain the sole property of VerticalNet and nothing in this Agreement shall confer in PaperExchange any right of ownership or license rights in VerticalNet's Intellectual Property. In addition, PaperExchange shall not now or in the future contest the validity of VerticalNet's Intellectual Property.
+
+      6.6. Except for the express rights granted to VerticalNet under this Agreement, VerticalNet acknowledges and agrees that the Intellectual Property of PaperExchange is and shall remain the sole property of PaperExchange and nothing in this Agreement shall confer in VerticalNet any right of ownership or license rights in PaperExchange's Intellectual Property. In addition, VerticalNet shall not now or in the future contest the validity of PaperExchange's Intellectual Property.
+
+      6.7. PaperExchange agrees to use the VerticalNet Marks in accordance with the terms of this Agreement and with good trademark practices including, but not limited to, protecting the value of the goodwill residing in such Intellectual Property.
+
+      6.8. VerticalNet agrees to use the PaperExchange Marks in accordance with the terms of this Agreement and with good trademark practices including, but not limited to, protecting the value of the goodwill residing in such Intellectual Property.
+
+      6.9. Except as set forth in Sections 4.3  [Non-Competition] and 5.8  [Non-Competition], nothing in this Agreement shall be construed as preventing either party from developing other co-branded versions of its materials, data, information and content.
+
+                                       10
+
+7. COMMERCIAL TERMS
+
+      7.1. Co-Branded Sites.
+
+            7.1.1. Co-Branded Career Center. VerticalNet will pay PaperExchange ***** of the Career Center Net Revenue. ."Career Center Net Revenue" shall mean the (a) listing fees related to the Co-Branded Career Center and any other VerticalNet Site on which the listings are posted, (b) Co-Branded Career Center e-commerce revenue and (c) other Co-Branded Career Center revenue, in each case under the preceding clauses (a), (b) and (c), to the extent derived during the Term from PaperExchange or the PaperExchange Content provided to VerticalNet by PaperExchange pursuant to this Agreement, or as otherwise mutually agreed upon by the parties, less (i) credits for claims, allowances, retroactive price reductions or returned goods, and (ii) sales, excise, use, value-added and other similar taxes (excluding income taxes) actually paid.
+
+            7.1.2. Co-Branded Equipment Listings. VerticalNet will pay PaperExchange ***** of the Equipment Listings Net Revenue. "Equipment Listings Net Revenue" shall mean the (a) listing fees related to Co-Branded Equipment Listings and any other VerticalNet Site on which the listings are posted, (b) Co-Branded Equipment Listings e-commerce revenue and (c) other Co-Branded Equipment Listings revenue, in each case under the preceding clauses (a), (b) and (c), to the extent derived during the Term from PaperExchange or the PaperExchange Content provided to VerticalNet by PaperExchange pursuant to this Agreement, or as otherwise mutually agreed upon by the parties, less (i) credits for claims, allowances, retroactive price reductions or returned goods, and (ii) sales, excise, use, value-added and other similar taxes (excluding income taxes) actually paid.
+
+            7.1.3. Review of Payments. VerticalNet and PaperExchange will conduct a good faith review of the payments generated under Sections 7.1.1  [Co-Branded Career Center] and
+
+Source: PAPEREXCHANGE COM INC, S-1/A, 3/22/2000
+
+
+
+
+
+7.1.2  [Co-Branded Equipment Listings] no later than six months after the Effective Date and may mutually agree, subject to Section 13.6  [Amendment or Modification], to amend Sections 7.1.1  [Co-Branded Career Center] and/or 7.1.2  [Co-Branded Equipment Listings] at that time. If VerticalNet and PaperExchange are unable to reasonably agree on whether or how to amend Section 7.1.2  [Co-Branded Equipment Listings], either party shall have the right to immediately terminate the rights and obligations of the parties under Sections 2 and 7.1.2  [Co-Branded Equipment Listings] with respect to the Co-Branded Equipment Listings and PaperExchange Equipment Content; provided, however, that all other rights and obligations under this Agreement (including the rights and obligations of the parties under Sections 4.3  [Non-Competition] and 5.8  [Non-Competition]) shall continue in full force and effect unless and until terminated in accordance with Section 8. The parties understand and agree that termination of the rights and obligations of the parties under Sections 2 and 7.1.2  [Co-Branded Equipment Listings] in accordance with this Section 7.1.3  [Review of Payments] shall not permit either party to terminate this Agreement pursuant to Section 8.2  [Termination for Cause].
+
+            7.1.4. Professional e-Bookstore Sales. VerticalNet will pay PaperExchange ***** of the gross sales of the Professional e-Bookstore on Pulp and Paper Online that originated from the PaperExchange Site.
+
+      7.2. Advertising Revenue.
+
+            7.2.1. During the Term, VerticalNet shall not share any revenue derived from advertisements hosted on Pulp and Paper Online or any other VerticalNet Site with PaperExchange; provided, however, that if PaperExchange brings VerticalNet a Qualified Lead
+
+* Confidential Treatment Requested: material has been omitted and filed   separately with the Commission
+
+                                       11
+
+(as defined below) for a new customer that turns into a sale of advertising on Pulp and Paper. Online or Packaging Online, including, without limitation, the Co-Branded Sites, VerticalNet shall pay to PaperExchange a commission of ***** of the Net Advertising Revenue resulting from such sale of advertising, with the exception that if such advertising is on the Co-branded Career Center, VerticalNet shall pay PaperExchange a commission of ***** of the Net Advertising Revenue resulting from such sale of advertising. As used in this Section 7.2.1  [Advertising Revenue], a "Qualified Lead" shall mean a customer referred to VerticalNet by PaperExchange that is not, at the time of referral, a customer of VerticalNet, and which customer has agreed to place an advertisement on Pulp and Paper Online or Packaging Online on the terms and conditions contained in VerticalNet's then current advertising policies.
+
+            7.2.2. PaperExchange shall pay to VerticalNet a commission of ***** of the Net Advertising Revenue received during the Term for advertisements located on the Third Party Advertising Allocation of the PaperExchange Site.
+
+            7.2.3. If PaperExchange sells advertising to a third party on the PaperExchange Site independently from VerticalNet, PaperExchange shall pay to VerticalNet a commission of ***** of the Net Advertising Revenue resulting from such advertising during the Term; provided, however, that if PaperExchange previously rejected advertising by such party when proposed by VerticalNet pursuant to Section 4.1  [Advertisements on the PaperExchange Site], or terminated without cause a prior agreement with such third party that had resulted from such a proposal by VerticalNet, then PaperExchange shall pay ***** of the Net Advertising Revenue resulting from such advertising during the Term to VerticalNet. PaperExchange shall provide prompt notice to VerticalNet of each advertiser that has agreed with PaperExchange to place an advertisement on a page of the PaperExchange Site.
+
+      7.3. Fees. In consideration of VerticalNet's agreement to enter into an exclusivity and non-competition agreement herein, in conjunction with the other obligations under this Agreement, PaperExchange shall make the following payments to VerticalNet upon the earlier of (a) December 31, 1999 and (b) the receipt by PaperExchange of an aggregate of ***** in additional funding:
+
+            7.3.1. a ***** one-time, non-refundable fee in consideration of the execution of this Agreement;
+
+            7.3.2. a ***** one-time, non-refundable fee in consideration of the design, development and implementation of the Co-Branded Career Center as described in Section 2; and
+
+            7.3.3. ***** in consideration of the design, development and implementation of the Co-Branded Equipment Listings Site as described in Section 2.
+
+      7.4. Revenue Sharing. After PaperExchange has generated PaperExchange Revenue equal to *****, PaperExchange shall pay an amount equal to ***** of the PaperExchange Revenue to VerticalNet; provided, however, that if, in any given calendar year, VerticalNet receives ***** pursuant to this Section 7.4  [Revenue Sharing], the percentage of PaperExchange Revenue that PaperExchange shall pay to VerticalNet for the remainder of such calendar year shall be reduced to *****; and provided further, however, that if, in any given calendar year, VerticalNet receives
+
+* Confidential Treatment Requested: material has been omitted and filed   separately with the Commission.
+
+                                       12
+
+***** in the aggregate pursuant to this Section 7.4  [Revenue Sharing], the percentage of PaperExchange Revenue that PaperExchange shall pay to VerticalNet for the remainder of such calendar year shall be reduced to *****.
+
+      7.5. Payment Terms. Each party shall provide the other party with all amounts due under this Agreement for the prior calendar quarter within 30 days after the end of each calendar quarter during the Term. Each payment shall be accompanied by a statement detailing the amount of applicable gross revenue received, the calculation of the amount due to the other party and the amount of the payment accompanying such statement. All payments due to either party hereunder shall be made in immediately available U.S. funds, without set-off or counterclaim, free and clear of (and without deduction for or grossed up for, as applicable), any taxes, duties, charges, withholdings, restrictions or conditions of any nature imposed or levied by any governmental taxing or other authority.
+
+      7.6. Taxes. All payments required under this Agreement are exclusive of federal, state, local and foreign taxes, duties, tariffs, levies and similar assessments. When applicable, such taxes shall appear as separate items on a party's invoice or statement of the other party. Payment of such taxes or charges shall be the responsibility of the party whose obligation it is under this Agreement to make the payment in respect of which such taxes are assessed, excluding any taxes based upon the other party's net income. In lieu thereof, a party shall provide the other party with a tax or levy exemption certificate acceptable to the taxing or levying authority.
+
+      7.7. Audits. During the 18-month period following the payment by one party of any amount due under this Agreement to the other party, the party receiving
+
+Source: PAPEREXCHANGE COM INC, S-1/A, 3/22/2000
+
+
+
+
+
+payment (the "Auditing Party") shall have the right to have an independent third party (the "Auditor") audit the financial records of the other party (the "Audited Party") relating to such payment to verify the accuracy of the Audited Party's financial records in order to verify the amount of the payments owed and/or paid. The Auditing Party may cause the Auditor to perform such an audit not more than once in any 12-month period, unless a prior audit within the past two years revealed that the amount owed by the Audited Party to the Auditing Party was underpaid in excess of 5% of the amount owed, in which case an audit may be performed no more frequently than once in any three month period. If the amount owed by the Audited Party to the Auditing Party was underpaid, the Audited Party shall pay the additional amount owed and all accrued interest thereon to the Auditing Party within 15 days of notice of such underpayment to the Audited Party. If the amount owed by' the Audited Party to the Auditing Party was underpaid in excess of 10% of the amount owed, the fees of such audit shall also be paid to the Auditing Party within 15 days of notice of such to the Audited Party. If the amount owed by the Audited Party to the Auditing Party was overpaid, the Auditing Party shall return the excess amount paid to the Auditing Party within 15 days of notice of such underpayment to the Auditing Party. The Auditing Party shall give reasonable advance written notice to the Audited Party, and each audit shall be conducted during normal business hours and in a manner that does not cause unreasonable disruption to the conduct of business by the Audited Party.
+
+      7.8. Interest. All payments not paid by the date such payments are due shall bear interest from the due date to the date payments are actually paid at the rate of the lower of (a) 1% per month or (b) the maximum rate permitted by law.
+
+* Confidential Treatment Requested: material has been omitted and filed   separately with the Commission.
+
+                                       13
+
+8. TERM AND TERMINATION
+
+      8.1. Automatic Renewal. This Agreement will automatically renew at the end of the Initial Term or a subsequent renewal term on a year to year basis (each, a "Renewal Term"), unless either party notifies the other at least 30 days prior to the end of the Initial Term or then current Renewal Term, as applicable, of its intention not to renew this Agreement.
+
+      8.2. Termination for Cause. Either party may terminate this Agreement immediately upon written notice to the other party in the event any material breach of a material term of this Agreement by such other party that remains uncured 30 days in the case of a breach of a payment obligation, or 45 days for all other breaches, after notice of such breach was received by such other party; provided, however that if such breach is not reasonably capable of cure within the applicable cure period, the breaching party shall have an additional 180 days to cure such breach so long as the cure is commenced within the applicable cure period and thereafter is diligently prosecuted to completion as soon as possible.
+
+      8.3. Upon Termination. Upon termination of this Agreement, (a) each party's liability for any charges, payments or expenses due to the other party that accrued prior to the date of termination shall not be extinguished by termination, and such amounts (if not otherwise due on an earlier date) shall be immediately due and payable on the termination date; (b) VerticalNet shall be responsible for all charges, payments or expenses incurred by it in connection with the removal of the PaperExchange Links from Co-Branded Sites and the modification of the Co-Branded Sites, including, but not limited to, the removal of PaperExchange Content; (c) PaperExchange shall be responsible for all charges, payments or expenses incurred by it in connection with the removal of the VerticalNet Links, VerticalNet Content and VerticalNet Archived Content from the PaperExchange Site; (d) all rights of PaperExchange to use, display, reproduce or publish the VerticalNet Marks shall immediately cease. (e) all rights of PaperExchange to use, reproduce, display and transmit the VerticalNet Content and VerticalNet Archived Content shall immediately cease and PaperExchange shall destroy all copies of such content, (f) all rights of VerticalNet to use, display, reproduce or publish the PaperExchange Marks shall immediately cease, (g) all rights of VerticalNet to use, create derivative works of, reproduce, display, perform and transmit the PaperExchange Content shall immediately cease and VerticalNet shall, at PaperExchange's cost, return one copy of the PaperExchange Content displayed on the Co-Branded Sites to PaperExchange in electronic format and destroy all other copies of such content, (h) all rights of VerticalNet to arrange for the sale of advertising on the Third Party Advertising Allocation on the PaperExchange Site shall immediately cease, (i) VerticalNet shall retain ownership of the URLs at which the Co-Branded Sites are located, (I) the Co-Branded URLs shall be owned by the party that offers to pay the highest amount to the other for the ownership of such URLs upon payment of such amount to the other party (k) if the agreement is terminated during the Initial Term by VerticalNet pursuant to Section 8.2  [Termination for Cause], (x) VerticalNet shall be released from its obligations under Section 5.8.1  [Non-Competition] and (y) PaperExchange's obligations under Sections 7.2  [Advertising Revenue] and 7.4  [Revenue Sharing] shall be extended for one year after the date of such termination, and (I) if the agreement is terminated during the Initial Term by PaperExchange pursuant to Section 8.2  [Termination for Cause], VerticalNet shall pay to PaperExchange, as liquidated damages, an amount equal to the product determined by multiplying (1) a fraction, the numerator of which shall be the number of days between the effective date of termination and the scheduled expiration date of the Initial Term, and the denominator of which shall be the number of days
+
+                                       14
+
+between the Effective Date and the scheduled expiration date of the Initial Term, by (2) *****
+
+9. DISPUTE RESOLUTION
+
+      9.1. Negotiation and Escalation. If any controversy or claim arises relating to this Agreement, the parties will attempt in good faith to negotiate a solution to their differences, including progressively escalating any controversy or claim through senior levels of management. If negotiation does not result in a resolution within 30 days of when one party first notifies the other of the controversy or claim, either party may resort to arbitration under Section 9.2  [Arbitration].
+
+      9.2. Arbitration. Any controversy or claim between the parties concerning any breach or alleged breach of this Agreement or performance or nonperformance of any obligation under this Agreement which cannot be resolved by negotiation will be resolved by binding arbitration under this Section 9.2  [Arbitration] and the then-current Commercial Rules and supervision of the American Arbitration Association (the "AAA"). If any part of this Section 9.2  [Arbitration] is held to be unenforceable, it will be severed and will not affect either the duty to arbitrate or any other part of this Section 9.2  [Arbitration]. The arbitration will be held in New York, New York, before a sole disinterested arbitrator who is knowledgeable in business information and the Internet and experienced in handling commercial disputes. The arbitrator shall be appointed jointly by the parties hereto within 30 days following the date on which the arbitration is instituted. If the parties are unable to agree upon the arbitrator within such 30-day period, the AAA shall be instructed to select such arbitrator within 15 days thereafter. The arbitrator's award will be final and binding and may be entered in any court
+
+Source: PAPEREXCHANGE COM INC, S-1/A, 3/22/2000
+
+
+
+
+
+having jurisdiction. The arbitrator will not have the power to award punitive or exemplary damages, or any damages excluded by, or in excess of, any damage limitations expressed in this Agreement. Issues of arbitrability will be determined in accordance solely with the federal substantive and procedural laws relating to arbitration; in all other respects, the arbitrator will be obligated to apply and follow the substantive law of the Commonwealth of Pennsylvania.
+
+      9.3. Equitable Relief. Notwithstanding anything to the contrary in this Agreement, in the event of an alleged violation of Article 10  [CONFIDENTIALITY] of this Agreement by either party, the party alleging such a violation may seek temporary injunctive or other appropriate equitable relief from any court of competent jurisdiction pending appointment of an arbitrator. The party requesting such relief shall simultaneously file a demand for arbitration of the dispute, and shall request that the American Arbitration Association proceed under its rules for an expedited hearing.
+
+      9.4. Costs. Unless the arbitrator, if any, determines otherwise, each party will bear its own attorneys' fees and other costs associated with the negotiation and arbitration provided for by this Article 9  [DISPUTE RESOLUTION], except that costs and expenses of the arbitrators shall be shared equally. If court proceedings to stay litigation or compel arbitration are necessary, the party who unsuccessfully opposes such proceedings will pay all associated costs, expenses and attorneys' fees that are reasonably incurred by the other party.
+
+* Confidential Treatment Requested: material has been omitted and filed   separately with the Commission.
+
+                                       15
+
+      9.5. Two Year Limitation. Except for claims under Sections 12.4  [Indemnification by PaperExchange] and 12.5  [Indemnification by VerticalNet] hereof, neither party may bring a claim or action regardless of form, arising out of or related to this Agreement, including any claim of fraud or misrepresentation, more than two years after the cause of action accrues or becomes known, whichever is later.
+
+      9.6. Confidentiality. In order to facilitate the resolution of controversies or claims between the parties with respect to each party hereto, such controversies or claims, including details regarding negotiations, arbitration and settlement terms, shall be treated as Confidential Information of the other party hereto in accordance with Article 10  [CONFIDENTIALITY].
+
+      9.7. Remedial Measures. In the event of (a) any material remediable breach of this Agreement by the other party which remains uncured 30 days after notice of such breach (other than a breach of a payment obligation) was received by the other party or (b) any material breach which cannot be cured, the non-breaching party may take reasonable remediable measures at the cost of the breaching party without prejudice and in addition to any other rights arising from such breach. In addition, the non-breaching party shall take reasonable steps to mitigate damages arising out of such breach.
+
+10. CONFIDENTIALITY
+
+      10.1. Confidentiality Obligations. Except as permitted elsewhere under this Agreement, each party agrees to take Reasonable Steps (as defined below) (a) to receive and maintain the Confidential Information of the other party in confidence, (b) not to disclose such Confidential Information to any third parties and (c) to promptly notify the disclosing party upon learning of any law, rule, regulation or court order that purports to compel disclosure of any Confidential Information of the disclosing party and to reasonably cooperate with the disclosing party in the exercise of the disclosing party's right to protect the confidentiality of such Confidential Information. Neither party hereto shall use all or any part of the Confidential Information of the other party for any purpose other than to perform its obligations under this Agreement. The parties will take Reasonable Steps (as defined below) to ensure that their employees, representatives and agents comply with this provision. As used herein, "Reasonable Steps" means at least the same degree of care that the receiving party uses to protect its own Confidential Information, and, in no event, no less than reasonable care.
+
+      10.2. Exclusions. Nothing contained herein shall prevent a party from disclosing Confidential Information pursuant to any applicable law, rule, regulation or court order; provided, however, that such party complies with the notice provisions of Section 10.1(c)  [Confidentiality Obligations] to the extent permissible under applicable laws, rules, regulations or court orders. Such disclosure shall not alter the status of such information hereunder for all other purposes as Confidential Information.
+
+      10.3. Termination. Subject to Section 13.10  [Survival], upon termination of this Agreement, all Confidential Information shall be returned to the disclosing party or destroyed unless otherwise specified or permitted elsewhere under this Agreement. The confidentiality obligations contained in this Article 10  [CONFIDENTIALITY] shall survive termination of this Agreement for a period of three years.
+
+                                       16
+
+      10.4. Injunction. Each party acknowledges and agrees that the provisions of this Article 10  [CONFIDENTIALITY] are reasonable and necessary to protect the other party's interests in its Confidential Information, that any breach of the provisions of this Article 10  [CONFIDENTIALITY] may result in irreparable harm to such other party, and that the remedy at law for such breach may be inadequate. Accordingly, in the event of any breach or threatened breach of the provisions of this Article 10  [CONFIDENTIALITY] by a party hereto, the other party, in addition to any other relief available to it at law, in equity or otherwise, shall be entitled to seek temporary and permanent injunctive relief restraining the breaching party from engaging in and/or continuing any conduct that would constitute a breach of this Article 10  [CONFIDENTIALITY], without the necessity of proving actual damages or posting a bond or other security.
+
+      10.5. Publicity. Except as may be required by applicable laws, rules or regulations (including those arising under any securities laws), neither party will originate any publicity, news release or other public announcement, written or oral, whether to the public press or otherwise, concerning the relationship between the parties or the transactions described in this Agreement without the prior written consent of the other party, which consent shall not be unreasonably withheld or delayed. In the event disclosure is required by applicable law, rules or regulations, then the party required to so disclose such information shall, to the extent possible, provide to the other party for its approval (such approval not to be unreasonably withheld) a written copy of such public announcement at least five business days prior to disclosure. Notwithstanding the foregoing, either party shall have the right to make a press release with respect to its entering into this Agreement; provided that such party provides to the other party a copy of the proposed press release no less than five business days prior to its proposed release and that the contents of such press release shall be subject to the other party's consent, which consent shall not be unreasonably delayed or withheld.
+
+11. REPRESENTATIONS AND WARRANTIES. Each party hereby represents, covenants and warrants to the other party that:
+
+      11.1. It has the corporate power to enter into this Agreement and to grant
+
+Source: PAPEREXCHANGE COM INC, S-1/A, 3/22/2000
+
+
+
+
+
+the rights and licenses granted herein and otherwise perform this Agreement;
+
+      11.2. It is not a party to any agreement or understanding and knows of no law or regulation that would prohibit it from entering into and performing this Agreement or that would conflict with this Agreement; and
+
+      11.3. When executed and delivered by it, this Agreement will constitute a legal, valid and binding obligation of it, enforceable against it in accordance with this Agreement's terms.
+
+12. DISCLAIMER OF WARRANTY, LIMITATION OF LIABILITY AND INDEMNIFICATION.
+
+      12.1. Disclaimer of Warranties. EXCEPT AS EXPRESSELY SET FORTH IN THIS AGREEMENT, VERTICALNET HEREBY DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, WITH RESPECT TO ANY AND ALL VERTICALNET DELIVERABLES, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.
+
+                                       17
+
+      12.2. Disclaimer of Warranties. EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, PAPEREXCHANGE HEREBY DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, WITH RESPECT TO ANY AND ALL PAPEREXCHANGE DELIVERABLES, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.
+
+      12.3. Limitation of Liability. EXCEPT IN CONNECTION WITH A BREACH BY EITHER PARTY OF ARTICLE 10, THE INDEMNIFICATION OBLIGATIONS OF PAPEREXCHANGE UNDER SECTIONS 12.4(c)  [Indemnification by PaperExchange] AND THE INDEMNIFICATION OBLIGATIONS OF VERTICALNET UNDER SECTION 12.5(c)  [Indemnification by VerticalNet], NEITHER PARTY WILL BE LIABLE FOR ANY SPECIAL, INDIRECT, CONSEQUENTIAL, EXEMPLARY OR INCIDENTAL DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY (INCLUDING NEGLIGENCE), EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. EXCEPT IN CONNECTION WITH A BREACH BY EITHER PARTY OF ARTICLE 10, THE INDEMNIFICATION OBLIGATIONS OF PAPEREXCHANGE UNDER SECTION 12.4(c)  [Indemnification by PaperExchange] AND THE INDEMNIFICATION OBLIGATIONS OF VERTICALNET UNDER SECTION 12.5(c)  [Indemnification by VerticalNet], EACH PARTY'S LIABILITY FOR DAMAGES HEREUNDER SHALL NOT EXCEED $1,000,000.
+
+      12.4. Indemnification by PaperExchange. PaperExchange shall indemnify and hold harmless VerticalNet and its officers, directors, employees and agents from and against any and all losses, claims, damages, liabilities, obligations, penalties, judgments, awards, costs, expenses and disbursements, including without limitation, the costs, expenses and disbursements, as and when incurred, of investigating, preparing or defending any action, suit, proceeding or investigation asserted by a third party, caused by, relating to, based upon, arising out of or in connection with (a) any breach by PaperExchange of the representations, warranties or agreements made by it under this Agreement, (b) negligence, recklessness or intentional misconduct on the part of PaperExchange or its officers, directors, employees, agents or consultants, (c) any claim that the PaperExchange Content infringes or misappropriates any Intellectual Property Rights or any other right of any third party or (d) the promotion, advertisement or marketing of the VerticalNet Content or VerticalNet Archived Content by or on behalf of PaperExchange.
+
+      12.5. Indemnification by VerticalNet. VerticalNet shall indemnify and hold harmless PaperExchange and its officers, directors, employees and agents from and against any and all losses, claims, damages, liabilities, obligations, penalties, judgments, awards, costs, expenses and disbursements, including without limitation, the costs, expenses and disbursements, as and when incurred, of investigating, preparing or defending any action, suit, proceeding or investigation asserted by a third party, caused by, relating to, based upon, arising out of or in connection with (a) any breach by VerticalNet of the representations, warranties or agreements made by it under this Agreement, (b) negligence, recklessness or intentional misconduct on the part of VerticalNet or its officers, directors, employees, agents or consultants, (c) any claim that the VerticalNet Content infringes or misappropriates any Intellectual Property Rights or any other right of any third party; or (d) the promotion, advertisement or marketing of the PaperExchange Content by or on behalf of VerticalNet.
+
+                                       18
+
+      12.6. Each person seeking to be reimbursed, indemnified, defended and/or held harmless under Sections 12.4  [Indemnification by PaperExchange] or 12.5  [Indemnification by VerticalNet] (each, an "Indemnitee") shall (a) provide the party obliged to indemnify such Indemnitee with prompt written notice of any claim, suit, demand or other action for which such Indemnitee seeks to be reimbursed, indemnified, defended or held harmless (each, a "Claim"), which notice shall include a reasonable identification of the alleged facts giving rise to such Claim; (b) grant such party reasonable authority and control over the defense and settlement of any such Claim; and (c) reasonably cooperate with such party and its agents in defense of any such Claim. Each Indemnitee shall have the right to participate in the defense of any Claim for which such Indemnitee seeks to be reimbursed, indemnified, defended or held harmless, by using attorneys of such Indemnitee's choice, at such Indemnitee's expense. Any settlement of a Claim for which any Indemnitee seeks to be reimbursed, indemnified, defended or held harmless under this Article shall be subject to the prior written approval of such Indemnitee, such approval not to be unreasonably withheld, conditioned or delayed.
+
+      12.7. Essential Part of Bargain. The parties acknowledge that the disclaimers and limitations set forth in this Article 12  [DISCLAIMER OF WARRANTY, LIMITATION OF LI...] are an essential element of this Agreement between the parties and that the parties would not have entered into this Agreement without such disclaimers and limitations.
+
+13. MISCELLANEOUS
+
+      13.1. Governing Law. This Agreement shall be governed by and interpreted under the laws of the Commonwealth of Pennsylvania without regard to its conflicts of law provisions. Subject to the provisions of Section 9, both parties consent and submit to the exclusive personal jurisdiction of the United States and the state courts of the Commonwealth of Pennsylvania in and for Horsham, PA.
+
+      13.2. No Assignment. Except as otherwise set forth herein, neither party shall transfer, assign or cede any rights or delegate any obligations hereunder, in whole or in part, whether voluntarily or by operation of law, without the prior written consent of the other party, which consent may be withheld at the other party's reasonable business discretion; provided, however, that either party may transfer this Agreement without prior written consent of the other party to an Affiliate or in connection with a merger or sale of all or substantially all of the stock or assets of such party.
+
+      13.3. Good Faith. The parties undertake to display to each other the utmost good faith, consistent with their respective rights and obligations set forth in this Agreement.
+
+      13.4. Independent Contractors. In connection with this Agreement, each party is an independent contractor. This Agreement does not, and shall not be construed to, create an employer-employee, agency, joint venture or partnership relationship between the parties. Neither party shall have any authority to act for or to bind the other party in any way, to alter any of the terms or
+
+Source: PAPEREXCHANGE COM INC, S-1/A, 3/22/2000
+
+
+
+
+
+conditions of any of the other party's standard forms of invoices, sales agreements, warranties or otherwise, or to warrant or to execute agreements on behalf of the other or to represent that it is in any way responsible for the acts, debts, liabilities or omissions of the other party.
+
+                                       19
+
+      13.5. Notices. All notices, reports, payments and other communications required or permitted to be given under this Agreement (each, a "Notice") shall be in writing and shall be given either by personal delivery against a signed receipt, by express delivery using a nationally recognized overnight courier, or by facsimile. All Notices shall be properly addressed as follows, or to such other addresses as may be specified in a Notice given hereunder:
+
+If to VerticalNet:                                 with a copy to:
+
+Attn: General Counsel                              Michael J. Hagan VerticalNet, Inc.                                  VerticalNet, Inc. 700 Dresher Road, Suite 100                        700 Dresher Road, Suite 100 Horsham, Pennsylvania 19044                        Horsham, Pennsylvania 19044 Fax No.: (215) 443-3336                            Fax No.: (215) 443-3336
+
+If to PaperExchange:                               with a copy to:
+
+Attn: Chief Executive Officer                      Attn: Jonathan K. Bernstein PaperExchange.com, LLC                             Bingham Dana LLP 545 Boylston Street, 8th Floor                     150 Federal Street Boston, MA 02116                                   Boston, MA 02110 Fax No.: (617) 536-4097                            Fax No.: (617) 951-8736
+
+A Notice shall be deemed to be effective upon personal delivery or, if sent via overnight delivery, upon receipt thereof. A Notice sent via facsimile is deemed effective on the same day (or if such day is not a business day, then on the next succeeding business day) if such facsimile is sent before 3:00 p.m. Philadelphia time and on the next day (or if such day is not a business day, then on the next succeeding business day) if such Notice is sent after 3:00 p.m. Philadelphia time.
+
+      13.6. Amendment or Modification. No subsequent amendment, modification or waiver of any of the provisions of this Agreement shall be effective unless in writing and signed by the parties.
+
+      13.7. Entire Agreement. This Agreement sets out the entire agreement between the parties with respect to the subject matter of this Agreement and supersedes all prior agreements, proposals, arrangements and communications, whether oral or written, with respect to the subject matter hereof, including, but not limited to, the letter of intent between the parties dated July 23, 1999.
+
+      13.8. Severability. If any provision of this Agreement is held by a tribunal of competent jurisdiction to be illegal, invalid, or otherwise unenforceable in any jurisdiction, then to the fullest extent permitted by law (a) the same shall not effect the other terms or provisions of this Agreement, (b) such term or provision shall be deemed modified to the extent necessary in the tribunal's opinion to render such term or provision enforceable, and the rights and obligations of the parties shall be construed and enforced accordingly, preserving to the fullest extent the intent and agreements of the parties set forth herein and (c) such finding of invalidity, illegality or
+
+                                       20
+
+unenforceability shall not affect the validity, legality or enforceability of such term or provision in any other jurisdiction.
+
+      13.9. No Waiver. Failure to enforce any term of this Agreement is not a waiver of future enforcement of that or any other term. No term or provision of this Agreement will be deemed waived and no breach excused unless such waiver or excuse is in writing and signed by the party against whom enforcement of such waiver or excuse is sought.
+
+      13.10. Survival. Sections 5.8.1  [Non-Competition] (subject to Section 8.3(k)  [Upon Termination]), 6.1-6.2, 6.5, 6.6, 6.9, 7.5-7.8, 8, 9, 10, 11, 12 and 13, any payment obligations of the parties hereunder accruing prior to the date of termination; and any other provision herein expressly surviving termination or necessary to interpret the rights and obligations of the parties in connection with the termination of the term of this Agreement will survive the termination or expiration of this Agreement.
+
+      13.11. No Third Party Beneficiaries. Nothing in this Agreement is intended to confer benefits, rights or remedies unto any person or entity other than the parties and their permitted successors and assigns.
+
+      13.12. Waiver of Jury Trial. Each party hereby irrevocably waives all rights a party may have to a trial by jury in any legal action or proceeding arising out of or in connection with this Agreement or the transactions contemplated hereby.
+
+      13.13. Titles. The headings appearing at the beginning of the Sections contained in this Agreement have been inserted for identification and reference purposes only and shall not be used to determine the construction or interpretation of this Agreement. The nomenclature of the defined terms in this Agreement shall only be used for the construction of this Agreement, and are not to be used for any other purpose, including, but not limited to, interpretation for accounting purposes.
+
+      13.14. Force Majeure. Neither party shall be held to be in breach of this Agreement by reason of a force majeure event, including, but not limited to, act of God, delay in transportation, fire, flood, earthquake, storm, war, act of a public enemy, civil commotion or any law, rule, regulation, order or other action by any public authority or any other matter reasonably beyond a party's control. To the extent failure to perform is caused by such a force majeure event, such party shall be excused from performance hereunder so long as such event continues to prevent such performance, and provided the non-performing party takes all reasonable steps to resume full performance.
+
+      13.15. Compliance with Laws. Each party shall comply with all prevailing laws, rules and regulations and obtain all necessary approvals, consents and permits required by the applicable agencies of the government of the jurisdictions that apply to its activities or obligations under this Agreement.
+
+      13.16. Execution in Counterparts, Facsimiles. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original and all of which together shall constitute one and the same instrument. This Agreement shall become binding when any one or more counterparts hereof, individually or taken together, bear the signatures of both parties
+
+                                       21
+
+hereto. For the purposes hereof, a facsimile copy of this Agreement, including
+
+Source: PAPEREXCHANGE COM INC, S-1/A, 3/22/2000
+
+
+
+
+
+the signature pages hereto, shall be deemed an original.
+
+            [The remainder of this page is intentionally left blank.]
+
+                                       22
+
+IN WITNESS WHEREOF, the parties to the Agreement by their duly authorized representative have executed this Agreement as of the date first written above.
+
+VERTICALNET, INC.                           PAPEREXCHANGE.COM, LLC
+
+By: /s/ [ILLEGIBLE]                         By: /s/ Jason Weiss     ---------------------------------           -------------------------------- Title: BVI                                  Title: CEO        ------------------------------              -----------------------------
+
+VERTICALNET, INC.                           PAPEREXCHANGE.COM, LLC
+
+By: /s/ [ILLEGIBLE]                         By: /s/ Rod A. Parsley     ---------------------------------           -------------------------------- Title: V.P. E-Commerce Products Group       Title: Vice President Business Devel        ------------------------------              -----------------------------
+
+                                   Exhibit A
+
+Auction Home                                                         Page 1 of 2
+
+[GRAPHIC OMITTED]
+
+pulp and paper online PaperExchange.com
+
+[GRAPHIC OMITTED]
+
+REGISTER
+
+Free Gift... to first time Buyers and Sellers on Online Auction
+
+Search: Buyer's Guide by Product/Service [GRAPHIC OMITTED] Go!
+
+Home | Products | Careers | Marketplace | News/Analysis | Community | Resources | About Us | Related Sites
+
+Auctions
+
+     Home
+
+     Registration
+
+     How to Start
+
+     Buying      My Auction Watch      Buyer's Toolkit      Buyer's Help      Additional Industries
+
+     Selling      Seller's Toolkit      Seller's Help
+
+Books, Software, Videos
+
+Shopping
+
+Also On This Site
+
+Online Homepage
+
+Product Center
+
+Career Center
+
+News & Analysis
+
+Community
+
+Resources
+
+Site Information
+
+Related Sites
+
+- --------------------------------------------------------------------------------                                    Click Here
+
+                              Highlights, Products                                      & More - --------------------------------------------------------------------------------
+
+                                     powdex
+
+                          Incorporating InterFlow Expo
+
+                          Oct. 27-28, 1999 Atlanta, GA                               Cobb Galleria Centre
+
+- --------------------------------------------------------------------------------
+
+                                 LAB BLAST '99
+
+                                Lab equipment at                                Rock Bottom Prices
+
+                                   CLICK HERE
+
+- --------------------------------------------------------------------------------
+
+[GRAPHIC OMITTED]
+
+Online Auctions
+
+Purchase and Liquidate New and Used Products
+
+Source: PAPEREXCHANGE COM INC, S-1/A, 3/22/2000
+
+
+
+
+
+Find An Item
+
+                Select a category below, or use Advanced Search.
+
+                          |X| Auctions |_| Fixed Price
+
+                           Analytical Instrumentation
+
+                                   View Items
+
+Welcome
+
+Pulp & Paper Online and PaperExchange.com have partnered to become the leading e-commerce solution for buying and selling new, surplus and used paper products and equipment.
+
+Sell an Item: Register Now as an Online Auctions seller and Sell an Item here.
+
+Find an Item: Begin using the auction by selecting a category from the box above or choose a Featured or New Item below. Or click here for an Advanced search
+
+Customized Auction features
+
+          Buyers Area                                  Sellers Area
+
+       Choose One ...  Go!                          Choose One ...  Go!
+
+*Hot items are from all industries          *Hot items are from all industries
+
+First Time Users: Personalize your Online Auction experience and learn about our                           Customized Auction Features.
+
+Featured Item
+
+Dynasty Tool Kit No. 9422 Item #: 500607
+
+[GRAPHIC OMITTED]
+
+Dynasty Tool Kit No. 9422. 120 tools. For the customer service engineer who carries a full array of tools and spare parts during extended air travel. Molded of tough linear polyethylene. Ribs for extra strength and rigidity. Rugged aluminum valance. M
+
+Price: $348 Auction Period: 5/11/99 - 6/10/99
+
+Techne Thermal Cycler 0.5ML 117V Item #: 500863
+
+[GRAPHIC OMITTED]
+
+Techne Gene E Thermal Cycler (for 0.5 mL tubes). Suitable for DNA sequencing, gene manipulation, DNA hybridization, and other techniques. Uses a refrigerated coolant for maximal cooling efficiency (cooling rates up to 2.7(degrees)C per sec.). Operates from 10
+
+Price: $1,000 Auction Period: 5/7/99 - 6/6/99 Dynasty Tool Kit No. 9422 Item #: 500607
+
+[GRAPHIC OMITTED]
+
+Dynasty Tool Kit No. 9422. 120 tools. For the customer service engineer
+
+                                  Exhibit A(2)
+
+Auction Home                                                         Page 2 of 2
+
+[GRAPHIC OMITTED]
+
+engineer who carries a full array of tools and spare parts during extended air travel. Molded of tough linear polyethylene. Ribs for extra strength and rigidity. Rugged aluminum valance. M
+
+Price: $348 Auction Period: 5/11/99 - 6/10/99 Leader LFC-944B Level Meter Item #: 500608
+
+[GRAPHIC OMITTED]
+
+Leader LFC-944B Level Meter is a portable battery-operated field level meter designed for testing and measuring the performance of CATV and MATV systems. It provides for measuring levels of -40 to +60 dBmv on VHF channels and -30 to +40 dBmv on UHF c
+
+Price: $220 Auction Period: 5/11/99 - 6/10/99
+
+Find An Item
+
+                Select a category below, or use Advanced Search.
+
+                          |X| Auctions |_| Fixed Price
+
+                           Analytical Instrumentation
+
+                                   View Items
+
+Send This Page To A Friend
+
+Share The Knowledge
+
+See something for a friend or associate? You can forward this page by just Clicking Here!
+
+Home | Help | Feedback | Advertising Info VerticalNet | Disclaimer | TechSupport                       www.wateronline.com
+
+                                  Exhibit A(3)
+
+Online Jobscan                                                       Page 1 of 2
+
+[GRAPHIC OMITTED]
+
+pulp and paper online PaperExchange.com
+
+[GRAPHIC OMITTED]
+
+shop & compare
+
+Source: PAPEREXCHANGE COM INC, S-1/A, 3/22/2000
+
+
+
+
+
+For the Best Prices on the Web
+
+Search: Buyer's Guide by Product/Service [GRAPHIC OMITTED] Go!
+
+Home | Products | Careers | Marketplace | News/Analysis | Community | Resources | About Us | Related Sites
+
+Career Center [GRAPHIC OMITTED] Online Jobscan
+
+Online Jobscan
+
+   Job Search
+
+   Post Resume
+
+   Update Resume
+
+   New Jobs Area
+
+   Employer Spotlight
+
+Career Resources
+
+Salary Survey
+
+Recruiter Center
+
+Also On This Site
+
+Product Center
+
+Career Center
+
+News & Analysis
+
+Community
+
+Resources
+
+Site Information
+
+Related Sites
+
+- --------------------------------------------------------------------------------                                    Click Here
+
+                              Highlights, Products                                      & More - --------------------------------------------------------------------------------
+
+                                     powdex
+
+                          Incorporating InterFlow Expo
+
+                          Oct. 27-28, 1999 Atlanta, GA                               Cobb Galleria Centre
+
+- --------------------------------------------------------------------------------
+
+                                 LAB BLAST '99
+
+                                Lab equipment at                                Rock Bottom Prices
+
+                                   CLICK HERE
+
+- --------------------------------------------------------------------------------
+
+[GRAPHIC OMITTED]
+
+Online Jobscan
+
+[GRAPHIC OMITTED]
+
+Online JobCenter
+
+Job Search Post/Update Resumes Employer Spotlights
+
+Use this page to search for job openings, and view the most recent Open House announcements from businesses within the industry
+
+Job Search
+
+Pulp & Paper Online and PaperExchange.com have combined resources to provide you with the most comprehensive source for careers in the pulp and paper industry.
+
+Search for a position by making selections from the below drop down menus. The more selections you make the more fined tuned the results. For the broadest results, use the menu defaults.
+
+Multiple categories can be chosen within menus by holding down the "Shift" key when making selections.
+
+Select Keywords Separate keywords using AND, OR, or 'a phrase in quotes'
+
+- --------------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+
+Type Company Name (Full or Partial)
+
+- --------------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+
+|_| Full Time            |_| Part Time
+
+|_| Contract             |_| Permanent
+
+Location Choose the State, Region or Country to include in your search
+
+State                                 Region
+
+All                                   All Alabama                               Alaska/Hawaii Alaska                                Mid-Atlantic - U.S. Arizona                               North Central - U.S.
+
+Country
+
+Source: PAPEREXCHANGE COM INC, S-1/A, 3/22/2000
+
+
+
+
+
+United States Antigua and Arbuda Antarctica Argentina
+
+Position
+
+All Job Types Aerospace Engineer Biological Scientist Biologist
+
+Jobscan Sponsors
+
+- --------------------------------------------------------------------------------                                    Click Here
+
+                              Highlights, Products                                      & More - --------------------------------------------------------------------------------
+
+                                     powdex
+
+                          Incorporating InterFlow Expo
+
+                          Oct. 27-28, 1999 Atlanta, GA                               Cobb Galleria Centre
+
+- --------------------------------------------------------------------------------
+
+                                 LAB BLAST '99
+
+                                Lab equipment at                                Rock Bottom Prices
+
+                                   CLICK HERE
+
+- --------------------------------------------------------------------------------
+
+Durlano Pumps embrace new valve technology for greater efficiency...
+
+CHEMPRO introduces new treatment for water purification...
+
+                                  Exhibit A(4)
+
+Online Jobscan                                                       Page 2 of 2
+
+Duties
+
+All Job Functions Academia Choose One Consulting
+
+Scan Jobs                Reset
+
+Open House Announcements
+
+Virtual Company Tours
+
+In an effort to better inform the job seeker and satisfy the needs for industry recruiting of premium positions, Water Online provides Online Open House. These pages represent a virtual open house for each of the participating companies that are actively seeking new recruites. Below is a list of the most recent Open House pages.
+
+- - Chromatography Ltd. Santa Monica CA
+
+- - Mass Spectral Interpretator Austin TX
+
+- - Contemporary Wastewater and Design Phoenix AZ
+
+- - Mass Spectral Incorporated Chicago IL
+
+- - Activated Carbon Inc. Bethesda MD
+
+More...
+
+Send This Page To A Friend
+
+Share The Knowledge See something for a friend or associate? You can forward this page by just Clicking Here!
+
+Home | Help | Feedback | Advertising Info VerticalNet | Disclaimer | TechSupport                       www.wateronline.com
+
+                                                                       Exhibit B
+
+                     CAREER CENTER REQUEST FORM
+
+Please take the time to fill out this form so that we may collect the information needed to process your Career Center Request. Please note that text of any length may be typed or pasted into the fields below.
+
+Billing Information (Will not be displayed online unless it is the same as Employer Information, below.)
+
+      Company Name:
+
+      Address:
+
+      Address 2:
+
+      City:
+
+      State:
+
+      Zip:
+
+      Country:
+
+      Foreign Address:
+
+      Phone:                         Extension:
+
+      Fax:
+
+      e-mail:
+
+      Website Address (URL):
+
+      Contact Name:
+
+Source: PAPEREXCHANGE COM INC, S-1/A, 3/22/2000
+
+
+
+
+
+Employer Information (Please enter all information as it should appear online.)
+
+      |_| Check here if same as above.
+
+      Company Name:
+
+      Address:
+
+      Address 2:
+
+      City:
+
+      State:
+
+      Zip:
+
+      Country:
+
+      Foreign Address:
+
+      Phone:                         Extension:
+
+      Fax:
+
+      e-mail:
+
+      Division Name:
+
+      Number of Employees:
+
+      Company Job Website (URL):
+
+      Contact Person / Department:
+
+      Job Code/Requisition Number:
+
+      How do you wish to be contacted?
+
+      |_| e-mail |_| Fax |_| Phone |_| Regular Mail
+
+Job Information (Please enter all information as it should appear online.)
+
+      Job Title:
+
+      Job Location:
+
+          City:          State:
+
+              or
+
+                US Region:           Select Region
+
+                Country:
+
+      Type of Position:   Full Time    Permanent
+
+      Required Skills:
+
+      Brief Job Description:
+
+      Salary Range:
+
+      Additional Compensation:
+
+      Full Job Description:
+
+Exhibit C
+
+A Microsoft Excel Spreadsheet containing the following columns:
+
+                                                                  - ----------------------------------------------------------------------------------------------- Name*    Category*   Mfg/Brand    Model #      Original Item Price     Height      Weight - ----------------------------------------------------------------------------------------------- NAME     CATG        FLDA         FLDB         FLDC                    FLDD        FLDE - -----------------------------------------------------------------------------------------------
+
+                                                                     - ----------------------------------------------------------------------------------------------- Starting Bid*    Reserve Price     Bid Increments    Start date/time   Duration*   Item # - ----------------------------------------------------------------------------------------------- MINB             RSRV              INCR              STRT              DAYE        FLD1 - -----------------------------------------------------------------------------------------------                  default is $5.00  default is today  default is 7                  --------------------------------------------------
+
+- -------------------------------------------------------------------- Approx. Age   SKU    Description      Seller ID#   Image Location - -------------------------------------------------------------------- FLD2          FLDF   DESC             SELL         IMAG - --------------------------------------------------------------------
+
+- ---------------------------------------------                 Sales Location**      Person**        Capacity** - ---------------------------------------------   To Be          To Be             To Be Determined     Determined       Determined - ---------------------------------------------
+
+This page describes each of the fields used in the Excel spreadsheet for bulk uploads. Please put details in the spreadsheet named Bulk Upload Spreadsheet. It is very important that you do not change the field names or their order on the spreadsheet.
+
+- --------------------------------------------------------------------------------   Name*               The title by which you want the item called. i.e.                       Sartorius Microbalance. This field is 60 characters long                       but more details will fit in the description section. The                       name needs to be descriptive and distinct. There cannot be                       two items with the same name. Add a delineating feature
+
+Source: PAPEREXCHANGE COM INC, S-1/A, 3/22/2000
+
+
+
+
+
+                      such as model number or size to the name. - -------------------------------------------------------------------------------- Category*             This field requires a number not word. See the enclosed                       list. If you do not find a category that fits your                       product, please contact us. We can add categories. - -------------------------------------------------------------------------------- Mfg/Brand             Manufacturer or brand name - -------------------------------------------------------------------------------- Model #               Model number - -------------------------------------------------------------------------------- Original Item         If known, this can be an incentive to buyers who then see price                 your lower price. - -------------------------------------------------------------------------------- Height                Include feet or inches. - -------------------------------------------------------------------------------- Weight                Include pounds or ounces. - -------------------------------------------------------------------------------- Quantity*             This field requires only a number not each, case, etc. - -------------------------------------------------------------------------------- Starting Bid*         This is the amount at which the bidding will start. It                       should be lower than your reserve price, if you set one.                       Please use whole dollars. - -------------------------------------------------------------------------------- Reserve Price         This is the amount you wish to receive for your product.                       If you set a reserve price, your item cannot be sold for                       less than the reserve. Please use whole dollars. - -------------------------------------------------------------------------------- Bid Increments*       $5 is the default, but feel free to change this to reflect                       your product's price using whole dollars. - -------------------------------------------------------------------------------- Start date/time*      This field must be filled out like the following example:                       04/08/99 15:00 (MM/DD/YY 24:mm) A start time must be                       included. - -------------------------------------------------------------------------------- Duration*             The default for this field is 7 days. The options are 1,                       3, 5, 7, 21, and 30. - -------------------------------------------------------------------------------- Item #                Catalog number if the product came from a manufacturer's                       or distributor's catalog - -------------------------------------------------------------------------------- Approx. Age           New, used, demo, reconditioned - -------------------------------------------------------------------------------- SKU                   Each, box, case - -------------------------------------------------------------------------------- Description           This field is only 1250 characters long. Use basic writing                       format here. Complete sentences are desired rather than a                       list of features. If you copy and paste from an outside                       source, please check to see that there are no tabs or                       returns in the paragraph. - -------------------------------------------------------------------------------- Seller ID#*           This is your six-digit ID number you received when you                       registered. - -------------------------------------------------------------------------------- Image location        A picture of your item is very helpful in selling your                       item and will greatly enhance its listing appearance. The                       picture needs to be in JPEG or GIF format. You can send                       these on a separate disk or email if desired. Please                       enclose a list delineating which picture goes with which                       item. - -------------------------------------------------------------------------------- Location              Where the equipment is currently located/resides. - -------------------------------------------------------------------------------- Sales Person          For PaperExchange.com internal tracking. - -------------------------------------------------------------------------------- Capacity              Specific information about the equipment i.e. "x"                       gallons/hr, "y" sheets/minute, etc. - --------------------------------------------------------------------------------                       *  indicates required fields                       ** indicates fields with fieldnames to be determined and                       whose position within the columns is to be determined
+
+Source: PAPEREXCHANGE COM INC, S-1/A, 3/22/2000

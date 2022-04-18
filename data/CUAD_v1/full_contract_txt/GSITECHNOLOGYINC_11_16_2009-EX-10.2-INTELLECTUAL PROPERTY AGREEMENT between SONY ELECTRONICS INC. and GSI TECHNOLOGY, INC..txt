@@ -1,0 +1,229 @@
+Exhibit 10.2    INTELLECTUAL PROPERTY AGREEMENT        between        SONY ELECTRONICS INC.        and        GSI TECHNOLOGY, INC.        August 28, 2009
+
+
+
+
+
+     TABLE OF CONTENTS
+
+   i
+
+    Page        1. Definitions 1            1.1 IP Agreement 2    1.2 Asset Purchase Agreement 2    1.3 Effective Date 2    1.4 Licensed Patent(s) 2    1.5 Transferred Patent(s) 3         2. Assignment 3         3. Licenses 3            3.1 Grant by SONY 3    3.2 Grant Back by PURCHASER 4    3.3 No Implied License or Other Assignment 4    3.4 No Sublicense Rights 4         4. Each Party's Sole Right to the Intellectual Property 4         5. Restrictions on Use of SONY Trademarks 5            5.1 No Trademark License 5    5.2 Removal of SONY Trademarks 5    5.3 Packaging 5    5.4 No Affiliation 6    5.5 JTAG / Mask Works 6         6. Payment 6         7. Term and Termination 7            7.1 Term 7    7.2 Termination 7    7.3 Insolvency 7    7.4 Continuing Obligations 8         8. Representations and Warranties 8            8.1 Power and Authority 8    8.2 Essential Patents 8    8.3 Ownership 8    8.4 Validity and Enforceability 8    8.5 Sufficiency 9    8.6 Non-infringement by the Business 9    8.7 Infringement by a Third Party 10    8.8 Intellectual Property Development 10
+
+
+
+
+
+     TABLE OF CONTENTS  (continued)
+
+   ii
+
+    Page           8.9 Material Intellectual Property Agreements 11    8.10 Royalties 11    8.11 No Loss of Rights 12    8.12 Transferability 12    8.13 No SRAM Product Warranty Issues 12    8.14 Disclaimer 12         9. Miscellaneous 13            9.1 Notices 13    9.2 Expenses 14    9.3 Successors and Assigns 14    9.4 Waiver 15    9.5 Entire Agreement 15    9.6 Amendments and Supplements 15    9.7 Rights of Third Parties 15    9.8 Further Assurances 16    9.9 Applicable Law 16    9.10 Execution in Counterparts 16    9.11 Titles and Headings 16    9.12 Invalid Provisions 16    9.13 Transfer Taxes 17    9.14 Attorneys' Fees 17
+
+
+
+
+
+     INTELLECTUAL PROPERTY AGREEMENT     This Intellectual Property Agreement is made and entered into as of August 28, 2009 by and between GSI Technology, Inc., a Delaware  corporation ("PURCHASER"), on the one hand, and Sony Electronics Inc. ("SONY"), a Delaware corporation, on the other hand. PURCHASER  and SONY are referred to individually as a "Party" and collectively as the "Parties".     RECITALS     WHEREAS, SONY presently conducts the business of manufacturing, marketing and selling SRAM products (the "Business");     WHEREAS, SONY has agreed to sell and PURCHASER has agreed to purchase certain assets, rights and properties of SONY used or  useful in connection with the Business, all on the terms and subject to the conditions set forth in the Asset Purchase Agreement of even date  herewith;     WHEREAS, SONY has or will transfer title to the Transferred Assets to PURCHASER under the Asset Purchase Agreement;     WHEREAS, SONY is the owner of certain intellectual property related to the Business; and     WHEREAS, SONY desires to transfer certain patents to PURCHASER and grant to PURCHASER a license under certain intellectual  property related to the SRAM Products.     NOW, THEREFORE, in consideration of the mutual covenants, representations, warranties and agreements herein contained, the Parties  hereto agree as follows:     1. Definitions     As used in this IP Agreement, all capitalized terms shall have the meaning ascribed to them as set forth in the Asset Purchase  Agreement, except for terms defined herein, including the following terms, which shall have the meanings set forth below:     1
+
+
+
+
+
+     1.1 IP Agreement     The term "IP Agreement" means this Intellectual Property Agreement, including all attached Exhibits hereto, and any  amendments or supplements agreed to in writing and signed by SONY and PURCHASER.     1.2 Asset Purchase Agreement     The term "Asset Purchase Agreement" means the Asset Purchase Agreement dated August 28, 2009 between SONY and  PURCHASER to which this IP Agreement is attached as Exhibit F.     1.3 Effective Date     The term "Effective Date" means the Closing Date.     1.4 Licensed Patent(s)     The term "Licensed Patent" or "Licensed Patents" means any patent or patents issued at any time in any country (including  any inventor's certificates, extension, reissued, renewal and reexamined patents), which (1) is based on any invention made on or prior to the  Effective Date, including any patents for inventions disclosed in patent applications filed on or prior to the Effective Date, and issuing from any of  those patent applications or any patent applications which are continuations, continuing applications, continuations-in-part or divisions of those  patent applications, or on any foreign counterpart of any of those patent applications, (2) (a) is owned by SONY or any of its Affiliates or (b) under  which SONY or its Affiliates have the right to grant licenses without payment by SONY or any of its Affiliates of additional royalties or other  consideration to a third party (excluding payments for inventions made by that third party while employed by SONY or any of its Affiliates), and  (3) would, in the absence of a license granted herein, be infringed by making, using, selling, offering for sale, importing or supplying any  Competing Products (including, without limitation, the SRAM Products). "Licensed Patents" shall exclude the Transferred Patents.     2
+
+
+
+
+
+     1.5 Transferred Patent(s)     The term "Transferred Patent" or "Transferred Patents" means the patents and/or patent applications listed in Exhibit A to this  IP Agreement and all patents and applications claiming the priority of any of these patents and/or patent applications and all reissues, divisions,  renewals, extensions, provisionals, and continuations thereof, and any equivalent or similar rights anywhere in the world in inventions and  discoveries.     2. Assignment     SONY hereby assigns to PURCHASER SONY's entire right, title and interest in, to and under the Transferred Patents, and any  patents that may issue therefrom (including any foreign counterparts, divisions, continuations, renewals, continuations in part, reexaminations or  reissues thereof), along with the right to sue and collect damages for any future infringement, and agrees to take all reasonably necessary action to  assist PURCHASER, at PURCHASER's sole expense, to register, confirm and perfect such assignment, including by making filings with or at any  and all necessary patent offices and/or governmental agencies. SONY retains the right to sue and collect damages for any past infringement of the  Transferred Patents, provided that SONY obtains PURCHASER's written consent prior to making any infringement claim or allegation or filing any  action, suit, litigation or proceeding that could affect the Transferred Patents or PURCHASER's ability to use and exploit the Transferred Patents  or that may result in PURCHASER being joined as a party to the action, suit, litigation or proceeding. PURCHASER shall not unreasonably  withhold its consent.     3. Licenses     3.1 Grant by SONY     SONY, on behalf of itself and its Affiliates, hereby grants to PURCHASER a worldwide, non-exclusive, fully paid-up, royalty-free  license (a) under the Licensed Patents to make, have made, use, offer to sell, sell, otherwise dispose of, and import any Competing Products  (including, without limitation, the SRAM Products); and (b) to use, reproduce, modify, prepare derivative works of, perform, display, and otherwise  practice and exploit in any manner any and all of the SRAM Intellectual Property in connection with the use and exploitation of the      3
+
+
+
+
+
+     Transferred Assets, and to make, have made, use, offer to sell, sell, otherwise dispose of, and import Competing Products (including, without  limitation, SRAM Products).     3.2 Grant Back by PURCHASER     Subject to SONY's compliance with the covenant not to compete in Section 8.3 of Asset Purchase Agreement, PURCHASER  hereby grants to SONY a worldwide, non-exclusive, fully paid-up, royalty-free license, under the Transferred Patents, to make, use, offer to sell,  sell, otherwise dispose of, and import any products, including any Competing Products. This Section 3.2 shall not be construed as superseding,  overriding or modifying Section 8.3 of Asset Purchase Agreement.     3.3 No Implied License or Other Assignment     Except as expressly set out in this IP Agreement and the Asset Purchase Agreement, neither party grants to the other Party, and  each Party acknowledges and agrees that the other Party has not granted to it, any other license explicitly or implicitly under any Intellectual  Property nor has either party made any transfer or assignment to the other Party of any Intellectual Property or intellectual property rights.     3.4 No Sublicense Rights     No license granted by either party under this IP Agreement includes the right to grant sublicenses.     4. Each Party's Sole Right to the Intellectual Property     Each Party shall have the sole right, but not the obligation, to apply for and register for protection for, prosecute, and maintain  any of its Intellectual Property and shall have the sole right to determine whether or not, and where, to apply for and/or register such protection, to  abandon attempts to obtain protection or abandon registered protection of any Intellectual Property, and/or to discontinue the maintenance of any  Intellectual Property without any obligation to inform the other Party of any such action or inaction. Neither Party is obligated to (a) file any patent  application or to secure any patent or patent rights, or (b) maintain any patent in force or prosecute any patent application.     4
+
+
+
+
+
+     5. Restrictions on Use of SONY Trademarks     5.1 No Trademark License     Both Parties agree and recognize that, except as specifically provided in this Section 5, SONY does not grant any trademark  license to PURCHASER under any SONY slogans, brands, trade names, monograms, logos, common law trademarks and service marks, trademark  and service mark registrations and applications or any World Wide Web addresses, sites and domain names or any variations thereof ("SONY  Branding"). PURCHASER agrees that, except as specifically provided in this Section 5, it shall not use any slogans, brands, trade names,  monograms, logos, common law trademarks and service marks, trademark and service mark registrations and applications or any World Wide Web  addresses, sites and domain names or any variations thereof ("PURCHASER Branding") that imitate or are confusingly similar to any SONY  Branding, nor shall it use PURCHASER Branding in commerce in a manner that would be confusingly similar to any SONY Branding.     5.2 Removal of SONY Trademarks     Except as expressly permitted by Section 5.5 or as otherwise agreed by SONY in writing, Purchaser shall either remove, cover  (i.e., sticker) or obliterate SONY Branding visible to the unaided human eye from all SRAM Products and product literature whether (a) transferred  in complete or incomplete form under the Asset Purchase Agreement, (b) manufactured under license under this IP Agreement, or (c) manufactured  using the Transferred Assets. Notwithstanding the foregoing, PURCHASER shall have the right to sell finished SRAM Products bearing SONY  Branding acquired by PURCHASER under the Asset Purchase Agreement, subject to the provisions of Section 8.14 thereof.     5.3 Packaging     Except as expressly otherwise agreed by SONY in writing, all inventory of SRAM Products shall be packaged with labels clearly  indicating that it is a PURCHASER original product. PURCHASER is expressly prohibited from using any SONY Branding alone or on any SRAM  Product and/or product packaging. Notwithstanding the foregoing, PURCHASER shall have the right to sell finished SRAM Products bearing  SONY Branding      5
+
+
+
+
+
+     acquired by PURCHASER under the Asset Purchase Agreement, subject to the provisions of Section 8.14 thereof.     5.4 No Affiliation     PURCHASER shall not represent, imply, or connote in any way that it is affiliated with SONY or, other than as authorized by this  IP Agreement, use any SONY Trademark for any goods, parts, packaging of products, or services.     5.5 JTAG / Mask Works     Notwithstanding the provisions of Section 5.1, PURCHASER shall have the right to use any and all Mask Works transferred to  PURCHASER under the Asset Purchase Agreement, even if the use of such Mask Works results in a JTAG or other marking that would otherwise  indicate a connection to SONY, provided that:     (i) the use of such Masks is only for the manufacture by or for PURCHASER of SRAM Products that are qualified with  customers as of the Effective Date and updates or revisions of such SRAM Products that would not require requalification; and     (ii) PURCHASER allows SONY to audit PURCHASER's manufacture and testing of SRAM Products for purposes of  determining the quality of those SRAM Products that bear a marking which indicates a connection to SONY from time to time upon reasonable  request, subject to SONY's execution of a standard PURCHASER confidentiality agreement; and     (iii) no alterations are made to any such Mask in any way.     6. Payment     Consideration for the license granted by SONY under this IP Agreement is included in the Purchase Price, and PURCHASER  shall have no obligation to make any additional payments to SONY for the license granted under this Agreement.     6
+
+
+
+
+
+     7. Term and Termination     7.1 Term     Unless earlier terminated as provided below, this IP Agreement shall extend until the last date of expiration of the SRAM  Intellectual Property rights licensed under this IP Agreement.     7.2 Termination     (a) Should either Party fail to observe faithfully and materially perform each of the material obligations assumed by it in this IP  Agreement for thirty (30) days after its attention has been directed to any such breach by notice in writing from the other Party, the non-breaching  Party shall, at its option, have the right to terminate the license granted by it under this Agreement, such termination to be effected by serving  notice in writing upon the breaching Party to that effect on or after the expiration of such period of thirty (30) days.     (b) Should PURCHASER assert against SONY a claim based on its Patents and/or Intellectual Property, SONY shall, at its option,  have the right to terminate the license granted by SONY hereunder, such termination to be effected by serving notice in writing upon  PURCHASER to that effect not less than thirty (30) days prior to the effective date of such termination.     (c) Should SONY or any SONY Affiliate assert against PURCHASER a claim based on its Patents and/or Intellectual Property,  PURCHASER shall, at its option, have the right to terminate the license granted by PURCHASER hereunder, such termination to be effected by  serving notice in writing upon SONY to that effect not less than thirty (30) days prior to the effective date of such termination.     7.3 Insolvency     The licenses granted to a Party under Section 3 hereof shall automatically terminate should such Party become adjudicated  insolvent by reason of failure to pay its debts when due, enter into bankruptcy proceeding for its liquidation, voluntarily or involuntarily, or make  any assignment for the benefit of any one or more creditors.     7
+
+
+
+
+
+     7.4 Continuing Obligations     Termination of the licenses granted hereunder shall not affect any liability of either of the Parties previously accruing under this  IP Agreement.     8. Representations and Warranties     SONY hereby makes the following representations and warranties to PURCHASER, each of which shall be true and correct as of  the date hereof and as of the Closing Date, and shall be unaffected by any investigation heretofore or hereafter made:     8.1 Power and Authority     SONY has the right and power to enter into this IP Agreement and to transfer the Transferred Patents and to grant the license  set forth in Section 3.1.     8.2 Essential Patents     The Transferred Patents listed on Exhibit A comprise the Patents, both U.S. and foreign, owned or claimed by SONY or any  SONY Affiliate, that are essential to the conduct of the Business as conducted by SONY.     8.3 Ownership     All of the Transferred Patents are owned solely by SONY. No Transferred Patent is jointly owned by SONY and any other  Person, nor is it owned or jointly owned by any SONY Affiliate.     8.4 Validity and Enforceability     Each of the Transferred Patents (excluding applications) is subsisting, and, to the Knowledge of SONY, valid and in full force  and effect (except with respect to applications), and has not expired or been cancelled or abandoned. All necessary documents and certifications in  connection with each Transferred Patent (excluding applications) have been filed with the relevant patent, copyright or other authorities in the  United States and foreign jurisdictions, as the case may be, for the purposes of avoiding abandonment, prosecuting and maintaining of      8
+
+
+
+
+
+     Transferred Patents (excluding applications). Except for actions of the relevant jurisdiction's patent and trademark office or other government  intellectual property office ("Office Actions"), SONY has not, to the Knowledge of SONY, received written notice of any pending or threatened  (and at no time within the two years prior to the Effective Date has there been pending any) action before any court, governmental authority or  arbitral tribunal in any jurisdiction challenging the use, ownership, validity, enforceability or registerability of any of the Transferred Patents.  Rejections of pending applications before a national patent, trademark or intellectual properly office will not constitute such written notice. Except  for Office Actions and broad Patent portfolio cross license agreements that SONY has signed with third parties ("Portfolio Cross Licenses"),  neither SONY nor any Affiliate of SONY is, to the Knowledge of SONY, a party to any settlements, covenants not to sue, consents, decrees,  stipulations, judgments or orders resulting from actions which permit third parties to use any Transferred Patents or any other SRAM Intellectual  Property included in the Transferred Assets. SONY has the sole right to enforce all of the Transferred Patents and the other SRAM Intellectual  Property rights of SONY included in the Transferred Assets.     8.5 Sufficiency     To the Knowledge of SONY, SONY and each of SONY's Affiliates owns, or has valid rights to use, all the SRAM Intellectual  Property material to the conduct of the Business, including, without limitation, the design, development, manufacture, marketing, use, distribution,  import, supply, provision and sale of SRAM Products.     8.6 Non-infringement by the Business     As of the Effective Date, SONY has not received written notice of any pending or threatened (and at no time within the two  years prior to the date of this Agreement has there been, to the Knowledge of SONY, pending any) action alleging that the activities or the  conduct of the Business dilutes (solely with respect to trademark rights), misappropriates, infringes, violates or constitutes the unauthorized use  of, or will dilute (solely with respect to trademark rights), misappropriate, infringe upon, violate or constitute the unauthorized use of the  Intellectual Property of any third party, nor, to the Knowledge of SONY, does there exist any basis therefor. Except for Office Actions pertaining to  the Transferred Patents and Patent licenses      9
+
+
+
+
+
+     granted by SONY under Portfolio Cross Licenses, neither SONY nor any of SONY's Affiliates is, to the Knowledge of SONY, party to any  settlement, covenant not to sue, consent, decree, stipulation, judgment, or order resulting from any action which (i) restricts SONY's or any of its  Affiliate's rights to use any SRAM Intellectual Property in connection with the Business, (ii) restricts the Business in order to accommodate a third  party's Intellectual Property rights or (iii) requires any future payment by SONY or any SONY Affiliate.     8.7 Infringement by a Third Party     To the Knowledge of SONY, no third party is misappropriating, infringing, or violating any SRAM Intellectual Property material  to the conduct of the Business that is owned by or exclusively licensed to SONY or any SONY Affiliate, and no Intellectual Property or other  proprietary right, misappropriation, infringement or violation actions have been brought against any third party by SONY or any SONY Affiliate in  connection with the Business.     8.8 Intellectual Property Development     To the knowledge of SONY:     (a) Each Person who is or has been employed by SONY or any Affiliate of SONY at any time at or prior to the date hereof in  connection with the development of any SRAM Intellectual Property or technology material to the Business, or is or has provided consulting  services to SONY or any Affiliate of SONY in connection with the development of any SRAM Intellectual Property or technology material to the  Business at any time at or prior to the Effective Date, has signed an agreement containing appropriate confidentiality terms.     (b) Except in the exercise of SONY's business judgment, other than under an appropriate confidentiality or nondisclosure  agreement or contractual provision relating to confidentiality and nondisclosure, there has been no disclosure to any third party of material  confidential or proprietary information or trade secrets of SONY or any Affiliate of SONY related to any SRAM Product. All current and former  employees of SONY and each Affiliate of SONY who have made any material contributions to the development of any SRAM Product have signed  an invention assignment agreement that assigns ownership to SONY or have performed that work in the course, and within the scope, of their  employment.     10
+
+
+
+
+
+     (c) All consultants and independent contractors currently or previously engaged by SONY or its Affiliates who have made any  material contributions to the development of any SRAM Product (including, without limitation, all consultants and independent contractors who  have designed, written, or modified any firmware or software code contained in any SRAM Product) have entered into a work-made-for-hire  agreement or have otherwise assigned to SONY or a Affiliate of SONY (or a third party that previously conducted any business that forms any  part of the Business currently conducted by SONY and that has subsequently assigned its rights in such SRAM Product to SONY) all of their  right, title and interest (other than moral rights, if any) in and to the portions of such SRAM Product developed by them in the course of their work  for SONY or any Affiliate.     (d) Other than the employees, consultants and contractors referred to in this Section 8.8, no other Person has made or currently  is making any material contributions to the development of any SRAM Product.     8.9 Material Intellectual Property Agreements     Except for the SRAM Contracts assigned to and assumed by PURCHASER under the Asset Purchase Agreement and the  Portfolio Cross Licenses, there are no contracts, licenses or agreements between SONY or any of its Affiliates, on the one hand, and any other  Person, on the other hand, with respect to any SRAM Intellectual Property material to the conduct of the Business, including any agreements with  respect to the manufacture or distribution of the SRAM Products.     8.10 Royalties     To the Knowledge of SONY, except for obligations under the SRAM Contracts assigned to and assumed by PURCHASER under  the Asset Purchase Agreement, neither SONY nor any Affiliate of SONY has any obligation to pay any third party any royalties or other fees for  the continued use of Intellectual Property which is specifically applicable to SRAM Products, and PURCHASER will not be obligated under any  contract or agreement to pay any royalties or other fees associated with SRAM Intellectual Property arising from the consummation of the  transactions contemplated by this Agreement.     11
+
+
+
+
+
+     8.11 No Loss of Rights     The consummation by SONY of the transactions contemplated hereby will not result in any violation, loss or impairment of  ownership by SONY or any SONY Affiliate of, or impair or restrict the right of PURCHASER to use, any Transferred Patents or any other SRAM  Intellectual Property included in the Transferred Assets, and will not require the consent of any governmental authority or third party with respect  to any of Transferred Patents or any other SRAM Intellectual Property included in the Transferred Assets.     8.12 Transferability     All Transferred Patents will be fully transferable, alienable or licensable by PURCHASER from and after the Closing without  restriction and without payment of any kind to any third party other than requirements under applicable laws to file documents with and pay fees  to patent offices. There are no Liens on any of the Transferred Patents. (For the avoidance of doubt, the Parties acknowledge that SONY's  licensees under Portfolio Cross Licenses already hold licenses to the Transferred Patents and do not need a license from PURCHASER to practice  the Transferred Patents.)     8.13 No SRAM Product Warranty Issues     To the Knowledge of SONY, each SRAM Product currently offered for sale by SONY (or its Affiliates, as the case may be)  conforms with all SONY datasheet specifications, except with respect to warranty claims made in the ordinary course of business. (For the  avoidance of doubt, epidemic failures or any substantial repeated failures of those products to comply with specifications that have not been  resolved are not in the ordinary course of business). SONY has not received written notice from any customer, reseller, OEM customer or  governmental authority alleging any such material non-conformance.     8.14 Disclaimer     NOTHING IN THIS IP AGREEMENT SHALL BE DEEMED TO BE A REPRESENTATION OR WARRANTY BY EITHER PARTY  OF THE VALIDITY OF ANY PATENT. NEITHER PARTY SHALL HAVE ANY LIABILITY WHATSOEVER TO THE      12
+
+
+
+
+
+     OTHER PARTY OR ANY OTHER PERSON FOR OR ON ACCOUNT OF ANY INJURY, LOSS, OR DAMAGE, OF ANY KIND OR NATURE  SUSTAINED BY, OR ANY DAMAGE ASSESSED OR ASSERTED AGAINST, OR ANY OTHER LIABILITY INCURRED BY OR IMPOSED UPON  THE OTHER PARTY OR ANY OTHER PERSON, ARISING OUT OF OR IN CONNECTION WITH OR RESULTING FROM (A) THE PRODUCTION,  USE, SALE, OFFER FOR SALE, OTHER DISPOSITIONS OR IMPORTATION OF ANY APPARATUS OR PRODUCT MADE BY THAT PARTY;  OR (B) ANY ADVERTISING OR OTHER PROMOTIONAL ACTIVITIES MADE BY THAT PARTY WITH RESPECT TO ANY OF THE  FOREGOING, AND EACH PARTY SHALL HOLD THE OTHER PARTY, AND ITS AFFILIATES, OFFICERS, AGENTS, OR EMPLOYEES,  HARMLESS IN THE EVENT IT, OR ITS OFFICERS, AGENTS, OR EMPLOYEES, IS HELD LIABLE. THIS SECTION 8 IS NOT INTENDED TO  NEGATE OR SUPERSEDE ANY REPRESENTATION OR WARRANTY EXPRESSLY MADE BY SONY IN THIS IP AGREEMENT.     9. Miscellaneous     9.1 Notices     All notices and other communications required or permitted hereunder will be in writing and, unless otherwise provided in this IP  Agreement, will be deemed to have been duly given when delivered in person or when dispatched by electronic facsimile transfer (confirmed in  writing by mail simultaneously dispatched) or one business day after having been dispatched by a nationally recognized overnight courier service  to the appropriate Party at the address specified below:     (a) If to PURCHASER, to:     GSI Technology, Inc.  2360 Owen Street  Santa Clara, CA 95054  Attention: Chief Financial Officer  Facsimile No.: (408) 980-8377     13
+
+
+
+
+
+     with a copy (which shall not constitute notice) to:     DLA Piper LLP (US)  2000 University Avenue  East Palo Alto, CA 94303-2214  Attention: Dennis C. Sullivan  Facsimile No.: (650) 867-1200     (b) If to SONY, to:     Sony Electronics Inc.  1730 N. First Street  San Jose, CA 95112  Attention: Law Department  Facsimile No.: (408) 352-4169     with a copy (which will not constitute notice) to:     Sony Electronics Inc.  16530 Via Esprillo, MZ7300  San Diego, CA 92127  Attention: General Counsel  Facsimile No.: (858) 942-8170     or to such other address or addresses as any such Party may from time to time designate as to itself by like notice.     9.2 Expenses     Except as otherwise expressly provided herein, each Party shall pay any expenses incurred by it incident to this IP Agreement,  and in preparing to consummate and consummating the transactions provided for herein.     9.3 Successors and Assigns     This IP Agreement will be binding upon and inure to the benefit of the Parties hereto and their respective successors and  permitted assigns, but will not be assignable or delegable by any Party without the prior written consent of the other Party. Notwithstanding the  foregoing, a Party may transfer or assign its rights under this IP Agreement in connection with a merger, acquisition or sale of all or substantially  all of its assets, on condition that it provides the      14
+
+
+
+
+
+     other Party with notice of the transfer or assignment. Any attempted transfer in contravention of this Section 9.3 shall be null and void.     9.4 Waiver     No action taken pursuant to this IP Agreement will be deemed to constitute a waiver of compliance with any representations,  warranties, conditions or covenants contained in this IP Agreement unless it is in writing, and no such waiver will operate or be construed as a  waiver of any subsequent breach, whether of a similar or dissimilar nature.     9.5 Entire Agreement     This IP Agreement and the Asset Purchase Agreement (including the Schedules and Exhibits hereto and thereto and the  ancillary documents thereto) supersedes any other agreement, whether written or oral, that may have been made or entered into by any Party  relating to the matters contemplated hereby and constitutes the entire agreement by and among the Parties with respect to the subject matter  hereof and thereof.     9.6 Amendments and Supplements     This IP Agreement may be amended or supplemented at any time by additional written agreements as may mutually be  determined by PURCHASER and SONY to be necessary, desirable or expedient to further the purposes of this IP Agreement or to clarify the  intention of the Parties.     9.7 Rights of Third Parties     Other than Affiliates of a Party, nothing expressed or implied in this IP Agreement is intended or will be construed to confer  upon or give any Person other than the Parties any rights or remedies under or by reason of this IP Agreement or any transaction contemplated  hereby.     15
+
+
+
+
+
+     9.8 Further Assurances     From time to time, as and when requested by either Party, the other Party will execute and deliver, or cause to be executed and  delivered, all such documents and instruments, make such other deliveries and take such other actions as may be reasonably necessary to  consummate the transactions contemplated by this IP Agreement.     9.9 Applicable Law     This IP Agreement and the legal relations among the Parties will be governed by and construed in accordance with the rules and  substantive Laws of the State of California, United States of America, without regard to conflicts of law provisions.     9.10 Execution in Counterparts     This IP Agreement may be executed in two or more counterparts, each of which will be deemed an original, but all of which  together will constitute one and the same agreement.     9.11 Titles and Headings     Titles and headings to Sections herein are inserted for convenience of reference only, and are not intended to be a part of or to  affect the meaning or interpretation of this IP Agreement.     9.12 Invalid Provisions     If any provision of this IP Agreement is held to be illegal, invalid, or unenforceable under any present or future Law, (a) such  provision will be fully severable; (b) this IP Agreement will be construed and enforced as if such illegal, invalid, or unenforceable provision had  never comprised a part hereof; (c) the remaining provisions of this IP Agreement will remain in full force and effect and will not be affected by the  illegal, invalid, or unenforceable provision or by its severance from this IP Agreement; and (d) in lieu of such illegal, invalid, or unenforceable  provision, there will be added automatically as a part of this IP Agreement a legal, valid, and enforceable provision as similar in terms to such  illegal, invalid, or unenforceable provision as may be possible.     16
+
+
+
+
+
+     9.13 Transfer Taxes     All sales, use, transfer, stamp, conveyance, value added or other similar taxes, duties, excises or governmental charges imposed  by any taxing jurisdiction, domestic or foreign, and all recording or filing fees, notary fees or other similar costs of Closing with respect to the  transfer of the Transferred Assets or otherwise on account of this IP Agreement or the transactions contemplated hereby will be borne by  PURCHASER.     9.14 Attorneys' Fees     If any action at law or in equity is necessary to enforce or interpret the terms of this IP Agreement, the Person prevailing shall be  entitled to recover in such action its reasonable attorneys' fees, costs and necessary disbursements in addition to any other relief to which it may  be entitled.     IN WITNESS WHEREOF, the Parties have caused this IP Agreement to be executed in duplicate by their duly authorized officers  as of the day and year first above written.
+
+   17
+
+GSI TECHNOLOGY, INC.     SONY ELECTRONICS INC.                By: /s/ Lee-Lean Shu     By: /s/ Tomoya Hayakawa             Name: Lee-Lean Shu     Name:  Tomoya Hayakawa             Title: President & CEO     Title: President of CSBD
+
+
+
+
+
+     Exhibit F:     Exhibit A to the IP Agreement: List of Assigned Patents
+
+
+
+Filing Date    Title    Country/  Region    Serial #   Publ. #   Patent #   Inventors                             28-Apr-06     Test semiconductor device in full frequency with  half frequency tester     United States     11/414,612     2007-0266286     7516385     Chen, Suzanne; & Kim, Jae-Hyeong; &  Tseng, Chih-Chiang                             24-Apr-06     Minimized line skew generator.     United States     11/410,352     2007-0096790     Not yet  patented     Chuang, Patrick; & Kim, Jae-Hyeong;  & Lu, Chungji (Jay)                             30-Oct-06     Performing Read and Write Operations in the  Same Cycle for an SRAM Device.     Japan     2006-294640                 Chen, Suzanne; & Huang, M.H. Mu- Hsiang; & Tseng, Chih-Chiang                             14-Apr-06     Performing read and write operations in the same  cycle for an SRAM device.     United States     11/404,191     2007-0097780     7355907     Chen, Suzanne; & Huang, M.H. Mu- Hsiang; & Tseng, Chih-Chiang                             30-Oct-06     Shift Registers Free of Timing Race Boundary  Scan Registers with Two-Phase Clock Control.     Japan     2006-294617                 Chen, Suzanne; & Chuang, Patrick; &  Huang, M.H. Mu-Hsiang
+
+
+
+
+
+
+
+   2
+
+14-Apr-06     Shift registers free of timing race boundary scan  registers with two-phase clock control.     United States     11/404,353     2007-0101222     7389457     Chen, Suzanne; & Chuang, Patrick; &  Huang, M.H. Mu-Hsiang                             3-May-06     Dynamic sense amplifier for SRAM.     United States     11/417,805     2007-0097765     7313040     Chuang, Patrick; & Huang, M.H. Mu- Hsiang; & Kim, Jae-Hyeong                             30-Oct-06     Dynamic sense amplifier for SRAM.     Japan     2006-294706                 Chuang, Patrick; & Huang, M.H. Mu- Hsiang; & Kim, Jae-Hyeong                             17-May-06
+
+
+
+Programmable impedance control circuit  calibrated at Voh Vol level
+
+United States
+
+
+
+11/436,260
+
+
+
+2007-0268039
+
+
+
+7312629
+
+
+
+Huang, M.H. Mu-Hsiang; & Ichihashi,  Masahiro; & Miyajima, Yoshifumi; &  Nakashima, Katsuya                             4-Apr-08     DYNAMIC DUAL CONTROL ON-DIE  TERMINATION.     United States     12/078,782     2008-0272800     Not yet  patented     Chuang, Patrick; & Haig, Robert
+
+                           24-Mar-08     An efficient method for implementing  programmable impedance output drivers and      United States     12/079,100     Not yet published     Not yet  patented     Chuang, Patrick; & Haig, Robert; &  Kwon, Kookhwan;
+
+
+
+
+
+
+
+   3
+
+      programmable input on die termination on a bi- directional data bus                             & Tseng, Chih
+
+                           9-Mar-09
+
+
+
+Programmable input/output structures and  method for implementing a bi-directional data  busses.
+
+China
+
+
+
+200910127224.8
+
+
+
+
+
+
+
+
+
+
+
+Chuang, Patrick; & Haig, Robert; &  Kwon, Kookhwan; & Tseng, Chih
+
+                           13-Feb-09
+
+
+
+An efficient method for implementing  programmable impedance output drivers and  programmable input on die termination on a bi- directional data bus
+
+EPO
+
+
+
+09250396.0
+
+
+
+
+
+
+
+
+
+
+
+Chuang, Patrick; & Haig, Robert; &  Kwon, Kookhwan; & Tseng, Chih

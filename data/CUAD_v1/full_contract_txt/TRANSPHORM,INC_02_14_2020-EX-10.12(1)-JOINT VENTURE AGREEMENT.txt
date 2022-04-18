@@ -1,0 +1,1019 @@
+Exhibit 10.12.1
+
+Confidential Execution Version
+
+[***] Certain information in this document has been excluded because it both (i) is not material and (ii) would likely cause competitive harm to the registrant if publicly disclosed.
+
+JOINT VENTURE AGREEMENT
+
+by and among
+
+Aizu Fujitsu Semiconductor Limited
+
+Fujitsu Semiconductor Limited
+
+and
+
+Transphorm, Inc.
+
+Date
+
+May 23, 2017
+
+
+
+
+
+Confidential Execution Version
+
+TABLE OF CONTENTS
+
+Page Article I Definitions 1
+
+Article II Representations and Warranties of the Parties 4
+
+2.1 Representations and Warranties of AFSL and FSL 4 2.2 Representations and Warranties of TPH-A and TPH 6
+
+Article III Operation of the Company 7
+
+3.1 Activities 7 3.2 Cash Requirement of the Company 7 3.3 Business Plan 7 3.4 Independent Entity 8
+
+Article IV Management of the Company 8
+
+4.1 Board 8 4.2 Composition of the Board 8 4.3 Board Observers 9 4.4 Meetings; Quorum 9 4.5 Personnel; Representative Director 9 4.6 Statutory Auditors 9 4.7 Actions Requiring Unanimous Board Approval 9 4.8 Agreement Regarding Board 12 4.9 Procedure in the Event of Failure to Agree 12
+
+Article V Covenants 13
+
+5.1 Capital Accounts 13 5.2 Provision of Support Services 13 5.3 GaN Equipment 13 5.4 Ancillary Agreements 13 5.5 Other Existing Agreements 14 5.6 Ownership of IP 14 5.7 Sufficiency of IP 14 5.8 Cooperation 14 5.9 Delivery of Financial Statements; Inspection Rights 14 5.10 TPH' s Stockholder Approval 15
+
+Article VI Rights and Obligations of FSL, TPH AND TPH-A 15
+
+6.1 FSL 15 6.2 TPH 15 6.3 TPH-A 15
+
+Article VII Term and Termination 15
+
+7.1 Termination Prior to the Effective Date 15
+
+-i-
+
+
+
+
+
+Confidential Execution Version
+
+TABLE OF CONTENTS (continued)
+
+Page 7.2 Effect of Termination Prior to the Effective Date 16 7.3 Termination After the Effective Date 16 7.4 Dissolution and Winding-up 17 7.5 Shareholder Calls Upon Breach 17 7.6 Shareholder Calls Upon Bankruptcy After the Effective Date 18 7.7 Survival of Provisions After the Effective Date 19 7.8 Cooperation 19
+
+Article VIII Transfer Restrictions 19
+
+8.1 Restrictions on Transfers 19 8.2 Permissible Transfers 19
+
+Article IX Put Option and Call Option 19
+
+9.1 AFSL's Right to Require the Purchase of the Shares by TPH or TPH-A 19 9.2 TPH-A's Right to Require the Purchase of the Shares from FSL or AFSL 20 9.3 Conditions to Put Option or Call Option Closing 21 9.4 Other Obligations 22
+
+Article X Treatment of Employees 22
+
+10.1 New Terms and Conditions for Employment 22 10.2 Representations and Warranties Regarding Employment 22
+
+Article XI Miscellaneous 23
+
+11.1 No Partnership 23 11.2 Limitations on Parties' Authority 23 11.3 Indemnification 23 11.4 Confidentiality 24 11.5 Access to Company Information After the Put Closing Date or the Call Closing Date 24 11.6 Expenses 24 11.7 Notices 25 11.8 Successors and Assigns 26 11.9 Waiver 26 11.10 Announcements 26 11.11 Entire Agreement 26 11.12 Amendments 26 11.13 Limitations on Rights of Third Persons 26 11.14 Governing Law; Language 26 11.15 Resolution of Disputes 26 11.16 Severability 27 11.17 Execution in Counterparts 28 11.18 Titles and Headings 28 11.19 Counsel only to TPH and TPH-A 28
+
+-ii-
+
+
+
+
+
+Confidential Execution Version
+
+JOINT VENTURE AGREEMENT
+
+THIS JOINT VENTURE AGREEMENT ("Agreement") is made as of this 23rd day of May, 2017 by and among Aizu Fujitsu Semiconductor Limited ("AFSL"), a kabushiki kaisha incorporated in Japan, with an address at No.4 Kogyo Danchi, Monden-Machi, Aizu Wakamatsu, Fukushima, Japan, Fujitsu Semiconductor Limited ("FSL"), a kabushiki kaisha incorporated in Japan, with an address at Shin-Yokohama Chuo Building, 2-100-45, Shin-Yokohama, Kohoku-Ku, Yokohama, Kanagawa, Japan, as a one hundred percent (100%) shareholder of AFSL, and Transphorm, Inc. ("TPH"), a corporation incorporated in Delaware, with an address at 75 Castilian Drive, Goleta, California 93117, U.S.A. (collectively referred to as the "Parties" and individually, a "Party").
+
+W I T N E S S E T H:
+
+WHEREAS, Aizu Fujitsu Semiconductor Wafer Solution Limited ("AFSW" or the "Company"), a kabushiki kaisha incorporated in Japan, with an address at No.3 Kogyo Danchi, Monden-Machi, Aizu Wakamatsu, Fukushima, Japan has been engaged with the business of 150mm wafer foundry services and other services related thereto (the "Business").
+
+WHEREAS, prior to the Effective Date (as defined below), TPH intends to incorporate a new wholly-owned subsidiary ("TPH-A") and make it a Party hereto.
+
+WHEREAS, with the consent of the Parties and the board of directors of the Company, AFSL has entered into the Shares Purchase Agreement dated May 23, 2017 (the "SPA"), by and among the Parties hereof, pursuant to which AFSL will sell and transfer [***] shares of the issued and outstanding shares in the Company (representing [***] of the issued and outstanding shares in the Company) to TPH-A; and
+
+WHEREAS, the Parties intend to regulate and agree upon the organization and operation of the Company and each Party's rights and obligations and other matters regarding the Company; and
+
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Parties agree as follows:
+
+ARTICLE I DEFINITIONS
+
+As used in this Agreement, the following terms shall have the following meanings:
+
+1.1 "Affiliate" of AFSL, FSL, TPH-A or TPH, as the case may be, means a Person or group of Persons: (a) which owns or Controls, directly or indirectly, AFSL, FSL, TPH-A or TPH; (b) which is owned or Controlled, directly or indirectly, by AFSL, FSL, TPH-A or TPH; or (c) which is owned or Controlled, directly or indirectly, by any Person described in Section 1.1(a) or (b).
+
+1.2 "AFSW Secondment Agreement" has the meaning ascribed to that term in the SPA.
+
+
+
+
+
+Confidential Execution Version
+
+1.3 "Amended Process Development Agreement" has the meaning ascribed to that term in Section 2.1.7.
+
+1.4 "Ancillary Agreements" means the SPA, the AFSW Secondment Agreement, the TPH-J Secondment Agreement, the Wafer Supply Agreement, the Joinder Agreement, the Process Development Amendment and the Services Agreement Amendment.
+
+1.6 "Board" means the board of directors of the Company.
+
+1.7 "Business" has the meaning ascribed to that term in the Recitals.
+
+1.8 "Business Day" means any day other than a Saturday, Sunday or public holiday under the laws of Japan, or any other day on which banking institutions are authorized to close in Tokyo, Japan or in New York, New York, USA.
+
+1.9 "Business Plan" has the meaning ascribed to that term in Section 3.3.1.
+
+1.10 "Call Shares" means any and all Shares held by AFSL or FSL or any other Person Controlled by AFSL or FSL, as the case may be, on the date of the Call Exercise Notice.
+
+1.11 "Change of Control Transaction" means either (a) the acquisition of the Company by an entity not affiliated with FSL or TPH by means of any transaction or series of related transactions (including, without limitation, any stock acquisition, merger, demerger or share exchange but excluding any sale of stock for capital raising purposes) other than a transaction or series of related transactions in which the holders of the voting securities of the Company outstanding immediately prior to such transaction or series of related transactions retain, immediately after such transaction or series of related transactions, as a result of shares in the Company held by such holders prior to such transaction or series of related transactions, at least a majority of the total voting power represented by the outstanding voting securities of the Company or such other surviving or resulting entity (or if the Company or such other surviving or resulting entity is a wholly-owned Subsidiary (hereinafter defined) immediately following such acquisition, its parent); or (b) a sale, lease, transfer, exclusive license or other disposition of all or substantially all of the assets of the Company and its Subsidiaries taken as a whole by means of any transaction or series of related transactions with a party other than FSL or its Affiliates or TPH or its Affiliates, except where such sale, lease, transfer, exclusive license or other disposition is to a wholly owned Subsidiary of the Company.
+
+1.12 "Company Assets" has the meaning ascribed to that term in the SPA.
+
+1.13 "Control" means the power, right or authority to direct or cause the direction of the management or policies of a Person, or to elect a majority of the board of directors or similar governing body of a Person, whether through the ownership of securities or similar ownership interest, by contract or otherwise, and references to "change of control" include the transfer, disposition or relinquishment, whether directly or indirectly, of Control.
+
+1.14 "Designated Individuals" has the meaning ascribed to that term in Section 4.9.
+
+1.15 "Designated Nuclear Waste" has the meaning ascribed to that term in the SPA.
+
+- 2-
+
+
+
+
+
+Confidential Execution Version
+
+1.16 "Director" has the meaning ascribed to that term in Section 4.2.
+
+1.17 "Effective Date" means the date that the Initial Closing occurs.
+
+1.18 "Encumbrance" has the meaning ascribed to that term in the SPA.
+
+1.19 "Funded Work" has the meaning ascribed to that term in Section 2.1.7.
+
+1.20 "GaN Equipment" has the meaning ascribed to that term in Section 5.3.
+
+1.21 "GaN Wafers" has the meaning ascribed to that term in the Amended Process Development Agreement.
+
+1.22 "Governmental Authority" means any government, state (or any subunit thereof), political subdivision or regulatory authority, whether domestic, foreign or multinational, or any agency, authority, bureau, commission, department, or court of any government state, political subdivision or regulatory authority or similar body or instrumentality thereof, or any federal state, local, governmental, foreign or arbitral tribunal.
+
+1.23 "Governmental Approvals" mean all consents, approvals, orders, permits or authorizations of, and registrations, declarations and filings with, and expirations of waiting periods imposed by, any court, legislative body, administrative agency, commission or other Governmental Authority and required in connection with the transactions contemplated herein.
+
+1.24 "Harmful Materials" has the meaning ascribed to that term in the SPA.
+
+1.25 "Initial Closing" has the meaning ascribed to that term in the SPA.
+
+1.26 "Intellectual Property Rights" has the meaning ascribed to that term in the SPA.
+
+1.27 "Japanese GAAP" means generally accepted accounting principles in Japan.
+
+1.28 "Joinder Agreement" has the meaning ascribed to that term in Section 6.3.
+
+1.29 "Joint Venture" means the operation of the Company pursuant to this Agreement from the Effective Date to the earliest to occur of: (i) the Put Closing Date (hereinafter defined), (ii) the Call Closing Date (hereinafter defined), or (iii) termination of this Agreement pursuant to Article VII hereof.
+
+1.30 "Laws" means laws, statutes, ordinances, rules requirements, decrees, orders or regulations.
+
+1.31 "Net Book Value" has the meaning ascribed to that term in the SPA.
+
+1.32 "Option Starting Date" means February 1, 2020.
+
+1.33 "Person" includes any individual, company, corporation, firm, partnership, joint venture, association, organization or trust in each case whether or not having a separate legal identity.
+
+- 3-
+
+
+
+
+
+Confidential Execution Version
+
+1.34 "Pro Rata Ownership" means for any Shareholder, the ratio equal to the total number of Shares held by such Shareholder at any given time to the total number of outstanding Shares at such time.
+
+1.35 "Process Development Amendment" has the meaning ascribed to that term in the SPA.
+
+1.36 "Put Shares" means any and all Shares held by AFSL or FSL or any other Person Controlled by AFSL or FSL, as the case may be, on the date of the Put Exercise Notice.
+
+1.37 "Sale Shares" has the meaning ascribed to that term in the SPA.
+
+1.38 "Section" means a section of this Agreement.
+
+1.39 "Seller Disclosure Schedule" has the meaning ascribed to that term in the SPA.
+
+1.40 "Services Agreement Amendment" has the meaning ascribed to that term in the SPA.
+
+1.41 "Shareholder" means each Person that holds Shares.
+
+1.42 "Shares" means the shares of authorized and outstanding capital of the Company.
+
+1.43 "Shares Purchase Price" has the meaning ascribed to that term in the SPA.
+
+1.44 "SPA" has the meaning ascribed to that term in the Recitals.
+
+1.45 "Subsidiary" means a Person in which a Party hereto beneficially owns at least fifty percent (50%) of the equity interest or voting power of such Person.
+
+1.46 "Tax" has the meaning ascribed to that term in the SPA.
+
+1.47 "Tax Return" has the meaning ascribed to that term in the SPA.
+
+1.48 "TPH-J" means Transphorm Japan, Inc., a kabushiki kaisha incorporated in Japan, which is a wholly-owned Subsidiary of TPH.
+
+1.49 "TPH-J Secondment Agreement" has the meaning ascribed to that term in the SPA.
+
+1.50 "Wafer Supply Agreement" has the meaning ascribed to that term in the SPA.
+
+Unless the context clearly requires otherwise, reference to the singular shall include the plural, reference to the plural shall include the singular and reference to a gender shall include all genders.
+
+ARTICLE II REPRESENTATIONS AND WARRANTIES OF THE PARTIES
+
+2.1 Representations and Warranties of AFSL and FSL. AFSL and FSL hereby represent and warrant to TPH-A and TPH as of the date hereof and as of the Effective Date as follows:
+
+- 4-
+
+
+
+
+
+Confidential Execution Version
+
+2.1.1 Organization. Each of AFSL and FSL is a kabushiki kaisha, duly organized, validly existing and in good standing under the laws of Japan, and has the corporate power and authority to execute, deliver and perform its obligations under this Agreement.
+
+2.1.2 Authorization; Execution and Delivery; Enforceability. All corporate action on the part of AFSL and FSL necessary for the authorization, execution and delivery of this Agreement and for the performance of all of their respective obligations hereunder has been taken. This Agreement has been duly executed and delivered by each of AFSL and FSL and constitutes a valid and legally binding obligation of each of them.
+
+2.1.3 Government and Other Consents. No consent, authorization, license, permit, registration or approval of, or exemption or other action by, any Governmental Authority, or any other Person, is required in connection with AFSL's or FSL's execution, delivery and performance of this Agreement.
+
+2.1.4 Effect of Agreement. Except as set forth in Section 3.2.3 of the Seller Disclosure Schedule, each of AFSL's and FSL's execution, delivery and performance of this Agreement will not (i) violate the Articles of Incorporation of either of them or any provision of Law, (ii) violate any judgment, order, writ, injunction or decree of any court applicable to AFSL, FSL or the Company, (iii) result in the breach of, give rise to a right of termination, cancellation or acceleration of any obligation with respect to (presently or with the giving of notice, the passage of time or both), or otherwise be in conflict with any term of, or affect the validity or enforceability of, any agreement or other commitment to which AFSL, FSL or the Company is a party and which would materially and adversely affect either of them or the Company, or (iv) result in the creation of any lien, pledge, mortgage, claim, charge or encumbrance upon any assets of AFSL, FSL or the Company.
+
+2.1.5 Litigation. There are no actions, suits or proceedings pending or, to either AFSL's or FSL's knowledge, threatened, against AFSL or FSL before any Governmental Authority which question AFSL's or FSL's right to enter into or perform this Agreement, or which question the validity of this Agreement.
+
+2.1.6 Equipment. FSL (as of the date hereof) and the Company (as of the Effective Date) have valid and perfected ownership of all GaN Equipment, free and clear of any Encumbrances. There are no third party agreements or licenses with respect to any software or firmware required to operate any GaN Equipment.
+
+2.1.7 Sufficiency of IP. As of the Effective Date, the Intellectual Property Rights owned by the Company, together with the Intellectual Property Rights licensed to TPH pursuant to (i) that certain Process Technology Development Services Agreement, dated as of November 28, 2013, by and between FSL and TPH, and (ii) the Process Development Amendment ((i) and (ii) collectively, the "Amended Process Development Agreement"), shall constitute all Intellectual Property Rights owned by FSL, AFSL, Fujitsu Limited or their Affiliates that are or will be necessary for the continued operation of the Business for GaN Wafers following the Effective Date in the manner conducted as of the Effective Date. For the avoidance of doubt, the Business does not include the Company's performance of the GaN work commissioned and funded by Fujitsu Limited and its Affiliates
+
+- 5-
+
+
+
+
+
+Confidential Execution Version
+
+(including Fujitsu Laboratories Ltd., but excluding FSL and AFSL) to the Company (such work, the "Funded Work").
+
+2.2 Representations and Warranties of TPH-A and TPH.
+
+2.2.1 TPH hereby represents and warrants to AFSL and FSL as of the date hereof and as of the Effective Date as follows:
+
+(i) Organization. TPH is a corporation, duly organized, validly existing and in good standing under the laws of the State of Delaware, and has the corporate power and authority to execute, deliver and perform its obligations under this Agreement.
+
+(ii) Authorization; Execution and Delivery; Enforceability. All corporate action on the part of TPH necessary for the authorization, execution and delivery of this Agreement and for the performance of all its obligations hereunder has been taken. This Agreement has been duly executed and delivered by TPH and constitutes a valid and legally binding obligation of TPH.
+
+(iii) Government and Other Consents. No consent, authorization, license, permit, registration or approval of, or exemption or other action by, any Governmental Authority, or any other Person, is required in connection with TPH's execution, delivery and performance of this Agreement.
+
+(iv) Effect of Agreement. TPH's execution, delivery and performance of this Agreement will not (i) violate the Certificate of Incorporation or Bylaws of TPH, or any provision of Law, (ii) violate any judgment, order, writ, injunction or decree of any court applicable to TPH, (iii) result in the breach of, give rise to a right of termination, cancellation or acceleration of any obligation with respect to (presently or with the giving of notice, the passage of time or both), or otherwise be in conflict with any term of, or affect the validity or enforceability of, any agreement or other commitment to which TPH is a party and which would materially and adversely affect it or the Company, or (iv) result in the creation of any lien, pledge, mortgage, claim, charge or encumbrance upon any assets of TPH.
+
+(v) Litigation. There are no actions, suits or proceedings pending or, to TPH's knowledge, threatened, against TPH before any Governmental Authority which question TPH's right to enter into or perform this Agreement, or which question the validity of this Agreement.
+
+2.2.2 TPH-A hereby represents and warrants to AFSL and FSL as of the date of the Joinder Agreement and as of the Effective Date as follows:
+
+(i) Organization. TPH-A is a kabushiki kaisha, duly organized, validly existing and in good standing under the laws of Japan, and has the corporate power and authority to execute, deliver and perform its obligations under this Agreement.
+
+(ii) Authorization; Execution and Delivery; Enforceability. All corporate action on the part of TPH-A necessary for the authorization, execution and delivery of the Joinder Agreement, and for the performance of all its obligations thereunder and hereunder has been taken.
+
+- 6-
+
+
+
+
+
+Confidential Execution Version
+
+The Joinder Agreement has been duly executed and delivered by TPH-A and constitutes a valid and legally binding obligation of TPH-A.
+
+(iii) Government and Other Consents. No consent, authorization, license, permit, registration or approval of, or exemption or other action by, any Governmental Authority, or any other Person, is required in connection with TPH-A's execution, delivery and performance of the Joinder Agreement and this Agreement.
+
+(iv) Effect of Agreement. TPH-A's execution, delivery and performance of the Joinder Agreement and this Agreement, as applicable, will not (i) violate the Articles of Incorporation of TPH-A, or any provision of Law, (ii) violate any judgment, order, writ, injunction or decree of any court applicable to TPH-A, (iii) result in the breach of, give rise to a right of termination, cancellation or acceleration of any obligation with respect to (presently or with the giving of notice, the passage of time or both), or otherwise be in conflict with any term of, or affect the validity or enforceability of, any agreement or other commitment to which TPH-A is a party and which would materially and adversely affect it or the Company, or (iv) result in the creation of any lien, pledge, mortgage, claim, charge or encumbrance upon any assets of TPH-A.
+
+(v) Litigation. There are no actions, suits or proceedings pending or, to TPH-A's knowledge, threatened, against TPH-A before any Governmental Authority which question TPH-A's right to enter into or perform this Agreement and the Joinder Agreement, or which question the validity of this Agreement and the Joinder Agreement.
+
+ARTICLE III OPERATION OF THE COMPANY
+
+3.1 Activities. The Company shall manufacture the semiconductor products for which AFSL/FSL or TPH-A/TPH-J/TPH places an order to the Company from time to time during the term of this Agreement, using the technologies made available by AFSL/FSL and TPH-A/TPH-J/TPH, respectively. With the consent of the Board in compliance with Section 4.7, the Company may manufacture semiconductor products directly for Persons who are not parties to this Agreement.
+
+3.2 Cash Requirement of the Company. All cash requirements of the Company shall be satisfied from cash generated by the operations of the Company, from external financing (on a non-recourse basis and without guarantees of the Shareholders or their Affiliates) procured by the Company in its own name, from financing by the Shareholders (the burden of such financing shall be allocated to a Shareholder based on Pro Rata Ownership) and from the initial capitalization.
+
+3.3 Business Plan.
+
+3.3.1 Conduct of Business. The Company shall conduct its Business in conformity with a business plan jointly prepared and agreed to by the Parties on or prior to the Effective Date, as may be amended from time to time after the Effective Date with the unanimous approval of the Board (the "Business Plan"). In case where the Parties have not agreed on the Business Plan as of the date hereof, then the Parties shall continue to discuss in good faith immediately following the execution of this Agreement and agree on the Business Plan prior to the Effective Date.
+
+- 7-
+
+
+
+
+
+Confidential Execution Version
+
+3.3.2 Treatment of the Business Plan. The Parties expect the Company to comply with the Business Plan; provided, however, deviations from the Business Plan that result in an increase or decrease of less than twenty percent (20%) of the original cost or revenue to the Company attributable to such item as set forth in the Business Plan shall not require the consent of the Parties, so long as all such deviations in any given quarter do not represent a deviation of more than ten percent (10%) of total revenue or total expense, as the case may be, in the aggregate for the quarter in which the deviation occurs. No Party shall, however, have any assurance that the Company will achieve the Business Plan, except as to the number of wafers that each of FSL/AFSL and TPH/TPH-A commits to purchase in the Business Plan. In the event that FSL/AFSL or TPH/TPH-A, as applicable, has failed to purchase its applicable number of wafers in accordance with the Business Plan, then such Party shall compensate the Company for the shortfalls in the actual revenue of the Company attributable to its failure to purchase such wafers versus its share of the planned revenue set forth in the Business Plan. As soon as it becomes practicable after the end of each quarter, but not later than thirty (30) days thereafter, the Parties shall review the actual revenue of the Company versus the Business Plan based on the wafer loading by each of FSL/AFSL and TPH/TPH-A for the previous quarter, and if there are any shortfalls in revenue from the Business Plan in such quarter, the compensation for such shortfalls shall be made by a Party who caused such shortfalls to the Company within sixty (60) days after the end of the fiscal year of the Company where such quarter resides. For the avoidance of doubt, (i) if a Party, its Affiliate or another third party purchases such Party's committed number of wafers in the Business Plan, such Party shall not be deemed to have caused a shortfall in the revenue of the Company and (ii) the revenue attributable to a Party's failure to purchase its number of wafers in accordance with the Business Plan shall equal (A) the number of wafers not purchased, multiplied by (B) the agreed price (as set forth in the Business Plan) per wafer.
+
+3.3.3 Revised Budget. The budget of the Company shall be reviewed quarterly and may be revised by the Company with the unanimous approval of the Board. Such revised budget shall be deemed as the then-current Business Plan.
+
+3.4 Independent Entity. The Company shall be operated as an independent business entity, even though the Parties may provide products, personnel and services.
+
+ARTICLE IV MANAGEMENT OF THE COMPANY
+
+4.1 Board. Except where the approval of the Shareholders is required by applicable Laws, the Articles of Incorporation or this Agreement, the business and affairs of the Company shall be managed by the Board.
+
+4.2 Composition of the Board. The Board shall consist of five (5) members (each, a "Director"), three (3) of whom shall be nominated by AFSL and two (2) of whom shall be nominated by TPH-A, and each Shareholder shall vote all of its Shares in favor of the election of the Directors nominated by the other. Each of AFSL and TPH-A shall have the right to nominate a replacement for any Director previously nominated by it, and each shall vote all of its Shares in favor of the election of such replacement. A Director nominated by AFSL shall be a Chairman of the Board for all meetings. In the event that a Shareholder who is entitled to nominate a Director seeks to remove such
+
+- 8-
+
+
+
+
+
+Confidential Execution Version
+
+Director by written notice to the Company, all Shareholders shall be obligated to vote their Shares in favor of such removal.
+
+4.3 Board Observers. Representatives of TPH and FSL may attend and participate in any meeting of the Board, but shall in all other respects be a nonvoting observer.
+
+4.4 Meetings; Quorum.
+
+4.4.1 Regular meetings of the Board shall be held at least once per three (3) months at such place and time as set forth in notices provided to the Directors at least ten (10) Business Days in advance of such meeting. Special meetings of the Board shall be held upon notice of not less than three (3) Business Days setting forth an agenda or purpose for the meeting; provided, however, that any Director may waive compliance with such notice requirement before or after the meeting. Special meetings of the Board may be called by at least two (2) Directors upon three (3) Business Days' notice to the Chairman, which notice shall include an agenda for such meeting.
+
+4.4.2 Any Director may propose items for the agendas of any meeting of the Board whether in advance or at such meeting.
+
+4.4.3 A quorum shall be deemed to exist for purposes of Board actions so long as at least a majority of the total number of Directors then in office are present, provided that proper notice of such Board meeting has been given, in accordance with Section 4.4.1, to each of the Directors then in office. Directors may participate in Board meetings in person or electronically (including video or audio conference) in accordance with the Japanese Companies Act.
+
+4.4.4 Proceedings of Board meetings shall be in Japanese/English, as the case may be, and a record of each Board meeting shall be made in Japanese and English, and sent promptly to each Shareholder. In the event of a conflict between the English and Japanese versions, the Japanese version shall control.
+
+4.4.5 Minutes of the meetings of the Board shall be placed and duly maintained at the office of the Company.
+
+4.4.6 Any action that may be taken at a meeting of the Board may be taken in writing in accordance with the Company's Articles of Incorporation.
+
+4.5 Personnel; Representative Director. One of the Directors to be nominated by AFSL shall be the manager of the Company, who shall also be the Representative Director (as defined under the Japanese Companies Act).
+
+4.6 Statutory Auditors. The Company shall have one (1) statutory auditor. The statutory auditor shall be appointed by AFSL, subject to the approval of TPH-A, which approval shall not be unreasonably withheld.
+
+4.7 Actions Requiring Unanimous Board Approval. The Parties agree that the following matters require the unanimous approval of the Directors present at a properly-noticed Board meeting,
+
+- 9-
+
+
+
+
+
+Confidential Execution Version
+
+and no Shareholder shall convene a shareholders meeting with respect to the following matters without the prior written consent of the other Shareholder:
+
+4.7.1 revising the budget or Business Plan of the Company;
+
+4.7.2 making any capital contribution in excess of the capital required pursuant to the Business Plan;
+
+4.7.3 manufacturing semiconductor products directly for Persons who are not parties to this Agreement;
+
+4.7.4 selling, transferring, leasing, assigning or otherwise disposing of the property or assets of the Company, or contracting to do so, whether in a single transaction or series of related transactions;
+
+4.7.5 consummating a Change of Control Transaction including without limitation merger, demerger, share exchange, liquidating or dissolving the Company, the entering into of a composition with creditors or the authorization of any filing for bankruptcy by the Company or the transformation of the Company into another type of legal entity;
+
+4.7.6 entering into any agreement to effect a Change of Control Transaction or undertaking any action which effects a Change of Control Transaction, except pursuant to the exercise of the Put Option or Call Option, calls pursuant to Sections 7.5 and 7.6 and transfers permitted pursuant to Sections 8.1 and 8.2;
+
+4.7.7 issuing any shares of the authorized capital of the Company or the authorization or issuance of any new class or series of capital of the Company or any securities convertible into or exchangeable for any class or series of capital of the Company;
+
+4.7.8 recapitalizing, reclassifying, consolidating, subdividing or converting, or altering of any rights attaching to, any class or series of authorized capital of the Company;
+
+4.7.9 entering into any joint venture, partnership or profit-sharing agreement with any third party;
+
+4.7.10 purchasing or otherwise acquiring, or agreeing to purchase or otherwise acquire material assets of any other Person or any shares of capital stock of, or similar interest in, any other Person, or any other asset or group of assets, in a single transaction or series of related transactions;
+
+4.7.11 removing any Director during his/her term of office, unless such Director was requested to be removed by the Shareholder that nominated him/her;
+
+4.7.12 amending or repealing any provision of the Articles of Incorporation or other constituent documents of the Company, including, without limitation, the changing of the business purpose of the Company;
+
+- 10-
+
+
+
+
+
+Confidential Execution Version
+
+4.7.13 declaring or paying any dividend or distribution;
+
+4.7.14 adopting or changing a significant tax or accounting practice or principle of the Company or making any significant tax or accounting election by the Company;
+
+4.7.15 making or changing any election in respect of Taxes, filing any amendment to a Tax Return, entering into any agreement in respect of Taxes, settling, responding to, or making any filing or submission in respect of any audit, claim or assessment in respect of Taxes, or consenting to any extension or waiver of the limitation period applicable to any claim or assessment in respect of Taxes, other than those approved by the Directors nominated by TPH-A as immaterial or in the ordinary course of the Business, such approval not to be unreasonably withheld;
+
+4.7.16 settling or abandoning, on the part of the Company or any Party or Affiliate of any Party, any legal action that is in the name of the Company or that directly affects the Company, which legal action (A) involves a claim or claims for monetary damages, (B) involves a claim or claims by or against any Governmental Authority, (C) involves any claims raising antitrust issues, or (D) involves a request for injunctive relief;
+
+4.7.17 instituting or determining the strategy of any legal action in the name of the Company that (A) involves a claim or claims for monetary damages, (B) involves a claim or claims by or against any Governmental Authority, (C) involves any claims raising antitrust issues, or (D) involves a request for injunctive relief;
+
+4.7.18 entering into or amending an agreement between the Company and a Party or its Affiliates, other than (A) as expressly contemplated by this Agreement or the SPA, or (B) such amendments that result in an increase or decrease of less than 20% of the original cost or revenue to the Company attributable to such agreement as set forth in the Business Plan, so long as all such deviations in any given quarter do not represent a deviation of more than 10% of total revenue or total expense, as the case may be, in the aggregate for the quarter in which the deviation occurs;
+
+4.7.19 incorporating, liquidating, acquiring or transferring any legal entities;
+
+4.7.20 carrying on any business other than the Business and the businesses currently conducted by the Company as of the Effective Date;
+
+4.7.21 creating, incurring, assuming or permitting to exist any indebtedness, except to the extent consistent with the then-current Business Plan;
+
+4.7.22 creating, incurring, assuming or permitting to exist, directly or indirectly, any lien or other encumbrance upon any property, now owned or hereafter acquired, other than incidental liens or liens to secure indebtedness authorized pursuant to Section 4.7.21;
+
+4.7.23 making any loan or advance or the giving of any credit by the Company (other than normal trade credit) to any Person or the giving of any guarantee or indemnity to secure the liabilities or obligations of any Person or the creation of any mortgage, claim, charge, lien, security interest, easement, right of way, pledge or other encumbrance over the whole or any part of the property or assets of the Company;
+
+- 11-
+
+
+
+
+
+Confidential Execution Version
+
+4.7.24 entering into any contract, agreement, commitment, transaction or series of transactions requiring the expenditure by the Company, or the making of any investment, which would exceed thirty million Japanese Yen (¥30,000,000) in the aggregate, except for operational expenditures approved in the Business Plan;
+
+4.7.25 making any material change in (A) the role and responsibility of certain Company employees specified as "Key Employees" in the Appendix 1 attached hereto or (B) the Company's organization;
+
+4.7.26 adopting, materially amending or terminating any Employee Plan, entering into any change in control, severance or similar agreement or any retention or similar agreement with any officer, employee, director or consultant of the Company (including seconded employees), or hiring or making an offer to hire any new employee;
+
+4.7.27 increasing or making any other change that would result in increased cost to the Company to the salary, wage rate, incentive compensation opportunity, employment status, title of other compensation payable or to be become payable to any current or former employee, officer, director, or consultant of the Company (including seconded employees);
+
+4.7.28 entering into, amending or terminating any collective bargaining agreement, labor union contract, works council agreement or other contract with any labor organization or union;
+
+4.7.29 using any Company Assets for (A) the storage, manufacture, processing or disposal of any Harmful Materials, except for the storage of the Designated Nuclear Waste to the extent and in the manner set forth in Article 3.18 of the SPA, or (B) the processing or disposal of industrial waste; or
+
+4.7.30 increasing or decreasing the size of the Board.
+
+Notwithstanding the above, at the request of TPH or TPH-A, the Board shall, without following the procedures set forth in this subsection, approve and direct management to make operational changes to portions of the Company that (i) are specific solely to GaN operation or GaN Equipment and (ii) do not have a material and adverse effect on the Company's profit and loss.
+
+4.8 Agreement Regarding Board. Each Shareholder shall take all actions necessary to cause the Directors nominated by it to abide by and implement all of the provisions of this Agreement.
+
+4.9 Procedure in the Event of Failure to Agree. In the event that the Board has been unable to resolve any matter set forth in Section 4.7 within thirty (30) Business Days after such matter was referred to the Board, then any Party may bring the matter to the attention of the Chief Executive Officer of FSL and the Chief Executive Officer of TPH (the "Designated Individuals") for a decision, which joint decision of the Designated Individuals shall be final and binding on the Company, and the Parties shall direct the Directors nominated by them to exercise their voting rights and take all other necessary steps to ensure that such resolution is fully and promptly carried into effect. Should no solution be agreed upon within sixty (60) days after submission of the matter to the Designated Individuals, then any Party may refer the matter for resolution in accordance with the dispute resolution procedure set forth in Section 11.15.
+
+- 12-
+
+
+
+
+
+Confidential Execution Version
+
+ARTICLE V COVENANTS
+
+5.1 Capital Accounts. The capital accounts of each Shareholder shall be updated in proportion to such Shareholder's Pro Rata Ownership.
+
+5.2 Provision of Support Services.
+
+5.2.1 AFSL shall provide support services agreed upon by AFSL/FSL and the Company to the Company, with adequate consideration to FSL/AFSL and/or FSL's/AFSL's designees, the detailed terms and conditions of which services shall be the same as already have been provided in the applicable agreement(s) by and between AFSL/FSL and the Company (if any) or shall be discussed and determined by the Parties.
+
+5.2.2 TPH and TPH-A shall cause the Company to provide support services agreed upon by AFSL/FSL and the Company to FSL/AFSL and/or FSL's/AFSL's designees, with adequate consideration to the Company, the detailed terms and conditions of which services shall be the same as already have been provided in the applicable agreement(s) by and between AFSL/FSL and the Company (if any) or shall be discussed and determined by the Parties.
+
+5.3 GaN Equipment. During the term of this Agreement, TPH-A/TPH shall be responsible for the costs and expenses agreed by the Parties to maintain and/or procure the equipment for wafer processing specified in the Appendix 2 attached hereto and as amended from time to time upon the mutual agreement of the Parties (the "GaN Equipment"). At TPH's sole option, TPH or TPH-A may purchase the GaN Equipment by completion of payment of the purchase price or depreciation cost for such equipment as set forth in Appendix 2. In such case: (i) TPH-A or TPH, as the case may be, shall acquire sole and exclusive title to the GaN Equipment, free and clear of all Encumbrances, and none of FSL, AFSL or the Company shall have any right, title or interest in such GaN Equipment, (ii) such GaN Equipment shall be clearly labeled as the property of TPH-A or TPH, as the case may be, and (iii) FSL and AFSL shall cause to be assigned to TPH-A or TPH, as the case may be, all licenses and warranties for such GaN Equipment and the software or firmware required to operate such GaN Equipment that are attached to, installed on, or embodied in such GaN Equipment as of the Effective Date. During the term if this Agreement, the GaN Equipment shall be used exclusively in GaN wafer processing, and shall not be used in the silicon wafer processing for AFSL's or FSL's current products. In the event that the Company needs to use the GaN Equipment to provide products or services to any customer other than TPH- A or TPH or their Affiliates prior to the Put Closing Date or the Call Closing Date, the Company shall reimburse TPH-A or TPH for the use of such equipment in the manner to be discussed in good faith and agreed upon by the Parties, which reimbursement may be offset against amounts otherwise owing from TPH-A or TPH, as the case may be, to the Company.
+
+5.4 Ancillary Agreements. Prior to the Effective Date, the Parties shall take any actions necessary to cause the Wafer Supply Agreement, the AFSW Secondment Agreement, TPH-J Secondment Agreement, the Joinder Agreement and the Process Development Amendment to go into effect as of the Effective Date.
+
+- 13-
+
+
+
+
+
+Confidential Execution Version
+
+5.5 Other Existing Agreements. The Parties shall ensure that the following agreements stay in full force and effect without modification during the term of this Agreement unless they are terminated or modified pursuant to the terms and conditions thereunder:
+
+5.5.1 the Intellectual Property License Agreement, dated November 28, 2013, by and between TPH and Fujitsu Limited;
+
+5.5.2 the Secondment Agreement, dated as of January 31, 2014, by and between Fujitsu Limited and TPH-J; and
+
+5.5.3 the Fujitsu intercompany license agreement and Fujitsu intercompany services agreement.
+
+5.6 Ownership of IP. The Parties agree that the ownership of Intellectual Property Rights in technology developed by or for the Company pursuant to an Ancillary Agreement shall be governed by such Ancillary Agreement.
+
+5.7 Sufficiency of IP. FSL and AFSL represent and warrant that, as of the Put Closing Date or the Call Closing Date, the Intellectual Property Rights owned by the Company, together with the Intellectual Property Rights licensed to TPH pursuant to the Amended Process Development Agreement shall constitute all Intellectual Property Rights owned by FSL, AFSL, Fujitsu Limited or their Affiliates that are or will be necessary for the continued operation of the Business for GaN Wafers following the Put Closing Date or Call Closing Date in the manner conducted as of the Put Closing Date or Call Closing Date, as applicable. For the avoidance of doubt, the Business does not include the Company's performance of the Funded Work.
+
+5.8 Cooperation. The Parties shall cooperate reasonably with each other to obtain and maintain all necessary approvals and registrations to effect this Agreement and all related agreements and documents; provided, however, that the Parties shall not be required to change any provision of this Agreement to obtain or maintain any such approvals or registrations.
+
+5.9 Delivery of Financial Statements; Inspection Rights. The Parties shall cause the Company to deliver to each Party, at the Company's expense, (i) annual audited and quarterly and monthly unaudited financial statements prepared in accordance with Japanese GAAP consistently applied, including any independent auditor's report or opinion thereon, if any, and (ii) any information necessary to enable a Party to prepare consolidated financial statements, in each case within sixty (60) days after the end of each fiscal year of the Company and within thirty (30) days after the end of each quarterly accounting period of the Company and calendar month. Each Party will indemnify the Company and hold it harmless for, from and against any claims, demands, costs or expenses arising out of or relating to such consolidated financial statements, provided that such indemnity shall not apply to claims, demands, costs or expenses to the extent they are related to the Company's financial statements provided to such Party. In addition to any inspection rights granted under Law, upon notice to the Company of at least twenty-four (24) hours, each Party shall have full access to all properties, books of account, and records of the Company.
+
+- 14-
+
+
+
+
+
+Confidential Execution Version
+
+5.10 TPH's Stockholder Approval. TPH shall obtain approval of the acquisition of the Option Shares (as defined in the SPA) from the requisite stockholders of TPH in accordance with Delaware Law and TPH's Certificate of Incorporation and Bylaws, which approval shall have been obtained prior to the Effective Date, to the extent such an approval is permissible under Delaware Law.
+
+ARTICLE VI RIGHTS AND OBLIGATIONS OF FSL, TPH AND TPH-A
+
+6.1 FSL. FSL, as a one hundred percent (100%) shareholder of AFSL, shall cause AFSL to perform all obligations of AFSL hereunder.
+
+6.2 TPH. Until TPH-A is incorporated and made a party hereto, TPH shall assume all obligations of TPH-A hereunder. After TPH-A is incorporated and made a party hereto, TPH, as a one hundred percent (100%) shareholder of TPH-A, shall cause TPH-A to perform all obligations of TPH-A hereunder.
+
+6.3 TPH-A. TPH shall cause TPH-A to execute and deliver a joinder agreement to the Parties substantially in the form attached hereto as Exhibit A (the "Joinder Agreement"), and TPH-A shall agree to be bound by the terms and conditions of this Agreement and the SPA to be performed and complied with by TPH-A by executing and delivering the Joinder Agreement.
+
+ARTICLE VII TERM AND TERMINATION
+
+7.1 Termination Prior to the Effective Date. This Agreement may be terminated prior to the Effective Date, and the Joint Venture and the other transactions contemplated by this Agreement may be abandoned at any time prior to the Effective Date (by written notification with respect to Sections 7.1.2 to 7.1.5 below), notwithstanding any requisite approval of this Agreement and the transactions contemplated by this Agreement, as follows:
+
+7.1.1 by mutual written consent duly executed by FSL and AFSL on the one hand, and TPH-A and TPH on the other hand;
+
+7.1.2 by either FSL or AFSL on the one hand, and TPH-A or TPH on the other hand, if the Effective Date shall not have occurred on or before September 30, 2017 (the "Long Stop Date"), provided, however, that the right to terminate this Agreement under this Section 7.1.2 shall not be available to any Party whose failure to fulfill any obligation under this Agreement has been the cause of, or resulted in, the failure of the Effective Date to occur on or before the Long Stop Date; provided, however, in the event that any required waiting period (and any extension thereof) under the applicable Laws relating to the transactions contemplated hereby shall not have expired or terminated early before the Long Stop Date, the Long Stop Date shall be extended until December 31, 2017;
+
+7.1.3 by either FSL or AFSL on the one hand, and TPH-A or TPH on the other hand, upon the issuance of any Order which is final and nonappealable which would (i) prevent the consummation of the sale of the Shares under the SPA, (ii) prohibit TPH or TPH-A's ownership or operation of any portion of the business of the Company, or (iii) compel FSL, AFSL or the Company
+
+- 15-
+
+
+
+
+
+Confidential Execution Version
+
+on the one hand, and TPH-A or TPH on the other hand, to dispose of or hold separate, as a result of the Joint Venture, any portion of the business or assets of the Company;
+
+7.1.4 by FSL or AFSL upon a breach of any representation, warranty, covenant or agreement on the part of TPH or TPH-A set forth in this Agreement or the SPA, or if any representation or warranty of TPH or TPH-A in this Agreement or the SPA shall have become untrue, in either case such that the conditions set forth in Article 7.2 of the SPA would not be satisfied ("Terminating TPH Breach"); provided, however, that, if such Terminating TPH Breach is curable by TPH or TPH-A through the exercise of such Party's reasonable best efforts and for so long as such Party continues to exercise such reasonable best efforts, FSL or AFSL may not terminate this Agreement under this Section 7.1.4 unless such breach is not cured within thirty (30) days after written notice thereof is provided by FSL or AFSL to TPH and TPH-A pursuant to Section 11.7 (but no cure period is required for a breach which, by its nature, cannot be cured); or
+
+7.1.5 by TPH or TPH-A upon a breach of any representation, warranty, covenant or agreement on the part of FSL or AFSL set forth in this Agreement or the SPA, or if any representation or warranty of FSL or AFSL in this Agreement or the SPA shall have become untrue, in either case such that the conditions set forth in Article 7.1 of the SPA would not be satisfied ("Terminating FSL Breach"); provided, however, that, if such Terminating FSL Breach is curable by FSL or AFSL through the exercise of such Party's reasonable best efforts and for so long as such Party continues to exercise such reasonable best efforts, TPH or TPH-A may not terminate this Agreement under this Section 7.1.5 unless such breach is not cured within thirty (30) days after written notice thereof is provided by TPH or TPH-A to FSL and AFSL pursuant to Section 11.7 (but no cure period is required for a breach which, by its nature, cannot be cured).
+
+7.2 Effect of Termination Prior to the Effective Date. In the event of termination of this Agreement pursuant to Section 7.1, this Agreement shall forthwith become void and of no further force and effect, there shall be no liability under this Agreement on the part of any Party or any of their respective officers or directors, and all rights and obligations of each Party hereto shall cease; provided, however, that (i) Section 11.4 and Section 11.6 shall remain in full force and effect and survive any termination of this Agreement and (ii) nothing herein shall relieve any Party from liability for the willful breach of any of its representations or warranties or the breach of any of its covenants or agreements set forth in this Agreement.
+
+7.3 Termination After the Effective Date.
+
+7.3.1 After the Effective Date, this Agreement may be terminated on the date that the first of the following shall occur:
+
+(i) by mutual written consent duly executed by FSL and AFSL on the one hand, and TPH-A and TPH on the other hand;
+
+(ii) By FSL/AFSL or TPH/TPH-A, if there is only one (1) shareholder, whatsoever the reason, in the Company;
+
+- 16-
+
+
+
+
+
+Confidential Execution Version
+
+(iii) If the Put Option or Call Option is exercised, one (1) Business Day after the Put Closing Date or Call Closing Date, as applicable;
+
+(iv) By TPH/TPH-A, if FSL/AFSL has not exercised the Put Option within one hundred eighty (180) days of the Option Starting Date; or
+
+(v) By FSL/AFSL and TPH/TPH-A, if there is a change in the Control of the other and the acquiring/succeeding entity causing such change in the Control is an entity that may be reasonably believed to be objectionable to the Japanese Government and/or FSL including FSL's Affiliates in case of the termination by FSL/AFSL or the US Government and/or TPH in case of the termination by TPH/TPH-A, termination to be effective upon thirty (30) days' notice of termination. By way of example only, an entity that deals in weapons or weapon systems directly or indirectly may be deemed as such objectionable entity.
+
+7.3.2 In the event that any one of the following events applies to a Party, the other Party(ies) shall have the right to terminate this Agreement at any time:
+
+(i) it has breached any provisions of this Agreement and, after having received a written notice to cure the breach from the other Party(ies), has failed to cure such breach within thirty (30) days after the receipt of such notice;
+
+(ii) it has been subject to attachment, provisional disposition or has been subject to a procedure for the collection of a tax delinquency; or
+
+(iii) a petition for the commencement of any bankruptcy, civil rehabilitation, or corporation liquidation procedure has occurred.
+
+7.4 Dissolution and Winding-up. In case where this Agreement is terminated pursuant to Section 7.3 (except for the cases of Section 7.3.1(ii) and (iii), and the cases where a Shareholder has exercised the right as specified in Section 7.4 or 7.5), the Company shall be dissolved and wound up unless otherwise agreed by the Parties. In the absence of mutual agreement of the Parties to dissolve and wind up the Company on such terms and conditions as they shall determine, the business and affairs of the Company shall be dissolved and wound up in accordance with the Laws then in effect.
+
+7.5 Shareholder Calls Upon Breach.
+
+7.5.1 Calls by AFSL. If, after the Effective Date, TPH or TPH-A shall have materially breached any of its representations or warranties contained in this Agreement or shall have failed to comply in any material respect with any of the other covenants or agreements contained in this Agreement, which breach or failure shall not have been remedied within thirty (30) days after written notice thereof (the "Default Notice") has been given by AFSL to TPH/TPH-A, then AFSL shall have the option of purchasing from TPH-A, and TPH-A shall be obligated to sell, all of the Shares then owned by TPH-A at a purchase price per Share equal to the lesser of: (i) the Net Book Value as of the most recent month end (provided that, if the Net Book Value is a negative amount, the product of the Net Book Value multiplied by such Sale Shares shall be deemed to be one Japanese Yen (¥1)), or (ii) the Shares Purchase Price, divided by the number of Sale Shares. AFSL shall provide written notice of its election (the "Election Notice") to purchase the Shares owned by TPH-A within ten (10) Business Days following the expiration of the thirty (30) day cure period set forth in the Default Notice. The closing of the purchase of the Shares owned by TPH-A
+
+- 17-
+
+
+
+
+
+Confidential Execution Version
+
+shall take place within thirty (30) Business Days following the date of the Election Notice, or at such other time as the Parties may mutually agree. At such closing, AFSL shall deliver to TPH-A, by wire transfer, the full amount of the purchase price in Japanese Yen for such Shares as provided in this Section 7.5.1 against delivery by TPH-A of the following: (a) a sale agreement in form reasonably satisfactory to AFSL containing among other things, a representation and warranty of TPH-A that it is, and AFSL shall be, the beneficial owner of such Shares, with good title thereto, free and clear of all liens and other encumbrances; (b) documentary evidence reasonably satisfactory to AFSL of the transfer to it of all of TPH-A's Shares and (c) resignations of all Directors, if any, on the Board appointed by TPH-A. Notwithstanding the remedies provided in this Section 7.5.1, AFSL/FSL shall be entitled to all other remedies against TPH/TPH-A available at law or equity or under this Agreement.
+
+7.5.2 Calls by TPH-A. If, after the Effective Date, FSL or AFSL shall have materially breached any of its representations or warranties contained in this Agreement or shall have failed to comply in any material respect with any of the other covenants or agreements contained in this Agreement, which breach or failure shall not have been remedied within thirty (30) days after the Default Notice has been given by TPH-A to FSL/AFSL, then TPH-A shall have the option of purchasing from AFSL, and AFSL shall be obligated to sell, all of the Shares then owned by AFSL at a purchase price per Share equal to the lesser of: (i) the Net Book Value as of the most recent month end (provided that, if the Net Book Value is a negative amount, the product of the Net Book Value multiplied by such Sale Shares shall be deemed to be one Japanese Yen (¥1)), or (ii) the Shares Purchase Price, divided by the number of Sale Shares. TPH-A shall provide the Election Notice to purchase the Shares owned by AFSL within ten (10) Business Days following the expiration of the thirty (30) day cure period set forth in the Default Notice. The closing of the purchase of the Shares owned by AFSL shall take place within thirty (30) Business Days following the date of the Election Notice, or at such other time as the Parties may mutually agree. At such closing, TPH-A shall deliver to AFSL, by wire transfer, the full amount of the purchase price in Japanese Yen for such Shares as provided in this Section 7.5.2 against delivery by AFSL of the following: (a) a sale agreement in form reasonably satisfactory to TPH-A containing among other things, a representation and warranty of AFSL that it is, and TPH-A shall be, the beneficial owner of such Shares, with good title thereto, free and clear of all liens and other encumbrances; (b) documentary evidence reasonably satisfactory to TPH-A of the transfer to it of all of AFSL's Shares and (c) resignations of all Directors, if any, on the Board appointed by AFSL. Notwithstanding the remedies provided in this Section 7.5.2, TPH/TPH-A shall be entitled to all other remedies against FSL/AFSL available at law or equity or under this Agreement.
+
+7.6 Shareholder Calls Upon Bankruptcy After the Effective Date.
+
+7.6.1 Calls by AFSL. After the Effective Date, in the event of (a) any distress, execution, sequestration or other process being levied or enforced upon TPH or TPH-A; (b) the adjudication of TPH or TPH-A as a bankrupt or insolvent subject to any insolvency or bankruptcy law; (c) the making by the TPH or TPH-A of an assignment for the benefit of creditors; (d) the suspension of payments or a moratorium on payments to creditors; or (e) the appointment of a receiver or judicial manager or trustee for the business or properties of TPH or TPH-A, then AFSL shall have the right to purchase the Shares of TPH-A in the same manner and subject to the same terms and conditions as specified in Section 7.5.1.
+
+- 18-
+
+
+
+
+
+Confidential Execution Version
+
+7.6.2 Calls by TPH-A. After the Effective Date, in the event of (a) any distress, execution, sequestration or other process being levied or enforced upon FSL or AFSL; (b) the adjudication of FSL or AFSL as a bankrupt or insolvent subject to any insolvency or bankruptcy law; (c) the making by the FSL or AFSL of an assignment for the benefit of creditors; (d) the suspension of payments or a moratorium on payments to creditors; or (e) the appointment of a receiver or judicial manager or trustee for the business or properties of FSL or AFSL, then TPH-A shall have the right to purchase the Shares of AFSL in the same manner and subject to the same terms and conditions as specified in Section 7.5.2.
+
+7.7 Survival of Provisions After the Effective Date. Sections 11.4, 11.6, 11.7, 11.14 and 11.15 shall specifically survive the termination of this Agreement after the Effective Date. In case where this Agreement is terminated pursuant to Section 7.3.1(ii) and (iii), Section 9.4, Article X, and Section 11.5 shall also specifically survive the termination of this Agreement after the Effective Date.
+
+7.8 Cooperation. During the term of the Joint Venture, each Party shall cooperate with the other and shall take all actions necessary in order to consummate any sale and purchase of Shares, or dissolution and winding up of the Company.
+
+ARTICLE VIII TRANSFER RESTRICTIONS
+
+8.1 Restrictions on Transfers. Except as set forth in this Article VIII, prior to the Option Starting Date, without the prior written consent of the other Shareholders, no Shareholder may sell, assign, transfer, pledge, encumber or otherwise dispose of, by operation of Law or otherwise, any of its Shares, or rights in or associated with such Shares, and any purported sale, assignment, transfer, pledge, encumbrance or disposition by a Shareholder of its Shares in violation of this Article VIII shall be invalid and of no force and effect.
+
+8.2 Permissible Transfers. AFSL shall be entitled at any time to transfer all but not a portion of the Shares registered in its name to FSL or any other entity Controlled by FSL, and TPH-A shall be entitled at any time to transfer all but not a portion of the Shares registered in its name to TPH or any other entity Controlled by TPH; provided that FSL (or such other entity Controlled by FSL) and TPH (or such other entity Controlled by TPH), as applicable, shall assume the obligations of AFSL and TPH-A, as applicable, hereunder, as set forth in Article VI.
+
+ARTICLE IX PUT OPTION AND CALL OPTION
+
+9.1 AFSL's Right to Require the Purchase of the Shares by TPH or TPH-A.
+
+9.1.1 As longs as AFSL and FSL are not in material and continuing breach of this Agreement or the Ancillary Agreements, FSL or AFSL may trigger the option to sell the Put Shares to TPH-A or its designee (the "Put Option") by providing a written notice of the exercise of the Put Option (the "Put Exercise Notice") simultaneously to the Company, TPH and TPH-A, which notice states (i) such Party's bona fide intention to exercise the Put Option, and (ii) the date on which such Party intends that the Put Closing Date occur.
+
+- 19-
+
+
+
+
+
+Confidential Execution Version
+
+9.1.2 FSL or AFSL may not exercise the Put Option for less than one hundred percent (100%) of the Shares held by both FSL and AFSL or any Affiliate of FSL or AFSL, as the case may be.
+
+9.1.3 FSL and AFSL may not exercise the Put Option prior to the Option Starting Date nor more than one hundred eighty (180) days after the Option Starting Date.
+
+9.1.4 The purchase price for the Put Shares (the "Put Option Price") shall be the greater of (x) the amount in Japanese Yen equal to the Net Book Value as of the most recently completed month end prior to the Put Closing Date, minus the Net Book Value as of the most recently completed month end prior to the Effective Date, multiplied by the number of Put Shares, or (y) one Japanese Yen (¥1).
+
+9.1.5 Upon FSL's or AFSL's exercise of the Put Option, TPH-A shall be obliged to purchase or cause TPH-A's designees to purchase, and TPH shall be obliged to cause TPH-A or TPH-A's designees to purchase, the Put Shares in accordance with this Section 9.1. For the avoidance of doubt, the Put Option is the right of AFSL/FSL, and AFSL/FSL is not obliged to exercise the Put Option.
+
+9.1.6 Completion of the sale and purchase of the Put Shares pursuant to the exercise of the Put Option by AFSL/FSL shall take place on the date specified in the Put Exercise Notice (which shall be a date after at least sixty (60) days from the date of the Put Exercise Notice) (the "Put Closing Date") and on which date:
+
+(i) TPH-A shall, or shall cause its designees to, and TPH shall cause TPH-A or TPH-A's designees to, pay to AFSL the Put Option Price for the Put Shares by way of a bank transfer to the bank account as separately designated by AFSL; and
+
+(ii) in exchange for which, AFSL shall deliver to TPH-A or its designees duly executed a letter of request to enter in the shareholder register of the Company the information that is required to be registered with regard to the Put Shares; and
+
+9.1.7 AFSL and TPH-A shall cause the Board to approve the share transfer of the Put Shares on or prior to the Put Closing Date.
+
+9.2 TPH-A's Right to Require the Purchase of the Shares from FSL or AFSL.
+
+9.2.1 As longs as TPH-A and TPH are not in material and continuing breach of this Agreement or the Ancillary Agreements, TPH-A or TPH may trigger the option to purchase the Call Shares (the "Call Option") by providing a written notice of the exercise of the Call Option (the "Call Exercise Notice") simultaneously to the Company, FSL and AFSL, which notice states (i) such Party's bona fide intention to exercise the Call Option, and (ii) the date on which such Party intends that the Call Closing Date occur.
+
+- 20-
+
+
+
+
+
+Confidential Execution Version
+
+9.2.2 TPH or TPH-A may not exercise the Call Option for less than one hundred percent (100%) of the Shares held by both FSL and AFSL or any Affiliate of FSL or AFSL, as the case may be.
+
+9.2.3 TPH-A and TPH may not exercise the Call Option prior to the Option Starting Date nor more than one hundred eighty (180) days after the Option Starting Date.
+
+9.2.4 The purchase price for the Call Shares (the "Call Option Price") shall be the greater of (x) the amount in Japanese Yen equal to the Net Book Value as of the most recently completed month end prior to the Call Closing Date, minus the Net Book Value as of the most recently completed month end prior to the Effective Date, multiplied by the number of Call Shares, or (y) one Japanese Yen (¥1).
+
+9.2.5 Upon TPH-A's or TPH's exercise of the Call Option, AFSL/FSL shall be obliged to sell, or cause the holder of the Call Shares to sell, the Call Shares to TPH-A or its designee in accordance with this Section 9.2. For the avoidance of doubt, the Call Option is the right of TPH-A and TPH-A is not obliged to exercise the Call Option.
+
+9.2.6 Completion of the sale and purchase of the Call Shares pursuant to the exercise of the Call Option by TPH- A/TPH shall take place on the date specified in the Call Exercise Notice (which shall be a date after at least sixty (60) days from the date of the Call Exercise Notice) (the "Call Closing Date") and on which date:
+
+(i) TPH-A shall, or shall cause its designees to, and TPH shall cause TPH-A or TPH-A's designees to, pay to AFSL the Call Option Price for the Call Shares by way of a bank transfer to the bank account as separately designated by AFSL; and
+
+(ii) in exchange for which, AFSL shall deliver to TPH-A or its designees duly executed a letter of request to enter in the shareholder register of the Company the information that is required to be registered with regard to the Call Shares.
+
+9.2.7 AFSL and TPH-A shall cause the Board to approve the share transfer of the Call Shares on or prior to the Call Closing Date.
+
+9.3 Conditions to Put Option or Call Option Closing. Each Party's obligation to complete the Put Option or Call Option at the Put Closing Date or Call Closing Date, as applicable, is subject to the fulfillment on or before such Put Closing Date or Call Closing Date of each of the following conditions, unless waived in writing (where permissible) by the applicable party in such closing:
+
+9.3.1 TPH's Stockholder Approval. The acquisition of the Option Shares (as defined in the SPA), shall have been approved and adopted by the requisite stockholders of TPH in accordance with Delaware Law and TPH's Certificate of Incorporation and Bylaws, which approval shall have been obtained prior to the Effective Date, to the extent permissible under Delaware Law.
+
+9.3.2 No Order. No Governmental Authority or court of competent jurisdiction located or having jurisdiction over any of the Parties in the United States shall have enacted, issued, promulgated, enforced or entered any statute, rule, regulation, decree, judgment, injunction or other
+
+- 21-
+
+
+
+
+
+Confidential Execution Version
+
+order, whether temporary, preliminary or permanent (each an "Order") which is then in effect and has the effect of making the closing of the Put Option or Call Option, as applicable, illegal or otherwise prohibiting consummation of the Put Option or Call Option.
+
+9.3.3 Governmental Approvals. All required authorizations, permits, consents, orders, actions or approvals of, or declarations or filings with, or expirations or terminations of waiting periods imposed by, any Governmental Authority in the United States, whether federal, state or local, that may be required, as well as any Governmental Authority in any other jurisdiction which the parties mutually agree in good faith is required to be obtained, in each case, to consummate the Put Option or Call Option, shall have been filed, occurred or been obtained, including that any required waiting period (and any extension thereof) under the Hart-Scott-Rodino Act relating to the transactions contemplated by the Put Option or Call Option shall have expired or been terminated early.
+
+9.3.4 No Other Litigation. There shall not be pending any legal proceeding against or on behalf of any Party preventing or prohibiting or seeking to prevent or prohibit the closing of the Put Option or the Call Option, as applicable.
+
+9.4 Other Obligations.
+
+9.4.1 After the Put Closing Date or Call Closing Date, as applicable, the Parties shall use their best efforts to obtain and maintain all necessary approvals and registrations to effect this Agreement and all related agreements and documents; provided, however, that the Parties shall not be required to change any provision of this Agreement or the SPA, and no Party shall be required to divest any material business unless contemplated by this Agreement or the SPA.
+
+9.4.2 For two (2) years after the Put Closing Date or Call Closing Date, as applicable, TPH shall make, and cause TPH-A to make, every best effort to maintain the employees of the Company.
+
+9.4.3 The Directors appointed by FSL or AFSL shall take whatever steps as are necessary to resign effective as of the Put Closing Date or Call Closing Date, as applicable. Immediately after the Put Closing Date or Call Closing Date, as applicable, TPH-A, TPH and the Company shall be prohibited from using the logo, trademark, corporate name and other indications utilizing or showing the name of AFSL or its Affiliates (the "Fujitsu Logos"), and shall exclude the Fujitsu Logos from any material of the Company. TPH/TPH-A shall change the corporate name of the Company.
+
+ARTICLE X TREATMENT OF EMPLOYEES
+
+10.1 New Terms and Conditions for Employment. The terms and conditions of employment of any person employed by the Company after the Put Closing Date or Call Closing Date, as applicable, shall be on terms and conditions satisfactory to the Company, TPH and TPH-A.
+
+10.2 Representations and Warranties Regarding Employment. FSL and AFSL represent and warrant to TPH and TPH-A, as of the date hereof and as of the Put Closing Date or Call Closing Date, as applicable, that:
+
+- 22-
+
+
+
+
+
+Confidential Execution Version
+
+10.2.1 FSL, AFSL and the Company do not have any pension liability in respect of the Company's employees or the Company's pension plans;
+
+10.2.2 there is no material labor dispute between FSL, AFSL or the Company, on the one hand, and the Company's employees, on the other hand or legal proceeding against FSL, AFSL or the Company related to the Company's employees; and
+
+10.2.3 in the event of any liability to the Company's employees to the extent related to their employment by the Company, AFSL, FSL or AFSL/FSL's Affiliates prior to the Put Closing Date or Call Closing Date, as applicable, AFSL and FSL agree that such liability shall be borne solely by AFSL/FSL and not the Company or TPH-A/TPH.
+
+ARTICLE XI MISCELLANEOUS
+
+11.1 No Partnership. None of the provisions of this Agreement shall be deemed to constitute a partnership between or among the Parties and they shall have no authority to bind one another or the Company in any way.
+
+11.2 Limitations on Parties' Authority. None of the Parties shall have or hold itself out as having, any right, authority or agency to act on behalf of any other Party or the Company in any capacity or in any manner except as specifically authorized in this Agreement, and none of the Parties shall become liable to any other Parties or to any other Person by reason of any representation, action or omission of any other Party contrary to this provision. Without limiting the generality of the foregoing, in no event shall any Party have any liability or obligation for any debts, liabilities or contractual obligations of any other Party to any other Person and each Party agrees to indemnify and hold harmless any other Party as to such debts, liabilities and contractual obligations.
+
+11.3 Indemnification.
+
+11.3.1 Each Party agrees to indemnify, defend and hold harmless the Company and any other Party, its permitted successors and assigns, from and against any and all losses, liabilities, claims, damages, costs and expenses including reasonable legal fees and disbursements in connection therewith (collectively, "Claims") asserted against or incurred by the Company or such other Party which arise out of, result from, or may be payable by virtue of, any breach of any representation, warranty, covenant or agreement made or obligation required to be performed by the indemnifying Party pursuant to this Agreement. Notwithstanding the foregoing, claims related to the purchase of the Shares under the SPA shall be governed by the indemnification provisions set forth in the SPA.
+
+11.3.2 In the case of a third party Claim which is subject to indemnification under this Section 11.3, the indemnifying Party shall be notified promptly in writing of the existence of any such Claim instituted at any time against or made upon the indemnified Party or the Company by any third party, and shall be given the opportunity to defend the same with counsel of its choice, in which defense the indemnified Party or the Company, as the case may be, shall cooperate. If the indemnifying Party, after notification, fails promptly to undertake such defense, then the indemnified Party, or the Company, as the case may be, may undertake the defense with counsel of its choice, in which case the indemnifying Party shall bear the cost of such defense, including reasonable legal
+
+- 23-
+
+
+
+
+
+Confidential Execution Version
+
+fees and disbursements in connection therewith, and shall pay the amount of any judgment or settlement.
+
+11.4 Confidentiality.
+
+11.4.1 All information, whether written or oral, relating to the Company, the Parties or their Affiliates, or their respective businesses or operations, which includes but is not limited to information obtained as a proprietary right ("Confidential Information"), disclosed by any Party (the "Disclosing Party") to any other Party (or its directors, officers, employees or representatives) shall be kept strictly secret and confidential and shall not be disclosed to any Person except to the extent that any such disclosure is necessary in connection with the performance of this Agreement, and except to the extent that (i) such information is known to such other Parties when received or is or subsequently becomes lawfully obtained from other sources; (ii) the duty as to confidentiality and non-use is waived in writing by the Disclosing Party; or (iii) disclosure of such information is required by applicable Laws or is validly ordered by a Governmental Authority. The Parties further agree that they shall not use, nor permit their respective Affiliates to use, any Confidential Information for any purpose whatsoever except in the manner expressly provided or contemplated in this Agreement. Notwithstanding the foregoing, the treatment of any Confidential Information disclosed pursuant to the Amended Process Development Agreement shall be governed solely by the Amended Process Development Agreement.
+
+11.4.2 Each of the Parties agrees to take, and to cause its respective Affiliates and the Company to take, reasonably adequate security and precautionary measures to effect compliance with this Section 11.4 by directors, officers, employees and agents of each of the Parties, their respective Affiliates and the Company who are given access to Confidential Information.
+
+11.4.3 Each of the Parties hereby acknowledges that the Disclosing Party would be irreparably harmed by a breach of this Section 11.4 and it would not be possible to estimate damages resulting from such a breach. The Parties agree that the Disclosing Party shall be entitled to injunctive relief to prevent a breach or continued breach of this Section 11.4, or any part of it, and to secure the enforcement of this Section 11.4 and shall be entitled to recover from the other Parties reasonable legal fees and all costs and expenses incurred in connection with such an action
+
+11.5 Access to Company Information After the Put Closing Date or the Call Closing Date. In case it is necessary for AFSL/FSL to access to any materials or information of the Company prepared or otherwise made on or before the Put Closing Date or the Call Closing Date due to requirement by any Governmental Authority or any third party on or after the Put Closing Date or the Call Closing Date, then, TPH/TPH-A shall fully cooperate, and shall cause the Company to fully cooperate, with AFSL/FSL so that AFSL/FSL can access such materials or information.
+
+11.6 Expenses. Except as otherwise expressly provided herein, Each Party shall pay their own expenses incurred in connection with the execution of this Agreement and their respective performance of the obligations provided for herein, including the expenses incurred by Directors nominated by the respective Shareholders in connection with attendance at meetings of the Board.
+
+- 24-
+
+
+
+
+
+Confidential Execution Version
+
+11.7 Notices. All notice, waivers and other communications required or permitted hereunder shall be in writing and shall be deemed to have been duly given when delivered by hand or one (1) day after being sent by e-mail (with reasonable evidence of transmission) and followed by registered mail or an internationally recognized overnight courier service if those to be notified, including Shareholders, Directors and auditors, reside outside Japan, addressed to the Party to whom the notice is intended to be given at the addresses specified below:
+
+(a) If to AFSL: No.4 Kogyo Danchi, Monden-Machi, Aizu Wakamatsu, Fukushima, Japan Aizu Fujitsu Semiconductor Limited Attn: President and Representative Director
+
+(b) If to FSL: Shin-Yokohama Chuo Building, 2-100-45, Shin-Yokohama, Kohoku-Ku, Yokohama, Kanagawa, Japan Fujitsu Semiconductor Limited Attn: Head of Corporate Management Unit
+
+(c) If to TPH: 75 Castilian Drive Goleta, CA 93117, U.S.A. Transphorm, Inc. Attn: Chief Executive Officer
+
+With a copy, which shall not constitute notice, to each of:
+
+Wilson Sonsini Goodrich & Rosati, P.C. 650 Page Mill Road Palo Alto, CA 94304-1050, U.S.A. Attn: Mark Bertelsen and Julia Reigel
+
+and
+
+Mori Hamada & Matsumoto Marunouchi Park Building, 2-6-1 Marunouchi, Chiyoda-ku, Tokyo 100-8222, Japan Attn: Masujima Masakazu
+
+or to such other address or addresses as any such Party may from time to time designate by written notice. Notwithstanding the foregoing, the Parties acknowledge and agree that notice hereunder may be provided by e-mail, but such notice shall not be deemed effective unless and until the Party to whom such notice was delivered confirms, in writing, receipt of such notice.
+
+- 25-
+
+
+
+
+
+Confidential Execution Version
+
+11.8 Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the Parties and their permitted successors and assigns. Notwithstanding the foregoing, no rights, obligations or liabilities hereunder shall be assignable by a Party without prior written consent of all of the other Parties; provided, however, that a Party shall not unreasonably withhold its consent to the assignment of rights and obligations by the other Parties to its Affiliate if that Affiliate's performance has been guaranteed satisfactorily in form and substance by the assigning Party.
+
+11.9 Waiver. No action taken pursuant to this Agreement shall be deemed to constitute a waiver of compliance with any representation, warranty, covenant or agreement contained in this Agreement and shall not operate or be construed as a waiver of a similar or dissimilar nature. A Party may by written notice (a) extend the time for performance of any of the obligations or other actions of any other Parties under this Agreement, (b) waive any inaccuracies in the representations or warranties of any other shareholder contained in this Agreement, or (c) waive or modify performance of any of the covenants or obligations of any other Parties under this Agreement.
+
+11.10 Announcements. FSL, AFSL TPH and TPH-A shall consult and confer with each other prior to making any public announcement concerning any of the transactions contemplated in this Agreement.
+
+11.11 Entire Agreement. This Agreement supersedes any previous agreement, whether written or oral, that may have been made or entered into by and among the Parties or any of them or their representatives relating to the matters contemplated hereby. This Agreement constitutes the entire agreement by and among the Parties with respect to the subject matter hereof.
+
+11.12 Amendments. This Agreement may be amended or supplemented only by written agreement signed by the Parties.
+
+11.13 Limitations on Rights of Third Persons. Nothing expressed or implied in this Agreement is intended or shall be construed to confer upon or give any Person other than the Parties any rights or remedies under or by reason of this Agreement or any transaction contemplated hereby, except the permitted assigns of the Parties.
+
+11.14 Governing Law; Language. The English text of this Agreement shall control any interpretation of its provisions, and this Agreement and the legal relations among the Parties and the Company shall in all respects be interpreted, construed and governed by and in accordance with the laws of Japan.
+
+11.15 Resolution of Disputes.
+
+11.15.1 The Parties shall attempt in good faith to resolve any and all disputes arising out of or relating to this Agreement through friendly consultations. If the Parties cannot resolve the dispute through friendly consultation, the provisions of Section 11.15.2 to Section 11.15.4 shall apply with respect to such dispute.
+
+11.15.2 Any dispute, controversy or claim arising out of or relating to this Agreement, or the breach, termination or invalidity hereof, shall be finally resolved exclusively by arbitration administered by the Hong Kong International Arbitration Centre ("HKIAC"). The arbitration shall be conducted in accordance with the HKIAC Administered Arbitration Rules in effect at the time of the arbitration, except as they may be modified by mutual agreement of the
+
+- 26-
+
+
+
+
+
+Confidential Execution Version
+
+Parties. The seat of the arbitration shall be Hong Kong. The arbitration shall be conducted in the English language.
+
+11.15.3 The arbitration shall be conducted by three (3) arbitrators. The Party initiating arbitration (the "Claimant") shall appoint an arbitrator in its request for arbitration (the "Request"). The other Party to the arbitration (the "Respondent") shall appoint an arbitrator within thirty (30) days of receipt of the Request and shall notify Claimant of such appointment in writing. The first two (2) arbitrators appointed in accordance with this provision shall appoint a third arbitrator, who shall act as chair of the tribunal. The arbitral award shall be in writing, state the reasons for the award, and be final and binding on the Parties. The award may include an award of costs, including, without limitation, reasonable attorneys' fees and disbursements. In addition to monetary damages, the arbitral tribunal shall be empowered to award equitable relief.
+
+11.15.4 The Parties agree that the arbitration shall be kept confidential, and that the costs of arbitration shall be borne by the losing Party unless otherwise determined by the arbitration award. All payments made pursuant to the arbitration decision or award and any judgment entered thereon shall be made in United States dollars, free from any deduction, offset or withholding for taxes.
+
+11.15.5 Notwithstanding this Section 11.15 or any other provision to the contrary in this Agreement, no Party shall be obligated to follow the foregoing arbitration procedures where such Party intends to apply to any court of competent jurisdiction for an interim injunction or similar equitable relief against any other Party, provided there is no unreasonable delay in the prosecution of that application.
+
+11.15.6 When any dispute occurs and when any dispute is under litigation or arbitration, except for the matters in dispute, the Parties shall continue to fulfill their respective obligations and shall be entitled to exercise their rights under this Agreement. However, this provision shall not apply to rights or obligations extinguished in connection with a valid termination of this Agreement.
+
+11.15.7 Judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction. Except as set forth above, each of the Parties hereby irrevocably waives any and all right to trial by jury in any legal proceeding arising out of or relating to this Agreement or the transactions contemplated hereby.
+
+11.16 Severability. Each section and subsection of this Agreement constitutes a separate and distinct undertaking or provision hereof. Whenever possible, each provision of this Agreement shall be interpreted in such manner as to be effective and valid under applicable Laws. In the event that any provision of this Agreement shall finally be determined by a competent court or tribunal to be unlawful or unenforceable, such provision shall be deemed severed from this Agreement, but every other provision of this Agreement shall remain in full force and effect, and in substitution for any such provision held unlawful or unenforceable, there shall be substituted a provision of similar import reflecting the original intent of the Parties to the extent permissible under applicable Laws.
+
+- 27-
+
+
+
+
+
+Confidential Execution Version
+
+11.17 Execution in Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same agreement. The signature of each Party may be evidenced by an electronic (e.g., pdf) copy of this Agreement bearing such signature and transmitted to the other Parties. Such signature shall be valid and binding as if an original executed copy of this Agreement has been delivered.
+
+11.18 Titles and Headings. Titles and headings to sections herein are inserted for convenience of reference only and are not intended to be a part of or to affect the meaning or interpretation of this Agreement.
+
+11.19 Counsel only to TPH and TPH-A. Wilson Sonsini Goodrich & Rosati, P.C. ("WSGR") and Mori Hamada & Matsumoto ("MHM") are counsel solely to TPH-A and TPH. The other Parties to the Agreement acknowledge that they are not relying on WSGR or MHM for advice in connection with the matters related to this Agreement and the transactions contemplated hereby, and that they have had the opportunity consult counsel of their own choosing and have elected not to do so.
+
+[Signature pages follow]
+
+- 28-
+
+
+
+
+
+Confidential Execution Version
+
+IN WITNESS WHEREOF, the Parties have caused their respective duly authorized officers to execute this Agreement as of the day and year first above written.
+
+Aizu Fujitsu Semiconductor Limited
+
+By: /s/ Atsuo Shimizu Name: Atsuo Shimizu Title: President and Representative Director
+
+Fujitsu Semiconductor Limited
+
+By: /s/ Kagemasa Magaribuchi Name: Kagemasa Magaribuchi Title: President and Representative Director
+
+Transphorm, Inc.
+
+By: /s/ Mario Rivas Name: Mario Rivas Title: Chief Executive Officer
+
+Signature page to the Joint Venture Agreement
+
+
+
+
+
+Confidential Execution Version
+
+EXHIBIT A FORM OF JOINDER AGREEMENT
+
+This JOINDER (this "Joinder"), dated as of [● ●], 2017, is delivered pursuant to (a) Section 6.3 of that certain Joint Venture Agreement dated as of May 23, 2017, by and among Aizu Fujitsu Semiconductor Limited (the "Seller"), Fujitsu Semiconductor Limited ("FSL") and Transphorm, Inc. ("TPH") (as such agreement may be amended, supplemented or modified from time to time in accordance with its terms, the "Joint Venture Agreement") and (b) Section 5.3.2 of that certain Shares Purchase Agreement dated as of May 23, 2017, by and among the Seller, FSL and TPH (as such agreement may be amended, supplemented or modified from time to time in accordance with its terms, the "Shares Purchase Agreement"). The undersigned, [●], a Japanese corporation ("TPH-A") hereby agrees that this Joinder may be attached to each of the Joint Venture Agreement and the Shares Purchase Agreement.
+
+1. Joinder to Joint Venture Agreement. TPH-A, by executing and delivering this Joinder, hereby becomes a party to the Joint Venture Agreement in the capacity of "TPH-A" as defined therein in accordance with Section 6.3 thereof, and agrees to be bound by all of the terms and conditions thereof (including without limitation all of the representations and warranties and covenants of TPH-A therein to be made or performed, as applicable, from and after the date hereof), in each case as if the undersigned were a direct signatory thereto.
+
+2. Joinder to Shares Purchase Agreement. TPH-A, by executing and delivering this Joinder, hereby becomes a party to the Shares Purchase Agreement in the capacity of the "Purchaser" as defined therein in accordance with Section 5.3.2 thereof, and agrees to be bound by all of the terms and conditions thereof (including without limitation all of the representations and warranties and covenants of the Purchaser therein to be made or performed, as applicable, from and after the date hereof), in each case as if the undersigned were a direct signatory thereto.
+
+3. Representations and Warranties. TPH-A hereby represents and warrants that:
+
+a. TPH-A has all requisite power and authority to enter into this Joinder and to perform its covenants and obligations hereunder; and
+
+b. The execution and delivery of this Joinder and the performance by TPH-A of its covenants and obligations hereunder have been duly authorized by all necessary action on the part of TPH-A and no further action is required on the part of TPH-A to authorize this Joinder or the performance by TPH-A of its covenants and obligations hereunder.
+
+[SIGNATURE PAGE FOLLOWS]
+
+-Exhibit A-1-
+
+
+
+
+
+Confidential Execution Version
+
+IN WITNESS WHEREOF, the undersigned has caused this Joinder to be duly executed and delivered by its officer thereunto duly authorized as of [● ●], 2017.
+
+[●], a Japanese corporation
+
+By: Name: Title:
+
+-Exhibit A-2-
+
+
+
+
+
+Confidential Execution Version
+
+APPENDIX 1
+
+Key Employees
+
+Department Employee ID Name Date of hiring Title
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] Manager [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+Name Current Employment [***] Seconded to TPH-J [***] Seconded to TPH-J [***] TPH-J [***] Seconded to TPH-J [***] Seconded to TPH-J [***] Seconded to TPH-J [***] TPH-J [***] Seconded to TPH-J [***] Seconded to TPH-J [***] Seconded to TPH-J [***] Seconded to TPH-J [***] Seconded to TPH-J
+
+-A1-1-
+
+
+
+
+
+Confidential Execution Version
+
+APPENDIX 2
+
+GaN Equipment
+
+No Asset ID Tool name Tool ID Application
+
+1 I12026102439 [***] [***] [***] 2 I12016100800 [***] [***] [***] 3 I12016100427 [***] [***] [***] 4 I12016100801 [***] [***] [***] 5 I14086159094 [***] [***] [***] 6 I14086159092 [***] [***] [***]
+
+Invoice Amount
+
+Item Specification Last Invoice Month 2017/06 2017/07 2017/08 2017/09 2017/10 2017/11 2017/12 2018/01 2018/02 2018/03 2018/04 2018/5 2018/6 2018/7 2018/8 2018/9 2018/10 2018/11 2018/12 2019/01 2019/02 2019/03 2019/04
+
+[***] [***] 201804 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201802 [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201803 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201804 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201807 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201802 [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201802 [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201802 [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201804 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201804 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201804 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201802 [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201802 [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201804 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201804 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201803 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201803 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201802 [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201803 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201803 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201803 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201803 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201810 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201812 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201902 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201904 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201904 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201904 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201904 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201904 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201904 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201904 [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+[***] [***] 201711 [***] [***] [***] [***] [***] [***]
+
+-A2-1-

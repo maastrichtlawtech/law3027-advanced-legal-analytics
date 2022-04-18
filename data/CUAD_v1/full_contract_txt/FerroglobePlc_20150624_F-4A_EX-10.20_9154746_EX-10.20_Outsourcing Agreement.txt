@@ -1,0 +1,619 @@
+Exhibit 10.20
+
+(TRANSLATION) OUTSOURCING AGREEMENT
+
+This Outsourcing Agreement (hereinafter "Agreement") is effective as from the 1st day of January, 2009, by and between:
+
+Parties to this agreement
+
+SILICON SMELTERS << Pty >> Ltd, registration nr 1998/019036/07, VAT n° 4310178506, Registered office at Beyersnek Road, PO Box 657 Polokwane - South Africa, represented by Benoit Emile Norbert Ollivier, Managing Director, acting pursuant to the powers granted to him by the Board on the 22nd of May, 2008 (hereinafter referred to as "the Customer"),
+
+AND
+
+ESPACIO INFORMATION TECHNOLOGY, SA., a public limited company with place of business in P° de la Castellana, N° 259, 28046, Madrid, SPAIN, and represented by Mr. Carlos Lafitte as Chief Executive, in virtue of his powers, currently in force, conferred to him the 23rd of January of 1996 (Protocol No. 134), before Mr. Jose Maria Lucena Conde, Notary Public in Madrid, (hereinafter referred to as "EIT").   1
+
+Source: FERROGLOBE PLC, F-4/A, 6/24/2015
+
+
+
+
+
+1. RECORDINGS
+
+This Agreement is being made and entered into with reference to the following facts:
+
+  1.1. Silicon Smelters and EIT both belong to the GROUP VILLAR MIR.
+
+  1.2. The Customer is a company that manufactures ferro-alloys in both its factories: Polokwane and Rand Carbide.
+
+  1.3. EIT is a company that installs, integrates and develops the management and maintenance of Data Processing Systems, and desires toperform for the Customer the outsourcing services described in this Agreement.
+
+  1.4. GROUP VILLAR MIR demands the Customer to use the management services of the group, developed and maintained by EIT, andsubcontract the management of its IT infrastructure to EIT.
+
+In consideration of the payments to be made and services to be performed hereunder, the parties agree as follows:
+
+2. PURPOSE OF AGREEMENT
+
+  2.1. The Agreement documents:
+
+  2.1.1. The services EIT renders to the Customer's users on all the company's levels;
+
+  2.1.2. The clauses made regarding services and products between the Customer and EIT.
+
+  2.1.3. The terms and conditions under which the Customer agrees to purchase and EIT agrees to provide the Services.
+
+  2.2. The definitions that apply in the present Agreement are listed in Annex 1.
+
+  2.3. The scope of application of this Agreement is restricted to the IT Management System of the Customer. The IT involving the industrialand production environments is excluded from this Agreement.
+
+  2.4. The supervision of the Agreement is assured by EIT, represented by its Chief Executive, and by the Customer, represented by its Headof Information Technology Department.
+
+  2.5. These specific services can be grouped in different types:
+
+  2.5.1. Network   2
+
+Source: FERROGLOBE PLC, F-4/A, 6/24/2015
+
+
+
+
+
+  2.5.2. Servers
+
+  2.5.3. Applications
+
+  2.5.4. User Workstations
+
+  2.5.5. Standard software licences
+
+  2.5.6. Definition of the agreed guidelines for negotiation
+
+3. DESCRIPTION OF THE SERVICES RENDERED BY EIT
+
+The specific services rendered by EIT according to this Agreement include the following:
+
+  3.1. NETWORK
+
+EIT is in charge of the remote Network, which connects each workstation of the Customer to the Central Server of EIT and to Internet (hereinafter "WAN"). The internal network of the factories (hereinafter "LAN") is excluded from this Agreement and the Customer is responsible for it.
+
+  3.1.1. The Customer has contracted, taking into account the technological standards defined by EIT, an external company (hereinafter "Network Supplier") for the setting up and the management of the Network. This Network Supplier is accountable to the Customer for the management of the Network.
+
+  3.1.2. EIT commits itself to monitor the Network during working hours in South Africa, up to where the service rendered by theNetwork Supplier allows.
+
+  3.1.3. EIT commits itself to alert the IT Department of the Customer when any malfunction (power cut, saturation, etc.) is identified, and to carry out the necessary actions with the Network Supplier in order to solve this malfunction as quickly as possible.
+
+  3.1.4. EIT commits to assure a high availability (availability rate defined in Annex 2) and the proper performance (response timeand no saturation) of the Network during working hours in South Africa (established in Annex 2).
+
+  3.1.5. The Customer and EIT commit themselves to give each other notice of any case of malfunction with the Network Supplier.   3
+
+Source: FERROGLOBE PLC, F-4/A, 6/24/2015
+
+
+
+
+
+  3.2. SERVERS:
+
+  3.2.1. EIT is in charge of the list of servers (hereinafter "Servers") provided in Annex 3.
+
+  3.2.2. The Customer is responsible for the maintenance of the hardware of the local servers.
+
+  3.2.3. EIT is responsible for the maintenance of the hardware of the Central Server.
+
+  3.2.4. EIT commits to monitor the Servers during working hours in South Africa.
+
+  3.2.5. EIT must alert the IT Department of the Customer if any problem should occur in any of the Servers, within the timeestablished in Annex 2.
+
+  3.2.6. EIT commits to solve any problems that may arise in the Servers, within the time established in Annex 2.
+
+  3.2.7. EIT is in charge of supervising and assuring the proper performance of the backups. For this, it has provided the Customerwith a backup process.
+
+  3.2.8. The Customer commits to follow the backup process that EIT has provided for him.
+
+  3.2.9. The Customer must alert EIT of any incidence it might detect by sending an electronic mail to sistemas@eit.es.
+
+  3.3. APPLICATIONS
+
+EIT provides and is responsible for the support and maintenance of the applications (defined in the table in Annex 4).
+
+For each of these applications, EIT commits to:
+
+  3.3.1. Provide the Customer with hardware installations (servers, disks, backup tapes, etc.) which enable the performance of theapplication.
+
+  3.3.2. Assure the availability of the application (which varies for each application, defined in Annex 2).   4
+
+Source: FERROGLOBE PLC, F-4/A, 6/24/2015
+
+
+
+
+
+  3.3.3. Monitor the applications to analyse the transaction charges and carry out the appropriate corrections in order to optimizethe system.
+
+  3.3.4. Provide Level 2 assistance to users via direct telephone numbers of the persons responsible for each application, during the hours established in Annex 2. If there is a public holiday in Spain, EIT commits to provide for the Customer a central telephone number to communicate any incidences that may occur.
+
+  3.3.5. Solve the problems communicated by e-mail to incident.smelters@eit.es during working hours in South Africa, within timeaccording to the severity of the problem, defined in Annex 2.
+
+  3.3.6. Maintain the present interfaces between the central application GES-INDUS and the Customer's local applications: PayrollGesprod and Maximo.
+
+  3.3.7. Guarantee the reliability of the application (software and databases) and of the hardware support (server, disks, etc.), toprevent any loss of information that could affect the Customer's business.
+
+  3.3.8. Carry out the backups and necessary restorations in order to assure the durability of the application and prevent any lossof information.
+
+  3.3.9. Guarantee a high service level (reasonable response time and correct progress of transactions). With regard to the electronic mail service, EIT will be able, after contacting with the Customer, to restrict the type and size of exchanged files. It is noted that the customer currently do not make use of this service but has the option to use it at no additional cost
+
+  3.3.10. Assure the security of the access to information: the Customer is responsible for the opening of accesses to the applications. EIT commits to supply the necessary securities to ensure the access rights defined by the Customer guarantee access only to the data authorized by the Customer.
+
+  3.4. WORKSTATIONS AND PRINTERS
+
+  3.4.1. The Customer is responsible for the purchase and maintenance of the workstations and printers.
+
+  3.4.2. EIT commits to assist the Customer to implement a master that allows the quick installation of all the standard software inworkstations.
+
+  3.5. STANDARD SOFTWARE LICENCES
+
+  3.5.1. The Customer will benefit from the group contracts negotiated by EIT in name of Group Villar Mir for the purchase oflicences.
+
+  3.5.2. The purchase of licences will be carried out directly by the Customer.   5
+
+Source: FERROGLOBE PLC, F-4/A, 6/24/2015
+
+
+
+
+
+  3.5.3. EIT declares and guarantees the Customer the legal purchase of licences of all the software necessary for the use of thecentral applications created by EIT.
+
+  3.5.4. EIT must inform the Customer in due course if any changes take place in licences or in their rights of use.
+
+  3.6. DEFINITION OF STANDARDS AND AGREED GUIDELINES
+
+EIT is responsible for:
+
+  3.6.1. The definition of the technological standards to be used in the Customer's IT environment.
+
+  3.6.2. The agreed guidelines with the suppliers, in order to assure the provision of certain services or the purchase of certain ITtools which, according to EIT, are necessary for the provision of the mentioned services.
+
+4. PROJECTS
+
+  4.1. Apart from these services, EIT must provide other supplementary services, not considered in the present Agreement. These services include the study, development and implementation of new applications, changing to new platforms, as well as any other service that the Customer may need in the field of IT services.
+
+  4.2. The terms and conditions of these services will be separately negotiated if and when it applies.
+
+
+
+4.3. For that purpose and before the execution of the mentioned services by EIT, the Customer will pay EIT the package price, previously agreed by the parties. These services can either be carried out directly by EIT or by subcontracts in the sole discretion of EIT, which will have to notify the customer of this fact before the project commence. However if EIT decides to subcontract the project EIT remains responsible for the quality, the cost and the supervision of the services to the satisfaction of the customer.   6
+
+Source: FERROGLOBE PLC, F-4/A, 6/24/2015
+
+
+
+
+
+5. WORK PLACE AND NATURE OF SERVICES
+
+  5.1. The services described in this Agreement are provided from the following location: EIT, P° de la Castellana, 259D, 28046, Madrid,SPAIN.
+
+  5.2. For this reason, EIT uses its own IT environment, as well as the local equipment of the Customer, connected by a teleprocessingsystem to the Central Server of EIT.
+
+  5.3. If necessary, EIT personnel will travel, in prior agreement with the Customer, to the different factories of the company. In this case, thetravelling expenses (travel, accommodation and meals) will be paid by the Customer.
+
+  5.4. The IT environment belongs to EIT during the total course of the Agreement, with exception of the services subcontracted to thirdparties by EIT, for which the subcontractor will be responsible.
+
+
+
+5.5. EIT is responsible for the choice of the equipment considered the most appropriate in order to reach the service level convened in this Agreement. This equipment, and its further updates, should it arise, will be shown to the Customer and agreed upon prior to purchase and installation and refusal by the customer will only be valid upon presentation of a justification to EIT. EIT is responsible for the maintenance of its own IT environment, as well as of its maintenance and modernization expenses.
+
+  5.5.1. EIT STAFF
+
+  5.5.1.1. The work team appointed by EIT to fullfill this Agreement is responsible only to EIT, in accordance with the Spanish law. EIT will supervise and will be responsible for the behaviour and tasks of this team, especially on what concerns the confidentiality of the information.
+
+  5.5.1.2. The Customer does not have any responsibility for the accidents that might be suffered by the staff of EIT, orfor the damages that might be caused by it to third parties, in the framework of its activities.
+
+  5.5.2. SUBCONTRACTING
+
+EIT assumes full responsibility for the execution of the tasks carried out by any subcontractor. The subcontractor is equally obliged to assure the service level, the confidentiality and the security convened in the Agreement, for the provision of these services. It is the responsibility of EIT to enter into an agreement with the subcontractor to ensure their performance.   7
+
+Source: FERROGLOBE PLC, F-4/A, 6/24/2015
+
+
+
+
+
+6. SUPERVISION OF THE SERVICE LEVEL
+
+  6.1. EIT commits to provide monthly measurements to analyse the service level defined in Annex 2.
+
+  6.2. The parties will analyse monthly these measurements in order to identify what can be improved.
+
+  6.3. The parties will review annually by mutual agreement the contents and aims of the Service Level Agreement.
+
+7. PAYMENTS AND PRICING
+
+  7.1. TOTAL ANNUAL AMOUNT
+
+The total annual amount to be paid, excluding taxes, for the year 2009, for the total provision of the services described in Article 2 of this Agreement, as well as the supervision of these (establishment of measurements and supervision meetings) will be:
+
+TWO HUNDRED THOUSAND EUROS (200,000 €)
+
+  7.1.1. This amount has been fixed for the two factories of Silicon Smelters: Polokwane and Rand Carbide, being the annualamount per factory A HUNDRED THOUSAND EUROS (100,000 €).
+
+  7.1.2. If one of the factories closes down, the total amount due will be reduced pro rata for the rest of the annual period for thefactory's annual amount.
+
+  7.2. INVOICING
+
+  7.2.1. The invoicing of this amount will be carried out quarterly.
+
+The invoices will be issued by EIT at the start of each term. Such invoice must be paid by the customer within 45 days of the date on which the invoice is issued.
+
+  7.2.2. INFRASTRUCTURE COSTS
+
+  7.2.3. The costs of the communication lines, the network infrastructure, the local servers, the micro computing material (PC andprinters) are the Customer's responsibility and it is not included in the total annual amount defined in this Agreement.
+
+  7.3. ANNUAL PAYMENT REVIEW
+
+  7.3.1. The amount defined in Article 6.1 will be subjected to annual revision, following the publication of the Consumer Price Index in Spain (Spanish CPI) in January of each financial year by the National Statistics Institute of Spain. It will correspond to the financial year that has concluded.   8
+
+Source: FERROGLOBE PLC, F-4/A, 6/24/2015
+
+
+
+
+
+  7.3.2. The Annual Package Price does not include a protection to inflation. For this reason, the amount will be adjusted annually,according to the growth of the Spanish CPI as was indicated above.
+
+  7.3.3. The new payment is calculated using the following formula: R = R0 * (S+1), where:
+
+  7.3.4. R0 is the payment corresponding to the previous year.
+
+  7.3.5. R is the new payment, and
+
+  7.3.6. S is the last Spanish CPI published on the revision date.
+
+  7.3.7. As a result, once the first year, since the date the Agreement was executed, has passed, and on this same date on thefollowing years, the annual price will be modified in proportion with the growth of the Spanish CPI.
+
+  7.3.8. In case that the National Statistics Institute of Spain does not publish the CPI or it be significantly modified in form andcontent, the parties will agree to a new equivalent measurement, which must be published at least annually.
+
+8. INTELLECTUAL PROPERTY
+
+  8.1. The Intellectual Property of the programmes in the application GES-INDUS, used by the Customer's exploitation of the managementsystems, belongs to EIT.
+
+  8.2. The rights of Intellectual Property also protect the programmes that might be created, and the data processing, accounts, and diagramsgenerated by the mentioned programme.
+
+9. WARRANTY
+
+  9.1. Solution's Adequacy
+
+  9.1.1. EIT guarantees that the solution suggested to the Customer in each moment is the best possible one for the needs of theCustomer.
+
+  9.2. Cost Saving
+
+  9.2.1. EIT declares that the way of acting will always be governed by the cost saving principle.   9
+
+Source: FERROGLOBE PLC, F-4/A, 6/24/2015
+
+
+
+
+
+  9.3. Technology
+
+  9.3.1. EIT commits to maintain its IT environment in accordance to the technological advances, in order to prevent it frombecoming obsolete.
+
+  9.4. Quality Control
+
+  9.4.1. EIT guarantees that the services described in this Agreement will be rendered in accordance with the best practice, aquality level accepted by the Customer, and in accordance with the service levels defined in Annex 2.
+
+  9.5. Availability
+
+  9.5.1. The IT staff of EIT will carry out the exploitation of the services during working hours in South Africa, except for urgentactions that will be carried out exceptionally, if it were necessary, out of the established hours.
+
+  9.6. Data and Backup Security
+
+  9.6.1. EIT will produce a daily backup copy of the data and the applications residing in its IT environment, in order to re-establish and retrieve lost information.
+
+10. LIABILITY
+
+  10.1. EIT is responsible for any damages caused to the Customer or to third parties, when these result from EIT not satisfying thecontractual obligations.
+
+  10.2. Nevertheless, EIT will be free of responsibility, in case of not satisfying its obligations, if he can prove that this was due to forcemajeure or external causes out of his control, like accidents, natural disasters, vandalism acts or theft.
+
+  10.3. The liability of EIT will be limited to a value equal to contractual value as per clause 7.1 and will not exceed this value.   10
+
+Source: FERROGLOBE PLC, F-4/A, 6/24/2015
+
+
+
+
+
+11. CONFIDENTIALITY
+
+The parties commit themselves to a total confidentiality and to not spread or use directly, through third parties or other companies, information about the other party to which they have access in the frame of this Agreement.
+
+  11.1. PROTECTION AND CONFIDENTIALITY OF DATA
+
+  11.1.1. Confidential Information means any information disclosed by either party in the frame of this Agreement. In consequence, each party agrees not to use, disclose, publish or disseminate any Confidential Information of the other party for any purpose except to perform its obligations or exercise its rights under this Agreement, except:
+
+  11.1.1.1. Following prior consent of the other party, or
+
+  11.1.1.2. If the information was in the public domain at the time it was disclosed or becomes in the public domainthrough no act or omission of the Receiving Party.
+
+  11.1.2. Any of these exceptions will not be presumed in any case, and the revealing party must clear any doubt to this respect.
+
+  11.1.3. Both parties shall take reasonable precautions to preserve in strict confidence any confidential or proprietary information obtained by them, their agents, employees, subcontractors, suppliers, consultants, and in general, any person that has access to it.
+
+  11.1.4. Confidential Information includes any technical, economic, financial and/or commercial information, confidential or not, bearing in any commercial relationship and in general, without any limitation, any information to which any of the parties has access during the application, in the frame of this Agreement.
+
+  11.1.5. Except as provided hereinafter, for a period of five years after termination or expiration of this Agreement, each party shall not disclose, publish or disseminate information received from the other party which may be required to carry out this Agreement and which the disclosing party deems proprietary and confidential.
+
+  11.1.6. Once this Agreement has expired, each party must, depending on the choice of the other party, destroy or hand over all technical, economic, financial or commercial information, confidential or not, in its possession, directly or indirectly, as convened in the present Agreement.   11
+
+Source: FERROGLOBE PLC, F-4/A, 6/24/2015
+
+
+
+
+
+  11.2. MANAGEMENT OF ACCESS RIGHTS
+
+  11.2.1. In accordance to Article 10.1, the Customer is in charge of defining the opening, closing or modifying of access toinformation. The Customer is also in charge of defining the user accesses, as well as the level of access of its users.
+
+  11.2.2. 10.2.2. EIT guarantees the control of access (through an access code and password) to information pursuant to the accessrights defined by the Customer.
+
+  11.2.3. 10.2.3. EIT will not be held responsible if a Customer's user uses an access code and password of a third party.
+
+12. SUPERVISION COMMISSION
+
+  12.1. The parties commit themselves to constitute a supervision commission formed by persons appointed for that purpose.
+
+  12.2. This commission will act as an intermediary between the parties and it will accomplish the following tasks:
+
+  12.2.1.1. Verify the fulfilment, in particular, the evolution and implementation, of all the services and applications. This operation willbe recorded in the corresponding reports, according to the convened periodicity.
+
+  12.2.1.2. Interpret any Article of this Agreement that might be questioned by the parties.
+
+  12.2.1.3. Resolve any potential conflict that may arise during the execution of this Agreement. For this, the commission memberswill act at their best, and assemble all the necessary information.
+
+  12.3. If the commission members are not able to resolve a conflict or a problem in the interpretation of this Agreement within thirty naturaldays, the representatives of the parties will be duly informed in order to find a solution on friendly terms.   12
+
+Source: FERROGLOBE PLC, F-4/A, 6/24/2015
+
+
+
+
+
+13. DURATION
+
+  13.1. The present Agreement is effective as from 1 January 2009. It is established by calendar year and renewed tacitly every year.
+
+  13.2. The Agreement rests, for all that, cancellable at any time by any of the parties before the expiry date of the Agreement or any of itsrenewals, upon three months prior written notice.
+
+14. EARLY TERMINATION
+
+  14.1. The Customer can cancel, on its own accord, the present Agreement upon certified notice to EIT, in the following cases:
+
+  14.1.1. If there is a repeated interruption, by EIT, of the services convened in this Agreement, for a period of four working days.
+
+  14.1.2. Upon the institution, by or against EIT, of insolvency, receivership or bankruptcy proceedings or any other proceedingsfor the settlement of its debts.
+
+  14.1.3. Non-performance by EIT of its contractual obligations and warranties, assumed in the present Agreement.
+
+  14.1.4. Absorption or fusion of EIT by other companies. In this case, the Customer can decide if he wants to continue working with the new company, which will have to continue rendering all the services convened in this Agreement, in the same conditions.
+
+  14.2. For simple convenience.
+
+  14.2.1. In case the Customer cancels the Agreement in accordance with Articles 13.1, 13.2, EIT will pay the Customer the amountof 3.000 €, for the non observance of the Agreement of which it is responsible.
+
+  14.2.2. In case of termination of this Agreement by the Customer according to Article 13.5, the Customer will pay EIT the amountof 3.000 €.
+
+15. CONTRACTUAL TRANSITION
+
+
+
+15.1. In case of expiration or termination of the present Agreement, the Customer and EIT will cooperate, in good faith, to make possible a transfer, in due form to the Customer or to a third party, chosen by the Customer, for the provision of the services defined in this Agreement. For that purpose, the parties will develop, with enough time in advance and with the necessary haste, a Transition Plan where the actions and measures to be taken will be defined.   13
+
+Source: FERROGLOBE PLC, F-4/A, 6/24/2015
+
+
+
+
+
+  15.2. EIT will continue to provide the services defined in this Agreement between the date it receives from the Customer a notice ofexpiration or termination of this Agreement and the date this expiration or termination becomes effective.
+
+  15.3. EIT commits to hand over to the Customer, on this date, all the data and its copies, in the frame of the provision of services.
+
+16. LITIGATION RULINGS
+
+  16.1. All the litigations that may arise between the parties during the period of application of the present Agreement, in relation with its Articles, and that have not been solved in a friendly manner, will be subjected to the rulings of their respective Chief Executives. In case of persistent disagreement, the litigation will be subjected to the General Management of Group Villar Mir.
+
+  16.2. However, if any of the parties no longer belongs to Group Villar Mir, any litigation that may not be solved in a friendly manner will besettled in compliance with the laws of Spain.
+
+  16.3. Any doubt that arises, in the frame of this Agreement, will be settled through arbitration in equity, in compliance with the Spanish Law of Arbitration, Ley 60/2003, both parties agreeing to obey the decision. For the designation of the arbitrators and the management of the arbitration, the following rules will apply:
+
+  16.3.1. There will be three arbitrators, solicitors. Each party will designate one, and these two will designate a third one.
+
+  16.3.2. The place of arbitration will be Madrid.
+
+  16.3.3. It will be governed by the laws of Spain and the language of the process will be Spanish.
+
+  16.3.4. The arbitrators will dictate the decision within three months of the notice of the parties' acceptance.
+
+  16.4. The parties, expressly waiving the Jurisdiction that may correspond to the same, submit themselves to the jurisdiction of the Courtsand Tribunals of Madrid for any matter derived from the present Agreement that cannot be subjected to arbitration.   14
+
+Source: FERROGLOBE PLC, F-4/A, 6/24/2015
+
+
+
+
+
+17. GOVERNING LAW
+
+  17.1. This Agreement shall be governed by, and construed in accordance with the laws of Spain.
+
+18. IN WITNESS WHEREOF, the parties acknowledge that each has fully read and understood this Agreement, and, intending to be legally bound thereby, executed this Agreement on the date first above written.   SLICON SMELTERS PTY LTD ESPACIO INFORMATION TECHNOLOGY, S.A.
+
+
+
+Name: Dr B.E.N. Ollivier Name: Carlos Lafitte Pradal
+
+Title: Managing Director Title: Director General   15
+
+Source: FERROGLOBE PLC, F-4/A, 6/24/2015
+
+
+
+
+
+ANNEX 1: DEFINITIONS
+
+The following definitions apply in the present Agreement:
+
+IT Department: Customer's work team in charge of the support and maintenance of the Customer's local infrastructure and applications.
+
+LAN: Internal network at the factories that connects the factory's routers with the workstations and peripheral devices of the site.
+
+WAN: External network that connects the Silicon Smelter factories with the central node located in Madrid. Network leaving the router of each factory.
+
+South African workdays: Monday to Friday, except for legal holidays of the South African work schedule.
+
+South African working hours: 8h00 - 20h00 during South African workdays.
+
+Local Servers: Servers listed in Annex 3, which are located in the factories of Silicon Smelters.
+
+Central Servers: Servers listed in Annex 3, which are located outside the factories of Silicon Smelters.
+
+Local Applications: IT applications used by Silicon Smelters and implemented on the local Servers. Silicon Smelters is responsible for these applications, which are listed in Annex 4.
+
+Data: The data or information belonging to the Customer saved on magnetic support or others, and that is subject to computer treatment.
+
+Source: FERROGLOBE PLC, F-4/A, 6/24/2015
+
+
+
+
+
+ANNEX 2: SERVICES AND LIABILITIES   Service   Period   Timetable  Response   Liability  Evaluation Period
+
+  Type of Evaluation
+
+Network Availability
+
+Workdays in South African work schedule   8H-20H     98% availability   Monthly
+
+Measuring periods when the network is not available
+
+Fault reports of network and server infrastructure problems
+
+Workdays in South African work schedule
+
+8H-20H
+
+
+
+Alert in the 15 minutes following the fault report as well as an account when the problem has been solved. Define what alert, how and who communicates it.
+
+98% of faults reported in the time period
+
+Monthly
+
+
+
+Measuring the period between the beginning and the end of the problem, and fault reporting
+
+Ges-Indus Availability
+
+Workdays in South African work schedule   8H-20H     98% availability   Monthly
+
+Measuring periods when the application is not available
+
+Ges-Indus Support Level 2
+
+Workdays in South African work schedule   8H-20H
+
+Ø
+
+
+
+Response: less than two South African working hours
+
+98% of requests solved in the time period   Monthly
+
+Measuring response times for each request
+
+     Ø  Blocking Bug:
+
+Ges-Indus Maintenance
+
+
+
+Workdays in South African work schedule
+
+
+
+8H-20H
+
+
+
+●
+
+
+
+Consideration and response: less than two South African working hours
+
+98% of requests solved in the time period
+
+
+
+Monthly
+
+
+
+Measuring the response times for encountered problems
+
+
+
+●
+
+
+
+Solution or work-around: less than one South African workday
+
+      Ø   Non-blocking Bug:
+
+
+
+●
+
+
+
+Consideration and response: less than three South African workdays
+
+        ●   Solution or work-around: set out by the requestor
+
+Electronic Mail Service Availability   7d/7d   24h/24h     99% availability
+
+Measuring periods when the electronic mail service is not available
+
+OFINET Availability   7d/7d   24h/24h     95% availability     Measuring periods when OFINET is not available
+
+Source: FERROGLOBE PLC, F-4/A, 6/24/2015
+
+
+
+
+
+ANNEX 3: INVENTORY OF SERVERS USED BY SILICON SMELTERS
+
+Name of Servers   Functionality   Priority  Local or Central Server   Server Management Responsibility ERP Ges-indus   Management of commercial and financial flow   High   Central   EIT SMTP.EIT.ES   Transmission of electronic mail   High   Central   EIT POP.EIT.ES   Delivery of electronic mail   High   Central   EIT OFINET   WEB application, access to electronic mail service and sharing of documents and information   Medium   Central   EIT
+
+Source: FERROGLOBE PLC, F-4/A, 6/24/2015
+
+
+
+
+
+ANNEX 4: INVENTORY OF APPLICATIONS USED BY SILICON SMELTERS
+
+Name of Application   Functionality   Priority  Local or Central Server   Server and Application Management Responsibility Ges-Indus   Management of commercial and financial flow   High   Central   EIT Email service   Transmission and reception of electronic mail   High   Central   EIT OFINET   WEB application, access to electronic mail service and sharing of documents and information   Medium   Central   EIT
+
+Source: FERROGLOBE PLC, F-4/A, 6/24/2015

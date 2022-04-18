@@ -1,0 +1,91 @@
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. EXHIBIT 10.2 FIRST AMENDMENT TO SUPPLY AND MANUFACTURING AGREEMENT This First Amendment ("Amendment") to the Supply and Manufacturing Agreement dated April 1, 2017 between Cerus Corporation ("Cerus") and Porex Corporation ("Porex") (the "Agreement") is made this 22 day of June 2018. RECITALS A. Cerus and Porex have agreed to make certain changes to the raw material and process to develop Components and such changes have resulted in a change to the cost and expense structure originally contemplated by the Agreement; B. Pursuant to Section 3 of the Agreement, Cerus and Porex have mutually agreed to temporarily modify the pricing for Platelet Wafers set forth on Exhibit D and to proactively set a cost structure for non-production related work. NOW THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged and accepted, the parties hereby agree to amend the Agreement as follows: 1. New Exhibits AA-1, AA-2, AA-3 and AA-4, as set forth in Schedule 1 to this Amendment, shall be attached to the Agreement (inserted between Exhibit A-5 and Exhibit B-1) and incorporated therein by reference. The parties acknowledge and agree that Exhibits AA-1, AA-2, AA-3 and AA-4 set forth the revised specifications for Platelet Wafers manufactured by Porex for Cerus (collectively, the "Revised Wafer Specifications"). Unless otherwise agreed in writing, Porex shall continue to manufacture and produce Platelet Wafers using the existing specifications for Platelet Wafers until Cerus gives written notice to Porex that Platelet Wafers shall be thereafter manufactured in accordance with the Revised Wafer Specifications. References in the Agreement to "Specifications" shall be interpreted to include the Revised Wafer Specifications, as applicable. 2. A new Exhibit D-1, as set forth in Schedule 2 to this Amendment, shall be attached to the Agreement and incorporated therein by reference. As of April 1, 2018 and continuing until Cerus determines, in its sole discretion, that the Protocol EPP-029-886 under which Porex is currently operating can be discontinued, the price for Platelet Wafers shall be the prices set forth in Exhibit D-1. Upon Cerus' determination that the Protocol EPP-029- 886 can be discontinued, Cerus shall provide written notice thereof to Porex, along with a new purchase order for Platelet Wafers (the "New Pricing PO"). On and after the date of such notice, the "Pricing" table for Platelet Wafers in Exhibit D, as of the date immediately preceding the date of this Amendment, shall be reinstated and apply to Platelet Wafers that are produced pursuant to the New Pricing PO and were also produced after the date of the written notice. References in Section 1.5.1 of the Agreement to "Exhibit D" shall be amended to include "Exhibit D-1," as applicable. 3. The penultimate sentence in Section 1.3 shall be deleted in its entirety and replaced with the following: "In no event shall any Purchase Order: require delivery of more than [*] units of [*] and [*] units of [*] in any [*] (the "Porex Capacity Limitations")." 4. A new Section 1.5.3 shall be added to the Agreement as follows:
+
+
+
+
+
+1.5.3 Porex will invoice Cerus monthly for Services performed by Porex during the prior month. Unless otherwise expressly provided in the applicable Statement of Work payment to Porex of undisputed fees shall be due [*] days following Cerus' receipt of the invoice submitted by Porex. Payment information, including Tax Identification Number will be included on each invoice.
+
+Cerus shall have the right to accept or reject the Services, or any portion thereof, in writing within [*] days from Porex's completion of the Services. Such acceptance or rejection shall be consistent with the criteria set forth in the Statement of Work, if any. If Cerus does not reject in writing within [*] days, the Services shall be considered accepted by Cerus. Within [*] days of any notice of rejection, Porex shall present a corrective plan of action to Cerus. Upon approval by Cerus of the corrective plan, Porex, at no additional expense to Cerus, shall then make the corrections and, where applicable, Porex shall resubmit the corrected Services to Cerus. For disputed invoices or the disputed portion of an invoice, Cerus shall use reasonable efforts to provide to Porex, in writing, within [*] days, a description of the disputed amounts. Cerus and Porex shall negotiate in a timely, good faith manner to resolve billing queries. Cerus will not have responsibility to pay for identified errors, incomplete or inaccurate items (collectively the "invoice errors") which result in increases to previously invoiced amounts if the aforementioned invoice errors are communicated to Cerus later than [*] days from the original invoice date.
+
+5. A new Section 3a shall be added to the Agreement as follows: "3a Non-Production Related Work. From time to time, Cerus may submit to Porex written work orders substantially in the form of Schedule 3 that specify development activities, engineering analysis, part, material and/or fixture design and development, or other services or activities that Cerus requests Porex to perform that are not activities or services that are necessary for the then-current manufacture and production of Components for Cerus under the Agreement (collectively, as defined in each work order, the "Services"). Each work order shall set forth the terms and conditions (including specifications (if applicable), delivery and performance schedules, and fees) pursuant to which Porex will perform the Services. Upon acceptance of a work order by Porex (in writing), such work order shall become a "Statement of Work." If Porex begins to perform services under a work order that has not been formally agreed in writing, then Porex shall bear the costs of any expenses incurred prior to formal written agreement of the Statement of Work. Cerus hereby consents to Porex's use of the Cerus Dedicated Space and Equipment, as specified in a Statement of Work, solely as necessary to perform the Services under that Statement of Work. Such consent shall automatically terminate upon the completion of the applicable Statement of Work and is limited by the terms of the Agreement. In the event of any conflict between the Agreement and a Statement of Work, the Agreement shall control unless the Statement of Work expressly refers to the Parties' intent to alter the terms of the Agreement with respect to that Statement of Work and shall not be construed as an amendment to the terms of the Agreement." 6. A new section titled "Pricing for Non-Production Related Work Orders from Cerus" is added to Exhibit D as set forth in Schedule 2 attached. Such pricing, upon mutual agreement of the Parties, shall apply to any Statement of Work mutually agreed by the Parties pursuant to Section 3a. 7. No other changes are made to the Agreement, including without limitation, the original Exhibit D, and the Agreement, the Plasma Disk pricing and related information as set forth in Exhibit D remain the same. Except as amended herein, the Agreement shall remain in full force and effect. Capitalized terms not otherwise defined herein shall have the same meanings as set forth in the Agreement. IN WITNESS WHEREOF, the undersigned have caused this First Amendment to be signed, all as of the date first written above.
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.
+
+
+
+
+
+Porex: Porex Corporation By: /s/ Tore Wistedt Name: Tore Wistedt Title: SR VP Global Strategy Marketing
+
+Cerus: Cerus Corporation By: /s/ Kevin D. Green Name: Kevin D. Green Title: VP Finance and CFO
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.
+
+
+
+
+
+Schedule 1 Exhibit AA-1 SPC 00562 {7 pages omitted}
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.
+
+
+
+
+
+Exhibit AA-2 SPC 00628 {3 pages omitted}
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.
+
+
+
+
+
+Exhibit AA-3 SPC 00628A {3 pages omitted}
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.
+
+
+
+
+
+Exhibit AA-4 SPC 00628B {2 pages omitted}
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.
+
+
+
+
+
+Schedule 2 Exhibit D-1 Pricing [*] Pricing [*]
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.
+
+
+
+
+
+SCHEDULE 3
+
+FORM STATEMENT OF WORK
+
+This Statement of Work is incorporated into the Amended and Restated Supply and Manufacturing Agreement dated April 1, 2017 by and between Cerus Corporation and Porex Corporation, as amended by First Amendment to Supply and Manufacturing Agreement, effective April 1, 2018 (for the purposes of this Statement of Work, the "Agreement"). This Statement of Work describes Services to be performed and provided by Porex pursuant to the Agreement. All capitalized terms used and not expressly defined in this Statement of Work will have the meanings given to them in the Agreement. Approach Deliverables Obligations of Cerus, if any Specifications Points of Contact For Cerus: Contact name Address Phone Email For Porex: Contact name Address Phone Email Budget Payment Schedule In full consideration for Porex's timely and satisfactory performance of the Services, Porex will be compensated as follows: Term
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.
+
+
+
+
+
+The term of this Statement of Work will begin on ___________ and shall terminate on ____________.
+
+Cerus Corporation
+
+Signed: Name: Title: Dated:
+
+Porex Corporation
+
+Signed: Name: Title: Dated:
+
+[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.

@@ -1,0 +1,1961 @@
+Exhibit 10.2
+
+EXECUTION COPY
+
+***Text Omitted and Filed Separately with the Securities and Exchange Commission Confidential Treatment Requested Under 17 C.F.R. Sections 200.80(b)(4) and 240.24b-2
+
+Collaboration Agreement
+
+This Agreement is entered into with effect as of the Effective Date (as defined below)
+
+by and between
+
+F. Hoffmann-La Roche Ltd
+
+with an office and place of business at Grenzacherstrasse 124, 4070 Basel, Switzerland ("Roche Basel")
+
+and
+
+Hoffmann-La Roche Inc.
+
+with an office and place of business at 150 Clove Road, Suite 8, Little Falls, New Jersey 07424, U.S.A. ("Roche US"; Roche Basel and Roche US together referred to as "Roche")
+
+on the one hand
+
+and
+
+Foundation Medicine, Inc.
+
+with an office and place of business at 150 Second Street, Cambridge, Massachusetts 02141 ("FMI")
+
+on the other hand.
+
+
+
+
+
+Table of Contents   1. Definitions   7  1.1 Affiliate   7  1.2 Agreement   7  1.3 Agreement Term   7  1.4 [...***...] ctDNA [...***...]   7  1.5 Applicable Law   7  1.6 Approved Assay   7  1.7 Background IP   7  1.8 Business Day   8  1.9 Calendar Half   8  1.10 Calendar Quarter   8  1.11 Calendar Year   8  1.12 CDx   8  1.13 CDx Development Program   8  1.14 CLIA   8  1.15 Clinical Study   9  1.16 Commercially Reasonable Efforts   9  1.17 Confidential Information   9  1.18 Control   9  1.19 Cover  10  1.20 ctDNA  10  1.21 ctDNA Assay  10  1.22 ctDNA Platform  10  1.23 ctDNA Platform Development Program  10  1.24 ctDNA Working Group  10  1.25 Data Security Breach  10  1.26 Effective Date  10  1.27 Excepted Activities  11  1.28 Excluded Patent Rights  11  1.29 FDA  11  1.30 FDCA  11  1.31 FMI Background IP Patent Rights  11  1.32 FMI Decisions  11  1.33 FMI Development Costs  11  1.34 FMI Know-How  11  1.35 FMI Foreground Patent Rights  12  1.36 FTE  12  1.37 FTE Rate  12  1.38 Handle  12  1.39 HSR  12  1.40 Immunotherapy Testing Platform Development Program  12  1.41 Immuno-Platform Working Group  12  1.42 Initiation  12  1.43 Insolvency Event  12  1.44 Invention  13  1.45 IUO  13  1.46 JMC  13  1.47 JOC  13  1.48 Joint Know-How  13  1.49 Joint Patent Rights  13    ***Confidential Treatment Requested***
+
+- 2 -
+
+
+
+
+
+1.50 JOT  13  1.51 JRDC  13  1.52 Know-How  13  1.53 Molecular Information Platform Program  13  1.54 Molecular Information Platform Working Group  14  1.55 Party  14  1.56 Patent Rights  14  1.57 Performance Specifications  14  1.58 Personal Data  14  1.59 Phase I Study  14  1.60 Phase II Study  14  1.61 Phase III Study  14  1.62 PMA  15  1.63 Quality Standards  15  1.64 R&D Plan  15  1.65 Regulatory Approval  15  1.66 Regulatory Authority  15  1.67 Roche Background IP Patent Rights  15  1.68 Roche Group  15  1.69 Roche Know-How  15  1.70 Roche Foreground Patent Rights  15  1.71 ROW Territory  15  1.72 RUO  15  1.73 Study Data  16  1.74 Sublicensee  16  1.75 Territory  16  1.76 Third Party  16  1.77 US  16  1.78 US$  16  1.79 Work Stream  16  1.80 Additional Definitions  16  2. Grant of License  18  2.1 Licenses  18  2.2 Sublicense  20  2.3 Right to Subcontract  20  3. Research and Development Collaboration  20  3.1 Molecular Information Platform Program  20  3.2 Immunotherapy Testing Platform Development Program  23  3.3 ctDNA Platform Development Program  25  3.4 CDx Development Program  27  3.5 Samples, Handling and Disposal  29  3.6 Records; Reports; Audits  30  4. Diligence  31  5. Most Favored Customer  31  6. Governance  31  6.1 Joint Management Committee  31  6.2 JRDC  33  6.3 JOC  34  6.4 Alliance Director  34  6.5 Limitations of Authority  34  6.6 Expenses  35  6.7 Lifetime  35    - 3 -
+
+
+
+
+
+7. Regulatory   35  8. Payment   35  8.1 FTE Funding   35  8.2 Molecular Information Platform Program Fees   35  8.3 Immunotherapy Testing Platform Development Budget and Fees   36  8.4 ctDNA Platform Financial Terms   37  8.5 CDx Development Financial Terms   38  8.6 General Terms   38  8.7 Disclosure of Payments   39  9. Accounting and reporting   39  9.1 Timing of Payments   39  9.2 Late Payment   39  9.3 Method of Payment   39  10. Taxes   39  11. Auditing   40  11.1 Right to Audit   40  11.2 Audit Reports   41  11.3 Over or Underpayment   41  11.4 Duration of Audit Rights   41  12. Intellectual Property   41  12.1 Ownership of Inventions, data and results   41  12.2 German Statute on Employee's Inventions   43  12.3 Prosecution and Maintenance of Patent Rights Claiming FMI Inventions   43  12.4 Prosecution and Maintenance of Roche Foreground Patent Rights and Joint Patent Rights   44  12.5 Joint Patent Team   44  12.6 CREATE Act   44  12.7 Infringement   44  12.8 Defense   46  12.9 Common Interest Disclosures   46  13. Representations and Warranties   47  13.1 Mutual Representations and Warranties   47  13.2 Activities   48  13.3 Safety Data   48  13.4 Third Party Patent Rights   48  13.5 Inventors   48  13.6 Grants   48  13.7 Ownership and Validity of Know-How   48  13.8 Data Protection (Privacy) and Security   48  13.9 No Other Representations   50  14. Indemnification   50  14.1 Indemnification by Roche   50  14.2 Indemnification by FMI   51  14.3 Procedure   51  15. Liability   51  16. Obligation Not to Disclose Confidential Information   51  16.1 Non-Use and Non-Disclosure   51  16.2 Permitted Disclosure &sbsp;52  16.3 Press Releases   52  16.4 Publications   52  16.5 Commercial Considerations   53    - 4 -
+
+
+
+
+
+17. Term and Termination  53  17.1 Commencement and Term  53  17.2 Termination  53  17.2.1 Termination for Breach  53  17.2.2 Insolvency  53  17.2.3 Termination by Roche without Cause  54  17.2.4 Termination by Roche for Frustration of Purpose  54  17.3 Consequences of Termination  54  17.3.1 Termination in General  54  17.3.2 Termination by FMI for Breach by Roche or Roche's Insolvency; Termination by Roche Without Cause or for Frustration of Purpose  54  17.3.3 Termination by Roche for Breach by FMI or FMI Insolvency  56  17.3.4 Direct License  57  17.4 Other Obligations  57  17.5 Survival  57  18. Bankruptcy  57  19. Miscellaneous  58  19.1 Governing Law  58  19.2 Disputes  58  19.3 Arbitration  58  19.4 Assignment  59  19.5 Debarment and Exclusion  59  19.6 Independent Contractor  60  19.7 Unenforceable Provisions and Severability  60  19.8 Waiver  60  19.9 Appendices  60  19.10 Entire Understanding  61  19.11 Amendments  61  19.12 Invoices  61  19.13 Notice  61    - 5 -
+
+
+
+
+
+Collaboration Agreement
+
+WHEREAS, FMI has or is developing platforms for use in genomic testing, including development of a molecular information platform, an immunotherapy testing platform, a circulating tumor DNA platform, and a companion diagnostics platform; and
+
+WHEREAS, Roche has expertise in the research, development, manufacture and commercialization of pharmaceutical and diagnostic products, including development of an immunotherapy platform; and
+
+WHEREAS, Roche and FMI want to collaborate on the development of platforms for use in molecular information, immunotherapy, circulating tumor DNA, companion diagnostics, and in vitro diagnostic tests and kits; and
+
+WHEREAS, Roche Holdings, Inc., an Affiliate of Roche, and FMI are concurrently herewith entering into a Transaction Agreement dated as of the date hereof (as it may be amended from time to time, the "Transaction Agreement") which provides, among other things, for Roche to acquire a majority ownership of FMI upon the terms and subject to the conditions set forth in the Transaction Agreement; and
+
+WHEREAS, in connection therewith, and as an inducement to Roche's and FMI's willingness to enter into the Transaction Agreement and to consummate the transactions contemplated thereby, FMI and Roche agree that Roche will work with FMI in the United States to educate relevant persons on next generation sequencing and/or comprehensive genomic profiling technology ("US Education Collaboration Agreement"), Roche and FMI will collaborate on the commercialization of certain FMI products outside of the United States ("Ex-US Commercialization Agreement"), and Roche and FMI may collaborate on development and commercialization of decentralized in vitro diagnostic ("IVD") versions of FMI tests generated by FMI ("IVD Collaboration"), the above mentioned agreements, including the Transaction Agreement, being referred to collectively as the "Related Agreements"; and
+
+WHEREAS, FMI and Roche intend that assays and other products generated under this Agreement will be commercialized in accordance with the Ex-US Commercialization Agreement and that the governance structure under this Agreement will apply to the US Education Collaboration Agreement and the Ex-US Commercialization Agreement.   - 6 -
+
+
+
+
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained in this Agreement and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereto, intending to be legally bound, do hereby agree as follows:
+
+  1. Definitions
+
+As used in this Agreement, the following terms, whether used in the singular or plural, shall have the following meanings:
+
+  1.1 Affiliate
+
+The term "Affiliate" shall mean any individual, corporation, association or other business entity that directly or indirectly controls, is controlled by, or is under common control with the Party in question. As used in this definition of "Affiliate," the term "control" shall mean the direct or indirect ownership of more than fifty percent (>50%) of the stock having the right to vote for directors thereof or the ability to otherwise control the management of the corporation or other business entity whether through the ownership of voting securities, by contract, resolution, regulation or otherwise. Anything to the contrary in this paragraph notwithstanding, Chugai Pharmaceutical Co., Ltd, a Japanese corporation ("Chugai"), shall not be deemed an Affiliate of Roche unless Roche provides written notice to FMI of its desire to include Chugai as an Affiliate of Roche. Moreover, FMI and its Affiliates existing as of the Effective Date shall not be deemed Affiliates of Roche and its Affiliates existing as of the Effective Date, and Roche and its Affiliates existing as of the Effective Date shall not be deemed Affiliates of FMI and its Affiliates existing as of the Effective Date. Affiliates coming into existence after the Effective Date shall be classified by the Parties as either Roche Affiliates or FMI Affiliates for the purposes of this Agreement.
+
+  1.2 Agreement
+
+The term "Agreement" shall mean this document including any and all appendices and amendments to it as may be added and/or amended from time to time in accordance with the provisions of this Agreement.
+
+  1.3 Agreement Term
+
+The term "Agreement Term" shall mean the period of time commencing on the Effective Date and, unless this Agreement is terminated sooner as provided in Article 17, expiring on the date when all work has been completed or terminated under all R&D Plans.
+
+  1.4 […***…] ctDNA […***…]
+
+The term "[…***…] ctDNA […***…]" shall mean an analytical validated clinical ctDNA Assay […***…].
+
+  1.5 Applicable Law
+
+The term "Applicable Law" shall mean any law, statute, ordinance, code, rule or regulation that has been enacted by a government authority (including without limitation, any Regulatory Authority) and is in force as of the Effective Date or comes into force during the Agreement Term, in each case to the extent that the same are applicable to the performance by the Parties of their respective obligations under this Agreement.
+
+  1.6 Approved Assay
+
+The term "Approved Assay" means any assay or test intended for use in the diagnosis or evaluation of a disease or condition, excluding any IUO, and with respect to which any necessary Regulatory Approval is received in the relevant country, including PMA approval in the US, if applicable.
+
+  1.7 Background IP
+
+The term "Background IP" shall mean all intellectual property rights, including Patent Rights and Know-How, Controlled by a Party as of the Effective Date and all intellectual property rights Controlled by a Party after the Effective Date but arising from activities other than the activities conducted under this Agreement. Roche Background IP specifically excludes the Excluded Patent Rights and no licenses are granted to FMI under such Excluded Patent Rights.   ***Confidential Treatment Requested***
+
+- 7 -
+
+
+
+
+
+1.8 Business Day
+
+The term "Business Day" shall mean 9.00am to 5.00pm local time on a day other than a Saturday, Sunday or bank or other public or federal holiday in Switzerland, New Jersey or Massachusetts.
+
+  1.9 Calendar Half
+
+The term "Calendar Half" shall mean each period of six (6) consecutive calendar months, ending June 30 and December 31.
+
+  1.10 Calendar Quarter
+
+The term "Calendar Quarter" shall mean each period of three (3) consecutive calendar months, ending March 31, June 30, September 30 and December 31.
+
+  1.11 Calendar Year
+
+The term "Calendar Year" shall mean the period of time beginning on January 1 and ending December 31, except for the first Calendar Year which shall begin on the Effective Date and end on December 31.
+
+  1.12 CDx
+
+The term "CDx" shall mean any Products or Services that require Regulatory Approval, including by any medical device Regulatory Authority, under the device authorities of the Federal Food, Drug, and Cosmetic Act (or equivalent medical device or in vitro diagnostic medical device regime in other countries) for use in connection with a decision to treat, or the specifics of the actual treatment, of person, with a specific product, as more fully described below:
+
+  (i) identifying a person having a specific disease or condition, or a molecular genotype or phenotype that predisposes a person to such disease or condition, to support a decision to treat such person with such specific product, whether for prophylactic or therapeutic purposes;
+
+  (ii) defining the prognosis or monitoring the progress of a disease or condition in a person to support a decision to treat, or tocontinue to treat, such person with such specific product, whether for prophylactic or therapeutic purposes;
+
+  (iii) supporting the selection of a particular therapeutic or prophylactic regimen, wherein at least one (1) potential therapeutic orprophylactic regimen involves the use of such specific product; and/or
+
+  (iv) confirming such specific product's biological activity and/or optimizing dosing or the scheduled administration of such specificproduct.
+
+  1.13 CDx Development Program
+
+The term "CDx Development Program" shall mean the program for development by FMI of CDx Assays for select Roche products.
+
+  1.14 CLIA
+
+The term "CLIA" shall mean Clinical Laboratory Improvement Amendments as set forth by the Centers for Medicare & Medicaid Services which regulates all laboratory testing (except research) performed on humans in the U.S. and is certified by the Division of Laboratory Services, within the Survey and Certification Group, under the Center for Clinical Standards and Quality.   - 8 -
+
+
+
+
+
+1.15 Clinical Study
+
+The term "Clinical Study" shall mean a Phase I Study, Phase II Study, Phase III Study, as applicable.
+
+  1.16 Commercially Reasonable Efforts
+
+The term "Commercially Reasonable Efforts" shall mean, with respect to the performance of an obligation under this Agreement, such quality and level of effort as is required to carry out such obligation in a sustained manner, consistent with the efforts Roche or FMI, as applicable, devotes to a similar obligation in connection with an internally developed product or service that is at the same stage of development or commercialization, as applicable, in a similar market, with similar market potential, at a similar stage of product life, taking into account the existence of other competitive products or services in the market place or under development, the proprietary position of the product or service, the regulatory structure involved, the anticipated profitability of the product or service and other relevant factors. It is understood that such quality and level if effort may change from time to time based upon changing scientific, business and marketing and return on investment considerations.
+
+  1.17 Confidential Information
+
+The term "Confidential Information" shall mean any and all information, data or know-how (including Know-How), whether technical or non- technical, oral or written, that is disclosed by one Party or its Affiliates ("Disclosing Party") to the other Party or its Affiliates ("Receiving Party"). Confidential Information shall not include any information, data or know-how that:
+
+  (i) was generally available to the public at the time of disclosure, or information that becomes available to the public after disclosureby the Disclosing Party other than through fault (whether by action or inaction) of the Receiving Party or its Affiliates,
+
+  (ii) can be evidenced by written records to have been already known to the Receiving Party or its Affiliates prior to its receipt fromthe Disclosing Party,
+
+  (iii) is obtained by the Receiving Party at any time lawfully from a Third Party under circumstances permitting its use or disclosure,
+
+  (iv) is developed independently by the Receiving Party or its Affiliates as evidenced by written records other than throughknowledge of Confidential Information, or
+
+  (v) is approved in writing by the Disclosing Party for release by the Receiving Party.
+
+The terms of this Agreement shall be considered Confidential Information of the Parties.
+
+  1.18 Control
+
+The term "Control" shall mean (as an adjective or as a verb including conjugations and variations such as "Controls" "Controlled" or "Controlling") (a) with respect to Patent Rights and/or Know-How, the possession by a Party of the ability to grant a license or sublicense of such Patent Rights and/or Know-How as provided herein without violating the terms of any agreement or arrangement between such Party and any other party, where such ability derives from rights other than an assignment or license granted herein and (b) with respect to proprietary materials, the possession by a Party of the ability to supply such proprietary materials to the other Party as provided herein without violating the terms of any agreement or arrangement between such Party and any other party.   - 9 -
+
+
+
+
+
+1.19 Cover
+
+The term "Cover" shall mean (as an adjective or as a verb including conjugations and variations such as "Covered," "Coverage" or "Covering") that the developing, making, using, offering for sale, promoting, selling, exporting or importing of a given product would infringe a valid claim under the Patent Rights. As used in the previous sentence, "valid claim" means, with respect to a particular country a claim in an issued and unexpired patent that has not lapsed or been disclaimed, revoked, held unenforceable, unpatentable or invalid by a decision of a court or other governmental agency of competent jurisdiction, unappealable or unappealed within the time allowed fo appeal and that has not been admitted to be invalid or unenforceable through re-examination, re-issue, disclaimer or otherwise, or lost in an interference proceeding.
+
+  1.20 ctDNA
+
+The term "ctDNA" shall mean circulating tumor DNA.
+
+  1.21 ctDNA Assay
+
+The term "ctDNA Assay" shall mean an assay developed on or utilizing FMI's ctDNA Platform (including instruments and software) for the detection of genomic alteration in ctDNA, including an RUO, IUO and Approved Assay.
+
+  1.22 ctDNA Platform
+
+The term "ctDNA Platform" shall mean Products or Services for testing of specimens to identify genomic alterations in ctDNA as a blood-based liquid biopsy, including FMI instruments, analytical methods, algorithms, procedures, techniques, software or platforms, intended for use in genomic analysis, and related technologies and any improvements to the foregoing, in each case Controlled by FMI as of the Effective Date or during the Agreement Term.
+
+  1.23 ctDNA Platform Development Program
+
+The term "ctDNA Platform Development Program" shall mean the program for development of ctDNA analysis platform by FMI for effective genomic profiling from liquid biopsy.
+
+  1.24 ctDNA Working Group
+
+The term "ctDNA Working Group" shall mean the group of persons from both Parties who will handle the day-to-day activities associated with the ctDNA Platform Development Program a set forth herein.
+
+  1.25 Data Security Breach
+
+The term "Data Security Breach" means (a) the disclosure or misuse (by any means) of Personal Data; (b) the inadvertent, unauthorized and/or unlawful processing, access, disclosure, alteration, corruption, transfer, sale or rental, destruction or use of Personal Data; or (c) any other act or omission that compromises the security, confidentiality, and/or integrity of Personal Data.
+
+  1.26 Effective Date
+
+The term "Effective Date" shall mean the latest of (a) the date of the last signature of this Agreement, or (b) if a HSR filing is made, the second Business Day immediately following the earlier of: (i) the date upon which the waiting period under HSR expires or terminates early or (ii) the date upon which all requests to the Parties by the Federal Trade Commission or the Justice Department, as the case may be, with regard to the transaction contemplated by this Agreement   - 10 -
+
+
+
+
+
+have been satisfactorily met and no objection on the part of the Federal Trade Commission or the Justice Department remains, or (c) the occurrence of the Acceptance Time (as defined in the Transaction Agreement).
+
+  1.27 Excepted Activities
+
+The term "Excepted Activities" shall mean […***…].
+
+  1.28 Excluded Patent Rights
+
+The term "Excluded Patent Rights" shall mean those Patent Rights listed in Appendix 1.28.
+
+  1.29 FDA
+
+The term "FDA" shall mean the Food and Drug Administration of the United States of America.
+
+  1.30 FDCA
+
+The term "FDCA" shall mean the Food, Drug and Cosmetics Act.
+
+  1.31 FMI Background IP Patent Rights
+
+The term "FMI Background IP Patent Rights" means Patent Rights that Cover Background IP that is Controlled by FMI.
+
+  1.32 FMI Decisions
+
+The term "FMI Decisions" shall mean decisions with respect to any of the following issues that come before the JMC:
+
+  (i) […***…].
+
+  (ii) […***…].
+
+  (iii) […***…].
+
+  (iv) […***…].
+
+  1.33 FMI Development Costs
+
+The term "FMI Development Costs" means all costs reasonably incurred or committed to by FMI to perform its obligations and activities hereunder, including without limitation, (i) personnel costs equal to the number of FTE's used to perform such obligations and activities multiplied by the FTE Rate, (ii) out-of-pocket costs for consultants, materials and services and (iii) facilities costs reasonably allocated to performance of such obligations and activities, including acquisition, maintenance and operation costs for such facilities.
+
+  1.34 FMI Know-How
+
+The term "FMI Know-How" shall mean the Know-How that FMI Controls at the Effective Date and during the Agreement Term.   ***Confidential Treatment Requested***
+
+- 11 -
+
+
+
+
+
+1.35 FMI Foreground Patent Rights
+
+The term "FMI Foreground Patent Rights" shall mean the Patent Rights that FMI Controls and that Cover Inventions conceived of and reduced to practice after the Effective Date in the performance of the activities under this Agreement, excluding any Joint Patent Rights and any FMI Background IP Patent Rights.
+
+  1.36 FTE
+
+The term "FTE" shall mean a full-time equivalent person-year, based upon a total of no less than one thousand eight hundred (1,800) working hours per year, undertaken in connection with the conduct of research in a Work Stream. In no circumstance can the work of any given person exceed one (1) FTE.
+
+  1.37 FTE Rate
+
+The term "FTE Rate" shall mean the amount of […***…], on a fully burdened cost basis, which amount shall be subject to increase following the […***…] anniversary of the Effective Date by an amount equal to the increase in the Consumer Price Index as published by the U.S. Department of Labor, Bureau of Labor Statistics (the "CPI") between the Effective Date and such date for a new FTE Rate not to exceed […***…] per FTE, and which such new FTE Rate shall be subject to subsequent increases upon the date of each renewal or extension period comprising the Agreement Term by an amount equal to the increase in the CPI as of such date.
+
+  1.38 Handle
+
+The term "Handle" shall mean all activities associated with prosecution and maintenance of a particular patent and patent application(s) derived from such patent, including preparing, filing, prosecuting and maintaining (including interferences, reissue, re-examination, pre- and post-grant proceedings, inter-parties reviews, derivation proceedings, applications for patent term adjustment and extensions, supplementary protection certificates and oppositions and other similar proceedings).
+
+  1.39 HSR
+
+The term "HSR" shall mean the Hart-Scott-Rodino Antitrust Improvements Act.
+
+  1.40 Immunotherapy Testing Platform Development Program
+
+The term "Immunotherapy Testing Platform Development Program" shall mean the program for development of an immunotherapy testing platform.
+
+  1.41 Immuno-Platform Working Group
+
+The term "Immuno-Platform Working Group" shall mean the group of persons from both Parties who will handle the day-to-day activities associated with the Immunotherapy Testing Platform Development Program.
+
+  1.42 Initiation
+
+The term "Initiation&1148; shall mean the date that a human is first dosed with the drug in a Clinical Study approved by the respective Regulatory Authority.
+
+  1.43 Insolvency Event
+
+The term "Insolvency Event" shall mean circumstances under which a Party (i) has a receiver or similar officer appointed over all or a material part of its assets or undertaking; (ii) passes a resolution for winding-up (other than a winding-up for the purpose of, or in connection with, any solvent amalgamation or reconstruction) or a court makes an order to that effect or a court makes an order for administration (or any equivalent order in any jurisdiction); (iii) enters into   ***Confidential Treatment Requested***
+
+- 12 -
+
+
+
+
+
+any composition or arrangement with its creditors (other than relating to a solvent restructuring); (iv) ceases to carry on business; (v) is unable to pay its debts as they become due in the ordinary course of business.
+
+  1.44 Invention
+
+The term "Invention" shall mean an invention that is made, i.e. conceived and reduced to practice, in performance of activities under this Agreement. Under this definition, an Invention may be made by solely by individuals having an obligation to assign rights in such invention to FMI (an "FMI Invention"), solely by individuals having an obligation to assign rights in such invention to Roche (a "Roche Invention"), or jointly by individuals having an obligation to assign rights in such invention to FMI and individuals having an obligation to assign rights in such invention to Roche (a "Joint Invention").
+
+  1.45 IUO
+
+The term "IUO" shall mean an assay for investigational use only that meets certain clinical and manufacturing standards and which is used in clinical studies to gather data for submission to a Regulatory Agency in support of an Approved Assay.
+
+  1.46 JMC
+
+The term "JMC" shall mean the joint management committee described in Article 6.
+
+  1.47 JOC
+
+The term "JOC" shall mean the joint operating committee as mentioned in Section 6.3 and described in the Ex-US Commercialization Agreement.
+
+  1.48 Joint Know-How
+
+The term "Joint Know-How" shall mean Know-How that is made jointly by the Parties or their Affiliates or their Sublicensees in performance of activities carried out pursuant to this Agreement.
+
+  1.49 Joint Patent Rights
+
+The term "Joint Patent Rights" shall mean all Patent Rights Covering a Joint Invention.
+
+  1.50 JOT
+
+The term "JOT" shall mean a joint operating team described in Section 6.1.7.
+
+  1.51 JRDC
+
+The term "JRDC" shall mean the joint research and development committee described in Section 6.2.
+
+  1.52 Know-How
+
+The term "Know-How" shall mean data, knowledge, algorithms, business rules and information, including manufacturing data, toxicological data, pharmacological data, preclinical data, formulations, specifications, quality control testing data, which are necessary or useful for the discovery, manufacture, development or commercialization of Products and Services.
+
+  1.53 Molecular Information Platform Program
+
+The term "Molecular Information Platform Program" shall mean the program designed to generate insights for certain of Roche's clinical development portfolio from FMI's molecular information platform, comprised of tumor sample genomic analysis, database access, and dedicated FMI clinical and genomic expertise.
+
+- 13 -
+
+
+
+
+
+1.54 Molecular Information Platform Working Group
+
+The term "Molecular Information Platform Working Group" shall mean the group of persons from both Parties who will handle the day-to-day activities associated with the Molecular Information Platform Program.
+
+  1.55 Party
+
+The term "Party" shall mean FMI or Roche, as the case may be, and "Parties" shall mean FMI and Roche collectively.
+
+  1.56 Patent Rights
+
+The term "Patent Rights" shall mean all rights under any patent or patent application, in any country of the Territory, including any patents issuing on such patent application, and further including any substitution, extension or supplementary protection certificate, reissue, reexamination, renewal, division, continuation or continuation-in-part of any of the foregoing.
+
+  1.57 Performance Specifications
+
+The term "Performance Specifications" shall mean a set of minimum standards and specifications related to FMI's supply and delivery of Products and Services under this Agreement as set forth in the R&D Plans for each Work Stream or Task Orders, including standards with respect to classes of alterations detected and sequencing sensitivity and specificity (based on tissue requirements); provided, however, the Performance Specifications for the Molecular Information Platform Program are attached hereto as Exhibit 1.57.
+
+  1.58 Personal Data
+
+The term "Personal Data" shall mean any information that can be used to identify, locate or contact an individual (a "Data Subject"), including but limited to, (a) first name or initial and last name; (b) home or other physical address; (c) telephone number; (d) email address or online identifier associated with the individual; (e) social security number or other similar identifier; (f) employment financial or health information; or (g) any other information relating to an individual that is combined with any of the above.
+
+  1.59 Phase I Study
+
+The term "Phase I Study" shall mean a human clinical trial in any country that would satisfy the requirements of 21 C.F.R. § 312.21(a) (FDCA), as amended from time to time, and the foreign equivalent thereof.
+
+  1.60 Phase II Study
+
+The term "Phase II Study" shall mean a human clinical trial, for which the primary endpoints include a determination of dose ranges and/or a preliminary determination of efficacy in patients being studied as described in 21 C.F.R. § 312.21(b) (FDCA), as amended from time to time, and the foreign equivalent thereof.
+
+  1.61 Phase III Study
+
+The term "Phase III Study" shall mean a human clinical trial that is prospectively designed to demonstrate statistically whether a product is safe and effective for use in humans in a manner sufficient to obtain regulatory approval to market such product in patients having the disease or condition being studied as described in 21 C.F.R. § 312.21(c) (FDCA), as amended from time to time, and the foreign equivalent thereof.
+
+- 14 -
+
+
+
+
+
+1.62 PMA
+
+The term "PMA" shall mean a premarket approval application as defined under section 515 of the FDCA.
+
+  1.63 Quality Standards
+
+The term "Quality Standards" shall mean CLIA or QSR requirements, each as applicable, and other Applicable Laws. If requested by Roche, the JRDC will establish which such quality standards specifically apply to Products and Services within a given Work Stream.
+
+  1.64 R&D Plan
+
+The term "R&D Plan" shall mean a plan of research and development for each Work Stream other than the Molecular Information Platform Program. The initial R&D Plans are attached as Appendix 1.64 and outline the work expected to be performed by FMI for the relevant Work Stream. Such plans may be updated from time to time as provided in this Agreement.
+
+  1.65 Regulatory Approval
+
+The term "Regulatory Approval" shall mean any approvals, licenses, registrations, authorizations, or certifications by Regulatory Authority or any CE markings, necessary for the manufacture, sale or putting into service of a product in a regulatory jurisdiction in the Territory.
+
+  1.66 Regulatory Authority
+
+The term "Regulatory Authority" shall mean any national, supranational (e.g., the European Commission, the Council of the European Union, the European Medicines Agency), regional, state or local regulatory agency, department, bureau, commission, council or other governmental entity including the FDA, in each country involved in the granting of Regulatory Approval for a product or service.
+
+  1.67 Roche Background IP Patent Rights
+
+The term "Roche Background IP Patent Rights" means Patent Rights that Cover Background IP that is Controlled by Roche.
+
+  1.68 Roche Group
+
+The term "Roche Group" shall mean collectively Roche, its Affiliates and its Sublicensees, excluding FMI and FMI Affiliates.
+
+  1.69 Roche Know-How
+
+The term "Roche Know-How" shall mean all Know-How that Roche Controls during the Agreement Term.
+
+  1.70 Roche Foreground Patent Rights
+
+The term "Roche Foreground Patent Rights" shall mean the Patent Rights that Roche Controls (other than through licenses granted under this Agreement) and that Cover Inventions conceived of and reduced to practice after the Effective Date in the performance of the activities under this Agreement, excluding any Joint Patent Rights and the Excluded Patent Rights.
+
+  1.71 ROW Territory
+
+The term "ROW Territory" shall mean […***…].
+
+  1.72 RUO
+
+The term "RUO" shall mean an assay intended or approved for research use only.   ***Confidential Treatment Requested***
+
+- 15 -
+
+
+
+
+
+1.73 Study Data
+
+The term "Study Data" shall mean all data related to any Data Subject collected by or transferred to the Roche Group or business partners, in connection with any services that FMI may provide to Roche.
+
+  1.74 Sublicensee
+
+The term "Sublicensee" shall mean an entity to which Roche or FMI, as applicable, has licensed rights (through one or multiple tiers), other than through a Compulsory Sublicense, pursuant to this Agreement.
+
+  1.75 Territory
+
+The term "Territory" shall mean […***…].
+
+  1.76 Third Party
+
+The term "Third Party" shall mean a person or entity other than (i) FMI or any of its Affiliates or (ii) a member of the Roche Group.
+
+  1.77 US
+
+The term "US" shall mean the United States of America and its territories and possessions.
+
+  1.78 US$
+
+The term "US$" shall mean US dollars.
+
+  1.79 Work Stream
+
+The term "Work Stream" shall mean each of the Molecular Information Platform Program, Immunotherapy Testing Platform Development Program, the ctDNA Platform Development Program, and the CDx Development Program.
+
+  1.80 Additional Definitions
+
+Each of the following definitions is set forth in the Section of this Agreement indicated below:   Definition   Section AAA   19.3 Accounting Period   9.1 Advanced Genomic Analyses   3.1.4 Alliance Director   6.2 Approved Markers   3.4.1 Assessment   10 Bankruptcy Code   18 Binding Orders   3.1.5 Biomarker IP   2.1.2 Breaching Party   17.2.1 CDx Assays   3.4.1 CDx Platform Working Group   3.4.2 Chairperson   6.1.1 Competent Authority Procedures   10 ctDNA Milestone Date   8.4 Create Act   12.6 Database Renewal Term   3.1.9 Database Queries   3.1.8   ***Confidential Treatment Requested***
+
+- 16 -
+
+
+
+
+
+Definition   Section Data Subject   1.57 Decision Period   12.5 Disclosing Party   1.17 Ex-US Collaboration Agreement   Whereas Clause First ctDNA Milestone Date   8.4 FMI CDx IP   12.1.5 FMI-Derived Advanced Genomic Analysis Results   3.1.8 FMI Improvement IP   12.1.2 FMI Invention   1.44 Immuno-Biomarker Discovery Platform   3.2.1 Immuno-Clinical Study Assays   0 Immunotherapy Exclusivity Period   3.2.8 Immunotherapy Testing Platform Development Budget   8.3.1 Genomic Analyses   3.1.4 Indemnified Party   14.3 Indemnifying Party   14.3 Initial Roche ctDNA Assay   8.4 Initiating Party   12.5 Investigational Markers   3.4.1 IVD Collaboration   Whereas Clause Joint Invention   1.44 Materially Modified   8.3.2(i) Members   6.1.1 Molecular Information Database   3.1.8 Molecular Information Database Access   3.1.8 Non-Breaching Party   17.2.1 Payment Currency   9.3 Peremptory Notice Period   17.2.1 Products and Services   7 Profiling Renewal Term   3.1.9 Profiling Term   3.1.9 Publishing Notice   16.4 Publishing Party   16.4 Receiving Party   1.17 Related Agreements   Whereas Clause Reserved Capacity   3.1.4 Reserved Capacity Fees   8.2.1.1 Roche CDx Development IP   12.1.5 Roche ctDNA Sample Results   12.1.4 Roche Immunotherapy Sample Results   12.1.3 Roche Improvement IP   12.1.2 Roche Invention   1.44 Roche-Owned Advanced Genomic Analysis Results   12.1.2 Roche's Jurisdiction   10 Sample Profiling   3.1.4   - 17 -
+
+
+
+
+
+Definition   Section Sample Results   3.1.6 Second ctDNA Milestone Date   8.4 Settlement   12.5 Signature Identification   3.2.1 Suit Notice   12.5 Task Orders   3.1.3 TPP   6.1.5.2 Transaction Agreement   Whereas Clause US Education Collaboration Agreement   Whereas Clause
+
+  2. Grant of License
+
+2.1 Licenses
+
+  2.1.1 Research and Development Cross License
+
+Each Party grants to the other Party during the time that a Work Stream is in effect, a non-exclusive right and license under Know-How and Patent Rights, including the Background IP, Controlled by such Party and that are necessary or useful solely to enable the other Party to perform the activities contemplated under this Agreement; […***…].
+
+    2.1.2 Molecular Information Platform Licenses
+
+Roche hereby grants to FMI a non-exclusive, royalty-free, worldwide and perpetual license, sublicensable to FMI's Affiliates, under any intellectual property rights arising directly from the Sample Results, or the correlation of the Sample Results to patient data ("Biomarker IP") (i) to the extent such Biomarker IP becomes publicly known, for internal research purposes, (ii) to the extent such Biomarker IP becomes publicly known, to develop, make, have made, use, offer for sale, sell, import, and commercialize FMI's Products and Services relating to genomic analysis, and (iii) […***…].
+
+Roche hereby grants to FMI a non-exclusive, royalty-free, worldwide and perpetual license, sublicensable to Affiliates, to use the Roche-Owned Advanced Genomic Analysis Results to develop, make, have made, use, offer for sale, sell, import and commercialize FMI's products and services relating to genomic analysis.
+
+FMI hereby grants to Roche a non-exclusive, royalty-free, worldwide and perpetual license, sublicensable to Roche's Affiliates under any FMI Improvements for Roche's internal research purposes and to develop, make, have made, use, offer for sale, sell, import and commercialize Roche's products and services other than diagnostic products and services.
+
+    2.1.3 Immunotherapy Testing Platform Licenses
+
+Effective after the Immunotherapy Exclusivity Period, Roche hereby grants to FMI a non-exclusive, royalty-free, worldwide, perpetual, and sublicensable to Affiliates, license to any intellectual property arising from the Immunotherapy Testing Platform Development Program Controlled by Roche (excluding Roche Immunotherapy Sample Results) to the extent necessary   ***Confidential Treatment Requested***
+
+- 18 -
+
+
+
+
+
+for FMI to develop, make, have made, use, offer for sale, sell, import and commercialize the Immuno-Biomarker Discovery Platform, Signature Identification services, Clinical Study assays, CDx assays, or any other FMI testing or services (including that are part of the Genomic Analysis Platform).
+
+FMI hereby grants to Roche a non-exclusive, royalty-free, worldwide, perpetual, and sublicensable license to any intellectual property arising from the Immunotherapy Testing Platform Program Controlled by FMI for internal research purposes and to the extent necessary for Roche to research, develop, make, have made, use, offer for sale, sell, import and commercialize Roche products other than diagnostic products.
+
+If FMI is unable or unwilling to develop and commercialize an Immuno Clinical Study assay or CDx assay resulting from the Immunotherapy Testing Platform Development Program in a given country within the Territory as specified in an R&D Plan for any reason other than a breach of this Agreement by Roche, and on the timeline agreed to in such R&D Plan, then, effective on the end of the timeline specified in such R&D Plan, FMI hereby grants to Roche a non-exclusive, royalty-free, perpetual, and sublicensable license under any intellectual property invented by FMI arising from the Immunotherapy Testing Platform Program or the Immunotherapy Testing Platform Development that is necessary for Roche to develop and commercialize such tests in such country in the Territory.
+
+    2.1.4 ctDNA Licenses
+
+FMI hereby grants to Roche (i) an exclusive, royalty-free, sublicensable, worldwide and perpetual license to any intellectual property rights arising from the ctDNA Development Platform Program that are necessary for Roche to develop, make, have made, use, offer for sale, sell, import and commercialize Roche products other than diagnostic products (including the use, formulation, methods of treatment, clinical data or other data, information or results relating to the Roche therapeutic product) solely for use in connection with such activities and such Roche products and (ii) a non-exclusive, royalty-free, worldwide and perpetual license, with the right to grant sublicenses solely to Roche Affiliates, to any intellectual property rights arising from the ctDNA Development Platform Program, for internal research purposes.
+
+Roche hereby grants to FMI a non-exclusive, royalty-free, worldwide, perpetual, and sublicensable license to any IP Controlled by Roche and developed under the ctDNA Platform Development Program (excluding Roche Immunotherapy Sample Results) to the extent necessary for FMI to research, develop, make, have made, use, offer for sale, sell, import and commercialize the ctDNA Assays.
+
+    2.1.5 CDx Development Program
+
+FMI hereby grants to Roche a non-exclusive license under the FMI CDx IP for internal research purposes, and to the extent necessary to research, develop, make, have made, use, offer for sale, sell, import and commercialize Roche products other than diagnostic products.
+
+If FMI is unwilling or unable to develop and commercialize a CDx Assay for a given country in the Territory as specified in the R&D Plan, and on the timeline set forth in the relevant R&D Plan, for any reason other than a breach of this Agreement by Roche, then FMI hereby grants to Roche a non-exclusive, royalty-free, sublicensable, and perpetual license under any intellectual property invented by FMI arising from the CDx Development Program that is necessary for Roche to develop and commercialize a CDx Assay equivalent in such country in the Territory.   - 19 -
+
+
+
+
+
+2.2 Sublicense
+
+Except as otherwise provided herein, where the right to sublicense is granted under this Agreement, the licensee shall have the right to sublicense, and subcontract (subject to Section 2.3), through multiple tiers. Each sublicense granted hereunder to a Third Party shall be pursuant to a written agreement. Each sublicense granted hereunder by a Party shall include restrictions on the disclosure of the other Party's Confidential Information that are substantially similar to the protections provided herein. Each Party shall be liable for any action or failure to act by a sublicensee under a sublicense granted by such Party to the extent such action or failure to act on the part of such Party would constitute a breach of this Agreement by such Party.
+
+  2.3 Right to Subcontract
+
+Each Party shall have the right to subcontract the work performed under this Agreement in accordance with the applicable R&D Plan. Each such subcontract with a Third Party shall be pursuant to a written agreement. Each such subcontract by a Party shall include restrictions on the disclosure of the other Party's Confidential Information that are substantially similar to the protections provided herein. Each Party shall be liable for any action or failure to act by a subcontractor under a subcontract entered into by such Party to the extent such action or failure to act on the part of such Party would constitute a breach of this Agreement by such Party.
+
+  3. Research and Development Collaboration
+
+3.1 Molecular Information Platform Program
+
+  3.1.1 Scope
+
+Roche and FMI shall conduct the Molecular Information Platform Program pursuant to this Agreement under the direction of the Molecular Information Platform Working Group.
+
+    3.1.2 Molecular Information Platform Working Group
+
+The Parties shall establish the Molecular Information Platform Working Group within sixty (60) days after the Effective Date to operationalize the Molecular Information Platform Program. The Molecular Information Platform Working Group's activities will be overseen by JRDC.
+
+    3.1.3 Task Orders
+
+The Parties will conduct the Molecular Information Platform Program in accordance with agreed upon task orders ("Task Orders") and in compliance with Performance Specifications and Quality Standards. Each Task Order will be substantially in the form set forth in Appendix 3.1.3. To the extent any terms set forth in a Task Order conflict with the terms set forth in this Agreement, the terms of this Agreement shall control.
+
+    3.1.4 Sample Profiling and Reserved Capacity
+
+FMI shall provide, and shall reserve capacity to provide, Roche with comprehensive profiling, analysis and reporting ("Sample Profiling") of at least […***…] during the first […***…] immediately following the Effective date, and at least […***…] samples during the next […***…]   ***Confidential Treatment Requested***
+
+- 20 -
+
+
+
+
+
+("Reserved Capacity") using FMI's platform for molecular genomic profiling of cancer samples (the "Genomic Analysis Platform"). The initial laboratory and computational biology activities performed on the Samples as part of Sample Profiling are "Genomic Analyses". FMI will provide Sample Profiling in accordance with the Reserved Capacity during the Profiling Term and Profiling Renewal Term, using the then-current versions of the tests included in its Genomic Analysis Platform. The Sampling Profiles shall be provided in a specified format to be mutually agreed by the Parties. The JMC will discuss and decide upon the Reserved Capacity commitment for Profiling Renewal Terms, provided that any Reserved Capacity amount in excess of […***…] that would require FMI to increase its existing capacity will require FMI approval.
+
+Sample Profiling will include advanced genomic analyses, i.e. advanced laboratory and computational biology activities in the field of cancer genomic sequencing and analysis performed on Samples, including […***…] (collectively, "Advanced Genomic Analyses"). Sample Profiling includes Genomic Analyses and Advanced Genomic Analyses.
+
+FMI may adopt modifications to the Performance Specifications without Roche's consent, so long as such modifications do not result in a material diminution in the analytical performance of the Genomic Analysis Platform as measured by the metrics set forth in Appendix 1.57 (which such material diminution would require the prior written consent of Roche). In the event […***…], and such change results in a material diminution in the analytical performance of the Genomic Analysis Platform as measured by the metrics set forth in Appendix 1.57, Roche may, at its election, and upon written notice to FMI, terminate each Party's obligations under Reserved Capacity, including Roche's obligations under Section 8.2.1.1 to pay Reserved Capacity Fees and opt out of the price per Sample fees for Sample Profiling otherwise specified in Section 8.2.1.2, in each case, from the effect of such sequencing platform change. If Roche elects to terminate the Parties' obligations under Reserved Capacity and opts out of the per Sample pricing for Sample Profiling specified in Section 8.2.1.2, Sample Profiling shall then be performed, and fees for such Sample Profiling shall then be charged, on a per Sample basis at FMI's standard rates or on pricing terms to be mutually agreed in writing by the Parties (or as otherwise mutually agreed in writing by the Parties).
+
+    3.1.5 Forecasting and Binding Orders
+
+Not later than the first Business Day of […***…] during the Profiling Term and Profiling Renewal Terms, Roche will provide FMI with a rolling forecast of its estimated requirements for Sample Profiling for the following […***…], the rolling forecast for the […***…] of which shall be deemed to be a binding order for sample volume (including specifications for the number of samples to be run using each of FMI's different tests) ("Binding Orders"). Binding Orders will not impact FMI's commitment to provide services for at least the Reserved Capacity amount, and Roche's financial commitment to pay the Reserved Capacity Fee. FMI shall use Commercially Reasonable Efforts to fulfill requests for Sample Profiling exceeding the Reserved Capacity based on forecasts provided by Roche (each a "Forecast") in advance of […***…] as specified below.
+
+    3.1.6 Samples, Sample Results, Web-Portal
+
+Roche will provide samples to FMI for Sample Profiling as provided for in Section 3.5. The results of the Sample Profiling ("Sample Results") shall be provided by FMI to Roche in a timeframe to be agreed upon by the Parties. A sample report is attached as Appendix 3.1.6.   ***Confidential Treatment Requested***
+
+- 21 -
+
+
+
+
+
+FMI will set up and utilize a basic web-portal for Roche to access Sample Results and patient reports for Roche Clinical Studies. This web-portal shall be similar to the portal that FMI provides to its other major pharmaceutical customers.
+
+    3.1.7 Clinical Reports
+
+FMI will provide Roche with clinical (e.g., FoundationOne® or FoundationOne® Heme) reports from Sample Profiling on reasonable request, to be specified in applicable Task Orders, to enable Roche to provide comprehensive information to physicians and patients.
+
+    3.1.8 Database Insights
+
+FMI will provide molecular information insights ("Database Insights") arising from FMI's database of aggregated clinical genomic analysis results, which include genomic alterations (base substitutions, insertions and deletions, copy number alterations, and rearrangements) detected by the Genomic Analysis Platform across FMI's clinical testing experience in all disease ontologies (the "Molecular Information Database"), in response to queries supplied by Roche ("Database Queries") or generated by FMI in response to discussions between the Parties about areas of interest for Roche (e.g., […***…]), utilizing a team of […***…] FMI FTEs with requisite training and experience to generate Database Insights ("Molecular Information Database Access").
+
+Database Insights and results of Advanced Genomic Analyses performed against the Molecular Information Database (which, for clarity, does not include Roche's Sample Results) ("FMI-Derived Advanced Genomic Analysis Results") shall be deemed FMI Confidential Information. Roche and its Affiliates may use the Database Query Results and FMI-Derived Advanced Genomic Analysis Results for all purposes, except that Roche may not disclose the Database Query Results to Third Parties, other than as necessary for development, approval or commercialization of a therapeutic or diagnostic product owned or controlled by Roche, or as otherwise consistent with the terms of confidentiality contained in the Definitive Agreement.
+
+    3.1.9 Molecular Information Database Access
+
+As set forth in Section 3.1.8, FMI will provide Roche mediated (indirect through dedicated FMI FTEs) access to the Molecular Information Database to pose Database Queries and will provide the resulting Database Insights to Roche in a format to be mutually agreed by the Parties. FMI will also provide Roche with direct access to the Molecular Information Database for Roche to perform Database Queries and generate Database Insights, when such service is made available to Third Parties by FMI in the ordinary course of business.
+
+    3.1.10 Duration and Extension
+
+The term for Sample Profiling set forth in Section 3.1.4 shall commence on the Effective Date and continue for five (5) years thereafter (the "Profiling Term"). The Profiling Term may be extended at Roche's option, upon […***…] written notice to FMI as specified in Section 19.13, for additional three (3) year periods, during any period of time in which Roche is a majority shareholder of FMI (each a "Profiling Renewal Term").
+
+The term for Database Insights under Section 3.1.8 shall commence on the Effective Date and continue for five (5) years thereafter (the "Database Insights Term"). The Database Insights   ***Confidential Treatment Requested***
+
+- 22 -
+
+
+
+
+
+Term may be extended at Roche's option, upon […***…] notice to FMI as specified in Section 19.13, for additional three (3) year periods, during any period of time in which Roche is a majority shareholder of FMI (each a "Database Renewal Term").
+
+During any Profiling Renewal Term and/or Database Renewal Term, if FMI increases the fees it charges to Third Parties for Sample Profiling and/or Database Insights, then FMI will notify Roche of such adjustment(s), and the Parties shall agree upon the fees to be charged to Roche during the Profiling Renewal Term and/or Database Renewal Term, subject to Article 5, for such Profiling Renewal Term and/or Database Renewal Term prior to its commencement.
+
+If FMI is unable to provide Roche with the Reserved Capacity, or to provide Roche with deliverables meeting Performance Specifications for the Sample Profiling or the Database Queries or fails to comply with Quality Standards, then Roche will have the right to terminate the Sample Profiling and/or Database Insights, as applicable, as set forth in Section 17.3.3, subject to the notice and cure provisions therein.
+
+  3.2 Immunotherapy Testing Platform Development Program
+
+  3.2.1 Scope
+
+Roche and FMI shall conduct the Immunotherapy Testing Platform Development Program pursuant to a mutually agreed R&D Plan under the direction of the Immuno-Platform Working Group. The purpose of the Immunotherapy Testing Platform Development Program is to develop an immunotherapy testing platform meeting the specifications set forth by the Immuno-Platform Working Group for profiling of cancer immunotherapy patients (the "Immuno-Biomarker Discovery Platform"). The Parties hope to further deploy the platform for use in Clinical Study sample profiling to identify possible signatures for immunotherapy response ("Signature Identification"). Roche may also, at its option, request that FMI develop CLIA immunotherapy testing Clinical Study assays for use in selecting or differentiating patients in Roche Clinical Studies in immuno-oncology ("Immuno-Clinical Study Assays").
+
+    3.2.2 Immuno-Platform Working Group
+
+The Parties shall establish the Immuno-Platform Working Group within sixty (60) days after the Effective Date to operationalize the Immunotherapy Testing Platform Development. The Immuno-Platform Working Group's activities will be overseen by JRDC.
+
+The Immuno-Platform Working Group shall serve as a forum for discussion and sharing updates and information between the Parties, but shall have no decision-making authority. The Immuno-Platform Working Group shall:
+
+(i) serve as a forum for discussing the development of the Immuno-Biomarker Discovery Platform and related Products and Services, as well as Immuno-Clinical Study Assays, if applicable;
+
+(ii) serve as a forum for coordinating the Parties' efforts to carry out the R&D Plan;
+
+(iii) periodically monitor progress of activities under the R&D Plan and discuss any obstacles or delays with regard to achieving the timelines set forth therein;   ***Confidential Treatment Requested***
+
+- 23 -
+
+
+
+
+
+(iv) discuss the overall strategy, including the submission plans, for obtaining and maintaining Regulatory Approval of any of the Products and Services developed in the Immunotherapy Testing Platform Development Program; and
+
+(v) such other responsibilities as may be assigned to the Immuno-Platform Working Group in or pursuant to this Agreement or as may be mutually agreed by the Parties in writing.
+
+    3.2.3 R&D Plan
+
+The Parties will conduct the Immunotherapy Testing Platform Development Program in accordance with an R&D Plan and in compliance with Performance Specifications and Quality Standards. Unless decided otherwise by the JMC, the R&D Plan will be updated […***…] by the Immuno- Platform Working Group, reviewed and recommended for approval by the JRDC and approved by the JMC. The R&D Plan will set forth (i) the scope of the Immunotherapy Testing Platform Development Program and the FTE resources that will be dedicated to the activities contemplated within the scope of the Immunotherapy Testing Platform Development Program, including the responsibilities of each Party (ii) an overall timeline and specific objectives for each year, which objectives will be updated or amended, as appropriate, by the JRDC as research progresses, and (iii) budgets for such activities. The Parties shall update the R&D Plan no later than […***…] before the first anniversary of the Effective Date. The JRDC shall review the R&D Plan on an ongoing basis and may amend the R&D Plan. Any such changes shall be reflected in written amendments to the R&D Plan.
+
+    3.2.4 Responsibilities of the Parties
+
+FMI will work with Roche in accordance with the R&D Plan to develop the Immuno-Biomarker Discovery Platform, perform Signature Identification, and, as requested by Roche, develop Immuno Clinical Study Assays. Except for the contracts listed on Appendix 3.2.4, the Parties will meet and discuss existing contracts for activities that are Excepted Activities, and enact a plan for winding-down such contracts, where appropriate.
+
+Roche will work with FMI in accordance with the R&D Plan established by the Immuno-Platform Working Group, including by providing relevant samples and associated data, immuno-oncology expertise, and bioinformatics support, in each case to the extent agreed to in the R&D Plan.
+
+    3.2.5 Budget
+
+A budget for the anticipated work for the Immunotherapy Testing Platform Development forms a part of the R&D Plan. Any changes to this budget shall be reviewed by the JRDC and then submitted to the JMC for approval.
+
+    3.2.6 Duration
+
+The initial term of the Immunotherapy Testing Platform Development Program will be five (5) years beginning on the Effective Date.
+
+    3.2.7 Extension
+
+Roche shall have the right to extend the Immunotherapy Testing Platform Development Program, upon [...***...] written notice to FMI as specified in Section 19.13, for up to six (6)   ***Confidential Treatment Requested***
+
+- 24 -
+
+
+
+
+
+additional one (1) year periods, during any period of time in which Roche is a majority shareholder of FMI (each a "Signature Identification Renewal Term"), provided, for clarity, that during any Signature Identification Renewal Term, FMI's obligations under Section 16.1 shall continue to apply to any signature identified under this Agreement but that exclusivity under Section 3.2.8 shall not apply to the Immuno-Biomarker Discovery Platform.
+
+    3.2.8 Exclusivity
+
+Except for Excepted Activities, for the lesser of (i) […***…] after the Effective Date or (ii) […***…] (the "Immunotherapy Exclusivity Period"), FMI will work exclusively with Roche with respect to […***…]. Except with regard to Excepted Activities, FMI will not (i) work directly or indirectly with any Third Party in the field of […***…], (ii) use for the benefit of any Third Party the […***…] or (iii) transfer to or otherwise enable any Third Party to make use of any data, technology or results from the Immunotherapy Testing Platform Development Program for […***…].
+
+Following the Immunotherapy Exclusivity Period, FMI shall have the right to work with Third Parties in the field of cancer immunotherapy, and to otherwise commercialize the Immuno-Biomarker Discovery Platform, subject to the Related Agreements.
+
+    3.2.9 Excepted Activities
+
+For any Excepted Activities, FMI shall provide copies of proposed publications Roche for review in accordance with Section 16.4.
+
+    […***…]
+
+For the first […***…] following commercial launch by FMI of any Immuno Clinical Study Assay(s) created during or derived from the Immunotherapy Testing Platform Development, Roche and its Affiliates will be entitled to […***…], for the purchase of any such Immuno Clinical Study Assay(s).
+
+  3.3 ctDNA Platform Development Program
+
+  3.3.1 Scope
+
+Roche and FMI shall conduct the ctDNA Platform Development Program, pursuant to a mutually agreed R&D Plan under the direction of the ctDNA Working Group. The purpose of the ctDNA Platform Development Program is to develop ctDNA Assays meeting the specifications set forth in the R&D Plan.
+
+    3.3.2 Working Group
+
+The Parties shall establish the ctDNA Working Group within sixty (60) days after the Effective Date to operationalize the ctDNA Platform Development. The ctDNA Working Group's activities will be overseen by JRDC.   ***Confidential Treatment Requested***
+
+- 25 -
+
+
+
+
+
+The ctDNA Working Group shall serve as a forum for discussion and sharing updates and information between the Parties, but shall have no decision-making authority. The ctDNA Working Group shall:
+
+  (i) serve as a forum for discussing the development of the ctDNA Platform and ctDNA Products;
+
+  (ii) serve as a forum for coordinating the Parties' efforts to carry out the R&D Plan;
+
+  (iii) periodically monitor progress of activities under the R&D Plan and discuss any obstacles or delays with regard to achieving thetimelines set forth therein;
+
+  (iv) discuss the overall strategy, including the submission plans, for obtaining and maintaining Regulatory Approval of any of thectDNA Products; and
+
+  (v) such other responsibilities as may be assigned to the ctDNA Working Group in or pursuant to this Agreement or as may bemutually agreed by the Parties in writing.
+
+    3.3.3 R&D Plan
+
+FMI will develop the ctDNA Assays, leveraging ongoing efforts, in accordance with the R&D Plan and in compliance with Performance Specifications and Quality Standards. Unless decided otherwise by the JMC, the R&D Plan will be updated […***…] by the ctDNA Working Group, reviewed and recommended for approval by the JRDC and approved by the JMC. The R&D Plan will set forth (i) the scope of the ctDNA Platform Development Program and the FTE resources that will be dedicated to the activities contemplated within the scope of the ctDNA Platform Development Program, including the responsibilities of each Party (ii) an overall timeline and specific objectives for each year, which objectives will be updated or amended, as appropriate, by the JRDC as research progresses, and (iii) budgets for such activities. The Parties shall update the R&D Plan no later than […***…] before the first anniversary of the Effective Date. The JRDC shall review the R&D Plan on an ongoing basis and may amend the R&D Plan subject to approval of the JMC. Any such changes shall be reflected in written amendments to the R&D Plan.
+
+    3.3.4 Responsibilities of the Parties
+
+FMI shall, subject to all terms and conditions of this Agreement, use Commercially Reasonable Efforts to Develop the Initial Roche ctDNA Assay and the ALK ctDNA Clinical Trial Assay in accordance with the R&D Plan. FMI will work with Roche in accordance with the R&D Plan to develop ctDNA Assays.
+
+Roche will work with FMI in accordance with the R&D Plan, including by providing relevant Samples and associated data, in each case to the extent agreed to in the R&D Plan.
+
+Roche assumes no liability for use of the Genomic Analyses obtained from Samples provided under this Agreement, except as and to the extent arising out of a breach by Roche of this Agreement.   - 26 -
+
+
+
+
+
+  3.3.5 Budget
+
+FMI will have sole control over, and responsibility for, the budget and funding for the anticipated work for the ctDNA Platform Development under the R&D Plan.
+
+    3.3.6 Duration
+
+The initial term of the ctDNA Platform Development Program will be twelve (12) months.
+
+    3.3.7 Extension
+
+The initial term of the ctDNA Platform Development Program may be extended by the mutual agreement of the Parties.
+
+    […***…]
+
+For the […***…] following commercial launch by FMI of any ctDNA Assay(s) created during or derived from the ctDNA Platform Development, Roche and its Affiliates will be entitled to […***…], for the purchase of any such ctDNA Assay(s).
+
+    3.3.9 Commercialization
+
+Subject to the Related Agreements, FMI shall have the right to commercialize the ctDNA Assays. The ctDNA Assays may be made commercially available to any customer, except that FMI shall not disclose to an Third Party the specific content of any ctDNA Assay developed specifically for Roche for use as a Clinical Study assay.
+
+  3.4 CDx Development Program
+
+  3.4.1 Scope
+
+Roche and FMI shall conduct the CDx Development Program pursuant to a mutually agreed R&D Plan. The activities conducted in connection with the CDx Development Program will be overseen by the JRDC. The purpose of the CDx Development Program is to develop certain companion diagnostic tests or assays (the "CDx Assays") for use in connection with certain Roche products. Such CDx Assays may include those developed at Roche's request in connection with markers that have not yet been approved by the FDA for the particular tumor type/indication for which Roche is developing the relevant therapeutic ("Investigational Markers") and those developed by mutual agreement of the Parties in connection with markers that are included in one or more assays approved by the FDA for the particular tumor type/indication to indicate use of a Roche therapeutic ("Approved Markers").
+
+    3.4.2 Working Group
+
+For each CDx Assay under development, the Parties shall establish a working group (the "CDx Platform Working Group"), to operationalize the CDx Development. The Parties shall establish the first CDx Platform Working Group within sixty (60) days after the Effective Date. Each CDx Platform Working Group's activities will be overseen by JRDC.   ***Confidential Treatment Requested***
+
+- 27 -
+
+
+
+
+
+The CDx Platform Working Group shall serve as a forum for discussion and sharing updates and information between the Parties, but shall have no decision-making authority. The CDx Platform Working Group shall:
+
+(i) serve as a forum for discussing the development of CDx Assays and related Products and Services;
+
+(ii) serve as a forum for coordinating the Parties' efforts to carry out the R&D Plan;
+
+(iii) periodically monitor progress of activities under the R&D Plan and discuss any obstacles or delays with regard to achieving the timelines set forth therein;
+
+(iv) discuss the overall strategy, including the submission plans, for obtaining and maintaining Regulatory Approval of any of the Products and Services developed in the CDx Development Program; and
+
+(v) such other responsibilities as may be assigned to the CDx Platform Working Group in or pursuant to this Agreement or as may be mutually agreed by the Parties in writing.
+
+    3.4.3 R&D Plan
+
+The Parties will conduct the CDx Development Program in accordance with the R&D Plan and in compliance with Performance Specifications and Quality Standards. Unless decided otherwise by the JMC, the R&D Plan will be updated […***…] by the CDx Platform Working Group, reviewed and recommended for approval by the JRDC and approved by the JMC. The R&D Plan will set forth (i) the scope of the CDx Development Program and the resources that will be dedicated to the activities contemplated within the CDx Development Program, including the responsibilities of each Party (ii) specific objectives for each year, which objectives will be updated or amended, as appropriate, by the JRDC as research progresses, and (iii) budgets for such activities. The Parties shall prepare a plan for activities to be conducted no later than […***…] before the first anniversary of the Effective Date. The JMC shall review the R&D Plan on an ongoing basis and may amend the R&D Plan. Any such changes shall be reflected in written amendments to the R&D Plan.
+
+    3.4.4 Responsibilities of the Parties
+
+FMI will provide CDx development and testing services, including, as required by the R&D Plan, providing FDA QSR laboratory capacity to support such testing. The CDx services will be based on individual CDx R&D Plans for specific Roche assets that will be agreed upon, signed by the Parties and thereby made a part of this Agreement as Appendices 3.4.4(a), 3.4.4(b) and so on. All CDx services will be performed with appropriate systems and documentation to support eventual FDA approval of a PMA or 510(k) or, if agreed by the Parties, approval from the relevant regulatory authorities for an ROW Territory in which FMI will deliver a CDx Assay for Roche therapeutics.
+
+FMI will be responsible for performing the development work for the CDx Assays according to the individual CDx R&D Plans. Unless otherwise expressly agreed between the Parties, FMI will be responsible for seeking regulatory approval (including PMAs, 510(k)s or equivalent) for the CDx Assays. FMI will provide Roche with cross-reference letters, and shall otherwise coordinate regulatory submissions and related information, with Roche.   - 28 -
+
+
+
+
+
+Roche is responsible for supplying FMI with the information and materials necessary for each CDx Assay to be developed under the CDx Development Program in accordance with the R&D Plan. Roche will be solely responsible for seeking regulatory approval for the associated Roche asset. Roche will provide FMI with cross-reference letters, and shall otherwise coordinate regulatory submissions and related information with FMI.
+
+    3.4.5 Budget
+
+Roche and FMI shall agree on a budget for each CDx Assay. The initial budget forms a part of the initial R&D Plan.
+
+    3.4.6 Duration
+
+The term of the CDx Development Program shall be five (5) years.
+
+    3.4.7 Extension
+
+Roche shall have the right to extend the term of the CDx Development Program, upon […***…] prior written notice to FMI as specified in Section 19.13, for additional three (3) year periods, during any period of time in which Roche is a majority shareholder of FMI.
+
+    3.4.8 Continuing Obligations
+
+If work under an individual CDx R&D Plan is initiated during the initial term of the CDx Development Program or an extension thereof, then such work shall be completed as set forth in the applicable individual CDx R&D Plan after the initial term or extension, as applicable, in accordance with the terms set forth therein and herein (including with respect to funding obligations).
+
+    3.4.9 Commercialization
+
+Subject to the Related Agreements, FMI shall have the right to commercialize the CDx Assays.
+
+  3.5 Samples, Handling and Disposal
+
+  3.5.1 Samples
+
+Roche will provide samples to FMI that meet the FMI specimen requirements attached hereto as Appendix 3.5.1 and in accordance with the applicable R&D Plan. FMI shall not transfer the Samples or other materials obtained or received in connection with this Agreement, or any derivatives thereof, to any Third Party without Roche's prior written approval. FMI shall use the Samples and material obtained or received in connection with this Agreement solely for the performance of activities permitted under this Agreement in FMI's laboratories under suitable containment conditions in accordance with all Applicable Law. FMI shall not analyze the Samples other than as expressly provided for in this Agreement. FMI may use such Samples in accordance with the applicable R&D Plan without any obligation of compensation to the subjects from whom such Samples were obtained or any other Third Party for the intellectual property associated with, or any use of, such Samples.   ***Confidential Treatment Requested***
+
+- 29 -
+
+
+
+
+
+  3.5.2 Sample Handling and Disposal
+
+All Samples provided to FMI by or on behalf of Roche shall have been collected or shall be collected, handled, and transferred in compliance with Applicable Law and any applicable policies of any institutional review board, privacy board, or ethics committee with jurisdiction over the collection, handling, and transfer of such material or information. Upon termination of the Agreement or the Work Stream requiring the use of the Samples, or upon completion of those activities requiring use of the Samples, FMI shall promptly return to Roche unused or remaining Samples, or, at FMI's option, securely dispose of all unused or remaining Samples and provide Roche with a written notice of such disposal.
+
+Roche has authorization and all consents required for FMI to use the Samples in accordance with the R&D Plans and the Agreement. FMI shall use, store and handle all Samples in accordance with the R&D Plans and all Applicable Laws. In the event of withdrawal of a subject's consent, Roche will promptly notify FMI and FMI will destroy the corresponding unused Samples (as documented by written confirmation) or return such Samples to Roche for destruction.
+
+  3.6 Records; Reports; Audits
+
+  3.6.1 Progress Reports
+
+At least […***…] during the time a Work Stream remains in effect, unless otherwise agreed by the Parties, FMI shall have the obligation to prepare and provide to the JRDC a summary presentation on the progress of the work performed by FMI in the course of each Work Stream during the preceding […***…]. Promptly upon expiry of such Work Stream, other than the Molecular Information Platform Program, FMI shall provide a final written report summarizing its activities under such Work Stream and the results thereof.
+
+    3.6.2 Research Records
+
+Each Party shall maintain records of each Work Stream (or cause such records to be maintained), except Roche shall not have such obligation for the Molecular Information Platform Program, in sufficient detail and in good scientific manner as will properly reflect all work done and results achieved by or on behalf of such Party in the performance of such Work Stream. All laboratory notebooks shall be maintained for no less than the term of any Patent Rights issuing therefrom.
+
+In addition, during the Agreement and for […***…] thereafter, FMI shall maintain all data provided to FMI by Roche, the Genomic Results, the FMI Advanced Genomic Analysis Results, Database Insights Database Query Results, and documentation necessary to demonstrate FMI's compliance with the terms of this Agreement, including computerized records and files, in a secure area reasonably protected from fire, theft and destruction; provided, however, that with respect to raw genomic data, FMI shall only be required to retain the original, unprocessed BAM file generated from its sequencing process and no other raw genomic data or intermediate BAM files created in processing to generate the Results.
+
+    3.6.3 Regulatory Inspections and Audit
+
+Roche shall be entitled, upon reasonable notice and during FMI's regular business hours, to visit FMI's facility (and those facilities of its subcontractors), including FMI's CLIA-compliant   ***Confidential Treatment Requested***
+
+- 30 -
+
+
+
+
+
+facilities, to audit for quality assurance purposes its facilities, documentation and procedures used in conducting its activities pursuant to this Agreement. Such audits may be conducted up to […***…] and Roche shall use reasonable effort not to disrupt ongoing operations during such audits. FMI shall provide Roche with prompt notice of any governmental or regulatory review, audit or inspection of any of its facilities involved in the development of the Molecular Information Platform, Immunotherapy Testing Platform, ctDNA Platform, or CDx Assays, and all Products and Services resulting therefrom, and FMI's CLIA-compliant facilities. FMI shall provide Roche with (a) the results of any such review, audit or inspection (including a copy of the relevant sections of the report) to the extent such results pertain to any activities under this Agreement; and (b) the opportunity to provide assistance to FMI in responding to any such review, audit or inspection.
+
+  4. Diligence
+
+Roche and FMI shall use Commercially Reasonable Efforts to perform their respective activities contemplated by this Agreement.
+
+  5. Most Favored Customer
+
+FMI agrees that the pricing terms for Products and Services provided by FMI to Roche herein, and services provided under the Molecular Information Platform Program, are, and will be, at least as favorable as the pricing terms granted by FMI to any existing customer or collaborator for such (or substantially similar) products or services. If FMI enters into any subsequent agreement with another customer or collaborator which provides for pricing terms for substantially the same product or services at substantially the same (or a lesser) scale, which pricing terms are more favorable than those contained herein, then FMI shall notify Roche and Roche will have the right to modify this agreement to provide Roche with those more favorable pricing terms. […***…].
+
+  6. Governance
+
+6.1 Joint Management Committee
+
+Within sixty (60) days after the Effective Date, the Parties shall establish a JMC to ensure the smooth operation of the arrangements and activities envisaged under this Agreement.
+
+    6.1.1 Members
+
+The JMC shall be composed of six (6) persons ("Members"). Roche and FMI each shall be entitled to appoint three (3) Members with appropriate seniority and functional expertise. Each Party may replace any of its Members and appoint a person to fill the vacancy arising from each such replacement. A Party that replaces a Member shall notify the other Party at least ten (10) days prior to the next scheduled meeting of the JMC. Both Parties shall use reasonable efforts to keep an appropriate level of continuity in representation. Both Parties may invite a reasonable number of additional experts and/or advisors to attend part or the whole JMC meeting with prior notification to the JMC. Members may be represented at any meeting by another person designated by the absent Member. One JMC representative from a Party shall chair ("Chairperson") the JMC on a rotating annual calendar year basis, with the initial chairperson to be from Roche. The JMC will be made up of senior representatives from FMI and Roche, including alliance directors. The JMC may create and/or dissolve joint teams tasked with oversight of specific programs or projects, subject to overall governance by the JMC. The role of the alliance directors will be to facilitate communication and collaboration between the Parties.   ***Confidential Treatment Requested***
+
+- 31 -
+
+
+
+
+
+  6.1.2 Responsibilities of the JMC
+
+The JMC shall have the responsibility and authority to:
+
+a) approve the R&D Plans;
+
+b) establish, disband and set expectations and mandates for JRDC, JOC, JPT and JOTs, if applicable;
+
+c) oversee the JRDC, JOC, JPT and JOTs, if applicable;
+
+d) provide financial oversight for the Immunotherapy Testing Platform Development Program and the CDx Development Program; and
+
+e) attempt to resolve any disputes escalated from the JRDC or JOC.
+
+The JMC shall have no responsibility and authority other than that expressly set forth in this section.
+
+    6.1.3 Meetings
+
+The Chairperson or his/her delegate is responsible for sending invitations and agendas for all JMC meetings to all Members at least ten (10) days before the next scheduled meeting of the JMC. The venue for the meetings shall be agreed by the JMC. The JMC shall hold meetings at least twice per calendar year, either in person or by tele-/video-conference, and in any case as frequently as the Members of the JMC may agree shall be necessary, but not more than four times a year. The Alliance Director of each Party may attend the JMC meetings as a permanent participant.
+
+    6.1.4 Minutes
+
+The Chairperson is responsible for designating a Member to record in reasonable detail and circulate draft minutes of JMC meetings to all members of the JMC for comment and review within twenty (20) days after the relevant meeting. The Members of the JMC shall have ten (10) days to provide comments. The Party preparing the minutes shall incorporate timely received comments and distribute finalized minutes to all Members of the JMC within thirty-five (35) days of the relevant meeting. The Chairperson approves the final version of the minutes before its distribution.
+
+    6.1.5 Decisions
+
+  6.1.5.1 Decision Making Authority
+
+The JMC shall decide matters within its responsibilities set forth in Section 6.1.2.
+
+    6.1.5.2 ctDNA Platform
+
+FMI will have final decision-making rights at the JMC with respect to the ctDNA Platform Development, provided that FMI may not change the timelines agree in Section 8.4, and any change to the Roche specifications ("TPP") for a ctDNA Assay specifically requested by Roche as part of the R&D Plan will require Roche's prior approval.   - 32 -
+
+
+
+
+
+  6.1.5.3 Consensus; Good Faith
+
+The Members of the JMC shall act in good faith to cooperate with one another and seek agreement with respect to issues to be decided by the JMC. The Parties shall endeavor to make decisions by consensus with each Party having one (1) vote.
+
+    6.1.5.4 Failure to Reach Consensus
+
+If the JMC is unable to decide a matter by consensus, then the escalation procedure in Section 6.1.5.5 shall be applied.
+
+    6.1.5.5 Escalation
+
+If the JMC is unable to decide a matter by consensus, then such matter shall be referred to the Chief Executive Officer of FMI or equivalent position or his/her nominee and the Chief Executive Officer of Roche or equivalent position or his/her nominee for resolution, who together shall use reasonable and good faith efforts to reach a decision by consensus within […***…] after the date such matter is referred to them. If the Parties still fail to reach a decision within such […***…]. Any such decision shall constitute a decision of the JMC. Notwithstanding the foregoing, neither Party may exercise deciding authority (i) to impose resource or financial burdens on the other Party for a Work Stream beyond the scope set forth in an agreed upon R&D Plan for such Work Stream or Reserved Capacity under the Molecular Information Platform Program, or (ii) that would violate or amend the terms of this Agreement. The JMC will exist for the Agreement Term.
+
+    6.1.6 Information Exchange
+
+FMI and Roche shall exchange the information in relation to its activities under this Agreement through the JMC and FMI and Roche may ask reasonable questions in relation to the above information and offer advice in relation thereto and Roche shall give due consideration to FMI's input. The JMC may determine other routes of information exchange.
+
+    6.1.7 Subcommittees and Joint Operational Teams
+
+The JMC has the right to establish sub-committees or JOTs. The JRDC shall be established within thirty (30) days after the JMC is established. The JOC shall be established as soon as the JMC deems it necessary.
+
+  6.2 JRDC
+
+The JRDC shall oversee the implementation of the Work Streams and to more generally identify opportunities for value creation in research and development activities between the Parties. The JDRC shall be composed of an equal number of persons from each Party, each person having appropriate seniority and functional expertise. Each Party may replace any a person and appoint another person to fill the vacancy arising from each such replacement. The JRDC will strive to reach consensus on any matters within the committee's authority with each Party having one (1) vote. Unresolved dispute at the JRDC will be escalated to the JMC.
+
+    6.2.1 Responsibilities of the JRDC
+
+The JRDC shall have the responsibility and authority to:
+
+a) recommend the R&D Plans for approval by the JMC;
+
+b) review and recommend for approval any revisions to the R&D Plans;   ***Confidential Treatment Requested***
+
+- 33 -
+
+
+
+
+
+c) review and oversee the execution of the R&D Plans;
+
+d) establish timelines and criteria for decision points;
+
+e) determine whether criteria have been met, including whether the criteria as to whether milestones or events have been achieved;
+
+f) review the efforts of the Parties and allocate those resources for the R&D Plans (including their budgets);
+
+g) identify appropriate resources necessary to conduct the R&D Plans;
+
+h) oversee the progress of the Work Streams;
+
+j) monitor the development costs and manage reimbursement for FMI activities under this Agreement;
+
+k) determine for Products and Services Performance Specifications and identify Quality Standards applicable to respective Work Streams; and
+
+l) attempt to resolve any disputes.
+
+The JRDC shall have no responsibility and authority other than that expressly set forth in this section.
+
+  6.3 JOC
+
+The JOC shall plan and oversee the commercial, co-marketing, educational, and/or promotion activities between the Parties and to serve as a forum for communicating generally about FMI's products and strategies for global commercialization, as such activities are further described in the US Education Collaboration Agreement and the Ex-US Commercialization Agreement. The JOC shall be composed of an equal number of persons from each Party, each person having appropriate seniority and functional expertise. A description of the roles, responsibilities, and workings of the JOC are described in the Ex-US Commercialization Agreement. Through the JOC, Roche may share with FMI knowledge and experience related to countries and markets outside the United States, and will support the design and implementation of a global expansion plan for FMI products. The JOC will strive to reach consensus on any matters within the committee's authority, with each Party having one (1) vote. Unresolved disputes at the JOC will be escalated to the JMC.
+
+  6.4 Alliance Director
+
+Each Party shall appoint one person to be the point of contact within each Party with responsibility for facilitating communication and collaboration between the Parties (each, an "Alliance Director"). The Alliance Directors shall be permanent participants of the JMC meetings (but not members of the JMC) and may attend JDRC, JOC and JOT meetings as appropriate. The Alliance Directors shall facilitate resolution of potential and pending issues and potential disputes to enable the JMC to reach consensus and avert escalation of such issues or potential disputes.
+
+  6.5 Limitations of Authority
+
+No committee, working group or individual shall have the authority to amend or waive any terms of this Agreement.   - 34 -
+
+
+
+
+
+6.6 Expenses
+
+Each Party shall be responsible for its own expenses including travel and accommodation costs incurred in connection with the JMC.
+
+  6.7 Lifetime
+
+The JMC shall exist during the Agreement Term.
+
+  7. Regulatory
+
+Subject to the Related Agreements, FMI, […***…], shall use Commercially Reasonable Efforts to pursue all regulatory affairs related to its products and services developed under this Agreement (collectively, "Products and Services") in the Territory including the preparation, filing and maintenance of applications for regulatory approval, as well as any or all governmental approvals required to develop, have developed, make, have made, use, have used, manufacture, have manufactured, import, have imported, sell and have sold such Products and Services. Subject to the Related Agreements, FMI shall be responsible for pursuing, compiling and submitting all regulatory filing documentation, and for interacting with regulatory agencies, for all Products and Services in all countries in the Territory. Subject to the Related Agreements, FMI or its Affiliates shall own and file in their discretion all regulatory filings and Regulatory Approvals for all Products and Services in all countries of the Territory. FMI shall supply Roche with a copy of all material communications related to Products and Services to or from the Regulatory Authorities. Upon request of Roche, FMI shall supply Roche with a copy of all such communications to or from the Regulatory Authorities.
+
+Subject to the Ex-US Commercialization Agreement, FMI, […***…], shall report to appropriate Redulatory Authorities in accordance with local requirements all adverse events related to use of the Products and Services in the Territory.
+
+  8. Payment
+
+8.1 FTE Funding
+
+Roche will be responsible for funding the FTEs in accordance with the R&D Plans and budgets at the FTE Rate for performance of the research and other activities for which FMI is responsible under the R&D Plans and for the database queries. Each individual included in the funded FTEs shall possess a bachelor's degree or higher in a relevant scientific discipline and shall be experienced in the type of research or other activities to be performed by such individual under this agreement.
+
+  8.2 Molecular Information Platform Program Fees
+
+  8.2.1 Sample Profiling Fees
+
+  8.2.1.1 Reserved Capacity Fees
+
+In consideration for the Reserved Capacity and provision of the Sample Results associated with the Reserved Capacity, and subject to any reduction resulting from the application of Article 5, Roche shall pay to FMI an amount equal to […***…] for […***…] of the Profiling Term [… ***…] for the […***…] of the Profiling Term ("Reserved Capacity Fees"). The Reserved Capacity Fees are paid as follows:
+
+[…***…] equal installments of […***…] payable within […***…] of receipt by Roche of an invoice from FMI, beginning with receipt by Roche of a first invoice from FMI issued following the Effective Date and followed by […***…] additional invoices at […***…] intervals thereafter.   ***Confidential Treatment Requested***
+
+- 35 -
+
+
+
+
+
+[…***…] equal installments of […***…] payable within […***…] of receipt by Roche of an invoice from FMI, beginning […***…] of the Effective Date and followed by […***…] additional invoices at […***…] intervals thereafter.
+
+For renewal terms, the agreed upon Reserved Capacity Fee shall be paid within […***…] of receipt by Roche of an invoice from FMI at […***…] intervals.
+
+The Reserved Capacity Fee payments shall be […***…] against Roche's Binding Order for such period, the amount of the Reserved Capacity Fee being […***…]. Actual Sample Profiling costs, based on delivery of Sample Results during the […***…] to which the Reserved Capacity Fee applies, shall be […***…]. If actual Sample Profiling exceeds the amount of Sample Profiling paid by the Reserved Capacity Fees, then […***…]. Roche shall pay FMI for […***…]. If a Binding Order causes Roche to […***…]. Fees for Binding Orders shall […***…].
+
+    8.2.1.2 Per Sample Profiling Fees
+
+The per Sample Profiling fees (notwithstanding the Reserved Capacity Fee) shall be as follows:
+
+[…***…].
+
+    8.2.2 Molecular Information Database Access and Database Queries Fees
+
+For Molecular Information Database Access and performance of Database Queries by FMI, Roche will pay FMI a total of […***…] of the Database Term, (the "Database Access Fee"), which is comprised of funding for […***…] FTEs, each at the FTE Rate, for performance of such Database Queries and delivery of Database Insights, and a Database Access Fee of […***…]. Roche shall pay to FMI the Database Access Fee […***…] installments of […***…], each payable every […***…] of the Database term and within […***…] after receipt by Roche of an invoice from FMI.
+
+  8.3 Immunotherapy Testing Platform Development Budget and Fees
+
+  8.3.1 R&D Plan Budget
+
+Roche shall be solely responsible for Roche's costs under the Immunotherapy Testing Platform Development Budget.
+
+Roche will pay FMI […***…] of FMI Development Cost as agreed in the Immunotherapy Testing Platform Budget for development of the Immuno- Biomarker Discovery Platform.
+
+Roche will pay […***…] of FMI Development Cost as agreed in the Immunotherapy Testing Platform Budget for Signature Identification.   ***Confidential Treatment Requested***
+
+- 36 -
+
+
+
+
+
+Such reimbursement of FMI Development Cost shall be paid […***…] in arrears. Each […***…], FMI shall invoice Roche for its share of FMI Development Cost incurred in the previous […***…]. Invoices shall be payable within […***…] after receipt by Roche of an invoice from FMI.
+
+    8.3.2 Payments for Achieving Certain Immunotherapy Testing Platform Development Events
+
+In addition to payment of the Immunotherapy Testing Platform Development Budget as specified above, Roche shall pay FMI:
+
+  (i) […***…] on Initiation of the first Roche Clinical Study utilizing a Clinical Study assay, […***…].
+
+  (ii) […***…] on Initiation of the first Roche Clinical Study utilizing a Clinical Study assay, […***…].
+
+  (iii) […***…] on Initiation of the first Roche Clinical Study utilizing a Clinical Study assay, […***…].
+
+    8.3.3 Immuno Clinical Study Assays requested by Roche
+
+Roche will pay […***…] of FMI's Development Costs for development of Immuno Clinical Study Assays as may be requested by Roche, subject to an agreed upon budget for such development as provided for in Section 3.2.5.
+
+    8.3.4 Immunotherapy CDx Assays
+
+If the Parties chose to develop an Immunotherapy CDx Assay, they the Parties shall agree to Roche paying certain costs and milestones for such Immunotherapy CDx assay.
+
+  8.4 ctDNA Platform Financial Terms
+
+FMI will be responsible for all FMI Development Cost for the ctDNA Platform Development. As part of the agreed upon ctDNA R&D Plan, FMI will provide sample testing performed under such ctDNA R&D Plan at no cost to Roche (other than Roche's cost in supplying FMI the Samples specified in the ctDNA R&D Plan).
+
+Roche will pay FMI […***…] if FMI successfully […***…] set forth in the R&D Plan ("Initial Roche ctDNA Assay") within […***…] from [… ***…] (the "First ctDNA Milestone Date"). Payment by Roche shall be made within […***…] after achieving the First ctDNA Milestone Date and the receipt by Roche of an invoice from FMI.
+
+In addition, Roche will pay FMI […***…] if FMI successfully […***…] as agreed to in the R&D Plan; provided that […***…] (the "Second ctDNA Milestone Date"). Payment by Roche shall be made within […***…] after achieving the Second ctDNA Milestone Date and the receipt by Roche of an invoice from FMI.
+
+The Parties may develop additional ctDNA Assays for use as Clinical Study assays, subject to an agreed financial structure for such work under the R&D Plan. Such additional development work will be conducted, if at all, pursuant to an amendment to this Agreement or a separate written agreement between the Parties.   ***Confidential Treatment Requested***
+
+- 37 -
+
+
+
+
+
+8.5 CDx Development Financial Terms
+
+  8.5.1 CDx Development Costs
+
+Roche shall pay FMI […***…] of FMI Development Cost for CDx Development of Investigational markers in compliance with the investigational CDx budget that forms part of the R&D Plan.
+
+FMI shall pay […***…] of the FMI Development Cost for Approved Markers.
+
+Such reimbursement of FMI Development Cost shall be paid […***…] in arrears. Each […***…], FMI shall invoice Roche for its share of the FMI Development Cost incurred in the […***…]. Invoices shall be payable within […***…] after receipt by Roche of an invoice from FMI.
+
+    8.5.2 PMA Event Payments
+
+For each PMA approval corresponding to a Roche product, Roche shall pay FMI […***…], within […***…] after the occurrence of such event and receipt by Roche of an invoice from FMI.
+
+    8.5.3 Commercial Success Event Payments
+
+Roche shall pay FMI the following milestone payments upon achievement of CDx Assay report volumes by tissue type within the first […***…] after […***…] of the associated CDx Assay as specified below:
+
+  (i) CDx Assays Including Investigational/Approved Marker(s) for […***…]:
+
+    […***…].
+
+  (ii) CDx Assays Including Investigational/Approved Marker(s) for […***…]:
+
+    […***…].
+
+Upon achievement of each of the CDx Assay volumes under this Section 8.5.3, FMI shall timely notify Roche and payment shall be made by Roche within […***…] after achieving the applicable event and the receipt by Roche of an invoice from FMI.
+
+In the event the Parties wish to develop another CDx Assay other than those specified above for […***…] and […***…] pursuant to a CDx R&D Plan, the Parties shall mutually agree to […***…] milestones and payments for achieving them.
+
+  8.6 General Terms
+
+All rates and costs set forth herein shall remain firm for the Agreement Term and the services to be performed under each Work Stream, unless otherwise agreed to in writing, shall be at the FTE Rate. FMI has an affirmative obligation to use Commercially Reasonable Efforts to negotiate favorable terms for all FMI Development Cost that will be passed through FMI to Roche. FMI shall extend to Roche the benefit of any and all discounts and savings provided to FMI in connection with FMI Development Cost that will be passed through to Roche. Roche shall […***…], any amounts in excess of the agreed upon budget.   ***Confidential Treatment Requested***
+
+- 38 -
+
+
+
+
+
+8.7 Disclosure of Payments
+
+FMI acknowledges that Roche may be obligated to disclose this financial arrangement, including all fees, payments and transfers of value, as may be advisable or required under Applicable Law, including the US Sunshine Act.
+
+  9. Accounting and reporting
+
+9.1 Timing of Payments
+
+Payments shall be made during the time periods set forth in this Agreement. If not stated explicitly, payments shall be made by Roche within [… ***…] after Roche receives an invoice from FMI.
+
+  9.2 Late Payment
+
+Any payment under this Agreement that is not paid on or before the date such payment is due shall bear interest, to the extent permitted by Applicable Law, at […***…] points above the average one-month Euro Interbank Offered Rate (EURIBOR), as reported by Reuters from time to time, calculated on the number of days such payment is overdue.
+
+  9.3 Method of Payment
+
+All amounts payable hereunder shall be paid in US dollars (the "Payment Currency") to account(s) designated by FMI.
+
+  10. Taxes
+
+FMI shall pay all sales, turnover, income, revenue, value added, and other taxes levied on account of any payments accruing or made to FMI under this Agreement.
+
+If provision is made in law or regulation of any country for withholding of taxes of any type, levies or other charges with respect to any royalty or other amounts payable under this Agreement to FMI, then Roche or its relevant Affiliates shall promptly pay such tax, levy or charge for and on behalf of FMI to the proper governmental authority, and shall promptly furnish FMI with receipt of payment. Roche shall be entitled to deduct any such tax, levy or charge actually paid from royalty or other payment due FMI or be promptly reimbursed by FMI if no further payments are due FMI. Each Party agrees to reasonably assist the other Party in claiming exemption from such deductions or withholdings under double taxation or similar agreement or treaty from time to time in force and in minimizing the amount required to be so withheld or deducted.   ***Confidential Treatment Requested***
+
+- 39 -
+
+
+
+
+
+It is understood between the Parties that the agreed upon and/or applied remunerations and other payments under this Agreement for all transactions between (a) FMI and (b) Roche are based on arm's length and good faith considerations. Should such remunerations for products and services or other payments nevertheless be challenged by any Governmental Authority including any tax authority in the US, or in Switzerland or other jurisdiction of Roche or its relevant Affiliates ("Roche's Jurisdiction"):
+
+
+
+(a) FMI and Roche or its relevant Affiliates shall fully co-operate with each other with the objective to convince the challenging authority that such remunerations for products and services and other payments are appropriate, including providing each other with copies of third party agreements if necessary to utilize as comparables to support the arm's length nature of transactions between FMI and Roche. In the event that the challenging authority is not convinced, the Parties shall request that the tax authorities in the US and in Roche's Jurisdiction initiate government-to-government procedures pursuant to the applicable bi- lateral convention for the avoidance of double taxation or similar treaty or convention (if any) between the US and Roche's Jurisdiction ("Competent Authority Procedures").
+
+
+
+(b) In the event that the US tax authorities determine that such remunerations for products and services or other payments are not appropriate and levy an assessment on FMI, and such assessment results in a refund (or similar payment or credit) by or from the tax authorities in Roche's Jurisdiction to Roche or its relevant Affiliate, then Roche shall pay (or shall ensure that Roche shall pay) the amount of such refund to FMI. In the event that the tax authorities in Roche's Jurisdiction determine that such remunerations for products and services or other payments are not appropriate and levy an assessment on Roche, and such assessment results in a refund (or similar payment or credit) by or from the US tax authorities to FMI then FMI shall pay (or shall ensure that FMI shall pay) the amount of such refund to Roche. Each Party shall use its reasonable efforts to obtain such refund (or similar payment or credit).
+
+  (c) In the event of such an assessment by either tax authority (an "Assessment"), the Parties agree to making adjustments to the relevant remunerations for products and services or other payments to levels agreed to by the tax authorities in both the US and Roche's Jurisdiction as the result of Competent Authority Procedures.
+
+  11. Auditing
+
+11.1 Right to Audit
+
+Each Party shall keep, and shall require its Affiliates and Sublicensees to keep, full, true and accurate books of account containing all particulars that may be necessary for the purpose of calculating all payments payable under this Agreement, including, for Roche, the right to audit materials necessary to ensure compliance with the most favored customer provisions of Article 5. Such books of accounts shall be kept at their principal place of business. At the expense of the auditing Party, the auditing Party shall have the right to engage an internationally recognized, independent public accountant reasonably accept able to the other Party to perform, on behalf of such Party an audit of such books and records of the audited Party and its Affiliates, its licensees and Sublicensees, that are deemed necessary for the period or periods requested by the auditing Party and the correctness of any financial report or payments made under this Agreement, including with respect to benefits and terms complying with the most favored   - 40 -
+
+
+
+
+
+customer provisions of Article 5. For avoidance of doubt, all audits under this Section shall be conducted solely by an independent public accountant as described in the foregoing sentence.
+
+Upon timely request and at least […***…] prior written notice from the auditing Party, such audit shall be conducted in the countries specifically requested by the auditing Party, during regular business hours in such a manner as to not unnecessarily interfere with the audited Party's normal business activities, and shall be limited to results in the […***…] prior to audit notification.
+
+Such audit shall not be performed more frequently than […***…] nor more frequently than […***…] with respect to records covering, or impacting in accordance with Article 5, any specific period of time.
+
+All information, data documents and abstracts herein referred to shall be used only for the purpose of verifying payment obligations, shall be treated as the audited Party's Confidential Information subject to the obligations of this Agreement and need neither be retained more than [… ***…] after completion of an audit hereof, if an audit has been requested; nor more than […***…] from the end of the […***…] to which each shall pertain; nor more than […***…] after the date of termination of this Agreement.
+
+  11.2 Audit Reports
+
+The auditors shall only state factual findings in the audit reports and shall not interpret the agreement. The auditors shall share all draft audit reports with the auditing Party before the draft report is shared with the audited Party and before the final document is issued. The final audit report shall be shared with the auditing Party at the same time it is shared with the audited Party.
+
+  11.3 Over or Underpayment
+
+If the audit reveals an overpayment by Roche, FMI shall reimburse Roche for the amount of the overpayment within […***…]. If the audit reveals an underpayment by Roche, Roche shall make up such underpayment with the next payment or, if no further payments are owed by Roche, Roche shall reimburse FMI for the amount of the underpayment within […***…]. The audited Party shall pay for the audit costs if the underpayment of the audited Party exceeds […***…] of the aggregate amount of royalty payments owed with regard to the period subject of the audit. Section 9.2 shall apply to this Section 11.3.
+
+  11.4 Duration of Audit Rights
+
+The failure of a Party to request verification of any calculation within the period during which corresponding records must be maintained under this Article 11 will be deemed to be acceptance of the payments and reports.
+
+  12. Intellectual Property
+
+12.1 Ownership of Inventions, data and results
+
+  12.1.1 In General
+
+Except as specifically set forth herein, FMI shall own all FMI Inventions, Roche shall own all Roche Inventions, and FMI and Roche shall jointly own all Joint Inventions. FMI and Roche each shall require all of its employees to assign all inventions related to Products and Services made by them to Roche and FMI, as the case may be.   ***Confidential Treatment Requested***
+
+- 41 -
+
+
+
+
+
+The determination of ownership of Inventions shall be determined in accordance with US inventorship laws as if such Inventions were made in the US.
+
+Except as otherwise expressly set forth herein, each Party shall retain full ownership and control of, and all rights in, its Background IP and any improvements or modifications thereto ("Roche Improvement IP" and "FMI Improvement IP" respectively). Roche Improvement IP shall mean any improvements or modifications to Roche's Background IP discovered, conceived or reduced to practice after the Effective Date in the performance of activities under this Agreement. FMI Improvement IP shall mean any improvements or modifications to FMI's Background IP discovered, conceived or reduced to practice after the Effective Date in the performance of activities under this Agreement. All materials, information, data and writings provided to FMI by or on behalf of Roche, in any form whatsoever, which were Controlled by Roche prior to being provided to FMI, shall remain the property of Roche; FMI shall acquire no right, title or interest in such materials, information, data and writings as the result of its activities under this Agreement.
+
+Except as specifically set forth herein, this Agreement shall not be construed, by implication, necessity or otherwise as (i) giving any of the Parties any license, right, title, interest in or ownership to the Confidential Information; (ii) granting any license or right under any intellectual property rights; or (iii) representing any commitment by either Party to enter into any additional agreement.
+
+    12.1.2 For the Molecular Information Platform Program
+
+Subject to the license granted to FMI under Section 2.1.2, Roche shall exclusively own all right title and interest to any information, results, and intellectual property from any Clinical Study undertaken or supported by Roche, including, without limitation, the Sample Results and information and results from any Sample Profiling. FMI shall assign to Roche its rights to any intellectual property in or arising from the Sample Results (except for FMI Improvements).
+
+Except as otherwise set forth herein, FMI shall exclusively own all right, title, and interest to any improvements or modifications to the FMI Genomic Analysis Platform that arise in connection with the performance of the work under the Molecular Information Platform Program.
+
+Roche shall exclusively own all information, results, and intellectual property from Advanced Genomic Analyses performed on Roche samples ("Roche-Owned Advanced Genomic Analysis Results"), and any inventions arising from the Roche-Owned Advanced Genomic Analysis Results, and FMI will assign all rights to any such inventions to Roche (except for FMI Improvements).
+
+    12.1.3 For the Immunotherapy Testing Platform Program
+
+Subject to the license granted to FMI under Section 2.1.3, Roche shall exclusively own all data, results, and intellectual property therein arising from profiling samples provided by Roche to FMI for testing in the Immunotherapy Testing Platform Development (except for FMI Improvements) ("Roche Immunotherapy Sample Results"), and FMI shall assign to Roche all such intellectual property. FMI shall not disclose Roche Immunotherapy Sample Results to third parties or use such results in work with Third Parties.   - 42 -
+
+
+
+
+
+Roche shall exclusively own, and FMI shall assign to Roche, all intellectual property arising from the Immunotherapy Testing Platform Development that Covers methods of treatment, stratifying patients, or identifying patients that would benefit from a particular treatment, and all other methods useful in connection with the therapeutic treatment of a patient.
+
+To the extent third-party intellectual property must be licensed for the Immunotherapy Testing Platform Development, Roche and FMI shall jointly decide on an appropriate in-licensing strategy and negotiate a fair cost sharing between the Parties in good faith; provided however, that FMI shall retain the right to take such a license at its own cost on such terms as it shall determine if the Parties cannot reach a timely agreement on how to proceed.
+
+    12.1.4 For the ctDNA Program
+
+Subject to the license granted to FMI under Section 2.1.4, Roche shall exclusively own all data, results, and intellectual property arising from the profiling of Roche samples in the ctDNA Platform Development Program ("Roche ctDNA Sample Results"). FMI shall not disclose Roche ctDNA Sample Results to third parties or use such results in work with third parties.
+
+    12.1.5 For the CDx Development Program
+
+Subject to the license granted to Roche under Section 2.1.5, FMI shall exclusively own all intellectual property arising from the CDx Development that Covers the CDx Assays ("FMI CDx IP").
+
+Roche shall exclusively own all data, results, and intellectual property arising from analysis of its samples in the relevant CDx Development as well as all intellectual property arising from the CDx Development Program to the extent that it is reasonably related to or Covers the relevant Roche product including the use, formulation, and methods of treatment for the relevant Roche product ("Roche CDx Development IP").
+
+To the extent third-party intellectual property must be licensed for the Investigational CDx Development or commercialization of the Investigational CDx Assays, Roche and FMI shall jointly decide on an appropriate in-licensing strategy and negotiate a fair cost sharing between the Parties in good faith.
+
+  12.2 German Statute on Employee's Inventions
+
+In accordance with the German Statute on Employees' Inventions, each Party agrees to claim the unlimited use of any Invention conceived, reduced to practice, developed, made or created in the performance of, or as a result of, any Research Program by employees of any German Affiliates or any other persons acting on behalf of such German Affiliates. For the avoidance of doubt, each Party is responsible for fulfilling the obligations towards their employees under the German Statute of Employee's Inventions.
+
+  12.3 Prosecution and Maintenance of Patent Rights Claiming FMI Inventions
+
+FMI shall, at its own expense and discretion, (i) control and Handle all FMI Foreground Patent Rights, (ii) consult with Roche as to the Handling of such FMI Foreground Patent Rights, and (iii) furnish to Roche copies of all material documents relevant to any such Handling. FMI shall furnish such documents and consult with Roche in sufficient time before any action by FMI is due to allow Roche to provide comments thereon, which comments FMI must consider. At FMI's
+
+- 43 -
+
+
+
+
+
+expense and reasonable request, Roche shall cooperate, in all reasonable ways with the Handling of all FMI Foreground Patent Rights. If FMI elects not to Handle any FMI Foreground Patent Rights under this Section 12.3, then FMI shall provide at least […***…] prior written notice to Roche. Thereafter, Roche shall have the right, but not the obligation to Handle any such notified FMI Foreground Patent Rights, at its sole expense and its sole discretion. Notwithstanding the foregoing, and for clarity, FMI shall have no obligations to Roche under this Section 12.3 in regard to FMI Foreground Patent Rights relating to the Genomic Analysis Platform or the Molecular Information Database (including, without limitation, methods, procedures, and algorithms related to or embodied in each) that do not incorporate or rely on the continued use of Roche Confidential Information.
+
+  12.4 Prosecution and Maintenance of Roche Foreground Patent Rights and Joint Patent Rights
+
+Roche shall, at its own expense and discretion, control and Handle (including abandon) all Roche Foreground Patent Rights and Joint Patent Rights. If Roche elects not to Handle any Patent Rights under this Section 12.4, then Roche shall provide at least […***…] prior written notice to FMI. Thereafter, FMI shall have the right, but not the obligation to Handle any such notified Patent Rights, at its sole expense and its sole discretion.
+
+  12.5 Joint Patent Team
+
+Where the Parties need to consult with each other on the Handling of Patent Rights, the Parties shall establish a joint patent team ("JPT") and shall adopt procedures for interacting on patent matters. The JPT shall be subject to the oversight of the JMC. The JPT shall also serve as a forum for promptly notifying the other Party when an Invention is made by a Party.
+
+  12.6 CREATE Act
+
+It is the intention of the Parties that this Agreement is a "joint research agreement" as that phrase is defined in Public Law 108-53 ("Create Act") and applied in 35 USC §103(c)(3). If either Party intends to overcome a rejection of a claimed invention within the FMI Foreground Patent Rights or Roche Foreground Patent Rights pursuant to the provisions of the Create Act, then the Parties, through the JPT, shall work together in good faith to agree in writing how any rejection should be overcome.
+
+  12.7 Infringement
+
+Each Party shall promptly provide written notice to the other Party during the Agreement Term of any (i) known infringement or suspected infringement by a Third Party of any FMI Background Patent Rights, FMI Foreground Patent Rights, Roche Background Patent Rights, Roche Foreground Patent Rights or Joint Patent Rights, or (ii) known or suspected unauthorized use or misappropriation by a Third Party of any FMI Background Know-How, FMI Know-How, Roche Background Know-How, Roche Know-How or Joint Know-How, and shall provide the other Party with all evidence in its possession supporting such infringement or unauthorized use or misappropriation.
+
+Within […***…] after a Party provides or receives such written notice ("Decision Period"), the Party Handling enforcement of such Patent Right as set forth in this Section 2.7, in its sole discretion, shall decide whether or not to initiate such suit or action in the Territory and shall notify the other Party in writing of its decision in writing ("Suit Notice").   ***Confidential Treatment Requested***
+
+- 44 -
+
+
+
+
+
+For any FMI Background Patent Right or sole FMI Patent Right, FMI in its sole discretion shall decide whether or not to initiate such suit or action in the Territory. FMI shall have full discretion as to how it wishes to handle such suit and may reach Settlement under any terms and conditions it desires and retain all damages, settlement fees or other consideration received in connection therewith. Only if a Settlement could adversely affect Roche shall the written consent of Roche be required, which consent shall not be unreasonably withheld. The term "adversely affect" in the previous sentence shall include, among other things, […***…].
+
+For any sole Roche Background Patent Right or Roche Patent Right, Roche, in its sole discretion, shall decide whether or not to initiate such suit or action in the Territory. Roche shall have full discretion as to how it wishes to handle such suit and may reach Settlement under any terms and conditions it desires and retain all damages, settlement fees or other consideration received in connection therewith. Only if a Settlement could adversely affect FMI shall the written consent of FMI be required, which consent shall not be unreasonably withheld.
+
+If for a Joint Patent Right, Roche decides to bring a suit or take action, once Roche provides Suit Notice, Roche may immediately commence such suit or take such action. In the event that Roche (i) does not in writing advise FMI within the Decision Period that Roche will commence suit or take action, or (ii) fails to commence suit or take action within a reasonable time after providing Suit Notice, FMI shall thereafter have the right to commence suit or take action in the Territory and shall provide written notice Roche of any such suit commenced or action taken by FMI.
+
+Upon written request, the Party bringing suit or taking action ("Initiating Party") shall keep the other Party informed of the status of any such suit or action and shall provide the other Party with copies, to the extent the Initiating Party is lawfully permitted to do so, of all material documents or communications filed in such suit or action. The Initiating Party shall have the sole and exclusive right to select counsel for any such suit or action.
+
+The Initiating Party shall, except as provided below, pay all expenses of the suit or action, including the Initiating Party's attorneys' fees and court costs. Any damages, settlement fees or other consideration received as a result of such suit or action shall be allocated as follows:
+
+(a) First, to reimburse the Initiating Party for its costs and, if any remains, to the other Party for any advisory counsel fees and costs; and
+
+(b) Second, the balance, if any, shall be allocated […***…].
+
+If the Initiating Party believes it is reasonably necessary or desirable to obtain an effective remedy, upon written request the other Party agrees to be joined as a party to the suit or action but shall be under no obligation to participate except to the extent that such participation is required as the result of its being a named party to the suit or action. At the Initiating Party's written request, the other Party shall offer reasonable assistance to the Initiating Party in connection therewith at no charge to the Initiating Party except for reimbursement of reasonable out-of-pocket expenses incurred by the other Party in rendering such assistance. The other Party shall have the right to participate and be represented in any such suit or action by its own counsel at its own expense.
+
+The Initiating Party may settle, consent judgment or otherwise voluntarily dispose of the suit or action ("Settlement") without the written consent of the other Party but only if such Settlement can be achieved without adversely affecting the other Party (including any of its Patent Rights). If a Settlement could adversely affect the other Party, then the written consent of the other Party would be required, which consent shall not be unreasonably withheld.   ***Confidential Treatment Requested***
+
+- 45 -
+
+
+
+
+
+12.8 Defense
+
+If an action for infringement is commenced against either Party, its licensees or its sublicensees related to such Party's conduct of a Work Stream within the scope of an R&D Plan then such Party shall defend such action at its own expense, and the other Party shall assist and cooperate with such Party, at its own expense, to the extent necessary in the defense of such suit. The defending Party shall have the right to settle the suit or consent to an adverse judgment thereto, in its sole discretion, so long as such settlement or adverse judgment does not adversely affect the rights of the other Party and its Affiliates (including any patent rights Controlled by any of them). The defending Party shall assume full responsibility for the payment of any award for damages, or any amount due pursuant to any settlement entered into by it with such Third Party.
+
+If the manufacture, use, importation, offer for sale or sale of any Products and Services results in any claim, suit or proceeding alleging patent infringement or trade secret misappropriation against FMI or a member of the Roche Group, then such Party shall promptly notify the other Party hereto. The Parties shall cooperate with each other in connection with any such claim, suit or proceeding and shall keep each other reasonably informed of all material developments in connection with any such claim, suit or proceeding.
+
+If a Third Party asserts that Patent Rights owned by or licensed to it are infringed by the development, manufacture, use, importation, offer for sale or sale of products arising out of this Agreement by a member of the Roche Group, or that its trade secrets were misappropriated in connection with such activity, then Roche shall have the exclusive right and responsibility to resolve any such claim, whether by obtaining a license from such Third Party, by defending against such Third Party's claims or otherwise, and shall be solely responsible for the defense of any such action, any and all costs incurred in connection with such action (including, without limitation, attorneys' and expert fees) and all liabilities incurred in connection therewith. Notwithstanding the above, Roche shall not enter into any settlement of any such claim without the prior written consent of FMI if such settlement would require FMI to be subject to an injunction or to make any monetary payment to Roche or any Third Party, or admit any wrongful conduct by FMI or its Affiliates, or would limit or restrict the claims of or admit any invalidity and/or unenforceability of any of the Patent Rights Controlled by FMI, or have any impact on activities outside the Field.
+
+  12.9 Common Interest Disclosures
+
+With regard to any information or opinions disclosed pursuant to this Agreement by one Party to each other regarding intellectual property and/or technology owned by Third Parties, the Parties agree that they have a common legal interest in determining whether, and to what extent, Third Party intellectual property rights may affect the conduct of the Work Streams and/or Products and Services, and have a further common legal interest in defending against any actual or prospective Third Party claims based on allegations of misuse or infringement of intellectual property rights relating to the conduct of the Work Streams and/or Products and Services. Accordingly, the Parties agree that all such information and materials obtained by FMI and Roche from each other will be used solely for purposes of the Parties' common legal interests with respect to the conduct of the Agreement. All information and materials will be treated as protected by the attorney-client privilege, the work product privilege, and any other privilege or   - 46 -
+
+
+
+
+
+immunity that may otherwise be applicable. By sharing any such information and materials, neither Party intends to waive or limit any privilege or immunity that may apply to the shared information and materials. Neither Party shall have the authority to waive any privilege or immunity on behalf of the other Party without such other Party's prior written consent, nor shall the waiver of privilege or immunity resulting from the conduct of one Party be deemed to apply against any other Party.
+
+  13. Representations and Warranties
+
+13.1 Mutual Representations and Warranties
+
+FMI and Roche each represent and warrant that:
+
+(a) it has all requisite power and authority to enter into and perform its obligations under this Agreement;
+
+(b) it has no outstanding agreement or obligation that is in conflict with any of the provisions of this Agreement or that would preclude its personnel from complying with the provisions hereof;
+
+(c) all of its employees, officers and consultants have executed agreements requiring assignment to it of all Inventions made by such individuals during the course of and as a result of their participation in activities under this Agreement;
+
+(d) the execution, delivery and performance of this Agreement by it and all instruments and documents to be delivered by it hereunder: (i) are within its corporate power; (ii) have been duly authorized by all necessary or proper corporate action; (iii) are not in contravention of any provision of any of its formation or governing documents; (iv) to its knowledge, will not violate any law or regulation or any order or decree of any court of governmental instrumentality; (v) will not violate the terms of any indenture, mortgage, deed of trust, lease, agreement, or other instrument to which it is a party or by which it or any of its property is bound, which violation would have an adverse effect on its financial condition or on its ability to perform its obligations hereunder; and (vi) do not require any filing or registration with, or the consent or approval of, any governmental body, agency, authority or any other person, which has not been made or obtained previously (other than approvals required under the HSR Act, Regulatory Approvals required for the sale of Products and filings with Regulatory Authorities required in connection with Products);
+
+(e) there are no claims or investigations (other than with respect to the Parties' HSR filings), pending or threatened against it or any of its Affiliates, at law or in equity, or before or by any governmental authority relating to the matters contemplated under this Agreement or that would materially adversely affect its ability to perform its obligations hereunder; and
+
+(f) neither it nor any of its Affiliates is or will be under any obligation to any person, contractual or otherwise, that is conflicting with the terms of this Agreement or that would impede the fulfillment of its obligations hereunder.   - 47 -
+
+
+
+
+
+13.2 Activities
+
+Each Party will perform all activities under this Agreement (i) in a professional manner, (ii) in conformance with the level or care and skill ordinarily exercised by other professional institutions in similar circumstances, and (iii) in compliance with Applicable Law.
+
+  13.3 Safety Data
+
+FMI represents and warrants that FMI has disclosed to Roche and will immediately continue to disclose to Roche any relevant safety data relevant to the Work Streams and assays being developed thereunder.
+
+  13.4 Third Party Patent Rights
+
+FMI represents and warrants that FMI has no knowledge of the existence of any patent or patent application owned by or licensed to any Third Party that could prevent in the Territory the activities contemplated under this Agreement.
+
+  13.5 Inventors
+
+FMI represents and warrants that FMI has obtained the assignment of, or a license under, the FMI Background Patent Rights necessary to grant the licenses granted hereunder. FMI shall obtain the assignment of, or a license under, the FMI Foreground Patent Rights necessary to grant the licenses granted hereunder.
+
+  13.6 Grants
+
+FMI represents and warrants that, to the best of FMI's knowledge and belief, FMI has the lawful right to grant Roche and its Affiliates the rights and licenses described in this Agreement.
+
+  13.7 Ownership and Validity of Know-How
+
+FMI represents and warrants that FMI's Know-How is legitimately in the possession of FMI and has not been misappropriated from any Third Party. FMI has taken reasonable measures to protect the confidentiality of its Know-How.
+
+  13.8 Data Protection (Privacy) and Security.
+
+  13.8.1 Study Data Collection
+
+FMI shall collect and process Study Data in accordance with the provisions of this Agreement and in compliance with Applicable Law with respect to the processing of Study Data, including but not limited to applicable international, US federal, state and local data protection and data security laws.
+
+    13.8.2 Data Protection
+
+To ensure the privacy and security of the health or medical data, including Study Data or other Personal Data related to this Agreement that FMI shall create, acquire, receive, maintain, or transmit as a result of entering into the Agreement, FMI shall implement adequate and reasonable safeguards to prevent the use or disclosure of such information other than as provided for in the Agreement, and to protect the confidentiality, integrity, and availability of such information. In addition, FMI shall protect all such data, in accordance with applicable international Data Protection laws and US federal and state laws and regulations.   - 48 -
+
+
+
+
+
+  13.8.3 Privacy
+
+FMI understands and agrees that the confidentiality, privacy and security requirements contained in this Agreement also apply to any permitted sub-contractors, temporary employees or other third-parties who receive any health or medical data, including Study Data, or other Personal Data, as a result of this Agreement. FMI will ensure that all of these parties enter substantially similar confidentiality, privacy and security agreements with Institution. Copies of such Agreements shall be provided to Roche within seven (7) business days upon written request of Roche.
+
+    13.8.4 Training
+
+FMI shall also ensure that its own employees, as well as any permitted subcontractors, temporary employees or other Third Parties who assist FMI in performing activities under the Agreement, and who have access to any health or medical data, including Study Data or other Personal Data, as a result of this Agreement receive appropriate privacy and security training, which shall be updated periodically in accordance with applicable laws, regulations, and industry standard, or as otherwise reasonably requested by Roche.
+
+    13.8.5 Processing of Study Data
+
+FMI, its Affiliates and agents shall not collect or process health or medical data, including Study Data or any other Personal Data related to this Agreement, in a manner that involves the transfer of such Personal Data from one jurisdiction to any other jurisdiction (the EEA constituting a single jurisdiction for this purpose), without prior written consent of Roche.
+
+    13.8.6 Compliance
+
+FMI undertakes to comply with its obligations (if any) under applicable legislation to notify any supervisory authority of its collection and processing activities under this Agreement and further agrees to take all such steps as Roche may reasonably require from time to time in order to enable Roche to comply with any notification obligation applicable to Roche.
+
+    13.8.7 Data Collection
+
+FMI will ensure that it does not collect any health or medical data, including Study Data, relating to individuals other than the categories of data specified in the protocol identified in the applicable Task Order and will collect and process Study Data for the sole purpose of the study identified in the applicable Task Order and not further process such data in any other manner.
+
+    13.8.8 Disclosure
+
+FMI will not disclose health or medical data, including Study Data or any other Personal Data related to this Agreement to any Third Party outside of the requirements of this Agreement without the prior permission in writing of Roche, except where such disclosure is required by any applicable law, regulation or supervisory authority, in which case the Institution will, wherever possible, notify Roche prior to complying with any such request for disclosure and shall comply with all reasonable directions of Roche with respect to such disclosure.   - 49 -
+
+
+
+
+
+  13.8.9 Document Retention
+
+FMI will have appropriate procedures in place for the destruction or purging of any medical or health data, including Study Data and any other Personal Data, related to this Agreement when the retention time that applies to the data has been reached.
+
+    13.8.10 Procedures
+
+FMI shall ensure that it has appropriate procedures in place to fulfill applicable International Data Protection laws and US federal and state or other legal requirements, should an individual request access to or changes to the health or medical data, including Study Data or any Personal Data related to this Agreement, maintained by Institution. Institution will notify Roche promptly (and in any event within […***…] after receipt) of any communication received from a Data Subject relating to the Data Subject a right to access, modify or correct Study Data and to comply with all instructions of Roche in responding to such communications.
+
+    13.8.11 Survival
+
+FMI's obligations to maintain privacy and security over medical or health data, including Study Data and other Personal Data received pursuant to this Agreement, will survive the termination or expiration of this Agreement.
+
+    13.8.12 Security Breach
+
+At any time during the processing of Persona Data, FMI shall notify Roche immediately (but no later than […***…] from the date) of any Data Security Breach involving Roche data. FMI shall assist and cooperate with Roche concerning any disclosures to affected parties, government or regulatory agencies and with any other remedial measures requested by Roche or mandated by Applicable Law.
+
+  13.9 No Other Representations
+
+EXCEPT AS OTHERWISE PROVIDED IN THIS AGREEMENT AND THE RELATED AGREEMENTS BEING ENTERED INTO BY THE PARTIES AT THIS TIME, THE FOREGOING REPRESENTATIONS AND WARRANTIES ARE IN LIEU OF ALL OTHER REPRESENTATIONS AND WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OF PRODUCTS. IN NO EVENT SHALL EITHER FMI OR ROCHE BE LIABLE FOR SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT BASED ON CONTRACT, TORT OR ANY OTHER LEGAL THEORY.
+
+  14. Indemnification
+
+14.1 Indemnification by Roche
+
+Roche shall indemnify, hold harmless and defend FMI and its directors, officers, employees and agents from and against any and all losses, expenses, cost of defense (including without   ***Confidential Treatment Requested***
+
+- 50 -
+
+
+
+
+
+limitation attorneys' fees, witness fees, damages, judgments, fines and amounts paid in settlement) and any amounts FMI becomes legally obligated to pay because of any claim or claims against it to the extent that such claim or claims arise out of Roche's and its Affiliates' actions or inactions in connection with activities under this Agreement, except to the extent such losses, expenses, costs and amounts are due to the gross negligence or willful misconduct or failure to act of FMI.
+
+  14.2 Indemnification by FMI
+
+FMI shall indemnify, hold harmless and defend Roche and its directors, officers, employees and agents from and against any and all losses, expenses, cost of defense (including without limitation attorneys' fees, witness fees, damages, judgments, fines and amounts paid in settlement) and any amounts Roche becomes legally obligated to pay because of any claim or claims against it to the extent that such claim or claims arise out of FMI's and FMI's Affiliates' actions or inactions in connection with activities under this Agreement, except to the extent that such losses, expenses, costs and amounts are due to the gross negligence or willful misconduct or failure to act of Roche.
+
+  14.3 Procedure
+
+In the event of a claim by a Third Party against a Party entitled to indemnification under this Agreement ("Indemnified Party"), the Indemnified Party shall promptly notify the other Party ("Indemnifying Party") in writing of the claim and the Indemnifying Party shall undertake and solely manage and control, at its sole expense, the defense of the claim and its settlement. The Indemnified Party shall cooperate with the Indemnifying Party and may, at its option and expense, be represented in any such action or proceeding by counsel of its choice. The Indemnifying Party shall not be liable for any litigation costs or expenses incurred by the Indemnified Party without the Indemnifying Party's written consent. The Indemnifying Party shall not settle any such claim unless such settlement fully and unconditionally releases the Indemnified Party from all liability relating thereto, unless the Indemnified Party otherwise agrees in writing.
+
+  15. Liability
+
+THE FOREGOING REPRESENTATIONS AND WARRANTIES ARE IN LIEU OF ALL OTHER REPRESENTATIONS AND WARRANTIES NOT EXPRESSLY SET FORTH HEREIN. FMI AND ROCHE DISCLAIM ALL OTHER WARRANTIES, WHETHER EXPRESS OR IMPLIED, WITH RESPECT TO EACH OF THEIR RESEARCH, DEVELOPMENT AND COMMERCIALIZATION EFFORTS HEREUNDER, INCLUDING, WITHOUT LIMITATION, WHETHER THE PRODUCTS CAN BE SUCCESSFULLY DEVELOPED OR MARKETED, THE ACCURACY, PERFORMANCE, UTILITY, RELIABILITY, TECHNOLOGICAL OR COMMERCIAL VALUE, COMPREHENSIVENESS, MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE WHATSOEVER OF THE PRODUCTS.
+
+  16. Obligation Not to Disclose Confidential Information
+
+16.1 Non-Use and Non-Disclosure
+
+During the Agreement Term and for […***…] thereafter, a Receiving Party shall (i) treat Confidential Information provided by Disclosing Party as it would treat its own information of a similar nature, (ii) take all reasonable precautions not to disclose such Confidential Information   ***Confidential Treatment Requested***
+
+- 51 -
+
+
+
+
+
+to Third Parties, without the Disclosing Party's prior written consent, and (iii) not use such Confidential Information other than for fulfilling its obligations or exercising its rights under this Agreement. If any Confidential Information is required to be disclosed by the Receiving Party or its Affiliates to comply with a court or administrative order, the Receiving Party or its Affiliates, prior to making such disclosure, shall furnish as much notice as is reasonable under the circumstances to the Disclosing Party to enable it to resist such disclosure.
+
+  16.2 Permitted Disclosure
+
+Notwithstanding the obligation of non-use and non-disclosure set forth in Section 16.1, the Parties recognize the need for certain exceptions to this obligation, specifically set forth below, with respect to press releases, patent rights, publications, and certain commercial considerations.
+
+  16.3 Press Releases
+
+Following the Effective Date, the Parties will issue a joint press release announcing the existence and selected key terms of this Agreement, in a form substantially similar to the template attached as Appendix 16.3.
+
+Each Party shall provide the other with a copy of any draft press release related to the activities contemplated by this Agreement at least ten (10) Business Days prior to its intended publication for such other Party's review. The reviewing Party may provide the releasing Party with suggested modification to the draft press release. The releasing Party shall consider, and shall not unreasonably disregard, the reviewing Party's suggestions in issuing its press release. Notwithstanding the foregoing, each Party must comply with its obligations under Section 16.1 and 16.5.
+
+  16.4 Publications
+
+During the Agreement Term, the following restrictions shall apply with respect to disclosure by any Party of Confidential Information in any publication or presentation. A Party ("Publishing Party") shall provide the other Party with a copy of any proposed publication or presentation at least […***…] prior to submission for publication so as to provide such other Party with an opportunity to recommend any changes it reasonably believes are necessary to continue to maintain the Confidential Information disclosed by the other Party to the Publishing Party in accordance with the requirements of this Agreement. The incorporation of such recommended changes shall not be unreasonably refused; and if such other Party notifies ("Publishing Notice") the Publishing Party in writing, within […***…] after receipt of the copy of the proposed publication or presentation, that such publication or presentation in its reasonable judgment (i) contains an invention, solely or jointly conceived and/or reduced to practice by the other Party, for which the other Party reasonably desires to obtain patent protection or (ii) could be expected to have a material adverse effect on the commercial value of any Confidential Information disclosed by the other Party to the Publishing Party, the Publishing Party shall prevent such publication or delay such publication for a mutually agreeable period of time. In the case of inventions, a delay shall be for a period reasonably sufficient to permit the timely preparation and filing of a patent application(s) on such invention, and in no event less than [… ***…] from the date of the Publishing Notice.   ***Confidential Treatment Requested***
+
+- 52 -
+
+
+
+
+
+16.5 Commercial Considerations
+
+Nothing in this Agreement shall prevent a Party or its Affiliates from disclosing Confidential Information of the other Party to (i) governmental agencies to the extent required or desirable to secure government approval for the development, manufacture or sale of a product in the Territory and (ii) Third Parties acting on behalf of a Party, to the extent reasonably necessary to conduct the activities contemplated by this Agreement provided that such Third Parties are bound by confidentiality obligations with respect to such information that are no less stringent than those included in this Agreement.
+
+  17. Term and Termination
+
+17.1 Commencement and Term
+
+This Agreement shall commence upon the Effective Date and continue for the Agreement Term.
+
+  17.2 Termination
+
+  17.2.1 Termination for Breach
+
+A Party ("Non-Breaching Party") shall have the right to terminate this Agreement on a Work Stream-by-Work Stream basis, or, for Roche, on an Approved Marker or Investigational Marker basis in the case of the CDx Development Program, in the event the other Party ("Breaching Party") is in material breach of any of its material obligations under the applicable Work Stream (or obligations pertaining to an Approved Marker or Investigational Marker program). Failure of FMI to comply materially with Performance Specifications or Quality Standards shall be considered a material breach by FMI. For avoidance of doubt, a Non-Breaching Party shall only be permitted to terminate the Work Stream (or Approved Marker or Investigational Marker program) to which a material breach of a material obligation relates. The Non-Breaching Party shall provide written notice to the Breaching Party, which notice shall identify the breach. Except in the event of a breach that, by its nature, is not amenable to cure, in which case termination may be made effective immediately, the Breaching Party shall have a period of […***…] after such written notice is provided ("Peremptory Notice Period") to cure such breach or, absent withdrawal of the Non-Breaching Party's request for termination, the relevant Work Stream (or Approved Marker or Investigational Marker program) shall terminate; provided that, if the Breaching Party has a bona fide dispute as to whether such breach: (i) occurred, (ii) pertains to a material obligation, or (iii) has been cured, the Breaching Party will so notify the Non-Breaching Party, the relevant Work Stream (or Approved Marker or Investigational Marker program) shall not terminate and the expiration of the Peremptory Notice Period shall be tolled until such dispute is resolved pursuant to Section 19.2. If such dispute is resolved by finding that the Non-Breaching Party is entitled to terminate the relevant Work Stream (or Approved Marker or Investigational Marker program), the Breaching Party may have the remainder of the Peremptory Notice Period to cure such breach. If such breach is not cured within the Peremptory Notice Period, then absent withdrawal of the Non-Breaching Party's request for termination, the relevant Work Stream (or Approved Marker or Investigational Marker program) shall terminate in accordance with the notice from the Non-Breaching Party as of the expiration of the Peremptory Notice Period.
+
+    17.2.2 Insolvency
+
+A Party shall have the right to terminate this Agreement, if the other Party incurs an Insolvency Event; provided, however, in the case of any involuntary bankruptcy proceeding, such right to   ***Confidential Treatment Requested***
+
+- 53 -
+
+
+
+
+
+terminate shall only become effective if the Party that incurs the Insolvency Event consents to the involuntary bankruptcy or such proceeding is not dismissed within […***…] after the filing thereof.
+
+    17.2.3 Termination by Roche without Cause
+
+Roche shall have the right to terminate the Agreement in its entirety, or on a Work Stream-by-Work Stream basis, except for the ctDNA Work Stream, upon […***…] prior written notice, without cause. With regard to the CDx Development Program, Roche shall also have the right to terminate, without cause, the development of an Approved Marker and/or an Investigational Marker for inclusion in a CDx Assay, upon […***…] prior written notice; provided however that this right shall expire with respect to each Approved Marker for inclusion in a particular CDx Assay at such time as FMI has completed analytical validation for such Approved Marker. With regard to the Molecular Information Platform Program, Roche shall have the right to terminate without cause either or both of the Sample Profiling or Molecular Information Database Access activities individually.
+
+    17.2.4 Termination by Roche for Frustration of Purpose
+
+Roche shall have the right to terminate the ctDNA Platform Development Program upon […***…] prior written notice for frustration of purpose in the event that the Clinical Study for which the ctDNA Assay is being developed is canceled.
+
+  17.3 Consequences of Termination
+
+  17.3.1 Termination in General
+
+Upon any termination of the Agreement, a Work Stream (or Approved Marker or Investigational Marker program), or this Agreement under Section 17.2.2, (i) FMI shall promptly return to Roche unused or remaining Samples that were provided for use in a terminated Work Stream (or related to the relevant Approved Marker or Investigational Marker), or, at Roche's option, securely dispose of all such unused or remaining Samples and provide Roche with a written notice of such disposal, (ii) each Party shall wind-down their activities under the Agreement in a manner that is intended to be expeditious and to mitigate losses arising from non-cancellable expenses and financial commitments to Third Parties, (iii) upon any termination by Roche under Section 17.2.3, or by FMI under Section 17.2.1 or Section 17.2.2, that includes the Immunotherapy Testing Platform Development Work Stream, the obligations in Section 3.2.8 shall terminate, (iv) each Party shall continue to Control its own intellectual property, including Patent Rights and Know-How, and Handle its own Patent Rights, and (v) Joint Patent Rights, if any, shall be handled by Roche subject to the provisions of Section 12.4 and 12.6, and each Party shall have the right to fully exploit such Joint Patent Rights.
+
+17.3.2 Termination by FMI for Breach by Roche or Roche's Insolvency; Termination by Roche Without Cause or for Frustration of Purpose
+
+Upon any termination by FMI for breach by Roche under Section 17.2.1, for Roche's Insolvency under Section 17.2.2, by Roche without cause under Section 17.2.3, or by Roche for frustration of purpose under Section 17.2.4:
+
+  (i) The rights and licenses granted by FMI to Roche hereunder shall terminate for the terminated Agreement, or Work Stream, orportion of the Work Stream (as applicable, the "Terminated Matter"), on the effective date of termination;   ***Confidential Treatment Requested***
+
+- 54 -
+
+
+
+
+
+  (ii) All licenses granted by Roche to FMI hereunder pertaining to the Terminated Matter become fully paid up, perpetual andirrevocable;
+
+
+
+(iii) Roche shall retain all licenses granted by FMI to Roche pertaining to intellectual property arising from work on the Terminated Matter prior to termination, provided, however, FMI shall be under no obligation to Handle any patent or patent application arising from Terminated Matters and may freely abandon (without offering Roche the right to Handle) or license (but, for clarity, not exclusively license or assign without Roche's consent if Roche retains license rights) such patent or patent application.
+
+  (iv) Within […***…] after the effective date of termination and receipt by Roche of an invoice from FMI, Roche shall pay to FMI thefollowing amounts:
+
+
+
+a. In the event of termination of the Molecular Information Platform Program Work Stream, Roche shall pay FMI all [… ***…] that would be owed over the remainder of the Agreement Term, or any […***…], plus any applicable incremental per Sample Profiling Fees for Sample Profiling performed by FMI during the year in which termination occurs that are […***…];
+
+
+
+b. In the event of termination of the Immunotherapy Testing Platform Development Work Stream, (1) for avoidance of doubt, Roche shall pay FMI Roche's share of any FMI Development Costs incurred in connection with the Immunotherapy Testing Platform Development Work Stream as of the effective date of termination that were not previously paid by Roche; (2) (A) if the effective date of termination occurs prior to FMI's completion of the Immuno- Biomarker Discovery Platform, then Roche will pay FMI for the entirety of the FMI Development Costs FMI incurred in connection with FMI's performance of the Immunotherapy Testing Platform Development Work Stream, excluding any portion that was previously paid by Roche, or (B) if the effective date of termination occurs after FMI's commencement of Signature Identification services, then Roche will pay FMI for the entirety of the FMI Development Costs FMI incurred prior to the effective date of termination in connection with any ongoing performance of Signature Identification work by FMI, excluding any portion of such FMI Development Costs that was previously paid by Roche or that is payable by Roche under the foregoing clause (1); and (3) Roche shall pay FMI in accordance with Section 8.3.2 with respect to signatures developed by FMI prior to the effective date of termination.
+
+  c. In the event of termination of the ctDNA Platform Development Program Work Stream, Roche shall have no contractual payment obligation under this Section 17.3.2; provided, however, that Roche shall be obligated to honor payment obligations triggered prior to the effective date of termination;
+
+
+
+d. In the event of termination of the CDx Development Program Work Stream: for avoidance of doubt, Roche shall pay any FMI Development Costs in connection with the development of an Investigational Marker as specified by Section 8.5.1 incurred as of the effective date of termination that were not previously paid by Roche and any non-cancellable commitments reasonably incurred by FMI in   ***Confidential Treatment Requested***
+
+- 55 -
+
+
+
+
+
+
+
+anticipation of receiving PMA with regard to any Investigational Marker to the extent not re-allocable to FMI's other business activities, including without limitation, all accrued amounts under any individual CDx R&D Plan entered into by the Parties as described in Section 3.4.8 above; (ii) if the effective date of such termination is after FMI has completed analytical validation of any Investigational Marker for inclusion in a CDx Assay, then Roche shall remain obligated to pay a fee for each such terminated Investigational Marker equal to […***…] upon PMA approval; and (iii) the milestone payments specified under Section 8.5.3 shall apply with respect to CDx Assays containing any Approved Marker and/or Investigational Marker; and
+
+  e. In the event of termination of the Agreement in its entirety under 17.2.2, Roche shall pay to FMI all amounts under theforegoing subsections (a) through (d) (inclusive) as applicable, if such fees become payable.
+
+
+
+(v) FMI shall retain all rights and remedies available to it under law and equity in connection with breach by Roche under Section 17.2.1 or other termination under Section 17.2.2, Section 17.2.3, or 17.2.4, provided, however, that in the case of termination of the Molecular Information Platform Program under Section 17.2.1 or Section 17.2.3 above, FMI's exclusive remedy (other than for breach of confidentiality under Section 16.1) shall be the accelerated payments specified under Section 17.3.2(iv)a.
+
+For avoidance of doubt, in the event FMI terminates the Agreement in its entirety due to Roche's Insolvency, all Work Streams and other activities under the Agreement will be deemed to be terminated and all of the applicable effects of termination in this Section 17.3.2 shall apply.
+
+    17.3.3 Termination by Roche for Breach by FMI or FMI Insolvency
+
+Upon any termination by Roche for breach by FMI under Section 17.2.1 or FMI's Insolvency, under Section 17.2.2:
+
+  (i) The rights and licenses granted by Roche to FMI under Section 2.1 shall terminate for each terminated Work Stream, on theeffective date of termination, except that the rights granted to FMI under Section 2.1.2 shall survive such termination;
+
+  (ii) All licenses granted by FMI to Roche hereunder pertaining to a terminated Work Stream become fully paid up, perpetual andirrevocable;
+
+  (iii) The […***…] under Section 3.2.10 shall survive termination of the Immunotherapy Testing Platform Development Work Stream;
+
+  (iv) The […***…] under Section 3.3.9 shall survive termination of the ctDNA Platform Development Program Work Stream;
+
+  (v) Within […***…] after the effective date of termination and receipt by Roche of an accounting from FMI, FMI shall pay to Roche any unused Reserved Capacity Fees and Database Access Fees previously paid pursuant to Section 8.2.1.1 or any other unused and pre-paid amounts;   ***Confidential Treatment Requested***
+
+- 56 -
+
+
+
+
+
+  (vi) FMI shall transfer to Roche all FMI Know-How, other than FMI Know-How pertaining to the Molecular Information Platform Program, necessary for Roche to practice the Terminated Matter, solely for the purposes or practicing the Terminated Matter, including any necessary algorithms; and
+
+  (vii) Roche shall retain all rights and remedies available to it under law and equity in connection with such breach by FMI.
+
+For avoidance of doubt, in the event Roche terminates the Agreement in its entirety due to FMI's Insolvency, all Work Streams and other activities under the Agreement will be deemed to be terminated and all of the applicable effects of termination in this Section 17.3.3 shall apply.
+
+    17.3.4 Direct License
+
+Irrespective of anything to the contrary in this Agreement, any existing, permitted sublicense granted by a Party under this Agreement (and any further sublicenses thereunder) shall, upon a termination of the license granted hereunder that pertains to such sublicense, shall terminate; provided that if the licensee Party so requests in writing, the licensor Party shall negotiate with the relevant sublicensee towards the grant of a direct license of rights, provided that such sublicensee is not then in breach of its sublicense agreement with the licensee Party.
+
+  17.4 Other Obligations
+
+Termination of this Agreement by a Party, for any reason, shall not release Roche from any obligation to make payments to FMI that are due and payable prior to the effective date of termination. Termination of this Agreement by a Party, for any reason, will release Roche from any obligation to any payments to FMI that would otherwise become due or payable on or after the effective date of termination.
+
+  17.5 Survival
+
+In addition to any provisions that expressly survive in accordance with Article 17.3, Article 1 (Definitions, to the extent necessary to interpret the Agreement), Section 3.5.2 (Sample Handling and Disposal, to the extent applicable), Section 10 (Taxes), Section 12.1 (Ownership of Inventions), Section 12.9 (Common Interest Disclosures), Section 13.8.11 (Survival of Privacy and Security Obligations), Article 14 (Indemnification), Article 16 (Obligation Not to Disclose Confidential Information), Section 17.3 (Consequences of Termination), Section 17.5 (Surival), Section 19.1 (Governing Law), and Section 19.3 (Arbitration) shall survive any expiration or termination of this Agreement for any reason. Notwithstanding the foregoing, any provision of this Agreement that is intended by its very nature to survive expiration or termination of this Agreement shall also survive.
+
+  18. Bankruptcy
+
+All licenses (and to the extent applicable rights) granted under or pursuant to this Agreement by FMI to Roche are, and shall otherwise be deemed to be, for purposes of Section 365(n) of Title 11, US Code (the "Bankruptcy Code") licenses of rights to "intellectual property" as defined under Section 101(35A) of the Bankruptcy Code. Unless Roche elects to terminate this Agreement, the Parties agree that Roche, as a licensee or sublicensee of such rights under this Agreement, shall retain and may fully exercise all of its rights and elections under the Bankruptcy Code, subject to the continued performance of its obligations under this Agreement.   - 57 -
+
+
+
+
+
+19. Miscellaneous
+
+19.1 Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of New York, US, without reference to its conflict of laws principles, and shall not be governed by the United Nations Convention of International Contracts on the Sale of Goods (the Vienna Convention).
+
+  19.2 Disputes
+
+Unless otherwise set forth in this Agreement, in the event of any dispute in connection with this Agreement, such dispute shall be referred to the respective executive officers of the Parties designated below or their designees, for good faith negotiations attempting to resolve the dispute. The designated executive officers are as follows:   For FMI: CEO For Roche: Head of Roche Partnering
+
+  19.3 Arbitration
+
+Should the Parties fail to agree within […***…] after such dispute has first arisen, it shall be finally settled by arbitration in accordance with the Rules of American Arbitration Association ("AAA") as in force at the time when initiating the arbitration. The tribunal shall consist of three arbitrators. The place of arbitration shall be New York, New York, US. The language to be used shall be English.
+
+    19.3.1 Arbitrators
+
+Each Party shall nominate one arbitrator. Should the claimant fail to appoint an arbitrator in the request for arbitration within […***…] of being requested to do so, or if the respondent should fail to appoint an arbitrator in its answer to the request for arbitration within […***…] of being requested to do so, the other Party shall request the AAA to make such appointment.
+
+The arbitrators nominated by the Parties shall, within […***…] from the appointment of the arbitrator nominated in the answer to the request for arbitration, and after consultation with the Parties, agree and appoint a third arbitrator, who will act as a chairman of the Arbitral Tribunal. Should such procedure not result in an appointment within the […***…] time limit, either Party shall be free to request the AAA to appoint the third arbitrator.
+
+Where there is more than one claimant and/or more than one respondent, the multiple claimants or respondents shall jointly appoint one arbitrator.
+
+Any Party-appointed arbitrator or the third arbitrator resigns or ceases to be able to act, a replacement shall be appointed in accordance with the arrangements provided for in this clause.
+
+The language of the arbitration shall be English. Documents submitted in the arbitration (the originals of which are not in English) shall be submitted together with an English translation.
+
+    19.3.2 Decisions; Timing of Decisions
+
+The arbitrators shall render a written opinion setting forth findings of fact and conclusions of law with the reason therefor stated, within no later than […***…] from the date on which the arbitrators were appointed to the dispute. A transcript of the evidence adduced at the arbitration hearing shall be made and, upon request, shall be made available to each Party.   ***Confidential Treatment Requested***
+
+- 58 -
+
+
+
+
+
+The time periods set forth in the AAA Arbitration Rules shall be followed; provided however that the arbitrators may modify such time periods as reasonably necessary to render a written opinion in accordance with this Section 19.3.2.
+
+The Arbitrator is empowered to award any remedy allowed by law, including money damages, prejudgment interest and attorneys' fees, and to grant final, complete, interim, or interlocutory relief, including injunctive relief.
+
+This arbitration agreement does not preclude either Party seeking conservatory or interim measures from any court of competent jurisdiction including, without limitation, the courts having jurisdiction by reason of either Party's domicile. Conservatory or interim measures sought by either Party in any one or more jurisdictions shall not preclude the Arbitral Tribunal granting conservatory or interim measures. Conservatory or interim measures sought by either Party before the Arbitral Tribunal shall not preclude any court of competent jurisdiction granting conservatory or interim measures.
+
+In the event that any issue shall arise which is not clearly provided for in this Section 19.3, the matter shall be resolved in accordance with the AAA Arbitration Rules.
+
+Any arbitration proceeding hereunder shall be confidential and the arbitrators shall issue appropriate protective orders to safeguard each Party's Confidential Information. Except as required by law, neither Party shall make (or instruct the arbitrators to make) any public announcement with respect to the proceedings or decision of the arbitrators without prior written consent of the other Party. The existence of any dispute submitted to arbitration, and the award, shall be kept in confidence by the Parties and the arbitrators, except as required in connection with the enforcement of such award or as otherwise required by Applicable Law.
+
+Notwithstanding anything to the contrary in this Agreement, any and all issues regarding the scope, construction, validity and/or enforceability of any Patent Rights shall be determined in a court of competent jurisdiction under the local patent laws of the jurisdictions having issued the Patent Rights in question.
+
+Notwithstanding anything to the contrary in this Agreement, any and all issues regarding a breach or alleged breach of a Party's obligations under Article 16 (Obligation Not to Disclose Confidential Information) shall be determined in a court of competent jurisdiction under the laws of New York, with express exclusion of its conflict of laws principles.
+
+  19.4 Assignment
+
+Neither Party shall have the right to assign the present Agreement or any part thereof to any Third Party other than Affiliates without the prior written approval of the other Party.
+
+  19.5 Debarment and Exclusion
+
+  19.5.1 Past Activities
+
+Each Party represents and warrants that it has never been debarred under 21 U.S.C. §335a, disqualified under 21 C.F.R. §312.70 or §812.119, sanctioned by a Federal Health Care   - 59 -
+
+
+
+
+
+Program (as defined in 42 U.S.C §1320 a-7b(f)), including without limitation the federal Medicare or a state Medicaid program, or debarred, suspended, excluded or otherwise declared ineligible from any other similar Federal or state agency or program. In the event a Party receives notice of debarment, suspension, sanction, exclusion, ineligibility or disqualification under the above-referenced statutes, such Party shall immediately notify the other Party in writing and such other Party shall have the right, but not the obligation, to terminate this Agreement, effective, at such other Party's option, immediately or at a specified future date.
+
+    19.5.2 Future Activities
+
+Each Party agrees that, to the best of its knowledge, none of its employees or agents conducting activities on its behalf under the Agreement is currently or will be during the term of this Agreement, debarred under 21 U.S.C. §335a, disqualified under 21 C.F.R. §312.70 or §812.119, sanctioned by a Federal Health Care Program (as defined in 42 U.S.C §1320 a-7b(f)), including without limitation the federal Medicare or a state Medicaid program, or debarred, suspended, excluded or otherwise declared ineligible from any other similar Federal or state agency or program. In the event a Party learns that any such employee or agent becomes so debarred, sanctioned, suspended, excluded or declared ineligible or is the subject of proceedings that may result in such debarment, sanction, suspension, exclusion or ineligibility, it will promptly so notify the other Party and will no longer allow such employee or agent to conduct activities under this Agreement.
+
+  19.6 Independent Contractor
+
+No employee or representative of either Party shall have any authority to bind or obligate the other Party to this Agreement for any sum or in any manner whatsoever or to create or impose any contractual or other liability on the other Party without said Party's prior written approval. For all purposes, and not- withstanding any other provision of this Agreement to the contrary, FMI legal relationship to Roche under this Agreement shall be that of independent contractor.
+
+  19.7 Unenforceable Provisions and Severability
+
+If any of the provisions of this Agreement are held to be void or unenforceable, then such void or unenforceable provisions shall be replaced by valid and enforceable provisions that will achieve as far as possible the economic business intentions of the Parties. However the remainder of this Agreement will remain in full force and effect, provided that the material interests of the Parties are not affected, i.e. the Parties would presumably have concluded this Agreement without the unenforceable provisions.
+
+  19.8 Waiver
+
+The failure by either Party to require strict performance and/or observance of any obligation, term, provision or condition under this Agreement will neither constitute a waiver thereof nor affect in any way the right of the respective Party to require such performance and/or observance. The waiver by either Party of a breach of any obligation, term, provision or condition hereunder shall not constitute a waiver of any subsequent breach thereof or of any other obligation, term, provision or condition.
+
+  19.9 Appendices
+
+All Appendices to this Agreement shall form an integral part to this Agreement.   - 60 -
+
+
+
+
+
+19.10 Entire Understanding
+
+This Agreement contains the entire understanding between the Parties hereto with respect to the within subject matter and supersedes any and all prior agreements, understandings and arrangements, whether written or oral.
+
+  19.11 Amendments
+
+No amendments of the terms and conditions of this Agreement shall be binding upon either Party hereto unless in writing and signed by both Parties.
+
+  19.12 Invoices
+
+All invoices that are required or permitted hereunder shall be in writing and sent by FMI to Roche at the following address or other address as Roche may later provide:
+
+F. Hoffmann-La Roche Ltd Kreditorenbuchhaltung 4070 Basel Switzerland
+
+  19.13 Notice
+
+All notices that are required or permitted hereunder shall be in writing and sufficient if delivered personally, sent by facsimile (and promptly confirmed by personal delivery, registered or certified mail or overnight courier), sent by nationally recognized overnight courier or sent by registered or certified mail, postage prepaid, return receipt requested, addressed as follows:   if to FMI, to: Foundation Medicine, Inc. 150 Second Street Cambridge, Massachusetts 02141 Attn: Legal Department Facsimile No.: +1 617 418 2201
+
+if to Roche, to: F. Hoffmann-La Roche Ltd Grenzacherstrasse 124 4070 Basel Switzerland Attn: Legal Department Facsimile No.: +41 61 688 13 96
+
+and: Hoffmann-La Roche Inc. 150 Clove Road Suite 8 Little Falls, New Jersey 07424 US Attn. Corporate Secretary Facsimile No.: +1 973 890-8433   - 61 -
+
+
+
+
+
+or to such other address as the Party to whom notice is to be given may have furnished to the other Party in writing in accordance herewith.
+
+[Signature Page Follows]   - 62 -
+
+
+
+
+
+IN WITNESS WHEREOF, the Parties have entered into this Agreement as of the Effective Date.   Foundation Medicine, Inc.
+
+/s/ Steven J. Kafka
+
+Name: Steven J. Kafka
+
+Title: Chief Operating Officer   F. Hoffmann-La Roche Ltd
+
+/s/ Jason Coloma /s/ Stefan Arnold
+
+Name: Jason Coloma Name: Stefan Arnold
+
+Title: Global Head of Venture & Innovation, Roche Partnering Title: Head Legal Pharma   Hoffmann-La Roche Inc.
+
+/s/ John P. Parise
+
+Name: John P. Parise
+
+Title: Authorized Signatory
+
+
+
+
+
+Appendix 1.28
+
+Excluded Patent Rights
+
+[…***…].   ***Confidential Treatment Requested***
+
+A-1
+
+
+
+
+
+Appendix 1.57
+
+[…***…]   ***Confidential Treatment Requested***
+
+A-2
+
+
+
+
+
+Appendix 1.64
+
+[…***…]   ***Confidential Treatment Requested***
+
+A-3
+
+
+
+
+
+Appendix 3.1.3 Form of Task Order
+
+TASK ORDER FOR MOLECULAR INFORMATION PLATFORM AGREEMENT
+
+This [Insert number of Task Order] Task Order is effective as of the last date below ("Task Order # Effective Date.
+
+TASK: [Insert Task Name] FMI Reference Number: [Insert FMI Reference Number]   Roche Contact: [Insert Roche Contact]
+
+This Task is divided into the following six sections:
+
+  A. Task Activities - Description of the Task Activities to be performed.
+
+  B. Schedule - Task start date, projected end date and checkpoint dates (if any).
+
+  C. Dependencies - Obligations, technology requirements.
+
+  D. Deliverables - Identifiable work product resulting from the Task.
+
+  E. Fee - Fixed price or time & materials rates and payment schedules.
+
+  F. Special Terms - Terms applicable to this specific effort not addressed by this Agreement.
+
+  A. Task Activities
+
+[Describe Task Activities to be provided]
+
+  B. Schedule
+
+[Describe schedule for Task Activities to be provided and specify the duration of the Task Activities]
+
+  C. Dependencies
+
+[Describe dependencies as relating to the Task Activities]
+
+  D. Deliverables
+
+[Describe deliverables as relating to the Task Activities]
+
+  E. Fee
+
+[Describe payment schedule and form of payment for the Task Activities]
+
+  F. Special Terms
+
+[Describe any special terms for the Task Activities]
+
+Signatures of Project Managers
+
+
+
+
+
+FMI ROCHE
+
+By:   By:
+
+Name:   Name:
+
+Title:   Title:
+
+Date:   Date:     A-5
+
+
+
+
+
+Appendix 3.1.6
+
+[…***…]   ***Confidential Treatment Requested***
+
+A-6
+
+
+
+
+
+Appendix 3.2.4 Excluded Contracts
+
+[…***…]   ***Confidential Treatment Requested***
+
+A-7
+
+
+
+
+
+Appendix 3.5.1
+
+FMI Specimen Requirements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix 16.3
+
+Form of Press Release   A-9

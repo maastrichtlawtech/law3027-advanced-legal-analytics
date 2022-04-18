@@ -1,0 +1,161 @@
+1                                                                 EXHIBIT 10.17
+
+                       [MEDICAL MANAGER LETTERHEAD]
+
+              TECHNICAL INFRASTRUCTURE MAINTENANCE AGREEMENT
+
+Date:                           March 1, 1998
+
+Contract No.:                   pr-4544
+
+                                 Between
+
+Client Name:                    MEDICAL MANAGER MIDWEST, INC.                                 53702 Generations Drive                                 South Bend, IN 46635 Principle Contact:              Tom Liddell
+
+                                   And
+
+Customer Name:                  MTS, INC.                                 9931 Corporate Service Drive                                 Louisville, KY 40223 Principle Contact:              Gail Knopf
+
+ANNUAL FEE.    [ ] Technical Support     Hours Maximum: [*]; If                    Retainer $[*]         support extends beyond [*] hours,                                          Support will be charged at [*] per                                          hour.
+
+[*].
+
+MEDICAL MANAGER, MIDWEST, INC., hereinafter referred to as "MMMW", hereby agrees to provide service with respect to the technical infrastructure and MTS, INC., hereinafter referred to as "Customer", agrees to accept such service, subject to the following terms and conditions:
+
+THE ATTACHED TERMS AND CONDITIONS ARE PART OF THIS AGREEMENT. THIS AGREEMENT IS THE SOLE AND EXCLUSIVE AGREEMENT BETWEEN THE PARTIES RELATING TO SERVICES FOR THE ABOVE ITEMS. THE "Customer" HAS READ THIS AGREEMENT, UNDERSTANDS IT AND AGREES TO BE BOUND BY IT.
+
+                           TERMS AND CONDITIONS
+
+1. TECHNICAL INFRASTRUCTURE
+
+      (a)      Technical Infrastructure Maintenance Agreement covers                   applicable items that make up the underlying technical                   infrastructure that is required to run an application. This                   would include items such as hardware, operating system,                   network connections, etc.
+
+      (b)      Maintenance refers to the services involved in maintenance of                   equipment already purchased.
+
+      (c)      This Agreement shall be effective on the date of signed                   acceptance ("Effective Date") by MMMW.
+
+      (d)      Renewal agreement shall be effective on the "Effective Date"                   if it is signed and returned to MMMW by the "Effective Date."
+
+      (e)      Renewal agreement not signed and received by MMMW by the                   "Effective Date" will suspend all coverage of technical                   infrastructure support between the "Effective Date" and the                   actual date of receival of the renewal technical                   infrastructure maintenance agreement. Services provided                   between these two dates are billable.
+
+[*] Confidential portions omitted and filed separately with the Securities and     Exchange Commission.
+
+2 2.  TERM
+
+ (a)   MMMW provided Customer with an all inclusive warranty for a period of           12 months commencing on the date of installation to include system           purchased by Customer from MMMW. Upon expiration of that 12 months,           MMMW affords the Customer the opportunity of a continuation of support           on an annual basis as follows: The Initial Term of this Technical           Infrastructure Maintenance Agreement is twelve months, commencing on           the Effective Date. The support agreement will be subject to prior           inspection and acceptance of the hardware for service and to the           Customer's payment of any charges for the inspection and/or the           pre-agreement servicing and repair of the hardware, such estimates to           be approved in advance by Customer.
+
+ (b)   MMMW shall make two options of hardware support available to Customer:
+
+       TECHNICAL SUPPORT RETAINER is a Support Plan that allows the Customer
+
+
+
+
+
+       to pay a Retainer that provides technical Related Support by qualified           Support Analysts and Field Technicians. This Support Plan covers a 12           Month period, with a Maximum Cap of hours for that period. If the Cap           of Hours is met before the end of the 12 Month period, Customer may           choose to purchase an additional Retainer Support Plan at the same           rates. This Support Plan is to include all necessary labor in a repair           situation, but Customer is to incur the cost of components to replace           broken or faulty equipment. Customer is to incur reasonable cost of           travel time/expenses of MMMW personal. MMMW accepts the responsibility           for payment of shipping and handling costs of the components. Customer           is to incur the cost for any swap equipment. Fee for swap equipment is           a flat-rate, one time fee as follows (not applicable from the central           site): terminal $[*], color terminal $[*], [*] printer $[*], [*]           printer $[*], personal computer $[*]. Cluiterports $[*], muxes  $[*],           multiport boards $[*], power supplies $[*], and [*] printers $[*] are           subject to availability. All other equipment is subject to           availability. Phone calls to the MMMW Support Department or Technical           Department related to Technical Issues are also charged against your           Technical Support Retainer in 15 minute increments. Example: If your           office places a call to the MMMW Support Desk to receive help for a           non-functioning printer, our Support Analyst will track and log the           length of the call to deduct from the total of your available           Technical Support Retainer.
+
+ (c)   If customer elects to not accept the Technical Support Retainer           Contract, MMMW will make available to Customer support on their           Technical Infrastructure in the following manner. MMMW will take           Customer Technical related calls and process through MMMW Support           Department. The Customers issue will then be queued and handled as           soon as possible directly behind contracted Technical Supported           clients. Customer is to be billed an Hourly rate of $[*] per hour on           all Technical Related Issues, unless notified otherwise by MMMW.           Customer is to incur the cost of swap equipment. Swap equipment is           subject to availability. Customer is to incur the cost of travel           time/expenses of MMMW Personal.
+
+ (d)   Customer, upon thirty days prior written notice, may cancel this           Agreement at the end of the Initial Term and thereafter on each           anniversary of the end of the Initial Term. MMMW may cancel this           Agreement if the Customer does not remit payment according to the           terms of MMMW's invoice.
+
+ (e)   The term of this Agreement consists of the Initial Term and any           continuations.
+
+ (f)   Equipment under Warranty: A Manufacturer's Warranty accompanies most           items, pleas refer to the Warranty for specific coverage. Copies of           Warranty will be provided to Customer. Where applicable, Customer is           to incur the cost for labor, travel time/expenses of MMMW personnel,           swap equipment rental fees, and Phone Support from the MMMW Support           Desk.
+
+3.  SERVICE
+
+ (a)   MMMW will provide on-call service for the Technical Infrastructure           during the term of this Agreement from 7:00am to 5:00pm CST, with a           guaranteed response time of 3 hours with a goal of on site within 2           hours. Support to include 7X24 hour pager support for emergency           services. After the customer has 30 locations, MMMW will locate           technical personnel in the current geography. If a system is not able           to be on-line after hours, on-site help will be made available.
+
+ (b)   The Customer shall provide a suitable environment for the Technical           Infrastructure in accordance with MMMW specifications of non-humid           environment, between the temperature range of 60 degrees F and 80           degrees F.
+
+ (c)   MMMW may elect to: repair a failing hardware with new or serviceable           used parts; or exchange the hardware with a hardware that is new or           used but in good working order, cleaned, lubricated, adjusted and           tested.
+
+ (d)   Replaced parts and hardware become MMMW's property or at clients           discretion.
+
+[*] Confidential portions omitted and filed separately with the Securities and     Exchange Commission.    3          (e)      All programs (excluding any MMMW supplied), data, storage                   media not requiring service, parts, options, attachments or                   alterations not provided by MMMW shall be removed before                   hardware is submitted to MMMW for service. The Customer agrees                   that if any such material is not removed, it will be deemed to                   have been discarded by the Customer and shall not be liability                   of MMMW.
+
+      (f)      The Customer is responsible to implement appropriate                   safeguards to protect and/or recreate the Customer's data,                   should it be destroyed through hardware malfunction or                   otherwise (see exclusions 4b).
+
+      (g)      On Call Service Selection:                   At the time this Agreement is agreed to by the Customer, the                   Customer will have notified MMMW of the location(s) of the                   hardware. MMMW shall not be required to furnish On Call
+
+
+
+
+
+               service at any other location. The Customer shall notify MMMW                   of any change in location and MMMW may elect not to provide On                   Call service at the changed location.
+
+                        i)       The Customer shall provide full, free,                                     timely and safe access to the hardware for                                     MMMW to provide the service.
+
+                        ii)      MMMW may elect to exchange or repair the                                     hardware requiring remedial service during                                     MMMW's normal service hours at the hardware                                     location. MMMW may use a MMMW selected                                     independent contractor for exchange service.                                     MMMW accepts responsibility for all work                                     performed.
+
+4. EXCLUSIONS
+
+      (a)      There could be an increase in service time caused by accident,                   misuse, disaster, abuse, alterations, attachments, parts,                   options, or repairs not provided by MMMW, failure to provide a                   suitable operating environment, relocation of the equipment by                   non-Medical Manager, Midwest, Inc. personnel, or use of the                   hardware for purposes other than intended.
+
+      (b)      Service does not include repair or replacement of normally                   dispensable items such as diskettes, tapes, printer ribbons,                   cartridges, toners, etc.
+
+5. CHARGES
+
+      (a)      Charges will be invoiced and are payable within thirty (30)                   days after the date of the invoice. All charges are subject to                   change by MMMW for the forthcoming period capped at the CPI                   annually, on thirty days written notice. MMMW reserves the                   right to apply [*] finance charges.
+
+      (b)      If MMMW notifies the Customer of any increase in charges in                   accordance with paragraph (a) above, the Customer may cancel                   the forthcoming service by advising MMMW in writing within                   thirty (30) days after notification of the change. If MMMW is                   not so advised, it is conclusively presumed that the Customer                   has accepted such change.
+
+      (c)      The charges do not include applicable taxes. Any applicable                   taxes or amounts in lieu thereof and interest thereon paid or                   payable by MMMW, shall be borne by the Customer.
+
+6. NON-DISCLOSURE
+
+      While this Agreement is in effect and thereafter, the Customer shall          keep confidential and protect from disclosure to others any materials          designated as containing information confidential or proprietary to          MMMW and/or its licensor. On the ending or cancellation of this          Agreement any proprietary information shall be destroyed or returned to          MMMW.
+
+7. SAFETY CHANGES
+
+      If MMMW determines that changes in safety are required for the          Technical Infrastructure, MMMW has the right to install them and to          select the method of installation.
+
+8. WARRANTY
+
+      (a)      MMMW warrants that the Technical Infrastructure remains in                   satisfactory operating condition provided it is:
+
+               1) continuously subject to MMMW's inspection and acceptance of                   the hardware for service; and
+
+               2) subject to normal use and conditions. MMMW's sole and                   exclusive obligation under this warranty shall be at its                   option to repair or exchange any hardware not in satisfactory                   operating condition. Said obligation shall be subject to the                   conditions and charges of Section 3, 4 and 5 and the prompt                   submission of (or notification to MMMW of the problem) the                   hardware to MMMW for service.
+
+      (b)      EXCEPT AS EXPRESSLY STATED IN THIS AGREEMENT, THERE ARE NO                   WARRANTIES, EXPRESS OR
+
+[*] Confidential portions omitted and filed separately with the Securities and     Exchange Commission.
+
+4                   IMPLIED, BY OPERATI0N OF LAW OR OTHERWISE. MMMW DISCLAIMS ANY                   IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR PARTICULAR                   PURPOSE.
+
+      (c)      MMMW's warranties extend only to the Customer and may not be                   changed except by an instrument in writing as provided in                   Section 11(g).
+
+
+
+
+
+9. LIMITATION OF LIABILITY
+
+      (a)      MMMW's entire liability and the Customer's sole and exclusive                   remedy for claims related to or arising out of this Agreement                   for any cause and regardless of the form of action, whether in                   contract or tort, including negligence and strict liability,                   shall be the remedies set forth in Section 8, provided that if                   MMMW fails after repeated attempts to perform those remedies,                   MMMW's entire liability shall be the Customer's actual, direct                   damages such as would be provided in a court of law, not to                   exceed the charge for service for the item that caused the                   damages.
+
+      (b)      MMMW shall NOT be liable for INCIDENTAL or CONSEQUENTIAL                   DAMAGES, even if MMMW has been advised, knew or should have                   known of the possibility of such damages.
+
+      (c)      SOME STATES HAVE LAWS REQUIRING WARRANTY AND LIABILITY RIGHTS                   DIFFERENT FROM THOSE STATED IN THIS AGREEMENT. IN SUCH STATES,                   THE MINIMUM REQUIRED WARRANTY AND LIABILITY TERMS WILL APPLY.
+
+10. GENERAL PROVISIONS
+
+      (a)      MMMW is not responsible for failure to provide services due to                   cases beyond its reasonable control.
+
+      (b)      The Customer is solely responsible for the acquisition, use                   and results of any products or services not provided by MMMW,                   not withstanding any MMMW recommendation of or referral to                   such products or services.
+
+      (c)      The Customer shall not assign or transfer its rights or                   obligations under this Agreement except with MMMW's prior                   written consent; any prohibited assignment or transfer shall                   be void.
+
+      (d)      This Agreement shall be interpreted in accordance with the                   laws of the State of Indiana.
+
+      (e)      No action, regardless of form, related to, or arising out of                   this Agreement may be brought by either party more than two                   (2) years after the cause of action has arisen.
+
+      (f)      The customer represents that the Customer is either the owner                   of the hardware, or if not, that the Customer has the                   authority from the owner to include the hardware under this                   Agreement. Also, the Customer warrants that no liens, security                   interest or encumbrances upon the hardware exist, or will                   exist when the hardware is submitted to MMMW for services, or                   if any encumbrance does exist, that the holder thereof has                   consented to this agreement and the service.
+
+      (g)      This Agreement may not be changed, released or discharged                   except by a written agreement entered into by duly authorized                   representatives of the parties.
+
+MMMW and Customer accept and agree to the terms and conditions of this Agreement.
+
+MTS, INC.                               MEDICAL MANAGER, MIDWEST, INC. By: /s/ Gail Knopf                      By: /s/ Tom Liddell    --------------------------------        --------------------------------
+
+Date: March 4, 1998                     Date: 3-5-98      ------------------------------          ------------------------------

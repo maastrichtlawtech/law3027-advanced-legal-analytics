@@ -1,0 +1,361 @@
+EXHIBIT 10.9     GLOBAL MUSIC INTERNATIONAL, INC. DBA IMNTV CONTENT LICENSE AGREEMENT
+
+This Content License Agreement ("Agreement") is between Global Music International, Inc. d/b/a Independent Music Network (IMNTV), located at 20 Old Stagecoach Road, Redding, Connecticut, 06896 ("IMNTV"), and Distributor, as set forth below, and describes the terms and conditions under which Distributor will distribute Programming provided by IMNTV as described herein. Distributor's distribution of the Programming is subject to the Master Terms of Service ("MTS") attached hereto as Exhibit A. All capitalized terms shall have the meaning set forth on the MTS. In consideration for the mutual promises and covenants contained herein, the parties agree as follows:
+
+Distributor's authorized signature, is REQUIRED:
+
+A. Distributor Information N/A   Provider Name: MobileVision Communications Ltd.
+
+Address: 100 Ba Li Zhuang Xi Li, Suite 907, ZhuBang2000 Plaza, East Building, Beijing, China
+
+COUNTRY PROVINCE: P.R.China
+
+Web Site www.looklook.cn
+
+Tax ID #: N/A
+
+Business Contact: Name: MengDi Xu
+
+  Phone: +86 135 010 37211
+
+  Email: xumengdi@looklook.cn
+
+Marketing Contact: Name: BaoQing (Angel) Song
+
+  Phone: +86 13911178981
+
+  Email: angelsong@looklook.cn
+
+Technical Contact: Name: WeiLi Cheng
+
+  Phone: +86 13011813916
+
+Email: chengwl@mobiledata.com.cn
+
+Billing contact: Name: RuoXian Qi
+
+  Phone: +86 13161502302
+
+  Email: ruoxian@looklook.cn
+
+Billing Address: (if different from above)   Customer Service Contact: Name: Liang (Dean) Wang
+
+  Phone: +86 136 2131 5977
+
+  Email: deanwang@looklook.cn
+
+Notice Contact: Name: RuoXian Qi
+
+  Phone: +86 13161502302
+
+  Email: ruoxian@looklook.cn
+
+Notice Address: (if different from above)
+
+Source: GLOBAL TECHNOLOGIES GROUP, INC., 10KSB, 9/28/2005
+
+
+
+
+
+  B. Term
+
+This Agreement is effective as of the last date signed below ("Effective Date"). The initial term of this Agreement will begin on the Effective Date and end twelve (12) months after the Launch (the "Term"). IMNTV will extend the Agreement on the same terms and conditions for additional one-year terms, providing Distributor and IMNTV agree, predicated on satisfactory performance by both parties IN WITNESS WHEREOF, the parties have executed this Agreement by their duly authorized representatives.     DISTRIBUTOR
+
+MOBILEVISION COMMUNICATIONS LTD.   By: Name Andrew Zhang   Title PRESIDENT   Signature /s/ Andrew Zhang   Date 13/07/05
+
+GLOBAL MUSIC INTERNATIONAL, INC. D/B/A INDEPENDENT MUSIC NETWORK (IMNTV)
+
+By: Name Corinne Fallacaro   Title PRESIDENT   Signature /s/ Corinne Fallacaro    Date 13/07/05
+
+Source: GLOBAL TECHNOLOGIES GROUP, INC., 10KSB, 9/28/2005
+
+
+
+
+
+  EXHIBIT A
+
+GLOBAL MUSIC INTERNATIONAL, INC. DBA IMNTV MASTER TERMS OF SERVICE
+
+1. DEFINITIONS
+
+The following capitalized terms will have the meanings set forth below:   "Bundles" means, any version of the Mobile Product that includes IMNTV content bundled with any other product or service.
+
+"Confidential Information" means the confidential or proprietary technical or business information of a party, including without limitation (a) proposals or research related to possible new products or services; (b) financial statements and other financial information; (c) reporting information; (d) the material terms of this Agreement and the relationship between the parties; and (e) planned launch dates. All of the information will be considered confidential only if it is conspicuously designated as "Confidential," or if provided orally, identified at the time of disclosure as confidential. "Confidential Information" does not include information that (i) is in or enters the public domain without breach of this Agreement, (ii) the receiving party lawfully receives from a third party without restriction on disclosure and without breach of a nondisclosure obligation, or (iii) the receiving party knew prior to receiving such information from the disclosing party or develops independently.
+
+"Content" means generally text, images, video, audio, and other material.
+
+"Fees" means Subscription Fees that include IMNTV content..
+
+"Internet Protocol" means any protocol used to route data on the Internet, or on any portion of the Internet, including all versions currently in existence or developed or implemented in the future.
+
+"Landing Page" means the destination web page for a Special Link, created and hosted by Distributor, from where individuals may begin the Registration Process for the Subscription Service or a Bundle, at such individual's election.
+
+"Launch" means the date that the Programming is made generally available for purchase by consumers under the terms and conditions of the Agreement.
+
+"Programming"means IMNTV's Content, as specifically described on Section B (1) of the Agreement. As used herein, "Programming" also includes any promotional and marketing Content provided by Provider for IMNTV's promotional and marketing activities as described herein.
+
+"Programming Bundle Fee" means the fee actually paid by a Subscriber for a Programming Bundle that includes IMNTV content provided in accordance with this Agreement.
+
+"Distributor Marks" means the trademarks, service marks, brands, logos and trade names of Distributor.
+
+"Distributor Portal" means, collectively, the Distributor's Site and any other web site or property from where Distributor promotes the Programming.
+
+"Distributor Site" means Distributor's Internet web site intended to promote the availability of any Distributor Content, including the Programming, via mobile and wireless networks. Distributor Site is more fully described in Section A of the Agreement.
+
+"Subscription Fee" means the fee actually paid by a Subscriber for the applicable Mobile Content.
+
+"Subscriber" means any individual who purchases mobile content programming and: (a) who actually pays the applicable Subscription Fee; and (b) does not receive a refund of such Subscription Fee for any reason within thirty (30) days from the end of the payment period for which the Subscription Fee was paid. A Subscriber remains a "Subscriber" for the purposes of this Agreement so long as such individual continues to pay the applicable Subscription Fee.
+
+"Registration Process" means the download, payment, installation, and electronic registration process of the Programming, a Bundle or the applicable Software. "Registration Process" may include an online registration form
+
+Source: GLOBAL TECHNOLOGIES GROUP, INC., 10KSB, 9/28/2005
+
+
+
+
+
+  provided, hosted, and managed by Distributor, and may also, at Distributor's discretion, include other methods by which a Subscriber may affirmatively request access to the Programming, a Bundle, or the Software.   "IMNTV Marks" means the trademarks, service marks, brands, logos and trade names of IMNTV and/or Global Music International.
+
+"IMNTV Portal" means the IMNTV Sites where IMNTV promotes the Programming.
+
+"IMNTV Sites" means the Internet web sites owned and operated by IMNTV.
+
+"Special Link"means a formatted or "tagged" link that tracks traffic from the Distributor Portal to the Landing Page.
+
+"Subscribers" means, collectively, end users who have completed the Registration Process for any of the Subscription Products described herein. "Subscribers" includes "Recurring Subscribers."
+
+"Subscription Products" means, collectively Products and Bundles that include IMNTV content.
+
+"IMNTV Mobile Product" means an IMNTV branded subscription product distributed to mobile and wireless devices, which includes services, products and Content from one or a variety of third parties, and includes any derivative, follow-on, repackaged, or substantially similar product offered by Distributor that includes IMNTV Programming.
+
+"Bundle Fee" means the fee actually paid by a Subscriber for the Mobile Product Bundle that includes provider content provided in accordance with this Agreement.
+
+"IMNTV Mobile Product Fee" means the fee actually paid by a Subscriber for the IMNTV Mobile Product.
+
+"Recurring Subscriber" for the purpose of this Agreement so as long as such individual continues to pay the applicable Subscription Fee, so long as IMNTV actually receives such fee.
+
+"Territory" means China. Other territories are subject to approval by IMNTV.
+
+2. DISTRIBUTOR OBLIGATIONS.
+
+2.1 Subscription Transactions. Distributor will provide the following services to market, launch and distribute the Programming using its existing infrastructure as follows:
+
+(a) Fulfillment. Each individual who purchases a Subscription must complete the Registration Process, where such individual will be prompted to provide certain personally identifiable information including a valid major credit card (e.g. Visa, MasterCard, Discover, American Express) to receive the Programming. Support for additional payment methods and additional credit cards may be developed by Distributor, with IMNTV's prior written approval.
+
+(b) Customer Support. Distributor will provide customer support in target Territory in a workmanlike and professional manner.
+
+2.2 Distribution Channels. Distributor and IMNTV may create, sell and market Bundles that include the IMNTV Programming. Distributor may offer the Programming and any Bundles through all wireless distribution channels in target Territory. To enable all Subscribers to have access to the Programming, the Programming may be distributed in whole or in part via Internet Protocol in a manner that enables the Programming to be received and played back by mobile devices in the target Territory.
+
+2.3 Hosting Services. Hosting of on-demand Programming will be provided at no cost to IMNTV in a format acceptable to local Territory wireless devices. Distributor will provide reports of aggregated Subscriber access and usage data concerning the Programming on a monthly basis, together with reports described in Section 6.5, below.
+
+2.4 Promotion of Programming. Distributor may use the Programming and IMNTV's Marks to market, advertise and promote the Programming in the Mobile Software Application(s), the Distributor's Portal, and in other on and off-line marketing efforts as follows: (a) promoting the Programming in directories, listings, and keyword searches; (b) deep linking to the Programming; (c) featuring Programming in various areas within the Distributor's Software and Distributor's Portal, (d) communicating to users via Distributor's consumer marketing channels such as on-line messages, member newsletters or email campaigns; (e) featuring excerpts, screenshots of Programming in marketing collateral and advertisements; (f) featuring the Programming in product demonstrations relating to Distributor's
+
+Source: GLOBAL TECHNOLOGIES GROUP, INC., 10KSB, 9/28/2005
+
+
+
+
+
+  software or subscription products at trade shows and conferences; (g) creating collateral for joint promotional efforts between Distributor and third parties; (h) promoting the Programming in television, radio and print media. IMNTV may use Distributor's logos and marks in the marketing of the Product, subject to pre- approved trademark usage policy and Brand Standards to be provided by Distributor to IMNTV.
+
+2.5 Distributor Support and Operational Responsibilities. Distributor will provide all "middleware" programming to facilitate connection of the content delivery platform to local Territory wireless networks. Distributor will perform localization of any software components to make the program possible to use in the local Territory. This is to include language translations or interface design changes. Provider will act as liaison with local Territory wireless carriers. This will include content review to insure content meets local broadcast standards and meets any local regulatory requirements. Distributor also agrees to secure necessary governmental approvals or permits necessary to operate in the Territory and to secure permission to enable distribution of IMNTV's share of Subscription Fees to IMNTV in the United States. Distributor is solely responsible for monitoring, performance and ensuring the availability of the Programming and will notify IMNTV immediately of planned and unplanned Programming delays or outages.
+
+2.6 Privacy. Distributor is responsible for complying with all applicable laws, rules and regulations relating to its collection and use of personal information from users of the Distributor Portal. At a minimum, Distributor must adopt, implement and comply with a Privacy Policy that: (a) is easy to find, read and understand; (b) is prominently posted at the time that any personally identifiable information is collected or requested; and (c) clearly states what information is being collected, what the information will be used for, whether such information will be provided to third parties, and the choices available regarding collection, use and distribution of the collected information.
+
+3. IMNTV OBLIGATIONS.
+
+3.1 Grant of License. During the Term, for the activities described in this Agreement, IMNTV hereby grants Distributor non-exclusive rights and licenses necessary within the Territory to: (a) copy, store digitally, host and stream the Programming; (b) publicly perform, publicly display, electronically transmit, distribute and broadcast the Programming; (c) promote the Programming and use IMNTV Marks for Distributor's promotion of the Programming as activities described in Section 2.4 above; (d) archive the Programming on Distributor's servers; (e) encode, copy, and create continuous Programming excerpts of up to sixty (60) seconds and transmit, publicly perform, distribute, and redistribute such excerpts to end users via the Distributor's Portal for marketing purposes only(f) deep link to the Programming.
+
+3.2 Right of distribution N/A   3.3 Removed N/A   3.4 Programming Obligations. IMNTV will create and maintain it's programming content and will deliver same to Distributor in a format suitable for the distribution over wireless networks in Distributor's Territory on a regular basis.
+
+3.5 Logo Trademarks. Distributor may use IMNTV logos and marks in the marketing of the Product, subject to pre-approved trademark usage policy and Brand Standards.
+
+3.6 Dedicated Personnel. Throughout the Term, IMNTV shall designate at least one (1) staff member to provide Distributor with all reasonably necessary assistance, information and support relating to its obligations herein including, but not limited to, updating and maintaining the Programming.
+
+3.7 Responsibility for Programming. Except as expressly set forth herein, IMNTV is solely responsible for all costs, activities, obligations and liabilities associated with: (a) obtaining all rights and licenses necessary for the authorized use and distribution of the IMNTV Programming as described herein including, but not limited to, all copyright, trademark rights, rights of publicity and rights of privacy, and any broadcast, rebroadcast, or retransmission rights or permissions; and (b) obtaining all necessary permissions and/or release documentation from all persons associated with the distribution of the Programming as described herein, including, without limitation, all performers.
+
+4. ADVERTISING   The IMNTV Programming will not contain any advertising, either integrated or before or after each clip, except IMNTV I'Ds and IMNTV commercials for solicitation of Chinese music videos,without the prior written approval of both parties.
+
+Source: GLOBAL TECHNOLOGIES GROUP, INC., 10KSB, 9/28/2005
+
+
+
+
+
+5. OWNERSHIP.
+
+5.1 By IMNTV. As between Distributor and IMNTV, IMNTV owns or has the necessary licenses to all copyright, trademark, patent and other intellectual property rights in and to, and all other right, title and interest in and to the Programming, the Trademarks and the IMNTV Portal. Except as expressly provided herein, IMNTV retains the right to distribute the Programming in any medium now known or hereafter developed. As between IMNTV and Distributor (excluding the Programming and other Provider intellectual property), IMNTV owns all copyright, trademark, patent and other intellectual property rights therein, and all other right, title and interest in and to or associated with the Subscription Products, the IMNTV Sites, the IMNTV Marks, and the System and Subscriber data.
+
+5.3 Trademarks. Each party: (a) will not create a unitary composite mark involving a trademark of the other party without the prior written approval of such other party; (b) will display symbols and notices clearly and sufficiently indicating the trademark status and ownership of the other party's trademarks in accordance with applicable trademark law and practice; (c) acknowledges that its utilization of the other party's trademarks will not create in it, nor will it represent it has, any right, title or interest in or to such trademarks other than the licenses expressly granted herein; (d) agrees not to do anything contesting or impairing the trademark rights of the other party; (e) agrees to promptly notify the other party of any unauthorized use of the other party's trademarks of which it has actual knowledge; and (f) will have the sole right and discretion to bring proceedings alleging infringement of its trademarks or unfair competition related thereto; provided, however, that each party agrees to provide the other party, at such other party's expense, with its reasonable cooperation and assistance with respect to any such infringement proceedings
+
+6. FEES AND ROYALTIES
+
+6.1 Mobile Product Payments. Subscription fee in Territory is to be determined based on market research performed by Distributor with pricing to be agreed upon jointly and in writing Each quarter, Distributor will make royalty payments to IMNTV based on a Structure as follows:
+
+55% of subscriber revenue for the subscription based services broadcasting IMNTV content only, net of telecom percentage provided in accordance with this Agreement.   ("Programming Payments"), subject to the following: The parties acknowledge that some mobile carriers may bill end users for a full month in a single billing, and that others may bill for partial months or pro-rate the billing of Recurring Subscribers. For each full month of Fees received from a Recurring Subscriber, Distributor will pay IMNTV based on the Rate Structure (the "Full Month Payment"). To the extent that Distributor receives a partial month's Fee or pro-rated Fee from a Recurring Subscriber as a result of a carrier's billing practices, Distributor will pay IMNTV a proportionate or pro-rated portion of such Full Month Payment based on the amount received by Distributor.
+
+6.2 Payments. All payments hereunder shall be payable to IMNTV in United States Dollars on a quarterly basis upon receipt from the wireless carriers in the Territory, except as follows:
+
+(a) First Payment. The first payment to IMNTV will be payable upon receipt at the end of the first calendar quarter after Launch, and will include any amounts due, pro-rated based on the number of days in such period of time; and
+
+(b) Last Payment. The last payment to IMNTV will be payable upon receipt at the end of the first full month after the termination or expiration of this Agreement, and will include any amounts due: for the last month that the Programming is available, prorated based on the number of days in such final period.
+
+(c) Other Exceptions. All payments hereunder are exclusive of: (i) any trial or promotional periods during which a Subscriber receives access to the Programming before such Subscriber's credit card is charged; and (ii) refunds, charge backs and fees attributable to contested credit card transactions
+
+(d) Summary of Timing. The parties acknowledge the following that establishes timing of payments: (1) Distributor receives a carrier statement saying how much Distributor will be paid; (2) 30-45 days later the Carrier pays Distributor; (3) when Distributor is paid by a carrier, Distributor makes royalty payments to IMNTV.
+
+(e) Exchange Rate. Payments to IMNTV will be converted from local currency to US Dollars at the official exchange rate posted on the day payments are made to IMNTV via wire transfer provided that currency exchange is approved by the relevant Chinese currency exchange administrative agency.
+
+Source: GLOBAL TECHNOLOGIES GROUP, INC., 10KSB, 9/28/2005
+
+
+
+
+
+  6.3 Provider Payment Location. Distributor will remit such payments a bank account specifically named by IMNTV..
+
+6.4 Taxes. Distributor will collect and remit to the appropriate taxing authority, or require Subscribers to pay, any sales, use or similar taxes applicable to any retail sale or distribution of the Programming. Except for the foregoing, each party is solely and separately responsible for its own taxes, user fees, or similar levies.
+
+6.5 Reporting. Distributor will provide IMNTV with a quarterly report or monthly report if available, summarizing the data relevant to the payment obligations herein within five (5) business days from the end of the calendar quarter. The reports will contain sufficient information to permit Provider to verify payments hereunder.
+
+7. TERMINATION
+
+7.1 General Termination Rights. Either party may terminate the Agreement at any time in the event of a material breach by the other party that remains uncured after thirty (30) days written notice of the breach.
+
+7.2 Termination for Programming Deficiency. Distributor reserves the right to issue a warning immediately to Subscribers, to temporarily or indefinitely suspend the availability of the Programming, or to terminate this Agreement (the "Remedies") if IMNTV breaches this Agreement. In the event that Distributor exercises any of its rights set forth in this Section 7.2, Distributor will notify IMNTV of the Programming Deficiency, Distributor's elected Remedy, and the available cure options, and will provide IMNTV with a reasonable period of time in which IMNTV may cure the Programming Deficiency (the "Cure Period"). During the Cure Period, if commercially reasonable, the Distributor may help IMNTV cure the Programming Deficiency, but is under no affirmative obligation to do so. If IMNTV fails to cure the Programming Deficiency within the Cure Period, Distributor may terminate this Agreement immediately upon written notice. In the event of a suspension or termination under this Section 7.2, Distributor will notify Subscribers that the Programming is no longer available. Distributor will be solely liable for any refunds pertaining to the Programming that are issued to Subscribers as a result of termination under this Section 7.2.
+
+7.3 Termination for Bankruptcy/Insolvency. Either party may terminate this Agreement immediately following written notice to the other party if the other party: (a) ceases to do business in the normal course; (b) becomes or is declared insolvent or bankrupt; (c) is the subject of any proceeding related to its liquidation or insolvency (whether voluntary or involuntary) which is not dismissed within ninety (90) calendar days; or (d) makes an assignment for the benefit of creditors.
+
+7.4 Effect of Termination. Except as set forth in Section 7.3 above, upon termination or expiration of this Agreement: (a) the licenses granted to Distributor will immediately terminate; and (b) all fees due to IMNTV will be paid to IMNTV pursuant to Section 6.3 of this Agreement. In the event that Distributor terminates this Agreement pursuant to either Section 7.2 or 7.3 above, Distributor will notify Subscribers that the Programming is no longer available. Sections 5, 6.3, 6.6, 7.2, 7.4, 8, and 9 of this MTS will survive the expiration or termination of the Agreement for any reason.
+
+8. WARRANTIES AND INDEMNIFICATION
+
+8.1 Provider Warranty and Indemnification. IMNTV represents and warrants to Distributor that: (i) IMNTV is an entity duly organized and validly existing under the laws of its state of organization; (ii) IMNTV has the power and authority to enter into this Agreement and to perform fully its obligations under this Agreement; (iii) IMNTV is under no contractual or other legal obligation which could reasonably be expected to interfere in any way with its prompt and complete performance under this Agreement; and (iv) the person executing this Agreement on behalf of IMNTV has been duly authorized to do so and such execution is binding upon IMNTV.
+
+IMNTV will defend, indemnify, and hold Distributor harmless from and against any and all liabilities, claims, losses, costs, damages and expenses (including reasonable attorneys' fees and court costs) (collectively, "Claims") relating to or arising out of: (a) IMNTV's breach of this Agreement; (b) the Content of the Programming (e.g., if such Claim alleges copyright or trademark infringement or infringement of any other proprietary right) as furnished by IMNTV under this Agreement (excluding any Claim to the extent based on any alteration of or insertion in any IMNTV content by Distributor that is not specifically authorized by IMNTV in writing), IMNTV Marks or IMNTV Site; (c) any IMNTV online subscription service, the Programming with the Mobile Subscription Products, or IMNTV's acts or omissions with
+
+Source: GLOBAL TECHNOLOGIES GROUP, INC., 10KSB, 9/28/2005
+
+
+
+
+
+  respect thereto (including the marketing of the foregoing by IMNTV and excluding any Claim to the extent based on any alteration of or insertion in any Programming by Distributor); (d) violation by IMNTV of any contractual obligation, including payments or royalties, that IMNTV has to any third party; (e) a claim that the Programming as provided by IMNTV does not comply with any federal, state and local laws and regulations that are applicable to Distributor's transmission or use of Programming as permitted this Agreement; or (f) IMNTV not having obtained all necessary consents, licenses, permissions and releases necessary to grant Distributor the rights IMNTV grants to Distributor hereunder.
+
+8.2 Distributor Warranty and Indemnification. Distributor represents and warrants to IMNTV that: (i) Distributor is an entity duly organized and validly existing under the laws of its country of organization; (ii) Distributor has the power and authority to enter into this Agreement and to perform fully its obligations under this Agreement; (iii) Distributor is under no contractual or other legal obligation which could reasonably be expected to interfere in any way with its prompt and complete performance under this Agreement; and (iv) the person executing this Agreement on behalf of Distributor has been duly authorized to do so and such execution is binding upon Distributor. Distributor will defend, indemnify, and hold IMNTV harmless from and against any and all Claims relating to or arising out of: (a) the marketing by Distributor of the Programming (excluding Claims to the extent based on Programming or other content provided by or approved by IMNTV), or any Subscription Product which includes any Programming, (b) any Claim by any Subscriber concerning Distributor's operation and maintenance of the Subscription Products (except for content Claims described in Section 9.1, Claims concerning the transmission of Subscriber Information to IMNTV, or the use of Subscriber Information by IMNTV or by any third party to whom IMNTV has disclosed such information); (c) Distributor's alternation of, or insertion of material (including commercial advertisements) in, any Programming, except as explicitly authorized in each case in writing by IMNTV; and (d) any infringement of the Subscription Products on the rights of others (excluding any Claim to the extend based on any Programming).
+
+8.3 Conditions of Indemnification. A party's obligation to indemnify the other party is expressly conditioned on the indemnified party: (a) giving written notice of the claim promptly to the indemnifying party; (b) giving the indemnifying party control of the defense and settlement of the claim utilizing, if necessary, legal counsel to be selected by the indemnifying party upon reasonable approval of the other party; (c) providing to the indemnifying party all available information and assistance (at the indemnifying party's expense); and (d) not compromising or settling such claim, without the other party's prior written consent which may not be unreasonably withheld.
+
+8.4 Disclaimer of Warranties. EXCEPT AS EXPRESSLY SET FORTH HEREIN, NEITHER PARTY MAKES ANY WARRANTIES OR REPRESENTATIONS RELATING TO THE SUBSCRIPTION PRODUCTS, OR THE LIKELIHOOD OF SUCCESS OF THE PROGRAMMING, THE MOBILE NTENT PRODUCT, OR ANY BUNDLE. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IMNTV FURTHER DISCLAIMS ALL WARRANTIES IN THE SUBSCRIPTION PRODUCTS, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+8.5 Limitation of Liability. NO PARTY WILL BE LIABLE TO THE OTHER PARTY IN TORT, CONTRACT OR UNDER ANY OTHER LEGAL THEORY FOR ANY CONSEQUENTIAL, INDIRECT, INCIDENTAL, PUNITIVE OR SPECIAL LOSS OR DAMAGES ARISING OUT OF THIS AGREEMENT, EVEN IF APPRISED OF THE LIKELIHOOD OF SUCH DAMAGES OCCURRING. IN NO EVENT WILL IMNTV'S LIABILITY TO DISTRIBUTOR UNDER THIS AGREEMENT EXCEED THE AMOUNT ACTUALLY DUE TO IMNTV HEREIN.
+
+9. GENERAL
+
+9.1 Notices and Contact Information. All notices and demands under this Agreement will be in writing and will be delivered by personal service, express courier, or United States mail, to the following addresses:   If to IMNTV: Independent Music Network 20 Old Stagecoach Road Redding, CT 06896 USA Attention: General Counsel     If to Provider:         To the Notice Contact as set forth in Section A of the Agreement.
+
+Either party may change the addresses set forth above by written notice to the other party. Notice will be effective on receipt. Any notice or report delivered in accordance with this Section will be deemed given on the date actually
+
+Source: GLOBAL TECHNOLOGIES GROUP, INC., 10KSB, 9/28/2005
+
+
+
+
+
+  delivered; provided that any notice or report deemed given or due on a Saturday, Sunday or legal holiday will be deemed given or due on the next business day. If any notice or report is delivered to any party in a manner which does not comply with this Section 9.1, such notice or report will be deemed delivered on the date, if any, such notice or report is actually received by the other party.   9.2 Non-Assignment. This Agreement is binding upon each party's assigns, transferees and successors; provided that no party may assign or otherwise transfer, by operation of law or otherwise, this Agreement in whole or in part, without the other party's prior written consent. Notwithstanding the prior sentence, either party may assign this Agreement in its entirety without the other party's consent to any of the following: (i) the assignor's successor in a consolidation or merger, (ii) the assignor's successor in an acquisition of all or substantially all of the assets, equity or beneficial interests of the assignor, (iii) an entity under common control with, controlled by or in control of the assignor, or (iv) a lender, as an assignment of collateral to secure credit extended to the assignor. The assignor will give the other party written notice within thirty (30) days of any assignment described in the immediately preceding sentence.
+
+9.3 Confidentiality. The parties acknowledge that Confidential Information is valuable and unique and that disclosure in breach of this confidentiality provision will result in irreparable injury to its owner. From the Effective Date and for a period of two (2) years from the date of termination or expiration of this Agreement, neither party will use, disclose, or permit any person to obtain any Confidential Information of the other party. If either party receives a request from any third party for the Confidential Information of the other party, or if such party is directed to disclose any portion of any Confidential Information of the other party by operation of law or in connection with a judicial or governmental proceeding or arbitration, it will immediately notify the other party and will assist the other party in seeking a suitable protective order or assurance of confidential treatment to preserve the confidentiality of any such Confidential Information. If either party breaches or threatens to breach the terms of this confidentiality provision, the non-breaching party will be entitled to an injunction prohibiting any such breach. Any such relief will be in addition to and not in lieu of any appropriate relief in the way of money damages.
+
+9.4 Press Releases and Public Statements. Neither party will issue any press releases or make public statements relating to this Agreement or the relationship between the parties without the other party's review of and written consent to such press release or public statement.
+
+9.5 Force Majeure. No party shall be deemed in default hereunder for any cessation, interruption or delay in the performance of its obligations due to causes beyond its reasonable control, including but not limited to: earthquake, flood, or other natural disaster, act of God, labor controversy, civil disturbance, war (whether or not officially declared) or the inability to obtain sufficient supplies, transportation, or other essential commodity or service required in the conduct of its business, or any change in or the adoption of any law, regulation, judgment or decree (each a "Force Majeure Event"). Each party shall have the right to terminate this Agreement immediately upon written notice if any Force Majeure Event of another party continues for more than ten (10) days.
+
+9.6 Miscellaneous. This Agreement and Exhibits A, B, and C constitute the final agreement between the parties with regard to the subject matter herein, and supersedes and cancels all prior negotiations, understandings, correspondence and agreements, oral and written, express or implied, between the parties with regard to the subject matter herein. No waiver, amendment or modification of any provision of this Agreement will be effective unless it is in a document that expressly refers to this Agreement and is signed by both parties. Failure or delay by either party in exercising any rights or remedy under this Agreement will not operate as a waiver of any such right or remedy. The parties are independent contractors. Neither party will be deemed to be an employee, agent, partner or legal representative of the other for any purpose and neither will have any right, power or authority to create any obligation or responsibility on behalf of the other. This Agreement will be governed by the laws of the State of Florida without regard to conflicts of law provisions.
+
+Source: GLOBAL TECHNOLOGIES GROUP, INC., 10KSB, 9/28/2005
+
+
+
+
+
+  EXHIBIT B       1. TECHNICAL REQUIREMENTS. IMNTV will comply with the following technical requirements, as applicable:
+
+On Demand. Provider will provide all on-demand media files encoded in the Format appropriate for each stream type (e.g., audio, video, animation and other media file types as they become supported and as IMNTV may then elect to provide) to the Distributor via the File Transfer Protocol (FTP).
+
+2. LIVE/STREAMING PROGRAMMING (AS APPLICABLE)
+
+2.1 Preparing Content. IMNTV will provide Distributor with the URL for each live or simulated live stream remotely encoded by IMNTV using the conventions established by both parties.
+
+2.2 Feed Delivery. At IMNTV's election, IMNTV will deliver live feeds to the Distributor via methods other than FTP over the Internet, including delivery of physical media.
+
+(a) General. IMNTV shall take the appropriate measures to ensure that all live or simulated live feeds will be delivered continuously to the Distributor 24 hours/day, 7 days/week, except for scheduled maintenance. If any feed is provided to Distributor using transmission methods that are proprietary or uncommon, Provider agrees to provide -at no cost -- the receiver equipment to Distributor and to allow adequate time for setup and testing of equipment prior to delivery of live content.
+
+(b) Encoding. IMNTV will encode feeds to be delivered to Distributor.
+
+Source: GLOBAL TECHNOLOGIES GROUP, INC., 10KSB, 9/28/2005
+
+
+
+
+
+  EXHIBIT C
+
+Programming Technical Specifications
+
+1. REPRESENTATION OF PROGRAMMING
+
+1.1 Programming Presentation. The following are requirements for all Programming:
+
+(a) Each individual item of Programming will be identified with a Programming identification code ("Programming ID")
+
+(b) Clicking on any Programming will instigate an "Optimized" presentation as follows:
+
+(i)  When a Subscriber selects the Programming, the default start-up audio/video sequence for the presentation will start playing in the playback window of the Mobile Platform Software ("Playback Window").
+
+2. POLICIES FOR ADVERTISING AND PROMOTION WITHIN SOFTWARE
+
+2.1 The Programming will have a IMNTV Identification ("IMNTV ID"), which is similar to on-air network id, which is played each time the Programming is launched. Distributor may utilize the IMNTV ID in the Distributor's Portal for promotional purposes.
+
+(a) The IMNTV ID will be no longer than two (2) to five (5) seconds in length, and may be audio and Real Flash visual media clip.
+
+(b) All IMNTV Ids will be hosted and served by Distributor.
+
+(c) If Programming is currently playing, the IMNTV Id cannot interrupt the stream
+
+(d) If any advertisement other than a streaming advertisement is scheduled, the IMNTV ID must precede it.
+
+3. PROGRAMMING DESIGN GUIDELINES
+
+3.1 The initial opening of IMNTV ID should be authored to the following standards:
+
+(a) For a 120 W x 96H video space (without scroll bars) subject to review with Distributor to determine suitability for Distributor's territory.
+
+3.2 Design Restrictions. The following requirements serve to ensure a consistent Subscriber experience across all Programming.
+
+(a) Distributor will provide IMNTV with page size and load time goals for the Programming.
+
+(b) Bullet points describing the Programming
+
+(c) Descriptions of the Programming that correspond with each bullet point and elaborate more on the bullet point
+
+(d) Link to the Provider's Privacy Policy
+
+(e) Link to the Provider's Terms of Use
+
+(f) Information for Customer Service and/or Technical Support to use while servicing Subscribers
+
+Source: GLOBAL TECHNOLOGIES GROUP, INC., 10KSB, 9/28/2005
+
+
+
+
+
+  EXHIBIT D
+
+Distribution of the Provider's Content through China Unicom Tianjin Branch
+
+  1. Service Offering     a. MobileVision is an authorized and fully licensed Service Provider (SP) partner who provides the programming and supports the underlyingtechnical operation of the streaming service for China Unicom Tianjin.     b. MobileVision will be making available the music video content from IMNTV on its WAP Portal pages and in links contained in its WAPpush messages through China Unicom Tianjin's networks.   2. Terms of Service     a. The China Unicom Tianjin streaming media service is offered as a pilot commercial program without charge for the period of two to threemonths. IMNTV agrees to participate in this pilot program by providing the content to China Unicom Tianjin via MobileVision without charge during this period.     b. Starting on October 1, 2005, China Unicom Tianjin intends to charge for the streaming service. The revenue sharing and payment termsbetween IMNTV and MobileVision takes effect starting on the same date of commercial service.   3. Pricing of Service     a. TBD subject to Carrier's pricing policy and IMNTV acceptance of terms
+
+Source: GLOBAL TECHNOLOGIES GROUP, INC., 10KSB, 9/28/2005

@@ -1,0 +1,317 @@
+EXHIBIT 10.3
+
+   [ABOUT LOGO]
+
+CO-BRANDING AGREEMENT
+
+This Agreement (the "Agreement"), dated this 19th day of January, 2001 (the "Effective Date"), is by and between About.com, Inc. ("About"), a Delaware corporation, located at 1440 Broadway, 19th Floor, New York, NY 10018 and ebix.com, Inc. ("ebix"), a Delaware corporation, located at 1900 E.Golf Road, Schaumberg, IL 60173
+
+W I T N E S S E T H:
+
+WHEREAS, About owns and operates an Internet service known as About.com, currently located at the URL HTTP://WWW.ABOUT.COM, at which users may access a variety of content channels and a network of highly-targeted, topic-specific Web sites, and includes any site owned, operated or under the control of About (the "About Network");
+
+WHEREAS, ebix is the e-commerce portal for insurance on the Internet offering to consumers and insurance professionals a one-stop site, currently located at http://www.ebix.com for all kinds of insurance content ranging from consumer to business tools to broker to business tools as well as e-commerce functionality;
+
+WHEREAS, the parties desire to collaborate to create an independent co-branded channel on or accessible though the About Network at which visitors to the About Network may access insurance information, on the terms and conditions hereinafter set forth;
+
+WHEREAS, ebix desires to receive promotions on the About Network for the parties' Insurance Center and for the ebix Site (hereinafter defined).
+
+NOW, THEREFORE, in consideration of the agreements and obligations set forth herein and for other good and valuable consideration, the receipt and sufficiency of such is hereby acknowledged, the parties hereto hereby agree as follows:
+
+  1.  DEFINITIONS
+
+      "ABOUT CONTENT" means any and all textual, graphical, audio/visual or       other materials created or provided on or behalf of About for use on the       Insurance Center (other than the ebix Content), including but not limited       to the About Wrapper and the About Look and Feel (hereinafter defined).
+
+      "ABOUT CUSTOMER" means any individual or entity who has registered with       ebix either (i) through the registration process on the Insurance Center       or (ii) registers with ebix after accessing the ebix Site from a link on       the About Network.
+
+      "ABOUT CUSTOMER DATA" means information related specifically to About       Customers, including but not limited to: (i) internet addresses and       navigational information, including information disclosing the usage of       Links within or available through the Insurance Channel; (ii)       transactional information, including, but not limited to, names,       addresses, billing information, information requested; and (iii) any other       information that identifies an individual as an About Customer.
+
+      "ABOUT LOOK AND FEEL" means the distinctive and particular elements of       graphics (including the About Marks), design, organization, presentation,       layout, user interface, navigation, trade dress and stylistic convention       (including the digital implementations thereof) within the About Network       and the
+
+** Confidential treatment has been requested for portions of this document.    The redacted material has been filed with the commission pursuant to an    application for confidential treatment.
+
+      total appearance and impression substantially formed by the combination,       coordination and interaction of these elements.
+
+      "ABOUT MARKS" means the name, tradenames, trademarks, service marks, logos       and other distinctive brand marks of About, adopted by About, or used in       or relating to About's business from time to time, whether or not in       connection with its performance of this Agreement,
+
+      "ABOUT NETWORK"" means the About Site, all Web sites owned and operated       solely by About, and those portions of third party Web sites in which       About has a right to sell advertisements.
+
+      "ABOUT SITE HOME PAGE" means, with respect to the US version of the About       Site, the Web page that is displayed to the About User (hereinafter       defined) when the URL WWW.ABOUT.COM (and any evolution thereof) is       inputted in the user's browser, whether manually, or by means of a Link.
+
+      "ABOUT GUIDE SITE" means an individual specific topical area within the       About Site, which is accessible from within a Channel, as comprised from       time to time.
+
+      "ABOUT GUIDE SITE HOME PAGE" means, with respect to any About Guide Site,       the Web page that is displayed to the About User when the URL       [guidesitename].about.com (and any evolution thereof) is inputted in the       user's browser, whether manually or by means of a Link.
+
+Source: EBIX INC, 10-Q, 5/15/2001
+
+
+
+
+
+      "About Guide Site Sub-Pages" means, with respect to any About Guide Site,       all of the Web pages within an About Guide Site other than the About Guide       Site Home Page.
+
+      "ABOUT USER" means any individual or entity that accesses the About       Network or any About Guide Site.
+
+      "ABOUT USER DATA" means information related specifically to About Users,       including but not limited to (i) Internet addresses and navigational       information, including information disclosing the usage of Links within or       available through an About Guide Site; (ii) transactional information,       including names, addresses, billing information, information requested,       method of payment; and (iii) any other information that identifies an       individual or entity as an About User.
+
+      "ABOUT WRAPPER" means a navigation bar designed by About, in its sole       discretion, and approved by ebix, that may, as determined by About,       contain the About Look and Feel, the About Marks, and standard About       header, footer, tabs, navigational elements, copyright notice and other       attributes set forth in EXHIBIT A that reflect the then current design of       the About Guide Sites.
+
+      "ADVERTISING IMPRESSION" means an Advertising Placement (hereinafter       defined) having been served by About or About's third party advertising       server for display on the About Network that redirects an About User to       the Insurance Center.
+
+      "ADVERTISING PLACEMENT" is any standard unit of advertising served and       displayed by About (or its designated agent) on the About Network, whether       or not e-Bix branded, pursuant to Section 5 that: (A) advertises or       otherwise promotes (i)ebix, (ii) the Insurance Center, or any combination       of the foregoing, and (B) Links to the Insurance Center or the ebix Site.       Standard About.com advertising units include, but are not limited to:       468x60 pixel banners, 120x60 pixel buttons; "MarketPlace" text link, 18       characters; "SuperLink" text link, 2 lines at 20 characters per line or 1       wrapped line at 40 characters, plus one link for URL (250 character       limit).
+
+      "CONFIDENTIAL INFORMATION" means all non-public information concerning       either party, its subsidiaries and affiliates, and their respective       officers, agents, employees, consultants, licensors, suppliers and
+
+** Confidential treatment has been requested for portions of this document.    The redacted material has been filed with the commission pursuant to an    application for confidential treatment.
+
+                                       2
+
+      customers, including but not limited to business plans, systems       configurations, technologies, data files, reports, projections,       initiatives, user data and site usage data.
+
+      "CHANNEL": means a collection of topic-specific Guide Sites (Example:       Sports, Games)
+
+      "AUTOS CHANNEL HOME PAGE" means the Web page that is displayed to the       About user when the URL HTTP://HOME.ABOUT.COM/AUTOS/INDEX.HTM (and any       evolution thereof) is inputted in the About Users browser, which is the       area of the About Network currently dedicated to the promotion of       automobiles generally, and contains Links to the Insurance Center.
+
+      "FAMILY/PARENTING CHANNEL HOME PAGE" means the Web page that is displayed       to the About User when the URL HTTP://HOME.ABOUT.COM/FAMILY/INDEX.HTM (and       any evolution thereof) is inputted in the About Users browser, which is       the area of the About Network dedicated to the promotion of family and       parenting generally, and contains Links to the Insurance Center.
+
+      "HEALTH CHANNEL HOME PAGE" means the Web page that is displayed to the       About User when the URL HTTP://HOME.ABOUT.COM/HEALTH/INDEX.HTM (and any       evolution thereof) is inputted in the About Users browser, which is the       area of the About Network dedicated to the promotion of health issues       generally, and contains Links to the Insurance Center.
+
+      "MONEY CHANNEL HOME PAGE" means the Web page that is displayed to the       About User when the URL HTTP://HOME.ABOUT.COM/MONEY/INDEX.HTM (and any       evolution thereof) is inputted in the About Users browser, which is the       area of the About Network dedicated to the promotion of money issues       generally, and contains Links to the Insurance Center.
+
+      "REAL ESTATE CHANNEL HOME PAGE" means the Web page that is displayed to       the About User when the URL HTTP://HOME.ABOUT.COM/REALESTATE/INDEX.HTM       (and any evolution thereof) is inputted in the About Users browser, which       is the area of the About Network dedicated to the promotion of real estate       issues generally, and contains Links to the Insurance Center.
+
+      "EBIX CONTENT" means the Links and information available on the ebix Site       and supplied to the Insurance Center pursuant to this Agreement, and any       other textual, graphical, audio, visual or other materials created or       provided by or on behalf of ebix for use in the Insurance Center.
+
+      "EBIX MARKS" means the name, tradenames, trademarks, service marks, logos       and other distinctive brand marks of ebix adopted by ebix or used in or       relating to ebix business from time to time, whether or not in connection       with its performance of this Agreement, including but not limited to those       identified in EXHIBIT B attached hereto.
+
+Source: EBIX INC, 10-Q, 5/15/2001
+
+
+
+
+
+      "EBIX SITE" means the Internet-based Site maintained and operated by ebix       at the URL HTTP://WWW.EBIX.COM.
+
+      "FILLED APPLICATION FORM" means when an About User accesses an application       form for buying insurance through a Link from the Insurance Center and       completely fills out all fields of the form and clicks the "Submit"       button. The sample format of the application form is enclosed in Exhibit       J. If ebix wishes to increase the length of the Filled Application Form by       more than 10% during the Term, About must approve such change.
+
+      "INSURANCE CENTER" means a channel accessible from the About Site Home       Page and other Links or Advertising Placements, created and maintained by       ebix hereunder and on which (i) the About Marks and About Wrapper appear,       and (ii) the ebix Content is displayed pursuant to this Agreement.
+
+** Confidential treatment has been requested for portions of this document.    The redacted material has been filed with the commission pursuant to an    application for confidential treatment.
+
+                                       3
+
+      "LAUNCH DATE" means the date on which the ebix Content is first displayed       to the public on the Insurance Center.
+
+      "LINK" means a hyperlink or so called "hot link" in graphical and/or       textual format located on any Site which takes a user directly to another       Site.
+
+      "MARKS" means the About Marks and the ebix Marks collectively.
+
+      "PARTNERSHIP BOX" means an area within an About Web page containing search       functionality by which an About User shall have the ability to search for       insurance information and access the Insurance Center , which shall appear       in substantially the form and manner as set forth on EXHIBIT D.
+
+      "PROMOTIONAL IMPRESSIONS" means an Advertising Placement having been       served by About or About's third party advertising server for display on       the About Network that redirects an About User to the Insurance Center
+
+      "QUARTER" shall mean any increment of three (3) months. The first of these       Quarters, which do not necessarily conform to calendar quarters, shall       commence on the first day of the month following the Launch Date and are       to be measured in consecutive three (3) month increments following       thereafter.
+
+      "SITE" means any interactive site or area, including by way of example and       without limitation, a site on the World Wide Web portion of the Internet.
+
+2.    TERM
+
+2.1   The term of this Agreement (the "Term") shall commence on the date hereof       (the "Effective Date") and shall expire upon delivery of [**] to ebix,       but in no way shall this Agreement extend any later than thirty (30)       months from the Effective Date regardless of the number Filled       Application Forms delivered to ebix. About will make commercially       reasonable efforts to achieve that number in twelve (12) months or less       from the Effective Date.
+
+3.    DEVELOPMENT, OPERATION AND ADMINISTRATION OF INSURANCE CENTER; EXCLUSIVITY
+
+3.1   Pursuant to the terms and conditions of this Agreement, About shall,       create and maintain Links within the About Network to the Insurance Center       and to the ebix Site, which Links shall be accessible to About Users by       means of (i) a Link on the About Site Home Page, substantially as depicted       in EXHIBIT C, (ii) a Link on the Auto Channel Home Page, Family/Parenting       Channel Home Page, Health Channel Home Page, Money Channel Home Page, and       Real Estate Channel Home Page, substantially as depicted in EXHIBIT D;       (iii) within fifty percent (50%) of the Partnership Box on each of the       following About Guide Site Home Pages and all the subsequent Guide Sites       Sub-Pages until the termination of this agreement as detailed in section       2.1: Personal Insurance, Senior Health, Retirement Planning, Consumer       Information/Advocacy, Auto Repair, Vintage Cars, Motorcycles, 4 Wheel       Drive/SUVs, Trucks, Cars, Power Boating, and Sailing for as long as such       Guide Sites are in existence, substantially as depicted in EXHIBIT E, ;       and (iv) Links from the Advertising Placements, as set forth in the       greater detail in Section 4. Notwithstanding Section 7.1, all the above       links on the About.com Home Page and Channels listed above, in addition to       the Partnership Box integration on the Guide Site Home Pages and all the       subsequent Guide Site Sub-Pages shall be maintained by about, until the       termination of this agreement as detailed in Section 2.1
+
+3.2   The Insurance Center shall be hosted solely by ebix and contained in an About Wrapper and ebix shall, during the Term, provide site maintenance services relative to the Insurance Center substantially as provided for the ebix Site from time to time, subject to the uptime requirements as set forth in Section 13.4  [TERMINATION AND SURVIVAL].
+
+** Confidential treatment has been requested for portions of this document.    The redacted material has been filed with the commission pursuant to an    application for confidential treatment.
+
+                                       4
+
+3.3   During the Term, ebix shall be the exclusive integrated online insurance provider in the Channels and Guide Sites listed in Section 3.1  [DEVELOPMENT, OPERATION AND ADMINISTRATIO...] above. [**]
+
+  4.  ADVERTISING IMPRESSIONS; INTEGRATION IMPRESSIONS; APPLICATIONS
+
+Source: EBIX INC, 10-Q, 5/15/2001
+
+
+
+
+
+4.1   Commencing on the Effective Date and continuing until March 15, 2001,       About shall deliver to ebix [**] Advertising Impressions in the form and       manner set forth on EXHIBIT G; About will not begin to deliver the       Impressions as set forth in Exhibit G until the Insurance Center is live       and fully functional.
+
+4.2   Commencing on or about March 20, 2001 and continuing throughout the Term,       About shall deliver to ebix the greater of [**] Promotional Impressions,       or the number of impressions as calculated according to the terms set       forth in Section 4.5  [ADVERTISING IMPRESSIONS; INTEGRATION IMP...], in the form and manner as set forth on EXHIBIT H.
+
+4.3   If this Agreement is terminated by either party pursuant to Sections 13.1  [TERMINATION AND SURVIVAL],       13.2  [TERMINATION AND SURVIVAL] or 13.3  [TERMINATION AND SURVIVAL] prior to the expiration of the Term of this Agreement, About       shall be obligated to deliver only a pro-rated number of impressions and       Filled application forms to ebix
+
+4.4   Pursuant to section 2.1, About shall use commercially reasonable efforts       to generate at least [**] during the Term and may use any and all       advertising units in order to reach this goal.
+
+4.5   Additionally, About shall use commercially reasonable efforts to deliver       [**] Filled Application Forms per Quarter. If, however, at the end of a       Quarter, About has not generated the applicable Quarterly Filled       Application goals as set forth on EXHIBIT I, About shall deliver       additional advertising impressions, in the amounts also set forth on       EXHIBIT I.
+
+4.6   Notwithstanding Section 7.1, pursuant to sections 2.1 and 3.1, commencing       on or about February 15, 2001 and continuing through out the Term, About       shall maintain all the Links and Partnership Box integration as set forth       in section 3.1
+
+5.    PAYMENTS AND REPORTS
+
+5.1   ebix shall pay to About, [**] in consideration for the Advertising Impressions as set forth in Section 4.1  [ADVERTISING IMPRESSIONS; INTEGRATION IMP...], herein, no later than seven (7) business days from the Effective Date , which shall be paid to About via wire transfer, pursuant to the following instructions:[**]
+
+5.2 In addition, ebix agrees to pay to About a fee of [**] for [**] and [**] from [**] up to [**] (the "Application Fees"). The payment of the Application Fees are to be due within 30 days after the end of the month in which the Application Fees were generated. Such payments shall be accompanied by a report stating the number of Filled Application Forms generated during the previous month, as well as the amount due to About. Ebix will track the number of Filled Application Forms generated by About Customers.
+
+** Confidential treatment has been requested for portions of this document.    The redacted material has been filed with the commission pursuant to an    application for confidential treatment.
+
+                                       5
+
+5.3   If any of the payments are not received on or before the appropriate dates       as described above, About shall have the right to charge ebix interest on       the overdue amount at the rate of 6% per year,, calculated from 30 days       after the end of the month for which payment is made until the date of       ebix's payment of such amount, which interest shall be in addition to such       fees due and owing About. In addition, About shall be entitled to its       reasonable costs and expenses (including attorneys' fees) in connection       with any action to collect fees under or to otherwise enforce this       Agreement.
+
+5.4   About shall have the right to examine, or to have examined by a representative of About, ebix's books and records to verify the accuracy of payments made to About for a maximum period of last 6 months preceding a written notice of About, pursuant to this Agreement. About shall provide ebix with at least thirty (30) days' prior notice of an audit and such audit shall be conducted at ebix's offices for a maximum period of two business days, during regular business hours, subject to ebix's cooperation. If the audit reveals that ebix has paid About less than the sum to which About is entitled, ebix agrees to pay About.com the additional sums due. If such sums exceed five percent (5%) of the total monies owed in connection with such audited amount to About ,ebix will pay for all costs reasonably incurred by About in connection with the audit.
+
+6.    LICENSE TO USE MARKS
+
+6.1   Subject to the terms and conditions of this Agreement, ebix hereby grants       to About a limited, non-transferable, fully-paid, worldwide, non-exclusive       right and license to use, reproduce, adapt (but only to pursuant to its       rights under this Agreement), incorporate, integrate and distribute the       ebix Marks and ebix Content, during the Term, solely as necessary to       perform its obligations under this Agreement.
+
+      . 6.2   Each party retains all right, title and interest in and to its respective       Marks and nothing contained herein shall confer in the other party any       right, title or interest in or to such Marks. Any use by the party (the       "Licensee") of the other party's (the "Licensor") Marks shall conform with       any usage guidelines or instructions that the Licensor may provide from       time to time, and Licensee shall promptly remedy any failure to conform       with such guidelines as are communicated to it by Licensor. Anything       contained herein to the contrary notwithstanding, the Licensee shall,       prior to any use of Licensor's Marks pursuant to this Agreement, submit to       Licensor a sample of the proposed use thereof and obtain from the Licensor
+
+Source: EBIX INC, 10-Q, 5/15/2001
+
+
+
+
+
+      approval of such sample. All goodwill associated with the use of       Licensor's Marks shall inure to the benefit of such Licensor.
+
+7.    RIGHT TO REDESIGN AND RE-INDEX
+
+      7.1   About may, at any time, revise the design, Look and Feel, and layout             of the About Network. If, in About's reasonable opinion, any such             revision would result in the need for ebix to modify its Links to             and/or from the About Network or any of the Channels or Guide Sites             mentioned herein, and as applicable, About shall provide ebix with a             written notice stating the need for such revision, and ebix shall,             within not more than thirty (30) days from the date of such notice,             modify its Links. About shall have the right to approve in advance             such modification.
+
+8.    CREDIT
+
+8.1   eBix shall receive all page view, impression, reach duration and frequency       credit resulting from About Users accessing the Insurance Center.
+
+9.    OWNERSHIP
+
+9.1   eBix shall own and retain all right, title and interest in and to any       About Customer data generated on the Insurance Center, and nothing in this       Agreement shall confer in About any right, title or interest in
+
+** Confidential treatment has been requested for portions of this document.    The redacted material has been filed with the commission pursuant to an    application for confidential treatment.
+
+                                       6
+
+      the About Customer data (except to the extent that it is duplicative of       About User data and as hereinafter provided). Upon request by About, ebix       shall provide About with About Customer Data in the aggregated form, which       aggregated form shall be jointly owned by ebix and About. During the Term       and any time thereafter, eBix shall not sell, lease, transfer,       disseminate, display or otherwise disclose any About User data to any       third party or otherwise use the same for any reason other than as set       forth herein. However, ebix shall not be prohibited from selling, leasing,       transferring, disseminating, displaying or otherwise disclosing any About       Customer Data, as defined in Section 1 above.
+
+9.2   About shall own and retain all right, title and interest in and to any       About User data generated within the About Network (other than the       Insurance Center), and nothing in this Agreement shall confer in eBix any       right, title or interest in or to the About User Data (other than the       Insurance Center and except to the extent that it is duplicative of About       Customer Data).
+
+9.2   Other than set forth herein, all intellectual and proprietary information,       supplied or developed by either party shall be and remain the sole and       exclusive property of the party who supplied and developed same.
+
+10.   REPRESENTATIONS, WARRANTIES AND COVENANTS
+
+10.1  eBix represents, warrants and covenants that (i) the execution, delivery       and performance by ebix of this Agreement and the consummation by it of       the transactions contemplated hereby will not conflict with or violate any       provision of law, rule or regulation to which ebix is subject, or any       agreement or other instrument applicable to ebix or binding upon ebix, its       assets or properties; (ii)ebix is the sole and exclusive owner of the ebix       Marks and the ebix Content and ebix has the unqualified right and power to       render the performances and activities contemplated under the terms of       this Agreement, included but not limited to the right to publish all       materials, software, content, products or services appearing on and       accessible to About Users linking from the Insurance Center to the About       Network or provided by About for use on the Insurance Center; (iii) the       ebix Marks and other content provided by ebix hereunder, including but not       limited to the ebix Content, or appearing on and accessible to About Users       linking from the Insurance Center to the About Network , will not infringe       upon or violate the copyright, trademark, patent, or other intellectual       property rights or interests of any third party or misappropriate the       trade secrets of any third party, constitute false advertising, unfair       competition, defamation, invasion of privacy or publicity rights, moral or       otherwise, or violate any anti-discrimination law or regulation; (iv)ebix       will take commercially reasonable precautions to insure that the Insurance       Center and the ebix Site are and will continue to be free of any software       disabling devices , including, but not limited to, time bombs, viruses or       devices of a similar nature, or any defamatory, slanderous, libelous,       illegal, pornographic or obscene material or services; and (v)ebix shall       not (a) hold itself out as having any proprietary rights with respect to       the About Marks or (b) make any claim to ownership rights in the About       Marks or challenge the About Marks or the registration thereof, or (c)       attempt to register or cause to be registered the About Marks or create or       use or attempt to register or cause to be registered any marks or trade       names that are confusingly similar to the About Marks, or (d) use the       About Marks hereunder without About's approval of such use.
+
+10.2  About represents, warrants and covenants that (i) the execution, delivery       and performance by About of this Agreement and the consummation by it of       the transactions contemplated hereby will not conflict with or violate any       provision of law, rule or regulation to which About is subject, or any       agreement or other instrument applicable to About or binding upon About,       its assets or properties; (ii) About is the sole and exclusive owner of       the About Marks and About has the unqualified right and power to render       the performances and activities contemplated under the terms of this       Agreement, included but not limited to the right to publish all materials,       software, content, products or services appearing on and accessible to
+
+Source: EBIX INC, 10-Q, 5/15/2001
+
+
+
+
+
+      About Users linking from the Insurance Center to the About Network
+
+** Confidential treatment has been requested for portions of this document.    The redacted material has been filed with the commission pursuant to an    application for confidential treatment.
+
+                                       7
+
+      or provided by About for use on the Insurance Center; (iii) the About       Marks and other content provided by About hereunder, or appearing on and       accessible to About Users linking from the Insurance Center to the About       Network , will not infringe upon or violate the copyright, trademark,       patent, or other intellectual property rights or interests of any third       party or misappropriate the trade secrets of any third party, constitute       false advertising, unfair competition, defamation, invasion of privacy or       publicity rights, moral or otherwise, or violate any anti-discrimination       law or regulation; (iv) About will take commercially reasonable       precautions to insure that the About Network and the About Network are and       will continue to be free of any software disabling devices , including,       but not limited to, time bombs, viruses or devices of a similar nature;       and (v) About shall not (a) hold itself out as having any proprietary       rights with respect to the ebix Marks or (b) make any claim to ownership       rights in the ebix Marks or challenge the ebix Marks or the registration       thereof, or (c) attempt to register or cause to be registered the ebix       Marks or create or use or attempt to register or cause to be registered       any marks or trade names that are confusingly similar to the ebix Marks,       or (d) use the ebix Marks hereunder without ebix's approval of such use.
+
+11.   INDEMNIFICATION
+
+11.1  eBix will defend, indemnify and hold About, its officers, directors,       agents, employees and consultants (collectively the "About Indemnified       Parties") harmless from and against any third party claims against About       for all liabilities, claims, actions, damages, losses, settlements, and       costs, and expenses (including, without limitation reasonable attorneys'       fees) relating to or arising out of ebix's breach of its warranties,       representations, responsibilities or covenants hereunder.
+
+11.2  About will defend, indemnify and hold ebix, its officers, directors,       agents, employees and consultants (collectively the "eBix Indemnified       Parties") harmless from and against any third party claims against ebix       for all liabilities, claims, actions, damages, losses, settlements, and       costs, and expenses (including, without limitation reasonable attorneys'       fees) relating to or arising out of About's breach of its warranties,       representations, responsibilities or covenants hereunder.
+
+11.3  The indemnified party agrees to (i) provide prompt written notice (in       accordance with Section 15.7  [MISCELLANEOUS] below) of any such claim to the indemnifying       party, (ii) allow the indemnifying party to control and conduct the       defense of the claim and settlement negotiations, including but not       limited to, providing the indemnifying party with all reasonably available       information, assistance, authority, and cooperation reasonably required to       enable the indemnifying party to defend and settle the claim. No       settlement or compromise hereunder shall be made which binds the       indemnified party without the express written consent of the indemnified       party.
+
+12.4  Each party shall promptly inform the other party of any event or       circumstance, and provide all information pertaining thereto, related to       or arising from this Agreement which could lead to a claim or demand       against the other party by any third party with respect to any content       supplied hereunder for use on the Insurance Center.
+
+12.   CONFIDENTIALITY
+
+12.1  The parties may from time to time receive from one another certain       information that is proprietary or confidential to the disclosing party,       including the About Confidential Information and the ebix Confidential       Information (collectively, the "Confidential Information"). The recipient       of such Confidential Information shall hold such Confidential Information       in confidence, shall not use it except to further its relationship with       the other party under this Agreement, and shall not publish or disclose it       to third parties unless authorized in writing by the disclosing party.       These restrictions shall not apply to any Confidential Information: (i)       after it has become generally available to the public without of breach of       this Agreement by the receiving party; (ii) is rightfully in the receiving       party's possession before disclosure to it by the disclosing party; (iii)       is independently developed by the
+
+** Confidential treatment has been requested for portions of this document.    The redacted material has been filed with the commission pursuant to an    application for confidential treatment.
+
+                                       8
+
+      receiving party; (iv) rightfully received the receiving party from a third       party without confidentiality; or (v) is required to be disclosed under       operation of law or administrative process. Upon expiration or termination       of this Agreement for any reason, each party will promptly and at the       direction of the other party, either destroy or return to the disclosing       party, and will not take or use, all items of any nature which belong to       the disclosing party and all records (in any form, format or medium)       containing or relating to Confidential Information. The parties'       obligations under this Section 12 shall survive the termination or       non-renewal of this Agreement.
+
+Source: EBIX INC, 10-Q, 5/15/2001
+
+
+
+
+
+13.   TERMINATION AND SURVIVAL
+
+13.1  eBix may terminate this Agreement, [**] upon [**] to About; provided,       however, that the termination is no earlier than [**] of the Effective       Date of this Agreement.
+
+13.2  Either party may terminate this Agreement if the other (i) fails to make       any payment required to be made by it hereunder for more than twenty (20)       business days after such party shall have received notice from the other       party of the failure of payment thereof, or (ii) commits a material breach       of this Agreement that is not cured within thirty (30) calendar days after       receipt of written notice of the breach.
+
+13.3  Either party may terminate immediately upon written notice if the other       party (i) ceases to function as a going concern or to conduct operations       in the normal course of business; (ii) has a petition filed against it       under any state or federal bankruptcy law which petition has not been       dismissed or set aside within ninety (90) days of its filing, or if (a)       About sells all or substantially all of the assets of such party or any       event or series of event whereby any entity acquires beneficial ownership       of the capital stock of such party representing fifty percent (50%) of the       voting stock of such party provided however, that the acquisition of About       by Primedia shall not be grounds for the termination of this Agreement; or       (b) ebix becomes acquired by, merged into or is under the control of any       of the following parties, About may terminate this Agreement immediately       upon by providing ebix written notice: AOL; Yahoo; Lycos/Terra; NBC; CBS;       Looksmart; InfoSpace; CMGI; AltaVista; Disney; Microsoft; CNET;       Excite@Home; AskJeeves; GOTO; Doubleclick; or Lifeminders.
+
+13.4 The ebix Insurance Center shall be operational and fully functionally at least ninety nine percent (99.0%) of the time during the Term, without taking into account scheduled downtime and maintenance which shall not exceed in the aggregate, one (1) hour in any one (1) month period. In the event of any downtime and/or maintenance in excess of the aforementioned amount, such shall be deemed a material breach and ebix shall have twenty four (24) hours in which to cure such breach. If such breach is not cured to About's reasonable satisfaction, About may remove the ebix Links after informing either the President, CFO or CTO of ebix until About reasonably determines that the ebix Web Site is operational and fully functional.
+
+13.6 Upon termination of this Agreement, any and all licenses granted by one party to the other hereunder shall immediately terminate, and the parties shall immediately cease the use of the other party's Marks, material or content provided in connection with this Agreement, and shall remove all Links to and from one another's Sites, and About shall remove all Links between the About Network and the Insurance Center. Each party shall return the Confidential Information of the other party.
+
+13.7 The rights and obligations of the parties hereto under Sections 5.3  [PAYMENTS AND REPORTS], 5.4  [PAYMENTS AND REPORTS], 9, 10, 11, 12, 14, and 15 shall survive the expiration or termination of this Agreement and continue in full force and effect notwithstanding such expiration or termination.
+
+14.   LIMITATION OF LIABILITY
+
+** Confidential treatment has been requested for portions of this document.    The redacted material has been filed with the commission pursuant to an    application for confidential treatment.
+
+                                       9
+
+14.1  NEITHER PARTY SHALL HAVE ANY LIABILITY FOR ANY INDIRECT, SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES INCLUDING, WITHOUT THE LIMITATION, LOSS OF PROFIT OR BUSINESS OPPORTUNITIES, WHETHER OR NOT THE PARTY WAS ADVISED OF THE POSSIBILTY OF SUCH. EXCEPT AS EXPRESSLY SET FORTH HEREIN, NEITHER PARTY MAKES ANY, AND EACH PARTY HEREBY SPECIFICALLY DISCLAIMS ANY REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, REGARDING THE TOOLS AND SERVICES CONTEMPLATED BY THIS AGREEMENT, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTIBILITY OR FITNESS FOR A PARTICULAR PURPOSE AND IMPLIED WARRANTIES ARISING FROM COURSE OF DEALING OR COURSE OF PERFORMANCE.
+
+15.   MISCELLANEOUS
+
+15.1  Each party is an independent contractor and not an employee of the other party. Each party understands and agrees that (i) its employees are not entitled to any benefits provided to any employee of the other party and (ii) it is solely responsible for reporting as income any compensation received hereunder. Each party is responsible for compliance with all federal, state and local laws, regulations and orders in connection with taxes, unemployment insurance, social security, worker's compensation, disability or like matters.
+
+15.2  This constitutes the entire agreement between the parties with respect to the subject matter hereof, and no statement, promise, or inducements made by either party or agent of either party that is not contained in this written Agreement shall be valid or binding. This Agreement may not be modified or altered except in writing signed by both parties.
+
+15.3  In the event any provision of this Agreement is held to be unenforceable, such provision will be reformed only to the extent necessary to make it enforceable, and the other provisions of this Agreement will remain in full force and effect.
+
+15.4  This Agreement will be governed by the laws of the state where a suit is properly filed under the terms of this paragraph, being either Illinois or New York, and without giving effect to conflict of law principles. Litigation initiated by ebix shall be filed in New York, whereas litigation initiated by About shall be filed in Illinois. Both parties submit to personal jurisdiction of Illinois or New York, to effectuate the terms of this paragraph, and further
+
+Source: EBIX INC, 10-Q, 5/15/2001
+
+
+
+
+
+agree that any cause of action arising under this Agreement shall be brought in state or federal courts of the States of New York or Illinois, counties of New York or Cook, respectively.
+
+15.5  Neither party will be liable for, or will be considered to be in breach of or default under this Agreement on account of, any delay or failure to perform as required by this Agreement as a result of any causes or conditions that are beyond such party's reasonable control and that such party is unable to overcome through the exercise of commercially reasonable diligence (a "force majeure event"). If any force majeure event occurs, the affected party will give prompt written notice to the other party and will use commercially reasonable efforts to minimize the impact of the event.
+
+15.6  Neither party may assign the Agreement without the written consent of the other party, which consent shall not be unreasonably withheld or delayed, except that either party may assign the Agreement without obtaining the consent of the other party to an affiliate or successor by way of purchase, merger, consolidation or similar transaction, subject to the requirement that the Agreement shall be binding and enforceable against any successor or assign.
+
+15.7  Any notice under this Agreement will be in writing and delivered by personal delivery, overnight courier, or certified or registered mail, return receipt requested, and will be deemed given upon personal delivery, one (1) day after deposit with an overnight courier, three (3) days after deposit in the mail, or upon confirmation of receipt of facsimile. Notices sent to About at the address listed above will be addressed to President, Corporate Development and notices sent to ebix at the address listed will be addressed to Richard
+
+** Confidential treatment has been requested for portions of this document.    The redacted material has been filed with the commission pursuant to an    application for confidential treatment.
+
+                                       10
+
+Baum, 1900 E.Golf Road, Suite 1200, Schuamberg, IL 60173 and each will be sent to the appropriate address set forth above or such other address as that party may specify in writing pursuant to this Section.
+
+Agreed and Accepted:
+
+EBIX.COM, INC.                           ABOUT.COM, INC.
+
+Name:                                    Name:      -------------------------------          -------------------------------
+
+Title:                                   Title:       ------------------------------           ------------------------------
+
+Signature:                               Signature:           --------------------------               --------------------------
+
+Date:                                    Date:      -------------------------------          -------------------------------
+
+** Confidential treatment has been requested for portions of this document.    The redacted material has been filed with the commission pursuant to an    application for confidential treatment.
+
+                                       11
+
+Source: EBIX INC, 10-Q, 5/15/2001

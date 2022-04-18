@@ -1,0 +1,71 @@
+AMENDMENT 1 TO DEVELOPMENT AGREEMENT
+
+This is the First Amendment ("First Amendment") to the Development Agreement ("Development Agreement") entered into on April 15, 2010, by  and between Cargill, Incorporated through its Bio Technology Development Center, having its principal place of business at 15407 McGinty Road  West, Wayzata, Minnesota 55391 USA ("Cargill") and BioAmber S.A.S., having a place of business at Route de Bazancourt, F-51110, Pomacle  France ("BioAmber"). This First Amendment will be effective as of July 5, 2011, upon the signature of both Cargill and BioAmber.
+
+Cargill and Bioamber mutually agree as follows:
+
+
+
+The Parties, through their authorized representatives, hereby agree to the terms and conditions of this First Amendment.
+
+   Cargill Confidential   * Confidential treatment requested
+
+1. Section 2.2 of the Development Agreement is hereby amended to allow Cargill at its sole discretion to apply [***] during the period of July 5,  2011, through September 30, 2011, to perform the Work Plan in addition to the [***] specified in the unamended Section 2.2. The terms for  compensation and expenses for these additional FTEs will be as provided for the original FTEs in Section 2.2.
+
+2. Other than as expressly modified by this First Amendment, all terms and conditions of the Development Agreement continue without  modification.
+
+CARGILL, INCORPORATED  Bio Technology Development Center     BIOAMBER S.A.S.
+
+/s/ Jack Staboch       /s/ Jim Millis Signature     Signature VP BioTDC     CTO Title     Title 7/14/11     7/18/11
+
+
+
+
+
+AMENDMENTS TO COMMERCIAL LICENSE AGREEMENT AND DEVELOPMENT   AGREEMENT
+
+WHEREAS, Cargill, Incorporated ("Cargill") and BioAmber S.A.S. ("Bioamber") entered into a Development Agreement having an Effective  Date of April 15 , 2010, as amended on July 5 , 2011 (the "Development Agreement");
+
+WHEREAS, Cargill and Bioamber entered into a Commercial License Agreement having an Effective Date of April 15, 2010 (the "Commercial  License");
+
+WHEREAS, Bioamber now desires to amend the Development Agreement to allow Bioamber to fund a research project being conducted by  the Biotechnology Research Institute ("BRI"), which involves the molecular re-engineering of a Methylotroph owned by BRI and the development  of a lab scale fermentation design for using the re-engineered Methylotroph to make succinic acid or salts thereof from a methanol feedstock (the  "BRI Project"). The BRI Project will be co-funded by funds available from the Canadian National Research Council;
+
+WHEREAS, Bioamber further desires to scale-up the production of succinic acid using a Corynebacteria biocatalyst (MCC-17) available from  Mitsubishi Chemical Corporation ("MCC") and to possibly produce succinic acid or salts using MCC-17 as an alternative to the E. coli BioAmber  has licensed from the DOE at: (1) Bioamber's existing demonstration-scale succinic acid production facility located at Pomacle, France; and (2) a  succinic acid production facility located at Sarnia, Ontario Canada having a maximum production capacity of 35,000 metric tons of succinic acid per  year (the "Sarnia Plant"). Together these scale-up projects will be referred to as the "Scale-up and Production Project";
+
+WHEREAS, Cargill is willing to allow Bioamber to fund the BRI Project and to conduct the Scale-up and Production Project, subject to the  following terms and conditions. Now therefore the Parties agree:
+
+Amendment To the Development Agreement
+
+A. Section 13.9 of the Development Agreement is amended to add the following at the end of the Section:   "Notwithstanding the above, Bioamber may fund the BRI Project up until the Methylotroph (or re-engineered Methylotroph) demonstrates  the ability to produce succinic acid (or salts thereof) from any feedstock at a concentration of [***] grams/liter succinic acid (or salts thereof).  Within thirty (30) days of the Methylotroph (or re-engineered Methylotroph) demonstrating such production levels of succinic acid, Bioamber will  cease any further funding and/or other support for the BRI Project. Further Bioamber will require that any unexpended funds received from  Bioamber be utilized for a project other than the BRI Project.   B. New Section 13.10 is added to the Development Agreement as set forth below:   "13.10 Notwithstanding the provisions of section 13.9, Bioamber may conduct the Scale-up and Production Project, subject to Bioamber hereby  agreeing to convert the demonstration-scale Pomacle France succinic acid production facility and the Sarnia Plant to solely utilize CB1 as the  biocatalyst for the production of succinic acid (and/or salts thereof). This conversion will be carried out according to the provisions of Section 5.9  of the Commercial License, it being understood that all economic obligations of item (iv) above will be relative to the E. coli strain technology, not  the Mitsubishi strain technology. In order to enable such conversion, Bioamber will put in place agreements with the owners/operators of the  Sarnia Plant that will enable Bioamber to require such conversion of the Sarnia Plant to solely use CB1 for the manufacture of succinic acid as  described above."
+
+Amendment To the Commercial License
+
+A. Section 5.9 of the Commercial License is amended to add the following at the end of the Section:
+
+"Bioamber shall use best efforts to obtain regulatory approvals for the use of the CB1 Strain in all countries where Bioamber and/or a Bioamber  licensee are using any strain other than the CB1 strain for the production of succinic acid and/or salts thereof. Additionally, Bioamber shall use  best efforts to scale up the CB1 Strain and fermentation protocols utilizing the CB1 Strain."
+
+Nothing in these amendments will reduce Bioamber's obligations to replace MCC-17 and Bioamber's current E. coli strain with CB1 in all the  existing and future succinic acid production facilities of Bioamber and Bioamber licensees, according to the provisions of Section 5.9 of the  Commercial License.      * Confidential treatment requested
+
+th th
+
+
+
+
+
+   * Confidential treatment requested
+
+CARGILL, INCORPORATED
+
+By:    /s/ Pirkko Suominen
+
+
+
+Name: Pirkko Suominen Title: Director, Bio Technology Development  Center, Minneapolis Date:   10/19/2011
+
+BIOAMBER, SAS
+
+By:    /s/ Jean-François Huc
+
+
+
+Name: Jean-François Huc Title: President Date:   October 15, 2011

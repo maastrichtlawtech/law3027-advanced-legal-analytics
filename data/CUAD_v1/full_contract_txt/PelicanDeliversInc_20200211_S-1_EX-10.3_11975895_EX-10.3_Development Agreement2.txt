@@ -1,0 +1,165 @@
+SOFTWARE DEVELOPMENT AGREEMENT THIS SOFTWARE DEVELOPMENT AGREEMENT (Agreement ) is made December 3rd, 2018 (the Effective Date) by and between DOT COM LLC, OBA Seattle Software Developers, a Delaware limited liability company (Developer ), and (Client) Pelican Delivers Inc. for the performance of software design services and software development as detailed herein (Developer and Client are individually referred to herein as a Party, and collectively as the Parties).
+
+1. Term Unless otherwise provided herein, this Agreement will commence on the Effective Date and continue through the completion or termination of Developer's services and work product as mutually agreed upon between the Parties (the Project).
+
+2. Statement of Work Developer will design, develop, and deliver, satisfactory to Client, the "Pelican Delivers Application Phase 1" (collectively, the Subject Program), and all elated Project services (collectively, the Services), Project work product (collectively, the Deliverables), and user manuals and other written material that describe he functionality or assist in the use of the Subject Program (collectively, the Documentation), pursuant to the Project specifications detailed in the SO (collectively, Specifications), as described in the enclosed statement of work (the SOW; as provided in APPENDIX A hereto). The Parties may execute multiple SOWs should there be multiple or separate Projects. In the event of any conflict or inconsistency between the terms of this Agreement and any SOW, the terms of this Agreement will control.
+
+3. Delivery Schedule; Acceptance; Change Orders 3.1 DELIVERY SCHEDULE; MILESTONES Each SOW will include a delivery schedule for Services and Deliverables (the Delivery Schedule) that will identify mutual agreed upon Project time deadlines concerning the performance of Services, delivery of Deliverables, Client testing of the same (collectively, Milestones), as well as a final Subject Program delivery date (Final Delivery Date).
+
+12
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+3.2 PROJECT DELIVERY AND INSTALLATION As detailed in a SOW hereto, Developer will provide certain Services, Deliverables and Documentation to Client upon a designated Milestone in accordance with such Milestone's specific Specifications (collectively, Specific Specifications). Prior to completing a Milestone, Developer will: (a) inform Client of the availability of each portion of a Deliverable otherwise required be delivered by such Milestone date for testing by Client (he Acceptance Test Date); and (b) deliver to Client sue Deliverable (each a Milestone Deliverable) including the source code and object code form compatible with the platform(s) described in the SOW for such Milestone Deliverable. 3.3 ACCEPTANCE AND BETA TESTS Within the time periods designated in the SOW, Client shall perform any tests or evaluation of the Subject Program (collectively, the Acceptance Tests) after the Acceptance Test Date, to determine whether each Deliverable: (a) conforms to the SOW; and (b) performs repetitively on an appropriate variety of data and platforms, without failure, as more fully described in the Specifications. Upon completion of II Deliverables, the Acceptance Tests shall be performed on the Subject Program in its entirety in order to determine whether the Subject Program (i) meets the Specifications and (ii) operates with internal consistency. 3.4 ACCEPTANCE OF MILESTONE DELIVERABLE; CHANGE REQUESTS Client will notify Developer in writing of any failure of a Milestone Deliverable to comply with the Specifications, or of any other objections, corrections, changes or amendments required (a Change Request), within ten (10) days of such Milestone's Acceptance Test Date. Any Change Request shall be sufficient to identify, with clarity, any objection, correction, change or amendment to such Milestone Deliverable. In the absence of a Change Request from Client within the time periods detailed herein, the Milestone Deliverable will be deemed accepted by Client. 3.5 REJECTION OF MILESTONE DELIVERABLE If any Milestone Deliverable does not satisfy the Client's Acceptance Test and Client provides Developer a Change Request concerning the same, Developer will have twenty (20) days from the receipt of such Change Request to correct the deficiencies, errors, corrections, modifications, bug- fixes or changes to the Deliverables as identified in the Change Request. Upon Client's receipt of a Milestone Deliverable following Developer's modification pursuant to Change Request (a Modified Deliverable), Client will have five (5) days to inspect, test and reevaluate such Modified Deliverable to determine acceptance. If Client does not notify Developer of any further failures, objections, changes, defects, or bugs in such Modified Deliverable, the Modified Deliverable will be deemed accepted by Client.
+
+13
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+3.6 FAILURE OF DEVELOPER TO CORRECT DEFECTS Should Developer reasonably fail to meet the requirements of Section 3. or Section 3.5 of this Agreement such that a Milestone Deliverable or Modified Deliverable does not satisfy Client's reasonable acceptance criteria within the time periods set forth in the same, Client will have the option of: (a) repeating the procedures set forth in Section 3.4 or Section 3.5 Above; or (b) terminating this Agreement pursuant to Section 8 of this agreement. 3.7 FINAL DELIVERABLE AND SUBJECT PROGRAM TESTING Notwithstanding anything contained herein, upon completion of the Final Deliverable set out in the Specifications thereto, Client will perform Acceptance Test on the Subject Program within fifteen (15) calendar days from the Acceptance Test Date in order to determine whether the Subject Program satisfies the acceptance criteria and operates with internal consistency. If the completed Subject Program does not satisfy the Client's Acceptance Tests and Client provides Developer a Change Request concerning the same, Developer will have fifteen (15) calendar days from the receipt of such Change Request to correct the deficiencies errors, corrections, modifications, bug-fixes or changes. Client shall then have ten (10) additional days to inspect, test and reevaluate the completed and modified Subject Program or Final Deliverable. If the Subject Program or Final Deliverable still does not satisfy the Client's acceptance criteria and/or the Acceptance Tests, Client shall have the option of either: (a) repeating the procedure set forth above; or (b) terminating this Agreement pursuant to Section 12 of this Agreement . If the Client does not notify the Developer of any further failures, objections, changes, or other defects, or bugs of or in the Subject Program via a Change Request, Client will be deemed to have accepted the Subject Program. 3.8 CLIENT ASSISTANCE Client shall provide Developer assistance to complete the Services, and produce the Deliverables, as reasonably requested, including but not limited to providing the necessary information or documentation required from Developer for the development of the Subject Program. Client shall conduct all Acceptance Tests in good faith and shall not delay any acceptance of any Service or Deliverable without reasonable justification. The evaluation of any Service or Deliverable for any Acceptance Test will be based on material compliance with applicable Specifications and Client shall not arbitrarily withhold acceptance of any Milestone Deliverable or Subject Program. 3.9 DEVELOPER DUTIES FOR ACCEPTANCE TESTS Unless otherwise agreed by the Parties in writing, regardless of the acceptance or rejection of any Milestone Deliverable, Developer shall continue to perform all Services and deliver all Deliverables in accordance with the Delivery Schedule. Developer shall use its best efforts to make any necessary corrections, modifications, bug-fixes, or other changes promptly to complete the Services and Deliverables by the Final Delivery Date.
+
+14
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+4.10 CLIENT TERMINATION SERVICES If elected pursuant to the Agreement, Developer will provide Client Termination Assistance Services at an hourly rate of $[125.00 per hour].
+
+4. Change Orders Sometimes during the term of this Agreement change order may or may not be requested by Client. However, If Client requests that Developer provide any additional Services or Deliverables or functionalities beyond those detail d in an applicable SOW, or requests a modification or change to any of the Services or Deliverables if possible, client will: (A) Submit to Developer, by means of a written order, all requests r additional services that alter, amend, enhance, add to, or delete any of the Services or Deliverables (a Change Order); (B) Developer will evaluate each Change Order, and within five (5) days of its receipt, will provide Client with (i) the change in Fee costs as a result of the Change Order, (ii) the impact, if any, of the Change Order on an aspect of the Delivery Schedule including any Milestone Date, Acceptance Test Date, or the Final Delivery Date, and (iii) the availability of Developer' resources to carry out the additional requested services detailed in the Change Order; (C) If Developer agrees to carry out the proposed Change Order, the Parties will execute an amended SOW or Change Order reflecting the Service and Deliverable changes; (D) Upon duly executing an amended SOW or executed Change Ord r, Developer will begin performance in accordance with the same. Developer has no obligation to perform any additional services before receiving the duly- executed amended SOW or executed Change Order, and Client has no obligation to pay Developer any Fees for services performed pursuant to an amended SOW or Change Order before the same; and (E) Once fully completed and executed, each amended SOW or Change Order will be deemed to be incorporated into and be part of this Agreement and will constitute a formal amendment to this Agreement.
+
+15
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+5. Payment 5.1 FEES AND EXPENSES Client will pay fees to Developer for Project Services and Deliverables as Described in the SOW (the Fees). Developer will pay its own expenses for the Project (collectively, the Expenses) unless stated otherwise in the SOW. 5.2 FEES AND EXPENSES All Fees shall be due pursuant to the Fee payment schedule provided in a SOW hereto (the Fee Payment Schedule). Client's failure to remit payment to Developer for Fees due and owning will constitute a material breach of this Agreement. 5.3 BONUS If Developer completes the Services, and delivers the Deliverables, as reasonably accepted by Client, upon a date prior to the Final Delivery Date as specific in a SOW hereto, Client will pay Developer a bonus Fee in the amount detailed in the applicable SOW (the Bonus). 5.4 PAYMENT Client shall pay Fees, Expenses (if any), and any Bonus to Developer via w re to Developer's bank account at: Chase Bank 1955 156th Avenue NE Bellevue, Washington 98007 425-590-4010 Routing: 325070760 Account :676313880
+
+16
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+6. Intellectual Property 6.1 WORK MADE FOR HIRE AND ASSIGNMENT OF RIGHTS Except as otherwise detailed in this Agreement, the Parties acknowledge and agree that the Subject Program including without limitation the Deliverables and Documentation (collectively, the Works) are "work made for hire" in accordance with the U.S. Copyright Act, 17 U.S.C. § 101 et seq. Accordingly, Client will be the copyright author and owner of all of the Works. To the extent permissible, Developer hereby assigns and transfers to Client all copyright and other intellectual property ownership in the Works. Developer agrees to assist Client, as well as execute any documents reasonably necessary, to perfect the assignment of such rights to Client. Developer acknowledges and agrees that the payment of Fees and a Bonus (if any), as referenced in Section 5 of this Agreement, shall be the full consideration to Developer for the assignment of rights herein. Upon payment in full of all obligations hereunder, Developer unconditionally and irrevocably grants to Client all software, improvements, code and other work produce produced by the Developer during the course of this agreement. The code shall be the sole and exclusive property of the Client. 6.2 DEVELOPER'S INTELLECTUAL PROPERTY Notwithstanding the provisions of Section 6.1 of this Agreement, the Par acknowledge and agree that: (a) Developer may use its proprietary information software (collectively, Developer Technology) in providing Services, and Deliverables, to Client; and (b) Developer shall retain full ownership over its Developer Technology. If Developer uses any of its Developer Technology in any of the Works, Client will: (i) not acquire any proprietary or ownership rights to any of Developer Technology by virtue of this Agreement; and (ii) agree not to market or use any Developer Technology as an independent "stand-alone" program without the prior written consent of Developer. 6.3 LICENSE TO CLIENT'S INTELLECTUAL PROPERTY To assist Developer to complete all Project-related Services and deliverable Deliverables to Client in a complete and timely manner, Client shall provide Developer access and licensed rights to the following as necessary to complete the Project: (a) text, software, graphics, photos, sounds, music, videos, designs, compilations, magnetic translations, digital conversion interactive features and the like (collectively, the Content); (b) any trademarks, service marks, trade dress and logos, whether owned or licensed by Client (collectively, the Marks); and (c) any know-how, methodologies, equipment, or processes used by Client in its operations {collectively, the Procedures); and (d) Client's Confidential Information (as defined below). As such, Client hereby grants Developer a royalty-free, worldwide, license to use its Content, Marks, Procedures and Confidential Information in order to complete the Project. Client hereby acknowledge and agrees that Client waives all moral rights to be identified as the author on any and all material or content identified under this subsection of this Agreement.
+
+17
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+6.4 CONFIDENTIALITY AND NON-DISCLOSURE 6.4.1 Confidential Information. Each Party acknowledges and agrees that it will receive confidential information and trade secrets from the other Party in otherwise carrying out the actions contemplated by this Agreement (collective, Confidential Information). Confidential Information does not include information at: (a) is available to the public or that becomes available to the public through no act or failure to act by the receiving Party (Receiving Party); (b) is known to the Receiving Party prior to the date of disclosure by the disclosing Party (Disclosing Party), unless the Receiving Party agreed to keep such information in confidence at the time of receipt of the information; (c) is properly obtained hereafter from a source that is not under an obligation of confidentiality with respect to such information; or (d) is developed independently by the Receiving Party without reference to or use of the Disclosing Party's Confidential Information. 6.4.2 Non-Disclosure. Neither Party shall use or disclose Confidential Information of the other Party to any third party, without the written consent of the Disclosing Party of such Confidential Information. Receiving Party agrees to undertake reasonable measures to maintain and preserve the Confidential Information of the Disclosing Party in confidence, which measures shall be no less than the measures taken by the Receiving Party to protect its own confidential information and in no vent shall be less than reasonable care. Upon expiration or termination of this Agreement, Receiving Party will immediately destroy or erase all copies of documents or materials containing any Confidential Information provided by Disclosing Party and, upon the Disclosing Party's request, promptly confirm destruction of same by signing and returning to the Disclosing Party a certificate of destruction reasonably satisfactory to the Disclosing Party. 6.4.3 Derivatives. All Confidential Information, and any Derivatives thereof whether created by Client or Developer, remain the property of the Disclosing Party and no license or other rights to any Confidential Information or Derivatives is granted or implied hereby. For purposes of this Agreement, Derivatives shall mean: (a) for copyrightable or copyrighted material, any translation, abridgment, revision or other form in which an existing work may be recast, transformed or adapted ;(b) for patentable or patented material, any improvement thereon; and (c) for material which is protected by trade secret, any new material derived from such existing trade secret material, including new material which may be protected under applicable copyright, patent, or trade secret law. 6.4.4 Notification of Suspected Disclosure. The Receiving Party further agrees to immediately notify Disclosing Party of any actual or suspected misuse misappropriation, or unauthorized disclosure of Confidential Information, which may come to Receiving Party's attention.
+
+18
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+6.4.5 Injunctive Relief for Breach. Because of the unique nature of the Confidential Information and other elements of the Parties business relationship, the Parties acknowledge and agree that a breach of any of the provisions of Section 6 of this Agreement by Receiving Party will irreparably harm the Disclosing Party. Accordingly, in the event of a breach or threatened breach of Section 6 of this Agreement, Disclosing Party will be entitled to seek injunctive relief to enforce the terms of Section 6 of this Agreement without the necessity of posting a bond or if a bond is required, at the minimum amount legally required.
+
+7. Parties Relationship 7.1 INDEPENDENT CONTRACTOR Developer is undertaking the services set forth in this Agreement as an independent contractor, working at Developer's own hours and using Developer's own equipment and at Developer's own chosen place of work, with discretion concerning the revision of Services and Deliverables within Client's general direction. Nothing contained in this Agreement will be construed to constitute the Parties as partners, employees, agents or joint ventures of each other. No Party will have the authority to bind the other Party in any respect. 7.2 NON-EXCLUSIVITY Subject to the terms and conditions herein, the Parties expressly acknowledge that this Agreement does not create an exclusive business relationship between the Parties. Subject to the terms and conditions herein, Developer shall be entitled to offer and provide software design and development services to third parties solicit other clients and otherwise advertise its services.
+
+8. Taxes Developer acknowledges and agrees that as an independent contractor, developer is responsible for the payment of such taxes and withholding on its income and activities as may be due under federal, state and local law and regulations. If appropriate, Developer will furnish Client with a Form 1099 or equivalent for the payments made to Developer.
+
+19
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+9. Warranties and Representations 9.1 CLIENT Client represents, warrants and covenants that: (a) Client is a duly organized, validly existing and in good standing (b) Client has the full right and legal author y to enter into and fully perform its duties and obligations under this Agreement; (c) Client owns all right, title, and interest in, or otherwise has full right and authority to permit Developer's use of Content, Marks, Procedures and Client's Confidential Information, as detailed in this Agreement; (d) is solely responsible for compliance with all federal, ate, and local laws, rules, regulations, executive orders, ordinances, standards, and best practices applicable to Client's business or industry; and (e) Client will comply with all federal, state, and local laws, rules, regulations, executive orders, ordinances, standards, and best practices applicable to Client's business or industry.
+
+10. Indemnification 10 1 CLIENT Client shall defend, indemnify and hold harmless Developer, its member owners, officers, employees, independent contractors and agents, from and against all losses, claims, liabilities or damages and any related costs and expenses, including attorneys' fees and costs arising out of, or in any way related to any claim or action against Developer arising out of or in any way related to: (a) Client's breach of this Agreement; (b) a breach of any agreement between Client and its clients or customer; (c) Client's gross negligence or willful misconduct; (d) Client's act or omission constituting a violation of applicable federal, state, local law or regulation; or (e) any claim made against Client asserting a violation of any third party right. 10.2 DEVELOPER Developer shall defend, indemnify and hold harmless Client, its members owners, officers, employees, independent contractors and agents, from and against all losses, claims, liabilities or damages and any related costs and expenses, including attorneys' fees and costs arising out of, or in any way related to any claim or action against Client arising out of or in any way related to: (a) Developer's material breach of his Agreement; (b) Developer's gross negligence or willful misconduct; (c) De eloper's act or omission constituting a violation of applicable federal, state, local law or regulation; or (d) any claim made against Client asserting a violation of any third party intellectual property right pertaining to the Subject Program.
+
+20
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+10.3 NON DISPARAGEMENT CLAUSE The Client and the Designer both agree to never to disparage or speak ill of the other party to anyone and or post negative or disparaging comments Online regarding any of the Designer's products, services, affiliates, subsidiaries, officers, directors, employees or shareholders, and will take reasonable steps to prevent and will not knowingly permit any of their respective employees or agents to, disparage or speak ill of such persons. For purposes of this Section, "disparage" shall mean any negative statement whether written or oral, about Seattle Software Developers, Inc., Dot Com LLC. and or any of its affiliates. The Client and Designer both agree not to post on defamatory websites or review websites any negative posts concerning each other, the names of our companies, and our employees. Both the Client and the Designer both agree and acknowledge that this non-disparagement provision is a material term of this Agreement, the absence of which would have resulted in the Company refusing to enter into this Agreement. Subject to the terms, conditions, express representations and warranties provided in this Agreement, Designer and Client both agree to indemnify, save and hold armless each other from any and all damages, liabilities, costs, losses or expenses arising out of any finding of fact which is inconsistent with Designer's representations and warranties made herein, except in the event any such claims, damages, liabilities, costs, losses or expenses arise directly as a result of gross negligence or misconduct of Client.
+
+11. Termination 11.1 TERMINATION WITHOUT CAUSE Either Party may terminate this Agreement at any time during the term of this Agreement for any reason upon two weeks written notice to the other Party. Upon termination of this Agreement for any reason: (a) all provision of Service and Deliverables by Developer will immediately cease; (b) Client will pay Fees or all Services and Deliverables provided by Developer to Client up to and including the ate of termination; and (c) in compliance with Section 6.1 of this Agreement, Developer will transfer all Works to Client as of the date of termination. 11.2 TERMINATION FOR CAUSE This Agreement may be immediately terminated by notice of the terminating Party upon: (a) the other Party's material breach of this Agreement and fails to cure such default within ten (10) calendar days after receipt of a notice of default from the terminating Party; (b) if Client fails to pay to Developer any undisputed Fees when du and fails to cure any such breach within ten (10) calendar days after receiving notice from Developer of such failure; (c) misappropriation or unauthorized disclosure of Confidential Information by the Receiving Party; or (d) the other Party engages in any act or omission that is determined to be illegal or in violation of any applicable law or regulation.
+
+21
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+11.3 OBLIGATIONS UPON TERMINATION If Client terminates this Agreement or any SOW for any reason, Client will pay Developer any Fees due and payable on the effective date of such termination or expiration, and Developer will refund to Client any non-accrued pre-paid Fees. In the event of a termination or expiration of this Agreement or any SOW for any reason, developer will, as requested by and at additional cost to Client, provide up to three (3) months of Fee billable assistance (collectively, the Termination Assistance Services) in transitioning from Developer to an alternative software service provider including, without limitation, the following: (a) knowledge transfer regarding the operation, use, and support of the subject Program; return of all documentation containing Content, Marks, Procedures a d Confidential Information in a format reasonably specified by Client and assistance with data migration to an alternative solution; and (c) any related additional services as requested by Client. Developer shall provide Termination Assistance Services to Client in a manner that does not interfere with, interrupt or degrade the Subject Program. The term of this Agreement or applicable SOW shall not be deemed to have expired or terminated until the Termination Assistance Services are completed.
+
+12. General 12.1 CHOICE OF LAW AND VENUE This Agreement will be governed by the laws of the State of Washington without regards for its conflict of laws principle. The Parties will conduct friendly negotiations to resolve any dispute arising from this Agreement, including mediation if requested by either Party. Should mediation fail, each party consents to the personal jurisdiction of the state and federal courts located in King County, Washington. If there is a dispute between the Parties relating to this Agreement, the Party substantially prevailing will be entitled to recover all costs and expenses of any subsequent proceeding (including trial, appellate, and arbitration proceedings), including reasonable attorneys' fees and costs incurred therein.
+
+22
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+12.2 NOTICE A notice required or permitted under this Agreement will be deemed given if in writing, and delivered by a Party in person, one (1) business day after being sent via overnight carrier, or three (3) business days after being sent by certified mail return receipt requested to the address set forth below, or such other address as may be supplied by either Party subsequently: If to Developer: SEATTLE SOFTWARE DEVELOPERS, INC 4-102ND AvenueNE, Suite 300 Bellevue, Washington 98004 IF to attorney: Copy to: Perkins Coie 1201 third avenue, Seattle, Washington 98101 Attn: LUCAS S. MICHELS, ESQ.
+
+If to Client: Pelican Delivers Inc. Dave Comeau 5452 Pineridge Drive Bremerton, WA 983 360-731-6611
+
+12.3 SEVERABILITY If any provision of this Agreement is held by a court of law to be illegal, invalid or unenforceable: (a) that provision shall be deemed amended to achieve s nearly as possible the same economic and/or protective effect as the original provision; and (b) the legality, validity and enforceability of the remaining provisions of this Agreement shall not be affected or impaired thereby. 12.4 WAIVER No delay or omission by either Party hereto to exercise any right or pow r occurring upon any noncompliance or default by the other Party with respect to a y of the terms of this Agreement shall impair any such right or power or be construed to be a waiver thereof. A waiver by either of the Parties hereto of any of the covenants, conditions, or agreements to be performed by the other shall not be construed to be a waiver of any succeeding breach thereof or of any covenant, condition, or agreement herein contained. Unless stated otherwise, all remedies provided for in is Agreement will be cumulative and in addition to and not in lieu of any other remedies available to either Party at law, in equity, or otherwise. 12.5 ASSIGNMENT This Agreement will be binding on and inure to the benefit of the Parties their respective successors, assigns, heirs and personal representatives. Unless as provided herein, neither Party may assign, delegate, assign, nor subcontract their obligations and duties hereunder without the prior written consent of the non-assigning Party. Notwithstanding the foregoing, Developer may assign it rights and benefits under this Agreement, and delegate the performance of its obligations and duties hereunder, to any corporation or unincorporated business that is the successor to the business of Developer, without Client express or implied authorization.
+
+23
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+12.6 OTHER DEFINITIONAL TERMS, TERMS OF CONSTRUCTION The words hereof, herein and hereunder and words of similar import when used in this Agreement refer to this Agreement as a whole and not to any particular provision of this Agreement. The words include, includes and including shall be deemed to be followed by the phrase without limitation. Unless the context in which used herein otherwise clearly requires, or has the inclusive meaning represented by the phrase and/or. All incorporations by reference of covenants, terms, definitions or other provisions from other agreements are incorporated into this Agreement as if such provisions were fully set forth herein, and include all necessary definitions and related provisions from such other agreements. All covenants, terms, definition and other provisions from other agreements incorporated into this Agreement by reference will survive termination of this Agreement. References to statutes, regulations or laws, include any amendments, modifications or replacements of such statutes, regulations, or laws. 12.7 COUNTERPARTS This Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and t e same instrument. Counterparts may be delivered via facsimile, e-mail (including pdf) or other transmission method, and any counterpart so delivered shall be deemed to have been duly and validly delivered and be valid and effective for all purposes. 12.8 ENTIRE AGREEMENT AND UNDERSTANDING This Agreement and Appendices hereto are the complete and exclusive statement of agreement of the Parties as to matters covered by it. This Agreement and its Appendices replaces and supersedes all prior written or oral agreement or statements by and among the Parties with respect to the matters covered by it. This Agreement may not be modified or amended except in writing signed by a duly authorized representative of each Party.
+
+24
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+13. Acknowledgement by Client Client agrees to the terms of this Agreement and Appendices hereto an acknowledges receipt of a copy of this Agreement. IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date Acceptance by Developer By: /s/ Julian Valentine Julian Valentine, VP
+
+Acceptance by Client: By: /s/ Dave Comeau Dave Comeau, Shareholder
+
+25
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020

@@ -1,0 +1,31 @@
+EXHIBIT 10.3
+
+NETZEE, INC.
+
+MAINTENANCE AGREEMENT
+
+This Agreement provides for Continued Service and for Netzee to provide basic maintenance in support following expiration of the initial one (1) year term of the License/Services Schedule.
+
+The Continued Service provided by Netzee will be the operation, maintenance, and support of the computer systems, software and interfaces included in the System.
+
+Bankers Bank agrees to pay fees equal to $40 per month for all Participating Banks (original or added) for which maintenance is provided.
+
+The maintenance is for a period of one (1) year commencing upon expiration of the initial one (1) year term of the License/Services Schedule. Following the completion of such maintenance term, Bankers Bank may, at its option, renew maintenance for subsequent periods of one (1) year each, subject to adjustments proposed by Netzee not to exceed 5% at least sixty (60) days in advance of the applicable renewal date.
+
+Maintenance provided by Netzee during the term of this Agreement shall include (1) standard maintenance upgrades and modifications offered by Netzee to its customers generally, standard maintenance upgrades and modifications offered by Netzee to its customers generally, and for such purpose Netzee will use commercially reasonable efforts to make and include (without limitation) as such modifications changes and upgrades necessary to comply with generally applicable industry and regulatory requirements of which it is notified (2) 5x12 call-in support between hours of 6:30 a.m. and 6:30 p.m. Eastern Time Monday through Friday, (3) in the event of material discrepancies between the Services as provided and the specifications for such Services (which shall be furnished in reasonably acceptable form), reasonable effort (in relation to importance, impact, and scheduled development plans) to correct those discrepancies, and (4) availability of basic Services with at least 99% uptime between 4:00 a.m Monday and 7:00 p.m. Friday and between 8:00 a.m. Saturday and 2:00 p.m. Saturday Eastern Time, exclusive of outages caused by off-peak prescheduled maintenance or causes beyond Netzee's reasonable control (including third-party equipment or communications).
+
+THIS MAINTENANCE AGREEMENT IS GOVERNED BY, AND SHALL BE SUBJECT TO, THE TERMS AND CONDITIONS OF THE MASTER AGREEMENT BETWEEN NETZEE AND BANKERS BANK, INCLUDING THE LIMITED WARRANTY AND DISCLAIMER AND LIMITATIONS OF LIABILITY PROVIDED THEREIN. SUCH TERMS AND CONDITIONS ARE HEREBY AFFIRMED BY BOTH PARTIES AND INCORPORATED BY REFERENCE IN THIS MAINTENANCE AGREEMENT, INCLUDING, WITHOUT LIMITATION, ALL LICENSES GRANTED OR EXERCISABLE THEREUNDER.
+
+COMMENCEMENT DATE FOR MAINTENANCE UNDER THIS ADDENDUM:  MARCH 1, 2001
+
+1
+
+IN WITNESS WHEREOF, the undersigned duly authorized representatives of the parties hereto have made and entered in this Agreement.
+
+NETZEE, INC.                                THE BANKERS BANK, a Georgia                                             banking corporation
+
+By:      /s/ Richard S. Eiswirth            By:       /s/ Kevin Tweddle          ------------------------                     --------------------------
+
+Name:      Richard S. Eiswirth              Name:       Kevin Tweddle          ------------------------                     -------------------------- Title:       SEVP & CFO                     Title:         SVP & CFO          ------------------------                     --------------------------
+
+2

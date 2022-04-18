@@ -1,0 +1,175 @@
+Exhibit 10.1
+
+Information identified with "[***]" has been excluded from this exhibit because it is both not material and would likely cause competitive harm to the registrant if publicly disclosed.
+
+SUPPLY AGREEMENT
+
+This Supply Agreement (the "Agreement") is entered into as of February 28, 2019 by and between Florida Chemical Company, LLC, a Delaware limited liability company ("FCC") and Flotek Chemistry, LLC, an Oklahoma limited liability company ("Flotek").
+
+WHEREAS, the parties desire to set forth the terms pursuant to which FCC will supply certain products to Flotek; and
+
+NOW, THEREFORE, in consideration of the foregoing recitals and the mutual covenants and agreements contained herein, the parties do hereby agree as follows:
+
+1. Definitions. For purposes hereof:
+
+"Affiliate" means any party controlled by, controlling under common control with, the party to whom the reference is made.
+
+"Margin" means $[***] per pound of Terpene Product.
+
+"Maximum Quantity" means [***] pounds of Terpene Product per Year, prorated for any partial Year included in the Term.
+
+"Minimum Quantity" means [***] pounds of Terpene Product per Year, prorated for any partial Year included in the Term.
+
+"Product Price" means with respect to a pound of Terpene Product the Terpene Cost of that Terpene Product, plus the Margin.
+
+"Terpene Cost" means the cost per pound to FCC of the raw materials incorporated by FCC into Terpene Product, computed based on the methodology used by FCC to account for its inventory (e.g. LIFO, FIFO) (provided that such method is in accordance with Generally Accepted Accounting Principles, consistently applied), plus a deemed allocation of other manufacturing costs of FCC of $[***] per pound.
+
+"Terpene Product" means terpene from citrus with a minimum d-limonene content of 94%, with the specifications set forth in Exhibit A to this Agreement.
+
+"Year" means a calendar year.
+
+2. Purchase and Sale. Flotek will from time to time during the Term purchase from FCC, and FCC will sell to Flotek, Terpene Product.
+
+3. Term. The "Term" shall begin on the date hereof and shall expire December 31, 2023, subject to early termination pursuant to the terms of Section 19. Flotek, may, by written notice given to FCC on or before September 30, 2023, elect for the Term to be extended to December 31, 2024.
+
+4. Price. The price per pound payable by Flotek to FCC for Terpene Product shall be the Product Price of that Terpene Product.
+
+5. Forecasts; Terpene Cost Information.
+
+(a) Flotek shall provide non-binding forecasts of orders of Terpene Product for each calendar quarter during the Term at least ten (10) days prior to the commencement of such quarter.
+
+(b) Within fifteen (15) days of the end of each calendar quarter FCC shall provide to Flotek a written report providing reasonable detail regarding the cost of citrus terpene inventory.
+
+6. Orders; Delivery.
+
+1
+
+
+
+
+
+(a) Flotek shall order Terpene Product by sending to FCC written purchase orders in the form attached hereto as Exhibit A. FCC shall promptly, but in no event later than three (3) days after the date of such purchase order, confirm its acceptance or rejection of such purchase order by written notice to Flotek. FCC shall be obligated to accept all such purchase orders unless the amount ordered for a Year exceeds the Maximum Quantity, or orders for a particular quarter exceed [***] pounds or exceed the Flotek forecast for that quarter by more than 25%, provided, however, that, in such event, FCC shall communicate Flotek of the time period that will be required to satisfy such order assuming FCC endeavors to satisfy such order as soon as practicable, and Flotek shall inform FCC within ten (10) days of such communication whether it will order such Terpene Product pursuant to the revised delivery terms.
+
+(b) Shipments of Terpene Product to Flotek must be made by FCC from FCC's facility within three (3) days of the date of the applicable purchase order. Delivery terms shall be FOB Winter Haven, Florida. Transportation shall be arranged by Flotek. All sales of Terpene Product subject to this Agreement shall be pursuant to the terms and conditions attached hereto as Exhibit B.
+
+(c) FCC shall invoice Flotek for Terpene Product at the time of shipment. Payment of FCC invoices shall be due within sixty (60) days of the respective invoice date.
+
+(d) In the event that Flotek does not order the Minimum Quantity in a given Year, FCC may ship to Flotek the remaining quantity of Terpene Product prior to the end of such Year, and invoice Flotek as described in Section 6(c).
+
+7. Adjustments. Representatives of Flotek and FCC shall consult with each other from time to time during the Term to discuss and resolve any issues arising from the performance of this Agreement. The parties may, by written agreement, revise the Maximum Quantity, the Margin, the Target Margin, or the Product Price. Flotek and FCC may agree in writing from time to time that quantities of Terpene Product over the Maximum Quantity shall be purchased by Flotek pursuant to this Agreement.
+
+8. Inspection and Audit. Flotek shall have the right at any time to (i) inspect the facility of FCC in Winter Haven, Florida (the "Facility") and any other facility of FCC involved in the production of the Terpene Product, and (ii) audit the books and records of FCC. Any such inspection or audit shall be upon reasonable notice and shall not unreasonably interfere with the operations of FCC.
+
+9. Capacity. FCC will throughout the Term maintain adequate manufacturing capacity and staffing to manufacture the Terpene Product pursuant to the terms hereof at the Facility.
+
+10. Force Majeure. Fire, flood, strikes, lock-out, epidemic, or other acts of God beyond the reasonable control of the parties, which prevent FCC from delivering or Flotek from receiving and/or using the Terpene Product, shall operate to reduce or suspend deliveries during the period required to remove such cause. Any deliveries suspended under this paragraph shall be canceled without liability, and the Target Margin shall be correspondingly reduced. An event of Force Majeure shall not include (a) financial distress nor the inability of either party to make a profit or avoid a financial loss, (b) changes in the market prices or conditions, or (c) a party's financial inability to perform its obligations hereunder.
+
+11. Intellectual Property. By acceptance of this Agreement and in consideration thereof, FCC warrants and agrees that, subject to other provisions of this clause, it will defend any suit that may arise against Flotek or any Affiliate thereof for alleged infringement of any patents, copyrights or similar intellectual property rights relating to the Terpene Product and that the FCC will indemnify and save harmless Flotek and any Affiliate thereof, against any loss, damages, costs and expenses including reasonable attorneys' fees, which may be incurred by Flotek or Affiliate by reason of the assertion of any such rights by other persons. Nothing in this Agreement shall obligate FCC to indemnify or save harmless Flotek or its Affiliates against third party claim alleging a violation of any patents, copyrights or similar intellectual property rights owned by Flotek or its Affiliates.
+
+12. Confidentiality. All proprietary, technical, experimental, manufacturing, marketing and/or other information disclosed by a party hereto to the other party hereto pursuant to this Agreement are considered by the disclosing party as being highly confidential in nature. The recipient party agrees to take all reasonable precaution to prevent disclosure of such information to third parties. The recipient party shall hold in confidence any technical or business information the recipient party may learn, observe or otherwise obtain concerning the other party hereto, or of its Affiliates, incident to the recipient party's performance under the terms of this Agreement. These restrictions upon disclosure shall cease to apply as to any specific portion of said information which is or becomes available to the public generally, not due to the fault of the recipient party.
+
+13. Fulfilling Production Requirement. Should FCC fail (due to causes within FCC's control) to meet Flotek's Terpene Product orders made in accordance with this Agreement, FCC shall be required (without limiting any other remedy of Flotek) to take all reasonable steps, including but not limited to working extra hours, shifts, or days to without otherwise limiting the remedies of Flotek, to fulfill FCC's obligations hereunder. All costs for such effort will be at FCC's expense. Further, FCC may use alternate shipping methods to expedite delivery to Flotek to meet schedules to which both parties agree. Additional
+
+2
+
+
+
+
+
+shipping costs resulting from expedited deliveries or use of alternate carriers due to causes within the FCC's control will be at FCC's expense.
+
+14. Rework and Product Liability Indemnification. In the event of any defect in the Terpene Product delivered to Flotek hereunder, FCC will (without limiting any other remedy of Flotek), upon Flotek's request, replace any defective Terpene Product at the expense of FCC. In addition, FCC shall be responsible for claims by third parties against Flotek for loss or damage based on personal injury or destruction of property due solely to defects in Terpene Product. FCC shall be responsible for the defense, settlement or other final disposition of such claims and agrees to hold Flotek harmless from any expenses or liability arising out of such claims. Flotek may, at its option and expense, retain counsel to participate in the investigation and handling of such claims, although FCC shall have control of all such claims, and the Flotek shall not settle or otherwise dispose of any such claims without the written consent of the FCC.
+
+15. Personal Injury and Property Damage Liability Indemnification. FCC assumes sole responsibility for taking all necessary health and safety precautions, including compliance with all applicable local, state, provincial and federal regulations, in producing Terpene Product under this Agreement. These precautions shall include, but not be limited to, such things as proper control of ventilation, the wearing of adequate protective clothing, and installation and proper utilization of appropriate environmental control equipment. FCC will supply Flotek with its Materials Safety Data Sheets with respect to the Terpene Product. FCC will defend, indemnify and hold harmless Flotek, its Affiliates, and their respective officers and employees from all claims, actions, losses, damages and expenses resulting from any injury to persons, damage to property or action by any regulatory agency, arising out of or in any way associated with the operation of the Facility or any other facility of FCC, including, without limitation, injuries to FCC's employees involved in these operations REGARDLESS OF THE NEGLIGENCE OF ANY OF THE INDEMNIFIED PARTIES. FCC agrees to provide $5,000,000 of commercial liability insurance in support of this indemnity which names Flotek as additional insured, with waiver of subrogation.
+
+16. Environmental Indemnity. Each party hereto agrees to comply with all applicable federal, state provincial and or local environmental law, ordinances, codes, rules, regulations and permits and to handle all raw materials, off specification product, excess or scrap materials, waste, and finished products in an environmentally safe manner so as to prevent any contamination of the structure, soil or ground water in, on, or adjacent to its premises. Each party hereto agrees to indemnify the other party hereto, its Affiliates, subsidiaries, successors, assigns and their respective directors, officers, shareholders and employees and defend and save and hold each of them harmless from all liabilities, losses, claims, demands, assessments, fines, costs or expenses (including, without limitation, reasonable attorneys' and consultants' fees and expenses) of every kind, nature or description arising under common law or any applicable environmental law resulting from, arising out of or relating to any conditions or activities at or involving the premises of the indemnifying party REGARDLESS OF THE NEGLIGENCE OF ANY OF THE INDEMNIFIED PARTIES.
+
+17. Other Sales and Purchases. FCC will be permitted during the Term to sell terpene to other parties who will utilize or resale such terpene for oilfield solvent applications. Notwithstanding any of the terms of this Agreement, Flotek shall not be restricted from purchasing any terpene-based product, including but not limited to, Terpene Product, from sources other than FCC.
+
+18. Termination.
+
+(a) Either Flotek or FCC may terminate the Term immediately, upon a written notice to the other such party, when one of the following events occurs:
+
+(i) When the other Party materially violates one or more clause set forth herein or violates one or more purchase order relating to this Agreement and does not remedy such violation within 30 days from receiving the written notice from the other party of such fact ("Cure Period"). For the avoidance of doubt, the Parties understand that the postponing of the delivery of the Terpene Product pursuant to Section 11 of this Agreement, shall not be a cause for termination of the Term.
+
+(ii) When one of the Parties is the subject of a request for voluntary and involuntary bankruptcy, recuperation or renewal, based on bankruptcy laws, or incurs in any equivalent situation.
+
+The rights and obligations of the parties hereto pursuant to Sections 12, 13, 15, 16, 18, and 19 shall survive the Term.
+
+19. Warranties. FCC warrants to Flotek that:
+
+(a) all of the Terpene Product supplied by FCC to Flotek shall:
+
+(i) conform to the specifications set forth in Section 1;
+
+3
+
+
+
+
+
+(ii) comply with all relevant laws and regulations including, without limitation, laws and regulations of each of the jurisdictions in which the Terpene Product are either manufactured or to be sold or used concerning purity, sanitation, safety, security, and packaging and labeling of food and beverage;
+
+(iii) be in good condition at the time of delivery in all respects; and
+
+(iv) be free from any defect in design, workmanship, materials and packaging; and
+
+(b) it shall convey to Flotek good title to the Terpene Product free of any encumbrance, lien or security interest;
+
+20. Independent Contractor. FCC is an independent contractor and it is the express understanding of the parties hereto that nothing herein contained shall create any relationship of master and servant, partner, principal and agent between the parties hereto, or their respective employees, servants or agents.
+
+21. Remedies. If any legal action or other proceeding is brought for the enforcement of this Agreement, or because of an alleged dispute, breach, default or misrepresentation in connection with any of the provisions of this Agreement, the successful or prevailing party or parties shall be entitled to recover reasonable attorneys' fees and other costs incurred in that action or proceeding in addition to any other relief to which it or he may be entitled at law or equity.
+
+22. Notices. All notices, consents, demands or other communications required or permitted to be given pursuant to this Agreement shall be deemed sufficiently given when delivered personally during business days to the appropriate location described below or three (3) business days after the posting thereof by United States first class, registered or certified mail, return receipt requested, with postage fee prepaid and addressed or if sent by email to the email address indicated below, four hours after transmitted:
+
+If to FCC: Florida Chemical Company, LLC c/o Archer Daniels Midland Company 1261 Pacific Avenue Erlanger, KY 41018 Attn: President, ADM Nutrition; Chief Financial Officer, WFSI; Chief Counsel, ADM Nutrition Email: Vince.Macciocchi@adm.com, Jeff.W.Miller@adm.com and Louis.Proietti@adm.com
+
+If to Flotek: Flotek Chemistry, LLC: Attn: President 10603 W. Sam Houston Parkway N., Suite 300 Houston, Texas 77064 Tel: 713-849-9911 Fax: 281-605-5554 Email: jchisholm@flotekind.com
+
+23. Successors. FCC may not assign or delegate its rights or obligations pursuant to this Agreement. Subject to the foregoing, this Agreement shall be binding upon each of the parties upon their execution, and inure to the benefit of the parties hereto and their successors and assigns. Any assignee whatsoever will be bound by the obligations of the assigning party under this Agreement, and any assignment shall not diminish the liability or obligation of the assignor under the terms of this Agreement unless otherwise agreed.
+
+24. Severability. In the event that any one or more of the provisions contained in this Agreement or in any other instrument referred to herein, shall, for any reason, be held to be invalid, illegal, or unenforceable in any respect, such invalidity, illegality, or unenforceability shall not affect any other provision of this Agreement or any such other instrument.
+
+25. Paragraph Headings. The paragraph headings used herein are descriptive only and shall have no legal force or effect whatsoever.
+
+26. Gender. Whenever the context so requires, the masculine shall include the feminine and neuter, and the singular shall include the plural and conversely.
+
+27. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the state of Delaware.
+
+4
+
+
+
+
+
+28. No Presumption Against Any Party. Neither this Agreement nor any uncertainty or ambiguity in this Agreement shall be construed or resolved against any party, whether under any rule of construction or otherwise. On the contrary, this Agreement has been reviewed by each of the parties and their counsel (or the party has elected not to consult with counsel of its own choosing) and shall be construed and interpreted according to the ordinary meaning of the words used so as to fairly accomplish the purposes and intentions of all parties.
+
+29. Multiple Counterparts. This Agreement may be executed in multiple counterparts, each of which shall be deemed an original.
+
+30. Waiver. Any waiver by either party to be enforceable must be in writing and no waiver by either party shall constitute a continuing waiver.
+
+31. Cross References. References in this Agreement to Articles, Sections, Exhibits, or Schedules shall be deemed to be references to Articles, Sections, Exhibits, and Schedules of this Agreement unless the context specifically and expressly requires otherwise.
+
+32. Entire Agreement. This Agreement and the other agreements referred to herein set forth the entire understanding of the parties hereto relating to the subject matter hereof and thereof and supersede all prior agreements and understandings among or between any of the parties relating to the subject matter hereof and thereof.
+
+[Signature page follows]
+
+5
+
+
+
+
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date and year first set forth above.
+
+FLORIDA CHEMICAL COMPANY, LLC:
+
+By: /s/ Elizabeth T. Wilkinson Name: Elizabeth T. Wilkinson Title: Chief Financial Officer
+
+FLOTEK CHEMISTRY, LLC:
+
+By: /s/ Elizabeth T. Wilkinson Name: Elizabeth T. Wilkinson Title: Chief Financial Officer
+
+SIGNATURE PAGE TO SUPPLY AGREEMENT
+
+6

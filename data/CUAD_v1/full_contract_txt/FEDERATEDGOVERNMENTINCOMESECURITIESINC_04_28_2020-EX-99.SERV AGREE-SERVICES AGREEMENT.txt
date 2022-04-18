@@ -1,0 +1,101 @@
+Exhibit 28 (h) (1) (a) under Form N‐1A Exhibit 99 under item 601/REG. S‐K
+
+SERVICES AGREEMENT
+
+THIS AGREEMENT, dated and effective as of January 1, 2004 (this "Agreement") between FEDERATED INVESTMENT MANAGEMENT COMPANY, a Delaware statutory trust (the "Adviser"), and FEDERATED ADVISORY SERVICES COMPANY, a Delaware statutory trust ("FASC"),
+
+WITNESSETH:
+
+WHEREAS, the Adviser serves pursuant to advisory or subadvisory agreements ("Advisory Agreements") as investment advisor or subadvisor to investment companies registered under the Investment Company Act of 1940 (the "1940 Act") and/or separate accounts not required to be so registered (collectively, "Accounts"); and
+
+WHEREAS, the Adviser desires to engage FASC to provide certain services to Adviser in connection with the services to be provided by the Adviser under the Advisory Agreements;
+
+NOW, THEREFORE, the parties hereto, intending to be legally bound, agree as follows:
+
+1. Services. FASC agrees to provide to the Adviser the services indicated in Exhibit A to this Agreement (the "Services").
+
+2. Fees. For its Services under this Agreement, Adviser agrees to pay FASC the Services Fees calculated and payable in accordance with Exhibit B to this Agreement.
+
+3. Records. FASC shall create and maintain all necessary books and records in accordance with all applicable laws, rules and regulations, including but not limited to records required by Section 31(a) of the 1940 Act and the rules thereunder, as the same may be amended from time to time, pertaining to the Services performed by it and not otherwise created and maintained by another party. Where applicable, such records shall be maintained by FASC for the periods and in the places required by Rule 31a-2 under the 1940 Act. The books and records pertaining to any Account which are in the possession of FAS shall be the property of such Account. The Account, or its owners or authorized representatives, shall have access to such books and records at all times during FASC's normal business hours. Upon reasonable request, copies of any such books and records shall be provided promptly by FASC to the Account or the Account's owners or authorized representatives.
+
+4. Limitation of Liability and Indemnification.
+
+(a) FASC shall not be responsible for any error of judgment or mistake of law or for any loss suffered by the Advisor or any Account in connection with the matters to which this Agreement relates, except a loss resulting from willful malfeasance, bad faith or gross negligence on its part in the performance of its duties or from reckless disregard by it of its obligations and duties under this Agreement.
+
+(b) The Adviser shall indemnify FASC and shall hold FASC harmless from and against any liability to any Account or to any other person which may incurred by or asserted against FASC for any action taken or omitted by it in performing the Services in accordance with the above standards, and any expenses (including the reasonable fees and expenses of its counsel) which may be incurred by FASC in investigating or defending itself against the assertion of any such liability. FASC shall give prompt notice to the Adviser of the assertion of any claim or liability which is reasonably likely to result in a claim for indemnification under this Section; provided that the failure to give such notice, or any delay in giving such notice, shall not lessen the obligation of the Adviser to indemnify FASC except to the extent it results in actual prejudice. The Adviser shall have the option, by notice to FASC, to assume the defense of any claim which may be the subject of indemnification hereunder. In the event such notice is given, the Adviser shall assume the defense of the claim, and FASC shall cooperate with the Adviser in such defense, subject to the obligation of the Adviser to reimburse FASC for the expenses resulting therefrom. In the event Adviser gives notice that it will assume the defense of any claim, the Adviser shall not be obligated to indemnify FASC for any further legal or other expenses incurred in investigating or defending such claim, except those incurred at the request of the Adviser or its counsel. FASC shall in no event compromise or settle any claim for which it may seek indemnification hereunder, except with the prior written consent of the Adviser or unless the Adviser fails, within 30 days after notice of the terms of such settlement, to notify FASC that it has assumed the defense of such claim and will indemnify FASC for any liability resulting therefrom.
+
+(c) The Adviser and FASC are each hereby expressly put on notice of the limitation of liability set forth in the Declaration of Trust of the other party. Each party agrees that the obligations of the other party pursuant to this Agreement shall be limited solely to such party and its assets, and neither party shall seek satisfaction of any such obligation from the shareholders, trustees, officers, employees or agents of the other party, or any of them.
+
+5. Duration and Termination.
+
+(a) Subject to the remaining provisions of this Section, the term of this Agreement shall begin on the effective date first above written and shall continue until terminated by mutual agreement of the parties hereto or by either party on not less than 60 days' written notice to the other party hereto.
+
+
+
+
+
+(b) Notwithstanding the foregoing, to the extent that the Services to be provided with respect to any Account which is registered as an investment company under the 1940 Act (herein referred to as a "registered investment company") are services referred to in the definition of "investment advisor" under Section 202(a)(11) of the Investment Company Act of 1940 (herein referred to as "investment advisory services"), then with respect to such Account, this Agreement:
+
+(i) shall not commence until the effective date of its approval by the board of directors or trustees ("Board") of such Account;
+
+(ii) shall continue from year to year thereafter, subject to the provisions for termination and all other terms and conditions hereof, only if such continuation shall be specifically approved at least annually by a majority of the Board, including a majority of the members of the Board who are not parties to this Agreement or interested persons of any such party (other than as members of the Board) cast in person at a meeting called for that purpose;
+
+(iii) may be terminated at any time without the payment of any penalty by the Board or by a vote of a majority of the outstanding voting securities (as defined in Section 2(a)(42) of the 1940 Act) of the Account on 60 days' written notice to the Adviser;
+
+(iv) shall automatically terminate in the event of (A) its assignment (as defined in the 1940 Act) or (B) termination of the Advisory Agreement for any reason whatsoever.
+
+6. Amendment. This Agreement may be amended at any time by mutual written agreement of the parties hereto; provided, however, that no Amendment to this Agreement shall be effective with respect to any investment advisory services to be provided to any Account which is registered investment company unless, to the extent required by Section 15(a)(2) of the 1940 Act, such amendment has been approved both by the vote of a majority of the Board of the Account, including a majority of the members of the Board who are not parties to this Agreement or interested persons of any such party (other than as members of the Board), cast in person at a meeting called for that purpose and, where required by Section 15(a)(2) of the 1940 Act, on behalf of the Account by a majority of the outstanding voting securities of such Account as defined in Section 2(a)(42) of the 1940 Act.
+
+7. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Pennsylvania.
+
+8. Section Headings; Counterparts. The underlined Section headings in this Agreement are for convenience of reference only and shall not affect its construction or interpretation. This Agreement may be executed in one or more counterparts, each of which will be deemed to be an original copy of this Agreement and all of which, when taken together, will be deemed to constitute one and the same agreement.
+
+IN WITNESS WHEREOF, the parties hereto, through their duly authorized officers, have executed this Agreement as of the effective date first above written.
+
+FEDERATED INVESTMENT MANAGEMENT COMPANY
+
+By: /s/ G. Andrew Bonnewell Name: G. Andrew Bonnewell Title: Vice President
+
+FEDERATED ADVISORY SERVICES COMPANY
+
+By: /s/ Keith M. Schappert Name: Keith M. Schappert Title: President
+
+
+
+
+
+EXHIBIT A
+
+DESCRIPTION OF SERVICES
+
+The following are the categories of Services to be provided by FASC to the Adviser pursuant to the Agreement:
+
+Performance attribution. Performance attribution enables portfolio managers and senior management to identify the specific drivers behind each portfolio's performance. Performance attribution analysts are responsible for data integrity, creation of attribution reports and maintenance of attribution models.
+
+Administration and Risk Management. Employees of Federated Advisory Services Company provide support to portfolio managers and other employees of affiliated advisers. Such services may include development of risk management programs, production of portfolio and compliance reports for clients and/or fund Boards, completion of required broker and custody documentation, development and documentation of operational procedures, coordination of proxy voting activities, on-site support of hardware and software, etc.
+
+Categories 1 and 2 above shall not be treated as "investment advisory services" for purposes of Section 5(b) of the Agreement.
+
+
+
+
+
+EXHIBIT B
+
+CALCULATION AND PAYMENT OF SERVICES FEES
+
+For each Category of Services referenced in Exhibit A, Adviser shall pay FASC a Services Fee, payable monthly in arrears, determined according to the following formula:
+
+Services Fee = Cost of Services x Adviser's Assets under Management Total Assets Under Management x (1 + Applicable Margin)
+
+Where:
+
+"Cost of Services" is FASC's total Operating Costs incurred in providing the applicable Category of Services during the month to all investment advisers for which FASC provides that Category of Services.
+
+"Adviser's Assets under Management" is the total average assets under management for the month for all Accounts or portions thereof for which the Adviser acts as investment adviser or subadvisor and which utilize the Category of Services.
+
+"Total Assets under Management" is the total average assets under management for the month for all Accounts or portions thereof for which all investment advisers (including the Adviser) to which FASC provides that Category of Services act as investment adviser or subadviser and which utilize the Category of Services.
+
+"Applicable Margin" is 0.10.
+
+"Operating Costs" means all operating expenses and non-operating expenses of FASC for the cost center(s) providing the applicable Category of Services.

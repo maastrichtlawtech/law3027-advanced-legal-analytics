@@ -1,0 +1,149 @@
+EXHIBIT 10.11
+
+                         NETWORK 1 FINANCIAL CORPORATION
+
+                           AFFILIATE OFFICE AGREEMENT
+
+THIS  AGREEMENT  is  entered  into  by  and  between  NETWORK  1 FINANCIAL, INC. ("NETWORK  1"),  a  Virginia Corporation with its principal place of business at 1501  Farm  Credit  Drive,  Suite 1500, McLean, Virginia 22102-5004, and Payment Data  Systems,  Inc.,  the  Affiliate Office ("AFFILIATE"), a Nevada Corporation with  its  principal place of business at 12500 San Pedro Suite 120 San Antonio, TX  78216.  NETWORK  1  and  Affiliate  hereby  agree  as  follows:
+
+                                    RECITALS
+
+WHEREAS, Network 1 Financial, Inc. ("Network 1") provides through various Member Bank(s)  ("Member"),  VISA  and  MasterCard  processing  and  related  payment processing  services  ("Services")  to merchant(s) ("Merchant(s)") in accordance with  the  terms  of  certain  Agreement (s) between Network 1, Member and other settlement/transaction  processing  providers;  and
+
+WHEREAS,  the  Network  1  desires  to  locate individuals to market Services as Contractor(s)  (the  "Contractors")  of  Network  1;
+
+WHEREAS,  Affiliate  desires  to  establish  an  "Affiliate Office" on behalf of Network 1 and Affiliate to market the Services of Network 1 and its subsidiaries and  to  locate Contractors on behalf of Network 1, Member, and Affiliate and to provide  a  "Local  Office"  for  such  Contractors  on  the  terms  and for the consideration  set  forth  herein;  And
+
+WHEREAS,  Affiliate  requires  a  referral  arrangement  while  Affiliate  is negotiating an ISO sponsorship agreement with Network 1 and Harris Bank and this Agreement  shall  govern  the agreement between the parties until such time that the  ISO  sponsorship agreement has been approval and executed in which case the Processing  Agreement, ISO sponsorship Agreement, and Three Party Agreement will govern  the  relationship and this Agreement shall be terminated without penalty or  prejudice;
+
+NOW,  THEREFORE,  in  consideration of the foregoing and for the mutual promises set  forth  herein,  the  parties  hereby  agree  as  follows:
+
+                                    ARTICLE I  [OBLIGATIONS OF AFFILIATES]
+
+OBLIGATIONS  OF  AFFILIATES
+
+1.01     CONTRACTORS.  Affiliate  shall  use its best efforts to market and sell to  commercial businesses the Services of Network 1 and Network 1's subsidiaries and  to  locate individuals who are willing and capable of acting as Contractors of  Network  1  and Affiliate subject to the approval of all such individuals by Network  1  as  set  out  in  Section  2.01  [CONTRACTORS].  All  such Contractors must process Merchant applications and transactions exclusively through Network 1.  Network 1 consents  to  waive  said  exclusivity  requirement  with  respect  to  specific Merchants  in  the  event  Network  1 (i) is unable to process for such specific Merchant,  and  (ii)  the  declined Merchant is not accepted for processing by a provider  that Network 1 designates for specific Merchant's that are declined by Network  1  ("B  Bank  Source").  Affiliate  shall  disclose  to  Network  1 all information  known  to  Affiliate  with  respect  to  the background, character, employment  history,  business  experience  and other information regarding each prospective  Contractor  relevant to Network 1's determination whether to accept or  not  accept  each  prospective  Contractor.
+
+1.02     LOCAL OFFICE (AFFILIATE OFFICE).  Affiliate shall locate, establish and maintain such offices (the "Local Office"), as it deems necessary for use by all Contractors  identified  by  Affiliate  and  accepted  by  Network 1.  Network 1 expressly  agrees  that  Affiliate shall not be geographically restricted in its establishment of such offices.  Local Office has met the satisfaction of Network 1  in  terms  of  space, quality, appearance, equipment, supplies, office hours, support  staff,  working  conditions, and other factors materially affecting the working  conditions  of  its  Contractors.  All  Local Offices shall bear signs, emblems  and  other  insignia, including a telephone number, indicating that the office  is  in  fact  an  office of Network 1 subject to the conditions of 4.02. However, all leases, utility listing, telecommunication, furniture and equipment expense, employment contracts for support personnel and other contracts relating to  the  operation of the Local Office shall be in the name of the Affiliate and shall  be  the  sole  responsibility  of  the  Affiliate.
+
+1.03     REQUIRED  REGISTRATION.  All  of  the  Contractors located by Affiliate must  also  be  registered  representative  through  Network  1  pursuant to the registration  documents  noted  on  Exhibit  D.
+
+Source: USIO, INC., SB-2, 4/28/2004
+
+
+
+
+
+1.04     PURCHASE  AND  LEASE  OF  EQUIPMENT.  All  equipment and software sold, leased or otherwise provided by Affiliate to Merchants and Commercial Businesses (whether  sold  directly, through Contractors, or leasing companies) relating to any  services  provided by Network 1 may be purchased from Network 1.  Network 1 agrees  to sell such Equipment and Software to Affiliate at prices pursuant to a price  list  established  by  Network  1  and  provided  to  the Affiliate.  The Affiliate  shall  be  responsible  for and hereby guarantees the payments of all amounts  owed  to  Network  1  with  respects  to  the purchase of Equipment and Software  from  Network  1  by  merchant  or  commercial  business.
+
+1.05     NETWORK  1  TO  APPROVE  ALL MERCHANTS AGREEMENTS.  Affiliate agrees to submit  all  Merchant  Agreements  procured by Affiliate in accordance with this Agreement  to  Network 1.  Network 1 agrees to review and approve or decline all Merchant  Agreements  submitted  by  Affiliate  to  Network 1 in accordance with Network 1's approval policy.  Affiliate acknowledges that approval of a Merchant creates  a  customer relationship between Bank and the Merchant, which involves, among  other  things,  the  collection  and disbursement of funds to process and settle Merchant Transactions.  Bank and Network 1 shall, in its sole discretion, make  the  final  decision  as to whether or not approve or decline any Merchant Agreement submitted to Bank in accordance with this Agreement.  Network 1 agrees to  make  reasonable  efforts  to  review  and  approve  or decline all Merchant Agreements  submitted  to  Network  1.
+
+1.06     RESTRICTED  MERCHANTS  AND MERCHANT ACTIVITIES.  Affiliate shall market only  to  bona  fide  and  lawful retail, MO/TO, and Internet businesses, all in accordance  with  Merchant Program Standards established by Network 1. Affiliate shall  not  engage in factoring or laundering or promote the same.  Factoring or laundering,  for  purpose  of  this Agreement, means the processing or attempted processing  of  Merchant Transactions through a Merchant Account other than that which  is  the  Merchant  Account  of  the  Merchant processing or attempting to process  the  Merchant Transaction. At the Affiliate request, a boarded Merchant may  be  terminated  from  services  so  long  as  good  reason  exists.
+
+                                   ARTICLE II  [RIGHTS OF NETWORK 1]
+
+RIGHTS  OF  NETWORK  1
+
+2.01     CONTRACTORS.  Network  1  shall  have  the right, at its discretion, to accept,  not accept, terminate or otherwise deal with any individuals located by Affiliate  pursuant  to  Section  1.01  [CONTRACTORS].  All individuals identified by Affiliate shall be subject to the rules imposed by Network 1, VISA, MasterCard, NACHA, and the  Member bank ("Member") utilized by Network 1, including rules pertaining to qualification  disqualification, conduct and otherwise, and shall agree to enter into,  and  shall  in fact enter into, a three party Contractor Agreement in the form  attached  hereto  as  Exhibit  1  as  amended  from  time  to  time.
+
+2.02     LOCAL  OFFICE.  Network  1  shall  have  the right to inspect the Local Offices  during  normal business hours to insure compliance by Affiliate with is obligations  pursuant  to  Section  1.02  [LOCAL OFFICE (AFFILIATE OFFICE)].
+
+2.03     RETENTION  OF  CONTRACTORS.  In  the  event  that this contract between Network 1 and Affiliate is terminated for any reason, the Contractors located by Affiliate  shall  remain  Contractors  of  Network  1.
+
+(A)     RIGHT  OF  FIRST  REFUSAL.  If during the term of this Agreement for any renewal of this Agreement (the "Right of First Refusal Period"), Affiliate shall receive (i) any Bona Fide Offer to purchase the revenue due Affiliate under this Agreement  or  Affiliate's company through an asset purchase or merger (in which case  Network  1  shall be subordinate to the Checkfree first refusal right), or (ii) a Bona Fide Offer to acquire or merge with or into Affiliate (in which case Network  1 shall be subordinate to the Checkfree first refusal right), Affiliate shall  immediately  give written notice (the "Offer Notice") to Network 1 of the terms  and  conditions  of the Bona Fide Offer, including without limitation the price.  Network  1  shall  have the exclusive right of first refusal to purchase all  or  any part of the revenue due Affiliate or acquire Affiliate (as the case may  be)  on the same terms and conditions as the Bona Fide Offer.  If Network 1 desires to exercise its rights under this Section it will give written notice to Affiliate  within  15  business  days  of  receipt of the Offer.  The failure by Network  1  to  exercise  its  rights within the 15-day period shall be deemed a waiver  of  such right.  Any changes in the terms of the Bona Fide Offer as well as  any  subsequent  Bona  Fide  Offer  received by Affiliate shall require full compliance  by  Affiliate  with  the  procedures  in  this  Section. (b)     CLIENT  shall have the right to withdraw ("Transfer") Merchants from the Merchant  Program,  provided  (i)  that CLIENT shall have given 120 days written notice to NET1, (ii) that Affiliate is not in, and has not breached any terms of this  Agreement,  (iii)  NW1  has  waived its rights in Section 2.03 (a)  [RETENTION OF CONTRACTORS] (iv) 18 months  have  lapsed  under this Agreement and (v) Affiliate pays the applicable Exit Fee as defined in section 7.6 (c) below.  NET1 agrees that it shall use its reasonable  efforts to cause the prompt and orderly Transfer of all Merchants to the  processor  or  processors  selected by Affiliate.  Affiliate agrees that in
+
+Source: USIO, INC., SB-2, 4/28/2004
+
+
+
+
+
+addition  to  the  Exit  Fee,  all out of pocket and reasonable reimbursement of staff expenses shall be paid prior to the Transfer of the Merchants from NET1 or Harris  Bank. (c)     The  Exit  Fee  shall  be  paid  by  Affiliate  immediately prior to the assignment  or  Transfer of Merchants and/or its net revenue.  The amount of the Exit Fee during and following the termination of this Agreement shall be defined as  the  following:  (1)  the aggregate sum, per transferring merchant, equal to eighteen  (18) months net recurring revenue normally paid to Affiliate under the compensation  terms  of  this  Agreement  to  a  maximum  of  $250,000.
+
+                                   ARTICLE III  [COMPENSATION]
+
+COMPENSATION
+
+3.01     AMOUNT.  As compensation for Affiliate's services hereunder, Network 1, or  an  affiliate, shall pay to Affiliate the following (the "Affiliate's Fee"): A.     The  surplus  funding  amount after costs noted in Exhibit A based on all Merchant  applications  obtained  for  Equipment  and Products sold or leased by Affiliate  or  Contractors  located  by  Affiliate  pursuant  to  Section  1.01  [CONTRACTORS]. Affiliate  shall  receive the buy rate with revenue share as noted in Exhibit A. B.     Affiliate  acknowledges  and  agrees  that  all merchants and subscribing businesses  referred  by  Affiliate are a party to a contract with Network 1 and it's Member bank and that Network 1 and the Member bank has a direct contractual relationship  with  the  merchants  and  subscribing  businesses.  Network  1 acknowledges and agrees that Affiliate has certain rights to residual revenue as specifically  defined in this agreement.  Affiliate acknowledges and agrees that it  has  no  claims  or  rights  of  ownership  over  Merchants  and subscribing businesses,  Unless  ISO  agreement is consummated or Network 1 does not approve Affiliate  or Network 1 cancels Affiliate and that it is a service provider to a customer  of  Network  1  (namely Merchants and subscribing businesses). In such case,  Affiliate  shall  have  the right to Transfer accounts in accordance with Section  2.03  (b)  [RETENTION OF CONTRACTORS]  and  2.03  (c).  The  Affiliate's Fees outlined in Exhibit A attached  hereto  and  incorporated  herein  shall be subject to modification by Network  1, at its discretion, upon the giving of thirty-days (30) prior written notification.
+
+3.02     PAYMENT.  The  Affiliate's Fee payable pursuant to this agreement shall be  payable  as  outlined in Exhibit A. All payments to Affiliate are subject to Network  1  receipt  of all amounts payable to Network 1 by the Member Bank with respect  to the transaction giving rise to Affiliate's Fee. Network 1 shall have no  liability  with  respect  to  the  payment  of such Affiliate's Fee (for any specific  Merchant)  under  Section 3.01  [AMOUNT] unless and until Network 1 receives the above  referenced  payment for Merchant.  In the event Merchant rejects fees for any  reason,  the  fees  due to Affiliate shall not be due and only payable upon Network 1's receipt of such payment. Payments will be made on or before the 25th of  each  calendar  month.
+
+3.03     LOSSES.  All  losses  or  charges arising from acts or omissions of the Affiliate,  Contractors  located by the Affiliate, or arising from transactions, chargebacks,  lost  revenues  due  to  account  cancellation  or  rejected  fee collections,  acts  or omissions of Merchants obtained by Contractors located by Affiliate  shall  be  borne  as  set  out  in  Exhibit  C.
+
+                                   ARTICLE IV  [RESTRICTIONS ON AFFILIATE]
+
+RESTRICTIONS  ON  AFFILIATE
+
+4.01     RESTRICTIONS.  Affiliate shall not, without the express written consent of  Network  1: i.           Contact  or  otherwise  deal directly with, VISA, MasterCard or the Member  Bank;  or ii.     Make  any representations with respect to Network 1, VISA, MasterCard or the  Member  Bank;  or iii.     Make  contact  with  or  contract  with  any vendor of Network 1 or its subsidiaries  including other Affiliate's, direct sponsored ISO/MSP's of Network 1/Member  Bank,  or  any merchants currently processing with Network 1 or Member Bank. iv.     Network  1  expressly  understands  and gives permission to Affiliate to contact  any  organization  that  Affiliate deems necessary to implement its ISO program.
+
+4.02     NETWORK  1  NAME  USAGE.  Affiliate  shall  use  the  Network 1 name in Relationship to all Bankcard marketing activity as required by the rules of VISA USA,  International  and  MasterCard International.  Affiliate acknowledges that the  use of the Network 1 name is on a non-exclusive basis and further agrees to cease using Network 1 name, including but not limited to logo(s) and insignia(s) at  the written request of Network 1.  In the event this contract terminates for any  reason,  Affiliate  shall  immediately cease using the Network 1 name.  The insignia,  logo's,  Service  Marks,  trademarks  and  name  of Network 1 are the
+
+Source: USIO, INC., SB-2, 4/28/2004
+
+
+
+
+
+absolute  and  sole  right  of  Network  1  Financial  Corporation,  a  Virginia Corporation.
+
+                                    ARTICLE V  [TERM AND TERMINATION]
+
+TERM  AND  TERMINATION
+
+5.01     TERM.  The  term  ("Term")  of  this Agreement shall be for one hundred eighty  days  (180)  from  the  date set forth below unless Network 1 or Visa or MasterCard  or Harris Bank doesn't approve Affiliate's ISO application, in which case,  the  Term  will  be  3 years. This Agreement will automatically renew for successive  one-year  terms  unless  terminated by either party by providing the other  with  30  days  written notice that this Agreement will not be renewed or Affiliate  enters  into  a  Processing  agreement  with  Network  1  and  an ISO Sponsorship  agreement  with  Harris  Bank  in  which  case  this Agreement will automatically  terminate  concurrent  with  the  execution  of  such agreements.
+
+5.02     TERMINATION.  Agreement  may  be  terminated prior to the conclusion of the  Term  by  giving  written  notice  of  termination: A.     By  either  party  as  a  result of default by the other party under this Agreement  and failure to cure said default within thirty (30) days after notice of  said  default  is  given. B.     By  either  party  in the event of insolvency, receivership, voluntary or involuntary  bankruptcy  or  an assignment for the benefit of creditors of or by the Affiliate other than in the ordinary course of business.  However, Affiliate may  pledge  or  otherwise  collateralize  assets  for  the  purpose of securing commercial  loans or lines of credit in the ordinary course of business provided that  such  pledge  is  subordinate  to an security interest associated with the Merchant  accounts  and/or  losses  from  such  accounts. C.     By  Affiliate  in  the event of any changes in the Affiliate's Fee (other than  direct  pass through increases related to Visa and MasterCard interchange, fees,  assessments  and  dues,  processor  communication costs, and other direct increases  including  terminal  hardware). D.     By Network 1, for cause. For purpose hereof; "cause" shall consist of (i) fraud,  intentional  misrepresentation  or  negligence  by  Affiliate  or  any Contractor  located  by  Affiliate  in  compiling  or  providing any information submitted  to  or relied on by Network 1 to Network 1, whether or not such fraud or  misrepresentation  is based on a misstatement, omission, a substantive fact, or  data;  (ii)  intentional  violations  by  the Affiliate or any Contractor(s) located by Affiliate of any of the rules or regulations of VISA, MasterCard, the Member Bank or Network 1; and (iii) the providing of vendor services or merchant services  by  Affiliate  or  Contractor(s)  located  by  Affiliate  which  are competitive  with  Network  1 or without the prior written consent of Network 1, contrary  to Section 1.01  [CONTRACTORS] and IV, violation of any clause of Network 1 Affiliate Office  Agreement  and  failure  to  cure  such  violation  within  30  days  of notification E.     By  Network  1 in the event any provision of the Sales Certificate or the Code  of  Ethics  is  in  breach  by  the  Affiliate or Contractor(s) located by Affiliate. F.      Affiliate  enters  into a Processing agreement with Network 1 and an ISO Sponsorship  agreement  with  Harris  Bank  in  which  case  this Agreement will automatically  terminate  concurrent  with  the  execution  of  such agreements.      If  this  Agreement is terminated for cause, all rights of the Affiliate to future  payments  hereunder shall immediately terminate and Transferability will remain  in  place  in  accordance  with  Section  2.03  (b)  [RETENTION OF CONTRACTORS]  and  2.03  (c).
+
+5.03     EFFECT  OF  TERMINATION.  Upon termination of this Agreement, except in the  event  of  termination  due  to an uncured default by Affiliate pursuant to Section  5.02  [TERMINATION]A, Network 1 shall continue to pay to the Affiliate the Affiliate's Fee  described  in  Section  3.01  [AMOUNT]B for so long as Network 1 continues to process transactions  of the Merchants in accordance with Schedule B attached hereto and Affiliate  continues  to maintain the merchant accounts, provided, however, that no such Affiliate's Fees shall be earned or paid for any calendar month in which the  Affiliate's  Fee  does not exceed $500.  Upon termination due to an uncured default  by  Affiliate,  or  termination for cause pursuant to Section 5.02  [TERMINATION]D all Affiliates  fees  shall  cease  to  be  accrued  and  paid  immediately upon the occurrence  of  said  event. Additionally, upon termination of this contract for any  reason, all merchants recruited by Affiliate on behalf of Network 1 for any product  offered  through  Network  1,  Affiliate  shall  not approach, rewrite, pursue,  or  contract  with any current client for the purpose of obtaining said client as a new customer for Affiliate or any competing entity the Affiliate may be  in  contract  with.  Such  restriction shall also apply to Affiliate's past, current  and future officers, directors, sales representatives, and Contractors. If  terminated  for  cause  Affiliate is responsible for any expense incurred by Network  1 for investigating incidents, attorney fees, fines, and administration expense.
+
+                                   ARTICLE VI  [INDEPENDENT CONTRACTOR]
+
+INDEPENDENT  CONTRACTOR
+
+Source: USIO, INC., SB-2, 4/28/2004
+
+
+
+
+
+6.01     NO  EMPLOYER-EMPLOYEE  RELATIONSHIP.  Nothing  in  this contract or its fulfillment  is  intended  to  create  an employer-employee relationship between Affiliate and contractors located by Affiliate and Network 1.  You must not take a  position  contrary to your status as an independent contractor.  YOU agree to accept  the  responsibilities placed on an independent contractor by federal and state  law,  regulation,  and  rule  or  otherwise.
+
+6.02     MANNER  & MEANS OF WORK CONDUCT.  You decide when and where, as well as the manner and means by which you conduct your work activities.  You acknowledge that  you  set  your  business  hours.
+
+6.03     BUSINESS  RESPONSIBILITY.  You  shall  be  responsible  for and pay all expenses  and  fees  incurred by you, including but not limited to your business overhead,  transportation,  state and federal income taxes, self-employment tax, unemployment  tax  and workers' compensation.  You are responsible for and shall pay  all  taxes,  duties,  assessments  and  governmental charges, now or in the future,  related  to  carrying  out  your obligations under this contract and or payments  made  to  you  by  Network  1.
+
+                                   ARTICLE VII  [INDEMNIFICATION]
+
+INDEMNIFICATION
+
+7.01     AFFILIATE.  Affiliate  hereby  agrees  to  indemnify  and hold harmless Network  1, VISA, MasterCard and the Member Bank from and against any loss, cost or  damage (including reasonable legal fees and court costs) incurred by Network 1,  VISA,  MasterCard  and the Member Bank as a result of Affiliate's failure to comply  with  the  terms  of  this Agreement, Affiliate's misrepresentation with respect  to this Agreement or Affiliate's knowing or negligent misrepresentation with  respect  to  Contractors.
+
+7.02     NETWORK  1.  Network  1  hereby  agrees  to indemnify and hold harmless Affiliate  from and against any loss, cost or damage (including reasonable legal fees  and  court costs) incurred by Affiliate as a result of Network 1's failure to  comply  with  the  terms  of  this  Agreement.
+
+                                  ARTICLE VIII  [MISCELLANEOUS]
+
+MISCELLANEOUS
+
+8.01     NOTICES.  All  notices  required  hereunder  shall  be  in  writing and delivered in person, by e-mail, facsimile, Federal Express, UPS, or by certified or  registered  mail,  return  receipt requested, postage prepaid.  Such notices shall  be  addressed  as  follows:      To  Network  1     To  Affiliate      Network  1  Financial     Payment  Data  Systems      1501  Farm  Credit  Drive     12500  San  Pedro,  Suite  120      Suite  1500     San  Antonio,  TX  78216      McLean,  Virginia  22102-5004     FAX:  210.249.4130 All  notices  shall  be deemed given when delivered in person or upon depositing said  notice  in  the  United  States  mail with proper postage affixed thereto.
+
+8.02     NON-EXCLUSIVITY.  Affiliate's  rights  to  locate Contractors hereunder shall  not  be  exclusive.  It  is  expressly  contemplated  and understood that Network  1  will  utilize  other  persons  and  companies to locate Contractors.
+
+8.03     AMENDMENT.  Except as otherwise provided herein, this Agreement and the Schedules  hereto  may  not  be  amended,  altered or modified except in writing executed  by  all  parties  hereto.
+
+8.04     BENEFITS AND ASSIGNMENTS.  This agreement may be assigned or delegated, in whole or in part, by NETWORK 1 without the prior written consent of the other party  herein.  This  agreement  may  not  be assigned or delegated by Affiliate without  prior  written  consent  from  Network  1.  Such  consent  shall not be unreasonably  withheld.
+
+8.05     GOVERNING  LAW.  All  disputes  or  claims  by  Payment  Data  Systems hereunder  shall be resolved by arbitration in McLean, Virginia, pursuant to the rules of the American Arbitration Association. All disputes or claims by NETWORK 1  hereunder shall be resolved by arbitration in San Antonio, Texas, pursuant to the  rules  of  the  American  Arbitration  Association.
+
+8.06     ARBITRATION.  All  disputes  or  claims  hereunder shall be resolved by arbitration  in  McLean,  Virginia,  pursuant  to  the  rules  of  the  American Arbitration  Association.
+
+8.07     SEVERABILITY.  The  illegality,  invalidity  or unenforceability of any provision  of  this  Agreement shall not affect the remainder of this Agreement. 8.08     ENTIRE  AGREEMENT.  This Agreement and the attached Schedules, Exhibits and  Addendums hereto contain the entire understanding of the parties hereto and
+
+Source: USIO, INC., SB-2, 4/28/2004
+
+
+
+
+
+supersede  all  prior  agreements with respect to the subject of this Agreement. EXECUTED  this ________ day of ______________________, in the year ____________.      Network  1     Affiliate By:  ______________________________________     By: ________________________________________ Authorized  Representative     Authorized  Representative
+
+Source: USIO, INC., SB-2, 4/28/2004

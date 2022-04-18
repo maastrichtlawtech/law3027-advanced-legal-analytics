@@ -1,0 +1,505 @@
+Exhibit 4(b)(ii).3
+
+                                                                    [LOGO] sicap
+
+                        Maintenance and support contract                               for SICAP(R) modules                                 PPB, VCA and OTA
+
+                              dated 10 October 2000
+
+    This contract replaces in full the Annex 7 "Maintenance and Support for         SICAP(R) modules PPB, VCA and OTA and Sun Hardware" which was an            integral part of the original Swisscom PURCHASE & LICENSE                    CONTRACT, made effective on 06 April 1998.
+
+concluded between:                                                      EuroTel
+
+ Bratislava a.s., Stefanikova 17, PO Box 54, 838 01 Bratislava 38, Slovakia and           Sicap Ltd, Bernstrasse 34, 3072 Ostermundigen, Switzerland.
+
+                                                                    [LOGO] sicap
+
+M&S contract --------------------------------------------------------------------------------
+
+                                Table of contents
+
+1   INTRODUCTION                                                               4
+
+  1.1 Standard service                                                         4
+
+  1.2 Over all responsibilities                                                4
+
+  1.3 Additional service on request (as per clause 5)                          5
+
+2   PROCEDURES FOR SUPPORT                                                     5
+
+  2.1 Hotline ISC SICAP(R)(Case of incidents)                                  5
+
+  2.2 Procedures for incidents                                                 5
+
+  2.3 Main flowchart                                                           6
+
+3   RESPONSE TIME                                                              8
+
+  3.1 Response time for hotline                                                8     3.1.1 Working hours at Sicap Ltd                                           8
+
+  3.2 Emergency priority                                                       8
+
+4   CHANGE MANAGEMENT                                                          9
+
+  4.1 Responsibilities                                                         9
+
+  4.2 Procedures                                                               9
+
+5   ADDITIONAL SUPPORT                                                         9
+
+  5.1 Remote support outside working hours                                    10
+
+  5.2 On-site support                                                         10
+
+6   PRICING                                                                   10
+
+  6.1 Pricing for standard service                                            10
+
+  6.2 Pricing for additional support                                          11
+
+7   GENERAL TERMS AND CONDITIONS FOR MAINTENANCE AND SUPPORT                  12
+
+  7.1 Introduction                                                            12
+
+                                                                    [LOGO] sicap
+
+M&S contract --------------------------------------------------------------------------------
+
+  7.2 Definitions                                                             12
+
+  7.3 Remuneration                                                            13     7.3.1 Prices                                                              13     7.3.2 Price adjustments                                                   13     7.3.3 Costs and expenses                                                  13
+
+  7.4 Co-operation by EuroTel                                                 14
+
+  7.5 Term and termination                                                    14
+
+  7.6 Liability                                                               15
+
+
+
+
+
+  7.7 Assignment                                                              15
+
+  7.8 Changes to the contract                                                 15
+
+  7.9 Counterparts                                                            16
+
+                                                                    [LOGO] sicap
+
+M&S contract --------------------------------------------------------------------------------
+
+1     Introduction
+
+      Sicap Ltd provides to EuroTel a standard service for the SICAP(R) PPB, VCA       and OTA modules.
+
+      EuroTel can also request additional support which is not part of the       offered standard support and is subject to a separate quotation and       ordering procedure as described in Article 5.
+
+1.1   Standard service
+
+      The following services are included for the SICAP(R) PPB, VCA and OTA       modules
+
+      o     HotLine support (resolving of incidents)
+
+      o     20 hours telephone support (during office hours) per month. This             support includes every necessary support for the SICAP(R) PPB, VCA             and OTA (no accumulation of unused hours)
+
+      o     Remote support via ISDN line (establishment and communication costs             to be paid by customer). Security can be guaranteed under the             following conditions: Firewall, only outgoing connections allowed
+
+      o     Change Management
+
+      The following service is charged:
+
+      o     Installation costs if on-site support is required
+
+      This Maintenance and Support contract does not include the following       cases:
+
+      Bugs or problems in third party software or middleware, like for example       Veritas Cluster, Oracle, not-correct DB-management, faults of EuroTel's       system management, hidden modification and/or "foreign"       developments/adaptations of the SICAP application and/or the entire       prepaid system. Misuse will be charged at cost.
+
+1.2   Over all responsibilities
+
+      EuroTel is responsible for the initial fault tracing within the entire       prepaid system including first level maintenance, Sicap Ltd for second       level maintenance, as described under clause 1.1.
+
+      First level of maintenance means all day by day activities in order to       have the entire prepaid system running under normal condition including       application administration, dB administration and system administration       (hardware & operating system).
+
+      For second level of maintenance are intended all the activities needed to       have the SICAP(R) application running under unexpected conditions like       bugs, unexpected performance limitations, etc. (HW configuration and any       changes to be confirmed by Sicap Ltd)
+
+      The clause 2.2 defines the procedure, which will allow EuroTel to qualify       problems within its own support organisation in order to achieve problem       resolution with Sicap Ltd support.
+
+                                                                    [LOGO] sicap
+
+M&S contract --------------------------------------------------------------------------------
+
+      EuroTel will ensure that its personal is adequate trained to support the       entire SICAP(R) prepaid application.
+
+1.3   Additional service on request (as per clause 5)
+
+      o     On-site support       o     Remote support (not covered by Hotline)       o     Training after acceptance
+
+2     Procedures for support
+
+2.1   Hotline ISC SICAP(R) (Case of incidents)
+
+      The HotLine can be reached as follows:
+
+      Phone:
+
+      +41 878 807 387 (24 hours, 7 days a week)
+
+
+
+
+
+      Fax:
+
+      +41 41 360 10 29
+
+      Trouble Ticket:
+
+      http:www.swissgsm.ch/gnats/SKEUROTEL
+
+      (WEB based "GNATS problem report system", used by ISC, Lucerne)
+
+      EuroTel defines up to 5 system administrators from their own staff. They       must be trained for the following modules:
+
+      o     SICAP(R)VCA       o     SICAP(R)PPB       o     SICAP(R)OTA
+
+      Only these system administrators have the permission to use the HotLine       and the "GNATS tool".
+
+2.2   Procedures for incidents
+
+      According to the priority request of EuroTel, ISC SICAP(R) (Installation       and Service Center) will contact the responsible engineer from Sicap Ltd       with its Subcontractor(s) immediately.
+
+      The following procedures are applicable:
+
+      1.    After the discovery of an incident, ISC SICAP(R) has to be notified             without delay by the Web based "GNATS trouble ticket tool" and by             phone (called HotLine).
+
+                                                                    [LOGO] sicap
+
+M&S contract --------------------------------------------------------------------------------
+
+      2.    EuroTel shall use the HotLine number to report every incident.             Together with notification of the HotLine the following information             has to be provided:
+
+            o     Date and time of incident occurrence             o     User domain, site domain, application domain             o     Configuration item detail and a full and accurate description                   of the incident             o     Priority of Incident
+
+      3.    On request from Sicap Ltd, EuroTel has to provide the following             supplementary information:
+
+            o     SICAP(R) modules VCA- or PPB- or OTA-logfile             o     System logfiles             o     all necessary information from the crashed system in                   electronic way (if possible ) like memory dumps.
+
+      4.    On request from Sicap Ltd, EuroTel has to open the ISDN remote             access to the system to ISC SICAP(R)
+
+2.3   Main flowchart
+
+                                                                    [LOGO] sicap
+
+M&S contract --------------------------------------------------------------------------------
+
+          --------------------      ---------      ---------           System Administrator    \               \              /Project manager  ----  Incident ----- Priority           --------------------    / ---------     /---------                   |                                     |                   |                     ----------------|----------------  &sbsp;                |                     |               |                |                         ---------    -------      --------------   -----------                                                       GNATS         Incidents                         [GRAPHIC]    HotLine      trouble ticket   Information                         ---------    -------      --------------   -----------                   |                                     |                   |                                     |             --------------                              |                  RFC        /                           |              (request for   -------                     |                 change)     \     |                 ------------    ----------             --------------        ---------------\  ISC SICAP(R)     [GRAPHIC]                   |               |       |-------  ------------    ----------             --------------        |       |      /      |                 GNATS      ----------------             |             --------------        |                  --------                   |               |                  Response                   |               |                  --------             -------------- /      |                     |               Quotation    -------|                     |              (schedule &   \                            |             delivery plan)                              |             --------------                              |
+
+
+
+
+
+                  |                                  --------                   |                                  Problem                   |                                  detected                   |                                  --------                   |                                     |                   |                           ----------|-----------                   |                           |         |           |                   |        Problem         -------   -------    -----------                   |        fixing          On-site    Remote    Explanation                   |        &               action     action     with Call,                   |        Installation                         E-Mail, Fax                   |                        -------   -------    -----------                   |                          |  |       |             |                   |                           --|-------|-------------                   |                             |                   |                             |                ---------                     --------        --------------                Quotation                \     Change      \  Problem solved                accepted   ---------------    accepted  ----                ---------                /    --------     /  --------------
+
+                                                                    [LOGO] sicap
+
+M&S contract --------------------------------------------------------------------------------
+
+3     Response time
+
+3.1   Response time for hotline
+
+      The Response Time during the HotLine availability hours shall be the       following:
+
+      --------------------------------------------------------------------------       Priority of reques    Availability              Response Time       --------------------------------------------------------------------------       emergency             24 hours, 7 days a week   4 hours       --------------------------------------------------------------------------       high                  during working hours      4 hours       --------------------------------------------------------------------------       medium                during working hours      next working day       --------------------------------------------------------------------------       low                   during working hours      day after next working day       --------------------------------------------------------------------------
+
+      It is up to EuroTel to decide which priority occurs. In case of an obvious       misuse, Sicap Ltd has the right to charge the costs.
+
+      Sicap Ltd will perform every possibility to make the system running as       soon as possible. Staff of EuroTel must be on-site on request of Sicap       Ltd.
+
+3.1.1 Working hours at Sicap Ltd
+
+      The working hours for Sicap Ltd, ISC are:
+
+      08.00h - 18.00h except Saturday, Sunday and public holidays in       Switzerland.
+
+      Public holidays in Switzerland are:
+
+        New Year                           January 1st         Berchtoldsday                      January 2nd         St. Joseph's day                   (date is not fixed)         Good Friday                        Friday before Eastern         Easter Monday                      Monday after Eastern         Ascension day                      Thursday, 10 days before Whitsuntide         White Monday                       Monday after Whitsuntide         Corpus Christi                     (date is not fixed)         National Holiday                   August 1st         Assumption                         August 15th         St. Leodegar                       October 2nd         All Saints                         November 1st         Immaculate Conceptions             December 8th         Before Christmas day               December 24th after 12:00 am         Christmas day                      December 25th         Boxing day                         December 26th         Sylvester                          December 31st after 12:00 am
+
+3.2   Emergency priority
+
+      In an emergency case Sicap Ltd shall do every effort to make the SICAP(R)       application running within 24 hours after response. This also includes to       find temporary solution (work around) until the definitive acceptable       solution is implemented.
+
+                                                                    [LOGO] sicap
+
+M&S contract --------------------------------------------------------------------------------
+
+      The following standard procedure shall apply in such a case:
+
+      emergency case happens:
+
+
+
+
+
+      +    4 hours:  Response from ISC       +   10 hours:  SICAP(R) application SW problem detected       +   10 hours:  SICAP(R) application SW problem solved.
+
+      If Sicap Ltd is not successful within this time, Sicap Ltd's responsible       shall come on-site with the next available flight or train and manages the       recovery process on-site.
+
+      During the whole process the system responsible of EuroTel must be on-site       and work according to the instructions of Sicap Ltd.
+
+4     Change management
+
+      All changes in the functionality of the SICAP(R) application of EuroTel       must be proceeded by a Request for Change (RFC).
+
+      A RFC can be originated by Sicap Ltd or EuroTel and can relate to any       component in the SICAP(R) application.
+
+      Changes can consist of:
+
+      o     Patches       o     Releases (also named upgrades)
+
+4.1   Responsibilities
+
+      Under Change Management, Sicap Ltd has the responsibility to:
+
+      o     collect and assess RFC's, resulting in a quotation and a schedule to             EuroTel       o     co-ordinate and communicate about progress on a weekly basis.
+
+      EuroTel has the responsibility to:
+
+      o     accept or decline the quotation and the delivery plan       o     accept the implemented change
+
+4.2   Procedures
+
+      o     All communication concerning changes shall be in writing or entered             in the ISC trouble ticketing system (GNATS)       o     All RFC's shall be addressed to Sicap Ltd       o     After placing an order based on Sicap Ltd's quotation, Sicap Ltd             implements the change according to the agreed schedule.
+
+5     Additional support
+
+                                                                    [LOGO] sicap
+
+M&S contract --------------------------------------------------------------------------------
+
+      Sicap Ltd can, on a case by case basis, provide support which is tailor       made to EuroTel's requirements. This support is not part of the standard       service and subject to availability and a separate quotation.
+
+5.1   Remote support outside working hours
+
+      EuroTel can request Remote Support outside working hours, e.g. for       installations, new releases, reconfiguration, migration activities. The       written request must be received by Sicap Ltd at least 10 working days       prior to its intended implementation. After confirmation, Sicap Ltd can       provide a detailed planning after consultation with EuroTel, including a       description of the service to be performed.
+
+5.2   On-site support
+
+      In case Remote support is not feasible or in case of explicit request from       EuroTel in certain cases Sicap Ltd can provide EuroTel with on-site       support. Such support is subject to a separate quotation by Sicap Ltd and       mutual agreement between both parties.
+
+6     Pricing
+
+6.1   Pricing for standard service
+
+      --------------------------------------------------------------------------       Description for                  annual fee after the   annual fee for       0-50'000 subscriber              initial period         the first year                                                               (during warranty                                                               period),                                                               beginning with                                                               launch of service       --------------------------------------------------------------------------
+
+      SICAP(R) modules VCA,            151'440.-- CHF         not applicable       PPB & OTA
+
+      --------------------------------------------------------------------------
+
+      --------------------------------------------------------------------------       Additional price                 annual fee after the   annual fee for the       for each further lot of 50 000   initial period         first year (during &sbsp;                                                             warranty period),                                                               beginning with
+
+
+
+
+
+                                                              launch of service       --------------------------------------------------------------------------
+
+      SICAP(R) modules VCA, PPB & OTA  49'500.-- CHF          not applicable
+
+      --------------------------------------------------------------------------
+
+      o     Additional lots of licenses shall just be charged from the beginning             of each six month period.
+
+                                                                    [LOGO] sicap
+
+M&S contract --------------------------------------------------------------------------------
+
+6.2   Pricing for additional support
+
+      --------------------------------------------------------------------------       Support service                                      Price       --------------------------------------------------------------------------       within Sicap Ltd working hours                       CHF 235.-- / hour       --------------------------------------------------------------------------       outside Sicap Ltd working hours                      CHF 352.50 / hour       --------------------------------------------------------------------------       Travel and accommodation expenses                    at cost       --------------------------------------------------------------------------
+
+                                                                    [LOGO] sicap
+
+M&S contract --------------------------------------------------------------------------------
+
+7     General terms and conditions for maintenance and support
+
+7.1   Introduction
+
+      These General Terms and Conditions are applicable for the maintenance and       support services based on Service Levels Description which Sicap Ltd       provides for its SICAP(R) System. No deviations from these General Terms       and Conditions shall be valid unless expressly agreed in writing.
+
+7.2   Definitions
+
+      SICAP(R) software:
+
+      Specific software which has been supplied by Sicap Ltd
+
+      SICAP(R) module:
+
+      Specific software component which is a part of the complete SICAP(R)       Software, but could be integrated separately or not
+
+      System:
+
+      Combination of third party hardware/software and SICAP(R) Software by       Sicap Ltd
+
+      Change management:
+
+      Management of change requests
+
+      Configuration item:
+
+      Component characteristic definition, as part of the system, which has been       defined for the customer specification
+
+      Incident:
+
+      A deviation from the normal behaviour of the System:
+
+      o     Emergency Priority Incident             Critical, complete HA-System failure or a major impact on prepaid             functionality.             Priority Incident             Incident causing a major impact on the SICAP(R) System's             functionality. Conditions that prevent EuroTel normal business             operations from being carried out in timely manner.       o     Medium Priority Incident             Incident causing a partial or minor impact on the System's             functionality       o     Low Priority Incident             Incident having a low impact on the System's functionality such as             screen or report layout changes.
+
+      Patch:
+
+      A minor correction or adaptation to the SICAP(R) application software.
+
+      Problem:
+
+      A condition of the system, identified through incident(s) which indicates       an error for which the cause is yet unknown.
+
+      Release / upgrade:
+
+
+
+
+
+      A consistent set of software which provides major improvement and/or       extensions to the previous software on the System.
+
+                                                                    [LOGO] sicap
+
+M&S contract --------------------------------------------------------------------------------
+
+      Response time:
+
+      The time between the receipt of the notification by Sicap Ltd of an       incident or problem and the initiation by the HotLine of a solution for       the incident or problem.
+
+      Subcontractor:
+
+      A subcontractor of Sicap Ltd, supplying and supporting hardware and/or       software for the SICAP application.
+
+      Third party:
+
+      A party not being Sicap Ltd, supplying hardware and/or software for the       system.
+
+      Working days/hours:
+
+      Mondays to Fridays during Sicap Ltd's regular office hours (8.00h -       18.00h), except public holidays in Switzerland, as specified under clause       3.1.1.
+
+7.3   Remuneration
+
+      The General Terms and Conditions of the original Swisscom Purchase and       License Contract shall also be valid for Maintenance and Support.
+
+7.3.1 Prices
+
+      The total price for the selected service under the Maintenance and Support       contract is listed in chapter 6. Maintenance and Support fees are payable       semi-annually in advance. All prices are in CHF and exclusive of value       added tax that has to be paid in the Slovak Republic.
+
+7.3.2 Price adjustments
+
+      Prices are subject to yearly adjustments. Sicap Ltd may send a new offer.       The offer shall be sent two month prior to the beginning of the dedicated       next year.
+
+7.3.3 Costs and expenses
+
+      Prices quoted are exclusive of travel, accommodation expenses made by       Sicap Ltd personnel under this Maintenance and Support contract. Such       costs and expenses will be charged according to the effective costs.
+
+      In the event Sicap Ltd personnel is required to travel to EuroTel's       premises under this maintenance and support contract, but is not able to       perform the required services due to reasons beyond the control of Sicap       Ltd, which means no physical access to the system or force major as well       as for support cases not included under standard service, as per clause       1.1, then EuroTel shall pay all costs and expenses (e.g. hours, travel and       accommodation expenses).
+
+      All payments due under this Maintenance and Support contract shall be due       and payable 30 days after the invoice date, with the first invoice to be       issued on the date this Maintenance and Support contract comes into full       force and effect.
+
+                                                                    [LOGO] sicap
+
+M&S contract --------------------------------------------------------------------------------
+
+      If any payment is not received by Sicap Ltd on the date or dates, as laid       down in this clause, or as may be further agreed upon by the parties, then       Sicap Ltd has the right to suspend the services to EuroTel until payment       has been received. Before suspending the services to EuroTel, a       notification from Sicap Ltd will be given.
+
+      In the event of a suspension of services by Sicap Ltd, as a result of a       delay or lack of payment by EuroTel, Sicap Ltd will not be responsible for       any damages resulting from this suspension.
+
+7.4   Co-operation by EuroTel
+
+      EuroTel shall always give Sicap Ltd full co-operation and provide Sicap       Ltd in good time with required data or information useful and necessary to       the proper execution of the Maintenance and Support contract.
+
+      EuroTel shall be responsible to maintain adequate climatic conditions in       the spaces where the SICAP(R) systems is placed, such in accordance with       the site specifications as mentioned in the Purchase and License Contract       for the system.
+
+      EuroTel shall prevent:
+
+
+
+
+
+      o     Installation deficiencies (unstable electricity supply network or             others) that result from the non-observance of the installation             standards of the Sicap Ltd equipment       o     The use of degraded or inappropriate consumable and accessories,             contrary to the manufacturer's specifications       o     Negligence, carelessness or improper use on the part of EuroTel,             specifically, the dropping of the equipment or the existence of             foreign objects inside the equipment;       o     Incompatibilities resulting from modifications, repairs or             maintenance carried out by personnel not belonging to Sicap Ltd             and/or third party, or the connection of equipment not supplied or             approved by Sicap Ltd.
+
+      EuroTel shall grant access to Sicap Ltd or third party personnel to       EuroTel's site in question, provided that this personnel abides by the       security rules of EuroTel. Sicap Ltd or third party personnel will always       be accompanied by a representative of EuroTel, if so required by EuroTel.
+
+      EuroTel shall provide Sicap Ltd with an actual list stating the system       administrators and how they can be reached.
+
+7.5   Term and termination
+
+      This contract replaces in full the Annex 7 "Maintenance and Support for       SICAP(R) modules PPB, VCA and OTA and Sun Hardware" which is an integral       part of the original Swisscom PURCHASE & LICENSE CONTRACT, made effective       on 06 April 1998.
+
+      It shall be effective on 06 October 2000 and shall have a duration of two       years.
+
+      The prices remain valid for the first 12 months.
+
+      After this period, Sicap Ltd reserves the right to adjust the prices       annually. The offer must be submitted three (3) months in advance and       EuroTel may decide within one (1) month to prolong or terminate this       maintenance and support contract. If EuroTel doesn't react in writing, the       new offer shall be considered as accepted.
+
+                                                                    [LOGO] sicap
+
+M&S contract --------------------------------------------------------------------------------
+
+      After the initial period of two years, the maintenance and support       contract shall be automatically renewed for a period of one year on each       renewal date, unless one of the parties terminates the maintenance and       support contract through written notification to the other party in the       form of a registered letter with proof of receipt, at least six (6) weeks       prior to the renewal date. There shall be no reimbursement of any paid       fee.
+
+      In case of a substantial breach of this maintenance and support contract       by either party, which is not remedied within thirty days from the other       party's notice thereof, the other party shall have the right to terminate       this maintenance and support contract with immediate effect without       juridical procedures.
+
+      The termination or expiration of the maintenance and support contract for       any reason whatever shall be without prejudice to any other right or       obligation of any party hereto in respect of this maintenance and support       contract which have arisen prior to such termination.
+
+7.6   Liability
+
+      Sicap Ltd's liability for indirect loss, including consequential loss,       loss of profit, lost savings and loss caused by interruption of operations       is excluded.
+
+      No right to damages shall ever arise unless EuroTel reports the loss to       Sicap Ltd in writing as soon as possible after it has arisen.
+
+7.7   Assignment
+
+      This maintenance and support contract is for the benefit of and binding       upon each of the parties hereto and their respective successors and       assigns.
+
+      The rights and obligations under this maintenance and support contract may       not be assigned in whole or in part by either party without the prior       written consent by the other party.
+
+      The parties may assign the rights and obligations under this maintenance       and support Contract by written notice to a subsidiary. A subsidiary of a       party is considered a company of which the party is holding a majority of       the equities.
+
+7.8   Changes to the contract
+
+      Except as otherwise specifically indicated herein, this maintenance and       support contract will not be amended except by written agreement signed on       behalf of the parties by their duly authorised representatives.
+
+      At the end of each agreementual period, or at such time as mutually agreed
+
+
+
+
+
+      by both parties, EuroTel has the option to select a different services,       such with consequential price adjustments.
+
+                                                                    [LOGO] sicap
+
+M&S contract --------------------------------------------------------------------------------
+
+7.9   Counterparts
+
+      IN WITNESS WHEREOF, the parties hereto have executed this contract in two       (2) originals by their fully authorised representatives on the day and at       the place written here below, each party receiving one (1) original       hereof. For and on behalf of:
+
+      --------------------------------       -----------------------------------       Thomas R. Berner                       Thomas Cancro       Key Account Manager                    CFO / Procurator
+
+      --------------------------------       -----------------------------------       Andreas Martschitsch                   Jozef Barta       CEO (acting)                           CEO / Procurator
+
+      Place:                                 Place:
+
+      Date:                                  Date:

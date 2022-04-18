@@ -1,0 +1,377 @@
+Exhibit (k)(1)
+
+SERVICE AGREEMENT
+
+FOR
+
+TRANSFER AGENT SERVICES
+
+TO
+
+BLACKSTONE / GSO LONG-SHORT CREDIT INCOME FUND
+
+Rev. December 2009
+
+
+
+
+
+THIS SERVICE AGREEMENT FOR TRANSFER AGENT SERVICES (this "Agreement") between Blackstone / GSO Long-Short Credit Income Fund, a Delaware statutory trust ("Client") and Mellon Investor Services LLC (operating with the service name BNY Mellon Shareowner Services), a New Jersey limited liability company ("Agent"), is dated as of January 26, 2011.
+
+1. Appointment. Client appoints Agent as its transfer agent, registrar and dividend disbursing agent and Agent accepts such appointment in accordance with and subject to the following terms and conditions for all authorized shares of each class of stock listed in Exhibit A hereto (the "Shares").
+
+2. Term of Agreement. Agent's appointment hereunder shall commence on the next business day after the later of (i) the date hereof, or (ii) the date Agent has confirmed that Client's records have been converted to Agent's system (the "Effective Date"), and shall continue for three years thereafter (the "Initial Term"). Unless either party gives written notice of termination of this Agreement at least 60 days prior to the end of the Initial Term, or any successive three-year term, this Agreement shall automatically renew for successive additional three-year terms; provided, however, that this Agreement shall automatically terminate upon the dissolution of the client.
+
+3. Duties of Agent. Commencing on the Effective Date, Agent shall provide the services listed in Exhibit B hereto, in the performance of its duties hereunder. 4. Representations, Warranties and Covenants of Client. Client represents, warrants and covenants to Agent that:
+
+(a) it is a statutory trust duly organized and validly existing under the laws of its state of incorporation;
+
+(b) the Shares issued and outstanding on the date hereof have been duly authorized, validly issued and are fully paid and are non- assessable; and any Shares to be issued hereafter, when issued, shall have been duly authorized, validly issued and fully paid and will be non- assessable;
+
+(c) the Shares issued and outstanding will be duly registered under the Securities Act of 1933, as amended (the "Securities Act"), and such registration will have become effective, or are exempt from such registration; and will be duly registered under the Securities Exchange Act of 1934, as amended (the "Exchange Act"), or are exempt from such registration;
+
+(d) any Shares to be issued hereafter, when issued, shall have been duly registered under the Securities Act, and such registration shall have become effective, or shall be exempt from such registration; and shall have been duly registered under the Exchange Act, or shall be exempt from such registration;
+
+
+
+
+
+(e) Client has paid or caused to be paid all taxes, if any, that were payable upon or in respect of the original issuance of the Shares issued and outstanding on the date hereof;
+
+(f) the use of facsimile signatures by Agent in connection with the countersigning and registering of Share certificates of Client has been duly authorized by Client and is valid and effective;
+
+(g) the execution and delivery of this Agreement, and the issuance and any subsequent transfer of the Shares in accordance with this Agreement, do not and will not conflict with, violate, or result in a breach of, the terms, conditions or provisions of, or constitute a default under, the Amended and Restated Agreement Declaration of Trust or the by-laws of Client, any law or regulation, any order or decree of any court or public authority having jurisdiction, or any mortgage, indenture, contract, agreement or undertaking to which Client is a party or by which it is bound, except where such contravention does or would not have a material adverse effect on the Fund's ability to carry out its obligations hereunder. This Agreement has been duly authorized, executed and delivered by Client and is enforceable against Client in accordance with its terms, except as may be limited by bankruptcy, insolvency, moratorium, reorganization and other similar laws affecting the enforcement of creditors' rights generally; and
+
+(h) Client agrees to provide to Agent the documentation and notifications listed in Exhibit C hereto according to the requirements set forth therein.
+
+5. Representations, Warranties and Covenants of Agent. Agent represents, warrants and covenants to Client that:
+
+(a) Agent is a limited liability company duly organized and validly existing under the laws of its state of organization;
+
+(b) Agent is, and for the term of this Agreement shall remain, duly registered as a transfer agent under the Exchange Act;
+
+(c) subject to Section 7 hereof, during the term of this Agreement, Agent shall comply with its obligations as a transfer agent under the Exchange Act and the rules and regulations thereunder; and
+
+(d) assuming the accuracy of Client's representations and warranties and compliance by Client with its covenants hereunder, the execution and delivery of this Agreement, and the performance by Agent of its obligations in accordance with this Agreement, do not and will not conflict with, violate, or result in a breach of, the terms, conditions or provisions of, or constitute a default under, the organizational documents of Agent, any law or regulation, any order or decree of any court or public authority having jurisdiction, or any mortgage, indenture, contract, agreement or undertaking to which Agent is a party or by which it is bound. This Agreement has been duly authorized, executed and delivered by Agent and is enforceable against Agent in accordance with its terms, except as may be limited by bankruptcy, insolvency, moratorium, reorganization and other similar laws affecting the enforcement of creditors' rights generally.
+
+
+
+
+
+6. Scope of Agency.
+
+(a) Agent shall act solely as agent for Client under this Agreement and owes no duties hereunder to any other person. Agent undertakes to perform the duties and only the duties that are specifically set forth in this Agreement, and no implied covenants or obligations shall be read into this Agreement against Agent.
+
+(b) Agent may rely upon, and shall be protected in acting or refraining from acting in reliance upon, (i) any communication from Client, any predecessor Transfer Agent or co-Transfer Agent or any Registrar (other than Agent), predecessor Registrar or co-Registrar; (ii) any instruction, notice, request, direction, consent, report, certificate, opinion or other instrument, paper, document or electronic transmission believed by Agent to be genuine and to have been signed or given by the proper party or parties; (iii) any guaranty of signature by an "eligible guarantor institution" that is a member or participant in the Securities Transfer Agents Medallion Program or other comparable "signature guarantee program" or insurance program in addition to, or in substitution for, the foregoing; (iv) any instructions received through Direct Registration System/Profile; or (v) any law, act, regulation or any interpretation of the same even though such law, act, or regulation may thereafter have been altered, changed, amended or repealed. In addition, Agent is authorized to refuse to make any transfer that it determines in good faith not to be in good order.
+
+(c) In connection with any question of law arising in the course of Agent performing its duties hereunder, Agent may consult with legal counsel (including internal counsel) whose advice shall be full and complete authorization and protection in respect of any action taken, suffered or omitted by Agent hereunder in good faith and in reasonable reliance thereon.
+
+(d) Any instructions given by Client to Agent orally shall be confirmed in writing by Client as soon as practicable. Agent shall not be liable or responsible and shall be fully authorized and protected for acting, or failing to act, in good faith reliance upon any oral instructions that do not conform with the written confirmation received in accordance with this Section 6(d).
+
+7. Indemnification. Client shall indemnify Agent for, and hold it harmless from and against, any loss, liability, claim (whether with or without basis in fact or law), demand, cost or expense (collectively, "Loss") arising out of or in connection with Agent's duties under this Agreement or this appointment, including the reasonable costs and expenses of defending itself against any Loss or enforcing this Agreement, except to the extent that such Loss shall have been determined by a court of competent jurisdiction to be a result of Agent's gross negligence, bad faith or willful misconduct.
+
+8. Limitation of Liability.
+
+(a) In the absence of gross negligence, bad faith or willful misconduct on its part, Agent shall not be liable for any action taken, suffered or omitted by it or for any error of judgment made by it in the performance of its duties under this Agreement. In no
+
+
+
+
+
+event will Agent be liable for special, indirect, incidental, consequential or punitive losses or damages of any kind whatsoever (including but not limited to lost profits), even if Agent has been advised of the possibility of such losses or damages and regardless of the form of action. Any liability of Agent will be limited in the aggregate to an amount equal to twenty four (24) times the monthly administrative fee to be paid by Client as set forth in Exhibit B hereto.
+
+(b) If any question or dispute arises with respect to the proper interpretation of this Agreement or Agent's duties hereunder, Agent shall not be required to act or be held liable or responsible for its failure or refusal to act until the question or dispute has been (i) judicially settled (and Agent may, if it deems it advisable, but shall not be obligated to, file a suit in interpleader or for a declaratory judgment for such purpose) by a final judgment of a court of competent jurisdiction that is binding on all parties interested in the matter and is no longer subject to review or appeal, or (ii) settled by a written document in form and substance satisfactory to Agent and executed by Client. For such purpose, Agent may, but shall not be obligated to, require the execution of such a document.
+
+9. Force Majeure. Agent shall not be liable for any failures, delays or losses, arising directly or indirectly out of conditions beyond its reasonable control, including, but not limited to, acts of government, exchange or market ruling, suspension of trading, work stoppages or labor disputes, civil disobedience, riots, rebellions, electrical or mechanical failure, computer hardware or software failure, communications facilities failures including telephone failure, war, terrorism, insurrection, fires, earthquakes, storms, floods, acts of God or similar occurrences.
+
+10. Market Data. Client acknowledges that Agent may provide real-time or delayed quotations and other market information and messages ("Market Data"), which Market Data is provided to Agent by certain national securities exchanges and associations who assert a proprietary interest in Market Data disseminated by them but do not guarantee the timeliness, sequence, accuracy or completeness thereof. Client agrees and acknowledges that Agent shall not be liable in any way for any loss or damage arising from or occasioned by any inaccuracy, error, delay in, omission of, or interruption in any Market Data or the transmission thereof.
+
+11. Termination.
+
+(a) Client may terminate this Agreement if (i) Agent defaults on any of its material obligations hereunder and such default remains uncured thirty (30) days after Agent's receipt of notice of such default from Client; or (ii) any proceeding in bankruptcy, reorganization, receivership or insolvency is commenced by or against Agent, Agent shall become insolvent or shall cease paying its obligations as they become due or makes any assignment for the benefit of its creditors.
+
+(b) Agent may suspend providing services hereunder or terminate this Agreement if (i) Client fails to pay amounts due hereunder or defaults on any of its material obligations hereunder and such failure or default remains uncured thirty (30)
+
+
+
+
+
+days after Client's receipt of notice of such failure or default from Agent; (ii) any proceeding in bankruptcy, reorganization, receivership or insolvency is commenced by or against Client, Client shall become insolvent, or shall cease paying its obligations as they become due or makes any assignment for the benefit of its creditors; or (iii) Client is acquired by or is merged with or into another entity where Client is not the surviving company.
+
+(c) Upon termination of this Agreement, all fees earned and expenses incurred by Agent up to and including the date of such termination shall be immediately due and payable to Agent on or before the effective date of such termination. In addition to the payments required in this section, if this Agreement is terminated by Client for any reason other than pursuant to Section 2 or Section 11(a) above or by Agent pursuant to Section 11(b) above, then Client shall pay a termination fee, due and payable to Agent on or before the effective date of such termination, calculated as follows: (i) if the termination occurs prior to the first anniversary of the commencement date of the current term (the "Commencement Date"), then the termination fee shall equal twelve (12) times the average monthly invoice charged to Client by Agent hereunder, (ii) if the termination occurs on or after the first anniversary of the Commencement Date but prior to the second anniversary of the Commencement Date, then the termination fee shall equal nine (9) times the average monthly invoice charged to Client by Agent hereunder, and (iii) if the termination occurs on or after the second anniversary of the Commencement Date, then the termination fee shall equal six (6) times the average monthly invoice charged to Client by Agent hereunder. For purposes of this paragraph, fees for non-recurring events shall be excluded when calculating the average monthly invoice charged to Client by Agent
+
+(d) Prior to termination of this Agreement, Client shall provide Agent with written instructions as to the disposition of records, as well as any additional documentation reasonably requested by Agent. Except as otherwise expressly provided in this Agreement, the respective rights and duties of Client and Agent under this Agreement shall cease upon termination of this Agreement.
+
+12. Lost Certificates. Agent shall not be obligated to issue a replacement share certificate for any share certificate reported to have been lost, destroyed or stolen unless Agent shall have received: (a) an affidavit of such loss, destruction or theft; (b) a bond of indemnity in form and substance satisfactory to Agent; and (c) payment of all applicable fees. Shareholders may obtain such a bond of indemnity from a surety company of the shareholder's choice, provided the surety company satisfies Agent's minimum requirements.
+
+13. Confidentiality.
+
+(a) In connection with Agent's appointment hereunder, each party shall obtain confidential information related to the other party or its stockholders that is not available to the general public ("Confidential Information"), which Confidential Information shall include the terms and conditions of this Agreement and the exhibits attached hereto. Each party agrees that the Confidential Information shall be held and treated by it, its
+
+
+
+
+
+directors, officers, employees, affiliates, agents, investment advisors, accountants and subcontractors (collectively, "Representatives") in confidence and, except as hereinafter provided, shall not be disclosed in any manner whatsoever except as otherwise required by law, regulation, subpoena or governmental authority. Confidential Information shall be used by each party and its Representatives only for the purposes for which provided and shall be disclosed by such party only to those Representatives who have a need to know in order to accomplish the business purpose in connection with which the Confidential Information has been provided. Confidential Information does not include information that (i) is now or subsequently becomes generally available to the public through no fault or breach on the part of the receiving party; (ii) the receiving party had rightfully in its possession prior to disclosure to it by the disclosing party; (iii) is independently developed by the receiving party without the use of or reference to any Confidential Information; (iv) the receiving party rightfully obtains on a non-confidential basis from a source other than the disclosing party who the receiving party has the reasonable belief has the right to transfer or disclose it or (v) required in any legal or regulatory proceeding, investigation, audit examination, subpoena, civil investigative demand or other similar process or required by operation of law or regulation.
+
+(b) In connection with the provision of services under this Agreement, Client may direct Agent to release information, including non-public personal information ("NPPI"), as defined in Title V of the Gramm Leach Bliley Act and the regulations issued thereunder (including but not limited to Regulation P of the Board of Governors of the Federal Reserve) to Client's agents or other third party service providers, including, without limitation, broker/dealers, custodians and depositories. In addition, Client consents to the release of information, including NPPI, (i) to any of Agent's Representatives in connection with the services provided hereunder and (ii) as required by law, regulation, subpoena or governmental authority. Agent shall not be liable for the release of information in accordance with the foregoing provisions.
+
+14. Publicity. Neither party will issue a news release, public announcement, advertisement, or other form of publicity concerning the existence of this Agreement or the Services to be provided hereunder without obtaining the prior written approval of the other party, which may be withheld in the other party's sole discretion; provided that Agent may use Client's name in its customer lists with the prior written approval of Client. 15. Lost Stockholders; In-Depth Stockholder Search.
+
+(a) Agent shall conduct such database searches to locate lost stockholders as are required by Rule 17Ad-17 under the Exchange Act, without charge to the stockholder. If a new address is so obtained in a database search for a lost stockholder, Agent shall conduct a verification mailing and update its records for such stockholder accordingly.
+
+(b) Agent may conduct a more in-depth search for the purpose of (i) locating lost stockholders for whom a new address is not obtained in accordance with clause (a) above, (ii) identifying stockholders who are deceased (or locating their next of kin) and
+
+
+
+
+
+(iii) locating stockholders whose accounts contain two or more consecutive uncashed checks, in each case using the services of a locating service provider selected by Agent. Such provider may compensate Agent for processing and other services that Agent provides in connection with such in-depth search.
+
+(c) Upon locating any stockholder (or next of kin) pursuant to clause (b) above, the locating service provider shall clearly identify to such stockholder (or next of kin) all assets held in such stockholder's account. Such provider shall inform any such located stockholders (or next of kin) that they may choose either (i) to contact Agent directly to obtain the assets in such account, at no charge other than any applicable fees to replace lost certificates, or (ii) to use the services of such provider for a fee, which may not exceed (A) 10% of the asset value of such stockholder's property where the registered stockholder is a living person or (B) 20% of the asset value of such stockholder's property where the registered stockholder is deceased or is not a natural person; provided that in no case shall such fee exceed the maximum statutory fee permitted by the applicable state jurisdiction. If Client selects a locating service provider other than one selected by Agent, then Agent shall not be responsible for the terms of any agreement with such provider and additional fees may apply. 16. Compensation and Expenses.
+
+(a) Commencing on the Effective Date, Client shall compensate Agent for its services hereunder in accordance with the fee schedules listed in Exhibit B hereto.
+
+(b) All amounts owed to Agent hereunder are due within thirty (30) days of the invoice date. Delinquent payments are subject to a late payment charge of one and one half percent (1.5%) per month commencing sixty (60) days from the invoice date. Client agrees to reimburse Agent for any attorney's fees and any other costs associated with collecting delinquent payments.
+
+(c) Client shall be charged for certain reasonable expenses advanced or incurred by Agent in connection with Agent's performance of its duties hereunder. Such charges include, but are not limited to, stationery and supplies, such as transfer sheets, dividend checks, envelopes, and paper stock, as well as any disbursements for telephone, mail insurance, electronic document creation and delivery, travel expenses for annual meetings, link-up charges from Automatic Data Processing Inc. and tape charges from The Depository Trust Company. While Agent endeavors to maintain such charges (both internal and external) at competitive rates, these charges will not, in all instances, reflect actual out-of-pocket costs, and in some instances may include handling charges to cover internal processing and use of Agent's billing systems.
+
+(d) With respect to any shareholder mailings processed by Agent, Client shall be charged postage as an out-of-pocket expense at postage rates that may not reflect all available or utilized postal discounts, such as presort or NCOA discounts. Client shall, at least one business day prior to mail date, provide immediately available funds sufficient to cover all postage due on such mailing. Any material shareholder mailing schedule
+
+
+
+
+
+changes, including, but not limited to, delays in delivering materials to Agent or changes in a mailing commencement date, may result in additional fees and/or expenses.
+
+17. Notices. All notices, demands and other communications given pursuant to this Agreement shall be in writing, shall be deemed effective on the date of receipt, and may be sent by overnight delivery service, or by certified or registered mail, return receipt requested to: If to Client: with an additional copy to:
+
+Blackstone/ Long-Short Credit Income Fund 280 Park Avenue, 11t h Floor New York, New York 10017 Attn: Marisa Beeney
+
+GSO/ Blackstone Debt Funds Management LLC 280 Park Avenue, 11t h Floor New York, New York 1001
+
+If to Agent: with an additional copy to:
+
+Mellon Investor Services LLC 480 Washington Blvd Jersey City, NJ 07310 Attn: Kevin Shinkunas
+
+Mellon Investor Services LLC Newport Office Center VII 480 Washington Blvd. Jersey City, NJ 07310 Attn: Legal Department
+
+18. Submission to Jurisdiction; Foreign Law.
+
+(a) The parties irrevocably (i) submit to the non-exclusive jurisdiction of any New York State court sitting in New York City or the United States District Court for the Southern District of New York in any action or proceeding arising out of or relating to this Agreement, (ii) waive, to the fullest extent they may effectively do so, any defense based on inconvenient forum, improper venue or lack of jurisdiction to the maintenance of any such action or proceeding, and (iii) waive all right to trial by jury in any action, proceeding or counterclaim arising out of this Agreement or the transactions contemplated hereby.
+
+(b) Agent shall not be required hereunder to comply with the laws or regulations of any country other than the United States of America or any political subdivision thereof. Agent may consult with foreign counsel, at Client's expense, to resolve any foreign law issues that may arise as a result of Client or any other party being subject to the laws or regulations of any foreign jurisdiction.
+
+
+
+
+
+19. Miscellaneous.
+
+(a) Amendments. This Agreement may not be amended or modified in any manner except by a written agreement signed by both Client and Agent.
+
+(b) Governing Law. This Agreement shall be governed by, construed and interpreted in accordance with the laws of the State of New York, without regard to principles of conflicts of law.
+
+(c) Survival of Terms. Sections 7, 8, 13 and 16 hereof shall survive termination of this Agreement and Agent's appointment hereunder.
+
+(d) Assignment. This Agreement shall be binding upon the parties hereto and their respective successors and assigns; provided that this Agreement may not be assigned, or otherwise transferred, in whole or in part, by either party without the prior written consent of the other party, which the other party will not unreasonably withhold, condition or delay; and provided further that (i) consent is not required for an assignment to an affiliate of Agent and (ii) any reorganization, merger, consolidation, sale of assets or other form of business combination by Agent shall not be deemed to constitute an assignment of this Agreement. Any attempted assignment in violation of the foregoing will be void. The Agent agrees to provide notices of such successor Agent to the other party.
+
+(e) Headings. The headings contained in this Agreement are for the purposes of convenience only and are not intended to define or limit the contents of this Agreement.
+
+(f) Severability. Whenever possible, each provision of this Agreement will be interpreted in such a manner as to be effective and valid under applicable law, but if any provision of this Agreement is found to violate a law, it will be severed from the rest of the Agreement and ignored.
+
+(g) Counterparts. This Agreement may be executed manually in any number of counterparts, each of which such counterparts, when so executed and delivered, shall be deemed an original, and all such counterparts when taken together shall constitute one and the same original instrument.
+
+(h) Entire Agreement. This Agreement constitutes the entire understanding of the parties with respect to the subject matter hereof and supercedes all prior written or oral communications, understandings, and agreements with respect to the subject matter of this Agreement. The parties acknowledge that the Exhibits hereto are an integral part of this Agreement.
+
+(i) Benefits of this Agreement. Nothing in this Agreement shall be construed to give any person or entity other than Agent and Client any legal or equitable right, remedy or claim under this Agreement; but this Agreement shall be for the sole and exclusive benefit of Agent and Client.
+
+
+
+
+
+(j) Customer Identification Program. Client acknowledges that Agent is subject to the customer identification program ("Customer Identification Program") requirements under the USA PATRIOT Act and its implementing regulations, and that Agent must obtain, verify and record information that allows Agent to identify Client. Accordingly, prior to accepting an appointment hereunder, Agent may request information from Client that will help Agent to identify Client, including without limitation Client's physical address, tax identification number, organizational documents, certificate of good standing, license to do business, or any other information that Agent deems necessary. Client agrees that Agent cannot accept an appointment hereunder unless and until Agent verifies Client's identity in accordance with the Customer Identification Program requirements.
+
+(k) Contingency Facilities. In order to minimize the disruption of the services provided under this Agreement or any exhibit, schedule, appendix or annex hereto, theAgent shall implement and maintain directly or through third parties contingency facilities and procedures reasonably designed to provide for periodic back-up of the computer files and data with respect to the Client and emergency use of electronic data processing equipment to provide services under this Agreement. In the event of equipment failure, work stoppage, governmental action, communication disruption or other impossibility of performance beyond the Agent's control, the Agent shall, at no additional expense to the Client, take commercially reasonable steps to minimize service interruptions.
+
+[The remainder of this page has been intentionally left blank. Signature page follows.]
+
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement by their duly authorized officers as of the day and year above written.
+
+BLACKSTONE/ GSO LONG-SHORT CREDIT INCOME FUND By: /s/ Marisa J. Beeney Name: Marisa J. Beeney Title: Authorized Signatory
+
+MELLON INVESTOR SERVICES LLC By: /s/ Kevin Shinkunas Name: Kevin Shinkunas Title: Vice President
+
+
+
+
+
+Exhibit A
+
+STOCK SUBJECT TO THE AGREEMENT
+
+Class of Stock
+
+Number of Authorized Shares
+
+Number of Authorized Shares Issued and Outstanding (including Treasury Shares)
+
+Number of Authorized Shares Reserved for Future Issuance Under Existing Agreements A-1
+
+
+
+
+
+Exhibit B
+
+SERVICES TO BE PROVIDED AND SCHEDULE OF FEES Issues Covered: (additional issues are subject to additional fees.) Common (1) IPO Services Full Fast Closing (one-time)/Conversion $2,500.00 Administration & Account Maintenance Stock Transfer Administration (Annual Fee, payable monthly) $ 18,000.00 Account Maintenance Services Security Issuance Services Dividend Disbursement Services (Quarterly) Escheatment Services Direct Registration System/Profile Services Web Services and System Access Proxy and Annual Meeting Services (1 Common file) Investment Plan Services Per Separate Plan Agreement Out-of-Pocket Expenses Billed as Incurred Additional fees will apply if the annual allowances below are exceeded Account Administration Allowance Fee Number of active accounts maintained 1,000 $ 4.00 Number of inactive accounts maintained 1,000 $ 1.00 Number of Restricted transactions 500 $ 50.00 Number of Option transactions 500 $ 25.00 Number of electronic DWAC transactions
+
+N/A
+
+Charged to broker Number of mailings per year (including one enclosure) 4 See Below Number of reports or analyses 4 See Below Number of lists or labels 4 See Below B-1
+
+
+
+
+
+Escheatment Services Annual Compliance Services Included SEC mandated electronic database and new address retrieval mailing $ ($ 3.75 per account 500.00 minimum) Each state mandated due diligence mailing $ ($ 3.50 per account 500.00 minimum) Direct Registration System / Profile Annual Surety Fee Waived upon Enrollment Customization of advices and statements (if requested) $500.00 Stock Distribution Event - full, full and fractional shares $3.50 DRS/Profile statement, Advices, Annual Account Statement $0.25 DRS/Profile investor originated reject fee, each occurrence Charged to broker Additional Lists & Mailings Upon Request Shareholder Lists and Analysis (Minimum charge for each of the below services) $500.00 Lists, per name listed $0.05 Labels, per label printed $0.05 Analysis, per name passed on database $0.02 Analysis, per name listed in report $0.05 Custom Lists or Analyses By Appraisal Standard Mailing Services (Minimum charge for each of the below services) $500.00 Addressing mailing medium, per name $0.05 Affixing labels, per label $0.05 Machine Inserting 1st Enclosure, per piece 2nd Enclosure, per piece Each Enclosure thereafter, per piece
+
+$0.05 $0.04 $0.03 Manual Inserting By Appraisal B-2
+
+
+
+
+
+BNY Mellon Shareowner Services Notice & Access Pricing/Services Notice & Access Web Presentation—Event Fee Includes: •  Web site setup •  Conversion and formatting of documents into Web site format •  Presentation and maintenance of proxy materials on web site for 12 months •  Establishment and maintenance of Web site that does not track cookies or shareowner data •  Maintenance and support for Web hosting servers
+
+$5,000.00
+
+Annual Account Administration Fee (for Notice recipients) Includes: •  Processing of requests for materials via phone or Internet •  Systems setup for fulfillment •  Storage of physical proxy compliance materials (for fulfillment purposes) •  Maintenance and storage of shareowner access preference flags •  File transmissions •  Mail processing of Notice & Access letter
+
+$1,500.00 (waived with web hosting) plus $0.20 per shareowner
+
+Notice Card OOP (Postage, Stationery, Imprinting) As incurred (estimated $0.68 each)
+
+Fulfillment Services Pick-and-Pack Fulfillment Services (hard copy compliance materials provided by client) Includes: pre-insertion of printed materials $1.70 per opt-out shareowner Fulfillment postage As incurred Proxy Card out-of-pocket expenses Includes: Stationery, Imprinting As incurred (est. $0.68 each) per opt-out shareowner
+
+Additional Web Hosting Services Included
+
+Additional Web hosting of materials for outside vendor (e.g. hosting of Web site for street shareowner base in lieu of using Broadridge's Web site) includes site setup, presentation, document conversion, maintenance of proxy materials on cookie-free Web site for 12 months; to be used in conjunction with the Web hosting for registered base. B-3
+
+
+
+
+
+SERVICES TO BE PROVIDED
+
+Account Maintenance Functions • Opening new accounts • Posting debits and credits • Maintaining certificate history • Placing and releasing stop transfer notations • Consolidating accounts • Coding accounts requiring special handling (e.g. "bad address," "do not mail," "VIP," etc.) • Processing address changes • Responding to shareholder correspondence (includes address changes, coding changes, W8/W9 Inquiries, 1099 duplicate requests, statement inquiries, check replacements, and other routine transactions) • Providing a toll-free phone number for shareholder inquiries • Obtaining and posting Taxpayer Identification Number certifications pursuant to IDTCA regulations • Maintaining inactive accounts for the purpose of research and tax reporting • Closing (purging) inactive accounts that meet selected criteria • Maintaining shareholder consents to electronic delivery of materials • Review and reporting of information required by the Office of Foreign Asset Control
+
+Security Issuance Functions • Qualifying under the rules of the NYSE and NASDAQ/AMEX to act in the dual capacity as transfer agent and registrar • Maintaining mail and window facilities for the receipt of transfer requests • Maintaining and securing unissued certificate inventory and supporting documents • Establishing procedures designed to verify that surrendered certificates are genuine and have not been altered • Obtaining a legal opinion and/or other documentation to the effect that original issuances are properly authorized and have been registered under federal securities laws or are exempt from such registration • In connection with requests for transfer, verifying that Shares issued equal the number surrendered • Place and remove stop orders on Shares • Verifying that Agent has not received any active stop orders against Shares submitted for transfer • Issuing and registering new securities • Recording canceled and issued securities • Canceling surrendered certificates • Delivering completed transfers • Processing restricted and legal transfers upon presentment of appropriate supporting documentation • Providing online access to daily transfer or management summary journals • Providing delivery and receipt of DWAC transfers B-4
+
+
+
+
+
+• Provide and process safekeeping requests • Replacing lost, destroyed or stolen certificates (charge imposed on shareholder) • Supporting custodial arrangements for selling stockholders or otherwise as requested by Client in connection with public offerings
+
+Dividend Disbursement Services • Preparing and mailing checks • ACH/Direct Deposit file transmission • Reconciling checks • Preparing payment register in list form • Withholding and filing taxes for non-resident aliens and others • Filing federal tax information returns • Processing "B" and "C" notices received from the IRS • Mailing required statements (Form 1099DIV or Form 1042) • Maintaining stop payment files and issuing replacement checks • Maintaining separate dividend addresses • Receiving, verifying and posting dividend payment funds
+
+Investment Plan Services (per separate Plan agreement) • Opening and maintaining participant accounts • Processing reinvestment and optional cash payments • Preparing participant statement of accounts, after each transaction, showing activity for current period • Processing liquidations and terminations according to plan specifications • Providing periodic investment reports to Client • Preparing Form 1099B to report sale proceeds • Issuing replacement checks • Mail authorization material as requested either separately or part of new account mailing
+
+Escheatment Functions • Assist in establishing compliance with the unclaimed property requirements of all jurisdictions that may have a claim on escheatable property held by Agent on behalf of Client. • Processing records and property subject to reporting based upon current state statutes, rules, and regulations • Identifying property that has become escheatable since the last filing date • Assist in reviewing state regulations to determine if there have been any changes in reporting procedures • Reporting and remitting property to states
+
+Proxy and Annual Meeting Functions • Assisting in Annual Meeting planning • Processing and mailing Annual Meeting materials • Provide eKit interactive Annual Meeting materials integrated with Internet Proxy Voting B-5
+
+
+
+
+
+• Tabulating physical (both scanner and manual) proxies returned by shareholders • Soliciting registered shareholders for their consent to receive electronic meeting materials • Collecting, processing and archiving electronic consents and revocations • Tabulating telephone and Internet proxies returned by shareholders • Identifying shareholders who will attend the Annual Meeting • Providing Inspector(s) of Election for the Annual Meeting • Maintaining an automated link with (i) DTC to redistribute record date Cede & Co. share positions to participants and (ii) ADP to receive transmissions of broker votes • Providing certified list of record date holders • Processing omnibus proxies for respondent banks • Providing report of final vote • Providing remote access to proxy tabulation system
+
+Web Services and System Access • Providing Client access to Agent's mainframe inquiry and internet via Client ServiceDirect • Providing daily data on registered shareholders • Providing daily access to proxy tabulation file during proxy season • Providing Shareholder access to their account via Investor ServiceDirect • Providing on-line access to shareholder statements and tax forms via MLink B-6
+
+
+
+
+
+OTHER SERVICES AND CHARGES
+
+Shareholder Plan Enrollment: If Client has appointed a banking affiliate of Agent to administer a direct stock purchase and/or dividend reinvestment plan, Agent (on behalf of such affiliate) shall accept requests by Client's shareholders to enroll Shares in such plan via paper enrollment form, in the case of certificated securities, and via paper enrollment form, Internet enrollment and telephonic enrollment, in the case of book-entry (i.e., Direct Registration System) securities. If Client has not appointed a banking affiliate of Agent to administer a direct stock purchase or dividend reinvestment plan, then Client hereby appoints and directs a banking affiliate of Agent to implement and administer a share selling program ("Program") pursuant to which shareholders may enroll book-entry Shares in the Program in order to liquidate them under the following terms and conditions. The Program transaction fee for each such sale shall be $15.00 plus $0.12 per Share. Under the Program, upon receipt of a sale request by a registered shareholder, Agent (on behalf of such banking affiliate) will process the request through an affiliated registered broker/dealer. Proceeds of each sale under the Program will be sent to the shareholder in the form of a check (less the transaction fee). Sale requests under the Program will typically be combined with other sale requests received from Client shareholders and Shares will be submitted in bulk to an affiliated registered broker/dealer for sale. Shares will be sold under the Program generally within one business day of Agent's receipt (on behalf of such banking affiliate) of the sale request, but in no event more than five business days (except where deferral is necessary under state or federal regulations). The price per Share received by the selling shareholder under the Program will equal the market price Agent (on behalf of such banking affiliate) receives for the Shares (or, if more than one bulk trade is executed on the day the Shares are sold, then the price per Share shall equal the weighted average market price received for all Shares sold that day).
+
+Prior Agent Out-of-Proof Conditions: If an out-of-proof condition exists on the Effective Date, and such condition is not resolved within 90 calendar days thereafter, Client agrees to provide Agent with funds or shares sufficient to resolve the out-of-proof condition promptly upon the expiration of such 90 day period.
+
+Lost Certificates: Agent shall charge shareholders an administrative fee for replacement of lost certificates, which shall be charged only once in instances where a single surety bond obtained covers multiple certificates. Agent may receive compensation from surety companies or surety agents for administrative services provided to them.
+
+Legal Expenses, System Modifications: Certain expenses may be incurred in resolving legal matters, including receiving and responding to routine subpoenas that arise in the course of performing services hereunder. This may result in a separate charge to cover Agent's expenses (including the cost of external or internal counsel) in resolving such matters; provided that any legal expenses charged to the Client shall be reasonable.
+
+In the event any federal, state or local laws, rules or regulations are enacted that require Agent to (i) make any adjustments and/or modifications to its current system, or (ii) B-7
+
+
+
+
+
+provide additional services to Client for which Agent is not being compensated hereunder, then Client shall compensate Agent (a) on a pro rata basis proportionate to the Client's registered shareholder base, for the costs associated with making such required adjustments and/or modifications, or (b) according to Agent's standard fees established, in good faith, with respect to such additional services.
+
+Initial Compliance Escheatment Services: If, at the time escheat services are commenced for any asset type, Client is not in compliance with applicable state unclaimed property regulations with respect to that asset type, then Agent shall provide initial compliance services, which shall include working with one or more state unclaimed property clearinghouses to identify specific reportable records and property, and organizing and formatting such records and property for remittance to the applicable states, as required. Where applicable, in concert with state clearinghouses, Agent shall also attempt to obtain releases and indemnification agreements protecting Client from interest and penalties that may be assessable against Client by the states for prior non-compliance. If a release or indemnification agreement is not so obtained from a state, Client may be responsible for interest and/or penalties from such state for prior non-compliance. Agent may receive compensation from state clearinghouses for the processing and support services it provides to them in connection with initial compliance services.
+
+Cash Dividends and Distributions: For any dividend mailing, Client shall, no later than 10 am Eastern Time on the mail date for the dividend, provide to Agent immediately available funds sufficient to pay the aggregate amount of cash dividends to be paid. Upon receipt of any such funds, Agent shall (a) in the case of registered shareholders who are participants in a dividend reinvestment plan of Client as of the record date, reinvest such funds in accordance with the terms of such plan, and (b) in the case of registered shareholders who are not participants in any such plan as of the record date, make payment of such funds to such shareholders by mailing a check, payable to the registered shareholder, to the address of record or, if different, dividend mailing address. If Agent has not timely received sufficient funds to make payments of any dividend or distribution pursuant to subsections (a) and (b) above to all registered shareholders of Client as of the record date, Agent shall notify Client and withhold all payments until Client has provided sufficient funds to Agent.
+
+Other Services: Fees, out of pocket expenses and disbursements for any services, including, but not limited to, down posting for odd lots, provided to Client or any of its agents or representatives by or on behalf of Agent hereunder that are not set forth above will be based on Agent's standard fees at the time such services are provided or, if no standard fees have been established, an appraisal of the work to be performed. B-8
+
+
+
+
+
+Exhibit C
+
+DOCUMENTS AND NOTIFICATIONS TO BE DELIVERED TO AGENT
+
+Prior to the Effective Date, to the extent not previously provided by Client to Agent, Client shall provide Agent with the following: 1. An adequate supply of Share certificates (including new Share certificates and specimens whenever the form thereof shall change), properly signed, by facsimile or otherwise, by officers of Client authorized by law or by Client's By-Laws to sign Share certificates, and, if required, bearing the corporate seal or a facsimile thereof. 2. A copy of the resolutions adopted by the Board of Directors of Client appointing or authorizing the appointment of Agent as Transfer Agent and/or Registrar and Dividend Disbursing Agent, as the case may be, duly certified by the Secretary or Assistant Secretary of Client under the corporate seal. 3. A copy of the Certificate of Incorporation of Client, and all amendments thereto, certified by the Secretary of State of the state of incorporation. 4. A copy of the By-laws of Client as amended to date, duly certified by the Secretary of Client under the corporate seal. 5. A certificate of the Secretary or an Assistant Secretary of Client, under its corporate seal, stating as follows:
+
+a) this Agreement has been executed and delivered pursuant to the authority of Client's Board of Directors;
+
+b) the attached specimen Share certificate(s) are in substantially the form submitted to and approved by Client's Board of Directors for current use, and the attached specimen Share certificates for each Class of Stock with issued and outstanding Shares are in the form previously submitted to and approved by Client's Board of Directors for past use;
+
+c) no shares have been reserved for future issuance except as set forth on the attached list of existing agreements pursuant to which Shares have been reserved for future issuance, which list specifies the number of reserved Shares subject to each such existing agreement and the substantive provisions thereof.
+
+d) each shareholder list provided to Agent is true and complete; or no Shares are outstanding;
+
+e) the name of each stock exchange upon which any of the Shares are listed and the number and identity of the Shares so listed; C-1
+
+
+
+
+
+f) the name and address of each co-Transfer Agent, Registrar (other than Agent) or co-Registrar for any of the Shares and the extent of its appointment, or there are no co-Transfer Agents, Registrars (other than Agent) or co-Registrars for any of the Shares; and
+
+g) the officer(s) of Client, who executed this Agreement as well as any certificates or papers delivered to Agent pursuant to this Agreement (including without limitation any Share certificates, as such certificates may be amended from time to time), were validly elected or appointed to, and are the incumbents of, the offices they purported to hold at the time of such execution and delivery, are authorized to execute this Agreement as well as all other certificates or papers delivered hereunder, and that their signatures on all such documentation are genuine.
+
+Such Secretary's certificate shall contain a certificate of an officer of Client, other than the officer executing the Secretary's certificate, stating that the person executing the Secretary's certificate was validly elected to, and is the Secretary or an Assistant Secretary of Client and that his signature on the certificate is genuine. 6. A shareholder list, preferably in machine readable format, certified as true and complete by the person preparing the list, for the issued and outstanding Shares, setting forth as to each holder, his/her name and address, tax identification number certified by the shareholder pursuant to requirements of the Internal Revenue Code and applicable regulations, the number of Shares held, the Share certificate numbers and the existence of any stop orders or other transfer restrictions. 7. Opinion of counsel for Client, addressed to Agent, to the effect that:
+
+a) the Shares issued and outstanding on the date hereof have been duly authorized, validly issued and are fully paid and are non-assessable;
+
+b) the Shares issued and outstanding on the date hereof have been duly registered under the Securities Act of 1933, as amended, and such registration has become effective, or are exempt from such registration; and have been duly registered under the Securities Exchange Act of 1934, as amended, or are exempt from such registration;
+
+c) the use of facsimile signatures by Agent in connection with the countersigning and registering of Share certificates of Client has been duly authorized by Client and is valid and effective; and
+
+d) the execution and delivery of this Agreement do not and will not conflict with, violate, or result in a breach of, the terms, conditions or provisions of, or constitute a default under, the charter or the by-laws of Client, any law or regulation, any order or decree of any court or public authority having jurisdiction, or any mortgage, indenture, contract, agreement or undertaking to which Client is a party or by which it is bound and this Agreement is enforceable C-2
+
+
+
+
+
+against Client in accordance with it terms, except as limited by bankruptcy, insolvency, moratorium, reorganization and other similar laws affecting the enforcement of creditors' rights generally. 8. A completed Internal Revenue Service Form 2678. 9. A completed Form W-8 or W-9, as applicable.
+
+Client further agrees to deliver an opinion of counsel as provided in this Exhibit C, Section 7(a) and (b) upon any future original issuance of Shares for which Agent will act as transfer agent hereunder. C-3
+
+
+
+
+
+NOTIFICATION OF CHANGES
+
+Client shall promptly notify Agent of the following: 1. Any change in the name of Client, amendment of its certificate of incorporation or its by-laws; 2. Any change in the title of a Class of Stock from that set forth in the first column of Exhibit A; 3. Any change in the Number of Authorized Shares from that set forth in the second column of Exhibit A; 4. Any change in existing agreements or any entry into new agreements changing the Number of Authorized Shares Reserved for Future Issuance Under Existing Agreements from that listed in the fourth column of Exhibit A hereto; 5. Any change in the number of outstanding Shares subject to stop orders or other transfer limitations; 6. The listing or delisting of any Shares on any stock exchange; 7. The appointment after the date hereof of any co-Transfer Agent, Registrar (other than Agent) or any co-Registrar for any of the Shares; 8. The merger of Client into, or the consolidation of Client with, or the sale or other transfer of the assets of Client substantially as an entirety to, another person; or the merger or consolidation of another person into or with Client; and 9. Any other change in the affairs of Client of which Agent must have knowledge to perform properly its duties under this Agreement. C-4

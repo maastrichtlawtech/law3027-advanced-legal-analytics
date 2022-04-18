@@ -1,0 +1,511 @@
+[INITIALS ILLEGIBLE]                                        [INITIALS ILLEGIBLE]       20.3.98                                                     30.4.98
+
+                                       5
+
+                                   SCHEDULE 3
+
+Project Managers
+
+The Publishers:
+
+Project Manager - --------------- Ian Bannerman Blackwell Science Ltd Osney Mead Oxford OX2 0EL UK e-mail: ian.bannerman@blacksci.co.uk tel: +44 (0)1865 206101
+
+Deputy Project Manager - ---------------------- Martin Clutterbuck Blackwell Science Ltd Osney Mead Oxford OX2 0EL UK e-mail: martin.clutterbuck@blacksci.co.uk tel: +44 (0)1865 206110
+
+Deputy Project Manager - ---------------------- Anders Geertsen Munksgaard International Publishers Ltd 35 Norre Sogade, P.O. Box 2148 1016 Copenhagen K Denmark e-mail: ag@mail.munksgaard.dk tel: +45 77 33 31 03
+
+HealthGate:
+
+Project Manager - --------------- Mark Israel HealthGate 380 Pleasant Street Suite 230 Malden MA 02148 USA tel: 781 321 6000 Ext 248 e-mail: misra@healthgate.com
+
+Deputy Project Manager - ---------------------- Rick Lawson HealthGate 380 Pleasant Street Suite 230 Malden MA 02148 USA tel: 781 321 6000 Ext 211 e-mail: lawson@healthgate.com
+
+[INITIALS ILLEGIBLE]                                        [INITIALS ILLEGIBLE]       20.3.98                                                     30.4.98
+
+                                       6
+
+                                   SCHEDULE 4
+
+                                        3
+
+SCHEDULE 4
+
+ESCROW AGREEMENT
+
+When the annexed escrow agreement is entered, the terms shall include those set out in the annexed letter from NCC Escrow International, the escrow agent, of 12 March 1998 by way of variation of NCC document STD001Y2K.UK.
+
+The Required Information at ii) shall be provided by the parties. The date of the Licence Agreement shall be the date of this agreement. The name of the
+
+
+
+
+
+package shall be "HealthGate Electronic Journal Proprietary Software". These words shall also appear in Schedule 1 of the escrow agreement. The parties shall provide the medium on which the source code shall be supplied, which in default of agreement shall be such medium as the escrow agent NCC Escrow International Limited thinks fit.
+
+The fees to be inserted in Schedule 4 of the Escrow Agreement shall be the then applicable fees of NCC Escrow International Limited.
+
+The Escrow Agreement shall be signed by HealthGate and Blackwell Science Limited.
+
+[INITIALS ILLEGIBLE]                                        [INITIALS ILLEGIBLE]       20.3.98                                                     30.4.98
+
+                                                   NCC ESCROW INTERNATIONAL
+
+12 March 1998                                      National Computing Centre                                                    Oxford House, Oxford Road                                                    Manchester M1 7ED, UK
+
+                                                   Telephone: +44(O)161 228 6333                                                    Facsimile: +44(0)161 242 2275                                                    e-mail: escrow@ncc.co.uk
+
+Mr J S  Saunders                                   [NCC LOGO] Linnells, Solicitors Greyfriars Court Paradise Square Oxford OX1 1BB
+
+Dear Mr Saunders
+
+Proposed Escrow Agreement: Healthgate Data Corp / Blackwell Science Ltd / NCC
+
+I confirm that NCC is willing to enter into our standard form escrow agreement std001y2k.uk with the following amendments by reference to the appropriate clauses:
+
+(2)   Add the words "and/or companies in the Blackwell Science Ltd group" after       "Blackwell Science Ltd".
+
+6.1.6 A new clause: "there is a Change in Control of the Owner. For the purposes       of this clause, a person shall have "Control" of a company if he holds,       directly or indirectly, shares which together with shares held by any       persons acting in concert with him carry 50% or more of the voting rights       of that company, and "Change in Control" shall be interpreted accordingly.       Words and phrases in the City Code on Take-overs and Mergers shall have       the same meaning here."
+
+6.1.7 A new clause: "the Licensee exercises its option under clause 10.4.1 of       the Licence Agreement".
+
+11.4  Replace with: "If the obligations in clause 31 of the Licence Agreement       have terminated this Agreement will automatically terminate on the same       date."
+
+Yours sincerely
+
+/s/ Carmel Gorman
+
+Carmel Gorman NCC Escrow International
+
+[INITIALS ILLEGIBLE]                                        [INITIALS ILLEGIBLE]       20.3.98                                                     30.4.98
+
+[NCC Escrow International logo]
+
+This document is to be used where an Owner deposits source code on behalf of a single user only.
+
+PROCEDURE:
+
+      The required information sheet on page ii should be completed, detached       and returned by fax or post to NCC at the following address:
+
+      Contracts Administrator       NCC Escrow International Limited       Oxford House, Oxford Road       Manchester M1 7ED, England
+
+      Telephone: +44 (0) 161 242 2109       Facsimile: +44 (0) 161 242 2275       E-mail: escrow@ncc.co.uk
+
+i.    NCC will check the required information and will then send out signature       copies of the Escrow Agreement, together with the relevant invoices. A       reference number will be given in respect of that agreement which must be       quoted in all correspondence.
+
+ESCROW 2000
+
+
+
+
+
+ii.   When the Owner and the Licensee have signed the Escrow Agreement all       copies must be returned to NCC.
+
+iii.  NCC will sign and date the Agreement and a signed copy will be sent to       each party.
+
+iv.   The Owner should then lodge the Material.
+
+NB: Until all parties sign the Escrow Agreement no binding escrow arrangements have been made.
+
+                                     single                                     licensee                                    ----------                                            UK
+
+Version 1: August 1997                                                         i
+
+FAO: P. FLEMING                                             REQUIRED INFORMATION - --------------------------------------------------------------------------------
+
+- -------------------------------------------------------------------------------- OWNER
+
+[-1] Company Name                  ---------------------------------------------------------------
+
+[-2] Registered Office                       ----------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+
+Correspondence Address                       ----------------------------------------------------------
+
+*[-3] Company Registration Number                   *VAT Number                                  -------------------           -----------------
+
+Telephone Number                                    Fax Number                 ------------------------------------          ------------------
+
+Contact Name                               Position in Company             -------------------------------                   ------------------
+
+*only applicable to countries within the EU - --------------------------------------------------------------------------------
+
+- -------------------------------------------------------------------------------- LICENSEE
+
+[-4] Company Name                  ---------------------------------------------------------------
+
+[-5] Registered Office                       ----------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+
+Correspondence Address                       ----------------------------------------------------------
+
+*[-6] Company Registration Number                   *VAT Number                                  -------------------           -----------------
+
+Telephone Number                                    Fax Number                 ------------------------------------          ------------------
+
+Contact Name                               Position in Company             -------------------------------                   ------------------
+
+*only applicable to countries within the EU - --------------------------------------------------------------------------------
+
+- -------------------------------------------------------------------------------- OTHER DETAILS
+
+[-7] Name of Package                     ------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+
+INSURANCE FEE (complete if appropriate) - -------------------------------------------------------------------------------- Standard NCC limitation of liability is St(pound)500,000 (no charge).
+
+There is a charge of St(pound)100 (annual fee) for each additional St(pound)500,000.
+
+Maximum liability is St(pound)5,000,000.
+
+
+
+
+
+Please indicate required liability                                        --------------------------
+
+- --------------------------------------------------------------------------------
+
+                                            ------------------------------------ FEES PAYABLE (tick as appropriate)                 Owner       Licensee - -------------------------------------------------------------------------------- Initial Fee - -------------------------------------------------------------------------------- Annual Fee - -------------------------------------------------------------------------------- Update Fee (payable in the event of more than 4 updates per annum) - -------------------------------------------------------------------------------- Storage Fee (payable if the source code exceeds one cubic foot) - -------------------------------------------------------------------------------- Annual liability fee payable (if appropriate) - -------------------------------------------------------------------------------- Release Fee (plus NCC's reasonable expenses)                      X - --------------------------------------------------------------------------------
+
+ii                                                        Version 1: August 1997
+
+(C) NCC Escrow International Limited 1997                           STD001Y2K.UK
+
+[NCC Escrow International logo]
+
+                                                            SINGLE LICENSEE (UK)                                                                      ESCROW 2000 - -------------------------------------------------------------------------------- ESCROW AGREEMENT:                                DATED:
+
+Between:
+
+(1)   [-1] whose registered office is at [-2] (CRN: [-3]) ("the Owner");
+
+(2)   [-4] whose registered office is at [-5] (CRN: [-6]) ("the Licensee"); and
+
+(3)   NCC ESCROW INTERNATIONAL LIMITED whose registered office is at Oxford       House, Oxford Road, Manchester M1 7ED, England (CRN:3081952) ("NCC").
+
+Preliminary:
+
+(A)   The Licensee has been granted a licence to use a software package       comprising computer programs.
+
+(B)   Certain technical information and documentation describing the software       package are the confidential property of the Owner and are required for       understanding, maintaining and correcting the software package.
+
+(C)   The Owner acknowledges that in certain circumstances the Licensee may       require possession of the technical information and documentation held       under this Agreement.
+
+(D)   Each of the parties to this Agreement acknowledges that the considerations       for their respective undertakings given under it are the undertakings       given under it by each of the other parties.
+
+It is agreed that:
+
+1     Definitions
+
+      In this Agreement the following terms shall have the following meanings:
+
+      1.1   "Full Verification Service" means those bespoke tests agreed between             the Licensee and NCC for the verification of the Material;
+
+      1.2   "Intellectual Property Rights" means copyright, trade secret,             patent, and all other rights of a similar nature;
+
+      1.3   "Licence Agreement" means the licence granted to the Licensee for             the Package;
+
+      1.4   "Material" means the source code of the Package comprising the             latest technical information and documentation described in             Schedules 1 and 2;
+
+      1.5   "Package" means the software package licensed to the Licensee under             the Licence Agreement; and
+
+      1.6   "Standard Verification Service" means those tests detailed in the             Standard Verification Service published by NCC from time to time.
+
+2     Owner's Duties and Warranties
+
+      2.1   The Owner shall:
+
+            2.1.1 deliver a copy of the Material to NCC within 30 days of the                   date of this Agreement;
+
+
+
+
+
+            2.1.2 at all times ensure that the Material as delivered to NCC is                   capable of being used to generate the latest version of the                   Package issued to the Licensee and shall deliver further                   copies of the Material as and when necessary;
+
+            2.1.3 deliver to NCC a replacement copy of the Material within 12                   months of the last delivery;
+
+            2.1.4 deliver a replacement copy of the Material within 14 days of                   receipt of a notice served upon it by NCC under the provisions                   of Clause 4.1.5; and
+
+            2.1.5 deliver with each deposit of the Material the information                   detailed in Schedule 2.
+
+      2.2   The Owner warrants that:
+
+            2.2.1 it owns the Intellectual Property Rights in the Material and                   has authority to enter into this Agreement; and
+
+            2.2.2 the Material lodged under Clause 2.1 shall contain all                   information in human-readable form and on suitable media to                   enable a reasonably skilled programmer or analyst to                   understand, maintain and correct the Package without the                   assistance of any other person.
+
+3     Licensee's Responsibilities
+
+      It shall be the responsibility of the Licensee to notify NCC of any change       to the Package that necessitates a replacement deposit of the Material.
+
+Version 1: August 1997                                                    1 of 6
+
+4     NCC's Duties
+
+      4.1   NCC shall:
+
+            4.1.1 hold the Material in a safe and secure environment;
+
+            4.1.2 inform the Owner and the Licensee of the receipt of any copy                   of the Material;
+
+            4.1.3 in accordance with the terms of Clause 9 perform those tests                   that form part of its Standard Verification Service from time                   to time;
+
+            4.1.4 at all times retain a copy of the latest verified deposit of                   the Material; and
+
+            4.1.5 notify the Owner if it becomes aware at any time during the                   term of this Agreement that the copy of the Material held by                   it has been lost, damaged or destroyed.
+
+      4.2   NCC shall not be responsible for procuring the delivery of the             Material in the event of failure by the Owner to do so.
+
+5     Payment
+
+      NCC's fees are payable in accordance with Schedule 4.
+
+6     Release Events
+
+      6.1   Subject to the provisions of Clauses 6.2 and 6.3, NCC shall release             the Material to a duly authorised officer of the Licensee if at any             time or times any of the following events or circumstances occur,             arise or become apparent:
+
+            6.1.1 the Owner enters into any composition or arrangement with its                   creditors or (being a company) enters into liquidation whether                   compulsory or voluntary (other than for the purposes of                   solvent reconstruction or amalgamation) or has a receiver or                   administrative receiver appointed over all or any part of its                   assets or undertaking or a petition is presented for an                   Administration Order or (being an individual or partnership)                   becomes bankrupt, or an event occurs within the jurisdiction                   of the country in which the Owner is situated which has a                   similar effect to any of the above events in the United                   Kingdom; or
+
+            6.1.2 the Owner ceases to trade; or
+
+            6.1.3 the Owner assigns copyright in the Material and the assignee                   fails within 60 days of such assignment to offer the Licensee                   substantially similar protection to that provided by this                   Agreement without significantly increasing the cost to the                   Licensee; or
+
+            6.1.4 the Owner without legal justification, has defaulted to a                   material degree in any obligation to provide maintenance or                   modification of the Package under the Licence Agreement or any                   maintenance agreement entered into in connection with the                   Package and has failed to remedy such default notified by the                   Licensee to the Owner; or
+
+
+
+
+
+            6.1.5 coding of the Package is such that either the accuracy or the                   functionality or the performance of the Package is or becomes                   or is demonstrably likely to become significantly adversely                   affected by the entry or processing of data incorporating any                   date or dates whether prior or subsequent to or including 31                   December 1999, including but not limited to any of the                   following:
+
+                  6.1.5.1  the Package crashes at any time while processing any                            such data;
+
+                  6.1.5.2. the Owner has warranted or represented that the                            Package is capable of accurately and correctly                            processing such data in accordance with the Package's                            current functional specification and the Licensee                            demonstrates that the Package is not so capable;
+
+                  6.1.5.3  the Owner has undertaken or attempted to procure the                            Package to be so capable and the Licensee                            demonstrates that the Package is still not so                            capable;
+
+                  6.1.5.4  no such warranty, representation, undertaking or                            attempt has been given or made and the Licensee                            demonstrates that the Package is not so capable.
+
+      6.2   The Licensee must notify NCC of any event or circumstance of any of             the kinds specified in Clause 6.1 by delivering to NCC a statutory             or notarised declaration ("the Declaration") made by an officer of             the Licensee attesting that such event has occurred and that the             Licence Agreement was still valid and effective up to the occurrence             of such event and exhibiting:
+
+            6.2.1 such documentation in support of the Declaration as NCC shall                   reasonably require;
+
+            6.2.2 a copy of the Licence Agreement; and
+
+            6.2.3 a signed confidentiality undertaking as detailed in Schedule 3
+
+            then NCC will release the Material to the Licensee upon receipt of             the release fee stated in Schedule 4.
+
+      6.3   Upon receipt of a Declaration from the Licensee claiming a release             event under Clause 6.1.4:
+
+            6.3.1 NCC shall send a copy of the Declaration to the Owner by                   registered post; and
+
+            6.3.2 unless within 14 days after the date of delivery the Owner                   delivers to NCC a counter-notice signed by a duly authorised                   officer of the Owner stating that no such failure has occurred                   or that any such failure has been rectified
+
+            then NCC will release the Material to the Licensee upon receipt of             the release fee stated in Schedule 4.
+
+2 of 6                                                    Version 1: August 1997
+
+(C) NCC Escrow International Limited 1997                           STD001Y2K.UK
+
+      6.4   Where there is any dispute as to the occurrence of any of the events             or circumstances set out in Clause 6.1.1 to 6.1.4, 6.2 or 6.3 or the             fulfilment of any obligations detailed therein, such dispute will be             referred at the request of either the Owner or the Licensee to the             Managing Director for the time being of NCC for the appointment of             an expert who shall give a decision on the matter within 14 days of             the date of referral or as soon as practicable thereafter. The             expert's decision shall be final and binding as between the Owner             and the Licensee except in the case of manifest error.
+
+      6.5   Where there is any dispute as to the occurrence of any of the events             or circumstances set out in Clause 6.1.5 or the fulfillment of any             obligations referred to therein, such dispute will be referred to             arbitration in accordance with Clause 12.
+
+7     Confidentiality
+
+      7.1   The Material shall remain the confidential property of the Owner and             in the event that NCC provides a copy of the Material to the             Licensee, the Licensee shall be permitted to use the Material only             in accordance with a confidentiality undertaking in the form             contained in Schedule 3.
+
+      7.2   NCC agrees to maintain all information and/or documentation coming             into its possession or to its knowledge under this Agreement in             strictest confidence and secrecy. NCC further agrees not to make use             of such information and/or documentation other than for the purposes             of this Agreement and will not disclose or release it other than in             accordance with the terms of this Agreement.
+
+      7.3   Termination of this Agreement will not relieve NCC or its employees,             or the Licensee or its employees, from the obligations of             confidentiality contained in this Clause 7.
+
+
+
+
+
+8     Intellectual Property Rights
+
+      The release of the Material to the Licensee will not act as an assignment       of any Intellectual Property Rights that the Owner possesses in the       Material.
+
+9     Verification
+
+      9.1   Subject to the provisions of Clauses 9.2 and 9.3, NCC shall bear no             obligation or responsibility to any person, firm, company or entity             whatsoever to determine the existence, relevance, completeness,             accuracy, effectiveness or any other aspect of the Material.
+
+      9.2   Upon the Material being lodged with NCC, NCC shall perform those             tests in accordance with its Standard Verification Service and shall             provide a copy of the test report to the parties to this Agreement.
+
+      9.3   The Licensee shall be entitled to require that NCC carries out a             Full Verification. Any reasonable charges and expenses incurred by             NCC in carrying out a Full Verification will be paid by the Licensee             save that if in the opinion of the expert appointed by the Managing             Director of NCC the Material is substantially defective in content             any such reasonable charges and expenses will be paid by the Owner.
+
+10    NCC's Liability
+
+      10.1  NCC shall not be liable for any loss caused to the Owner or the             Licensee either jointly or severally except for loss of or damage to             the Material to the extent that such loss or damage is caused by the             negligent acts or omissions of NCC, its employees, agents or             sub-contractors and in such event NCC's total liability in respect             of all claims arising under or by virtue of this Agreement shall             not (except in the case of claims for personal injury or death)             exceed the sum of (pounds)500,000.
+
+      10.2  NCC shall in no circumstances be liable to the Owner or the Licensee             for indirect or consequential loss of any nature whatsoever whether             for loss of profit, loss of business or otherwise.
+
+      10.3  NCC shall be protected in acting upon any written request, waiver,             consent, receipt or other document furnished to it pursuant to this             Agreement, not only in assuming its due execution and the validity             and effectiveness of its provisions but also as to the truth and             acceptability of any information contained in it, which NCC in good             faith believes to be genuine and what it purports to be.
+
+11    Termination
+
+      11.1  NCC may terminate this Agreement after failure by the Owner or the             Licensee to comply with a 30 day written notice from NCC to pay any             outstanding fee. If the failure to pay is on the part of the Owner             the Licensee shall be given the option of paying such fee itself.             Such amount will be recoverable by the Licensee direct from the             Owner.
+
+      11.2  NCC may terminate this Agreement by giving 60 days written notice to             the Owner and the Licensee. In that event the Owner and the Licensee             shall appoint a mutually acceptable new custodian on terms similar             to those contained in this Agreement.
+
+      11.3  If a new custodian is not appointed within 30 days of delivery of             any notice issued by NCC in accordance with the provisions of Clause             11.2, the Owner or the Licensee shall be entitled to request the             President for the time being of the British Computer Society to             appoint a suitable new custodian upon such terms and conditions as             he shall require. Such appointment shall be final and binding on all             parties.
+
+      11.4  If the Licence Agreement has expired or has been lawfully terminated             this Agreement will automatically terminate on the same date.
+
+      11.5  The Licensee may terminate this Agreement at any time by giving             written notice to the Owner and NCC.
+
+      11.6  The Owner may only terminate this Agreement with the written consent             of the Licensee.
+
+Version 1: August 1997                                                    3 of 6
+
+STD001Y2K.UK                           (C) NCC Escrow International Limited 1997
+
+      11.7  This Agreement shall terminate upon release of the Material to the             Licensee in accordance with Clause 6.
+
+      11.8  Upon termination under the provisions of Clauses 11.2, 11.4, 11.5 or             11.6 NCC will deliver the Material to the Owner. If NCC is unable to             trace the Owner NCC will destroy the Material.
+
+      11.9  Upon termination under the provisions of Clause 11.1 the Material             will be available for collection by the Owner from NCC for 30 days             from the date of termination. After such 30 day period NCC will             destroy the Material.
+
+      11.10 NCC may forthwith terminate this Agreement and destroy the Material
+
+
+
+
+
+            if it is unable to trace the Owner having used all reasonable             endeavours to do so.
+
+12    Arbitration
+
+      12.1  Any dispute arising under Clause 5.1.5 shall be referred to a panel             of arbitrators ("the Panel") constituted as follows:
+
+            12.1.1 the Owner and the Licensee shall each appoint one member; and
+
+            12.1.2 the third member who shall act as chairman of the Panel shall                    be appointed by the President for the time being of the                    International Chamber of Commerce.
+
+      12.2  The Owner and the Licensee shall pay the fees and disbursements of             its own member and half the fees and disbursements of the chairman             of the Panel.
+
+      12.3  Should any member of the Panel die, become ill or incapacitated,             resign or retire from his appointment, become disqualified from             acting or otherwise cease to act as arbitrator before the dispute is             resolved, he shall be replaced by a new member appointed by the             party who appointed his predecessor.
+
+      12.4  Upon the appointment of such new member, the proceedings shall not             be held de nova but shall continue from the stage at which the             previous member ceased to act.
+
+      12.5  Proceedings under Clause 12 may be commenced by any party to a             dispute by:
+
+            12.5.1 serving upon the other or others notice of its intention to                    refer such dispute to arbitration and nominating a member of                    the Panel; and
+
+            12.5.2 requesting the President of the International Chamber of                    Commerce for the time being to appoint a chairman of the                    Panel.
+
+      12.6  The Panel shall determine its own rules of procedure.
+
+13    General
+
+      13.1  This Agreement shall be governed by and construed in accordance with             the laws of England and Wales.
+
+      13.2  This Agreement represents the whole agreement relating to the escrow             arrangements between the parties for the Package and supersedes all             prior arrangements, negotiations and undertakings.
+
+      13.3  All notices to be given to the parties under this Agreement shall be             deemed to have been duly given or made when delivered personally or             7 days after posting of it sent by facsimile, 12 hours after             despatch to the party to which such notice is required to be given             or made under this Agreement addressed to the principal place of             business, or for companies based in the UK, the registered office.
+
+SCHEDULE 1
+
+The Material
+
+The source code of the Package known as [-7].
+
+SCHEDULE 2
+
+Material: Technical Information
+
+The Material shall be supplied with details of the following:
+
+      1     Details of the deposit: full name and version details, number of             media items, media type and density, file or archive format, list or             retrieval commands, archive hardware and operating system details.
+
+      2     Name and functionality of each module/application of the Material.
+
+      3     Names and versions of development tools etc.
+
+      4     Documentation describing the procedures for building / compiling /             executing / using the software (technical notes, user guides).
+
+      5     Hardcopy directory listings of the contents of the media.
+
+      6     Name and contact details of employee(s) with knowledge of how to             maintain and support the Material.
+
+SCHEDULE 3
+
+Confidentiality Undertaking
+
+This undertaking is given on release of the Material pursuant to an Escrow Agreement dated [        ] between:
+
+(1)   [-1] ("the Owner");
+
+(2)   [-4] ("the Licensee"); and
+
+
+
+
+
+(3)   NCC ESCROW INTERNATIONAL LIMITED ("NCC");
+
+1     Definitions contained in the Escrow Agreement will apply to this       undertaking.
+
+4 of 6                                                    Version 1: August 1997
+
+2     In consideration of NCC delivering the Material to the Licensee, the       Licensee undertakes with the Owner and NCC:
+
+      2.1   to use the Material only for the purpose of understanding,             maintaining and correcting the Package exclusively on behalf of the             Licensee;
+
+      2.2   not to use the Material for any other purpose nor disclose it to any             person save such of its employees or contractors who need to know             the same in order to understand, maintain and correct the Package             exclusively on behalf of the Licensee. In that event such             contractors shall enter into a Confidentiality Undertaking direct             with NCC in similar terms to this Undertaking;
+
+      2.3   to hold all media containing the Material in a safe and secure             environment when not in use; and
+
+      2.4   forthwith to destroy the same should the Licensee cease to be             entitled to use the Package.
+
+SCHEDULE 4
+
+NCC's Fees (St(pound))
+
+- --------------------------------------------------------------------------------       DESCRIPTION                                  FEE       OWNER      LICENSEE - -------------------------------------------------------------------------------- 1     Initial Fee (payable on completion of       this Agreement) - -------------------------------------------------------------------------------- 2     Annual Fee (payable on completion of       this Agreement and on each anniversary       thereafter) - -------------------------------------------------------------------------------- 3     Update Fee (per update after the first       4 updates per annum) - -------------------------------------------------------------------------------- 4     Storage Fee (per annum, per cubic foot       payable if the source code exceeds 1       cubic foot) - -------------------------------------------------------------------------------- 5     Liability Fee (per annum, (pound)100 per       (pound)500,000 of liability exceeding       (pound)500,000) - -------------------------------------------------------------------------------- 6     Release Fee (plus NCC's reasonable       expenses)                                               NIL         100% - --------------------------------------------------------------------------------
+
+      1     All fees are subject to VAT where applicable*
+
+      2     All fees are reviewed by NCC from time to time
+
+      * only applicable to countries within the EU.
+
+Signed on behalf of [-1]
+
+Name      --------------------------------------:------------------------------------ Position:          ----------------------------------:              (Authorised Signatory)
+
+Signed on behalf of [-4]
+
+Name      --------------------------------------:------------------------------------ Position:          ----------------------------------:              (Authorised Signatory)
+
+Signed on behalf of NCC ESCROW INTERNATIONAL LIMITED
+
+Name      --------------------------------------:------------------------------------ Position:          ----------------------------------:              (Authorised Signatory)
+
+Version 1: August 1997                                                    5 of 6
+
+STD001Y2K.UK                           (C) NCC Escrow International Limited 1997
+
+Any queries regarding this document should be directed to:
+
+Contracts Administrator NCC Escrow International Limited Oxford House
+
+
+
+
+
+Oxford Road Manchester M1 7ED England
+
+Telephone: +44 (0) 161 242 2109 Fax:       +44 (0) 161 242 2275 E-mail:    escrow@ncc.co.uk
+
+The following information is referenced within this agreement:
+
+[-1] Owner's Name [-2] Owner's Registered Office [-3] Owner's Company Registration Number* [-4] Licensee's Name [-5] Licensee's Registered Office [-6] Licensee's Company Registration Number* [-7] Name Of Package
+
+[INITIALS ILLEGIBLE]                                        [INITIALS ILLEGIBLE]       20.3.98                                                     30.4.98

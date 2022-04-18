@@ -1,0 +1,153 @@
+21
+
+                                     EXHIBIT C                                  FORM OF SUBLICENSE
+
+                                  [Form follows.]
+
+                                         22
+
+                                     EXHIBIT D                             FORM OF AGREEMENT FOR TRIAL
+
+                                  [Form follows.]
+
+                                         23
+
+                                 FIRST AMENDMENT TO                                                                           DISTRIBUTOR AGREEMENT
+
+     THIS FIRST AMENDMENT TO DISTRIBUTOR AGREEMENT (this "Amendment") is made and entered into as of the 1st day of January, 1999, by and between Peregrine/Bridge Transfer Corporation, a Delaware corporation ("Licensor"), and NEON Systems, Inc., a Delaware corporation ("Licensee").
+
+RECITALS:
+
+     Licensor and Licensee are parties to that certain Distributor Agreement dated as of January 1, 1996 (the "Distributor Agreement").  Licensor and Licensee desire to amend the Distributor Agreement as set forth herein.
+
+     NOW, THEREFORE, for and consideration of the mutual covenants of the parties set forth herein, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follow:
+
+     1.   AMENDMENT OF DEFINITIONS.  Article 1 of the Distributor Agreement is hereby amended to add thereto the following:
+
+     1.11 "Annual Royalty Advance Requirement" shall mean (i) $1,000,000 in           respect of Licensee's fiscal year beginning April 1, 1999, (ii)           $2,000,000 in respect of Licensee's fiscal year beginning April 1,           2000, (iii) $3,000,000 in respect of Licensee's fiscal year beginning           April 1, 2001, (iv) $4,000,000 in respect of Licensee's fiscal year           beginning April 1, 2002 and (v) $5,000,000 in respect of Licensee's           fiscal year beginning April 1, 2003.  In the event that the term           hereof extends beyond Licensee's fiscal year beginning April 1, 2003,           the amount of the Annual Royalty Advance shall increase by $1,000,000           for each such fiscal year thereafter.
+
+     1.12 "Royalty Advance" shall have the meaning provided therefor in Section           3.2 hereof.
+
+     1.13 "Specified Royalty Percentage" shall mean fifty percent (50%) for the           period from and including January 1, 1999 through and including March           31, 1994.  Thereafter, the term "Specified Royalty Percentage" shall           mean (i) fifty percent (50%) from and after the first day of each           quarter of each fiscal year of Licensee
+
+          commencing with Licensee's fiscal year beginning April 1, 1999) until           such time, if any, during such quarter that the aggregate amount of           all Royalty Advances outstanding as of the first day of such quarter           (including the Royalty Advance payable on such first day) has been           credited against royalties earned hereunder (a "Satisfaction Date"),           and (ii) forty percent (40%) from and after a Satisfaction Date           through and including the last day of the fiscal quarter in which such           Satisfaction Date occurs.
+
+     2.   AMENDMENT OF SECTIONS 3.1 AND 3.2.  Sections 3.1 and 3.2 of the Distributor Agreement are hereby amended to read in their entirety as follows:
+
+          Section 3.1    ROYALTIES TO LICENSOR.
+
+          (a)            Licensee shall pay to Licensor for each Licensed                          Product licensed to a Redistributor or a Customer a
+
+
+
+
+
+                         royalty equal to the Specified Royalty Percentage of                          all revenues received (without deduction for value                          added tax, if any, but excluding any revenues for                          maintenance and support or upgrade services, which                          revenues are covered in paragraph (b) below) by                          Licensee under the Redistributor Agreement or                          Sublicense applicable to such Licensed Product.
+
+          (b)            Licensee shall pay to Licensor for maintenance and                          support and upgrade services provided under the                          applicable Sublicense or other written maintenance and                          support agreement with or approved by Licensee for each                          of the Licensed Products a royalty equal to the                          Specified Royalty Percentage of all revenues received                          (without deduction for value added tax, if any) by                          Licensee from a Redistributor or Customer relating to                          maintenance and support services or services for                          Upgrades or upgrades of systems for such Licensed                          Products.
+
+          Section 3.2    TERMS OF PAYMENT.  The royalties payable to Licensor           pursuant to Section 3.1 shall be payable in accordance with the           provisions of this Section 3.2.  On or before the first day of each           fiscal quarter of each fiscal year during the term hereof, commencing           with the Licensee's fiscal year which begins on April 1, 1999,           Licensee shall pay to Licensor, as an advance (a "Royalty Advance") of           royalties anticipated to be paid hereunder during such fiscal year, an           amount equal to twenty-five percent (25%) of the Annual Royalty           Advance Requirement for such fiscal year.  The aggregate amount of           Royalty Advances outstanding from time to time shall be credited           against royalties payable hereunder pursuant to Section 3.1 as and           when such royalties are recognized as earned in accordance with           generally accepted accounting principles.  Royalty Advances made           hereunder shall be made in respect of royalties that may become           payable in respect of any and all Licensed Products and shall not           be deemed made in respect
+
+                                          2
+
+          of any particular Licensed Product.  With respect to any royalty           payments due hereunder from Licensee to Licensor in excess of the           amount of Royalty Advances made by Licensee from time to time           hereunder, such payments shall be payable on the later of (i) sixty           (60) days after the date of the applicable invoice to a Redistributor           or Customer, as the case may be, or (ii) five (5) business days           following Licensee's receipt of payment from a Redistributor or           Customer, as the case may be.  Any royalty payment that is not paid           when due will bear interest from the date such amount is due until the           date payment is made at a rate equal to ten percent (10%) per annum.            All royalty payments due to Licensor under this Agreement shall be           paid in U.S. Dollars.  Upon the expiration or any termination of this           Agreement, Licensor shall repay to Licensee the aggregate amount of           all Royalty Advances then outstanding.
+
+     3.   AMENDMENT OF TERM.  Section 14.1 of the Distributor Agreement is hereby amended to read in its entirety as follows:
+
+          Section 14.1   TERM.  This Agreement shall be effective           through and including March 31, 2004.  Upon the expiration           of such term, this Agreement will renew automatically for           successive terms of one (1) year each unless either party to           this Agreement delivers written notice of termination to the           other party to this Agreement at least sixty (60) days prior           to the end of the original or any renewal term.                 4.   AMENDMENT OF TERMINATION PROVISIONS.  The provisions of Section 14.2 are amended by deleting in its entirety subsection (b) thereof and by amending Section 14.2(a)(2) to read in its entirety as follows:
+
+          (2)  Immediately upon written notice if the other party defaults in                the performance of any obligation under this Agreement, including                failure to promptly pay any amount due hereunder, and fails to                cure such default within thirty (30) days after delivery of                written notice specifying the default (with any termination as a                result of Licensee's failure to pay amounts due under this                Agreement resulting in acceleration of Licensee's obligation to                pay all sums accrued and payable to Licensor under this Agreement                as of the date of such termination).
+
+     5.   AMENDMENT OF NATURE OF DISTRIBUTORSHIP.  Licensor and Licensee do hereby agree that this Amendment shall effect a change in the nature of the distributorship granted to Licensee pursuant to the Distributor Agreement from a non-exclusive to an exclusive distributorship (provided, however, that with respect to Licensor's Partitioned Database Facility product, Licensor also may license such product to International Business Machines Corporation for sublicensing and distribution).  Any and all references in the Distributor Agreement to the rights granted to Licensee as non-exclusive rights are hereby amended to provide that such rights are
+
+                                          3
+
+exclusive rights (including without limitation such references in Sections 2.1
+
+
+
+
+
+(Use of Master Copy), 2.2 (Sublicensing) and 2.8 (Trademarks and Copyright).).
+
+     6.   AMENDMENT OF SECTION 13.1.  The Distributor Agreement is hereby amended by adding the following sentence to the end of Section 13.1:
+
+                     Notwithstanding the foregoing, the foregoing limitation on liability           shall not be applicable in respect of any liability of Licensor to           Licensee resulting from any misrepresentation in, or breach of, the           terms of Section 6.2 hereof or in respect of Licensor's obligation to           repay Royalty Advances pursuant to Section 3.2 hereof.
+
+     7.   CHANGE OF ADDRESSES FOR NOTICE.  Section 15.2 of the Distributor Agreement is hereby amended by changing the address for notice to each of Licensor and Licensee to the following:
+
+          14100 Southwest Freeway, Suite 500           Sugar Land, Texas 77478           Attn:   President
+
+     8.   ADDITION OF RIGHT OF FIRST REFUSAL.  The Distributor Agreement is hereby amended by adding thereto a new Section 15.11 and a new Section 15.12, which shall read in their entirety as follows:                           Section 15.11  Right of First Refusal.  If, at any time or from           time to time during the term hereof, Licensor or any stockholder in           Licensor shall have received a bona fide offer from any person or           entity to sell, transfer or otherwise convey all or any stock in, or           assets of, Licensor which Licensor or such stockholder, as the case           may be (the "Offeree"), desires to accept, the Offeree shall first           give written notice (the "Offering Notice") to Licensee of the           financial and other terms and conditions (the "Terms and Conditions")           of such offer.  Licensee shall have the right and a first opportunity           to purchase, lease or otherwise acquire, as the case may be, all or           the applicable portion of such stock or assets (as specified in the           applicable Offering Notice) on the Terms and Conditions set forth in           the Offering Notice, such right to be exercised by notice in writing           to the Offeree within ninety (90) days after the giving of the           Offering Notice.  If Licensee shall have exercised such right, the           closing shall be held at the corporate offices of Licensee on the           closing date specified in the Offering Notice or the date that is           ninety (90) days after the date of Licensee's notice of its exercise           of such right, whichever is later.  If either party shall default           under this Section, the other party shall be entitled to specific           performance.  If Licensee shall fail to give notice of the exercise of           its right of first
+
+                                          4
+
+          refusal under this Section within such ninety (90) day period, or if           Licensee shall notify the Offeree within such ninety (90) day period           that Licensee has waived such right, then the Offeree shall have the           right to sell, transfer or convey all or the applicable portion of the           stock in, or assets of, Licensor (as specified in the Offering Notice)           pursuant to the terms of the specific offer described in the           applicable Offering Notice, but not otherwise.  If such sale, transfer           or conveyance is not consummated in accordance with the offer and the           Terms and Conditions specified in the applicable Offering Notice, the           rights of Licensee to an Offering Notice shall be reinstated.  No           exercise or waiver by Licensee of any of its rights hereunder shall           modify, abridge, impair or affect any of Licensee's rights under any           of the other terms or provisions of this Agreement.  Any sale,           transfer or other conveyance of all or any part of the stock in, or           assets of, Licensor in violation of this Section shall be null and           void.  Skunkware, Inc., a Delaware corporation and the sole           stockholder of Licensor ("Skunkware"), is joining in this Agreement           for the purpose of agreeing to the terms of this Section and Section           15.12.
+
+               Section 15.12  OPTION TO PURCHASE.  Skunkware and Licensor hereby           grant to Licensee the exclusive and irrevocable right and option to           purchase (the "Option"), at Licensee's election, either (i) all of the           assets of Licensor or (ii) all of the issued and outstanding stock of           Licensor.  Such option shall be exercisable during a period (the           "Option Period") commencing on and including the earlier of (i) the           date upon which Licensee shall have paid to Licensor, in any single           fiscal year of Licensee, royalty payments hereunder in the aggregate           amount of $10,000,000 or (ii) January 1, 2002, and ending upon the           expiration or sooner termination of this Agreement.  Licensee's           exercise of the Option is at its sole discretion.  Licensee may           exercise the Option by written notice to Licensor and Skunkware at any           time during the Option Period.  Upon any such exercise of the Option,           Licensee and Licensor or Skunkware (as the case may be) shall proceed           to diligently and in good faith negotiate and execute a definitive           purchase and sale agreement for Licensor's acquisition of all of the           assets of, or outstanding capital stock in, Licensor, as the case may           be.  In the event that Licensee and Licensor or Skunkware, as the case           may be, are unable to agree on any terms or conditions for such           acquisition, the same shall be submitted to arbitration in accordance           with the rules and procedures of the American Arbitration Association,           with the arbitrator(s) to be experienced in the mainframe software           industry.  Notwithstanding the foregoing provision for arbitration           concerning the terms of any purchase and sale agreement, and without
+
+
+
+
+
+          limiting any other
+
+                                          5
+
+          conditions that may be included in any such purchase and sale           agreement, Licensee shall have no obligation to consummate the           acquisition of the assets of, or stock in, Licensor pursuant to its           exercise of the Option if Licensee's board of directors should           determine, in its sole discretion, that such acquisition would not be           accretive to the value of Licensee.  The definitive purchase and sale           agreement shall provide that License may pay the purchase price           thereunder in cash, in shares of its Common Stock or in some           combination thereof.  So long as the Option shall be in existence           (whether or not exercisable), Skunkware and Licensor agree that           Licensor will conduct its business in the ordinary course and will           not, without the prior written consent of Licensee, merge or           consolidated with any other entity, sell all or substantially all of           its assets, grant or permit to exist any lien or encumbrance on any           material portion of its assets, issue any securities to any person           other than Skunkware or engage in any other transaction or enter into           any other agreement other than in the ordinary course of business.            Skunkware further agrees that, so long as the Option shall be in           existence (whether or not exercisable), it shall be and remain the           sole Stockholder Licensor, and Licensor shall not issue to any other           person or entity any stock, warrants or similar rights to acquire           equity interests in Licensor.
+
+     9.   MISCELLANEOUS.
+
+                     (a)  Capitalized terms used in this Amendment that are not defined herein shall have the meanings provided therefor in the Distributor Agreement.
+
+          (b)  The captions used for the Sections in this Amendment are inserted only as a matter of convenience and for reference and in no way define, limit or describe the scope or the intent of this Amendment or any Section hereof.
+
+          (c)  This Amendment may be executed in one or more counterparts, each of which shall be deemed an original and all of which, taken together, shall be construed as a single instrument.
+
+          (d)  In the event any provision of this Amendment is declared or adjudged to be unenforceable or unlawful by any court, then such unenforceable or unlawful provision shall be excised herefrom, and the remainder of this Amendment, together with all rights and remedies granted thereby, shall continue and remain in full force and effect.
+
+                                          6
+
+          (e)  The Distributor Agreement, as amended by this Amendment, constitutes the entire agreement between the parties hereto with respect to the matters covered hereby and thereby.  All prior negotiations, representations and agreements with respect thereto not incorporated in this Amendment or the Distributor Agreement are hereby canceled.  As modified hereby, the Distributor Agreement shall continue in full force and effect and be binding upon the parties hereto and their respective successors and permitted assigns.  References to the Distributor Agreement after the date hereof shall mean the Distributor Agreement as amended pursuant to this Amendment.  The amendments to the Distributor Agreement effected by this Amendment shall be effective from and after the date hereof.
+
+          (f)  This Amendment shall be governed by and construed under the law governing the Distributor Agreement.
+
+             [The remainder of this page is intentionally left blank.]
+
+7
+
+                                                IN WITNESS WHEREOF, the parties hereto have executed this Amendment as of the date first set forth above.
+
+                              PEREGRINE/BRIDGE TRANSFER                               CORPORATION
+
+                              By: /s/ Joe Backer                                  ----------------------------                               Name: Joe Backer                                    --------------------------                               Title: CEO                                     -------------------------
+
+                              NEON SYSTEMS, INC.
+
+                              By: /s/ John S. Reiland                                  ----------------------------
+
+
+
+
+
+                              Name: John S. Reiland                                    --------------------------                               Title: CFO                                      -------------------------
+
+                                          8
+
+                             JOINDER OF SKUNKWARE, INC.
+
+     Skunkware, Inc., a Delaware corporation, hereby joins in that certain Distributor Agreement dated as of January 1, 1996, between Peregrine/Bridge Transfer Corporation ("PBTC") and NEON Systems, Inc. ("NEON"), as amended by the First Amendment to Distributor Agreement dated as of November 19, 1998 by and between PBTC and NEON, such joinder being for purposes of acknowledging and agreeing to be bound by the terms of the Right of First Refusal set forth in Section 15.11 of the Distributor Agreement and the Option to Purchase set forth in Section 15.12 of the Distributor Agreement.  Skunkware hereby represents and warrants to NEON that Skunkware is the sole stockholder of PBTC.  Skunkware further agrees that its agreements set forth herein shall be binding on its successors and assigns and inure to the benefit of NEON's successors and assigns.
+
+     Skunkware's address for any notice to it under the terms of the Distributor Agreement is as follows:  Skunkware, Inc., 14100 Southwest Freeway, Suite 500, Sugar Land, Texas  77478, Attn:  President.
+
+     Executed as of the 1st day of January, 1999.
+
+                                        SKUNKWARE, INC.
+
+                                        By: /s/ Joe Backer                                            -------------------------                                         Name: Joe Backer                                              -----------------------                                         Title: CEO                                               ----------------------
+
+
+
+66049:53214:DALLAS:277267.9
+
+                                          9

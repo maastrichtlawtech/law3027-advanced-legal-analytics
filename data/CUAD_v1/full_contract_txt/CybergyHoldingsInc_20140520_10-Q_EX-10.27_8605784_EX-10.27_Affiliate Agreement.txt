@@ -1,0 +1,632 @@
+Exhibit 10.27
+
+MARKETING AFFILIATE AGREEMENT
+
+Between:
+
+Birch First Global Investments Inc.
+
+And
+
+Mount Knowledge Holdings Inc.
+
+Dated: May 8, 2014
+
+1
+
+Source: CYBERGY HOLDINGS, INC., 10-Q, 5/20/2014
+
+
+
+
+
+1.
+
+2.
+
+2.1
+
+2.2
+
+This Marketing Affiliate Agreement (the "Agreement") is entered into this 8th day of May 2014, by and between BIRCH FIRST GLOBAL INVESTMENTS INC., a corporation incorporated in the U.S. Virgin Islands, with its main place of business located 9100 Havensight, Port of Sale, Ste. 15/16, St. Thomas, VI 0080 (referred to as "Company") and MOUNT KNOWLEDGE HOLDINGS INC. and/or assigns, a corporation incorporated in the State of Nevada, with its main place of business located at 228 Park Avenue S. #56101 New York, NY 10003­1502 (referred to as "Marketing Affiliate" or "MA").
+
+WHEREAS, this Agreement is to set forth in a formal agreement the prior verbal understandings between the parties in place since December 31, 2012 pertaining to the business described hereinbelow; and
+
+WHEREAS, Company, the owner of certain distribution rights to the Technology, technology and content as set forth in Exhibit A and related technical documentation (hereafter collectively referred to as Technology, wishes to contract for the marketing and/or support of the Technology, and MA wishes to market and/or support the Technology.
+
+Accordingly, Company and MA agree as follows:
+
+Effective Date and Term.
+
+This agreement shall begin upon the date of its execution by MA and acceptance in writing by Company and shall remain in effect until the end of the current calendar year and shall be automatically renewed for successive one (1) year periods unless otherwise terminated according to the cancellation or termination provisions contained in paragraph 18 of this Agreement. Company and MA acknowledge that this Agreement is not a franchise as that term is defined under any and all applicable local, state and/or federal laws in U.S., as amended.
+
+Grant of Rights.
+
+General Rights. Subject to the terms and conditions of this Agreement, Company hereby grants to MA the right to advertise, market and sell to corporate users, government agencies and educational facilities ("Clients") for their own internal language learning, soft skills and communication purposes only, and not for remarketing or redistribution, and not for use in a data center environment for multiple users Clients, unless otherwise agreed to by Company prior in writing, the Technology listed in Schedule A of this Agreement, and to sell and/or bundle Technology Maintenance for the Technology and to provide first line technical support and implementation services for the Technology in the territories listed in Schedule A of this Agreement, providing MA meets the criteria required for delivering services according to Schedule A.
+
+Third Party Rights. Company and MA acknowledge that Company derives certain rights herein from third parties and that Company reserves the right to modify or amend this Agreement if mandated by such third parties.
+
+2
+
+Source: CYBERGY HOLDINGS, INC., 10-Q, 5/20/2014
+
+
+
+
+
+3.
+
+3.1
+
+3.2
+
+3.3
+
+3.4
+
+3.5
+
+3.6
+
+Duties of MA.
+
+Best Efforts. MA agrees to use its best efforts to market and license the Technology to Clients consistent with the terms of this Agreement.
+
+License Agreement. MA shall execute a Company License Agreement/Client Registration Form with Clients and present that License Agreement/Client Registration Form to Company after each purchase of the Technology.
+
+Upon the execution of this Agreement, Company shall provide copies of its end user license agreements to MA. MA shall promptly review such agreements and advise Company as to what revisions, if any, should be made to the end user license agreements for resale in the Territory set forth in Schedule A to ensure that the agreements comply with requirements of local law in the Territory, and that Company has protection concerning proprietary rights, warranty disclaimers and limitations of liability under such local and federal laws of the U.S.
+
+For purposes of this Agreement, the Technology means the electronic access to programs, content and documentation, and Company's end user license agreement as it may be modified by Company for use in the Territory. The relationship between the corporate user and Company and/or its Affiliates shall be as specified in the applicable Company end user license agreement. Notwithstanding the foregoing, as between Company and MA, MA shall be responsible as defined for providing customer and technical support to end users in the Territory. MA will notify Company immediately in the event that it is unable to respond effectively to any end users' requests.
+
+Copyrights and Trademarks. MA shall protect copyrights, tradenames, trademarks, service marks, trade secrets and other confidential proprietary rights and information of Company and its affiliates and report promptly any infringements or suspected infringements of which MA becomes aware and to cooperate fully with Company in its efforts to protect its copyrights, tradenames, trademarks, service marks, trade secrets and other confidential proprietary rights and information.
+
+No Alternations. MA agrees not to remove or alter in any manner any copyright, trademark or other proprietary notices contained in the Technology.
+
+Permits, Licenses and Compliance with Laws. MA shall be responsible and shall bear all costs for complying with local, state, provincial, federal, national, and international statutes, rules, regulations and ordinances of any kind which related to or affect MA's duties under this Agreement.
+
+Product Support. MA agrees, when specified, to provide Clients with the support necessary to meet the reasonable needs and requirements for installation and operation of the Technology.
+
+3
+
+Source: CYBERGY HOLDINGS, INC., 10-Q, 5/20/2014
+
+
+
+
+
+3.7
+
+3.8
+
+3.9
+
+(a) (b) (c) (d)
+
+3.10
+
+3.11
+
+3.12
+
+Sales Records. MA shall keep accurate records of the sales of the Technology and Maintenance, including Client Registration Cards and shall make these records available for review by a representative of Company within ten (10) business days following the end of each month.
+
+Sales and Technical Training . MA shall attend initial marketing, application, and technical training as required and provided by Company; provided, however, that Company shall not require MA to market or support Technology according to a marketing plan or system prescribed in substantial part by Company. The MA will however, be responsible to display and explain in detail the methods by which they plan to achieve the assigned quotas.
+
+Sales Reports. MA shall report periodically in writing, upon request to Company the status of the following:
+
+Leads provided by Company Marketing activities in progress Sales forecasts Implementations in progress
+
+MA shall appoint one of its employees to be responsible for such reporting and make the name of such employee available to Company.
+
+Marketing Plan. MA shall submit an annual marketing plan to Company outlining, among other things, activities and staffing directed at attaining mutually agreed upon annual sales quotas. The Annual Quota is defined in Schedule A of this Agreement. The annual marketing plan shall be devised solely by MA and MA shall not be required to follow an operating plan, standard procedure, training manual, or its substantial equivalent, published by Company.
+
+Business Practices. Company shall not specify the business practices of MA, nor regulate the manner in which MA shall operate its business, provided that MA (a) conducts business in a manner that reflects favorably at all times on the Technology sold and the good name, goodwill and reputation of Company and its affiliates; (b) avoid deceptive, misleading or unethical practices that are or might be detrimental to Company and/or its Affiliates, the Technology or the public, including but not limited to disparagement of Company or the Technology; (c) make no false or misleading representation with respect to Company or the Technology; and (d) make no representations with respect to Company or the Technology that are inconsistent with any applicable license agreement(s) for the Technology provided by Company, promotional materials and other literature distributed by Company pertaining specifically to the Technology, including all liability limitations and disclaimers contained in such materials.
+
+Support and Service Centers. MA may be required to establish and maintain Support Services in the Territory set forth in Schedule A to provide marketing, sales and service support of the Technology licensed from Company.
+
+4
+
+Source: CYBERGY HOLDINGS, INC., 10-Q, 5/20/2014
+
+
+
+
+
+4.
+
+4.1
+
+4.2
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+4.3
+
+4.4
+
+4.5
+
+5.
+
+Duties of Company.
+
+Commitment. So long as MA is not in default hereunder, Company agrees to provide Technology to MA in accordance with the terms and conditions of this Agreement.
+
+Deliverables. Upon the request of MA, Company shall at prices or fees then in effect or mutually agreed upon by the parties:
+
+Provide Technology to MA at the discounted prices shown in Schedule A, subject to Company's right to change its prices or fees pursuant to paragraph 13 of this Agreement.
+
+Make available a reasonable marketing information, demonstrations and other sales/marketing aids available from Company relating to the Technology to MA shown in Schedule A.
+
+Make available marketing training and support to MA relating to the Technology in Schedule A.
+
+Make available technical training and support to MA relating to the Technology in Schedule A.
+
+Make available updates of the Technology to MA as they may become available for distribution.
+
+No Control. Company shall not require that MA be limited as to the type, quantity or quality of any product or service that MA sells or desires to sell.
+
+No Resale Limitations. Unless otherwise stated in this Agreement, Company shall not require that MA be limited to the persons or accounts to which it may market, distribute or sublicense any product or service that MA sells or desires to sell, including without limitation, the Technology, within the Territory as defined in Schedule A of this Agreement.
+
+No Procedures. Company shall not require procedures for which MA may deal with Clients however will require reasonable levels of satisfaction from the clients related to the services provided by the MA.
+
+Annual Quota.
+
+The Annual Quota for MA shall be defined in Schedule A of this Agreement. Company reserves the right to adjust or modify the Annual Quota upon renewal of this Agreement or from time to time by mutual agreement of the parties.
+
+5
+
+Source: CYBERGY HOLDINGS, INC., 10-Q, 5/20/2014
+
+
+
+
+
+6.
+
+7.
+
+7.1
+
+7.2
+
+7.3
+
+7.4
+
+7.5
+
+7.6
+
+8.
+
+8.1
+
+8.2
+
+Territory.
+
+The Territory for MA shall be defined in Schedule A of this Agreement. Company reserves the right to adjust or modify the Territory upon renewal of this Agreement or from time to time by mutual agreement of the parties.
+
+Payment and Deliveries.
+
+Payment Terms. When fees are not collected directly from the corporate user, MA agrees to pay Company, in the manner and at the time specified below, the fee(s) on Company's current price list in effect at the time an order is received by Company as set forth in Schedule A.
+
+Currency. All monies due Company shall be remitted in United States dollars. Amounts due to Company are to be calculated based upon the information contained in Schedule A of this agreement.
+
+Required Documents. MA shall make payment for all Technology according to the terms in Schedule A of this Agreement, and provide upon resale of any part of the Technology, two (2) signed copies of the Company License Agreement/Client Registration Card between Company and Client.
+
+Payment for Services, Training and Support. Services, training and support, when applicable and provided by Company, shall be paid for by MA according to agreed upon terms, and a monthly billing report will be created for MA by Company to show utilization of time and charges. A LATE PAYMENT CHARGE of one and one-half percent (1 ½%) or the maximum rate permitted by applicable law, whichever is less, of the outstanding balance due to Company per month will be imposed on all overdue accounts.
+
+Shipment and Delivery. Any materials shall be shipped FOB Company's place of business as set forth in Schedule A, and MA shall be responsible for any excise, sales and other taxes which may be levied on the license and shipment of such materials.
+
+Delays. In the event of any cause beyond the control of Company, Company shall not be liable for any delay in shipment or non-delivery of the Technology covered under this Agreement beyond any amounts received with an order.
+
+Modifications and Version Upgrades.
+
+Company shall supply MA access to all major published modifications or upgrades to the Technology, which add enhancements to or correct known errors in the Technology.
+
+Company shall provide Technology access to MA for each licensed customer so long as MA is not in default with any terms of this Agreement.
+
+6
+
+Source: CYBERGY HOLDINGS, INC., 10-Q, 5/20/2014
+
+
+
+
+
+8.3
+
+8.4
+
+9.
+
+10.
+
+MA shall notify Company in writing of any errors found by it in the Technology within thirty (30) days of such discovery.
+
+Company will undertake all reasonable efforts to provide technical assistance to MA under this Agreement when MA is unable to resolve certain technical issues and to rectify or provide solutions to problems where the Technology does not function as described in the Technology documentation, but Company does not guarantee that the problems will be solved or that any item will be error-free. This product support commitment is only applicable to Company's Technology running under the certified environments specified in the release notes of the end user licensing agreement for that Technology or Package. Company may from time to time, however, discontinue Technology or versions and stop supporting Technology or versions one year after discontinuance, or otherwise discontinue any support service. Company is not liable for incidental, special or consequential damages for any reason (including loss of data or other business or property damage), even if foreseeable or if MA or Customer has advised of such a claim. Company's liability shall not exceed the fees that MA has paid under this Agreement. MA agrees that the pricing for the services would be substantially higher but for these limitations.
+
+Trademarks and Service Marks.
+
+Any tradenames, trademarks or service marks, which Company may obtain with regard to the Technology, are the sole property of Company and/or its Affiliates. Company hereby grants MA, during the term of this Agreement, the right to use Company and/or Company trade names, trademarks or service marks on Technology or in advertising or promotion relating directly to these products. Any use of such tradenames, trademarks or service marks must reference that these tradenames, trademarks or service marks are proprietary to Company and/or its Affiliates.
+
+Title to the Technology.
+
+MA acknowledges that MA and its Clients receive no title to the Technology contained on the Technology. Title to the Technology and all copyrights in Technology shall remain with Company and/or its Affiliates.
+
+Company agrees to defend or, at its option, settle any claim or action against MA to the extent arising from a third party claim that a permitted use of the Technology by the end users infringes any U.S. patent or copyright, provided Company has control of such defense or settlement negotiations and MA gives Company prompt notice of any such claim and provides reasonable assistance in its defense. In the event of such a claim of infringement, Company, at its option, may provide MA with substitute Technology reasonably satisfactory to MA to replace those affected Technologies then in MA's inventory. Company will not be liable under this Section if the infringement arises out of MA's activities after Company has notified MA that Company believes in good faith that MA's activities will result in such infringement. The foregoing states the entire liability of Company with respect to infringement of intellectual property rights.
+
+7
+
+Source: CYBERGY HOLDINGS, INC., 10-Q, 5/20/2014
+
+
+
+
+
+11.
+
+12.
+
+12.1
+
+12.2
+
+12.3
+
+13.
+
+14.
+
+Distribution by MA.
+
+MA agrees to distribute Technology only through the Company License Agreement/Client Registration Card between the Client and Company. MA acknowledges that the Company License Agreement/ Client Registration Card specifies the terms under which a Client receives, holds and uses the Package or Service.
+
+Trade Secrets and Source Code.
+
+MA recognizes that the Technology in source form (code or listing) is the exclusive property of Company and/or its Affiliates and is proprietary to and the trade secret of Company and/or its Affiliates. MA agrees that it shall not, by itself or in association with any other party, reproduce, duplicate, copy, decompile, disassemble or reverse engineer the Technology in source form (code or listing) in any media.
+
+MA shall further hold in confidence and shall not disclose any information, algorithms, methods, designs, specifications, and/or know-how in any way relating to the Technology in source form (code or listing) to any other person, firm or corporation whether during the term of this Agreement or after such Agreement has been terminated.
+
+MA shall not have the right to modify the source code to make adaptations to the Technology in conjunction with the sale of the Technology without the written consent of Company. In the event of modified source code, only the modified portion of the code becomes the property of MA, and MA shall treat the modified source code with the same care as with Company source code.
+
+Price Changes and Notification.
+
+Company reserves the right to change its process and/or fees, from time to time, in its sole and absolute discretion. In the event of a price and/or fee change for Technology, Company shall notify MA in writing ninety (90) days prior to the effective date of any such change. All other prices and/or fees may be adjusted without prior notice to MA.
+
+Relationship of the Parties.
+
+MA shall be deemed to be an independent contractor in its relationship with Company. MA shall not hold itself out as an employee or agent of Company other than for the limited purposes of marketing the Technology. No debts or obligations shall be incurred by either party in the other party's name, including execution of the Client Registration Agreements. MA shall have the right to perform certain services for its Clients, such as training, installation and non-contract support and bill its Clients directly for such services. MA specifically understand and agrees that it shall not be treated as an employee with respect to such services as are performed for any applicable tax purposes; and it is further agreed that this Agreement shall not bring MA under the provisions of any local, state, provincial, federal, national, and international regulation wherein coverage thereunder is based upon the relationship of employer and employee.
+
+8
+
+Source: CYBERGY HOLDINGS, INC., 10-Q, 5/20/2014
+
+
+
+
+
+15.
+
+16.
+
+16.1
+
+16.2
+
+16.3
+
+16.4
+
+16.5
+
+Unauthorized Use.
+
+MA shall notify Company promptly of any misuse of unauthorized use of the Technology, which comes to the attention of MA, and shall notify its Clients upon the request of Company when Company believes such Technology are being misused. MA shall cooperate, at Company's reasonable expense, with Company in any action, including any legal action, which Company may feel is necessary in order to protect the Technology.
+
+Warranties by Company.
+
+EXCEPT AS EXCLUSIVELY SET FORTH IN THIS PARAGRAPH, COMPANY DOES NOT MAKE ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT RESTRICTED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, WHICH WARRANTIES ARE HEREBY DISCLAIMED.
+
+COMPANY'S SOLE AND EXCLUSIVE LIABILITY FOR THE WARRANTY PROVIDED IN SUBPARAGRAH (A) HEREOF SHALL BE TO CORRECT THE TECHNOLOGY TO OPERATE IN SUBSTANTIAL ACCORDANCE WITH ITS THEN CURRENT SPECIFICATIONS OR REPLACE, AT ITS OPTION, THE TECHNOLOGY NOT IN COMPLIANCE WITH COMPANY'S AND COMPANY' PUBLISHED SPECIFICATIONS REGARDING THE TECHNOLOGY; PROVIDED, ANY CLAIM FOR BREACH OF WARRANTY UNDER SUBPARAGRAPH (A) HEREOF MUST BE MADE IN WRITING WITHIN (90) DAYS FROM DATE OF SHIPMENT.
+
+IN NO EVENT SHALL COMPANY BE LIABLE TO "MA", ITS CLIENTS, OR ANY THIRD PARTY FOR ANY TORT OR CONTRACT DAMAGES OR INDIRECT, SPECIAL, GENERAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED TO, LOSS OF PROFITS OR ANTICIPATED PROFITS AND LOSS OF GOODWILL, ARISING IN CONNECTION WITH THE USE (OR INABILITY TO USE) OR DISTRIBUTION OF THE TECHNOLOGY FOR ANY PURPOSE WHATSOEVER.
+
+SOME STATES AND/OR COUNTRIES DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU. THIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS, AND YOU MAY HAVE OTHER RIGHTS WIHICH MAY VARY FROM STATE TO STATE OR COUNTRY TO COUNTRY.
+
+SOME STATES AND/OR COUNTRIES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL AND CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+
+9
+
+Source: CYBERGY HOLDINGS, INC., 10-Q, 5/20/2014
+
+
+
+
+
+17.
+
+18.
+
+18.1
+
+18.2
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+18.3
+
+(a)
+
+(b)
+
+Warranties by MA.
+
+MA agrees that any and all warranties made to Client shall be made only by MA. MA acknowledges and agrees that MA will make no representations to its Clients with respect to any warranty made by Company. MA hereby agrees to indemnify and hold Company harmless for any loss, damage, claim or action resulting from MA's failure to comply with any of MA's obligations under this Agreement. MA will be solely responsible for any claims, warranties or representations made by MA or MA's representatives or agents, which differ from the warranties, provided by Company in the applicable end user license agreement(s).   Termination.
+
+This Agreement may be terminated by either party at the expiration of its term or any renewal term upon thirty (30) days written notice to the other party. Company acknowledges that this Agreement shall not be terminated for MA's failure to follow an operating plan, standard procedure, training manual, or substantial equivalent published in Paragraph 3 (k) of this Agreement, except that Company does reserve the right to terminate this Agreement for MA's failure to follow required procedures relating to the processing of sales contracts, invoices and billing related to Technology sold under this Agreement.
+
+Either party may cancel this Agreement upon the occurrence of any of the following:
+
+Material breach of any covenant, term, condition or other provisions of this Agreement, which breach is not remedied within ten (10) days after notice of such breach is received by the breaching party;
+
+Bankruptcy, reorganization, arrangement or insolvency proceedings being instituted by or against a party;
+
+An assignment by a party for the benefit of its creditors;
+
+Consenting to the appointment of a trustee or receiver by a party, or a trustee or receiver being appointed for a party or for a substantial part of its assets.
+
+Upon termination or cancellation of this Agreement for any reason:
+
+All obligations of the non-breaching party, should cancellation be due to breach, shall immediately cease;
+
+MA shall return any and all full and/or partial copies of material related to the Technology, including demonstrations of the Technology, in MA's possession or under its control to Company within ten (10) days following the termination or cancellation date of this Agreement;
+
+10
+
+Source: CYBERGY HOLDINGS, INC., 10-Q, 5/20/2014
+
+
+
+
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+(g)
+
+19.
+
+19.1
+
+MA shall not continue to use or employ any part of the Technology as part of any product which MA shall convey, assign, lease, license or transfer to any third parties;
+
+MA shall immediately cease advertising, marketing, promoting and distributing the Technology and shall cease using the trade names, trademarks, service marks and any other proprietary right of Company;
+
+Except as otherwise permitted in writing by Company, MA shall immediately cease selling Annual Technology Maintenance and providing application and technical support for the Technology to Clients;
+
+All outstanding invoices shall immediately become due and payable; and
+
+MA acknowledges and agrees that, in the event of a breach or threatened breach by MA, of the provisions of this Section 18, no adequate remedy at law in money damages will be available to Company that will fairly compensate it and therefore Company will be entitled to an injunction against any such breach or threatened breach by MA.
+
+Confidential Information.
+
+"Confidential Information" Defined. "Confidential Information" includes: (a) the Technology (b) any personally identifiable data or information regarding any end user; (c) any and all information disclosed by Company to MA, in whatever format, that is either identified as or would reasonably be understood to be confidential and/or proprietary; (d) any notes, extracts, analyses or materials prepared by MA which are copies of or derivative works of Confidential Information or from which Confidential Information can be inferred or otherwise understood; and (e) the terms and conditions of this Agreement. "Confidential Information" does not include information received from Company that MA can clearly establish by written evidence: (x) is or becomes known to MA from a third party without an obligation to maintain its confidentiality; (y) is or becomes generally known to the public through no act or omission of MA; or (z) is independently developed by MA without the use of Confidential Information.
+
+11
+
+Source: CYBERGY HOLDINGS, INC., 10-Q, 5/20/2014
+
+
+
+
+
+19.2
+
+19.3
+
+20.
+
+21.
+
+22.
+
+"MA"'s Obligations. MA will make no use of Confidential Information for any purpose except as expressly authorized by this Agreement. Except as expressly provided in this Agreement, MA will not disclose Confidential Information to any third party and will protect and treat all Confidential Information with the same degree of care as it uses to protect its own confidential information of like importance, but in no event with less than reasonable care. Except as expressly provided in this Agreement, MA will not use, make or have made any copies of Confidential Information, in whole or in part, without the prior written authorization of Company. In the event that MA is required to disclose Confidential Information pursuant to law, MA will notify Company of the required disclosure with sufficient time for Company to seek relief, will cooperate with Company in taking appropriate protective measures, and will make such disclosure in a fashion that maximizes protection of the Confidential Information from further disclosure.
+
+Privacy/Data Collection. MA will at all times during the term of this Agreement maintain appropriate technical and organizational measures to protect any end-user data that it collects, accesses or processes in connection with this Agreement against unauthorized or unlawful use, disclosure, processing or alteration. MA will act only on Company's instructions in relation to the collection, use, disclosure and processing of any such end-user data, but in all instances in accordance with all applicable laws, rules and regulations.
+
+Non-assignment.
+
+MA may not assign, sell, lease or otherwise transfer in whole or in party any of the rights granted pursuant to this Agreement without prior written approval of Company.
+
+Amendment.
+
+No amendment, change or variance from this Agreement shall be binding upon either party unless executed in writing and signed by an authorized representative of the party to be charged.
+
+Severability and Construction.
+
+Should any part of this Agreement, for any reason, be declared invalid by a court of competent jurisdiction, such determination shall be not affect the validity of any remaining portion, and such remaining portion shall remain in force and effect as if this Agreement had been executed with the invalid portion eliminated.
+
+12
+
+Source: CYBERGY HOLDINGS, INC., 10-Q, 5/20/2014
+
+
+
+
+
+23.
+
+24.
+
+25.
+
+26.
+
+Notices.
+
+Any notice required under this Agreement shall be deemed to have been given when hand- delivered or on the date of mailing when mailed by standard Mail, postage prepaid, and addressed to the party to receive such notice at the address designated below, or such other address as the party may from time to time direct in writing.
+
+Governing Law; Attorney's Fee.
+
+This Agreement is accepted by Company in the State of Nevada and shall be governed by and construed in accordance with the laws thereof, which laws shall prevail in the event of any conflict. For such limited purpose, MA hereby consents to the personal jurisdiction of any court of competent jurisdiction in the State of Nevada. If any legal action or proceeding is initiated, the prevailing party shall be entitled to all attorney fees, court costs, and expenses in addition to any other relief to which such prevailing party may be entitled.
+
+Equitable Relief.
+
+MA acknowledges that any breach or threatened breach of this Agreement involving an unauthorized use of Confidential Information or Company and/or its Affiliate's intellectual property will result in irreparable harm to Company and/or its Affiliate for which damages would not be an adequate remedy, and therefore, in addition to its rights and remedies otherwise available at law, Company and/or its Affiliate will be entitled to seek injunctive or other equitable relief, as appropriate, and MA hereby waives the right to require Company and/or its Affiliate to post a bond. If Company and/or its Affiliate seeks injunctive or other equitable relief in the event of a breach or threatened breach of this Agreement by MA involving an unauthorized use of Confidential Information or Company and/or its Affiliate intellectual property, MA agrees that it will not allege in any such proceeding that Company and/or its Affiliate remedy at law is adequate. If Company and/or its Affiliate seek any equitable remedies, it will not be precluded or prevented from seeking remedies at law, nor will Company and/or its Affiliate be deemed to have made an election of remedies.
+
+Entire Agreement.
+
+This Agreement contains the entire agreement between the parties, and no representations, statements or inducements, oral or written, not contained herein, shall be binding upon the parties. Company expressly disclaims the making of, and MA acknowledges that it has not received a warranty or guaranty, express or implied, as to the potential volume, profits or success of the business venture contemplated by this Agreement.
+
+13
+
+Source: CYBERGY HOLDINGS, INC., 10-Q, 5/20/2014
+
+
+
+
+
+COMPANY
+
+BIRCH FIRST INVESTMENTS INC. A US Virgin Islands corporation
+
+By: /s/ Pier S. Bjorklund Pier S. Bjorklund, President
+
+This Agreement was executed as of the date set forth above.
+
+MA
+
+MOUNT KNOWLEDGE HOLDINGS INC. A Nevada corporation
+
+By: /s/ James D. Beatty  James D. Beatty, CEO and President
+
+14
+
+Source: CYBERGY HOLDINGS, INC., 10-Q, 5/20/2014
+
+
+
+
+
+1.
+
+Note 1:
+
+Note 2:
+
+Note 3:
+
+Note 4:
+
+Note 5:
+
+Note 6:
+
+2.
+
+(a)
+
+SCHEDULE A
+
+MARKETING AFFILIATE Technology PRICING AND TERMS
+
+Technology PRICING AND TERMS MATRIX.
+
+MA PURCHASE
+
+LEVEL1
+
+MA QUOTA (UNITS OR
+
+Dollars)2
+
+MA PURCHASE
+
+DISCOUNT3
+
+III $1,000,001 and above 25%
+
+II $100,001 to $1,000,000 20%
+
+I $ 0 to $100,000 15%
+
+PURCHASE LEVEL - refers to level of purchased Technology on an annual basis, subject to annual review of the past twelve months following the anniversary date of this Agreement.
+
+PURCHASE QUOTA - refers to certain purchase amount levels in which MA may receive additional discounts, subject to additional terms and conditions.
+
+PURCHASE DISCOUNT - refers to the applicable discount available to MA purchases made from Company at Levels II and III with Level I being the original purchase price per Unit (or Package) amount for the Technology which MA pays Company.
+
+INITIAL ORDER COMMITMENT - MA commits to purchase a minimum of 100 Units in aggregate within the Territory within the first six months of term of this Agreement.
+
+SALES PERSONS - MA shall at all times have certified sales persons trained by Company on staff in accordance with certain minimums defined by each Purchase Level.
+
+SUPPORT PERSONS - MA shall at all times have certified support persons trained by Company on staff in accordance with certain minimums defined by each Purchase Level.
+
+Technology DESCRIPTION AND PRICING.
+
+The Products approved for sale in this Agreement shall be referred to as "ECO" related platform and content. ("Technology") referred to as:
+
+English Communications Online (ECO) ™
+
+15
+
+Source: CYBERGY HOLDINGS, INC., 10-Q, 5/20/2014
+
+
+
+
+
+(a)
+
+3.
+
+4.
+
+5.
+
+(a)
+
+List Pricing for Technology shall be as follows:
+
+(Price List for products and or services)
+
+SERVICE FEE.
+
+Upon the execution of this Agreement, MA shall pay to Company a quarterly service fee (the "Service Fee") in the amount equal to US $15,000.00 on the first day of each quarter for the Term of this Agreement as set forth in Section 1 hereinabove, for each month that MA has no sales pursuant to this Schedule A, with the first payment due and payable on the date of execution of this Agreement.
+
+TERMS.
+
+Unless otherwise approved by Company, Level I, II and III terms for payment to Company are Net 30 days on Technology licensed from Company.
+
+TERRITORY.
+
+MA is authorized to resell Technology within the following territory according to the terms of the Agreement:
+
+Worldwide
+
+16
+
+Source: CYBERGY HOLDINGS, INC., 10-Q, 5/20/2014
+Cc

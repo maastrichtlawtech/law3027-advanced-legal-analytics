@@ -1,0 +1,651 @@
+Exhibit 4.1
+
+EXECUTION VERSION
+
+REINSURANCE GROUP OF AMERICA, INCORPORATED
+
+RGA CAPITAL TRUST I
+
+AMENDED AND RESTATED REMARKETING AGREEMENT
+
+February 15, 2011
+
+Barclays Capital Inc.  745 Seventh Avenue  New York, NY 10019
+
+Ladies and Gentlemen:
+
+Reinsurance Group of America, Incorporated, a Missouri corporation (the "Company"), and RGA Capital Trust I, a Delaware statutory business  trust (the "Trust"), issued and sold to Lehman Brothers Inc. and Banc of America Securities LLC (the "Underwriters") pursuant to the  Underwriting Agreement, dated December 12, 2001 (the "Underwriting Agreement"), 4,500,000 Trust Preferred Income Equity Redeemable  Securities ("PIERS")1 units (the "Firm Units") issued pursuant to a Unit Agreement (the "Unit Agreement") dated as of December 18, 2001, as  supplemented September 12, 2008, among the Company, the Trust, The Bank of New York Mellon Trust Company, N.A., as successor unit agent  (in such capacity, the "Unit Agent"), as successor warrant agent (in such capacity, the "Warrant Agent"), and as successor property trustee (in  such capacity, the "Property Trustee"). In addition, the Company and the Trust granted to the Underwriters an option (the "Option") to purchase  up to an additional 675,000 Units (the "Option Units" and, together with the Firm Units, the "Units").
+
+Each Unit consists of a preferred security, liquidation preference $50 per security, of the Trust (each, a "Preferred Security") and a warrant (each,  a "Warrant") of the Company to purchase at any time prior to the close of business on December 15, 2050, shares (the "Warrant Shares") of  common stock, par value $0.01 per share, of the Company ("Common Stock"), subject to antidilution adjustments. Each Preferred Security  represents an undivided beneficial ownership interest in the assets of the Trust, which assets consist solely of the 5.75% Junior Subordinated  Deferrable Interest Debentures due 2051 of the Company (the "Debentures"). Certain payments on the Preferred Securities and Common Securities  (the "Trust Securities") are guaranteed (the "Guarantee") by the Company pursuant to the Guarantee Agreement (the "Guarantee Agreement")  dated as of December 18, 2001, between the Company and The Bank of New York Mellon Trust Company, as successor guarantee trustee (in such  capacity, the "Guarantee Trustee").
+
+The Trust was formed on February 9, 2001 pursuant to a trust agreement dated as of February 8, 2001 (the "Original Trust Agreement") executed  by the Company, as depositor,
+
+
+
+1   "Preferred Income Equity Redeemable SecuritiesSM" and "PIERSSM" are service marks owned by Lehman Brothers Inc.
+
+
+
+
+
+
+
+and The Bank of New York (Delaware), as Delaware trustee (in such capacity, the "Delaware Trustee"), and a certificate of trust dated as of  February 8, 2001 (the "Trust Certificate") filed with the Secretary of State of the State of Delaware. The Trust is governed by, and the Preferred  Securities were issued under, the Original Trust Agreement, as amended and restated by the Amended and Restated Trust Agreement (the  "Amended and Restated Trust Agreement" and, together with the Original Trust Agreement, the "Trust Agreement")) dated as of December 18,  2001, among the Company, the Property Trustee, the Delaware Trustee and A. Greig Woodring, Jack B. Lay and Todd C. Larson, as the initial  administrative trustees (in such capacities, the "Administrative Trustees") which amended and restated the Original Trust Agreement.
+
+The Trust used the proceeds from the sale of the Trust Securities to purchase the Debentures that were issued pursuant to the Indenture (the  "Original Indenture"), as supplemented by a Supplemental Indenture (the "Supplemental Indenture" and, together with the Original Indenture, as  so supplemented, the "Indenture"), in each case, dated as of December 18, 2001 between the Company and The Bank of New York Mellon Trust  Company, N.A., as successor indenture trustee (in such capacity, the "Indenture Trustee"). The Trust will, if and to the extent it receives the  proceeds of a payment on the Debentures, distribute to the holders of the Preferred Securities all payments so received.
+
+The Company issued the Warrants pursuant to a Warrant Agreement (the "Warrant Agreement") dated as December 18, 2001, as amended as of  September 12, 2008, between the Company and the Warrant Agent.
+
+This Agreement, the Unit Agreement, the Trust Agreement, the Warrant Agreement, the Guarantee Agreement and the Indenture are referred to  herein collectively as the "Transaction Agreements" and this Agreement, the Unit Agreement, the Trust Agreement and the Warrant Agreement  are referred to herein collectively as the "Unit Documents."
+
+The remarketing (the "Remarketing") of the Preferred Securities is provided for in the Trust Agreement and in an agreement dated December 18,  2001 between the Company and Lehman Brothers Inc. (the "Original Remarketing Agreement"), and if the Debentures have been distributed to  the holders of the Preferred Securities in exchange for such Preferred Securities, pursuant to the Trust Agreement and the Indenture. From the date  hereof, Barclays Capital Inc. ("Barclays") hereby agrees to be bound by the Original Remarketing Agreement as amended hereby.
+
+As used in this Agreement, the term "Remarketing Securities" means the Preferred Securities or the Debentures, as applicable, subject to the  Remarketing as notified by the Property Trustee, the Unit Agent and the Indenture Trustee, as applicable, on the third Business Day prior to the  Remarketing Settlement Date; the term "Remarketing Procedures" means the procedures in connection with the Remarketing of the Remarketing  Securities described in the Trust Agreement, the Indenture and this Agreement; and the term "Previous Related Transactions" means any  transactions in connection with (i) the redemption of or exchange for or exercise of the Warrants or (ii) elections related to participation in the  Remarketing.
+
+2
+
+
+
+
+
+
+
+Capitalized terms used and not defined in this Agreement shall have the meanings assigned to them in the Unit Agreement, the Trust Agreement,  the Warrant Agreement and the Guarantee Agreement or, if not therein defined, the Indenture.
+
+Section 1. Appointment and Obligations of the Remarketing Agent. (a) The Company and the Trust (together, the "Issuers") hereby appoint  Barclays as exclusive remarketing agent (the "Remarketing Agent"), and Barclays hereby accepts appointment as Remarketing Agent, for the  purpose of (i) remarketing the Remarketing Securities on behalf of the holders thereof and (ii) performing such other duties as are assigned to the  Remarketing Agent in the Remarketing Procedures, all in accordance with and pursuant to the Remarketing Procedures.
+
+(b) The Remarketing Agent agrees to:
+
+(i) use its commercially reasonable efforts to remarket the Remarketing Securities deemed tendered to the Remarketing Agent in the  Remarketing pursuant to the Remarketing Procedures;
+
+(ii) notify the Issuers promptly of the Reset Rate; and
+
+(iii) carry out such other duties as are assigned to the Remarketing Agent in the Remarketing Procedures, all in accordance with the  provisions of the Remarketing Procedures.
+
+(c) On the third Business Day immediately preceding the Remarketing Settlement Date (the "Remarketing Date"), the Remarketing Agent shall use  its commercially reasonable efforts to remarket the Remarketing Securities, at a price at least equal to:
+
+(i) 100% of the aggregate Accreted Value thereof as of the end of the day on the day next preceding the Remarketing Settlement Date; or
+
+(ii) on the Maturity Remarketing Date, 100% of the stated liquidation amount of the Preferred Securities or the principal amount at maturity of  the Debentures, as the case may be.
+
+(d) If, as a result of the efforts described in Section 1(b), the Remarketing Agent determines that it will be able to remarket all Remarketing Securities  deemed tendered for purchase at the purchase price set forth in Section 1(c) prior to 4:00 p.m. (New York City time) on the Remarketing Date, the  Remarketing Agent shall determine the Reset Rate, which shall be the rate per annum (rounded to the nearest one-thousandth (0.001) of one  percent per annum) that the Remarketing Agent reasonably determines, in good faith after consultation with the Company, to be the lowest  distribution rate or interest rate, as applicable, per annum that will enable it to remarket all Remarketing Securities deemed tendered for Remarketing.  In the event of a Remarketing:
+
+(i) in connection with a Remarketing upon a Trading Remarketing Event or a Legal Cause Remarketing Event, the Accreted Value of the  Debentures as of
+
+3
+
+
+
+
+
+
+
+the end of the day on the day next preceding the Remarketing Settlement Date shall become due on the date which is 93 days following the  Remarketing Settlement Date, and, as a result, the Accreted Value of the Preferred Securities as of the end of the day on the day next  preceding the Remarketing Settlement Date shall be redeemed on the date which is 93 days following the Remarketing Settlement Date;
+
+(ii) in connection with a Remarketing upon a Trading Remarketing Event or a Legal Cause Remarketing Event, on the Remarketing Settlement  Date, the rate of interest per annum on the Accreted Value of the Debentures shall become the Reset Rate on the Accreted Value of the  Preferred Securities that is determined pursuant to the Remarketing of the Preferred Securities, and, as a result, the Distribution rate per  annum on the Accreted Value of the Preferred Securities shall become the Reset Rate established in the Remarketing of the Preferred  Securities;
+
+(iii) as of the Remarketing Settlement Date, interest accrued and unpaid on the Debentures from and including the immediately preceding  Interest Payment Date to, but excluding, the Remarketing Settlement Date shall be payable to the holders of the Debentures on the Special  Record Date and, as a result, Distributions accumulated and unpaid on the Preferred Securities from and including the immediately preceding  Distribution Date to, but excluding, the Remarketing Settlement Date shall be payable to the Holders of the Preferred Securities on the Special  Record Date (as defined in the Trust Agreement); and
+
+(iv) in connection with a Remarketing upon a Trading Remarketing Event or a Legal Cause Remarketing Event, the Company shall be  obligated to redeem the Warrants on the Remarketing Settlement Date at a redemption price per Warrant equal to the Warrant Redemption  Amount as of the end of the day on the day next preceding the Remarketing Date.
+
+(e) If none of the holders of Remarketing Securities elects to have Remarketing Securities remarketed in the Remarketing, the Remarketing Agent  shall reasonably determine, in good faith after consultation with the Company, the distribution rate or interest rate, as applicable, that would have  been established had a Remarketing been held on the Remarketing Date, and such rate shall be the Reset Rate, and the related modifications to the  other terms of the Preferred Securities and to the terms of the Debentures and the Warrants shall be effective as of the Remarketing Date.
+
+(f) If, by 4:00 p.m. (New York City time) on the Remarketing Date, the Remarketing Agent is unable to remarket all Remarketing Securities deemed  tendered for purchase, a failed Remarketing (a "Failed Remarketing") shall be deemed to have occurred, and the Remarketing Agent shall so  advise by telephone (promptly confirmed in writing) The Depository Trust Company ("DTC"), the Property Trustee, the Debenture Trustee, the  Administrative Trustees and the Company. In the event of a Failed Remarketing:
+
+4
+
+
+
+
+
+
+
+(i) beginning on the third Business Day after the Failed Remarketing Date, interest will accrue on the Accreted Value of the Debentures  (which in connection with the expiration of the Warrants is $50), and Distributions will accumulate on the Accreted Value of the Preferred  Securities at the rate described in clause (iii) below;
+
+(ii) the Accreted Value of all outstanding Debentures as of the end of the day on the day next preceding the Remarketing Settlement Date  shall become due on the date which is 93 days following the Failed Remarketing Settlement Date, and, as a result, the Accreted Value of the  Preferred Securities as of the end of the day on the day next preceding the Remarketing Settlement Date shall be redeemed on the date which  is 93 days following the Remarketing Settlement Date with respect to such Failed Remarketing;
+
+(iii) the rate of interest per annum on the Accreted Value of the Debentures shall become 10.25% per annum, and, as a result, the rate of  Distribution per annum on the Accreted Value of the Preferred Securities shall become 10.25% per annum, which shall accrue and be payable  as provided in the Trust Agreement; and
+
+(iv) pursuant to the Indenture, the Company no longer shall have the option to defer payments of interest on the Debentures.
+
+(g) By approximately 4:30 p.m. (New York City time) on the Remarketing Date, provided that there has not been a Failed Remarketing, the  Remarketing Agent shall advise, by telephone (promptly confirmed in writing):
+
+(i) DTC, the Property Trustee, the Debenture Trustee and the Issuers of the Reset Rate determined in the Remarketing and the number of  Remarketing Securities (or, if applicable, aggregate principal amount of Remarketing Securities) sold in the Remarketing,
+
+(ii) each purchaser (or their DTC participant) of the Reset Rate and the number of Remarketing Securities (or, if applicable, aggregate principal  amount of Remarketing Securities) such purchaser is to purchase; and
+
+(iii) each purchaser to give instructions to its DTC participant to pay the purchase price on the Remarketing Settlement Date in same day  funds against delivery of the Remarketing Securities purchased through the facilities of DTC.
+
+Section 2. Representations, Warranties and Agreements of the Issuers. The Trust (as to itself and the Preferred Securities) and the Company  represent, warrant and agree (i) on and as of the date hereof (except to the extent representations relate specifically to the date or date(s) referred to  in clauses (ii) and (iii) of this paragraph), (ii) on and as of the date that the Preliminary Prospectus (as defined in Section 2(a) below) is first  distributed in connection with the Remarketing (the "Commencement Date") and (iii) on and as of the Remarketing Settlement Date, that:
+
+5
+
+
+
+
+
+
+
+(a) The Company has filed with the Securities and Exchange Commission (the "Commission") an automatic shelf registration statement on Form S- 3 (File Nos. 333-172296 and 333-172296-01) (the "Registration Statement"), which registration statement became effective upon filing under Rule  462(e) of the Securities Act of 1933, as amended (the "Securities Act"). Such registration statement covers the registration of the Remarketing  Securities (among others) under the Securities Act and has (i) been prepared by the Company in conformity in all material respects with the  requirements of the Securities Act, (ii) been filed with the Commission under the Securities Act and (iii) become effective under the Securities Act.  The Registration Statement is an "automatic shelf registration statement" as defined under Rule 405 of the Securities Act that has been filed with  the Commission not earlier than three years prior to the date hereof. Copies of the Registration Statement and all exhibits thereto have been  delivered by the Company to you. As used in this Agreement, "Effective Time" means the date and the time as of which each part of the  registration statement on Form S-3 (File Nos. 333-172296 and 333-172296-01) (the "Latest Registration Statement") or the most recent post- effective amendment thereto, if any, became effective; "Effective Date" means the date of the Effective Time; "Preliminary Prospectus" means  each prospectus included in the Latest Registration Statement, or amendments thereof, before it became effective under the Securities Act and any  prospectus and prospectus supplement filed with the Commission by the Company with the consent of the Underwriters pursuant to Rule 424(a)  of the Securities Act relating to the Remarketing Securities; the term "Registration Statement" means such Latest Registration Statement, as  amended as of the Effective Time, including the Incorporated Documents (as defined below) and all information contained in the final prospectus  relating to the Remarketing Securities filed with the Commission pursuant to Rule 424(b) of the Securities Act and deemed to be a part of such  registration statement as of the Effective Time pursuant to Rule 430A or Rule 430B of the Securities Act; and "Prospectus" means the prospectus  and prospectus supplement relating to the Remarketing Securities (or in the form made available to the Underwriters by the Company to meet  requests of purchasers) pursuant to Rule 172 or Rule 173 of the Securities Act.
+
+For purposes of this Agreement, "free writing prospectus" has the meaning set forth in Rule 405 of the Securities Act (which does not include  communications not deemed a prospectus pursuant to Rule 134 of the Securities Act and historical issuer information meeting the requirements of  Rule 433(e)(2) of the Securities Act) and "Time of Sale Prospectus" means the Preliminary Prospectus together with any free writing prospectuses,  if any, each identified in Schedule 1 hereto, and any other free writing prospectus that the parties hereto shall hereafter expressly agree in writing  to treat as part of the Time of Sale Prospectus (except for purposes of Sections 6(c) and 6(d)), for which the term "Time of Sale Prospectus" shall  not include the free writing prospectus(es) identified in Schedule 1). Reference made herein to the Preliminary Prospectus, the Prospectus or the  Time of Sale Prospectus shall be deemed to refer to and include any documents incorporated by reference therein (pursuant to Item 12 of Form S-3  under the Securities Act, as of the date of the Preliminary Prospectus, the Prospectus or the Time of Sale Prospectus, as the case may be (such  documents, the "Incorporated Documents")), and any reference to any amendment or supplement to the Preliminary Prospectus or the Prospectus  shall be deemed to refer to and include any document filed under the Securities Exchange Act of 1934, as amended, and the rules and regulations  of the Commission thereunder (collectively, the "Exchange Act") after the date of the Preliminary Prospectus, the Prospectus, or the date hereof, as  the case may be, and incorporated by reference in the Preliminary Prospectus, the Prospectus or Time of Sale Prsospectus, as the case may be; and  any reference to any amendment to the
+
+6
+
+
+
+
+
+
+
+Registration Statement shall be deemed to include the documents filed with the Commission pursuant to Section 13(a) or 15(d) of the Exchange Act  after the Effective Time that is incorporated by reference in the Registration Statement. The Commission has not issued any notice of objection or  any order preventing or suspending the use of any of the Preliminary Prospectus, any free writing prospectus, the Time of Sale Prospectus, the  Prospectus or the Registration Statement.
+
+(b) The conditions for use of Form S-3, as set forth in the General Instructions thereto, have been satisfied or waived.
+
+(c) (i) The Registration Statement conforms, and the Prospectus and any further amendments or supplements to the Registration Statement or the  Prospectus will, when they become effective or are filed with the Commission, as the case may be, conform in all material respects to the  requirements of the Securities Act (including Rule 415(a) of the Securities Act), the Trust Indenture Act of 1939, as amended, and the rules and  regulations promulgated thereunder ("Trust Indenture Act"); (ii) each part of the Registration Statement, as of its Effective Date and as of the date  hereof, and any amendment thereto, as of the date of any such amendment, did not, does not and will not, as the case may be, contain an untrue  statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein not misleading;  (iii) the Time of Sale Prospectus, as of the date hereof and at the time of each sale (as such phrase is used in Rule 159 under the Act) of the  Securities in connection with the offering and as of the Delivery Date, as then amended or supplemented by the Company, if applicable, does not  and will not contain any untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the  statements therein, in the light of the circumstances under which they were made, not misleading; and (iv) the Prospectus, as of the date hereof  and the Delivery Date, as then supplemented by the Company, if applicable, does not and will not contain an untrue statement of a material fact or  omit to state a material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which  they were made, not misleading; provided that, the Company makes no representation or warranty as to information contained in or omitted from  the Registration Statement, the Time of Sale Prospectus or the Prospectus in reliance upon and in conformity with written information furnished to  the Company by the Remarketing Agent expressly for inclusion therein, which consists of the name of the Remarketing Agent as set forth on the  front cover page of the Preliminary Prospectus and the Prospectus and the information contained in the second sentence of the fourth paragraph  and in the fifth paragraph under the caption "Remarketing" in the Preliminary Prospectus and the Prospectus, it being understood that seven  paragraphs appear within the "Remarketing" section.
+
+(d) The Incorporated Documents, when they were filed with the Commission, as the case may be, conformed in all material respects to the  requirements of the Securities Act and the Exchange Act, as applicable; and none of the Incorporated Documents, when such documents were  filed with the Commission, contained any untrue statement of a material fact or omitted to state any material fact required to be stated therein or  necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading; and any further  documents so filed and incorporated by reference in the Time of Sale Prospectus or the Prospectus, when such documents are filed with the  Commission, will conform in all material respects to the requirements of the Exchange Act and will not contain any untrue
+
+7
+
+
+
+
+
+
+
+statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein, in the light  of the circumstances in which they were made, not misleading.
+
+(e) The Company meets the requirements to use free writing prospectuses in connection with the offering of the Securities pursuant to Rules 164  and 433 of the Securities Act. Any free writing prospectus that the Company is required to file with the Commission pursuant to Rule 433(d) of the  Securities Act has been, or will be, timely filed with the Commission in accordance with the requirements of the Securities Act. Each issuer free  writing prospectus (as defined in Rule 433(h)(1) under the Act) that the Company has filed, or is required to file, pursuant to Rule 433(d) of the  Securities Act, or that was prepared by or on behalf of or used by the Company complies or will comply in all material respects with the  requirements of the Securities Act. Except for the free writing prospectus(es), if any, identified in Schedule 1 hereto, the Company has not  prepared, used or referred to, and will not, without the Remarketing Agent's prior consent, not to be unreasonably withheld or delayed, prepare,  use or refer to, any free writing prospectus.
+
+(f) No relationship, direct or indirect, exists between or among the Company on the one hand, and the directors, officers, shareholders, customers  or suppliers of the Company on the other hand, which is required to be described in each of the Time of Sale Prospectus and the Prospectus which  is not so described.
+
+(g) There are no contracts, agreements or other documents which are required to be described in each of the Time of Sale Prospectus and the  Prospectus or filed as exhibits to the Registration Statement or the Incorporated Documents by the Securities Act or the Exchange Act, as the case  may be, which have not been described in each of the Time of Sale Prospectus and the Prospectus or filed as exhibits to the Registration Statement  or the Incorporated Documents.
+
+(h) Except as set forth in or contemplated by each of the Time of Sale Prospectus and the Prospectus, neither the Company nor any of its  subsidiaries has sustained, since the date of the latest audited financial statements included or incorporated by reference in the Time of Sale  Prospectus, any material loss or interference with its business from fire, explosion, flood or other calamity, whether or not covered by insurance, or  from any labor dispute or court or governmental action, order or decree; since such date, there has not been any material adverse change in the  capital stock, short-term debt or long-term debt of the Company or any of its subsidiaries or any material adverse change, or any development  involving a prospective material adverse change, in or affecting the general affairs, management, consolidated financial position, shareholders'  equity, results of operations, business or prospects of the Company and its subsidiaries, taken as a whole; and subsequent to the respective dates  as of which information is given in the Time of Sale Prospectus and up to the Remarketing Settlement Date, except as set forth in the Time of Sale  Prospectus, (i) neither the Company nor any of its subsidiaries has incurred any liabilities or obligations outside the ordinary course of business,  direct or contingent, which are material to the Company and its subsidiaries taken as a whole, nor entered into any material transaction not in the  ordinary course of business and (ii) there have not been dividends or distributions of any kind declared, paid or made by Company on any class of  its capital stock, except for regularly scheduled dividends.
+
+8
+
+
+
+
+
+
+
+(i) Each of the Company and each of Reinsurance Company of Missouri, Incorporated, RGA Reinsurance Company, RGA Reinsurance Company  (Barbados) Ltd., RGA Life Reinsurance Company of Canada, RGA Americas Reinsurance Company, Ltd. and RGA Atlantic Reinsurance Company  Ltd. (the "Significant Subsidiaries"), which are the Company's only "significant subsidiaries" (as defined under Rule 405 of the Securities Act),  has been duly organized, is validly existing as a corporation in good standing under the laws of its respective jurisdiction of incorporation, has all  requisite corporate power and authority to carry on its business as it is currently being conducted and in all material respects as described in each  of the Time of Sale Prospectus and the Prospectus and to own, lease and operate its properties, and is duly qualified and in good standing as a  foreign corporation authorized to do business in each jurisdiction in which the nature of its business or its ownership or leasing of property  requires such qualification, except where the failure to so register or qualify would not, reasonably be expected, singly or in the aggregate, to result  in a material adverse effect on the properties, business, results of operations, condition (financial or otherwise), affairs or prospects of the  Company and its subsidiaries, taken as a whole (a "Material Adverse Effect").
+
+(j) As of the date of this Agreement, the entities listed on Schedule 2 are the only subsidiaries, direct or indirect, of the Company, and the  Company owns, directly or indirectly through other subsidiaries, the percentage indicated on such Schedule 2 of the outstanding capital stock or  other securities evidencing equity ownership of such subsidiaries, free and clear of any security interest, claim, lien, limitation on voting rights or  encumbrance; and all of such securities have been duly authorized, validly issued, are fully paid and nonassessable and were not issued in  violation of any preemptive or similar rights. There are no outstanding subscriptions, preemptive or other rights, warrants, calls, commitments of  sale or options to acquire, or instruments convertible into or exchangeable for, any such shares of capital stock or other equity interest of such  subsidiaries.
+
+(k) Neither the Company nor any of its subsidiaries is (i) in violation of its respective charter or bylaws, (ii) is in default in the performance of any  bond, debenture, note, indenture, mortgage, deed of trust or other agreement or instrument to which it is a party or by which it is bound or to  which any of its properties is subject or (iii) is in violation of any law, statute, rule, regulation, judgment or court decree applicable to the Company,  any of its subsidiaries or their assets or properties, except in the case of clauses (ii) and (iii) for any such violation or default which does not or  would not reasonably be expected to have a Material Adverse Effect.
+
+(l) The catastrophic coverage arrangements are described in each of the Time of Sale Prospectus and the Prospectus are in full force and effect as  of the date hereof and all other retrocessional treaties and arrangements to which the Company or any of its Significant Subsidiaries is a party and  which have not terminated or expired by their terms are in full force and effect, and none of the Company or any of its Significant Subsidiaries is in  violation of or in default in the performance, observance or fulfillment of, any obligation, agreement, covenant or condition contained therein,  except to the extent that any such violation or default would not reasonably be expected to have a Material Adverse Effect; neither the Company  nor any of its Significant Subsidiaries has received any notice from any of the other parties to such treaties, contracts or agreements that such  other party intends not to perform such treaty, contract or agreement that would reasonably be expected to have a Material Adverse Effect and, to  the best
+
+9
+
+
+
+
+
+
+
+knowledge of the Company, the Company has no reason to believe that any of the other parties to such treaties or arrangements will be unable to  perform such treaty or arrangement in any respect that would reasonably be expected to have a Material Adverse Effect.
+
+(m) The execution, delivery and performance by the Company and the Trust of the Transaction Agreements, as the case may be, the issuance of  the Unit Securities by the Company and the Trust, as applicable, the Remarketing of the Remarketing Securities by Company and the Trust, as  applicable, and the consummation by the Company and the Trust, as applicable, of the transactions contemplated hereby and thereby (excluding  any Previous Related Transactions) did not and will not violate or constitute a breach of any of the terms or provisions of, or a default under (or an  event that with notice or the lapse of time, or both, would constitute a default), or require consent under, or result in the imposition of a lien or  encumbrance on any properties of the Company or any of its subsidiaries, or an acceleration of indebtedness pursuant to, (i) the charter or bylaws  (or equivalent organizational documents) of the Company or any of its subsidiaries, (ii) any bond, debenture, note, indenture, mortgage, deed of  trust or other agreement or instrument to which the Company or any of its subsidiaries is a party or by which any of them or their property is or  may be bound, (iii) any statute, rule or regulation applicable to the Company, any of its subsidiaries or any of their assets or properties or (iv) any  judgment, order or decree of any court or governmental agency or authority having jurisdiction over the Company, any of its subsidiaries or their  assets or properties, other than in the case of clauses (ii) through (iv), any violation, breach, default, consent, imposition or acceleration relating to  the Original Remarketing Agreement or that would not reasonably be expected to have a Material Adverse Effect and, except for such consents or  waivers as may have been obtained by the Company or such consents or filings as may relate to the Original Remarketing Agreement, or as may be  required under state or foreign securities or Blue Sky laws and regulations by the Financial Industry Regulatory Authority, Inc. ("FINRA").
+
+(n) No consent, approval, authorization or order of, or filing, registration, qualification, license or permit of or with, any court or governmental  agency, body or administrative agency is required for the execution, delivery and performance by the Company and the Trust of the Transaction  Agreements, as applicable, the issuance of the Unit Securities by the Company and the Trust, as applicable, the Remarketing of the Remarketing  Securities by the Company and the Trust, and the consummation by the Company and the Trust, as applicable, of the transactions contemplated  hereby and thereby (excluding any Previous Related Transactions), except such as (i) would not reasonably be expected to have a Material  Adverse Effect, (ii) would not prohibit or adversely affect the Remarketing of the Remarketing Securities and (iii) have been obtained and made or,  with respect to current reports on Form 8-K, a Prospectus and a free writing prospectus to be filed with the Commission in connection with the  issuance and sale of the Remarketing Securities, will be made, under the Securities Act, or as may relate to the Original Remarketing Agreement or  may be required under state or foreign securities or Blue Sky laws and regulations or by FINRA or has been obtained from the State of Missouri  Department of Insurance. Except as contemplated hereby, no consents or waivers from any other person were or are required, as applicable, for the  execution, delivery and performance by the Company and the Trust of the Transaction Agreements, as applicable, the issuance of the Unit  Securities by the Company and the Trust, as applicable, the Remarketing of the Remarketing Securities and the consummation by the Company of  the transactions contemplated hereby and thereby, as applicable (excluding the Previous Related Transactions), other than such
+
+10
+
+
+
+
+
+
+
+consents and waivers as (i) would not reasonably be expected to have a Material Adverse Effect, (ii) may relate to the Original Remarketing  Agreement, (iii) would not prohibit or adversely affect the Remarketing of the Remarketing Securities or (iv) have been obtained.
+
+(o) Except as set forth in or contemplated by the Prospectus or as may relate to the Original Remarketing Agreement, there is (i) no action, suit or  proceeding before or by any court, arbitrator or governmental agency, body or official, domestic or foreign, now pending or threatened or  contemplated to which the Company or any of its subsidiaries is or may be a party or to which the business or property of the Company or any of  its subsidiaries is or may be subject, (ii) no statute, rule, regulation or order that has been enacted, adopted or issued by any governmental agency  or that has been proposed by any governmental body having jurisdiction over the Company or its subsidiaries and (iii) no injunction, restraining  order or order of any nature by a federal or state court or foreign court of competent jurisdiction to which the Company or any of its subsidiaries is  or may be subject issued that, in the case of clauses (i), (ii) and (iii) above, (x) would, singly or in the aggregate, reasonably be expected to result in  a Material Adverse Effect, (y) would interfere with or adversely affect the issuance of any of the Securities or (z) in any manner draw into question  the validity of any of the Transaction Agreements or the Remarketing of the Remarketing Securities. The Time of Sale Prospectus contains in all  material respects the same description of the foregoing matters contained in the Prospectus.
+
+(p) None of the employees of the Company and its subsidiaries is represented by a union and, to the best knowledge of the Company and its  subsidiaries, no union organizing activities are taking place. Neither the Company nor any of its subsidiaries has violated any federal, state or local  law or foreign law relating to discrimination in hiring, promotion or pay of employees, nor any applicable wage or hour laws, nor any provision of  the Employee Retirement Income Security Act of 1974, as amended, and the rules and regulations thereunder (collectively, "ERISA"), or analogous  foreign laws and regulations, which would reasonably be expected to result in a Material Adverse Effect.
+
+(q) Each of the Company and its subsidiaries has (i) good and, in the case of real property, merchantable title to all of the properties and assets  described in each of the Time of Sale Prospectus and the Prospectus as owned by it, free and clear of all liens, charges, encumbrances and  restrictions, except such as are described in each of the Time of Sale Prospectus and the Prospectus, or as would not reasonably be expected to  have a Material Adverse Effect, (ii) peaceful and undisturbed possession under all leases to which it is party as lessee, (iii) all material licenses,  certificates, permits, authorizations, approvals, franchises and other rights from, and has made all declarations and filings with, all federal, state and  local governmental authorities (including, without limitation, from the insurance regulatory agencies of the various jurisdictions where it conducts  business) and all courts and other governmental tribunals (each, an "Authorization") necessary to engage in the business currently conducted by  it in the manner described in each of the Time of Sale Prospectus and the Prospectus, except where failure to hold such Authorizations would not  reasonably be expected to have a Material Adverse Effect, (iv) fulfilled and performed all obligations necessary to maintain each authorization and  (v) no knowledge of any threatened action, suit or proceeding or investigation that would reasonably be expected to result in the revocation,  termination or suspension of any Authorization, the revocation, termination or suspension of which would reasonably be expected
+
+11
+
+
+
+
+
+
+
+to have a Material Adverse Effect. Except as would not reasonably be expected to have a Material Adverse Effect, all such Authorizations are valid  and in full force and effect and the Company and its subsidiaries are in compliance in all material respects with the terms and conditions of all such  Authorizations and with the rules and regulations of the regulatory authorities having jurisdiction with respect thereto. No insurance regulatory  agency or body has issued any order or decree impairing, restricting or prohibiting the payment of dividends by any subsidiary of the Company to  its parent, other than any such orders or decrees the issuance of which would not reasonably be expected to have a Material Adverse Effect.  Except as would not have a Material Adverse Effect, all leases to which the Company or any of its subsidiaries is a party are valid and binding and  no default by the Company or any of its subsidiaries has occurred and is continuing thereunder, and, to the Company's knowledge, no material  defaults by the landlord are existing under any such lease.
+
+(r) All tax returns required to be filed by the Company or any of its subsidiaries, in all jurisdictions, have been so filed. All taxes, including  withholding taxes, penalties and interest, assessments, fees and other charges due or claimed to be due from such entities or that are due and  payable have been paid, other than those being contested in good faith and for which adequate reserves have been provided or those currently  payable without penalty or interest. The Company does not know of any material proposed additional tax assessments against it or any of its  subsidiaries.
+
+(s) Neither the Company nor any of its subsidiaries is an "investment company" as defined, and subject to regulation, under the Investment  Company Act of 1940, as amended, and the rules and regulations of the Commission thereunder (collectively, the "Investment Company Act"), or  analogous foreign laws and regulations.
+
+(t) The authorized, issued and outstanding capital stock of the Company has been validly authorized and issued, is fully paid and nonassessable  and was not issued in violation of or subject to any preemptive or similar rights; and such authorized capital stock conforms in all material respects  to the description thereof set forth in each of the Time of Sale Prospectus and the Prospectus. Except with respect to Warrants to purchase  Common Stock issued by the Company as part of the Trust Preferred Income Equity Redeemable Securities of the Company and RGA Capital Trust  I or otherwise as expressly set forth in the Time of Sale Prospectus (including with respect to preferred stock purchase rights of the Company),  since the date set forth in the Time of Sale Prospectus, (A) there are no outstanding preemptive or other rights, warrants or options to acquire, or  instruments convertible into or exchangeable for, any shares of capital stock or other equity interest in the Company or any of its subsidiaries, or  any contract, commitment, agreement, understanding or arrangement of any kind relating to the issuance of any capital stock of the Company or  any such subsidiary, any such convertible or exchangeable securities or any such rights, warrants or options (except as contemplated by the terms  of the 6.75% Junior Subordinated Debentures due 2065 of the Company) and (B) there will have been no change in the authorized or outstanding  capitalization of the Company, except with respect to, in the case of each of clause (A) and (B) above, (i) changes occurring in the ordinary course  of business and (ii) changes in outstanding Common Stock and options or rights to acquire Common Stock resulting from transactions relating to  the Company's employee benefit, dividend reinvestment or stock purchase plans.
+
+12
+
+
+
+
+
+
+
+(u) The Company maintains a system of internal control over financial reporting (as such term is defined in Rule 13a-15(f) of the Exchange Act) that  complies with the requirements of the Exchange Act and has been designed by the Company's principal executive officer and principal financial  officer, or under their supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial  statements for external purposes in accordance with United States generally accepted accounting principles. The Company's internal control over  financial reporting is effective and the Company is not aware of any material weaknesses in its internal control over financial reporting. Since the  date of the latest financial statements included or incorporated by reference in each of the Time of Sale Prospectus and the Prospectus, there has  been no change in the Company's internal control over financial reporting that has materially affected, or is reasonably likely to materially affect,  the Company's internal control over financial reporting. The Company has established and maintains disclosure controls and procedures (as such  terms are defined in Rule 13a-15(e) of the Exchange Act) in accordance with the rules and regulations under the Sarbanes-Oxley Act of 2002 (the  "Sarbanes-Oxley Act") and the Exchange Act. Such disclosure controls and procedures (a) are designed to provide reasonable assurance that  material information relating to the Company and its subsidiaries is made known to the Company's Chief Executive Officer and its Chief Financial  Officer by others within those entities. Such disclosure controls and procedures are effective to provide such reasonable assurance.
+
+(v) The Company and each of its subsidiaries maintains insurance covering their properties, personnel and business. Such insurance insures  against such losses and risks as are adequate in accordance with the Company's perception of customary industry practice to protect the  Company and its subsidiaries and their businesses. Neither the Company nor any of its subsidiaries have received notice from any insurer or agent  of such insurer that substantial capital improvements or other expenditures will have to be made in order to continue such insurance. All such  insurance is outstanding and duly in force on the date hereof and will be outstanding and duly in force on the Commencement Date and the  Remarketing Settlement Date.
+
+(w) Neither the Company nor any agent thereof acting on the behalf of the Company has taken, and none of them will take, any action that might  cause the execution, delivery and performance by the Company and the Trust of the Transaction Agreements, as applicable, the issuance of the  Unit Securities by the Company and the Trust, as applicable, the Remarketing of the Remarketing Securities by the Company and the Trust, as  applicable, and the consummation by the Company and the Trust, as applicable, of the transactions contemplated hereby and thereby to violate  Regulation T (12 C.F.R. Part 220), Regulation U (12 C.F.R. Part 221) or Regulation X (12 C.F.R. Part 224) of the Board of Governors of the Federal  Reserve System.
+
+(x) Deloitte & Touche LLP ("Deloitte & Touche"), who has issued an unqualified opinion on the financial statements and supporting schedules  included or incorporated by reference in each of the Time of Sale Prospectus and the Prospectus (other than the financial information for the  quarterly periods or the year ended and as of December 31, 2010) and has audited the Company's internal control over financial reporting and  management's assessment thereof, is an independent registered public accounting firm as required by the Securities Act. The consolidated  historical statements together with the related schedules and notes fairly present, in all material respects, the consolidated financial condition and  results of
+
+13
+
+
+
+
+
+
+
+operations of the Company and its subsidiaries at the respective dates and for the respective periods indicated, in accordance with United States  generally accepted accounting principles consistently applied throughout such periods, except as stated therein. Other financial and statistical  information and data included or incorporated by reference in each of the Time of Sale Prospectus and the Prospectus, historical and pro forma,  are, in all material respects, accurately presented and prepared on a basis consistent with such financial statements, except as may otherwise be  indicated therein, and the books and records of the Company and its subsidiaries.
+
+(y) The 2009 statutory annual statements of each of the Company's U.S. subsidiaries which is regulated as an insurance company (collectively, the  "Insurance Subsidiaries") and the statutory balance sheets and income statements included in such statutory annual statements together with  related schedules and notes, have been prepared, in all material respects, in conformity with statutory accounting principles or practices required  or permitted by the appropriate Insurance Department of the jurisdiction of domicile of each such subsidiary, and such statutory accounting  practices have been applied on a consistent basis throughout the periods involved, except as may otherwise be indicated therein or in the notes  thereto, and present fairly, in all material respects, the statutory financial position of the Insurance Subsidiaries as of the dates thereof, and the  statutory basis results of operations of the Insurance Subsidiaries for the periods covered thereby.
+
+(z) The Company and the Insurance Subsidiaries have made no material changes in their insurance reserving practices since December 31, 2009,  except where such change in such insurance reserving practices would not reasonably be expected to have a Material Adverse Effect.
+
+(aa) (i) The Company's senior long-term debt is rated by A.M. Best Company, Inc., by Moody's Investor Services ("Moody's") and by Standard &  Poor's Rating Services, Inc. ("S&P"); (ii) RGA Reinsurance Company has a financial strength rating of "A+" (Superior) from A.M. Best Company,  Inc., "A1" from Moody's and "AA-" from S&P; (iii) RGA Life Reinsurance Company of Canada has a financial strength rating of "A+" (Superior)  from A.M. Best Company, Inc. and "AA-" from S&P; and (iv) the Company is not aware of any threatened or pending downgrading of the ratings  set forth in clauses (i), (ii) and (iii) above or any other claims-paying ability rating of the Company or any Significant Subsidiaries, other than as set  forth or described in the Time of Sale Prospectus.
+
+(bb) The Trust has been duly created and is validly existing as a statutory business trust in good standing under the Statutory Trust Act of the  State of Delaware, 12 Del. C. § 3801 et seq. (the "Delaware Statutory Trust Act"), with the power and authority (trust and other) to own property  and conduct its business as described in the Prospectus, and has conducted and will conduct no business other than the transactions  contemplated by the Prospectus.
+
+(cc) Each of the Administrative Trustees is either an officer or employee of the Company or one of its subsidiaries and has been duly authorized by  the Company or such subsidiary to serve in such capacity and to execute and deliver the Trust Agreement.
+
+14
+
+
+
+
+
+
+
+(dd) The Trust is not a party to or bound by any agreement or instrument other than the Transaction Agreements to which it is a party and the  agreements and instruments contemplated by the Trust Agreement and described in the Prospectus; the Trust has no liabilities or obligations  other than those arising out of the transactions contemplated by the Transaction Agreements to which it is a party and described in the  Prospectus; and the Trust is not a party to or subject to any action, suit or proceeding of any nature.
+
+(ee) Each of the Company and the Trust had or has, as applicable, all requisite corporate and trust power and authority, as applicable, to execute,  issue and deliver the Transaction Agreements, to issue the Unit Securities and to cause the Remarketing of the Remarketing Securities and to  perform its respective obligations thereunder; each Transaction Agreement to which the Company and the Trust is a party has been duly  authorized by the Company or the Trust, as applicable, and each Transaction Agreement, when duly executed and delivered by the Company and  the Trust, as applicable, and assuming due authorization, execution and delivery thereof by the other parties thereto, constitutes a valid and  binding agreement of the Company and the Trust, as applicable, enforceable against the Company and the Trust, as applicable, in accordance with  its terms, except (i) as such enforcement may be limited by bankruptcy, insolvency, reorganization, receivership, moratorium, fraudulent transfer or  similar laws now or hereinafter in effect relating to or affecting creditors' rights generally and by general principles of equity, including, without  limitation, concepts of reasonableness, materiality, good faith and fair dealing, or as may be provided in the Original Remarketing Agreement (ii)  that the remedies of specific performance and injunctive and other forms of equitable relief are subject to general equitable principles, whether  such enforcement is sought at law or in equity, (iii) that such enforcement may be subject to the discretion of the court before which any  proceedings therefore may be brought and (iv) with respect to the rights of indemnification and contribution under this Agreement and the  Remarketing Agreement, which enforcement thereof may be limited by federal or state securities laws or the policies underlying such laws (such  exceptions, collectively, the "Standard Qualifications"). Each of the Transaction Agreements conforms in all material respects to the description  thereof contained in the Prospectus. The Indenture, the Trust Agreement and the Guarantee Agreement shall have been qualified under the Trust  Indenture Act; and the Indenture, the Trust Agreement and the Guarantee Agreement conform in all material respects to the requirements of the  Trust Indenture Act.
+
+(ff) Each of the Company and the Trust has all requisite corporate or trust power and authority, as applicable, to cause the Remarketing to occur  and to perform its obligations thereunder.
+
+(gg) The Preferred Securities have been duly authorized, executed and delivered by the Trust for issuance and sale pursuant to the Underwriting  Agreement, the Unit Documents and the Trust Agreement and, assuming the Preferred Securities have been duly issued, authenticated and  delivered pursuant to the provisions of the Unit Documents and the Trust Agreement against payment of the consideration thereof in accordance  with this Agreement, the Preferred Securities are duly and validly issued, fully paid and nonassessable interests in the Trust.
+
+15
+
+
+
+
+
+
+
+(hh) The Debentures have been duly authorized for issuance and sale by the Company pursuant to the Underwriting Agreement and the Indenture  and, assuming the Debentures have been duly issued, authenticated and delivered pursuant to the provisions of the Indenture, against payment  of the consideration therefor in accordance with this Agreement, the Debentures are valid and binding obligations of the Company, enforceable  against the Company and entitled to the benefits of the Indenture, except for the Standard Qualifications.
+
+(ii) Neither the Company, nor to its knowledge, any of its Affiliates (as defined in Regulation C of the Securities Act, an "Affiliate"), has taken or  will take, directly or indirectly, any action designed to cause or result in, or which has constituted or which might reasonably be expected to  constitute, the stabilization or manipulation of the price of the Securities to facilitate the sale or resale of such securities.
+
+(jj) No event has occurred nor has any circumstance arisen which, had the Securities been issued on the date hereof, would constitute a default or  an event of default under the Indenture, the Trust Agreement or the Guarantee Agreement.
+
+(kk) Each certificate signed by any officer of the Company and delivered to the Remarketing Agent or counsel for the Remarketing Agent shall be  deemed to be a representation and warranty by the Company to the Remarketing Agent as to the matters covered thereby.
+
+(ll) Each of the Administrative Trustees is either an officer or employee of the Company or one of its subsidiaries and has been duly authorized by  the Company or such subsidiary to serve in such capacity and to execute and deliver the Trust Agreement.
+
+(mm) As of the date of this Agreement, no event has occurred nor has any circumstance arisen which, had the Debentures been issued on such  date, would constitute a default or an Event of Default (as such term is defined in the Indenture).
+
+Section 3. [Reserved.]
+
+Section 4. Fees and Expenses. (a) If there has been a successful Remarketing, the Company shall pay to the Remarketing Agent for the  performance of its services as Remarketing Agent hereunder on the Remarketing Settlement Date, by wire transfer to an account designated by the  Remarketing Agent, a fee in an amount equal to 25 basis points (0.25%) of the Accreted Value of the Remarketed Securities.
+
+(b) The Company agrees to pay:
+
+(i) the costs incident to the preparation and printing of the Prospectus and any amendments or supplements thereto;
+
+(ii) the costs of distributing the Prospectus and any amendments or supplements thereto;
+
+16
+
+
+
+
+
+
+
+(iii) the fees and expenses of qualifying the Remarketing Securities under the securities laws of the several jurisdictions as provided in  Section 5(b) and of preparing and distributing a Blue Sky Memorandum (including related fees and expenses of counsel to the Remarketing  Agent); and
+
+(iv) all other costs and expenses incident to the performance of the obligations of the Issuers hereunder.
+
+The Trust shall not be liable for any fees and expenses in this Section.
+
+Section 5. Further Agreements of the Company. The Company agrees to use its reasonable best efforts:
+
+(a) To furnish promptly to the Remarketing Agent and to counsel to the Remarketing Agent, copies of the Prospectus (and all amendments  and supplements thereto) in each case as soon as available and in such quantities as the Remarketing Agent reasonably requests for internal  use and for distribution to prospective purchasers. The Company will pay the expenses of printing and distributing to the Remarketing  Agent all such documents.
+
+(b) To deliver promptly to the Remarketing Agent in New York City such number of the following documents as the Remarketing Agent shall  request:
+
+(i) the Prospectus and any amended or supplemented Prospectus; and
+
+(ii) any document incorporated by reference in the Prospectus (excluding exhibits thereto);
+
+and, if the delivery of a prospectus is required at any time in connection with the Remarketing and if at such time any event shall have  occurred as a result of which the Prospectus as then amended or supplemented would include any untrue statement of a material fact or omit  to state any material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made  when such Prospectus is delivered, not misleading, or if for any other reason it shall be necessary during such same period to amend or  supplement the Prospectus or to file under the Exchange Act any document incorporated by reference in the Prospectus in order to comply  with the Securities Act or the Exchange Act, to notify the Remarketing Agent and, upon its request, to file such document and to prepare  and furnish without charge to the Remarketing Agent and to any dealer in securities as many copies as the Remarketing Agent may from time  to time request of an amended or supplemented Prospectus which will correct such statement or omission or effect such compliance.
+
+(c) Promptly from time to time to take such action as the Remarketing Agent may reasonably request to qualify any of the Remarketing  Securities for offering and sale under the securities laws of such jurisdictions within the United States as the Remarketing Agent may request  (and such other jurisdictions as to which the Company and the Remarketing Agent mutually agree) and to comply with such laws so as to  permit
+
+17
+
+
+
+
+
+
+
+the continuance of sales and dealings therein in such jurisdictions for as long as may be necessary to complete the distribution of the  Preferred Securities; provided that in connection therewith, neither the Company shall be required to qualify as a foreign corporation or to  file a general consent to service of process in any jurisdiction.
+
+Section 6. Conditions to the Remarketing Agent's Obligations. The obligations of the Remarketing Agent hereunder are subject to the accuracy,  on and as of the date when made, of the representations and warranties of the Issuers contained herein, to the performance by the Issuers of their  respective obligations hereunder, and to each of the following additional terms and conditions:
+
+(a) The Remarketing Agent shall not have discovered and disclosed to the Company prior to on or prior to the Remarketing Settlement Date that, in  the opinion of Simpson, Thacher & Bartlett, counsel to the Remarketing Agent, the Registration Statement or any amendment thereto, contained,  as of the Commencement Date, an untrue statement of a material fact or omitted to state a material fact required to be stated therein or necessary to  make the statements therein not misleading or that the Prospectus or any supplement thereto, contains and will contain, as of the date hereof and  the Remarketing Settlement Date, an untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to  make the statements therein, in light of the circumstances under which they were made, not misleading.
+
+(b) All corporate proceedings and other legal matters incident to the authorization, form and validity of the Registration Statement, the Preliminary  Prospectus, the Prospectus, the Transaction Agreements, the Unit Securities, the Remarketing of the Remarketing Securities and all other legal  matters relating to the Remarketing of the Remarketing Securities and the transactions contemplated hereby and thereby shall be reasonably  satisfactory in all material respects to counsel to the Remarketing Agent.
+
+(c) Bryan Cave LLP or other, special counsel to the Company, shall have furnished to the Remarketing Agent its written opinion, addressed to the  Remarketing Agent and dated such Remarketing Settlement Date to the Remarketing Agent, in form and substance reasonably satisfactory to the  Remarketing Agent, substantially to the effect set forth in Exhibit A.
+
+(d) William L. Hutton, Esq., Senior Vice President, General Counsel and Secretary of the Company, or other counsel to the Company shall have  furnished to the Remarketing Agent his written opinion, addressed to the Remarketing Agent and dated such Remarketing Settlement Date, in form  and substance reasonably satisfactory to the Remarketing Agent, substantially to the effect set forth in Exhibit B.
+
+(e) Richards Layton & Finger, P.A. shall have furnished to the Remarketing Agent its written opinion, as special Delaware counsel to the Trust,  addressed to the Remarketing Agent and dated such Remarketing Settlement Date, in form and substance reasonably satisfactory to the  Remarketing Agent, substantially to the effect set forth in Exhibit C.
+
+18
+
+
+
+
+
+
+
+(f) [Reserved.]
+
+(g) Simpson Thacher & Bartlett LLP, shall have furnished to the Remarketing Agent its written opinion, as counsel to the Remarketing Agent,  addressed to the Remarketing Agent and dated the Remarketing Settlement Date, in form and substance reasonably satisfactory to the  Remarketing Agent.
+
+(h) By the Remarketing Date and the Remarketing Settlement Date, Deloitte & Touche shall have furnished to the Remarketing Agent its letters, in  form and substance reasonably satisfactory to the Remarketing Agent, containing statements and information of the type customarily included in  accountants' initial and bring-down "comfort letters" to remarketing agents with respect to the financial statements and certain financial  information contained and incorporated by reference in the Registration Statement, the Time of Sale Prospectus and the Prospectus.
+
+(i) The Company shall have furnished to the Remarketing Agent a certificate, dated such Remarketing Settlement Date, of its President or any  Executive or Senior Vice President and its principal financial or accounting officer stating, in the name of and in their capacity as officers of the  Company, that:
+
+(i) The representations, warranties and agreements of the Company and the Trust in Section 1 are true and correct in all material respects as  of the Remarketing Settlement Date; the Company and the Trust have complied with in all material respects with all of their agreements  contained herein to be performed prior to or on the Remarketing Settlement Date; and the conditions set forth in Sections 6(k) have been  fulfilled.
+
+(ii) (A) Neither the Company nor any of its subsidiaries has sustained since the date of the latest audited financial statements included or  incorporated by reference in each of the Time of Sale Prospectus and the Prospectus any material loss or interference with its business from  (I) any governmental or regulatory action, notice, order or decree of a regulatory authority or (II) fire, explosion, flood or other calamity,  whether or not covered by insurance, or from any labor dispute or court, in each case, otherwise than as set forth each of the Time of Sale  Prospectus and the Prospectus; (B) since such date there has not been any material change in the capital stock, short-term debt or long-term  debt of the Company or any of its subsidiaries or any material adverse change, or any development involving a prospective material adverse  change, in or affecting the general affairs, management, financial position, stockholders' equity or results of operations of the Company and  its subsidiaries taken as a whole, otherwise than as set forth or contemplated in each of the Time of Sale Prospectus and the Prospectus; and  (C) the Company has not declared or paid any dividend on its capital stock, except for dividends declared in the ordinary course of business  and consistent with past practice, otherwise than as set forth in each of the Time of Sale Prospectus and the Prospectus and, except as set  forth or contemplated in each of the Time of Sale Prospectus and the Prospectus, neither the Company nor any of its subsidiaries has  entered into any transaction or agreement (whether or
+
+19
+
+
+
+
+
+
+
+not in the ordinary course of business) material to the Company and its subsidiaries taken as a whole.
+
+(iii) They have carefully examined the Registration Statement, the Time of Sale Prospectus and the Prospectus and, in their opinion (A) the  Registration Statement, as of the Effective Date, did not include any untrue statement of a material fact and did not omit to state a material  fact required to be stated therein or necessary to make the statements therein not misleading, (B) the Time of Sale Prospectus, as of the  Remarketing Date and as of the Remarketing Settlement Date, did not include any untrue statement of a material fact and did not omit to state  a material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which they  were made, not misleading, (C) the Prospectus, as of the date hereof and as of the Remarketing Settlement Date, did not include any untrue  statement of a material fact and did not omit to state a material fact required to be stated therein or necessary to make the statements therein,  in the light of the circumstances under which they were made, not misleading and (D) since the Effective Date, no event has occurred which  should have been set forth in a supplement or amendment to the Registration Statement, the Time of Sale Prospectus or the Prospectus.
+
+(iv) They have compared the Company's quarterly and annual data for the period ended December 31, 2010 (the "Earnings Statement") as  set forth in the Company's current report on Form 8-K filed on February 15, 2011 and incorporated by reference in the Prospectus, and find  the Earnings Statement to be in agreement with the Company's audited financials contained in the Company's annual report on Form 10-K  for the year ended December 31, 2010.
+
+(j) From the Commencement Date until the Remarketing Settlement Date, neither the Company nor any of its subsidiaries (i) shall have sustained  since the date of the latest audited financial statements included or incorporated by reference in the Time of Sale Prospectus any loss or  interference with its business from fire, explosion, flood or other calamity, whether or not covered by insurance, or from any labor dispute or court  or governmental action, order or decree, otherwise than as set forth or contemplated in each of the Time of Sale Prospectus and the Prospectus or  (ii) since such date there shall not have been any change in the capital stock, short-term debt or long-term debt of the Company or any of its  subsidiaries or any change, or any development involving a prospective change, in or affecting the general affairs, management, financial position,  prospects, stockholders' equity or results of operations of the Company and its subsidiaries, otherwise than as set forth or contemplated in each  of the Time of Sale Prospectus and the Prospectus, the effect of which, in any such case described in clause (i) or (ii), is, in the judgment of  Barclays, so material and adverse as to make it impracticable or inadvisable to proceed with the offering or the delivery of the Unit Securities being  delivered on such Remarketing Settlement Date on the terms and in the manner contemplated in Time of Sale Prospectus and the Prospectus.
+
+(k) Subsequent to the execution and delivery of this Agreement, (i) no downgrading shall have occurred in the rating accorded the Company's or  any Significant Subsidiary's debt securities or financial strength by any "nationally recognized statistical rating
+
+20
+
+
+
+
+
+
+
+organization", as that term is defined by the Commission for purposes of Rule 436(g)(2) of the Securities Act (except as contemplated by clause  (ii)), (ii) no such organization shall have publicly announced or privately communicated to the Company or any Significant Subsidiary that it has  under surveillance or review, with possible negative implications, its rating of any of the Company's or any Significant Subsidiary's debt securities  or financial strength, other than any downgrade by Fitch that is consistent with its existing negative outlook and as set forth or contemplated in  each of the Time of Sale Prospectus and the Prospectus, and (iii) the Remarketing Securities shall have continued to be rated (x) by Moody's,  Investor Service, Inc., (y) by Standard & Poor's Corporate Ratings Services, and (x) by A.M. Best Company, Inc.
+
+(l) On or after the date hereof, there shall not have occurred any of the following: (i) a suspension or material limitation in trading in securities  generally on the New York Stock Exchange; (ii) a suspension or material limitation in trading in the Company's securities on the New York Stock  Exchange; (iii) a general moratorium on commercial banking activities declared by either federal or New York State authorities or a material  disruption in commercial banking or securities settlement or clearance services in the United States; (iv) the outbreak or escalation of hostilities  involving the United States or the declaration by the United States of a national emergency or war; or (v) the occurrence of any other calamity or  crisis or any change in financial, political or economic conditions in the United States or elsewhere, if the effect of any such event specified in  clause (iv) or (v) in the judgment of Barclays makes it impracticable or inadvisable to proceed with the public offering or delivery of the  Remarketing Securities being delivered on such Remarketing Settlement Date on the terms and in the manner contemplated in the Time of Sale  Prospectus and the Prospectus.
+
+(m) By the Remarketing Date, the Company will have filed with the Securities and Exchange Commission its annual report on Form 10-K for the year  ended December 31, 2010.
+
+All opinions, letters, evidence and certificates mentioned above or elsewhere in this Agreement shall be deemed to be in compliance with the  provisions hereof only if they are in form and substance reasonably satisfactory to counsel to the Remarketing Agent. No opinion shall state that  it is to be governed or qualified by, or that it is otherwise subject to, any treatise, written policy or other document relating to legal opinions,  including, without limitation, the Legal Opinion Accord of the ABA Section of Business Law (1991). All opinions (other than the opinion referred  to in (g) above) shall state that they may be relied upon by Simpson Thacher & Bartlett LLP as to matters of law (other than New York and federal  law).
+
+Section 7. Indemnification and Contribution. (a) The Company shall indemnify and hold harmless the Remarketing Agent, its officers and  employees and each person, if any, who controls the Remarketing Agent within the meaning of the Securities Act, from and against any loss,  claim, damage or liability, joint or several, or any action in respect thereof (including, but not limited to, any loss, claim, damage, liability or action  relating to purchases and sales of the Remarketing Securities), to which the Remarketing Agent or that officer, employee or controlling person may  become subject, under
+
+21
+
+
+
+
+
+
+
+the Securities Act or otherwise, insofar as such loss, claim, damage, liability or action arises out of, or is based upon:
+
+(i) any untrue statement or alleged untrue statement of a material fact contained in any (A) the Registration Statement, the Time of Sale  Prospectus, any free writing prospectus that the Company has filed or is required to file with the Commission pursuant to Rule 433(d) of the  Securities Act, the Prospectus or in any amendment or supplement thereto, or (B) any blue sky application or other document prepared or  executed by the Company or the Trust (or based upon any written information furnished by the Company or the Trust) filed in any  jurisdiction specifically for the purpose of qualifying any or all of the Remarketing Securities under the securities laws of any state or other  jurisdiction (such application, document or information being hereinafter called a "Blue Sky Application");
+
+(ii) the omission or alleged omission to state in Registration Statement, the Time of Sale Prospectus, any free writing prospectus that the  Company has filed or is required to file with the Commission pursuant to Rule 433(d) of the Securities Act, the Prospectus or in any  amendment or supplement thereto, or in any Blue Sky Application, any material fact required to be stated therein or necessary to make the  statements therein (and with respect to the Time of Sale Prospectus, the Prospectus or any such issuer free writing prospectus, in the light of  the circumstances under which such statements are made) not misleading; and
+
+(iii) any act or failure to act or any alleged act or failure to act by the Remarketing Agent in connection with, or relating in any manner to, the  Remarketing, and which is included as part of or referred to in any loss, claim, damage, liability or action arising out of or based upon matters  covered by clause (i) or (ii) above, provided that the Company shall not be liable under this clause (iii) to the extent that it is determined in a  final judgment by a court of competent jurisdiction that such loss, claim, damage, liability or action resulted directly from any such acts or  failure to act undertaken or omitted to be taken by the Remarketing Agent through its gross negligence or willful misconduct;
+
+and shall reimburse the Remarketing Agent and each such officer, employee or controlling person promptly upon demand for any legal or other  expenses reasonably incurred by the Remarketing Agent or that officer, employee or controlling person in connection with investigating or  defending or preparing to defend against any such loss, claim, damage, liability or action as such expenses are incurred; provided, however, that  the Company shall not be liable in any such case to the extent that any such loss, claim, damage, liability or action arises out of, or is based upon,  any untrue statement or alleged untrue statement or omission or alleged omission made in any Preliminary Prospectus, the Registration Statement,  the Time of Sale Prospectus, any free writing prospectus that the Company has filed or is required to file with the Commission pursuant to Rule 433 (d) of the Securities Act, or the Prospectus or in any such amendment or supplement, in reliance upon and in conformity with the written  information concerning the Remarketing Agent furnished to the Issuers through the Representatives by or on behalf of the Remarketing Agent  expressly for inclusion therein (which consists of the
+
+22
+
+
+
+
+
+
+
+information specified in Section 2(c)). The foregoing indemnity agreement is in addition to any liability which the Company may otherwise have to  the Remarketing Agent or to any officer, employee or controlling person of the Remarketing Agent.
+
+(b) The Remarketing Agent shall indemnify and hold harmless the Company, its officers, and employees and each of its directors, the Trust and  each Trustee and each person, if any, who controls any of the Issuers within the meaning of the Securities Act, from and against any loss, claim,  damage or liability, joint or several, or any action in respect thereof, to which the Company, any such director, officer or employee, the Trust or any  such Trustee or any such controlling person may become subject, under the Securities Act or otherwise, insofar as such loss, claim, damage,  liability or action arises out of, or is based upon:
+
+(i) any untrue statement or alleged untrue statement of a material fact contained in the Registration Statement, the Time of Sale Prospectus,  any free writing prospectus that the Company has filed or is required to file with the Commission pursuant to Rule 433(d) of the Securities  Act, or the Prospectus or in any amendment or supplement thereto, or in any Blue Sky Application; or
+
+(ii) the omission or alleged omission to state in the Registration Statement, the Time of Sale Prospectus, any free writing prospectus that the  Company has filed or is required to file with the Commission pursuant to Rule 433(d) of the Securities Act, or Prospectus or in any  amendment or supplement thereto, or in any Blue Sky Application, any material fact required to be stated therein or necessary to make the  statements therein (and with respect to the Time of Sale Prospectus, the Prospectus or any such free writing prospectus, in the light of the  circumstances under which such statements are made) not misleading;
+
+but in each case only to the extent that the untrue statement or alleged untrue statement or omission or alleged omission was made in reliance  upon and in conformity with the written information furnished to the Issuers by or on behalf of the Remarketing Agent specifically for inclusion  therein (which consists of the information specified in Section 2(c)), and shall reimburse the Company and any such director, officer or employee,  the Trust or any such Trustee or such controlling person promptly upon demand for any legal or other expenses reasonably incurred by the  Company or any such director, officer or employee, the Trust or any Trustee or any such controlling person in connection with investigating or  defending or preparing to defend against any such loss, claim, damage, liability or action as such expenses are incurred. The foregoing indemnity  agreement is in addition to any liability which the Remarketing Agent may otherwise have to the Company or any such director, officer or  employee, the Trust or any such Trustee or any such controlling person.
+
+(c) Promptly after receipt by an indemnified party under this Section 7 of notice of any claim or the commencement of any action, the indemnified  party shall, if a claim in respect thereof is to be made against the indemnifying party under this Section 7, notify the indemnifying party in writing  of the claim or the commencement of that action; provided however, that the failure to notify the indemnifying party shall not relieve it from any  liability which it may have under this Section 7 except to the extent it has been materially prejudiced by such failure and, provided further, that the  failure to notify the indemnifying party shall not
+
+23
+
+
+
+
+
+
+
+relieve it from any liability which it may have to an indemnified party otherwise than under this Section 7. If any such claim or action shall be  brought against an indemnified party, and it shall notify the indemnifying party thereof, the indemnifying party shall be entitled to participate  therein and, to the extent that it wishes, jointly with any other similarly notified indemnifying party, to assume the defense thereof with counsel  satisfactory to the indemnified party. After notice from the indemnifying party to the indemnified party of its election to assume the defense of  such claim or action, the indemnifying party shall not be liable to the indemnified party under this Section 7 for any legal or other expenses  subsequently incurred by the indemnified party in connection with the defense thereof other than reasonable costs of investigation; provided  however, the Remarketing Agent shall have the right to employ separate counsel to represent the Remarketing Agent and its respective officers,  employees and controlling persons who may be subject to liability arising out of any claim in respect of which indemnity may be sought by the  Remarketing Agent against the Company under this Section 7 if, in the reasonable judgment of counsel to the Remarketing Agent it is advisable  for the Remarketing Agent, its officers, employees and controlling persons to be jointly represented by separate counsel, due to the availability of  one or more legal defenses to them which are different from or additional to those available to the indemnifying party, and in that event the  reasonable fees and expenses of such separate counsel shall be paid by the Company; provided further, that the Company shall not be liable for  the fees and expenses of more than one separate firm of attorneys (in addition to one local counsel in each relevant jurisdiction) at any time for all  such indemnified parties. No indemnifying party shall:
+
+(i) without the prior written consent of the indemnified parties (which consent shall not be unreasonably withheld), settle or compromise or  consent to the entry of any judgment with respect to any pending or threatened claim, action, suit or proceeding in respect of which  indemnification or contribution may be sought hereunder (whether or not the indemnified parties are actual or potential parties to such claim  or action) unless such settlement, compromise or consent includes an unconditional release of each indemnified party from all liability arising  out of such claim, action, suit or proceeding, or
+
+(ii) be liable for any settlement of any such action effected without its written consent (which consent shall not be unreasonably withheld),  but if settled with its written consent or if there be a final judgment of the plaintiff in any such action, the indemnifying party agrees to  indemnify and hold harmless any indemnified party from and against any loss or liability by reason of such settlement or judgment.
+
+(d) If the indemnification provided for in this Section 7 shall for any reason be unavailable to or insufficient to hold harmless an indemnified party  under Section 7(a), 7(b) or 7(c) in respect of any loss, claim, damage or liability, or any action in respect thereof, referred to therein, other than to  the extent that such indemnification is unavailable or insufficient due to a failure to provide prompt notice in accordance with Section 7(c), then  each indemnifying party shall, in lieu of indemnifying such indemnified party, contribute to the amount paid or payable by such indemnified party  as a result of such loss, claim, damage or liability, or action in respect thereof:
+
+24
+
+
+
+
+
+
+
+(i) in such proportion as shall be appropriate to reflect the relative benefits received by the Issuers on the one hand and the Remarketing  Agent on the other hand from the Remarketing; or
+
+(ii) if the allocation provided by clause (i) above is not permitted by applicable law, in such proportion as is appropriate to reflect not only the relative benefits referred to in clause (i) above but also the relative fault of the Issuers on the one hand and the Remarketing Agent on the  other with respect to the statements or omissions or alleged statements or alleged omissions which resulted in such loss, claim, damage or  liability (or action in respect thereof) as well as any other relevant equitable considerations.
+
+The relative benefits received by the Issuers, on the one hand, and the Remarketing Agent, on the other, with respect to such offering shall be  deemed to be in the same proportion as the aggregate Accreted Value of the Remarketing Securities as of the end of day on the day next preceding  the Remarketing Settlement Date less the fee paid to the Remarketing Agent pursuant to Section 4(a) and less the expenses paid by the Company  pursuant to Section 4(b), on the one hand, and the total fees received by the Remarketing Agent pursuant to such Section 4(a), plus the expenses  paid by the Company pursuant to Section 4(b), on the other hand, bear to such aggregate Accreted Value of the Remarketing Securities. The  relative fault shall be determined by reference to whether the untrue or alleged untrue statement of a material fact or omission or alleged omission  to state a material fact relates to information supplied by the Issuers on the one hand or the Remarketing Agent on the other hand, the intent of the  parties and their relative knowledge, access to information and opportunity to correct or prevent such statement or omission. The Company and  the Remarketing Agent agree that it would not be just and equitable if the amount of contributions pursuant to this Section 7(d) were to be  determined by pro rata allocation or by any other method of allocation which does not take into account the equitable considerations referred to  herein. The amount paid or payable by an indemnified party as a result of the loss, claim, damage or liability, or action in respect thereof, referred to  above in this Section 7(d) shall be deemed to include, for purposes of this Section 7(d), any legal or other expenses reasonably incurred by such  indemnified party in connection with investigating or defending any such action or claim. Notwithstanding the provisions of this Section 7(d), the  Remarketing Agent shall not be required to contribute any amount in excess of the total price at which Remarketing Securities distributed in the  Remarketing exceed the amount of any damages which the Remarketing Agent has otherwise paid or become liable to pay by reason of any untrue  or alleged untrue statement or omission or alleged omission. No person guilty of fraudulent misrepresentation (within the meaning of Section 11(f)  of the Securities Act) shall be entitled to contribution from any person who was not guilty of such fraudulent misrepresentation.
+
+Section 8. [Reserved]
+
+Section 9. Dealing in the Remarketing Securities. The Remarketing Agent, when acting as a Remarketing Agent or in its individual or any other  capacity, may, to the extent permitted by law, buy, sell, hold and deal in any of the Remarketing Securities. The Remarketing Agent may to the  extent permitted by law exercise any vote or join in any action which any beneficial owner of Remarketing Securities
+
+25
+
+
+
+
+
+
+
+may be entitled to exercise or take pursuant to the Trust Agreement or the Indenture with like effect as if it did not act in any capacity hereunder.  The Remarketing Agent, in its individual capacity, either as principal or agent, may, to the extent permitted by law, also engage in or have an  interest in any financial or other transaction with the Issuers as freely as if it did not act in any capacity hereunder.
+
+Section 10. Remarketing Agent's Performance; Duty of Care. The duties and obligations of the Remarketing Agent shall be determined solely by  the express provisions of this Agreement, the Trust Agreement and the Indenture. No implied covenants or obligations of or against the  Remarketing Agent shall be read into this Agreement, the Trust Agreement or the Indenture. In the absence of bad faith on the part of the  Remarketing Agent, the Remarketing Agent may conclusively rely upon any document furnished to it, which purports to conform to the  requirements of this Agreement, the Trust Agreement or the Indenture as to the truth of the statements expressed in any of such documents. The  Remarketing Agent shall be protected in acting upon any document or communication reasonably believed by it to have been signed, presented or  made by the proper party or parties. The Remarketing Agent, acting under this Agreement, shall incur no liability to the Company or to any holder  of Remarketing Securities in its individual capacity or as Remarketing Agent for any action or failure to act, on its part in connection with a  Remarketing or otherwise, except if such liability is judicially determined to have resulted from the gross negligence or willful misconduct on its  part. The Remarketing Agent will be entitled to rely conclusively on any determination by the Calculation Agent under the Calculation Agency  Agreement, dated as of December 18, 2001 between the Company and Reinsel & Company LLP, as Calculation Agent, of the Accreted Value or  Discount relating to the Preferred Securities and Debentures, as applicable, and will incur no liability to the Company or any holder of Remarketing  Securities relating to inaccuracies in calculating such Accreted Value or Discount.
+
+Section 11. Termination. This Agreement shall terminate (i) the Business Day immediately following the Remarketing Settlement Date, (ii) at 5:00  p.m., New York City time, on the last date of the Remarketing if the Remarketing is not successful or (iii) on the effective date of the resignation or  removal of the Remarketing Agent and the appointment of a new Remarketing Agent. In addition, the obligations of the Remarketing Agent  hereunder may be terminated by it by notice given to the Company prior to 5:00 p.m. (New York City time) on the date immediately preceding the  Commencement Date if, prior to that time, any of the events described in Sections 6(i), (j) or (k) shall have occurred.
+
+If this Agreement is terminated pursuant to any of the provisions hereof, except as otherwise provided herein, the Company shall not be under any  liability to the Remarketing Agent and the Remarketing Agent shall not be under any liability to the Company, except that:
+
+(x) if this Agreement is terminated by the Remarketing Agent because of any failure or refusal on the part of the Company to comply with the terms  or to fulfill any of the conditions of this Agreement, the Company will reimburse the Remarketing Agent
+
+26
+
+
+
+
+
+
+
+for all of its out-of-pocket expenses (including the fees and disbursements of its counsel) reasonably incurred by it; and
+
+(y) if the Remarketing Agent failed or refused to perform its obligations hereunder, without some reason sufficient hereunder to justify the  cancellation or termination of its obligations hereunder, the Remarketing Agent shall not be relieved of liability to the Company for damages  occasioned by its default and shall not be entitled to be reimbursed for any expense.
+
+Section 12. Notices, etc.
+
+Notices given pursuant to any provision of this Agreement shall be given in writing and shall be addressed as follows:
+
+(a) if to the Remarketing Agent, to Barclays Capital Inc., 745 Seventh Avenue, New York, New York 10019, Attention: Syndicate Registration (Fax  No.: 646-834-8133);
+
+with a copy to Simpson Thacher & Bartlett, 425 Lexington Avenue, New York, New York 10017, Attention: Gary I. Horowitz, Esq. (Fax No.: 212-455- 2502).; and
+
+(b) if to the Company or to the Trust, to 1370 Timberlake Manor Parkway, Chesterfield, Missouri 63017, Attention: Jack B. Lay, Executive Vice  President and Chief Financial Officer (Fax No.: 636-736-7839), with a copy to William L. Hutton, Esq., Senior Vice President General Counsel and  Secretary, at the same address (Fax No.: 636-736-7739); and
+
+with a copy to Bryan Cave LLP, One Metropolitan Square, 211 North Broadway, Suite 3600, St. Louis, Missouri 63102, Attention: R. Randall Wang,  Esq. (Fax No.: 314-552-8149);
+
+or in any case to such other address as the person to be notified may have requested in writing. Any such statements, requests, notices or  agreements shall take effect at the time of receipt thereof.
+
+Section 13. Persons Entitled to Benefit of Agreement. This Agreement shall inure to the benefit of and be binding upon the Remarketing Agent,  the Company, the Trust and their respective successors. This Agreement and the terms and provisions hereof are for the sole benefit of only those  persons, except that (A) the representations, warranties, indemnities and agreements of the Issuers contained in this Agreement shall also be  deemed to be for the benefit of the officers, directors and employees of the Remarketing Agent and the person or persons, if any, who control the  Remarketing Agent within the meaning of Section 15 of the Securities Act; and (B) any indemnity agreement of the Remarketing Agent contained  in this Agreement shall be deemed to be for the benefit of directors, trustees, officers and employees of the Company, and the Trust, and any  person controlling the Company or the Trust within the meaning of Section 15 of the Securities Act. Nothing contained in this Agreement is  intended or shall be construed to give any person, other than the persons referred to in this Section 13, any legal or equitable right, remedy or  claim under or in respect of this Agreement or any provision contained herein.
+
+27
+
+
+
+
+
+
+
+Section 14. Survival. The respective indemnities, representations, warranties and agreements of the Issuers and the Remarketing Agent contained  in this Agreement or made by or on behalf of them, respectively, pursuant to this Agreement, shall survive the Remarketing and shall remain in full  force and effect, regardless of any termination or cancellation of this Agreement or any investigation made by or on behalf of any of them or any  person controlling any of them.
+
+Section 15. Definition of the term "Business Day". For purposes of this Agreement, "business day" means any day on which the New York Stock  Exchange is open for trading.
+
+Section 16. Governing Law. This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York.
+
+Section 17. Counterparts. This Agreement may be executed in one or more counterparts and, if executed in more than one counterpart, the  executed counterparts shall each be deemed to be an original but all such counterparts shall together constitute one and the same instrument.
+
+Section 18. Headings; Interpretation. The headings herein are inserted for convenience of reference only and are not intended to be part of, or to  affect the meaning or interpretation of, this Agreement. Any reference herein to an agreement entered into in connection with the issuance of  securities contemplated therein as of the date hereof shall mean such agreement as it may be amended, modified or supplemented in accordance  with its terms.
+
+Section 19. Amendment; Intention of Parties. This Agreement may be amended by any written instrument (including by an amendment and  restatement hereof) at any time after the date hereof by the parties hereto.
+
+The Company acknowledges and agrees that the Remarketing Agent is acting solely in the capacity of an arm's length contractual counterparty to  the Company with respect to the Remarketing contemplated hereby (including in connection with determining the terms of the Remarketing) and  not as a financial advisor or a fiduciary to, or an agent of, the Company or any other person. Additionally, the Remarketing Agent is not advising  the Company or any other person as to any legal, tax, investment, accounting or regulatory matters in any jurisdiction. The Company shall consult  with its own advisors concerning such matters and shall be responsible for making its own independent investigation and appraisal of the  transactions contemplated hereby, and the Remarketing Agent shall have no responsibility or liability to the Company with respect thereto. Any  review by the Remarketing Agent of the Company, the transactions
+
+28
+
+
+
+
+
+
+
+contemplated hereby or other matters relating to such transactions will be performed solely for the benefit of the Remarketing Agent and shall not  be on behalf of the Company.
+
+[The rest of this page has been left blank intentionally; the signature page follows.]
+
+29
+
+
+
+
+
+
+
+If the foregoing correctly sets forth the agreement among the Company, the Trust and the Remarketing Agent, please indicate your acceptance in  the space provided for that purpose below.
+
+30
+
+            Very truly yours,    REINSURANCE GROUP OF AMERICA,  INCORPORATED
+
+
+
+  By:/s/ Todd C. Larson       Name:Todd C. Larson       Title: EVP, Corporate Finance &Treasurer       RGA CAPITAL TRUST I     By:/s/ Todd C. Larson       Name:Todd C. Larson       Title: Administrative Trustee               BARCLAYS CAPITAL INC.     By:/s/ Gary Antenberg       Authorized Representative
+
+
+
+
+
+
+
+SCHEDULE 1
+
+Issuer Free Writing Prospectus dated March [1], 2011 Filed pursuant to Rule 433(d) Relating to Preliminary Prospectus Supplement dated February [16], 2011 Registration Statement Nos. 333-172296 and 333-172296-01
+
+Term Sheet  Remarketing Preferred Securities of RGA Capital Trust I         Issuer:    RGA Capital Trust 1       Securities Remarketed:    $___ Remarketed Preferred Securities       Maturity Date:    June [5], 2011       Pricing Date:    March [1], 2011       Settlement Date:    March [4], 2010       Distribution Rate:    ___% per annum       Distribution Dates:     March 15, 2011 for the period from the settlement date to and including March 14, 2011 and June 6,  2011 for the period from March 15, 2011 to and including June 4, 2011.       Security Ratings (Expected)*:    ___(Moody's) / ___(S&P) / ___(A.M. Best)       Guarantee:     Reinsurance Group of America, Incorporated has guaranteed payment of distributions to the extent  described in the prospectus supplement and prospectus       Deferral of Distributions:    None       CUSIP:    74956T 20 4       Remarketing Agent:    Barclays Capital Inc.
+
+
+
+*   An explanation of the significance of ratings may be obtained from the rating agencies. Generally, rating agencies base their ratings on such  material and information, and such of their own investigations, studies and assumptions, as they deem appropriate. The rating of the notes  should be evaluated independently from similar ratings of other securities. A credit rating of a security is not a recommendation to buy, sell  or hold securities and may be subject to review, revision, suspension, reduction or withdrawal at any time. by the assigning rating agency
+
+
+
+
+
+
+
+The Issuers (Reinsurance Group of America, Incorporated and RGA Capital Trust I) have filed a registration statement, including a prospectus,  which consists of a preliminary prospectus supplement, dated February 16, 2011 and an attached prospectus dated February 15, 2011, with the  Securities and Exchange Commission for the remarketing to which this communication relates. Before you invest, you should read the  prospectus in that registration statement, the prospectus supplement and other documents the Issuers have filed with the SEC for more complete  information about the Issuers and this remarketing. You may get these documents for free by visiting EDGAR on the SEC website at  www.sec.gov. Alternatively, the Issuers or the Remarketing Agent will arrange to send you the prospectus if you request by calling Barclays  Capital toll free at 1-888-603-5847.
+
+Any disclaimer or other notice that may appear below is not applicable to this communication and should be disregarded. Such disclaimer or notice  was automatically generated as a result of this communication being sent by Bloomberg or another email system.
+
+2
+
+
+
+
+
+
+
+SCHEDULE 2
+
+SUBSIDIARIES OF  REINSURANCE GROUP OF AMERICA, INCORPORATED
+
+Manor Reinsurance, Ltd., Barbados corporation owned by RGA Reinsurance Company  Parkway Reinsurance Company, Missouri corporation  Reinsurance Company of Missouri, Incorporated, Missouri corporation  RGA Americas Reinsurance Company, Ltd., Barbados corporation  RGA Atlantic Reinsurance Company, Ltd., Barbados corporation  RGA Australian Holdings Pty, Limited, Australian corporation  RGA Capital Limited, United Kingdom corporation  RGA Capital Trust I, Delaware statutory business trust  RGA Financial Group, L.L.C. — 55% owned by RGA Reinsurance Company (Barbados) Ltd. and 45% owned by Reinsurance Group of America,  Incorporated  RGA Global Reinsurance Company, Ltd., Bermuda corporation  RGA Holdings Limited, United Kingdom corporation  RGA International Corporation (Nova Scotia ULC)  RGA International Division Sydney Office Pty. Ltd, Australian corporation  RGA International Reinsurance Company Limited, Ireland corporation  RGA International Services Pty Ltd., Australian corporation  RGA Life Reinsurance Company of Canada, Federal corporation  RGA Reinsurance (UK) Limited, United Kingdom corporation  RGA Reinsurance Company (Barbados) Ltd., Barbados corporation  RGA Reinsurance Company of Australia Limited, Australian corporation  RGA Reinsurance Company of South Africa, Limited, South African corporation  RGA Reinsurance Company, Missouri corporation  RGA Services (Singapore) Pte Ltd., a Singapore corporation  RGA Services India Private Limited, Indian corporation  RGA South African Holdings (Pty) Limited, South African corporation  RGA Technology Partners, Inc., Missouri corporation  RGA UK Services Limited (formerly RGA Managing Agency Limited, United Kingdom corporation)  RGA Worldwide Reinsurance Company, Ltd., Barbados corporation  Rockwood Reinsurance Company, a Missouri corporation  Timberlake Financial, L.L.C., Delaware corporation  Timberlake Reinsurance Company II, South Carolina corporation
+
+
+
+
+
+
+
+SCHEDULE 3
+
+JURISDICTIONS OF FOREIGN QUALIFICATION
+
+RGA Reinsurance Company:
+
+Alabama
+
+California
+
+Colorado
+
+Florida
+
+Virginia
+
+RGA Life Reinsurance Company of Canada:
+
+British Columbia

@@ -1,0 +1,921 @@
+EXHIBIT 10.1
+
+JOINT DEVELOPMENT AGREEMENT
+
+between
+
+FUELCELL ENERGY, INC.
+
+and
+
+EXXONMOBIL RESEARCH AND ENGINEERING COMPANY
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+TABLE OF CONTENTS ARTICLE 1 - DEFINITIONS 1 ARTICLE 2 - PROGRAM 1 ARTICLE 3 - PROGRAM GOVERNANCE 2 ARTICLE 4 - DISCLOSURE, CONFIDENTIALITY AND RESTRICTED USE 3 ARTICLE 5 - PUBLICITY AND PUBLICATIONS 5 ARTICLE 6 - OWNERSHIP / PROCUREMENT OF PROGRAM RESULTS 6 ARTICLE 7 -LICENSE TO PROGRAM RESULTS 7 ARTICLE 8 - LICENSE TO BACKGROUND INFORMATION AND PATENTS 8 ARTICLE 9 - INFRINGEMENT OF THIRD PARTY PATENTS 11 ARTICLE 10 - PAYMENT 11 ARTICLE 11 - REPRESENTATIONS, WARRANTIES, INDEMNITIES AND LIABILITIES 13 ARTICLE 12 - TERM AND TERMINATION 14 ARTICLE 13 - ARBITRATION AND GOVERNING LAW 17 ARTICLE 14 - ASSIGNMENT 18 ARTICLE 15 - FORCE MAJEURE 18 ARTICLE 16 - ADDRESSES AND NOTICES 18 ARTICLE 17 - COMPLIANCE 19 ARTICLE 18 - RECORDS AND AUDIT 20 ARTICLE 19 - TAXES 20 ARTICLE 20 - ADDITIONAL PROVISIONS 20 APPENDIX A - DEFINITIONS 24 APPENDIX B - SAMPLE PROJECT DESCRIPTION FORMAT 30
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+JOINT DEVELOPMENT AGREEMENT
+
+This Agreement is made as of the Effective Date between:
+
+ExxonMobil Research and Engineering Company, a corporation of the State of Delaware having offices at 1545 Route 22 East, Annandale, New Jersey 08801 ("ExxonMobil"); and
+
+FuelCell Energy, Inc., a corporation of the State of Delaware having offices at 3 Great Pasture Road, Danbury, Connecticut 06810 ("FCE").
+
+ExxonMobil and FCE are engaged in collaborative research and development projects to evaluate and develop Molten Carbonate Fuel Cells (MCFCs) to reduce carbon dioxide emissions (i.e., achieve low cost carbon dioxide capture). ExxonMobil and FCE wish to further the research and development efforts to evaluate and develop new and/or improved MCFCs to reduce carbon dioxide emissions from industrial and power sources ("Scope"). Therefore, in consideration of the foregoing premises and mutual covenants contained herein, ExxonMobil and FCE (each a "Party" and collectively the "Parties") agree as follows:
+
+ARTICLE 1 - DEFINITIONS
+
+1.01 Definitions. The terms appearing in this Agreement in initial capital letters, not otherwise defined in the preamble or body of this Agreement, are defined in Appendix A.
+
+ARTICLE 2 - PROGRAM
+
+2.01 Program / Projects. The collaborative research and development effort will comprise one or more mutually agreed upon projects within the Scope during the Term of this Agreement (each a "Project" and, collectively, the "Projects" or the "Program"). The details of each Project will be described in a written, mutually agreed upon document ("Project Description") - a template for which is set forth in Appendix B. Each Project Description will specify the scope and content of the Project, the work to be undertaken by each Party and potential third parties, the deliverables, the timing, any payments to be made not otherwise set forth in this Agreement, and any other related objectives and expectations. When completed and signed by duly authorized representatives of both Parties, each Project Description will become part of this Agreement and will be governed by the terms and conditions of this Agreement. Neither Party makes any representations as to the number, frequency, or monetary value of the Projects, except as otherwise set forth herein or in any Project Description.
+
+2.02 Subcontracting. ExxonMobil hereby consents to FCE hiring trade contractors commonly used for facility modifications and individual engineering contractors and individual staff from temporary agencies as needed to perform work pursuant to a Project Description, provided that such contractors and staff are under confidentiality and use restrictions no less restrictive than the terms and conditions set forth herein.
+
+2.03 Work Exclusivity/Independent Work. During the Term of this Agreement, FCE will not conduct any Work using Generation 1 Technology in Carbon Capture Applications or any Work using Generation 2 Technology, independently or with third parties outside this Agreement, without prior written approval from ExxonMobil. Notwithstanding the foregoing, ExxonMobil hereby grants approval for FCE solely to conduct Authorized Work using Generation 1 Technology with Authorized Third Parties for Carbon Capture Applications and any Work using Generation 2 Technology solely for Power Applications and Hydrogen Applications.
+
+Page 1 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+ARTICLE 3 - PROGRAM GOVERNANCE
+
+3.01 Steering Committee. Promptly after the Effective Date, the Parties will establish a committee that will oversee technical support and provide overall supervision and administrative guidance for the Program ("Steering Committee" or "SC"), further detailed as follows -
+
+(a) Composition. Each Party will appoint in writing one or more of its employees as SC members. Each Party will have the right to change its SC members at any time by giving written notice of such change to the other Party.
+
+(b) Meetings. Meetings of the SC will be in person or by phone at a location and time agreed to in advance by the SC members.
+
+(c) Other Attendees. In addition to the attendance of SC members, with prior written notice to the other Party's SC members, each Party may also bring to any SC meeting such technical and other advisors as it may deem appropriate, provided that such advisors are employees of a Party or its Affiliates and are under written confidentiality and use restrictions at least as strict as those imposed herein. Otherwise, a Party's additional invitees may attend a SC meeting only with the other Party's advance written approval.
+
+(d) Responsibilities. The responsibilities of the SC will include, but are not limited to:
+
+i. Project Endorsement and Monitoring. The SC will review and approve each Project Description and amendment thereto prior to execution by the Parties. (However, no Project Description or amendment thereto will be effective unless and until it is executed by duly authorized representatives of both Parties.) The SC will periodically monitor the ongoing status of all Projects, and make adjustments to priorities within and between the Projects.
+
+ii. Dispute Resolution. Assist the Parties in resolving any disputes.
+
+(e) Votes. Each Party only gets one vote on the SC regardless of the number of SC members it appoints. Except as otherwise stated in this Agreement, all decisions by the SC will be by unanimous agreement. In the absence of unanimity, ExxonMobil's SC representatives will have final decision making authority with respect to only the following decisions required by the SC: whether and where to seek patent protection and whether to maintain patent assets, subject to the provisions of Paragraph 6.04 (Solicitation of Program Patents Discretionary).
+
+(f) Minutes. All decisions by the SC will be documented in agreed upon minutes distributed to SC members after the meeting.
+
+(g) No Amendment Rights. The SC may recommend but has no authority to amend the terms and conditions of this Agreement.
+
+(h) Costs. ExxonMobil will bear its own costs associated with participating in the SC. FCE's costs and expenses associated with its participation in the SC are included in each Project's budget as Direct Costs.
+
+3.02 Technical Managers. Each Party will appoint one manager for each Project ("Technical Manager"). The Technical Managers will be responsible for the coordination of all technical activities arising under such Project, and will serve as their Party's technical liaison with the SC for the Project. Each Party will promptly notify the other Party in writing upon changing the appointments. The Technical Managers for each Project will be the primary technical contacts between the Parties for that Project. The Technical Managers for each Project will jointly:
+
+• direct the work performed under a Project in accordance with the terms and conditions of the Project Description;
+
+Page 2 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+• report to the SC on the progress of technical activities conducted under the Project;
+
+• monitor and coordinate all intellectual property activities relative to each Project; and
+
+• make recommendations to the SC on proposed publications containing Program Information.
+
+Unless otherwise mutually agreed, the Technical Managers for a Project will meet in person at least once each calendar quarter during a Project at such locations as the Technical Managers agree. The Technical Managers will communicate regularly by telephone or similar means between such meetings.
+
+ARTICLE 4 - DISCLOSURE, CONFIDENTIALITY AND RESTRICTED USE
+
+4.01 Program Information Disclosure, Confidentiality and Use Restriction. FCE will promptly disclose to ExxonMobil, in written or other tangible form, any and all Program Information including any Program Inventions. Except as otherwise permitted under this Agreement, FCE agrees to hold Program Information in confidence, and not to disclose or make it available to any third party without the express prior written consent of ExxonMobil, for a period commencing on the Effective Date and ending twenty (20) years thereafter. Without the express prior written consent of ExxonMobil, FCE agrees to use and practice Program Information only for the Program or as authorized in Article 7 (License to Program Results).
+
+4.02 Background Information Disclosure, Confidentiality and Use Restriction. Each Party will make available its Background Information to the other Party that it believes will be useful in carrying out work under the Program. Except as otherwise permitted under this Agreement, each Party agrees to hold the Background Information it receives from the other Party in confidence, and to not disclose or make available the other Party's Background Information to any third party without the express prior written consent of the other Party, for a period commencing on the Effective Date and ending twenty (20) years thereafter. Without the express prior written consent of the other Party, each Party agrees to use and practice the other Party's Background Information only for the Program or as authorized in Article 8 (License to Background Information and Patents).
+
+4.03 Non-Analysis of Background Samples. Except as otherwise agreed by the Parties in writing, each Party agrees not to determine or have determined the composition or physical structure of any Background Sample received from the other Party, which includes unused, used and spent Background Samples or portions thereof, whether by analyzing, having analyzed, inspection, reverse engineering or otherwise.
+
+4.04 Information Handling Obligations. Each Party will endeavor to mark Confidential Information as follows:
+
+(a) Confidential Information first disclosed in tangible form or electronically will be marked by the Disclosing Party as "confidential" or "proprietary" or with words of similar import when provided, indicating whether the information is "Program Information" or "Background Information";
+
+(b) Confidential Information first disclosed orally or by visual display will be identified by the Disclosing Party as "confidential" or "proprietary" or with words of similar import at first disclosure and subsequently confirmed as confidential in a summary provided in an e-mail or other written communication delivered to the other Party within thirty (30) days after first disclosure, that references the date of the confidential disclosure indicating whether the information is "Program Information" or "Background Information"; and
+
+(c) If a Sample is sent to the other Party, the Sample will be marked by the Disclosing Party as "confidential" or "proprietary" or with words of similar import at the time of disclosure indicating whether the Sample is "Program Information" or "Background Information".
+
+Page 3 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+The failure to appropriately mark information/materials as "confidential" or "proprietary" upon initial disclosure to the Receiving Party will not be considered a waiver of confidentiality. Information/materials marked as "proprietary" or "confidential" when first disclosed, without further identification of the category of confidential information, will be presumptively considered and treated as Program Information until the Disclosing Party notifies the Receiving Party otherwise in writing.
+
+4.05 Exceptions. For the purposes of this Agreement, the obligations of confidentiality and restricted use herein shall not apply to any information or materials to the extent the Receiving Party can establish by documentary evidence that one or more of the following exceptions apply:
+
+a. the information or material was already in the Receiving Party's or its Affiliate's lawful possession (free of any confidentiality and use restrictions) and was not previously acquired directly or indirectly from the other Party under a current obligation of confidentiality;
+
+b. the information or material was already in the public domain or subsequently entered the public domain after disclosure through no fault of the Receiving Party;
+
+c. the information or material was or is hereafter furnished to the Receiving Party, or its Affiliate, on a non- confidential basis by a third party legally entitled to provide the information or material without restriction;
+
+d. the information or material was independently developed by employees or agents of the Receiving Party or its Affiliate who did not have access to relevant information provided by the Disclosing Party; and/or
+
+e. the information or material was released from the confidentiality obligations of this Agreement by the Disclosing Party's written authorization.
+
+The later occurrence of any one of the aforementioned exceptions will not excuse any failure to adequately protect Confidential Information pursuant to this Agreement prior to the existence of the exception. More specific Confidential Information will not be deemed to be within the foregoing exceptions merely because it is embraced by more general information that is publicly available or in the possession of Receiving Party pursuant to one of the exceptions. Also a combination of features will not be deemed within the foregoing exceptions merely because individual features are publicly available or in Receiving Party's possession pursuant to one of the exceptions.
+
+4.06 Disclosure to Affiliates, Contractors, and Sub-licensees. Notwithstanding anything to the contrary in this Agreement, a Receiving Party may disclose a Disclosing Party's Confidential Information to its Affiliates, and said Receiving Party may disclose the Disclosing Party's Confidential Information to their respective contractors providing services in furtherance of a Project as well as to permitted sub-licensees hereunder, provided such Affiliates, contractors, and sub-licensees have agreed to be bound by confidentiality and limited use obligations no less protective of Disclosing Party's Confidential Information than the terms contained herein. The Receiving Party will be liable to the Disclosing Party for any unauthorized disclosure or misuse of the Disclosing Party's Confidential Information by such Affiliates, contractors, and sub-licensees.
+
+4.07 Compelled Disclosure. In the event that a Receiving Party (or its Affiliate) is required by law, court order or rule, or government authority to disclose the Confidential Information that Receiving Party is obligated to hold in confidence pursuant to Paragraph 4.01 (Program Information Disclosure, Confidentiality and Use Restriction) and/or Paragraph 4.02 (Background Information Disclosure, Confidentiality and Use Restriction), then the Receiving Party will promptly notify the Disclosing Party prior to disclosure in order to enable the Disclosing Party to seek a protective order at the Disclosing Party's sole expense. In any event, the Receiving Party who is required to disclose such information will request confidential treatment of the information and only disclose the minimum amount of information reasonably necessary to comply with such law, court order or rule, or government authority.
+
+Page 4 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+4.08 Disclosures in Patent Applications. Notwithstanding anything else in this Agreement, ExxonMobil may disclose the minimum amount of FCE's Confidential Background Information reasonably necessary to support a Program Patent subject to the review process in Paragraph 6.02 (Solicitation of Program Patents).
+
+4.09 Return/Destruction. At the Disclosing Party's written request, the Receiving Party agrees to return to Disclosing Party or, at Disclosing Party's option, dispose of or destroy, Disclosing Party's Confidential Background Information and any of Disclosing Party's unused Background Samples. However, notwithstanding anything else in this Paragraph, the Receiving Party may retain such documents and materials to the extent such documents and materials are identified as necessary for beneficial use of a further Project or a license granted herein and the Receiving Party has notified the Disclosing Party in writing of the need for such documents and materials. Any dispute over whether such documents and materials are necessary shall be escalated to senior management for resolution. Furthermore, notwithstanding anything else in this Paragraph 4.09, the Receiving Party may retain one (1) copy of such documents and materials in its secure files for the sole purpose of administering its obligations under this Agreement and the Receiving Party will not be required to purge or cause others to purge electronic archival media automatically generated by backup computer systems if said media will be destroyed pursuant to a systematic records retention process and not otherwise utilized.
+
+4.10 Third Party Information. Neither Party will knowingly disclose to the other Party any proprietary or confidential information belonging to a Non-Affiliated Third Party without the Receiving Party's prior written consent.
+
+ARTICLE 5 - PUBLICITY AND PUBLICATIONS
+
+5.01 Publicity. During the Term, and except for disclosures pursuant to Paragraphs 4.06 (Disclosure to Affiliates, Contractors and Sub-licensees), 4.07 (Compelled Disclosure), 4.08 (Disclosure in Patent Applications), or as otherwise permitted in this Agreement, the Parties agree that they will not disclose to any Non-Affiliated Third Party that they have entered into this Agreement, nor make any publications or publicity releases concerning the nature of this Agreement, without first acquiring the written consent of the other Party, which consent will not be unreasonably withheld, conditioned or delayed.
+
+Notwithstanding the foregoing, either Party may make such disclosure as it may determine to be required by applicable law (such as filing with the U.S. Securities and Exchange Commission), provided that in such case the Disclosing Party will provide advance notice of such disclosure to the other Party and, where legally permitted, an opportunity to redact its sensitive proprietary information from such disclosure.
+
+Further, during the Term, each Party agrees that it will not use the name, service mark or trademark of the other Party, or any Affiliate of the other Party, or provide any indication from which the identity of the other Party or its Affiliate may reasonably be inferred in any publicity release or other announcement, without first obtaining the written approval of the other Party. Notwithstanding the foregoing, each Party hereby grants approval for the other Party to use its name, service mark or trademark in promotional materials that have a generally accepted description of the Scope, which such generally accepted description shall be mutually agreed to in writing beforehand. An exception to this Paragraph will include U.S. patent prosecution that refers to this Agreement as a "joint research agreement" under 35 U.S.C. § 102(c).
+
+Further, each Party agrees to include appropriate attribution of the other Party in any publicity release, advertising, print, media or other announcement concerning the use of MCFCs for carbon capture, the Program or the Program Results.
+
+Page 5 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+5.02 Publications. The Parties recognize that Program Information may be suitable for publication either jointly or individually. Unless the other Party specifically requests in writing not to be credited, appropriate recognition of the support or encouragement of the other Party will be included in such publications. The Parties agree to cooperate with each other on the preparation of any such publications. If any proposed publication contains the non-publishing Party's Background Information, such information (including reference thereto) will be deleted at the non-publishing Party's request. No publication that violates Article 4 (Disclosure, Confidentiality and Restricted Use) or Paragraph 5.01 (Publicity) will be permitted without the prior written consent of the other Party which may be obtained from a duly authorized member of each Party.
+
+ARTICLE 6 - OWNERSHIP / PROCUREMENT OF PROGRAM RESULTS
+
+6.01 Ownership of Program Results. ExxonMobil will solely own Program Information, Program Patents, and copyrightable works resulting from the Program (collectively, "Program Results"), irrespective of whether the Program Results are conceived, created, developed or acquired by employees or other representatives of FCE, ExxonMobil, or both. FCE will assign, and hereby assigns, to ExxonMobil ownership of Program Results.
+
+6.02 Solicitation of Program Patents. ExxonMobil will have the sole responsibility and the exclusive right to prepare, file, prosecute, and maintain Program Patents pursuant to Paragraph 6.01 (Ownership of Program Results). Such right will include the right to determine if, where, and when patent applications are filed, and the scope of such patent applications. Notwithstanding the foregoing, ExxonMobil shall provide FCE notice of its intent to file any patent application containing FCE's Confidential Background Information and an opportunity for FCE to review any such patent application for FCE's Confidential Background Information. If FCE does not respond within thirty (30) days from ExxonMobil seeking such consent, then ExxonMobil may proceed with such filing. The cost of preparing, filing, prosecuting, and maintaining any such patent applications that ExxonMobil decides to pursue and maintain, as well as the cost of maintaining any patents resulting therefrom, will be paid in full by ExxonMobil. For Program Patents, if one or more employees or other representatives of FCE are determined to be inventors, then FCE will:
+
+(i) cause its employees, contractors, and consultants to render reasonable and timely assistance to ExxonMobil and its attorneys or agents;
+
+(ii) assign, and will cause its and its Affiliates' employees, contractors, and consultants to assign, its right, title, and interest in and to such Program Patent to ExxonMobil for filing; and
+
+(iii) cause its and its Affiliate employees, contractors, and consultants, to execute any documents as may be required to effect such assignments, or file, prosecute, and maintain any patent applications or patents that are based on, derived from, or protect such Program Patent.
+
+ExxonMobil will hold formal legal title to all such patent applications, and resulting patents.
+
+6.03 Cooperation in Soliciting Program Patents. The Parties agree to cooperate in the preparation, filing, prosecution, and securing of patent applications and patents, all without charge to such other Party. When ExxonMobil's patent counsel sends to FCE documents for review that contains FCE Confidential Background Information, the Parties will follow the review process pursuant to Paragraph 6.02 (Solicitation of Program Patents). Upon FCE's written request, ExxonMobil will provide a courtesy copy of any Program Patent that does not contain any FCE Confidential Background Information prior to filing such document. All Program Patent filings, and the status thereof, will be reported to the Steering Committee.
+
+Page 6 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+6.04 Solicitation of Program Patents Discretionary. ExxonMobil has the unencumbered right to file or not to file, prosecute, defend, maintain, abandon, or enforce any Program Invention or Program Patent. Notwithstanding the foregoing, in the event ExxonMobil decides not to prosecute, defend, enforce, maintain or decides to abandon any Program Patent, then ExxonMobil will provide notice thereof to FCE, and FCE will then have the right, but not the obligation, to prosecute or maintain the Program Patent and sole responsibility for the continuing costs, taxes, legal fees, maintenance fees and other fees associated with that Program Patent. The ownership of such Program Patent will remain with ExxonMobil.
+
+The abandonment of a pending patent application in favor of a continuation patent application, continuation-in-part patent application, or divisional patent application, or in favor of another application of a related subject (e.g. to overcome a double patenting rejection) and ExxonMobil's decision not to file any Program Patent, will not be deemed to be an election not to continue to prosecute, issue, or maintain any Program Patent under Paragraph 6.04. In addition, (a) the failure to appeal a patent office or any administrative tribunal or judicial decision adverse to any patent or patent application, or (b) in the case of a co-pending non-provisional application in the U.S., (i) failure to enter an international patent application into the national phase, or (ii) to ratify a patent in any country, will not be deemed to be an election not to continue to prosecute, issue, or maintain any Program Patent under Paragraph 6.04.
+
+6.06 Joint Research Agreement. The Parties acknowledge and agree that this Agreement is a "joint research agreement" as defined in 35 U.S.C. §100(h). The specification of any patent application filed pursuant to this Agreement may contain (or may be amended to contain) language required to invoke 35 U.S.C. §102(b)(2)(C) and §102(c) as applicable. Notwithstanding anything to the contrary in Paragraph 5.01 (Publicity), ExxonMobil will have the right to invoke these statutory provisions when exercising its rights to file patent applications under this Agreement, without the prior written consent of FCE, subject to the provisions of Paragraph 6.02 (Solicitation of Program Patents). Where ExxonMobil intends to invoke these statutory provisions, FCE, upon request, will cooperate and coordinate its activities with ExxonMobil with respect to any submissions, filings or other activities in support thereof.
+
+6.07 Inventor Awards. A Party will not be responsible for any inventor awards or compensation that may be owed to the other Party's employee(s) or to any employees of the other Party's Affiliates, agents, consultants, or contractors, who are inventors of any Program Invention.
+
+6.08 Disposal of Prior JDA Project Patents. During the Term of this Agreement and for two (2) years thereafter, in the event that either Party decides to sell or convey its interest in or otherwise dispose of any Prior JDA Project Patent to any Non-Affiliated Third Party, such Party will inform the other Party, who will then have the right of first refusal to purchase or otherwise acquire the sole interest at same or better terms. Any sale of a Prior JDA Project Patent to a Non-Affiliated Third Party is subject to the licenses granted and other obligations set forth in this Agreement.
+
+ARTICLE 7 - LICENSE TO PROGRAM RESULTS
+
+7.01 Grants to FCE of Program Results.
+
+(a) FCE's R&D Rights. ExxonMobil grants FCE a worldwide, non-exclusive, royalty-free, non-transferable (except pursuant to Article 14 (Assignment)), non-sub-licensable (except as set forth in this Paragraph 7.01(a)) right and license to practice Program Results solely to conduct research and development for the Program. More particularly, said right and license to practice includes the right to use, reproduce, and create derivative works of Program Information under applicable copyrights and to make, use, and import (but not sell or offer to sell) under the claims of Program Patents, in each case solely for research and development for the Program. Said right and license may be extended to contractors performing work on behalf of FCE but is not otherwise sub-licensable.
+
+Page 7 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+(b) FCE's Commercial Rights. ExxonMobil agrees to grant or hereby grants FCE the following rights and licenses:
+
+(1) Power Applications and Hydrogen Applications. ExxonMobil grants FCE a worldwide, non-exclusive, royalty-free, perpetual, irrevocable (except as stated in Paragraphs 12.03 (Failure to Perform), 12.04 (Other Termination), and 12.05 (Bankruptcy)), sub-licensable, non-transferable (except pursuant to Article 14 (Assignment)), right and license to practice Program Results solely for Power Applications and Hydrogen Applications. More particularly, said right and license to practice Program Results solely for Power Applications and Hydrogen Applications includes the right to use, reproduce, and create derivative works of Program Information under applicable copyrights and to make, use, import, and sell or offer to sell under the claims of Program Patents; and
+
+(2) Carbon Capture Applications. In the event ExxonMobil notifies FCE that it has formally decided not to pursue Generation 2 Technology for Carbon Capture Applications, then upon FCE's written request, ExxonMobil agrees to negotiate a grant to FCE, under commercially reasonable terms to be determined in good faith, a worldwide, non-exclusive, royalty-bearing (with the royalty to be negotiated), non-sub- licensable (except as set forth in this Paragraph 7.01(b)(2)), non-transferable (except pursuant to Article 14 (Assignment)), right and license to practice Program Results solely for Carbon Capture Applications. More particularly, said right and license to practice Program Results solely for Hydrogen Applications and Carbon Capture Applications will include the right to use, reproduce, and creative derivative works of Program Information under applicable copyrights and to make, use, import, and sell or offer to sell under the claims of Program Patents. Said right and license will be extendable to contractors performing work on behalf of FCE but will not otherwise sub-licensable. Nothing in this Paragraph 7.01(b)(2) will create an obligation on the part of ExxonMobil to grant FCE a right or license under Program Results if the Parties do not agree on the terms and conditions of such license.
+
+ARTICLE 8 - LICENSE TO BACKGROUND INFORMATION AND PATENTS
+
+8.01 Ownership Retained. Each Party will retain its title and ownership rights to its Background Information and Background Patents in all applicable jurisdictions.
+
+8.02 Grant of Rights to Background Information and Background Patents.
+
+(a) Grant to ExxonMobil.
+
+1) Carbon Capture Applications and Hydrogen Applications. To the extent not already granted pursuant to the License Agreement, FCE grants ExxonMobil and its Affiliates a worldwide, non-exclusive, royalty-free, irrevocable, perpetual, sub-licensable, non-transferable (except pursuant to Article 14 (Assignment)) right and license to practice FCE Background Information and FCE Background Patents for Generation 2 Technology in Carbon Capture Applications and Hydrogen Applications. More particularly, said right and license to practice FCE Background Information and FCE Background Patents for Generation 2 Technology in Carbon Capture Applications and Hydrogen Applications includes the right to use, reproduce, and create derivative works of FCE Background Information under applicable copyrights and the right to make, use, import, and sell or offer to sell under the claims of FCE Background Patents.
+
+Page 8 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+2) Other Applications. In the event FCE notifies ExxonMobil that it has formally decided not to pursue Generation 2 Technology for Power Applications, then upon ExxonMobil's written request, FCE agrees to negotiate a grant to ExxonMobil and its Affiliates, under commercially reasonable terms to be determined in good faith, a worldwide, royalty-bearing (with the royalty to be negotiated), non-exclusive, sub-licensable right and license to practice FCE Background Information and FCE Background Patents for Generation 2 Technology in any application outside of Carbon Capture Applications and Hydrogen Applications. More particularly, said right and license to practice FCE Background Information and FCE Background Patents for Generation 2 Technology in any application outside of Carbon Capture Applications and Hydrogen Applications will include the right to use, reproduce, and create derivative works of FCE Background Information under applicable copyrights and the right to make, use, import, and sell or offer to sell under the claims of FCE Background Patents. Nothing in this Paragraph 8.02(a)(2) will create an obligation on the part of FCE to grant ExxonMobil a license or right under FCE Background Patents or FCE Background Information if the Parties do not agree on the terms and conditions of such license.
+
+(b) Grant to FCE.
+
+1) Generation 1 Technology.
+
+i. Outside of Carbon Capture Applications. ExxonMobil grants FCE a worldwide, non-exclusive, royalty- free, non-sub-licensable (except as set forth herein), perpetual, irrevocable (except as stated in Paragraphs 12.03 (Failure to Perform), 12.04 (Other Termination), and 12.05 (Bankruptcy)), non- transferable (except pursuant to Article 14 (Assignment)) right and license to practice ExxonMobil Background Information and ExxonMobil Background Patents for Generation 1 Technology in any applications outside of Carbon Capture Applications. More particularly, said right and license to practice ExxonMobil Background Information and ExxonMobil Background Patents for Generation 1 Technology in any applications outside of Carbon Capture Applications includes the right to use, reproduce, and create derivative works of ExxonMobil Background Information under applicable copyrights and the right to make, use, import, and sell or offer to sell under the claims of ExxonMobil Background Patents. All rights and licenses in this Paragraph (b)(1)(i) may be extended to contractors performing work on behalf of FCE but are not otherwise sub-licensable.
+
+ii. Authorized Third Parties. ExxonMobil grants FCE a worldwide, non-exclusive, royalty-free, non-sub- licensable (except as set forth herein), perpetual, irrevocable (except as stated in Paragraphs 12.03 (Failure to Perform), 12.04 (Other Termination), and 12.05 (Bankruptcy)), non-transferable (except pursuant to Article 14 (Assignment)) right and license to practice ExxonMobil Background Information and ExxonMobil Background Patents for Generation 1 Technology in Carbon Capture Applications, solely to conduct Authorized Work with Authorized Third Parties. More particularly, said right and license to practice ExxonMobil Background Information and ExxonMobil Background Patents for Generation 1 Technology in Carbon Capture Applications includes the right to use, reproduce, and create derivative works of ExxonMobil Background Information under applicable copyrights and the right to make, use, and import (but not sell or offer to sell) under the claims of ExxonMobil Background Patents, solely to conduct Authorized Work with Authorized Third Parties. All rights and licenses in this Paragraph (b)(1)(ii) may be extended to contractors performing work on behalf of FCE but are not otherwise sub-licensable.
+
+Page 9 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+iii. Carbon Capture Application. In the event that ExxonMobil fails to notify FCE before the end of the Term of the Agreement of ExxonMobil's intent to negotiate a subsequent or follow-on commercial agreement, ExxonMobil agrees to negotiate a grant to FCE, under commercially reasonable terms to be determined in good faith, a worldwide, royalty-free, non-exclusive, non-sub-licensable (except as set forth herein) right and license to practice ExxonMobil Background Information and ExxonMobil Background Patents for Generation 1 Technology in Carbon Capture Applications. More particularly, said right and license to practice ExxonMobil Background Information and ExxonMobil Background Patents for Generation 1 Technology in Carbon Capture Applications will include the right to use, reproduce, and create derivative works of ExxonMobil Background Information under applicable copyrights and the right to make, use, import, and sell or offer to sell under the claims of ExxonMobil Background Patents. The rights and licenses in this Paragraph (b)(1)(iii) will be extendable t o contractors performing work on behalf of FCE but will not otherwise sub-licensable. Nothing in this section will create an obligation on the part of ExxonMobil to grant FCE a license or right under ExxonMobil Background Patents or ExxonMobil Background Information if the Parties do not agree on the terms and conditions of such license.
+
+2) Generation 2 Technology.
+
+i. Power Applications and Hydrogen Applications. ExxonMobil grants FCE a worldwide, non-exclusive, royalty-free, non-sub-licensable (except as set forth herein), perpetual, irrevocable (except as stated in Paragraphs 12.03 (Failure to Perform), 12.04 (Other Termination), and 12.05 (Bankruptcy)), non- transferable (except pursuant to Article 14 (Assignment)) right and license to practice ExxonMobil Background Information and ExxonMobil Background Patents for Generation 2 Technology in Power Applications and Hydrogen Applications. More particularly, said right and license to practice ExxonMobil Background Information and ExxonMobil Background Patents for Generation 2 Technology in Power Applications and Hydrogen Applications includes the right to use, reproduce, and create derivative works of ExxonMobil Background Information under applicable copyrights and the right to make, use, import, and sell or offer to sell under the claims of ExxonMobil Background Patents. The right and license in this Paragraph (b)(2)(i) may be extended to contractors performing work on behalf of FCE but is not otherwise sub-licensable.
+
+ii. Outside of Power Applications and Hydrogen Applications. In the event ExxonMobil notifies FCE that it has formally decided not to pursue Generation 2 Technology for Carbon Capture Applications, then upon FCE's written request, ExxonMobil agrees to grant to FCE, under commercially reasonable terms to be determined in good faith, a worldwide, royalty-bearing (with the royalty to be negotiated), non- exclusive, sub-licensable, right and license to practice ExxonMobil Background Information and ExxonMobil Background Patents for Generation 2 Technology in any application outside of Power Applications and Hydrogen Applications. More particularly, said right and license to practice ExxonMobil Background Information and ExxonMobil Background Patents for Generation 2 Technology in any application outside of Power Applications includes the right to use, reproduce, and create derivative works of ExxonMobil Background Information under applicable copyrights and the right to make, use, import, and sell or offer to sell under the claims of ExxonMobil Background Patents. Nothing in this section will create an obligation on the part of ExxonMobil to grant FCE a license or right under ExxonMobil Background Patents or ExxonMobil Background Information if the Parties do not agree on the terms and conditions of such license.
+
+Page 10 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+(c) No Further Rights. Notwithstanding any other provision in this Agreement, under no circumstances will a Party to this Agreement, as a result of this Agreement, have any right under or to the Background Information and Background Patents of the other Party except as set forth in this Article. Any other right and license to Background Information and Background Patents not found in this Article will be subject to a separate license agreement to be negotiated between the Parties, as necessary.
+
+ARTICLE 9 - INFRINGEMENT OF THIRD PARTY PATENTS
+
+9.01 Notification of Potential Infringement. If either Party becomes aware of alleged infringement of a third party's intellectual property rights relating to its work under this Agreement, such Party will promptly notify the other Party of such discovery and the Parties will consult with each other and discuss any action to be taken.
+
+9.02 Defense of Infringement Claims. Each Party will be responsible for all expenses (including attorney fees) and damages (e.g. royalties, settlement costs) incurred in defense of a claim of infringement by its own equipment, products, or processes, or by equipment, products, or processes of its Affiliates, contractors or consultants.
+
+9.03 Settlements. Each Party may resolve any risk or threat, or settle any suits or action related to use of any Program Results, without the prior approval of the other Party unless such resolution or settlement would cause the other Party to be: (a) obligated to make any payment or part with any tangible or intangible property right, or (b) obligated to assume any obligations with respect thereto, or (c) subject to any injunction.
+
+ARTICLE 10 -PAYMENT
+
+10.01 Project Costs.
+
+a) ExxonMobil will reimburse FCE for Research Costs (i.e., cumulative FTE Costs and Direct Costs) for each Project subject to total caps set forth herein and in the relevant Project Description. Research Costs of FCE paid for by ExxonMobil will be limited to FTE Costs for time actually spent on the Program and Direct Costs actually incurred and approved in advance by the Steering Committee. The cumulative Research Costs for the Program will not exceed forty-five million United States dollars ($45,000,000 USD) over the Term of the Agreement ("Total Research Cost"). ExxonMobil will reimburse FCE for Research Costs after receipt of invoices on a monthly basis. Invoices for Direct Costs will be supported by relevant third party invoices received by FCE documenting such costs. Materials shall be invoiced as incurred and subject to a thirty percent (30%) service fee. All such payments will be made after ExxonMobil's receipt of invoices in accordance with the invoicing procedures specified in Paragraphs 10.01(b)-(e) and in Paragraph 10.04 (Invoices).
+
+b) First Invoice. FCE will invoice ExxonMobil an advance payment on or promptly after the Effective Date ("Initial Payment"), said Initial Payment not to exceed one-twelfth (1/12) of the Total Research Cost (i.e., three-million and seven-hundred and fifty thousand United States dollars ($3,750,000 USD)). Notwithstanding anything contained herein to the contrary, including Paragraph 10.04 (Invoices), such payment will be made within fifteen (15) days after ExxonMobil's receipt of invoice.
+
+c) Subsequent Monthly Invoices. Within fifteen (15) days after the end of each calendar month that occurs during the remainder of the Term of the Agreement, subject to Paragraph 10.01(e), FCE will calculate and invoice ExxonMobil for the actual amounts incurred (for charges permitted in accordance with the respective Project Description(s)) during the immediately preceding calendar month.
+
+Page 11 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+d) End of Term of the Program.
+
+i. By the fifteenth (15th) day of the last month of the Term of the Agreement, ExxonMobil will have been invoiced for the actual charges incurred in all of the prior months of the Term of the Agreement, but the most recently issued invoice will not be due. Therefore, at such time ExxonMobil will not have yet paid for the last two (2) months of the Term of the Agreement. When FCE issues the invoice during the last month of the Term of the Agreement ("8th Inning Invoice"), FCE will apply some or all of the Initial Payment, as applicable, as credit against the amount due.
+
+ii. Within fifteen (15) days after the end of the Term of the Agreement, FCE will issue an invoice ("9th Inning Invoice") for the actual charges incurred during the last month of the Term of the Agreement, subject to Paragraph 10.01(a). FCE will apply any balance of the Initial Payment remaining after the 8th Inning Invoice as a credit towards the amount due on the 9th Inning Invoice. If after applying such credit, a balance of the Initial Payment still remains, FCE will refund the balance to ExxonMobil within thirty (30) days, unless otherwise mutually agreed (such as the Parties mutually agreeing to enter into a new Project and apply the balance as a credit towards amounts payable by ExxonMobil thereunder).
+
+e) Maximum Charges. The invoices sent by FCE under the foregoing procedure for each year of the Agreement may not in the aggregate be more than half the Total Research Cost, without prior written consent of ExxonMobil or amendment to the Project Description. All such payments will be made after ExxonMobil's receipt of invoice in accordance with the invoicing procedures specified Paragraph 10.04 (Invoices).
+
+10.02 Up-Front Exclusivity and Technology Access Payment. In exchange for FCE working exclusively with ExxonMobil during the Term of the Agreement, pursuant to Paragraph 2.03 (Work Exclusivity/Independent Work), and ExxonMobil's access to FCE Background Patents, pursuant to Paragraph 8.02(a) (Grant of Rights to Background Information and Background Patents), on the Effective Date, FCE will separately invoice, and ExxonMobil will pay a one-time up-front fee ("Exclusivity and Technology Access Fee") of five million United States dollars ($5,000,000 USD).
+
+Such payment will be made within fifteen (15) days after ExxonMobil's receipt of invoice, notwithstanding anything contained herein to the contrary, including Paragraph 10.04 (Invoices).
+
+10.03 Milestone Payments. As further consideration for technical progress in the Program, ExxonMobil shall pay the following sums upon achievement of the following Program milestones ("Milestone Payments"):
+
+(a) ExxonMobil will pay FCE a first Milestone Payment of five million United States dollars ($5,000,000 USD) upon FCE achieving Milestone 1 to ExxonMobil's satisfaction; and
+
+(b) ExxonMobil will pay FCE a second and final Milestone Payment of five million United States dollars ($5,000,000 USD), upon FCE achieving Milestone 2 to ExxonMobil's satisfaction.
+
+All such Milestone Payments will be made after ExxonMobil's receipt of invoice in accordance with the invoicing procedures specified Paragraph 10.04 (Invoices). The obligation to pay any such installment ends upon termination of this Agreement by either Party for any reason prior to FCE achieving the respective milestone.
+
+Page 12 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+10.04 Invoices. FCE will invoice ExxonMobil for any amount due under a Project at the address (including the email address) in Article 16 (Addresses and Notices). Each invoice will identify this Agreement's identification number LAW-2019-3608, the number of the particular Project Description to which it pertains, and details of FTE Costs (including unique employee identifiers of the FTEs) and Direct Costs. FCE will not include charges relating to more than one Project Description in any given invoice. Except as otherwise specifically provided herein, ExxonMobil agrees to pay FCE the amount of each invoice under this Agreement within thirty (30) days following ExxonMobil's receipt. Notwithstanding the foregoing, if ExxonMobil has a good faith dispute regarding any amounts invoiced by FCE, ExxonMobil may withhold payment for the disputed amount, provided that ExxonMobil pays the undisputed amount and notifies FCE in writing of the specific amount and nature of the dispute promptly upon receipt of FCE's invoice in which case the Parties shall attempt to resolve the dispute in good faith. The Parties shall endeavor to resolve such dispute within fifteen (15) days of notice of the dispute, and ExxonMobil shall remit payment to FCE within fifteen (15) days of resolution of such dispute.
+
+All such payments by ExxonMobil to FCE will be made by wire transfer in United States Dollars. FCE shall provide the Bank Name, Bank Address, Bank Account, and Swift Code in each invoice.
+
+ARTICLE 11 - REPRESENTATIONS, WARRANTIES, INDEMNITIES AND LIABILITIES
+
+11.01 Mutual Representations and Warranties. Each Party hereby represents and warrants to the other, to the best of its knowledge, that:
+
+(a) as of the Effective Date:
+
+1. the execution, delivery and performance of this Agreement by such Party does not conflict with any agreement, instrument or undertaking, oral or written, to which it is a party or by which it may be bound, and
+
+2. all necessary consents, approvals and authorizations of all governmental authorities and third parties required to be obtained by such Party in connection with the execution, delivery, and performance of this Agreement have been or will be obtained;
+
+(b) it owns or controls, in the same sense of having the right to license or convey, any Background Information to be provided to the other Party hereunder, and at the date of transmittal to the other Party, such Background Information in the Disclosing Party's good faith belief will not be subject to any encumbrances or restrictions on use by any third party that would materially affect the Receiving Party's exploitation of the rights granted in this Agreement; and
+
+(c) all of its professional and technical personnel who perform services on or for all Projects are under written obligation:
+
+(1) not to disclose secret or confidential information except as authorized under this Agreement or by their employer;
+
+(2) to assign to their employer all Program Inventions; and
+
+(3) to assign to their employer sole ownership of copyrights to all copyrightable works created in connection with any Project.
+
+Page 13 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+11.02 Warranty and Liability Disclaimers. RECEIVING PARTY IS RESPONSIBLE FOR DETERMINING HOW TO USE THE INFORMATION AND MATERIALS PROVIDED HEREUNDER. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, DISCLOSING PARTY DISCLAIMS LIABILITY FOR ANY LOSS OR DAMAGE SUSTAINED BY RECEIVING PARTY (BUT NOT ANY THIRD PARTY) THAT MAY OCCUR FROM RECEIVING PARTY'S USE OF, OR RELIANCE ON, SUCH INFORMATION AND MATERIALS AND RECEIVING PARTY RELEASES DISCLOSING PARTY AND ITS AFFILIATES FROM AND FOR ANY SUCH LIABILITY, LOSS OR DAMAGE, EVEN IF CAUSED BY DISCLOSING PARTY'S OR ITS AFFILIATES' NEGLIGENCE EXCEPT AS PROVIDED IN PARAGRAPH 11.04 (EXCEPTIONS TO LIMITATIONS ON LIABILITY). NO REPRESENTATION OR WARRANTY, EXPRESS OR IMPLIED, IS MADE REGARDING SUCH INFORMATION AND MATERIAL,  OR ITS COMPLETENESS, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
+
+11.03 Indirect or Enhanced Damages. In no event will either Party be liable to the other Party under this Agreement for any consequential, indirect, special, incidental, punitive or exemplary loss or damage, including, without limitation, business interruption, cost of capital, loss of anticipated revenues and profits, loss of goodwill or increased operating costs, whether arising from contract, warranty, tort, strict liability or otherwise regardless of whether the possibility of such losses or damages have been made known to the first Party, and each Party hereby expressly waives all such rights and remedies, except for breach of any confidentiality or restricted use provisions of this Agreement and except as provided in Paragraph 11.04 (Exceptions to Limitations of Liability).
+
+11.04 Exceptions to Limitations of Liability. Notwithstanding anything to the contrary in this Agreement, each Party will bear full responsibility, without limit, for the following:
+
+(i) Gross Negligence or Willful Misconduct attributable to its personnel, and, in no event, will a Party be required to release or indemnify the other Party for Gross Negligence or Willful Misconduct attributable to the other Party; and
+
+(ii) its legal obligations to third parties wherein nothing in this Agreement is intended to impair a party's contribution and indemnity rights under law with respect to third party claims.
+
+ARTICLE 12 - TERM AND TERMINATION
+
+12.01 Term. Unless sooner terminated in accordance with this Article, this Agreement will continue in full force beginning on the Effective Date and ending two (2) years thereafter ("Term").
+
+12.02 Early Termination. The Parties recognize that circumstances may arise where this Agreement's early termination would be desirable. Accordingly, either Party may terminate this Agreement or all/part of a Project for any reason and at any time upon giving the other Party sixty (60) days prior written notice. In the event of early termination of a Project or this Agreement. In addition, if this Agreement is terminated by ExxonMobil, ExxonMobil will pay FCE reasonable non- refundable expenses incurred by FCE in satisfying authorized commitments entered into by FCE with third parties prior to receipt of the termination notice. FCE will uses its best efforts to minimize termination expenses and will give appropriate credit to ExxonMobil where applicable. The total amount paid FCE under this Agreement or for a Project, including all amounts paid following termination, will not exceed the maximum authorized charge specified in this Agreement or for a Project.
+
+Page 14 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+12.03 Failure to Perform. If ExxonMobil fails to fulfill a material monetary obligation or FCE fails to execute material tasks or obligations in material compliance with all criteria set forth in a respective mutually agreed upon Project Description, in the time and manner required herein, provided that in the case of FCE's tasks or obligations any non-compliance or delay in meeting said criteria is not due to ExxonMobil or force majeure pursuant to Paragraph 15.01 (Force Majeure), the non- defaulting Party may give written notice of intent to terminate this Agreement, specifying the details of such default. Unless the defaulting Party has remedied such default within the Cure Period, this Agreement may be terminated, without penalty, payment or prejudice to claims then accrued, by written notice to the defaulting Party by the non-defaulting Party specifying the date of termination which will be of immediate effect. In the event of termination under this Paragraph 12.03 where FCE is the defaulting Party, FCE's royalty-free licenses described in Paragraph 7.01(b)(1), 8.02(b)(1)(i), 8.02 (b)(1)(ii), 8.02(b)(1)(iii), and 8.02(b)(2)(i) will immediately convert to royalty-bearing licenses, with the royalty rate to be negotiated by the Parties in good faith.
+
+12.04 Other Termination. ExxonMobil may terminate this Agreement upon fifteen (15) days written notice, without penalty, payment or prejudice to claims and obligations then accrued, if FCE undergoes a Change in Control. Subject to requirements of applicable law, FCE will provide notice to ExxonMobil prior to, or promptly after, it becomes aware of any such Change in Control, and if prior notice is prohibited by applicable Law, as soon as practicable or after such notice is no longer prohibited, but in no event later than one (1) business day after any public announcement with respect to any such asset transfer or Change in Control. Notwithstanding anything else in this Agreement, in the event of termination under this Paragraph 12.04 ExxonMobil may terminate any licenses granted to FCE under this Agreement that would otherwise survive termination, taking into account the circumstances surrounding the Change in Control. Any licenses granted to ExxonMobil under this Agreement that would otherwise survive termination will continue to survive termination.
+
+12.05 Bankruptcy.
+
+(A) To the extent a court of competent jurisdiction determines that this Agreement is subject to assumption or rejection under Title 11 of the U.S. Code (the "Bankruptcy Code") or the applicable law of a bankruptcy or insolvency proceeding in a non-U.S. jurisdiction:
+
+(i) All rights and licenses granted to ExxonMobil and its Affiliates under or pursuant to this Agreement are, and will otherwise be deemed to be, for all purposes of Section 365(n) of the Bankruptcy Code, licenses of rights to "intellectual property" as defined in section 101 of the Bankruptcy Code.
+
+(ii) If a case is commenced under the Bankruptcy Code by or against FCE and this Agreement is rejected as provided in the Bankruptcy Code, and ExxonMobil or any of its Affiliates elects to retain its rights hereunder as provided in the Bankruptcy Code, then ExxonMobil and its Affiliates shall retain all rights hereunder in perpetuity without further royalty payments of any kind and FCE (in any capacity, including debtor-in- possession) and its successors and assigns (including, without limitations, a trustee) shall not interfere with such rights.
+
+(iii) In the event of bankruptcy or insolvency proceedings of FCE in a non-U.S. jurisdiction, the rights, powers and remedies of ExxonMobil and its Affiliates shall be applied under any applicable laws which are equivalent to Section 365(n) of the Bankruptcy Code, or if there is no such equivalent, the Parties will take all such actions as are permissible under applicable law to permit the continuation of the licenses contained in this Agreement to the maximum extent possible.
+
+Page 15 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+(iv) In the event FCE admits in writing its inability generally to pay its debts as they fall due in the general course, becomes or is determined to be insolvent, makes a general assignment for the benefit of creditors, suffers or permits the appointment of a receiver for its business or assets, or a substantial part thereof, or becomes subject to a proceeding under any statute or act relating to insolvency or the protection of rights of creditors, ExxonMobil receives, at its election, continued access to all Program Information, including the Project materials, equipment, and FCE's Background Information and Background Patents, and ExxonMobil will have access to relevant lab notebooks, computers containing technical information and know-how, journals, ledgers and manuals containing technical information and know-how in each case relating to the Program Information and FCE's Background Information and Background Patents.
+
+(B) To the maximum extent permitted under law, ExxonMobil may terminate this Agreement upon fifteen (15) days written notice, without penalty, payment or prejudice to claims and obligations then accrued, if FCE commences a voluntary case under the Bankruptcy Code or a similar voluntary bankruptcy or insolvency proceeding in a non- U.S. jurisdiction, or if an order for relief is entered in an involuntary case filed against FCE under the Bankruptcy Code, and such case is not dismissed within sixty (60) days of the entry of such order, or if FCE makes a voluntary general assignment for the benefit of creditors, or suffers or permits agrees to the entry of an order appointing a receiver in an action actually pending in a court of competent jurisdiction for that portion of its business or assets related to the Project. In the event of termination under this Paragraph 12.05 and subject to ExxonMobil's waiver (in its sole discretion), any licenses granted to FCE under this Agreement that would otherwise survive termination will automatically terminate and any licenses granted to ExxonMobil under this Agreement that would otherwise survive termination will continue to survive termination.
+
+12.06 Continuing Rights and Obligations. Except as otherwise stated in this Agreement, the following Articles and Paragraphs will survive termination of this Agreement:
+
+o Article 1 (Definitions);
+
+o Article 4 (Disclosure, Confidentiality and Restricted Use);
+
+o Article 6 (Procurement and Ownership of Program Results)
+
+o Article 7 (License to Program Results), subject to Paragraphs 12.03 (Failure to Perform), 12.04 (Other Termination), and 12.05 (Bankruptcy);
+
+o Article 8 (License to Background Information and Patents), subject to Paragraphs 12.03 (Failure to Perform), 12.04 (Other Termination), and 12.05 (Bankruptcy);
+
+o Article 10 (Payment), but only to the extent there are continuing license and/or royalty share obligations pertaining to the commercial use of Program Results, Background Information and/or Background Patents;
+
+o Article 11 (Representations, Warranties, Indemnities and Liabilities);
+
+o Article 12 (Term and Termination) to the extent any clause therein speaks to post termination rights and obligations;
+
+o Article 13 (Arbitration and Governing Law);
+
+o Article 14 (Assignment);
+
+o Article 16 (Addresses and Notices);
+
+Page 16 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+o Paragraph 17.03 (Export Controls and Trade Sanctions);
+
+o Article 18 (Records and Audit);
+
+o Article 19 (Taxes);
+
+o Paragraphs 20.02 (Independent Contractors), 20.03 (Independent Entities), 20.06 (No Third-Party Beneficiaries), 20.07 (Internal Conflict), 20.08 (Severability), 20.09 (Amendments; Modification; Waiver), 20.10 (Integration), and 20.11 (Execution); and
+
+o any rights and obligations contained in this Agreement which by their nature should continue.
+
+Any rights and obligations that have accrued to either Party against the other prior to the effective date of termination or expiration of this Agreement in any respect will survive such termination or expiration, and rights that have accrued to an Affiliate of a Party will continue regardless of any change in Affiliate status during the Term of this Agreement or thereafter.
+
+ARTICLE 13 - ARBITRATION AND GOVERNING LAW
+
+13.01 Governing Law. The validity and interpretation of this Agreement and the legal relations of the Parties to it will be governed by the laws of the State of New York without recourse to its conflicts of law rules.
+
+13.02 Arbitration Proceedings. Both Parties will try to amicably resolve any dispute arising out of or relating to this Agreement by involving representatives of the Parties with authority to settle such disputes. In the event the Parties are unable to agree upon a resolution within a reasonable period of time, not to exceed sixty (60) days after first notice of the difference unless otherwise agreed in writing, any dispute arising out of or relating to this Agreement may be referred to final and binding arbitration before three arbitrators under the Rules of Arbitration of the International Chamber of Commerce. Each Party will appoint one arbitrator within thirty (30) days of notice of such referral and the two (2) so appointed will, within thirty (30) days from the appointment of the last of the two (2) arbitrators, select a third arbitrator who will act as the Chairman. The arbitration will take place in New York City, New York and the proceedings will be conducted in the English language. The arbitrators will decide all questions and settle all disputes strictly in accordance with the provisions of this Agreement, including the relevant indemnities and liability limitations. The arbitrators will have no authority to award exemplary or punitive damages, and the arbitral panel will certify in the decision that no part of the award includes such damages. The Parties waive their rights to seek rulings from any court on issues of law that arise during the arbitration and to challenge the award on the grounds that the arbitrators made errors of law. Awards made pursuant to this Paragraph will be final and binding on the Parties from the date made and judgment upon any award may be entered in any court having jurisdiction. No Party hereto will raise defenses based on sovereign immunity with respect to the arbitration, any judicial proceeding or ancillary thereto or with respect to enforcement of any award, order or judgment rendered in the arbitration or related judicial proceedings.
+
+13.03 Cost of Arbitration. The prevailing Party in an arbitration proceeding will be entitled to recover from the other Party reasonable attorneys' fees, reasonable out-of-pocket costs and disbursements, as well as any charges for the cost of the arbitration and the fees of the arbitrators.
+
+13.05 Injunctive Relief. No provision of this Agreement will prohibit any Party from approaching any court having competent jurisdiction to seek injunctive relief in case of urgency to prevent disclosure of its Confidential Information.
+
+Page 17 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+ARTICLE 14 - ASSIGNMENT
+
+14.01 Assignment. The Agreement is not assignable, including any assignment by operation of law (including but not limited to as a result of a merger or other corporate action), by either Party without the prior written consent of the other Party. Any and all assignments of this Agreement or of any part thereof not made in accordance with this Article will be void. Notwithstanding the foregoing, ExxonMobil may assign this Agreement to its Affiliates and FCE may assign this Agreement to any of its wholly-owned and wholly-controlled Affiliates, with prior written notice to the other Party, provided that (i) such assignment by FCE shall be void if at any point such Affiliate ceases to be both wholly-owned and wholly- controlled by FCE, (ii) Article 12, including but not limited to Paragraphs 12.03, 12.04 and 12.05, shall be applicable to both FCE and any Affiliate assignee of FCE, and (iii) no assignment pursuant to this sentence will relieve the Parties of their obligations under this Agreement.
+
+14.02 Assignees Bound. Any assignee permitted in Paragraph 14.01 (Assignment) will agree in writing to be bound by all the obligations of the assigning Party under this Agreement, and a copy of such written agreement will be promptly provided to the other Party. Any Party making an assignment of this Agreement as permitted in Paragraph 14.01 (Assignment) will remain bound by the continuing obligations of confidentiality and nonuse applicable to such Party prior to the assignment.
+
+ARTICLE 15 - FORCE MAJEURE
+
+15.01 A Party will not be liable to the other Party and will not be considered in breach of this Agreement for delays or failures in performance resulting from causes beyond the reasonable control of that Party, including, but not limited to, acts of God, labor disputes or disturbances, material shortages or rationing, riots, acts of war, new governmental regulations, communication or utility failures, or casualties. In such instance, the Party so affected will promptly notify the other Party in writing of such prevention, restriction or interference. ExxonMobil or FCE, as the case may be, will be excused from performing such obligations to the extent of such prevention, restriction or interference; provided, however, that the Party so prevented, restricted or interfered with will take all appropriate and reasonable steps to remedy such failure or delay and will resume its performance under this Agreement with all proper dispatch whenever such causes are removed.
+
+ARTICLE 16 - ADDRESSES AND NOTICES
+
+16.01 All notices, demands, requests, or other communications which a Party may desire or be required to give under this Agreement to the other Party will be in writing addressed as follows or to such other address designated by notice in writing:
+
+Page 18 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+ExxonMobil: ExxonMobil Research and Engineering Company 1545 Route 22 East Annandale, NJ 08801-0900 Attention: Timothy Barckholtz, Senior Scientific Advisor Email: tim.barckholtz@exxonmobil.com FCE: FuelCell Energy, Inc. 3 Great Pasture Road Danbury, CT 06810 Attention: Anthony Leo, Executive Vice President Email: tleo@fce.com With a copy to: FuelCell Energy, Inc. 3 Great Pasture Road Danbury, CT 06810 Attention: Legal Department Such notice, demand, request, or other communications will be deemed to have been sufficiently given by and will be effective upon the earliest of: (a) delivering the same to a reputable courier service that requires a signature upon delivery; (b) mailing the same by registered or certified first-class mail, postage prepaid, return receipt requested; (c) if an e-mail is provided, then by e-mail with receipt confirmation followed by mailing the same or (d) actual receipt by the addressee.
+
+ARTICLE 17 - COMPLIANCE
+
+17.01 Business Standards. The Parties have established and maintain standards, policies, and/or guidelines ("Policies") applicable to lawful and ethical conduct when conducting their business activities. Upon written request, a Party will provide to the other Party a copy of, or electronic access to, such Policies. The Parties agree to comply with such Policies when conducting activities under this Agreement. These Policies pertain to, but may not be limited to, gifts/entertainment/and other things of value and drugs and alcohol. These Policies are communicated to the Parties' employees, along with an expectation that the employees will comply with these Policies.
+
+17.02 Compliance with Laws. All actions by each Party related to this Agreement will comply with applicable laws and regulations. Notwithstanding anything in this Agreement to the contrary, no provision will be interpreted or applied so as to require a Party or its Affiliates, to do, or to refrain from doing, anything which would constitute a violation of, or be penalized by, any applicable laws and regulations or result in a loss of economic benefit under such laws or regulations.
+
+17.03 Export Control and Trade Sanctions. Neither Party will furnish, deliver, or release the technology, services, software, or commodities made available to it hereunder to any individual, entity, or destination, or for any use, except in full accordance with all applicable laws, regulations, and requirements of the United States with regard to export control and trade sanctions. Both Parties agree and understand that each will be responsible for ongoing compliance with all such applicable laws, regulations, and requirements. It will be a material breach if a Receiving Party takes any action or uses any of a Disclosing Party's information in any manner which would violate United States laws, regulations, or requirements restricting the export, re-export, transfer or release to certain entities or destinations, including to persons within the Receiving Party or its Affiliates, or to unrelated Third Parties.
+
+Page 19 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+ARTICLE 18 - RECORDS AND AUDIT
+
+18.01 Recordkeeping. FCE will keep, or cause to be kept, true books, records, and accounts in accordance with Generally Accepted Accounting Principles and containing all information necessary for the accurate determination of all amounts payable to FCE under this Agreement, and any other obligations under this Agreement. Such books, records and accounts will be maintained for a period of at least three (3) years following the termination or expiration of this Agreement, provided there are no pending disputes between the Parties. In the case of a dispute, the books, records, and accounts will be maintained for one (1) year following resolution of such dispute.
+
+18.02 Audit Rights. At the request of ExxonMobil, FCE will permit, at reasonable intervals and during regular business hours, during the Term of this Agreement and at least three (3) years thereafter, but no more than once per fiscal year, an independent certified public accounting firm of nationally recognized standing selected by ExxonMobil (and approved by FCE, which approval will not be unreasonably withheld) to inspect, during regular business hours, such books, records, and accounts and any part of the applicable operations and facilities of FCE relevant to this Agreement, and to have access to FCE's knowledgeable personnel, as may be necessary to determine the completeness and accuracy of any accounting and payments required to be made under this Agreement and compliance with other terms of this Agreement, subject to the following:
+
+(a) ExxonMobil and its employees or other representatives will have the right to reproduce for its internal records any of the documents kept by FCE in accordance with Paragraph 18.01 (Recordkeeping), such reproduced documents shall be subject to the confidentiality and use provisions contained in Article 4; and
+
+(b) all expenses of each such audit, including any pre-approved reasonable expenses incurred by FCE for such audit, will be for the account of ExxonMobil.
+
+FCE will cause any subcontractors to preserve documentation and allow ExxonMobil to audit such books, records, and accounts of subcontractors by way of auditing FCE.
+
+18.03 Accurate Records. Both Parties agree that all records relating to any Project, including invoices, financial reports, accounting reports, and other financial records relating to any Project will be complete and reflect accurately the facts about all activities and transactions, and both Parties may rely on all such records as being complete and accurate in any further recordings and reports made by the Parties for any purpose. If either Party becomes aware that any such records are inaccurate or incomplete, that Party will promptly notify the other Party in writing and provide accurate and complete information.
+
+ARTICLE 19 - TAXES
+
+19.01 Tax Responsibility. Each Party will be responsible for and will bear its own tax liabilities, of whatever kind and imposed by whatever taxing entity or entities incurred in connection with the existence or any performance of any activities under this Agreement or the granting of licenses or other rights and considerations hereunder.
+
+19.02 Tax Cooperation. Each Party will reasonably cooperate with the other Party to assist the other Party in providing information to support tax filings associated with this Agreement.
+
+ARTICLE 20 - ADDITIONAL PROVISIONS
+
+20.01 Site Requirements. Each Party agrees that if any employees of the Party or its Affiliates visit, or are physically located at, the facilities of the other Party, during the course of the Program, then such employees will abide by all site requirements of the other Party made known to them, including but not limited to, site requirements pertaining to safety, security, health and the environment.
+
+Page 20 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+20.02 Independent Contractors. The relationship between the Parties is that of independent contractors. Nothing contained in this Agreement, or any course of action by either Party pursuant to this Agreement, will be construed or deemed to constitute or create a joint venture, partnership, agency or employment relationship between the Parties or between either Party and the employees or other representatives of the other Party.
+
+20.03 Independent Entities. Each Party enters into this Agreement solely on its own behalf and not on behalf of any other person or entity. Each Party warrants that it is an independent legal entity with the power and authority to enter into Agreements solely on its own behalf. No Party hereto will assert any defense of sovereign immunity that may be available to it in any resolution of any dispute under this Agreement; all such defenses are expressly waived by the Parties.
+
+20.04 Future Work. This Agreement shall not constitute or imply any promise or intention: (a) to enter into any other agreement of any nature, (b) to make any purchase of products or services by either Party or its Affiliates, or (c) to make any commitment by either Party, its Affiliates, or licensees with respect to present or future marketing or supply of any product or service.
+
+Notwithstanding the foregoing, prior to the end of the Term of this Agreement and subject to FCE achieving Milestone 1 and Milestone 2 to ExxonMobil's satisfaction, the Parties agree to negotiate in good faith commercially reasonable terms for the demonstration of Generation 2 Technology at one or more of ExxonMobil's commercial facilities.
+
+20.05 Workplace Harassment. Each Party's employees, agents, and subcontractors who will perform work hereunder or communicate with the other Party's employees, agents, customers, or contractors will not engage in any harassment of the other Party's employees, agents, customers, or contractors. The term "harassment" as used herein includes all forms of unlawful harassment based on race, color, sex, religion, national origin, citizenship status, age, genetic information, physical or mental disability, veteran, sexual orientation, gender identity or other legally protected status; as well as all other forms of harassment, which, while not unlawful, are inappropriate in a business setting. If any of one Party's employees, agents, or subcontractors who perform work hereunder or communicate with the other Party's employees, agents, customers, or contractors have not been informed of the standard of conduct above, the one Party will inform them. Each Party will promptly notify the other Party contact for the applicable services of any report or complaint of harassment or of any violation of the above standard of conduct. Each Party will cooperate with the other Party in any investigation the other Party may make, including making each Party's employees, agents and subcontractors available for questioning by the other Party's designated investigators. Each Party agrees not to retaliate against anyone who reports an incident of harassment or who cooperates in any investigation of a report of an incident.
+
+20.06 No Third Party Beneficiaries. No third parties are intended to be third party beneficiaries under this Agreement. None of the provisions of this Agreement will be enforceable by a third party. For the avoidance of doubt, permitted assignees of a Party pursuant to Article 14 (Assignment) will not be considered third parties for purposes of this Paragraph.
+
+20.07 Internal Conflict. In the event of a conflict between the provisions in the body of this Agreement and any Project Description, the terms of the body of this Agreement will control.
+
+20.08 Severability. The provisions of this Agreement are deemed severable. The invalidity or unenforceability of any provision of this Agreement will not affect the validity or enforceability of any other provision hereof which can be given effect without the invalid or unenforceable provision, and to this end the provisions of this Agreement are declared to be severable and the balance of this Agreement will be construed and enforced as if this Agreement did not contain such invalid or unenforceable provision.
+
+Page 21 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+20.09 Amendment; Modification; Waiver. This Agreement may only be amended, modified, or supplemented by an agreement in writing signed by authorized representatives of each party hereto. No waiver by any party of any of the provisions hereof will be effective unless explicitly set forth in writing and signed by the waiving party. Except as otherwise set forth in this Agreement, no failure to exercise, or delay in exercising, any rights, remedy, power, or privilege arising from this Agreement will operate or be construed as a waiver thereof; nor will any single or partial exercise of any right, remedy, power, or privilege hereunder preclude any other or further exercise thereof or the exercise of any other right, remedy, power, or privilege.
+
+20.10 Integration. The Parties have entered into the following related agreements: Prior JDA, Non-Disclosure Agreement, License Agreement, and Memorandum of Understanding. This Agreement (including, for the avoidance of doubt, any fully executed Project Descriptions) constitutes the entire agreement between the Parties and it supersedes all negotiations, representations or agreements, oral or written, express or implied, as to its specific subject matter. Notwithstanding the foregoing, the status of the related agreements shall be as follows:
+
+Prior JDA. As of the Effective Date of this Agreement, the Prior JDA is terminated. Any rights and obligations that were to survive termination of the Prior JDA (pursuant to Section 14.06 of the Prior JDA) are also terminated, except the confidentiality and use restrictions on Prior JDA Background Information and Prior JDA Project Results. Such confidentiality and use restrictions, as set forth in the Prior JDA, will survive termination but will be superseded and replaced by the confidentiality and use restrictions set forth in Article 4 (Disclosure, Confidentiality, and Restricted Use) of this Agreement.
+
+Memorandum of Understanding. As of the Effective Date of this Agreement, the Memorandum of Understanding is terminated, but the confidentiality obligations set forth in the Memorandum of Understanding shall survive termination.
+
+Non-Disclosure Agreement and License Agreement. This Agreement does not modify, abrogate, terminate or supersede any other prior written agreements between the Parties except as specifically noted herein, and such agreements will continue to be applicable in accordance with their terms. For clarity, this Agreement does not modify, abrogate, terminate or supersede the terms and conditions of the Non-Disclosure Agreement or the License Agreement.
+
+20.11 Arm's Length Transaction. This Agreement represents a negotiated, arm's length transaction. The transactions contemplated under this Agreement are being made by each Party for reasonably equivalent value and fair consideration. The transactions contemplated in this Agreement will not constitute a fraudulent transfer or fraudulent conveyance or any act with similar consequences or potential consequences under 11 U.S.C. Section 548 and other similar laws, or otherwise give rise to any right of any creditor of a Party whatsoever to lodge any claim against the other Party or avoid the transactions hereunder.
+
+20.12 Execution. This Agreement may be executed in counterparts, each of which shall be deemed to be an original and all of which together shall constitute one and the same instrument. Where provided for in applicable law, this Agreement may be executed and delivered electronically. If executing this Agreement using a handwritten signature, a Party may deliver a copy of such signature via electronic transmission and may provide the other Party a duplicate original so each Party retains an original for its records.
+
+Page 22 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed in their respective corporate names by their duly authorized officers. FUELCELL ENERGY, INC. EXXONMOBIL RESEARCH AND ENGINEERING COMPANY
+
+By: /s/ Jason B. Few By: /s/ Vijay Swarup
+
+Name: Jason B. Few Name: Vijay Swarup
+
+Title: President, Chief Executive Officer and Chief Commercial Officer Title: VP R&D
+
+Date: November 5, 2019 Date: November 5, 2019
+
+Page 23 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+APPENDIX A - DEFINITIONS
+
+"Affiliate(s)" means any legal entity which, directly or indirectly, at the time in question, controls, is controlled by, or is under common control with the designated Party. For the purposes of this definition, "control" is defined as direct or indirect ownership of fifty percent (50%) or more of the voting interest or economic interest in the controlled entity or such other relationship whereby the controlling entity determines or has the right to determine the majority of the Board of Directors or an equivalent governing body of the controlled entity.
+
+"Agreement" means this agreement, together with the appendices attached to this agreement and any Project Descriptions, extensions, renewals, or amendments hereof agreed to in writing and signed by the Parties.
+
+"Authorized Third Parties" means Drax Group Plc. and Alberta Innovates Corporation, and, subject to FCE obtaining the prior written consent of ExxonMobil, which consent will not be unreasonably withheld, conditioned, or delayed, the respective successors, assigns, joint venturers, partners and contractors of each of them.
+
+"Authorized Work" means non-commercial activities restricted to research and development, pilot plant, deployment, and demonstration projects, and commercial activities for which FCE has obtained the prior written consent of ExxonMobil.
+
+"Background Information" in connection with a designated Party means technical information, data, know-how, expertise, materials (including hardware, samples, models, algorithms, and software), calculations, innovations, inventions, discoveries, improvements, formulations, manufacturing techniques, equipment designs, methods, processes, and the like, of the designated Party or its Affiliates that is:
+
+(a) owned or controlled by the designated Party or its Affiliates (in the sense of having the right to license without accounting to others); and
+
+(b) conceived, created, developed, or acquired by the designated Party or its Affiliates:
+
+(1) prior to the Effective Date of this Agreement; or
+
+(2) at any time, but independently of any Project prior to the termination of this Agreement.
+
+Background Information includes Background Samples but does not include Program Information.
+
+Background Information further includes any business or financial information of the indicated Party relating to the subject matter of this Agreement that is disclosed to the other Party under this Agreement, including, but not limited to, financial data, costs, margins, overhead, returns on capital employed, marketing strategies, and licensing strategies and terms.
+
+"Background Patents" in connection with a designated Party means all patents and patent applications (including continuations, continuations-in-part, or divisions thereof, any patent resulting therefrom, and reissues, re-exams or extensions thereof, and revisions thereof arising from oppositions, inter or ex parte proceedings, or other patent office or judicial proceedings) of all countries, whenever filed, that are:
+
+(a) owned or controlled by the designated Party or its Affiliates (in the sense of having the right to license without accounting to others); and
+
+(b) based solely on Background Information and not included in the definition of Project Patents.
+
+"Background Sample(s)" means ExxonMobil Background Sample(s) and/or FCE Background Sample(s) depending on the context in which the term is utilized.
+
+"Bankruptcy Code" is defined in Paragraph 12.05 (Bankruptcy).
+
+Page 24 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+"Capture Rate" means the percentage of CO2 transferred from the cathode inlet to the anode outlet.
+
+"Carbon Capture Applications" means applications in which the MCFCs concentrate carbon dioxide from industrial or power sources, and for any other purpose attendant thereto or associated therewith.
+
+"Carbonate Transference" means the current density that is due to carbonate transfer as a percentage of total current density.
+
+"Change in Control" means the occurrence of any one or more of the following at any time after the date hereof with respect to FCE:
+
+a) a merger or consolidation with any Person which results in the holders of the voting securities of FCE outstanding immediately prior thereto (other than the acquirer, its "affiliates" and "associates" (as such terms are used in the Securities Exchange Act of 1934)) ceasing to represent at least fifty percent (50%) of the combined voting power of the surviving entity (or, if applicable, its parent company) immediately after such merger or consolidation;
+
+b) any Major Competitor is or becomes the beneficial owner by purchasing directly from FCE, voting securities representing ten percent (10%) or greater than the actual voting power of any such entity;
+
+c) the sale to any Major Competitor of all or substantially all of the business of FCE to which this Agreement relates (whether by merger, consolidation, sale of stock, sale of assets or other similar transaction);
+
+d) any Person (which shall not be any trustee or other fiduciary holding securities under an employee benefit plan of such Person, or any corporation owned directly or indirectly by the stockholders of such Person, in substantially the same proportion as their ownership of stock of such Person), together with any of such Person's "affiliates" or "associates", as such terms are used in the Securities Exchange Act of 1934, becoming the beneficial owner of fifty percent (50%) or more of the combined voting power of the outstanding securities of FCE or by contract or otherwise having the right to control the board of directors or equivalent governing body of FCE or the ability to cause the direction of management of FCE (or, if applicable, its parent company);
+
+e) the approval by such entity's board of directors or shareholders of any reorganization or transaction that would cause any of the situations described in clauses (a) through (d) to occur; or
+
+f) the approval by the board of directors or other governing body or the shareholders or other equity holders of FCE of any plan or proposal for its liquidation or dissolution.
+
+The occurrence or non-occurrence of a Change in Control does not alter or limit section 14.01 of this Agreement.
+
+"Confidential Background Information" means, collectively, any and all Background Information that a Party is required to keep confidential pursuant to the terms and conditions of this Agreement.
+
+"Confidential Information" means, collectively, any and all Confidential Program Information, Confidential Background Information, and any other types of information, that a Party is required to keep confidential pursuant to the terms and conditions of this Agreement.
+
+"Confidential Program Information" means, collectively, any and all Program Information that FCE is required to keep confidential pursuant to the terms and conditions of this Agreement.
+
+Page 25 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+"Cure Period" means a period commencing on the date the defaulting Party receives the written notice of breach or default from the non-defaulting Party pursuant to Paragraph 12.03 and continuing until thirty (30) calendar days thereafter; provided, however, that if prior to the expiration of this period the defaulting Party provides the non-defaulting Party with written evidence that the breach or default cannot reasonably be cured within such period and the defaulting Party has promptly commenced and is diligently pursuing efforts to cure the breach or default, then the Cure Period shall continue as long as such diligent efforts to cure continue, but not beyond the date that is sixty (60) days after the expiration of the initial thirty (30) calendar day Cure Period.
+
+"Definition Agreement" means the agreement between the Parties effective as of October 31, 2019, bearing ExxonMobil Document No. LAW-2019-3850.
+
+"Disclosing Party" means the Party that discloses, directly or indirectly, information or other materials to the Receiving Party hereunder.
+
+"Direct Costs" means reimbursable costs, approved in advance by the Steering Committee, which are (i) operational expenditures of FCE associated with the Program not included in the FTE Cost, including subcontractors, (ii) material or capital expenditures of FCE associated with the Program; and (iii) approved FCE travel costs to attend SC meetings or conferences, and use of contractors in furtherance of a Project.
+
+"Effective Date" means October 31, 2019.
+
+"Exclusivity and Technology Access Fee" is defined in Paragraph 10.02 (Up-front Exclusivity and Technology Access Fee Payment).
+
+"ExxonMobil" is defined in the preamble.
+
+"ExxonMobil Background Information" means Background Information that: (a) was developed or acquired by ExxonMobil independently of a Project, and (b) is provided by ExxonMobil for use in a Project under this Agreement. ExxonMobil Background Information does not include Program Information.
+
+"ExxonMobil Background Sample" means a non-commercial sample of material, component, device, or the like that: (a) was developed or acquired by ExxonMobil independently of the Project, and (b) is provided by ExxonMobil for use in a Project under this Agreement. ExxonMobil Background Samples does not include Program Samples.
+
+"FCE" is defined in the preamble.
+
+"FCE Background Information" means Background Information that: (a) was developed or acquired by FCE independently of a Project, and (b) is provided by FCE for use in a Project under this Agreement. FCE Background Information does not include Program Information.
+
+"FCE Background Sample" means a non-commercial sample of material, component, device, or the like that: (a) was developed or acquired by FCE independently of a Project, and (b) is provided by FCE for use in a Project under this Agreement. FCE Background Samples does not include Program Samples.
+
+"FTE" means a full-time employee of FCE or an equivalent thereof, dedicated to the conduct of the Program based on a total of one thousand eight hundred and fifty-six (1,856) hours per year of direct project work per year. FTEs will include engineers, scientists, and any other functions mutually agreed to by the Steering Committee. Non-devoted personnel (e.g., FCE's Board of Directors, management, secretarial, administrative, human resources, finance, purchasing, shipping and receiving, information technology specialists, lawyers, cleaning and food service personnel) are not FTEs. Individuals may be counted as fractional FTEs by using the individual's total hours of work for FCE on the Program (as opposed to total hours of work) as the numerator and 1,856 as the denominator. For clarity, the phrase "direct project work" means the applicable person is engaged in activities contemplated to be performed by Project Description and excludes time incurred by a person on indirect work-related functions, such as time spent on management, training, general meetings, workplace events, completing time cards, and similar administrative functions, except for attendance at Steering Committee meetings.
+
+Page 26 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+"FTE Costs" means the product of the FTE Rate and the hours worked of the total number of FTEs.
+
+"FTE Rate" means the hourly amount agreed to by the Parties per FTE. As of the Effective Date, the FTE Rate for scientists and engineers is three-hundred and twenty-seven United States dollars ($327.00 USD) and the FTE Rate for all other FTEs is one- hundred and ninety-four United States dollars ($194.00 USD). Increases in the FTE Rate must be approved by the Steering Committee.
+
+"Generation 1 Technology" is defined in the Definition Agreement.
+
+"Generation 2 Technology" is defined in the Definition Agreement.
+
+"Gross Negligence" means any act or failure to act (whether sole, joint or concurrent) which seriously and substantially deviates from a diligent course of action or which is in reckless disregard of or indifference to the harmful consequences.
+
+"Hydrogen Applications" means applications in which the MCFCs are used solely for hydrogen generation in combination with power generation or combined heat and power generation.
+
+"Initial Payment" is defined in Paragraph 10.01(b) (Project Costs).
+
+"Inlet CO2 Concentration" means CO2 concentration in the cathode inlet measured at room temperature conditions (about 23oC) via gas chromatography, as calibrated according to conventional methods.
+
+"Inlet O2 Concentration" means O2 concentration in the cathode inlet measured at room temperature conditions (about 23oC) via gas chromatography, as calibrated according to conventional methods.
+
+"Inlet Water Concentration" means water concentration in the cathode inlet measured at room temperature conditions (about 23oC) via gas chromatography, as calibrated according to conventional methods.
+
+"8th Inning Invoice" is defined in Paragraph 10.01(d) (Project Costs).
+
+"9th Inning Invoice" is defined in Paragraph 10.01(d) (Project Costs).
+
+"License Agreement" means the agreement between the Parties effective June 11, 2019 entitled License Agreement bearing ExxonMobil Document No. LAW-2019-3245.
+
+"Major Competitor" means a company with a market capitalization in excess of fifty billion United States dollars ($50 billion USD) and whose principal business involves exploration for, and/or production of, crude oil and/or natural gas, manufacture of petroleum products and/or transportation and/or sale of crude oil, natural gas, and/or petroleum products.
+
+"Memorandum of Understanding" means the non-binding agreement between ExxonMobil and FCE effective August 26, 2019.
+
+"Milestone 1" is defined in the Definition Agreement.
+
+"Milestone 2" is defined in the Definition Agreement.
+
+"Milestone Payments" is defined in Paragraph 10.03 (Milestone Payments).
+
+"Molten Carbon Fuel Cells" or "MCFCs" means a powerplant system including MCFC Stacks and Balance of Plant based on a fuel cell that comprises an electrolyte, an anode, and a cathode wherein the electrolyte comprises one or more carbonate salts that are molten (liquid) at operating temperatures. An "MCFC Stack" is a set of fuel cells connected electrically in series, arranged vertically or horizontally, that share common ducting for the cathode and anode streams. The ducting is considered part of the MCFC Stack. Further, the MCFC Stack may include "Reformer Units", which are non-electrochemical units that catalytically reform the anode feed to H2 and CO, but do so without producing any electricity. "Balance of Plant" or "BOP" means all other equipment besides the MCFC Stack that is required to operate the MCFC as a stand-alone device, i.e., not in CO2 capture mode or in H2/syngas generation mode. For power generation this can include the dc-to-ac power conversion, fuel and water processing, air supply, and heat exchange equipment.
+
+Page 27 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+"Non-Affiliated Third Party" means a third party who is not Party or an Affiliate of a Party.
+
+"Non-Disclosure Agreement" means the agreement between the Parties effective December 7, 2018 entitled Mutual Non- Disclosure Agreement bearing ExxonMobil Document No. EM11762.
+
+"Party" and "Parties" is defined in the preamble.
+
+"Person" means any trust, natural person, firm or partnership, company, corporation, or other entity that is given, or is recognized as having, legal personality by the law of any jurisdiction, country, state or territory, unincorporated body and association (including joint venture and consortium), any emanation of a sovereign state or government, whether national, provincial, local or otherwise, any international organization or body (whether or not having legal personality), and any other juridical entity, in each case wherever resident, domiciled, incorporated or formed, and more than one of the foregoing acting as a group.
+
+"Policies" are defined in Paragraph 17.01 (Business Standards).
+
+"Potential Decay Rate" is defined in the Definition Agreement.
+
+"Power Applications" means applications in which the MCFCs are solely used for power generation, combined heat and power generation, or both.
+
+"Power Density" means the product of the average cell or stack current density and the average cell potential.
+
+"Prior JDA" means the agreement between the Parties effective April 30, 2016 entitled Joint Development Agreement bearing ExxonMobil Document No. EM09080.
+
+"Prior JDA Background Information" means Background Information as defined in the Prior JDA.
+
+"Prior JDA Project Patents" means Project Patents as defined in the Prior JDA, which by definition are jointly-owned by the Parties.
+
+"Prior JDA Project Results" means Project Results as defined in the Prior JDA, which by definition are jointly-owned by the Parties.
+
+"Project(s)" is defined in Paragraphs 2.01 (Program / Projects).
+
+"Project Description" is defined in Paragraph 2.01 (Program / Projects).
+
+"Program" is defined in Paragraph 2.01 (Program / Projects).
+
+"Program Information" means all information and associated copyrights, whether or not patentable, that is conceived, created, developed or acquired in or for the Program during the Term of the Agreement from any source (including from any employee of either Party or its Affiliates, or from any Party's or its Affiliates' contractors or consultants, whether alone or jointly with one or more others) in the course of and as a result of working directly on the Program. Program Information shall be owned by ExxonMobil and its Affiliates.
+
+Program Information specifically includes Program Inventions and Program Samples. Program Information also includes improvements to either Party's Background Information conceived, created, developed or acquired in or for the Program and resulting directly from activities performed in the course of and as a result of working directly on the Program.
+
+"Program Inventions" means Program Information that is characterized as inventions, discoveries, or improvements (whether patentable or not) that are conceived, created, developed, or acquired by or on behalf a Party or its Affiliates during the Term of this Agreement and one (1) year thereafter, and in the course of and as a result of working directly on the Program. Program Inventions shall also include Project Inventions (as defined in the Prior JDA) that have not been filed with any national, regional, or international patent body or organization by the Effective Date of this Agreement. Program Inventions shall be owned by ExxonMobil and its Affiliates.
+
+Page 28 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+"Program Patents" means all patents and patent applications (including continuations, continuations-in-part, or divisions thereof, any patent resulting therefrom, and reissues, re-exams or extensions thereof, and revisions thereof arising from oppositions, inter or ex partes proceedings, or other patent office or judicial proceedings) filed with any national, regional, or international patent body or organization after the Effective Date of this Agreement, that are based upon and/or claim one or more features of Program Inventions. Program Patents shall be owned by ExxonMobil and its Affiliates.
+
+"Program Results" means, collectively Program Information, Program Patents, and copyrightable works resulting from the Program.
+
+"Program Sample" means a sample of material, component, device, or the like that is developed during the Term of this Agreement, in the course of and as a result of working directly on the Program.
+
+"Receiving Party" means the Party that receives, directly or indirectly, information or other materials from the Disclosing Party.
+
+"Research Costs" means Direct Costs plus FTE Costs.
+
+"Scope" is defined in the preamble.
+
+"Steering Committee" or "SC" is defined in Paragraph 3.01 (Steering Committee).
+
+"Sample" means collectively FCE Background Sample, ExxonMobil Background Sample, and Program Sample.
+
+"Technical Manager" is defined in Paragraph 3.02 (Technical Managers).
+
+"Term" or "Term of this Agreement" is defined in Paragraph 12.01 (Term).
+
+"Total Research Cost" is defined in Paragraph 10.01(a) (Project Costs).
+
+"Willful Misconduct" means an intentional disregard of good and prudent standards of performance or of any of the substantive terms of this Agreement.
+
+"Work" means any activities of any kind, including but not limited to, research and development, pilot plant, manufacture testing, demonstration, or commercial development/deployment.
+
+Page 29 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+APPENDIX B - SAMPLE PROJECT DESCRIPTION FORMAT
+
+PROJECT DESCRIPTION No. ____
+
+Project Name: __________________
+
+LAW-2019-3608
+
+FCE Agreement No. :____________
+
+Date: ________________________
+
+Receiving Company Name & Address
+
+Attention: ______________________
+
+Dear ______________,
+
+This Project Description No. [NUMBER] is issued pursuant to the Joint Development Agreement, effective [EFFECTIVE DATE] between ExxonMobil Research and Engineering Company ("ExxonMobil") and FuelCell Energy, Inc. ("FCE"), bearing ExxonMobil Agreement No. LAW-2019-3608 ("Agreement"). Each Party's activities hereunder will be conducted in accordance with and subject to the terms and conditions of the Agreement. The specific terms which will apply to this Project are described below.
+
+1. PROJECT DESCRIPTION/OBJECTIVES:
+
+_________________
+
+2. TIME SCHEDULE:
+
+Commencement Date: ____________
+
+Completion Date: ________________
+
+3. STEERING COMMITTEE MEMBERS / TECHNICAL MANAGERS:
+
+FCE: ______________________
+
+ExxonMobil: __________________________
+
+4. PROJECT BUDGET Task 1A 1B 1C ….
+
+N u m b e r  o f FTEs
+
+FTE Cost
+
+Direct Costs
+
+TOTAL
+
+5. DELIVERABLES:
+
+____________________
+
+Page 30 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019
+
+
+
+
+
+If the foregoing is satisfactory, please have a duly authorized representative of your company sign duplicate originals of this Project Description and return both to for counter-execution on behalf of our company. A fully-executed original will be returned for your files. Very truly yours, EXXONMOBIL RESEARCH AND ENGINEERING COMPANY By: Name: Title: Date:
+
+ACCEPTED AND AGREED TO: FUELCELL ENERGY, INC. By: Name: Title: Date:
+
+Page 31 of 31
+
+Source: FUELCELL ENERGY INC, 8-K, 11/6/2019

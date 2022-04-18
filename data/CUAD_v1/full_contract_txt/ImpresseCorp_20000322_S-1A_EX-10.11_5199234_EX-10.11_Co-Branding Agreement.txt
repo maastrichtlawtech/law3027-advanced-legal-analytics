@@ -1,0 +1,353 @@
+[Confidential Treatment Requested]
+
+                     Exhibit 10.11
+
+CO-BRANDING AGREEMENT
+
+This Co-Branding Agreement (this "Agreement") dated March 3, 2000 (the "Effective Date") is entered into between VerticalNet, Inc., a Pennsylvania corporation having a principal place of business at 700 Dresher Road, Suite 100, Horsham, Pennsylvania, 19044 ("VerticalNet"), and Impresse Corporation, a California Corporation, having a principal place of business at 1309 South Mary Avenue, Sunnyvale, California, 94087 ("Impresse").
+
+BACKGROUND
+
+WHEREAS, VerticalNet owns and operates a series of Online Communities (defined below) that are accessible via the World Wide Web, each of which is designed to be an online gathering place for businesses of a certain type or within a certain industry; and
+
+WHEREAS, Impresse desires to provide its commercial printing services (the "Impresse Services") to Users (defined below) of VerticalNet Sites (defined below); and
+
+WHEREAS, Impresse and VerticalNet desire to create Co-Branded Site (defined below) where users will be able to register to review and utilize the Impresse Services and to promote such Co-Branded Site on VerticalNet Sites.
+
+NOW, THEREFORE, in consideration of the mutual covenants herein, and intending to be legally bound hereby, VerticalNet and Impresse agree as follows:
+
+1.  DEFINITIONS
+
+1.1. AFFILIATE shall mean, when used with reference to a party, any individual or entity directly or indirectly controlling, controlled by or under common control with such party. For purposes of this definition, "control" means the direct or indirect ownership of at least 50% of the outstanding voting securities of a party, or the right to control the policy decisions of such party.
+
+1.2. BANNER shall mean a graphical image advertising the Impresse Site that is posted in an area reasonably designated by VerticalNet for similar banner advertisements and shall contain a Link (defined below) to the Co-Branded Site.
+
+1.3. CO-BRANDED CONTENT shall mean all materials, data and similar information presented on the pages of the Co-Branded Site.
+
+1.4. CO-BRANDED SITE shall mean the Site (defined below) that contains both a Frame (defined below) and a Window (defined below) which includes the Impresse Area (defined below) and the VerticalNet Area (defined below) of the Co-Branded Site.
+
+1.5. CONFIDENTIAL INFORMATION shall mean, subject to the provisions of Section 7.2  [EXCLUSIONS], all proprietary and confidential information of a party, including, without limitation, trade secrets, technical information, business information, sales information, customer and potential customer lists and identities, product sales plans, sublicense agreements, inventions, developments, discoveries, software, know-how, methods, techniques, formulae, data, processes and other trade secrets and proprietary ideas, whether or not protectable under patent, trademark, copyright or other areas of law, that the other party has access to or receives. For purposes of this Agreement,
+
+1
+
+* Represents confidential information for which Impresse Corporation is seeking confidential treatment with the Securities and Exchange Commission.
+
+the Co-Branded Content shall not be considered Confidential Information of Impresse. For purposes of this Agreement, this Agreement shall be considered Confidential Information.
+
+1.6. E-COMMERCE CENTER shall mean a web page on a VerticalNet Site which is customized by VerticalNet to include a vendor's information, including the vendor's branding; a Link to the vendor's catalog, auction item listings; the vendor's career center including employment information; archives of; and Links to other related content locations.
+
+1.7. FRAME shall mean a portion of a Web page which surrounds a Window on the top and left.
+
+1.8. IMPRESSE AREA shall mean the Window portion of the Impresse Site (defined below) less the Frame that will be placed around the Window of the Co-Branded Site.
+
+1.9. IMPRESSE MARK shall mean any trademark, service mark, trade name, domain name, design or logo of Impresse or its Affiliates.
+
+1.10. IMPRESSE SITE shall mean the Site located at www.impresse.com (and any successor Site thereto).
+
+1.11. IMPRESSE-VERTICALNET REVENUE shall have the meaning defined in Section 4.6.2  [REVENUE SHARING].
+
+1.12. INTELLECTUAL PROPERTY shall mean any and all trade secrets, patents, copyrights, trademarks, service marks, URLs, trade dress, brand features, know-how and similar rights of any type under the laws of any applicable governmental authority, including, without limitation, all applications and registrations relating to any of the foregoing.
+
+1.13. INTELLECTUAL PROPERTY RIGHTS shall mean all rights in and to Intellectual Property, including, without limitation, all patent rights, copyrights, trademarks, service marks, know-how and trade secrets.
+
+1.14. LAUNCH DATE shall mean the day on which the Co-Branded Site and the V-Solutions Area become fully operational and generally available on the Internet.
+
+1.15. LINK shall mean a link, including but not limited to a hyperlink,
+
+Source: IMPRESSE CORP, S-1/A, 3/22/2000
+
+
+
+
+
+button or banner, that connects two Sites in a manner so that when a User clicks on the link, the User is transferred directly from one Site to a second Site.
+
+1.16. NEWSLETTER shall mean a text message containing information supplied by Impresse and approved by VerticalNet (which approval shall not be unreasonably withheld) that is transmitted via e-mail to Users of the VerticalNet Sites who have provided their e-mail addresses to VerticalNet along with permission to transmit such messages to the e-mail address.
+
+1.17. ONLINE COMMUNITY shall mean a VerticalNet Site that acts as a comprehensive source of information, dialogue and commerce for and links to E-Commerce Centers and other Sites for a particular industry or service market.
+
+2
+
+1.18. PROPRIETARY FEATURE shall mean any name, trademark, service mark, trade name, domain name, navigational element, copyright, or logo which is proprietary to Impresse and/or VerticalNet, as appropriate.
+
+1.19. SITE shall mean a site located on the World Wide Web portion of the Internet.
+
+1.20. TERM shall have the meaning set forth in Section 5.1  [TERMINATION AND RENEWAL]
+
+1.21. URL shall mean a universal resource locator used for the purpose of identifying a Site located on the Internet.
+
+1.22. USER shall mean a single person who accesses and views a Site whether directly from a web browser or through a Link.
+
+1.23. USER DATA shall mean all data generated by an Internet server that relates to file requests, user identification, transaction logs, session times and other information regarding the Users generated or collected by or through a Co-Branded Site, but excluding any information that relates or refers to a particular project of such User.
+
+1.24. V-SOLUTIONS AREA shall mean a hub page accessible via a Link from the home page of each VerticalNet Site which shall contain a list of categories of business services, with each category further listing entities that provide such services. Each individual company listing shall contain a Link to a Web page hosted by VerticalNet that describes such company and the services it offers. The V-Solutions Area will also feature the V-Solutions Link (defined below).
+
+1.25. V-SOLUTIONS LINK shall mean the Link from the V-Solutions Area to the Co-Branded Site.
+
+1.26. VERTICALNET AREA shall mean the Frame area of the Co-Branded Site.
+
+1.27. VERTICALNET MARK shall mean any trademark, service mark, trade name, domain name, design or logo of VerticalNet.
+
+1.28. VERTICALNET-IMPRESSE USERS shall have the meaning defined in Section 4.6.1  ["VerticalNet Impresse Users"]
+
+1.29. VERTICALNET SITE shall mean a Site owned and operated by VerticalNet in the United States or a portion of such Site designated by VerticalNet.
+
+1.30. WINDOW shall mean a portion of a Web page that is surrounded by a Frame.
+
+1.31. YEAR 2000 COMPLIANT shall mean with respect to any computer software that to the extent that such software contains date-dependent functionality, will: (1) contain four digit year codes, (2) properly process dates and date values before, through and beyond January 1, 2000, including date calculations with dates both before and after January 1, 2000, and (3) not suffer any impact on performance as a result of dates beyond January 1, 2000; provided, however, that for this warranty to apply the operating systems on which such software is being run, and any network servers, Web browsers, databases and other software that is used in conjunction with such software must also be Year 2000 Compliant as defined herein.
+
+3
+
+2.   CO-BRANDED SITE
+
+2.1. Impresse shall be responsible for: (a) the design, layout, development, hosting and maintenance of the Impresse Area of the Co-Branded Site; (b) providing VerticalNet with reasonable instructions and information regarding the Impresse Services; (c) providing a tabbed area prominently featured in a user interface within the Impresse Area of the Co-Branded Site that points to a VerticalNet Online Community or Online Communities; (d) modifying the Impresse online registration forms and system available on the Co-Branded Site to require Impresse users to identify and match their business activities with a VerticalNet Online Community or Online Communities; and (e) providing VerticalNet with the URL addresses for the Co-Branded Site.
+
+2.2. VerticalNet shall be responsible for: (a) the design, layout, development, hosting and maintenance of the VerticalNet Area of the Co-Branded Site; and (b) the design, layout, development, hosting and maintenance of the V-Solutions Link.
+
+2.3. Beginning on the Launch Date and continuing during the Term, VerticalNet shall display the V-Solutions Area on the VerticalNet Sites. VerticalNet shall likewise, during the Term, implement and maintain the V-Solutions Link.
+
+2.4. Beginning on the Launch Date and continuing during the Term, VerticalNet shall not place advertising relating to the commercial printing entities listed on Exhibit "A," or other such entities subsequently identified by Impresse, on the VerticalNet Area of the Co-Branded Site.
+
+2.5. Impresse hereby grants to VerticalNet a non-exclusive, non-transferable, royalty-free, right and license to link to the Impresse Area of the Co-Branded Site. Impresse shall permit Users who access the Co-Branded Site to access and use Co-Branded Content from the Co-Branded Site for the personal use of such Users in accordance with the then-current terms of Impresse's standard license agreement governing the use of such Co-Branded Content.
+
+Source: IMPRESSE CORP, S-1/A, 3/22/2000
+
+
+
+
+
+2.6. Nothing in this Agreement shall be construed as preventing Impresse or VerticalNet from developing other co-branded versions of their materials, data, information and content.
+
+3.   ONGOING SUPPORT
+
+3.1. Impresse shall use commercially reasonable efforts to respond to all support requests by VerticalNet relating to the Co-Branded Site within one Business Day (as defined below) of Impresse's receipt of such notification. Impresse shall use reasonable efforts to cure the reported problem as soon as reasonably possible. VerticalNet shall provide Impresse with all information reasonably requested by Impresse in connection with a reported problem for which VerticalNet is requesting support under this Section 3.1  [ONGOING SUPPORT]. VerticalNet shall use commercially reasonable efforts to respond to all support requests by Impresse relating to the Co-Branded Site within one Business Day (as defined below) of VerticalNet's receipt of such notification. VerticalNet shall use reasonable efforts to cure the reported problem as soon as reasonably possible. Impresse shall provide VerticalNet with all information reasonably requested by VerticalNet in connection with a reported problem for which Impresse is requesting support under this Section 3.1  [ONGOING SUPPORT].
+
+4
+
+[Confidential Treatment Requested]
+
+3.2. Impresse will identify to VerticalNet primary and secondary contacts who will be familiar with the Co-Branded Site and this Agreement. VerticalNet will identify to Impresse primary and secondary contacts who will be familiar with the Co-Branded Site and this Agreement.
+
+3.3. VerticalNet shall have access to technical support from Impresse by telephone from 8 a.m. Pacific Standard Time to 5 p.m. Pacific Standard Time, Monday through Friday, Impresse holidays excluded (each a "Business Day," collectively "Business Days"). Impresse shall have access to technical support from VerticalNet by telephone from 6 a.m. Eastern Standard Time to 6 p.m. Eastern Standard Time, Monday through Friday, VerticalNet holidays excluded.
+
+4.   THE COMMERCIAL TERMS
+
+4.1. DEVELOPMENT FEES. For the design, development and integration of the V-Solutions Area and the VerticalNet Area of the Co-Branded Site, Impresse shall pay to VerticalNet a one-time, nonrefundable development fee in the amount of [*] payable on the Effective Date.
+
+4.2. SLOTTING FEES. For the display of the V-Solutions Area and the V-Solutions Link, Impresse shall pay to VerticalNet a slotting fee in the amount of [*] payable pursuant to the terms of Section 4.5  [PAYMENT TERMS].
+
+4.3. BANNER/NEWSLETTER PURCHASE COMMITMENT. During the Term of this Agreement, Impresse agrees to purchase from VerticalNet Banners and Newsletters for a total price of at least $[*] as set forth below in this Section 4.3  [BANNER/NEWSLETTER PURCHASE COMMITMENT]. All prices for such Banners and Newsletters shall be offered to Impresse at a [*]% discount off of VerticalNet's then current prices for similar Banners or Newsletters. All purchases shall be subject to VerticalNet's standard terms and conditions governing advertising on VerticalNet Sites. Impresse agrees to purchase at least $[*] of such Banners and Newsletters in each calendar quarter after the Effective Date until a total of $[*] have been purchased, provided, the total dollar amount purchased by Impresse in any calendar quarter shall not consist of greater than 70% of either Banners or Newsletters. Payment of the fees set forth in this Section shall be made pursuant to the terms of Section 4.5  [PAYMENT TERMS].
+
+4.4. HOSTING FEE. Impresse shall pay VerticalNet a service fee of $[*] for the hosting and maintenance of the Co-Branded Site and the V-Solutions Link, payable pursuant to the terms of Section 4.5  [PAYMENT TERMS].
+
+4.5. PAYMENT TERMS. Impresse shall pay the fees set forth in Sections 4.2  [SLOTTING FEES], 4.3  [BANNER/NEWSLETTER PURCHASE COMMITMENT] and 4.4  [HOSTING FEE] as an aggregate, totaling $[*] payable in four equal quarterly installments of $[*] beginning on May 31, 2000 and thereafter on August 31, 2000 November 30, 2000 and February 28, 2001, respectively.
+
+4.6. REVENUE SHARING. Impresse shall pay VerticalNet [*]of Impresse VerticalNet Revenue accruing during the term of this Agreement, payable to VerticalNet on or before the thirtieth day of the calendar quarter immediately following the quarter in which such revenue was collected by Impresse. Such payments shall be accompanied by a statement containing reasonable detail of the type and number of transactions from which the Impresse
+
+5
+
+* Represents confidential information for which Impresse Corporation is seeking confidential treatment with the Securities and Exchange Commission.
+
+VerticalNet Revenue was derived, the total Impresse VerticalNet Revenue for such period and the total fees payable to VerticalNet pursuant to this Section 4.6  [REVENUE SHARING].
+
+4.6.1. "VerticalNet Impresse Users" are the Users that register with Impresse through the Co-Branded Site, but specifically excluding those Users who have previously registered with Impresse other than through the Co-Branded Site.
+
+4.6.2. The "Impresse VerticalNet Revenue" is Impresse's total net transaction and subscription revenues collected by Impresse during the term of this Agreement from VerticalNet Impresse Users.
+
+4.6.3. If government regulations prevent Impresse from sharing any revenues associated with Impresse Services, VerticalNet and Impresse shall negotiate in good faith a compensation structure that seeks to provide VerticalNet with compensation equal to that set forth in Section 4.6  [REVENUE SHARING].
+
+4.7. TAXES. All payments required under this Agreement are exclusive of federal, state, local and foreign taxes, duties, tariffs, levies and similar assessments. When applicable, such taxes shall appear as separate items on a party's invoice or statement to the other party. Payment of such taxes or charges shall be the responsibility of the party whose obligation it is under this Agreement to make the payment in respect of which such taxes are assessed, excluding any taxes based upon the other party's net income. In lieu thereof, a party shall provide the other party with a tax or levy exemption certificate acceptable to the taxing or levying authority.
+
+Source: IMPRESSE CORP, S-1/A, 3/22/2000
+
+
+
+
+
+4.8. AUDITS. During the term of this Agreement and for one year thereafter, VerticalNet shall have the right to appoint a certified public accountant to audit Impresse's financial records relating to such payment to verify the accuracy of Impresse's financial records in order to verify the amount of the payments owed and/or paid hereunder, but no more frequently than once per year. If the amount owed by Impresse to VerticalNet was underpaid, the additional amount owed shall be paid to VerticalNet within 15 days of notice of such underpayment to Impresse. If the amount owed by Impresse to VerticalNet was underpaid in excess of 10% of the amount owed, the fees of such audit shall also be paid to VerticalNet within 15 days of notice of such to Impresse. If the amount owed by Impresse to VerticalNet was overpaid, the excess amount paid shall be returned by VerticalNet within 15 days of notice of such overpayment. VerticalNet shall give reasonable advance notice to Impresse of such audit and each audit shall be conducted in a manner that does not cause unreasonable disruption to the conduct of business by Impresse. The results of any such audit shall be deemed to be Confidential Information and may not be disclosed by either party or its certified public accountants except as may be necessary to enforce such party's rights.
+
+4.9. INTEREST. All payments not paid by the date such payments are due shall bear interest from the due date to the date payments are actually paid at the lower of (i) 1% per month or (ii) the maximum rate permitted by law.
+
+5.   TERMINATION AND RENEWAL
+
+5.1. The Term of this Agreement shall begin on the Effective Date and shall end fifteen months therefrom.
+
+6
+
+5.2. Either party may terminate this Agreement immediately upon written notice to the other party in the event of any material breach of a term of this Agreement by such other party that remains uncured 30 days after written notice of such breach was received by such other party or, if the breach is not reasonably capable of cure within 30 days, such longer period, not to exceed 60 days, so long as the cure is commenced within the 30-day period and thereafter is diligently prosecuted to completion as soon as possible and in any event within 60 days.
+
+5.3. Upon termination or expiration of this Agreement, (i) Impresse shall no longer have the right to use any VerticalNet Mark, (ii) VerticalNet shall no longer have the right to use any Impresse Mark; (iii) Impresse may no longer make any Co-Branded Content available for access and use through the Co-Branded Site; (iv) VerticalNet shall cease framing the Window in the Co-Branded Site; (v) VerticalNet shall remove the V-Solutions Link from the V-Solutions Area; and (vi) VerticalNet shall cease displaying or transmitting all Banners and Newsletters of Impresse.
+
+5.4. Following expiration or termination of this Agreement, the terms and provisions of Article 4  [THE COMMERCIAL TERMS] above shall continue to govern Impresse's payment obligations for any payment obligations accruing during the term of this Agreement. Following termination, Impresse shall provide VerticalNet with a final accounting with respect to this Agreement and tender payment of amounts due under Article 4  [THE COMMERCIAL TERMS] at the next scheduled payment date.
+
+6.   DISPUTE RESOLUTION
+
+6.1. NEGOTIATION AND ESCALATION. If any controversy or claim arises relating to this Agreement, the parties will attempt in good faith to negotiate a solution to their differences, including progressively escalating any controversy or claim through senior levels of management. If negotiation does not result in a resolution within 30 days of the date one party first notifies the other of the controversy or claim, either party may resort to arbitration under Section 6.2  [ARBITRATION].
+
+6.2. ARBITRATION. Any controversy or claim between the parties concerning any breach or alleged breach of this Agreement or performance or nonperformance of any obligation under this Agreement which cannot be resolved by negotiation will be resolved by binding arbitration under this Section 6.2  [ARBITRATION] and the then-current Commercial Rules and supervision of the American Arbitration Association (the "AAA"). If any part of this Section 6.2  [ARBITRATION] is held to be unenforceable, it will be severed and will not affect either the duty to arbitrate or any other part of this Section 6.2  [ARBITRATION]. The arbitration will be held before a sole disinterested arbitrator who is knowledgeable in business information and the Internet and experienced in handling commercial disputes. The arbitrator shall be appointed jointly by the parties hereto within 30 days following the date on which the arbitration is instituted. If the parties are unable to agree upon the arbitrator within such 30-day period, the AAA shall be instructed to select such arbitrator within 15 days thereafter. The arbitrator's award will be final and binding and may be entered in any court having jurisdiction. The arbitrator will not have the power to award punitive or exemplary damages, or any damages excluded by, or in excess of, any damage limitations expressed in this Agreement. Issues of arbitrability will be determined in accordance solely with the federal substantive and procedural laws relating to arbitration; in all other respects, the arbitrator will be obligated to apply and follow the substantive law of the State of Delaware.
+
+7
+
+6.3. EQUITABLE RELIEF. Notwithstanding anything to the contrary in this Agreement, in the event of an alleged violation of Article 7  [CONFIDENTIALITY] of this Agreement by either party, the party alleging such a violation may seek temporary and permanent injunctive or other appropriate equitable relief from any court of competent jurisdiction pending appointment of an arbitrator. The party requesting such relief shall simultaneously file a demand for arbitration of the dispute, and shall request that the AAA proceed under its rules for an expedited hearing.
+
+6.4. COSTS. Unless the arbitrator, if any, determines otherwise, each party will bear its own attorneys' fees and other costs associated with the negotiation and arbitration provided for by this Article 6  [DISPUTE RESOLUTION], except that costs and expenses regarding the arbitrators shall be shared equally. If court proceedings to stay litigation or compel arbitration are necessary, the party who unsuccessfully opposes such proceedings will pay all associated costs, expenses and attorneys' fees that are reasonably incurred by the other party. To the extent that any claim in arbitration relates to the collection of amounts owed under Article 4  [THE COMMERCIAL TERMS], the party entitled to collect such amounts shall be entitled to recover all reasonable costs of collection, including expenses and attorneys' fees that are incurred.
+
+6.5. TWO YEAR LIMITATION. Except for claims under Sections 9.4  [INDEMNIFICATION BY IMPRESSE] and 9.5  [INDEMNIFICATION BY VERTICALNET]
+
+Source: IMPRESSE CORP, S-1/A, 3/22/2000
+
+
+
+
+
+hereof, neither party may bring a claim or action regardless of form, arising out of or related to this Agreement, including any claim of fraud or misrepresentation, more than two years after the cause of action accrues or becomes known, whichever is later.
+
+6.6. CONFIDENTIALITY. In order to facilitate the resolution of controversies or claims between the parties with respect to each party hereto, such controversies or claims, including details regarding negotiations, arbitration and settlement terms, shall be treated as Confidential Information of the other party hereto in accordance with Article 7  [CONFIDENTIALITY].
+
+6.7. REMEDIAL MEASURES. In the event of (a) any material remediable breach of this Agreement by the other party which remains uncured 30 days after notice of such breach was received by the other party or (b) any material breach which cannot be cured, the non-breaching party may take reasonable remediable measures upon prior written notice and at the cost and expense of the breaching party without prejudice and in addition to any other rights arising from such breach. In addition, the non-breaching party shall take reasonable steps to mitigate damages arising out of such breach.
+
+7.   CONFIDENTIALITY
+
+7.1. CONFIDENTIALITY OBLIGATIONS. Except as permitted elsewhere under this Agreement, each party agrees to take Reasonable Steps (as defined below) (a) to receive and maintain the Confidential Information of the other party in confidence and (b) not to disclose such Confidential Information to any third parties, provided, the receiving party may disclose such Confidential Information to its employees, representatives and agents who have a need to know such information for purposes of carrying out the terms of this Agreement. Neither party hereto shall use all or any part of the Confidential Information of the other party for any purpose other than to perform its obligations under this Agreement. The parties will take Reasonable Steps (as defined below) to ensure that their employees, representatives and agents comply with this provision. As used herein, "Reasonable Steps" means at least the same degree of care that the
+
+8
+
+receiving party uses to protect its own Confidential Information, and, in no event, not less than reasonable care.
+
+7.2. EXCLUSIONS. "Confidential Information" does not include information that (a) is or becomes publicly available through no fault of the receiving party; (b) was already known to the receiving party at the time it was disclosed to the receiving party, as evidenced by records of the receiving party; (c) is independently developed by employees of the receiving party who had no knowledge of or access to such information, as evidenced by records of the receiving party; (d) is received from a third party who is under no obligation of confidentiality to the disclosing party; or (e) must be disclosed pursuant to applicable laws, rules or regulations; provided, however, that the receiving party first gives the disclosing party notice and a reasonable opportunity to secure confidential protection of such Confidential Information.
+
+7.3. TERMINATION. Subject to Section 10.11  [SURVIVAL], upon termination of this Agreement, all Confidential Information shall be returned to the disclosing party or, at the request of the disclosing party, destroyed unless otherwise specified or permitted elsewhere under this Agreement. Subject to Section 7.6  [USER DATA], the confidentiality obligations contained in this Article 7  [CONFIDENTIALITY] shall survive termination of this Agreement for a period of three years.
+
+7.4. INJUNCTION. Each party acknowledges and agrees that the provisions of this Article 7  [CONFIDENTIALITY] are reasonable and necessary to protect the other party's interests in its Confidential Information, that any breach of the provisions of this Article 7  [CONFIDENTIALITY] may result in irreparable harm to such other party, and that the remedy at law for such breach may be inadequate. Accordingly, in the event of any breach or threatened breach of the provisions of this Article 7  [CONFIDENTIALITY] by a party hereto, the other party, in addition to any other relief available to it at law, in equity or otherwise, shall be entitled to seek temporary and permanent injunctive relief restraining the breaching party from engaging in and/or continuing any conduct that would constitute a breach of this Article 7  [CONFIDENTIALITY], without posting a bond or other security.
+
+7.5. PUBLICITY. Neither party will originate any press release concerning the relationship between the parties or the transactions described in this Agreement without the prior written consent of the other party, which consent shall not be unreasonably withheld or delayed. Notwithstanding the foregoing, as soon as reasonably practicable following the Effective Date, VerticalNet and Impresse shall jointly issue a press release with respect to entering into this Agreement.
+
+7.6. USER DATA. Impresse shall provide VerticalNet with User Data on each User that submits information through the Co-Branded Site by sending an email with such information to an email address designated by VerticalNet at the time the request occurs. User Data shall be maintained by each Party as Confidential Information of the other Party during the Term and 5 years thereafter, provided such User Data may be disclosed only as part of an aggregation or analysis of all User Data but not as independent data. Upon termination of the Agreement, VerticalNet and Impresse shall jointly own all User Data. Neither Party shall use the User Data other than in accordance with the VerticalNet privacy policy and all applicable laws during the Term and thereafter.
+
+9
+
+8.   REPRESENTATIONS AND WARRANTIES
+
+8.1. REPRESENTATIONS AND WARRANTIES. Each party hereby represents, covenants and warrants that:
+
+8.1.1. It has the corporate power to enter into this Agreement and to grant the rights and licenses granted herein and to otherwise perform this Agreement;
+
+8.1.2. It is not a party to any agreement or understanding and knows of no law or regulation that would prohibit it from entering into and performing this Agreement or that would conflict with this Agreement;
+
+8.1.3. When executed and delivered by it, this Agreement will constitute a legal, valid and binding obligation of it, enforceable against it in accordance with this Agreement's terms, except as enforcement may be limited by laws or regulations relating to bankruptcy, insolvency and creditors rights or by principles of equity;
+
+Source: IMPRESSE CORP, S-1/A, 3/22/2000
+
+
+
+
+
+8.1.4. The portions of the Co-Branded Site provided by such party are and will continue to be Year 2000 Compliant;
+
+8.1.5. To the best of its knowledge, the portions of the Co-Branded Site provided by such party and its own Site do not and will not (i) contain any known viruses, Trojan Horse, worm or harmful code the purpose of which is to disable or interrupt the operating of a computer system or destroy, erase or otherwise harm any data, software or hardware, (ii) contain any false, misleading, libelous or defamatory statements, (iii) constitute an invasion of the rights of privacy or publicity of any third party, (iv) violate any applicable laws, rules and regulations or (v) infringe, violate or misappropriate any Intellectual Property Rights of any third party.
+
+9.   DISCLAIMER OF WARRANTY, LIMITATION OF LIABILITY AND INDEMNIFICATION
+
+9.1. DISCLAIMER OF WARRANTIES BY VERTICALNET. EXCEPT AS EXPRESSELY SET FORTH IN THIS AGREEMENT, VERTICALNET HEREBY DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, WITH RESPECT TO THE VERTICALNET SITES, THE V-SOLUTIONS AREA, THE V-SOLUTIONS LINK AND THE VERTICALNET AREA OF THE CO-BRANDED SITE, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. VERTICALNET EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES AS TO THE USER INTERFACE OR USER EXPERIENCE ASSOCIATED WITH THE VERTICALNET SITES AND RESERVES THE RIGHT, IN ITS SOLE DISCRETION, TO MODIFY THE PLACEMENT OF ALL LINKS, URLS AND PROPRIETARY FEATURES; PROVIDED, HOWEVER, THAT IN THE EVENT VERTICALNET REDESIGNS THE USER INTERFACE, SUCH LINKS, URLS AND PROPRIETARY FEATURES SHALL RECEIVE MUTUALLY AGREEABLE PLACEMENT SUBSTANTIALLY SIMILAR TO THE ORIGINAL DESIGN.
+
+10
+
+9.2. DISCLAIMER OF WARRANTIES BY IMPRESSE. EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, IMPRESSE HEREBY DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, WITH RESPECT TO THE IMPRESSE AREA OF THE CO-BRANDED SITE AND THE IMPRESSE SITE, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+9.3. LIMITATION OF LIABILITY. EXCEPT IN CONNECTION WITH A BREACH BY EITHER PARTY OF ARTICLE 7 OR SECTION 8.1.5  [REPRESENTATIONS AND WARRANTIES] (v) AND THE INDEMNIFICATION OBLIGATIONS OF IMPRESSE UNDER SECTION 9.4(i)(d)  [INDEMNIFICATION BY IMPRESSE] AND THE INDEMNIFICATION OBLIGATIONS OF VERTICALNET UNDER SECTION 9.5(i)(d)  [INDEMNIFICATION BY VERTICALNET], NEITHER PARTY WILL BE LIABLE FOR ANY SPECIAL, INDIRECT, CONSEQUENTIAL, EXEMPLARY OR INCIDENTAL DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY (INCLUDING NEGLIGENCE), EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9.4. INDEMNIFICATION BY IMPRESSE. Subject to Section 9.6  [PROCEDURE], Impresse shall (i) defend at its sole expense VerticalNet and its officers, directors, employees and agents from and against any action, suit, proceeding or investigation brought by a third party and caused by, relating to, based upon, arising out of or in connection with (a) any breach by Impresse of the representations, warranties or agreements made by it in Section 8 of this Agreement, (b) negligence, recklessness or intentional misconduct on the part of Impresse or its officers, directors, employees, agents or consultants, (c) any claim arising out of VerticalNet's authorized use or possession of the portions of the Co-Branded Site provided by Impresse and the Impresse Site as permitted by this Agreement; or (d) any claim that any portion of the Impresse Site or the Impresse Area of the Co-Branded Site violates, infringes or misappropriates any Intellectual Property Right of any third party and (ii) pay all authorized costs, expenses and disbursements incurred in such defense, and any damages, liabilities, obligations, penalties or judgments awarded in any such action, or any settlement amount agreed to by Impresse.
+
+9.5. INDEMNIFICATION BY VERTICALNET. Subject to Section 9.6  [PROCEDURE], VerticalNet shall (i) defend at its sole expense Impresse and its officers, directors, employees and agents from and against any action, suit, proceeding or investigation brought by a third party, caused by, relating to, based upon, arising out of or in connection with (a) any breach by VerticalNet of the representations, warranties or agreements made by it in Section 8 of this Agreement, (b) negligence, recklessness or intentional misconduct on the part of VerticalNet or its officers, directors, employees, agents or consultants, (c) any claim arising out of Impresse's use or possession of the portions of the Co-Branded Site provided by VerticalNet and the VerticalNet Sites as permitted by this Agreement; or (d) any claim that any portion of the VerticalNet Site or the VerticalNet Area of the Co-Branded Site violates, infringes or misappropriates any Intellectual Property Right of any third party and (ii) pay all costs, expenses and disbursements authorized by the Indemnitor (defined below) incurred in such defense, and any damages, liabilities, obligations, penalties or judgments awarded in any such action, or any settlement amount agreed to by VerticalNet.
+
+11
+
+9.6. PROCEDURE. If any action shall be brought against a party in respect to which indemnity may be sought from the other party pursuant to the provisions of this Article 9  [DISCLAIMER OF WARRANTY, LIMITATION OF LI...], the party seeking indemnity (the "Indemnitee") shall follow the procedures in this Section. If an Indemnitee receives any notice of a claim or other allegation with respect to which the other party (the "Indemnitor") has an obligation of indemnity hereunder, then the Indemnitee will, within 15 days of receipt of such notice, give the Indemnitor written notice of such claim or allegation setting forth in reasonable detail the facts and circumstances surrounding the claim. The Indemnitee will not make any payment or incur any costs or expenses with respect to such claim, except as requested by the Indemnitor or as necessary to comply with this procedure. The Indemnitee will not make any admission of liability or take any other action that limits the ability of the Indemnitor to defend the case. The Indemnitor shall immediately assume the full control of the defense or settlement of such claim or allegation, including the selection and employment of counsel, and shall pay all authorized costs and expenses of such defense. The Indemnitee will fully cooperate, at the expense of the Indemnitor, in the defense or settlement of the claim. The Indemnitee shall have the right, at its own expense, to employ separate counsel and participate in the defense or settlement of the claim; provided that the Indemnitor shall have no liability for costs or expenses incurred by the Indemnitee, except to the extent authorized by the Indemnitor pursuant to this procedure.
+
+9.7. ESSENTIAL PART OF BARGAIN. The parties acknowledge that the disclaimers and limitations set forth in this Article 9  [DISCLAIMER OF WARRANTY, LIMITATION OF LI...] are an essential element of this Agreement between the parties and that the parties would not have entered into this Agreement without such disclaimers and limitations.
+
+Source: IMPRESSE CORP, S-1/A, 3/22/2000
+
+
+
+
+
+10.  MISCELLANEOUS
+
+10.1. INTELLECTUAL PROPERTY.
+
+10.1.1. Except for the express rights granted to Impresse under this Agreement, Impresse acknowledges and agrees that the Intellectual Property of VerticalNet is and shall remain the sole property of VerticalNet and nothing in this Agreement shall confer in Impresse any right of ownership or license rights in VerticalNet's Intellectual Property. In addition, Impresse shall not now or in the future contest the validity of VerticalNet's ownership of its Intellectual Property; provided, however, that Impresse may contest the validity of VerticalNet's Intellectual Property in any proceeding brought against Impresse alleging infringement or misappropriation of VerticalNet's Intellectual Property.
+
+10.1.2. Except for the express rights granted to VerticalNet under this Agreement, VerticalNet acknowledges and agrees that the Intellectual Property of Impresse is and shall remain the sole property of Impresse and nothing in this Agreement shall confer in VerticalNet any right of ownership or license rights in Impresse's Intellectual Property. In addition, VerticalNet shall not now or in the future contest the validity of Impresse's ownership of its Intellectual Property; provided, however, that VerticalNet may contest the validity of Impresse's Intellectual Property in any proceeding brought against VerticalNet alleging infringement or misappropriation of Impresse's Intellectual Property.
+
+12
+
+10.2. GOVERNING LAW. This Agreement shall be governed by and interpreted under the laws of the State of Delaware without regard to its conflicts of law provisions.
+
+10.3. NO ASSIGNMENT. Except as otherwise set forth herein, neither party shall transfer, assign or cede any rights or delegate any obligations hereunder, in whole or in part, whether voluntarily or by operation of law, without the prior written consent of the other party, which consent may be withheld at the other party's reasonable business discretion; provided, however, that either party may transfer this Agreement without prior written consent of the other to an Affiliate of such party, or to the surviving party in a merger or consolidation, or to a purchaser of all or substantially all of its assets.
+
+10.4. GOOD FAITH. The parties undertake to display to each other the utmost good faith, consistent with their respective rights and obligations set forth in this Agreement.
+
+10.5. INDEPENDENT CONTRACTORS. In connection with this Agreement, each party is an independent contractor. This Agreement does not, and shall not be construed to, create an employer-employee, agency, joint venture or partnership relationship between the parties. Neither party shall have any authority to act for or to bind the other party in any way, to alter any of the terms or conditions of any of the other party's standard forms of invoices, sales agreements, warranties or otherwise, or to warrant or to execute agreements on behalf of the other or to represent that it is in any way responsible for the acts, debts, liabilities or omissions of the other party.
+
+10.6. NOTICES. All notices, reports, payments and other communications required or permitted to be given under this Agreement (each, a "Notice") shall be in writing and shall be given either by personal delivery against a signed receipt, by express delivery using a nationally recognized overnight courier, or by facsimile. All Notices shall be properly addressed as follows, or to such other addresses as may be specified in a Notice given hereunder:
+
+IF TO VERTICALNET:
+
+Attn: General Counsel VerticalNet, Inc. 700 Dresher Road, Suite 100 Horsham, Pennsylvania 19044 Tel No.: (215) 315-3200 Fax No.: (215) 784-1962
+
+IF TO IMPRESSE:
+
+Attn: Siva Kumar Impresse Corporation 1309 South Mary Avenue Sunnyvale, CA 94087 Phone No.: (408) 530-2022 Fax No.: (408) 245-8336
+
+13
+
+A Notice shall be deemed to be effective upon personal delivery or, if sent via overnight delivery, upon receipt thereof. A Notice sent via facsimile is deemed effective on the same day (or if such day is not a business day, then on the next succeeding business day) if such facsimile is sent before 3:00 p.m. Prevailing Eastern Time and on the next day (or if such day is not a business day, then on the next succeeding business day) if such Notice is sent after 3:00 p.m. Prevailing Eastern Time.
+
+10.7. AMENDMENT OR MODIFICATION. No subsequent amendment, modification or waiver of any of the provisions of this Agreement shall be effective unless in writing and signed by the parties.
+
+10.8. ENTIRE AGREEMENT. This Agreement sets out the entire agreement between the parties with respect to the subject matter of this Agreement and supersedes all prior agreements, proposals, arrangements and communications, whether oral or written, with respect to the subject matter hereof.
+
+10.9. SEVERABILITY. If any provision of this Agreement is held by a tribunal of competent jurisdiction to be illegal, invalid, or otherwise unenforceable in any jurisdiction, then to the fullest extent permitted by law (a) the same shall not effect the other terms or provisions of this Agreement, (b) such term or provision shall be deemed modified to the extent necessary in the tribunal's opinion to render such term or provision enforceable, and the rights and obligations of the parties shall be construed and enforced accordingly, preserving to the fullest extent the intent and agreements of the parties set forth herein and (c) such finding of invalidity, illegality or unenforceability shall not affect the validity, legality or enforceability of
+
+Source: IMPRESSE CORP, S-1/A, 3/22/2000
+
+
+
+
+
+such term or provision in any other jurisdiction.
+
+10.10. NO WAIVER. Failure to enforce any term of this Agreement is not a waiver of future enforcement of that or any other term. No term or provision of this Agreement will be deemed waived and no breach excused unless such waiver or excuse is in writing and signed by the party against whom enforcement of such waiver or excuse is sought.
+
+10.11. SURVIVAL. Sections 5.3  [TERMINATION AND RENEWAL] and 5.4  [TERMINATION AND RENEWAL], and Articles 6  [DISPUTE RESOLUTION], 7, 8, 9 and 10, any payment obligations of the parties hereunder accruing prior to the date of termination; and any other provision herein expressly surviving termination or necessary to interpret the rights and obligations of the parties in connection with the termination of the term of this Agreement will survive the termination or expiration of this Agreement.
+
+10.12. NO THIRD PARTY BENEFICIARIES. Nothing in this Agreement is intended to confer benefits, rights or remedies unto any person or entity other than the parties and their permitted successors and assigns.
+
+10.13. WAIVER OF JURY TRIAL. Each party hereby irrevocably waives all rights a party may have to a trial by jury in any legal action or proceeding arising out of or in connection with this Agreement or the transactions contemplated hereby.
+
+10.14. TITLES. The headings appearing at the beginning of the Sections contained in this Agreement have been inserted for identification and reference purposes only and shall not be used to determine the construction or interpretation of this Agreement. The nomenclature of the
+
+14
+
+defined terms in this Agreement shall only be used for the construction of this Agreement, and are not to be used for any other purpose, including, but not limited to, interpretation for accounting purposes.
+
+10.15. FORCE MAJEURE. Neither party shall be held to be in breach of this Agreement by reason of a force majeure event, including, but not limited to, act of God, delay in transportation, fire, flood, earthquake, storm, war, act of a public enemy, civil commotion or any law, rule, regulation, order or other action by any public authority or any other matter reasonably beyond a party's control. To the extent failure to perform is caused by such a force majeure event, such party shall be excused from performance hereunder so long as such event continues to prevent such performance, and provided the non-performing party takes all reasonable steps to resume full performance.
+
+10.16. COMPLIANCE WITH LAWS. Each party shall comply with all prevailing laws, rules and regulations and obtain all necessary approvals, consents and permits required by the applicable agencies of the government of the jurisdictions that apply to its activities or obligations under this Agreement.
+
+10.17. EXECUTION IN COUNTERPARTS, FACSIMILES. This Agreement may be executed in one or more counterparts, each of which when delivered to the other party shall be deemed an original and all of which together shall constitute one and the same instrument. This Agreement shall become binding when any one or more counterparts hereof, individually or taken together, bear the signatures of both parties hereto. For the purposes hereof, a facsimile copy of this Agreement, including the signature pages hereto, shall be deemed an original.
+
+IN WITNESS WHEREOF, the parties to the Agreement by their duly authorized representatives have executed this Agreement as of the date first written above.
+
+VERTICALNET, INC.                              IMPRESSE CORPORATION
+
+By: /s/ Michael Hagon                         By: /s/ Siva Kumar    -------------------------------               ----------------------------
+
+Name:                                         Name:      -----------------------------                 --------------------------
+
+Title:                                        Title:       ----------------------------                  -------------------------
+
+15
+
+Source: IMPRESSE CORP, S-1/A, 3/22/2000

@@ -1,0 +1,251 @@
+EXHIBIT 10.65   EXHIBIT II   NOVEMBER 1, 2002, RATE FT-A AGREEMENT   BETWEEN LG&E AND TENNESSEE GAS PIPELINE COMPANY
+
+
+
+
+
+  Service Package No: 40715 Amendment No:   GAS TRANSPORTATION AGREEMENT (For Use under FT-A Rate Schedule)   THIS AGREEMENT is made and entered into as of the 1st day of November, 2002, by and between TENNESSEE GAS PIPELINE COMPANY, a Delaware Corporation, hereinafter referred to as "Transporter" and LOUISVILLE GAS AND ELECTRIC COMPANY, a Kentucky Corporation, hereinafter referred to as "Shipper." Transporter and Shipper shall collectively be referred to herein as the "Parties."   ARTICLE I - DEFINITIONS   1.1 TRANSPORTATION QUANTITY - shall mean the maximum daily quantity of gas which Transporter agrees to receive and transport on a firm basis, subject to Article II herein, for the account of Shipper hereunder on each day during each year during the term hereof, which shall be 51,000 dekatherms. Any limitations on the quantities to be received from each Point of Receipt and/or delivered to each Point of Delivery shall be as specified on Exhibit "A" attached hereto.   1.2 EQUIVALENT QUANTITY - shall be as defined in Article I of the General Terms and Conditions of Transporter's FERC Gas Tariff.   ARTICLE II - TRANSPORTATION   Transportation Service - Transporter agrees to accept and receive daily on a firm basis, at the Point(s) of Receipt from Shipper or for Shipper's account such quantity of gas as Shipper makes available up to the Transportation Quantity, and to deliver to or for the account of Shipper to the Point(s) of Delivery an Equivalent Quantity of gas.   ARTICLE III - POINT(S) OF RECEIPT AND DELIVERY   The Primary Point(s) of Receipt and Delivery shall be those points specified on Exhibit "A" attached hereto.   ARTICLE IV   4.1 All facilities are in place to render the service provided for in this Agreement.   4.2 Pursuant to Article VIII, Section 1 of the General Terms and Conditions of Transporter's Tariff ("GT&C"), Transporter shall cause the delivery of natural gas to Shipper at the Shipper's Primary Point of Delivery as nearly as practicable to Transporter's line pressure, provided that such line pressure shall not be less than 500 pounds per square inch gauge at Monroe, meter number 020843, and 600 pounds per square inch gauge at Calvary, meter number 020844. Transporter shall be obligated to provide such minimum pressures only to the extent that capacity is reserved by Shipper and scheduled by Transporter at the Primary Delivery Point(s) described above. Such minimum pressure obligation is subject to the GT&C including, but not limited to, Article X - Excuse of Performances.   In the event Transporter is unable to maintain the minimum pressure(s) described herein but Shipper is still able to take receipt of the scheduled quantity at the Primary Delivery Point(s) described above, then Shipper shall be considered unharmed by Transporter's inability to maintain such minimum pressure(s). Subject to the foregoing, any failure on Transporter's part to deliver the scheduled quantity at the Primary Delivery Point(s)   1
+
+
+
+
+
+  described above shall entitle Shipper to the limited remedy specified in Rate Schedule FT-A, Section 7 - Failure of Transporter.   ARTICLE V - QUALITY SPECIFICATIONS AND STANDARDS FOR MEASUREMENT   For all gas received, transported and delivered hereunder the Parties agree to the Quality Specifications and Standards for Measurement as specified in the General Terms and Conditions of Transporter's FERC Gas Tariff Volume No. 1. To the extent that no new measurement facilities are installed to provide service hereunder, measurement operations will continue in the manner in which they have previously been handled. In the event that such facilities are not operated by Transporter or a downstream pipeline, then responsibility for operations shall be deemed to be Shipper's.   ARTICLE VI - RATES AND CHARGES FOR GAS TRANSPORTATION   6.1 TRANSPORTATION RATES - Commencing upon the effective date hereof, the rates, charges, and surcharges to be paid by Shipper to Transporter for the transportation service provided herein shall be in accordance with transporter's Rate Schedule FT-A and the General Terms and Conditions of Transporter's FERC Gas Tariff. Except as provided to the contrary in any written or electronic agreement(s) between Transporter and Shipper in effect during the term of this Agreement Shipper shall pay Transporter the applicable maximum rate(s) and all other applicable charges and surcharges specified in the Summary of Rates in Transporter's FERC Gas Tariff and in this Rate Schedule. Transporter and Shipper may agree that a specific discounted rate will apply only to certain volumes under the agreement. Transporter and Shipper may agree that a specified discounted rate will apply only to specified volumes (MDQ, TQ, commodity volumes, Extended Receipt and Delivery Service Volumes or Authorized Overrun volumes) under the Agreement; that a specified discounted rate will apply only if specified volumes are achieved (with the maximum rates applicable to volumes above the specified volumes or to all volumes if the specified volumes are never achieved); that a specified discounted rate will apply only during specified periods of the year or over a specifically defined period of time; and/or that a specified discounted rate will apply only to specified points, zones, markets or other defined geographical area. Transporter and Shipper may agree to a specified discounted rate pursuant to the provisions of this Section 6.1 provided that the discounted rate is between the applicable maximum and minimum rates of this service.   6.2 INCIDENTAL CHARGES - Shipper agreed to reimburse Transporter for any filing or similar fees, which have not been previously paid for by Shipper, which Transporter incurs in rendering service hereunder.   6.3 CHANGES IN RATES AND CHARGES - Shipper agrees that Transporter shall have the unilateral right to file with the appropriate regulatory authority and make effective changes in (a) the rates and charges applicable to service pursuant to Transporter's Rate Schedule FT-A, (b) the rate schedule(s) pursuant to which service hereunder is rendered, or (c) any provision of the General Terms and Conditions applicable to those rate schedules. Transporter agrees that Shipper may protest or contest the aforementioned filings, or may seek authorization from duly constituted regulatory authorities for such adjustment of Transporter's existing FERC Gas Tariff as may be found necessary to assure Transporter just and reasonable rates.   2
+
+
+
+
+
+  ARTICLE VII - BILLINGS AND PAYMENTS   Transporter shall bill and shipper shall pay all rates and charges in accordance with Articles V and VI, respectively, of the General Terms and Conditions of the FERC Gas Tariff.   ARTICLE VIII - GENERAL TERMS AND CONDITIONS   This Agreement shall be subject to the effective provisions of Transporter's Rate Schedule FT-A and to the General Terms and Conditions incorporated therein, as the same may be changed or superseded from time to time in accordance with the rules and regulations of the FERC.   ARTICLE IX - REGULATION   9.1 This Agreement shall be subject to all applicable and lawful governmental statutes, orders, rules and regulations and is contingent upon the receipt and continuation of all necessary regulatory approvals or authorizations upon terms acceptable to Transporter. This Agreement shall be void and of no force and effect if any necessary regulatory approval is not so obtained or continued. All Parties hereto shall cooperate to obtain or continue all necessary approvals or authorizations, but no Party shall be liable to any other party for failure to obtain or continue such approvals or authorizations.   9.2 The transportation service described herein shall be provided subject to Subpart G, Part 284 of the FERC Regulations.   ARTICLE X - RESPONSIBILITY DURING TRANSPORTATION   Except as herein specified, the responsibility for gas during transportation shall be as stated in the General Terms and Conditions of Transporter's FERC Gas Tariff Volume No. 1.   ARTICLE XI - WARRANTIES   11.1 In addition to the warranties set forth in Article IX of the General Terms and Conditions of Transporter's FERC Gas Tariff, Shipper warrants the following:   (a) Shipper warrants that all upstream and downstream transportation arrangements are in place, or will be in place as of the requested effective date of service, and that it has advised the upstream and downstream transporters of the receipt and delivery points under this Agreement and any quantity limitations for each point as specified on Exhibit "A" attached hereto. Shipper agrees to indemnify and hold Transporter harmless for refusal to transport gas hereunder in the event any upstream or downstream transporter fails to receive or deliver gas as contemplated by this Agreement.   (b) Shipper agrees to indemnify and hold Transporter harmless from all suits, actions, debts, accounts, damages, costs, losses and expenses (including reasonable attorneys fees) arising from or out of breach of any warranty by Shipper herein.   11.2 Transporter shall not be obligated to provide or continue service hereunder in the event of any breach of warranty.   3
+
+
+
+
+
+  ARTICLE XII - TERM   12.1 This contract shall be effective as of November 1, 2002, and shall remain in force and effect, unless modified as per Exhibit B, until October 31, 2012. If the FERC or other governmental body having jurisdiction over the service rendered pursuant to this Agreement authorizes abandonment of such service, this Agreement shall terminate on the abandonment date permitted by the FERC or such other governmental body.   12.2 Any portions of this Agreement necessary to resolve or cash out imbalances under this Agreement as required by the General Terms and Conditions of Transporter's Tariff shall survive the other parts of this Agreement until such time as such balancing has been accomplished; provided, however, that Transporter notifies Shipper of such imbalance not later than twelve months after the termination of this Agreement.   12.3 This Agreement will terminate automatically upon written notice from Transporter in the event Shipper fails to pay all of the amount of any bill for service rendered by Transporter hereunder in accord with the terms and conditions of Article VI of the General Terms and Conditions of Transporter's FERC Gas Tariff.   ARTICLE XIII - NOTICE   Except as otherwise provided in the General Terms and Conditions applicable to this Agreement, any notice under this Agreement shall be in writing and mailed to the post office address of the Party intended to receive the same, as follows:
+
+TRANSPORTER: Tennessee Gas Pipeline Company P. O. Box 2511 Houston, Texas 77252-2511
+
+Attention: Director, Transportation Control
+
+SHIPPER:
+
+
+
+NOTICES: Louisville Gas and Electric Company P. O. Box 32020 Louisville, Kentucky 40232
+
+Attention: J. Clay Murphy, Dir - Gas Management, Planning and Supply
+
+BILLING: Louisville Gas and Electric Company P. O. Box 32020 Louisville, Kentucky 40232
+
+Attention: J. Clay Murphy, Dir - Gas Management, Planning and Supply     or such other address as either Party shall designate by formal written notice to the other.   4
+
+
+
+
+
+  ARTICLE XIV - ASSIGNMENTS   14.1 Either Party may assign or pledge this Agreement and all rights and obligations hereunder under the provisions of any mortgage, deed of trust, indenture, or other instrument which it has executed or may execute hereafter as security for indebtedness. Either Party may, without relieving itself of its obligation under this Agreement, assignment any of its rights hereunder to a company with which it is affiliated. Otherwise, Shipper shall not assign this Agreement or any of its rights hereunder, except in accord with Article III, Section 11 of the General Terms and Conditions of Transporter's FERC Gas Tariff.   14.2 Any person which shall succeed by purchase, merger, or consolidation to the properties, substantially as an entirety, of either Party hereto shall be entitled to the rights and shall be subject to the obligations of its predecessor in interest under this Agreement.   ARTICLE XV - MISCELLANEOUS   15.1 THE INTERPRETATION AND PERFORMANCE OF THIS CONTRACT SHALL BE IN ACCORDANCE WITH AND CONTROLLED BY THE LAWS OF THE STATE OF TEXAS, WITHOUT REGARD TO THE DOCTRINES GOVERNING CHOICE OF LAW.   15.2 If any provision of this Agreement is declared null and void, or voidable, by a court of competent jurisdiction, then that provision will be considered severable at either Party's option; and if the severability option is exercised, the remaining provisions of the Agreement shall remain in full force and effect.   15.3 Unless otherwise expressly provided in this Agreement or Transporter's FERC Gas Tariff, no modification of or supplement to the terms and provisions stated in this Agreement shall be or become effective until Shipper has submitted a request for change through PASSKEY and Shipper has been notified through PASSKEY of Transporter's agreement to such change.   15.4 Exhibit "A" attached hereto is incorporated herein by reference and made a part hereof for all purposes.   IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be duly executed as of the date first hereinabove written.
+
+TENNESSEE GAS PIPELINE COMPANY
+
+By:
+
+/s/
+
+
+
+Agent and Attorney-in-Fact
+
+SHIPPER: LOUISVILLE GAS AND ELECTRIC COMPANY
+
+By:
+
+/s/ Chris Hermann
+
+
+
+Title: Senior Vice President - Distribution Operations
+
+Date: July 29, 2002         5
+
+
+
+
+
+EXHIBIT "A" TO GAS TRANSPORTATION AGREEMENT DATED NOVEMBER 1, 2002 BETWEEN TENNESSEE GAS PIPELINE COMPANY AND LOUISVILLE GAS AND ELECTRIC COMPANY     EFFECTIVE DATE OF AMENDMENT: RATE SCHEDULE: FT-A SERVICE PACKAGE: SERVICE PACKAGE TQ: 51,000 Dth   METER
+
+METER NAME
+
+INTERCONNECT PARTY NAME
+
+COUNTY
+
+ST
+
+ZONE
+
+R/D
+
+LEG
+
+TOTAL-TQ
+
+BILLABLE-TQ 020844
+
+Calgary
+
+Louisville Gas and Electric Co.
+
+Marion
+
+Ky
+
+2
+
+D
+
+100
+
+51,000
+
+51,000 011306
+
+Agua Dulce
+
+Channel Industries
+
+Nueces
+
+Tx
+
+0
+
+R
+
+100
+
+40,000
+
+40,000 010723
+
+Kiln Miss Exchange
+
+Gulfstream
+
+Hancock
+
+Ms
+
+1
+
+R
+
+500
+
+7,000
+
+7,000 012241
+
+Ship Shoal 108
+
+Chevron USA
+
+OL
+
+La
+
+1
+
+R
+
+500
+
+4,000
+
+4,000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+51,000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TQ
+
+
+
+
+
+
+
+    NUMBER OF RECEIPT POINTS:
+
+3 NUMBER OF DELIVERY POINTS:
+
+1   Note: Exhibit "A" is a reflection of the contract and all amendments as of the amendment effective date.     GAS TRANSPORTATION AGREEMENT (For Use under FT-A Rate Schedule)   EXHIBIT "B"   TO GAS TRANSPORTATION AGREEMENT DATED November 1, 2002 BETWEEN TENNESSEE GAS PIPELINE COMPANY AND LOUISVILLE GAS AND ELECTRIC COMPANY   BUYOUT/EARLY TERMINATION PROVISIONS*   SERVICE PACKAGE:   BUYOUT PERIOD(S) November 1, 2007 through October 31, 2012       AMOUNT OF TQ REDUCED 51,000 Dth  FOR PERIOD(S)     AMOUNT OF $0.00 BUYOUT PAYMENT FOR PERIOD(S)     ANY LIMITATIONS ON THE EXERCISE OF THE BUYOUT/TERMINATION OPTION AS BID BY THE SHIPPER: Shipper must notify Transporter on or before October 31, 2006 of its intent to terminate the attached service agreement. Such termination shall become effective as of November 1, 2007. Notwithstanding the foregoing, if at any time Tennessee terminates the July 8, 2002, Negotiated Rate Agreement between Tennessee and Shipper for any reason, Shipper shall have the unilateral right to notify Tennessee of its intent to terminate this Agreement effective sixty days after the referenced Negotiated Rate Agreement terminates.
+
+*NOTICE MUST BE GIVEN AS PROVIDED FOR IN THE NET PRESENT VALUE STANDARD OF THE GENERAL TERMS AND CONDITIONS.       6
+
+
+
+
+
+
+
+
+
+  GAS TRANSPORTATION AGREEMENT (For Use under FT-A Rate Schedule)   EXHIBIT "B"   TO GAS TRANSPORTATION AGREEMENT DATED November 1, 2002 BETWEEN TENNESSEE GAS PIPELINE COMPANY AND LOUISVILLE GAS AND ELECTRIC COMPANY   BUYOUT/EARLY TERMINATION PROVISIONS*   SERVICE PACKAGE:   BUYOUT PERIOD(S) November 1, 2007 through October 31, 2012       AMOUNT OF TQ REDUCED 51,000 Dth  FOR PERIOD(S)     AMOUNT OF $0.00 BUYOUT PAYMENT FOR PERIOD(S)     ANY LIMITATIONS ON THE EXERCISE OF THE BUYOUT/TERMINATION OPTION AS BID BY THE SHIPPER: Shipper must notify Transporter on or before October 31, 2006 of its intent to terminate the attached service agreement. Such termination shall become effective as of November 1, 2007. Notwithstanding the foregoing, if at any time Tennessee terminates the July 8, 2002, Negotiated Rate Agreement between Tennessee and Shipper for any reason, Shipper shall have the unilateral right to notify Tennessee of its intent to terminate this Agreement effective sixty days after the referenced Negotiated Rate Agreement terminates.   *NOTICE MUST BE GIVEN AS PROVIDED FOR IN THE NET PRESENT VALUE STANDARD OF THE GENERAL TERMS AND CONDITIONS.     7

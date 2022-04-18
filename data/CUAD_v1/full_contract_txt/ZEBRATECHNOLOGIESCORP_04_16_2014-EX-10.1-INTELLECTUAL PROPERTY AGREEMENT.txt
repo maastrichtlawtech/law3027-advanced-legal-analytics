@@ -1,0 +1,679 @@
+Exhibit 10.1
+
+INTELLECTUAL PROPERTY AGREEMENT
+
+THIS INTELLECTUAL PROPERTY AGREEMENT (this "IP Agreement") is entered into as of April 14, 2014 (the "Effective Date"), by and between Motorola Solutions, Inc., a Delaware corporation (the "Seller"), and Zebra Technologies Corporation, a Delaware corporation (the "Purchaser").
+
+RECITALS
+
+WHEREAS, the Seller, directly and through certain of its Affiliates, is engaged in the Business;
+
+WHEREAS, the Seller desires to sell and transfer to the Purchaser, and the Purchaser desires to acquire from the Seller, the Business, and in furtherance thereof, at each applicable Closing, the Seller will sell and assign, and will cause the other members of the Seller Group to sell and assign, to the Purchaser Group, and the Purchaser will purchase and assume, and will cause the other members of the Purchaser Group to purchase and assume, from the Seller Group, certain of the assets and liabilities of the Business, including all of the capital stock of the Acquired Companies, all on terms and conditions set forth in that certain Master Acquisition Agreement of even date herewith (the "Acquisition Agreement");
+
+WHEREAS, certain assets owned, developed, or used by the Seller Parties in connection with the Business constitute Intellectual Property (as defined below);
+
+WHEREAS, as part of the Purchaser's acquisition of the Business, the Seller intends to assign to the Purchaser Assignees certain of such Intellectual Property and to license the Purchaser Licensees to use certain of such Intellectual Property, in each case pursuant to the terms and conditions set forth herein; and
+
+WHEREAS, as part of such acquisition, the Purchaser Assignees and Acquired Companies intend to license the Seller Parties to use certain of such assigned Intellectual Property and certain other Intellectual Property owned by the Acquired Companies.
+
+AGREEMENT
+
+NOW, THEREFORE, in consideration of the foregoing recitals, the mutual representations, warranties and covenants set forth in this IP Agreement and the other Transaction Agreements, and other good and valuable consideration, the receipt and sufficiency of which the parties acknowledge, the parties agree as follows:
+
+ARTICLE I DEFINITIONS
+
+Section 1.1 Definitions. For the purposes of this IP Agreement, the following terms have the meanings set forth below. Capitalized terms used in this IP Agreement but not otherwise defined herein have the meanings ascribed to them in the Acquisition Agreement.
+
+(a) "Acquired Company IP" means all Intellectual Property owned by, as of the Initial Closing Date, any of the Acquired Companies, including the Acquired Company Patents and the Acquired Company Trademarks, but for the avoidance of doubt, excluding any Assigned IP.
+
+
+
+
+
+(b) "Acquired Company Patents" means (i) all of the Patents owned by, as of the Initial Closing Date, any of the Acquired Companies, including those set forth on Schedule 1.1(b) of the Seller IPA Disclosure Schedule, and (ii) any Patents that are based on any invention disclosure that is owned by, as of the Initial Closing Date, any of the Acquired Companies, but for the avoidance of doubt, excluding any Assigned IP.
+
+(c) "Acquired Company Trademarks" means all of the Trademarks owned by, as of the Initial Closing Date, any of the Acquired Companies, including those set forth on Schedule 1.1(c) of the Seller IPA Disclosure Schedule, but for the avoidance of doubt, excluding any Assigned IP.
+
+(d) "Acquisition Agreement" has the meaning ascribed to it in the recitals.
+
+(e) "Additional Patents" has the meaning ascribed to it in Section 2.1(b)(iii)(F).
+
+(f) "Ancillary IP Rights" means, with respect to any Intellectual Property, any and all of the following in any jurisdiction throughout the world: (i) rights to pursue and collect damages, costs, injunctive relief and other remedies for past, current or future infringement, misappropriation, or conflict with such Intellectual Property; and (ii) royalties, fees, income and other payments and proceeds due or accrued as of the Initial Closing Date and thereafter under or arising from such Intellectual Property.
+
+(g) "Assigned Copyright Materials" means all of the copyrightable or copyrighted materials owned by any Seller Party as of the Initial Closing Date that were created by a Business Employee, including the materials set forth on Schedule 1.1(g); provided that, for the avoidance of doubt, the Assigned Copyright Materials do not include any copyrightable or copyrighted material that is Software.
+
+(h) "Assigned Copyrights" means all of the (i) Copyright registrations and unregistered Copyrights owned by of any Seller Party as of the Initial Closing Date that are for the Assigned Copyright Materials or the Assigned Software, and (ii) other Copyrights owned by any Seller Party as of the Initial Closing Date that were created by a Business Employee, including the Copyrights set forth on Schedule 1.1(h) of the Seller IPA Disclosure Schedule; provided that, for the avoidance of doubt, the Assigned Copyrights do not include any copyright registrations or unregistered copyrights for Software other than Assigned Software.
+
+(i) "Assigned IP" means: (i) Assigned Copyrights, Assigned Copyright Materials, Assigned Patents, Assigned Know-How, Assigned Software, Assigned Trademarks, and Assigned Other IP; and (ii) any other Intellectual Property that is owned by any Seller Party as of the Initial Closing Date and that (a) is Formerly Owned by the Business, or (b) is or was used exclusively in connection with the Business on or prior to the Initial Closing Date.
+
+(j) "Assigned Know-How" means all of the Know-How owned by any Seller Party as of the Initial Closing Date that was created by a Business Employee, including the Know-How set forth on Schedule 1.1(j).   2
+
+
+
+
+
+(k) "Assigned Other IP" means all of the Intellectual Property (other than Copyrights, Know-How, Patents, and Software), if any, owned by any Seller Party as of the Initial Closing Date that was created by a Business Employee, including the Trademarks and other Intellectual Property set forth on Schedule 1.1(k)(i), but for the avoidance of doubt, excluding the Trademarks set forth on Schedule 1.1(k)(ii).
+
+(l) "Assigned Patents" means (i) all of the Patents owned by any Seller Party as of the Initial Closing Date that are set forth on Schedule 1.1(l) of the Seller IPA Disclosure Schedule, and (ii) any Patents that are based on any invention disclosure that is owned by any Seller Party as of the Initial Closing Date and that is assigned to any of the Purchaser Assignees.
+
+(m) "Assigned Software" means all of the Software owned by any Seller Party as of the Initial Closing Date that was created by a Business Employee, including the Software set forth on Schedule 1.1(m); provided that, for the avoidance of doubt, the Assigned Software does not include any rights under any Licensed Patents that cover Software.
+
+(n) "Assigned Trademarks" means all of the Trademarks owned by any Seller Party as of the Initial Closing Date that are exclusively used in connection with the Business on the Initial Closing Date, including the Trademarks set forth on Schedule 1.1(n) of the Seller IPA Disclosure Schedule.
+
+(o) Intentionally Omitted.
+
+(p) "Business Employee" means any current or former employee or independent contractor of any Seller Party or any Acquired Company who, at the time of creation of Intellectual Property, was performing work for the Business and created such Intellectual Property for the Business in connection with the performance of such work.
+
+(q) "Buyer" has the meaning ascribed to it in Section 6.3.
+
+(r) "Change of Control Event" has the meaning ascribed to it in Section 6.3.
+
+(s) "Copyrights" has the meaning ascribed to it in the definition of Intellectual Property.
+
+(t) "Derivative Works" (i) with respect to copyrightable works shall have the meaning set forth in the U.S. Copyright Act, 17 U.S.C. §101, et seq. (including translation into other computer language and any other form in which an existing work may be recast, transformed or adapted which would constitute a derivative work under the U.S. Copyright Act, 17 U.S.C. §101), and (ii) with respect to Know-How, it shall also mean any material derived from such Know-How.
+
+(u) "Enterprise Data Capture Products" means (i) bar code scanner products for reading machine-readable symbols (including fixed, handheld, portable, wearable, and vehicle-mounted laser scanners and linear and area imagers), (ii) radio frequency identification ("RFID") reader products used to communicate with RFID tags (including portal RFID readers, doorway, forklift, crane and delivery-door RFID readers, handheld RFID readers, and fixed, vehicle-mounted, wearable, portable, hands-free and mobile RFID readers), or (iii) associated   3
+
+
+
+
+
+accessories and Software, in each case, to the extent such products are the same as those (a) offered by the Enterprise Segment on or prior to the Initial Closing Date or (b) under development by the Enterprise Segment on the Initial Closing Date.
+
+(v) "Enterprise Mobile Computing Products" means durable or rugged enterprise-grade fixed, handheld, wearable, vehicle-mounted, or portable computing or smartphone products, which products shall include handheld and portable mobile computers, gun handle mobile computers, tablet computers, vehicle-mounted computers and wearable computers, in each case, to the extent such products are the same as those (i) offered by the Enterprise Segment on or prior to the Initial Closing Date, or (ii) under development by the Enterprise Segment on the Initial Closing Date.
+
+(w) "Enterprise Products" means (i) Enterprise Data Capture Products, (ii) Enterprise Mobile Computing Products, or (iii) Enterprise Wireless LAN Products.
+
+(x) "Enterprise Segment" means the Enterprise reporting segment as reflected in the Seller Financial Statements except to the extent they include Integrated Digital Enhanced (iDEN) protocol network infrastructure products and related Software and services.
+
+(y) "Enterprise Wireless LAN Products" means products that provide connectivity to wireless products within a local area network (whether indoors or outdoors) and that operate in compliance with the IEEE 802.11 standard (which products shall include types of products that are wireless local area network ("LAN") products, including (i) wireless access points and ports compliant with the IEEE 802.11 standard, (ii) wireless controllers compliant with the IEEE 802.11 standard, (iii) wireless switches designed for use with the foregoing wireless access points, ports and controllers, and (iv) related LAN accessories and Software), in each case, to the extent such products are the same as those (a) offered by the Enterprise Segment on or prior to the Initial Closing Date, or (b) under development by the Enterprise Segment on the Initial Closing Date.
+
+(z) "Excluded Field Products" means any product to the extent it was designed, developed, or manufactured for use in conjunction with or for interoperability with a (i) Public Safety Next-Gen LTE Network or (ii) Two-Way Radio Network.
+
+(aa) "Excluded Infrastructure Equipment" means (i) (a) government, public safety or defense communications network infrastructure equipment and systems, or (b) professional and commercial communications network infrastructure equipment and systems, in each case of clauses (a) and (b), to the extent designed, developed, or manufactured to operate with Excluded Mobile Radio Products, or (ii) network infrastructure equipment to the extent designed, developed, or manufactured to operate with a Public Safety Next-Gen LTE Network and on the frequency band allocated to the Public Safety Community.
+
+(bb) "Excluded Mobile Radio Products" means any product (including any government, public safety and defense, professional, and commercial product): (i) to the extent that such product has a primary communication mode of Push-to-Talk and contains a transceiver that operates: (a) in a frequency band that is allocated for land mobile radio users; and (b) in compliance with any Two-Way Radio Standard; or (ii) to the extent that such product contains a transceiver that operates in compliance with the Integrated Digital Enhanced (iDEN) protocol.   4
+
+
+
+
+
+(cc) "Excluded Software and Solutions" means (i) a command and control solution (hardware and Software) to the extent that it is designed, developed, or manufactured primarily for use by the Public Safety Community or Government Entities, or (ii) Software to the extent designed primarily to operate Excluded Mobile Radio Products or Excluded Infrastructure Equipment.
+
+(dd) "Existing Stock" has the meaning ascribed to it in Section 2.2(d).
+
+(ee) "Formerly Owned by the Business" means, with respect to any type of Intellectual Property, any item of such Intellectual Property that (i) is owned by any Seller Party as of the Initial Closing Date and (ii) was at any time prior to the Initial Closing Date owned by any Acquired Company in any form, e.g., an invention owned by an Acquired Company prior to the Initial Closing Date for which a patent or patent application is owned by a Seller Party as of the Initial Closing Date.
+
+(ff) "Future Acquisition" has the meaning ascribed to it in Section 6.4.
+
+(gg) "Group" means (i) with respect to the Seller, the Seller Group, and (ii) with respect to the Purchaser, the Purchaser Group.
+
+(hh) "In-bound Licenses" has the meaning ascribed to it in Section 3.4.
+
+(ii) "Incorporated Into" means, with respect to a product, embedded in, used in, incorporated into, combined with, linked with, distributed with, provided as a service with or made available with such product, including any Object Code that is referenced or required to be present or available (e.g., available via another machine connected directly or through a network) in such product for such product to properly function in accordance with its specifications.
+
+(jj) "Insolvent Party" has the meaning ascribed to it in Section 4.5.
+
+(kk) "Intellectual Property" means any and all of the following in any jurisdiction throughout the world: (i) patents, patent applications, industrial design rights (including utility model rights, design rights, and industrial property rights), registrations and applications for registration of industrial design rights, patents of importation/confirmation, statutory invention registrations, and certificates of invention and like statutory right, all counterparts, continuations, divisions, continuations-in-part, revisions, extensions, supplementary certificates, substitutions, reexaminations, renewals, and reissuances of any of the foregoing and any patent or patent application that claims priority to any of the foregoing (collectively, "Patents"); (ii) Trademarks; (iii) copyright registrations and applications, and unregistered copyrights, published and unpublished works of authorship, and Mask Works, together with all applications, registrations, and renewals in connection therewith, and all common-law rights to any of the foregoing (collectively, "Copyrights"); (iv) computer programs, whether embodied in software, firmware or otherwise, including, software compilations, software implementations of algorithms, software tool sets, compilers, and software models and methodologies (whether in Source Code or Object Code form), and (C) translation, ported   5
+
+
+
+
+
+versions and modifications of any of the foregoing (collectively, "Software"); (v) trade secrets, know-how, inventions, invention disclosures, and other confidential or proprietary information (collectively, "Know-How"); and (vi) all other intellectual property rights or industrial property rights.
+
+(ll) "Invention Disclosure Review List" has the meaning ascribed to it in Section 2.1(b)(iii)(A).
+
+(mm) "Invention Disclosure Review Team" means Paul Steinberg and Bob Sanders (or their replacements or proxies, as applicable, as determined by their respective then-current employer).
+
+(nn) "IP Agreement" has the meaning ascribed to it in the preamble.
+
+(oo) "Know-How" has the meaning ascribed to it in the definition of Intellectual Property.
+
+(pp) "LAN" has the meaning ascribed to it in the definition of Enterprise Wireless LAN Products.
+
+(qq) "Licensable" means, with respect to Intellectual Property, that (i) such Intellectual Property is owned by a third Person (other than a Seller Party), and (ii) as of the Initial Closing Date, a Seller Party has (to the extent which and for such time that a Seller Party has) a right to grant to any Purchaser Licensee the licenses, sublicenses, or related rights to such Intellectual Property as set forth in this IP Agreement without the payment of royalties or other consideration to third Persons (except for payments for which the Purchaser agrees to reimburse the Seller or payments to any third Person: (A) for inventions made by such third Person while engaged by any Seller Party; and (B) as consideration for the acquisition of such Intellectual Property) and without obtaining the consent of any third Person (except where such consent has already been granted).
+
+(rr) "Licensed Copyright Materials" means all of the copyrighted and copyrightable materials owned or Licensable by any Seller Party as of the Initial Closing Date that are or have been, on or prior to the Initial Closing Date, (i) used in connection with the Business, (ii) used in connection with the development of any product, service, or system in the Business, or (iii) incorporated into any product, service, or system in the Business; provided, that, for the avoidance of doubt, the Licensed Copyright Materials do not include (A) the Assigned Copyright Materials, (B) works authored after, or acquired by any Seller Party after, the Initial Closing Date, or (C) Software.
+
+(ss) "Licensed Copyrights" means: (i) all of the copyright registrations and unregistered copyrights owned or Licensable by any Seller Party as of the Initial Closing Date that are for the Licensed Copyright Materials or the Licensed Software; and (ii) all other Copyrights that are owned or Licensable by any Seller Party as of the Initial Closing Date that are or have been, on or prior to the Initial Closing Date, (A) used in connection with the Business, (B) used in connection with the development of any product, service, or system in the Business, or (C) incorporated into any product, service, or system in the Business; provided that, for the avoidance of doubt, the Licensed Copyrights do not include the Assigned Copyrights or   6
+
+
+
+
+
+any copyright registrations or unregistered copyrights that are for (I) copyrightable works authored after, or acquired by any Seller Party after, the Initial Closing Date or (II) Software (other than the Licensed Software).
+
+(tt) "Licensed IP" means the Licensed Copyrights, Licensed Copyright Materials, Licensed Know-How, Licensed Patents, Licensed Software, Licensed Trademarks, Mobility Trademarks, Non-Mobility Trademarks, and Licensed Other IP.
+
+(uu) "Licensed Know-How" means all of the Know-How owned or Licensable by any Seller Party as of the Initial Closing Date that is or has been, on or prior to the Initial Closing Date, (i) used in connection with the Business, (ii) used in connection with the development of any product, service, or system in the Business, or (iii) incorporated into any product, service, or system in the Business; provided that, for the avoidance of doubt, the Licensed Know-How does not include (A) the Assigned Know-How, or (B) any Know-How that is developed or acquired by any Seller Party after the Initial Closing Date.
+
+(vv) "Licensed Other IP" means all of the Intellectual Property (other than the Licensed Copyrights, Licensed Patents, Licensed Copyright Materials, Licensed Know-How, Licensed Software, and Trademarks), if any, owned or Licensable by any Seller Party as of the Initial Closing Date that is or has been, on or prior to the Initial Closing Date, (i) used in connection with the Business, (ii) used in connection with the development of any product, service, or system in the Business, or (iii) incorporated into any product, service, or system in the Business; provided that, for the avoidance of doubt, the Licensed Other IP does not include the Assigned Other IP.
+
+(ww) "Licensed Patents" means all of the Patents (i) owned by any Seller Party as of the Initial Closing Date or that are based on an invention disclosure owned by any Seller Party as of the Initial Closing Date, or (ii) Licensable by any Seller Party as of the Initial Closing Date; provided that, for the avoidance of doubt, the Licensed Patents do not include the Assigned Patents.
+
+(xx) "Licensed Software" means the Software owned or Licensable by any Seller Party as of the Initial Closing Date that is or has been, on or prior to the Initial Closing Date, (i) used in connection with the Business, (ii) used in connection with the development of any product, service, or system in the Business, or (iii) incorporated into any product, service, or system in the Business; provided that, for the avoidance of doubt, the Licensed Software does not include (I) the Assigned Software, (II) Software developed or acquired by any Seller Party after the Initial Closing Date, or (C) Seller Group Software specifically licensed to the Purchaser Group under another Transaction Agreement.
+
+(yy) "Licensed Trademarks" means the Trademarks set forth on Schedule 1.1(yy); provided that, for the avoidance of doubt, the Licensed Trademarks do not include the Assigned Trademarks, the Mobility Trademarks, or the Non-Mobility Trademarks.
+
+(zz) "LTE" means the Long Term Evolution (LTE) or Long Term Evolution Advanced (LTE-A) fourth generation (4G) broadband communications standards, including various derivations thereof that do not fundamentally alter the character thereof (e.g., wireless air-interface, framing structure, control, call set-up and connection management).   7
+
+
+
+
+
+(aaa) "Mask Work" means: (i) any mask work, registered or unregistered, as defined in 17 U.S.C. §901; (ii) all registrations and applications to register the foregoing anywhere in the world; (iii) all foreign counterparts and analogous rights anywhere in the world (including semiconductor topography rights); and (iv) all rights in and to any of the foregoing.
+
+(bbb) "Material IP Contracts" has the meaning ascribed to it in Section 3.4.
+
+(ccc) "Mobility Intellectual Property License" means that certain Amended and Restated Intellectual Property License Agreement, by and between Motorola Mobility, Inc. and Motorola, Inc., effective as of July 31, 2010.
+
+(ddd) "Mobility Trademark License" means that certain Amended and Restated Exclusive License Agreement, by and between Motorola Trademark Holdings, LLC and Motorola, Inc., effective as of July 30, 2010.
+
+(eee) "Mobility Trademarks" means any Trademarks licensed to any Seller Party or any Acquired Company pursuant to the Mobility Trademark License that are, as of the Initial Closing Date, used in connection with the Business or any product, service, or system in the Business.
+
+(fff) "Mobility Transition Period" has the meaning ascribed to it in Section 2.2(d)(i)(A).
+
+(ggg) "New Business Employee" has the meaning ascribed to it in Section 2.1(b)(iii)(D).
+
+(hhh) "Non-Mobility Trademarks" has the meaning ascribed to it in Section 2.2(d)(i)(B).
+
+(iii) "Non-Mobility Transition Period" has the meaning ascribed to it in Section 2.2(d)(i)(B).
+
+(jjj) "Object Code" means one or more computer instructions in machine readable form (whether or not packaged in directly executable form), including any such instructions that are readable in a virtual machine, whether or not derived from Source Code, together with any partially compiled or intermediate code that may result from the compilation, assembly or interpretation of any Source Code. Object Code includes firmware, compiled or interpreted programmable logic, libraries, objects, bytecode, machine code, and middleware.
+
+(kkk) "Off-the-Shelf Software Licenses" means licenses in respect of commercially available, unmodified, "off-the-shelf" Software used by any of the Seller Entities solely for its own internal use with respect to the Business.
+
+(lll) "Open Source Software" means any Software that is subject to any license that is, or is substantially similar to, a license approved by the Open Source Initiative and listed   8
+
+
+
+
+
+at http://www.opensource.org/licenses as of the Initial Closing Date, which licenses include all versions of the GNU General Public License (GPL), the Lesser GNU Public License (LGPL), the GNU Affero GPL, the MIT License, the Eclipse Public License, the Common Public License, the CDDL, the Mozilla Public License, the Academic Free License, the BSD License and the Apache License, or any Reciprocal License.
+
+(mmm) "Out-bound Licenses" has the meaning ascribed to it in Section 3.4.
+
+(nnn) "Outstanding Patents" has the meaning ascribed to it in Section 2.1(b)(iii)(F).
+
+(ooo) "Patent Review List" has the meaning ascribed to it in Section 2.1(b)(iii)(A).
+
+(ppp) "Patents" has the meaning ascribed to it in the definition of Intellectual Property.
+
+(qqq) "Permitted Type of Enterprise Mobile Computing Product" means a Type of Enterprise Mobile Computing Product that: (i) (a) is a component used in a solution, (b) interoperates with one or more Purchaser Excluded Products in such solution, and (c) is designed primarily for such use and interoperation; (ii) is a standalone product that is designed primarily for use by the Public Safety Community or Governmental Entities; or (iii) is a Purchaser Excluded Product that is designed primarily (A) for use by the Public Safety Community or Governmental Entities, (B) to operate in compliance with the Integrated Digital Enhanced (iDEN) protocol, or (C) to operate in compliance with any Two-Way Radio Standard.
+
+(rrr) "product" means device or product.
+
+(sss) "Public Safety LTE Smartphone Devices" means any fixed, handheld, vehicle-mounted, wearable, or portable wireless product that is compliant with LTE and is designed primarily for use by either the Public Safety Community or Governmental Entities.
+
+(ttt) "Public Safety Next-Gen LTE Network" means a network that is based upon LTE and operates on a frequency band allocated to the Public Safety Community.
+
+(uuu) "Purchaser" has the meaning ascribed to it in the preamble.
+
+(vvv) "Purchaser Assignees" means one or more Persons designated, on or prior to the Initial Closing Date, by Purchaser to Seller.
+
+(www) "Purchaser Excluded Products" means (i) Excluded Infrastructure Equipment, (ii) Excluded Mobile Radio Products, (iii) Excluded Software and Solutions, or (iv) Excluded Field Products.
+
+(xxx) "Purchaser Licensees" means each (for the avoidance of doubt, and without limiting any other provision of this IP Agreement, current or future) Affiliate of the Purchaser (including the Acquired Companies).   9
+
+
+
+
+
+(yyy) "Push-to-Talk" ("PTT") means a method of transmitting voice or data communications on simplex and half-duplex channels that uses a momentary button to switch from voice or data reception mode to transmit mode.
+
+(zzz) "Reciprocal License" means a license of an item of Software that requires or conditions any rights granted in such license upon: (i) the disclosure, licensing or distribution of other Software (whether or not in Source Code form); (ii) a requirement that any other licensee of the Software be permitted to modify, make Derivative Works of, or reverse-engineer any such other Software; (iii) a requirement that such other Software be redistributable by other licensees; (iv) the grant of any patent rights including non-assertion or patent license obligations; or (v) the imposition of any other material limitation, restriction, or condition on any Seller Entity's right to use or distribute other Software in connection with the Business (other than a requirement to include an acknowledgement of authorship of such item of Software or to distribute a copy of the terms and conditions of the applicable license agreement with respect to such Software).
+
+(aaaa) "Registered Intellectual Property" has the meaning ascribed to it in Section 3.1.
+
+(bbbb) "Retained Seller Trademarks" means any and all Trademarks owned or used by any Seller Party on or prior to the Initial Closing Date or at any time thereafter (but excluding, for the avoidance of doubt, any Trademarks that constitute an Acquired Asset).
+
+(cccc) "Review Patent" has the meaning ascribed to it in Section 2.1(b)(iii).
+
+(dddd) "Review Period" means the period of time on or prior to the one year anniversary of the Initial Closing Date.
+
+(eeee) "RFID" has the meaning ascribed to it in Enterprise Data Capture Products.
+
+(ffff) "SDO" means a patent pool, official or de facto standards setting or development organization, industry standards body industry, trade association or other similar organization.
+
+(gggg) "SDO Member" means any Person that is or has ever been, directly or indirectly, (i) a member or promoter of, or a contributor to or a participant in, any SDO, (ii) obligated to license or disclose any Intellectual Property to, or made any commitments or agreements regarding, any SDO, or (iii) a participant in the writing, preparing, amending, revising, sponsoring, organizing, promulgating, setting, or approving of any specifications, standards, requirements, or guidelines related to the Business.
+
+(hhhh) "Section 365" has the meaning ascribed to it in Section 4.5.
+
+(iiii) "Section 365(n)" has the meaning ascribed to it in Section 4.5.
+
+(jjjj) "Seller" has the meaning ascribed to it in the preamble.   10
+
+
+
+
+
+(kkkk) "Seller Business" means, collectively, the businesses of each member of the Seller Parties as of the Initial Closing Date, but excluding the Business.
+
+(llll) "Seller Entity" means each Acquired Company and each Seller Party.
+
+(mmmm) "Seller Excluded Products" means a (i) Type of Enterprise Data Capture Product, (ii) Type of Enterprise Mobile Computing Product, or (iii) Type of Enterprise Wireless LAN Product.
+
+(nnnn) "Seller IP" means any and all Intellectual Property owned by any Seller Party prior to the Initial Closing Date or at any time thereafter.
+
+(oooo) "Seller IPA Disclosure Schedule" has the meaning ascribed to it in Article III.
+
+(pppp) "Seller Licensed Activities" has the meaning ascribed to it in Section 2.1(d).
+
+(qqqq) "Seller Party" means Seller and each of its Affiliates (but, for the avoidance of doubt, excluding the Acquired Companies).
+
+(rrrr) "Shared Review Invention Disclosure" has the meaning ascribed to it in Section 2.1(b)(iii)(C).
+
+(ssss) "Shared Review Patent" has the meaning ascribed to it in Section 2.1(b)(iii)(B).
+
+(tttt) "Smart Sensing Network Equipment" means any sensing equipment for use in conjunction with or interoperable with a distributed network of sensors intended to measure or ascertain data, including video, imaging, RFID, audio, temperature, and data measurements.
+
+(uuuu) "Software" has the meaning ascribed to it in the definition of Intellectual Property.
+
+(vvvv) "Source Code" means one or more statements in human readable form, including comments, definitions and annotations, which are generally formed and organized to the syntax of a computer or programmable logic programming language (including such statements in batch or scripting languages and including hardware definition languages such as VHDL), together with any and all text, data and data structures, diagrams, manuals, instructions, procedures, and other information that describe the foregoing.
+
+(wwww) "Third-Party Intellectual Property" means any and all Intellectual Property licensed to any Seller Party from, or otherwise owned by, a Person other than a Seller Party (including open source Software, freeware or other publicly available Software).
+
+(xxxx) "Trademarks" means (i) trademarks, service marks, logos, product numbers, trade dress, trade names, corporate names and Internet domain names, slogans, and   11
+
+
+
+
+
+other indicia of commercial source or origin (whether registered, common law, statutory, or otherwise, and together with all translations thereof), (ii) all registrations and applications to register the foregoing anywhere in the world (including all renewals in connection therewith), and (iii) all goodwill symbolized by any of the foregoing clauses (i) and (ii).
+
+(yyyy) "Transferred IP" means the Assigned IP and the Acquired Company IP.
+
+(zzzz) "Transferred IP Docket" has the meaning ascribed to it in Section 2.3(a).
+
+(aaaaa) "Two-Way Radio Network" means a wireless network (whether implemented in hardware or Software) capable of enabling, managing, supervising, or securing a communication of voice, data, or multimedia information in compliance with any one or more of the Two-Way Radio Standards.
+
+(bbbbb) "Two-Way Radio Standards" means (i) any of the following standards: (A) Association of Public-Safety Communications Officials Project 25 (including Digital APCO P25), (B) European Telecommunications Standards Institute Terrestrial Trunked Radio (including TETRA), (C) European Telecommunications Standards Institute Digital Mobile Radio (including TETRAPOL), (D) European Telecommunications Standards Institute Digital Private Mobile Radio, (E) MotoTalk, (F) General Mobile Radio Service, (G) Family Radio Service, (H) Analog MDC-1200, (I) Analog Conventional, (J) Private Mobile Radio (PMR), Logic Trunked Radio (LTR), MPT 1327 / MPS 1327, Selcall (5-Tone), and NXDN, (K) Dogota, Mobile Radio (DMR), digital Private Mobile Radio (dPMR), and Police Digital Trunking (PDT), (L) Global Open Trunked Architecture (GoTa), (M) ARIB standards T-98 and T-102 (also known as DCR for Japan), (N) China specific protocol (PDMS/CDMR), (O) Enhanced Digital Access Communication System (EDACS), (P) OpenSky and GSM-R (Railway variant of GSM for Two-Way Radio), and (Q) Project 25 Conventional TDMA and China specific protocols (PDMR-T, PDMR-F); and (ii) various derivations thereof that do not fundamentally alter the character thereof. For the avoidance of doubt, "Two-Way Radio Standards" do not include Wireless Standards.
+
+(ccccc) "Type of Enterprise Data Capture Product" means (i) bar code scanner products for reading machine-readable symbols (including fixed, handheld, portable, wearable, and vehicle-mounted laser scanners and linear and area imagers), (ii) RFID reader products used to communicate with RFID tags (including portal RFID readers, doorway, forklift, crane and delivery-door RFID readers, handheld RFID readers, and fixed, vehicle-mounted, wearable, portable, hands-free and mobile RFID readers), or (iii) associated accessories and Software.
+
+(ddddd) "Type of Enterprise Mobile Computing Product" means durable or rugged enterprise-grade fixed, handheld, wearable, vehicle- mounted, or portable computing or smartphone products, which products shall include handheld and portable mobile computers, gun handle mobile computers, tablet computers, vehicle mounted computers and wearable computers.
+
+(eeeee) "Type of Enterprise Wireless LAN Product" means products that provide connectivity to wireless products within a local area network (whether indoors or outdoors) and that operate in compliance with the IEEE 802.11 standard (which products shall include types of   12
+
+
+
+
+
+products that are wireless LAN products, including (i) wireless access points and ports compliant with the IEEE 802.11 standard, (ii) wireless controllers compliant with the IEEE 802.11 standard, (iii) wireless switches designed for use with the foregoing wireless access points, ports and controllers, and (iv) related LAN accessories and Software).
+
+(fffff) "Wireless Standards" means: (i) all cellular communication technical specifications adopted as a standard by either an SDO or a major operator of public subscription systems for in-country requirements (e.g., frequency spectrum availability, interconnection with preexisting telephony networks, etc.), as well as various adjunct protocols to the extent incorporated into such standards, including those technical specifications for digital radiotelephone service (A) promulgated by ETSI and presently known as the GSM, Pan-European Digital Cellular radiotelephone service (including Personal Communications Network services, presently known as DCS1800 and in the United States PCS1900), (B) promulgated in the United States by the Telecommunications Industry Association / Electronic Industries Associates (TIA/EIA) and presently known as AMPS (Advanced Mobile Phone System), NAMPS (Narrowband AMPS), TDMA Cellular/PCS - Radio Interface Interim Standards IS-I36, IS-137 or IS-138 (including IS-54, IS-55 and IS-56 and PCS 1900 standards JSTD-009, JSTD-010 and JSTD-011), (C) promulgated by ARIB (formerly RCR) and presently known as PDC (Personal Digital Cellular), (D) promulgated by the TIA and presently known as IS-95, IS-95B, RTT MC 1X, 1X Plus, and 1Xtreme Code Division Multiple Access services, (E) presently known as third generation (3G) cellular standards currently under development and known by such designations, including 3GPP, UMTS, WCDMA, 3GPP2, and CDMA2000, or (F) presently known as LTE; (ii) all technical specifications promulgated or currently under development by any of (A) IEEE and presently known as IEEE 802.11/WiFi or 802.15/WPAN standards, (B) EPCGlobal and presently known as EPC Radio Frequency Identity Protocols, (C) ISO/IEC 18000, 13157, 21481, 14443, or 15693, and presently known as RFID or NFC, or (D) Bluetooth; (iii) various derivations of the specifications and protocols referenced in clauses (i) and (ii) that do not fundamentally alter the character of such specifications and protocols (e.g., wireless air-interface, framing structure, control, call set-up and connection management); and (iv) any and all international versions of the specifications and protocols referenced in clauses (i) through (iii).
+
+Section 1.2 Construction. Section 11.10 of the Acquisition Agreement shall apply mutatis mutandis to this IP Agreement.
+
+ARTICLE II ASSIGNMENTS AND LICENSES
+
+Section 2.1 Transferred IP.
+
+(a) Acquired Company IP. For the avoidance of doubt, the Purchaser Group will acquire all Acquired Company IP by virtue of the acquisition by the Purchaser Group of the Acquired Company Shares pursuant to the terms of the Acquisition Agreement.   13
+
+
+
+
+
+(b) Assignment of Assigned IP.
+
+(i) Assignment. Effective as of the applicable Closing Date, the Seller hereby sells, assigns, transfers, conveys and delivers all of its right, title, and interest in and to the Assigned IP (together with the goodwill of the business symbolized by any Trademarks that constitute Assigned IP) and all Ancillary IP Rights with respect thereto, and shall cause the other Seller Parties to do the same, to the Purchaser Assignees and, effective as of the applicable Closing Date, the Purchaser Assignees hereby purchase, acquire and accept the same from the Seller Parties. The Seller hereby waives (and shall cause the other Seller Parties to waive) any moral rights, including rights of attribution, integrity, and disclosure, arising from all or any part of any Copyrights that constitute Assigned IP, together with all claims for damages and other remedies asserted on the basis of moral rights, and hereby sells, assigns, transfers, conveys, and delivers (and shall cause the other Seller Parties to do the same) to the Purchaser Assignees any waivers granted to any Seller Party of any such moral rights.
+
+(ii) Mandatory Laws. If and to the extent that, as a matter of Law in any jurisdiction, ownership, title, or any rights or interest in or to any of the Assigned IP cannot be assigned as provided in Section 2.1(b)(i), (A) the Seller irrevocably agrees to (and shall cause the other Seller Parties to) assign and transfer, and the Seller hereby assigns and transfers (and shall cause the other Seller Parties to assign and transfer) to the Purchaser Assignees all rights (including all economic and commercialization rights) that can be assigned pursuant to Section 2.1(b)(i) to the fullest extent permissible, and (B) the Seller hereby grants to the Purchaser Assignees, and hereby agrees to cause the other Seller Parties to grant to the Purchaser Assignees, an unlimited, exclusive, irrevocable, assignable, transferable, sublicenseable, worldwide, perpetual, royalty-free, fully-paid up license to use, exploit, and commercialize in any manner now known or in the future discovered and for whatever purpose, any and all rights to Assigned IP that cannot be assigned as contemplated by Section 2.1(b)(i).
+
+(iii) Patent Review Process.
+
+(A) Information Exchange. Within forty-five (45) days after the Effective Date, Seller shall provide (I) to the Purchaser, an updated list of all Patents (other than those set forth on Schedule 1.1(l) of the Seller IPA Disclosure Schedule) owned by any Seller Party that (x) have an effective filing date or are based on an invention disclosure having a date of disclosure that is on or after January 9, 2007, and (y) that name as inventors, in Seller's reasonable, good-faith belief, one or more Business Employees and one or more Persons that are not Business Employees (the "Patent Review List"), and (II) to the Invention Disclosure Review Team, a list of invention disclosures (other than those set forth on Schedule 1.1(l) of the Seller IPA Disclosure Schedule or Schedule 1.1(j)) owned by any Seller Party that name as contributors one or more Business Employees   14
+
+
+
+
+
+and one or more Persons that are not Business Employees (which list shall include the contributors, the title thereof, and the "location code" therefor) (the "Invention Disclosure Review List"). The Patent Review List shall include the Patents set forth on Schedule 2.1(b)(iii)(A).
+
+(B) Patent Review and Ownership. The parties shall promptly review the Patent Review List and, in good-faith, discuss and negotiate during the Review Period whether any of the Patents listed on such Patent Review List (each, a "Shared Review Patent") should be or should have been, as applicable, an Assigned Patent, based upon the general guideline and principle that Shared Review Patents that are primarily paid for, primarily used by, or primarily arising out of, or for which associated costs and fees were primarily allocated to, the Business or any Acquired Company (as compared with the Seller Business) should be or should have been, as applicable, Assigned Patents. Seller shall provide to Purchaser, upon Purchaser's reasonable request during the Review Period, information regarding such Patent Review List, the Patents listed thereon, and each such determination. If the parties agree, during the Review Period, that a Shared Review Patent should be or should have been, as applicable, an Assigned Patent, then, if such agreement was reached on or prior to the Initial Closing Date, the parties shall add such Shared Review Patent to Schedule 1.1(l) of the Seller IPA Disclosure Schedule and, if such agreement was reached after the Initial Closing Date, Seller shall (and shall cause the other Seller Parties to) promptly execute a Contract containing a present grant of assignment (or, if and to the extent, as a matter of Law in any jurisdiction, ownership, title, or any rights or interest in or to any such Shared Review Patent cannot be so assigned, a license) of such Shared Review Patent to the Purchaser Assignees, consistent with the terms and conditions of Section 2.1(b)(i) or Section 2.1(b)(ii), as applicable. If the parties cannot agree on whether any Shared Review Patent should be or should have been, as applicable, an Assigned Patent, the parties shall, during the Review Period, escalate such dispute to successively more senior-levels of executives and shall each make sure each such senior executive is promptly available to speak with (including by telephone) his or her counterpart.
+
+(C) Invention Disclosure Review and Ownership. During the Review Period, within seventy-five (75) days after the Effective Date (or, in the event of any repeat of the process set forth in this Section 2.1(b)(iii)(C) in accordance with Section 2.1(b)(iii)(D), promptly (and no later than seventy-five (75) days) thereafter), Seller shall cause (on and prior to the Initial Closing Date), or the parties shall each cause (following the Initial Closing Date), as applicable, their respective employees on the Invention Disclosure Review Team to: (I) promptly review the Invention Disclosure Review List; (II) in good-faith determine whether any of the invention disclosures (and inventions listed on the Invention Disclosure Review List (and inventions described therein))   15
+
+
+
+
+
+(each, a "Shared Review Invention Disclosure") should be or should have been, as applicable, Assigned Know-How, based upon the general guideline and principle that Shared Review Invention Disclosures that are primarily paid for, primarily used by, or primarily arising out of, or for which associated costs and fees were primarily allocated to, the Business or any Acquired Company (as compared with the Seller Business) should be Assigned Know-How; and (III) provide to Purchaser the applicable Invention Disclosure Review List and such determinations of the Invention Disclosure Review Team with respect to such Invention Disclosure Review List.
+
+Seller shall provide to Purchaser, upon Purchaser's reasonable request during the Review Period, information regarding such Invention Disclosure Review List, the invention disclosures listed thereon, and each such determination; provided, however, that Seller shall not be required to disclose to Purchaser the content of any Shared Review Invention Disclosure in response to any such request. Upon review of such determinations or information, as applicable, the parties shall promptly jointly review such determinations and information, during the Review Period, and determine, in good faith, whether the Invention Disclosure Review Team should re-review any Shared Review Invention Disclosures on such Invention Disclosure Review List and, if so, the parties shall repeat the process set forth in this Section 2.1(b)(iii)(C) with respect to such Shared Review Invention Disclosures. If the Invention Disclosure Review Team determines, during the Review Period, that a Shared Review Invention Disclosure should be or should have been, as applicable, Assigned Know- How, then, if such agreement was reached on or prior to the Initial Closing Date, the parties shall add such Shared Review Invention Disclosure to Schedule 1.1(j) and, if such agreement was reached after the Initial Closing Date, Seller shall (and shall cause the other Seller Parties to) promptly execute a Contract containing a present grant of assignment (or, if and to the extent, as a matter of Law in any jurisdiction, ownership, title, or any rights or interest in or to any such Shared Review Invention Disclosure cannot be so assigned, a license) of such Shared Review Invention Disclosure to the Purchaser Assignees, consistent with the terms and conditions of Section 2.1(b)(i) or Section 2.1(b)(ii), as applicable.
+
+(D) Newly Identified Business Employee. If, during the Review Period, the Purchaser identifies a Person ("New Business Employee") that the Purchaser reasonably believes, in good faith, is or was a Business Employee and (I) such New Business Employee is not named as a contributor on any Shared Review Invention Disclosure on an Invention   16
+
+
+
+
+
+Disclosure Review List and is not named as an inventor on any Shared Review Patent on a Patent Review List, in each case previously provided to the Purchaser, or (II) Purchaser reasonably believes, in good faith, that Seller has not provided a complete and accurate Invention Disclosure Review List or Patent Review List with respect to any Patents or invention disclosures for which such New Business Employee is named as an inventor or contributor, respectively, then in each case of clauses (I) and (II), the Purchaser may notify Seller of such belief, and Seller shall promptly (but in no event more than thirty (30) days following such notice) provide to the Purchaser or the Invention Disclosure Review Team, as applicable, an updated Patent Review List and Invention Disclosure Review List with respect to such New Business Employee, and the parties shall repeat the process set forth in Section 2.1(b)(iii)(B) and Section 2.1(b)(iii)(C) with respect to such updated Patent Review List and Invention Disclosure Review List, respectively.
+
+(E) Inventors Are All Business Employees. If (i) during the Review Period, Purchaser identifies a Patent or invention disclosure owned by any Seller Party where all of the inventors of such Patent or all of the contributors of such Invention Disclosure, respectively, are Business Employees, and (ii) Purchaser provides to Seller the evidence on which Purchaser is basing such identification, then such Patent or Invention Disclosure shall be an Assigned Patent or Assigned Know-How, as applicable, and the parties shall, where applicable on or prior to the Initial Closing Date, add such Patent or invention disclosure, as applicable, to Schedule 1.1(l) of the Seller IPA Disclosure Schedule or Schedule 1.1(j), as applicable, or, where applicable after the Initial Closing Date, Seller shall (and shall cause the other Seller Parties to) promptly execute a Contract containing a present grant of assignment (or, if and to the extent, as a matter of Law in any jurisdiction, ownership, title, or any rights or interest in or to any such Patent or Invention Disclosure, as applicable, cannot be so assigned, a license) of such Patent or Invention Disclosure, as applicable, to the Purchaser Assignees, consistent with the terms and conditions of Section 2.1(b)(i) or Section 2.1(b)(ii), as applicable.
+
+(F) Arbitration. Attached as Schedule 2.1(b)(iii)(F) is a schedule of additional Patents provided by Seller to Purchaser prior to the Effective Date for review with respect to ownership allocation between the parties pursuant to the general guidelines and principles set forth in Section 2.1(b)(iii)(B) (the "Additional Patents"). The parties shall promptly, in good- faith, discuss and negotiate whether any of the Additional Patents should be or should have been, as applicable, an Assigned Patent. If any of such Additional Patents are not reviewed, or the parties cannot agree on whether any Additional Patent should be or should have been, as applicable, an Assigned Patent, prior to the Initial Closing Date, then the parties shall escalate such dispute to successively more senior-levels of executives as set forth in Section 2.1(b)(iii)(B). If such senior-levels of executives cannot resolve the dispute with respect to any such Patents (the "Outstanding Patents") by the Initial Closing Date, then either party may, within thirty (30) days after the Initial Closing Date,   17
+
+
+
+
+
+submit such Outstanding Patents for dispute resolution as follows. One or both parties may, within thirty (30) days after the Initial Closing Date, submit the dispute with respect to such Outstanding Patents for arbitration in Chicago, Illinois before a single arbitrator. The arbitration shall be administered by JAMS pursuant to JAMS' Streamlined Arbitration Rules and Procedures, as those Rules may be amended by written agreement of the parties. The parties shall cooperate, in good faith, prior to the commencement of any arbitration under this Section 2.1(b)(iii)(F), to agree to any such amendments or other processes with respect to such arbitration (e.g., timing of the arbitration, arbitrator's familiarity with patent law). The parties shall instruct the arbitrator, and the arbitrator shall resolve each dispute regarding the ownership of each Outstanding Patent, based upon the general guideline and principle that such Outstanding Patents that are primarily paid for, primarily used by, or primarily arising out of, or for which associated costs and fees were primarily allocated to, the Business or any Acquired Company (as compared with the Seller Business) should be or should have been, as applicable, Assigned Patents. The parties shall maintain the confidential nature of all information, documents and materials disclosed and statements made in connection with any negotiations or arbitration proceeding, and any arbitration proceeding and the judgment, including any hearing or award, except as may be necessary to prepare for or conduct the arbitration hearing on the merits. The parties shall each bear their respective costs and expenses with respect to any arbitration pursuant to this Section 2.1(b)(iii)(F); provided, however, that the parties shall equally share (on a 50/50 basis) the cost of the arbitrator. If the arbitrator determines that any Outstanding Patent should be or should have been, as applicable, an Assigned Patent, Seller shall (and shall cause the other Seller Parties to) assign such Patent to the Purchaser Assignees in accordance with Section 2.1(b)(iii)(E).
+
+(c) License-Back of Patents. Effective as of the Initial Closing Date, the Purchaser will cause each Acquired Company and each Purchaser Assignee to grant, following each applicable Closing Date, to the Seller Parties, an irrevocable (except as expressly set forth herein), perpetual, non-sublicenseable (except as expressly set forth herein), fully paid-up, royalty-free, worldwide, non-transferable (except as expressly set forth herein), non-exclusive license, under the Acquired Company Patents and Assigned Patents:
+
+(i) (A) to use the Acquired Company Patents and Assigned Patents in the operation of the Seller Business and to practice any methods, processes, and procedures in connection therewith and (B) to make, have made, use, sell, offer for sale, import, and otherwise dispose of products, services, and systems that were designed, developed, manufactured, distributed, offered for sale, sold, resold, supported, otherwise under development, or provided, as of the applicable Closing Date, by the Seller Parties in connection with the Seller Business and to practice any methods, processes, and procedures in connection therewith, and in each case of clauses (A) and (B), including with respect to all Derivative Works and natural evolutions thereof;   18
+
+
+
+
+
+(ii) to make, have made, use, sell, offer for sale, import, and otherwise dispose of Smart Sensing Network Equipment; and
+
+(iii) to make, have made, use, sell, offer for sale, import, and otherwise dispose of Public Safety LTE Smartphone Devices.
+
+(d) License-Back of Non-Patent, Non-Trademark IP. Effective as of the Initial Closing Date, the Purchaser will cause each Acquired Company and each Purchaser Assignee to grant, following each applicable Closing Date, to the Seller Parties, an irrevocable (except as expressly set forth herein), non-sublicenseable (except as expressly set forth herein), perpetual, fully paid-up, royalty-free, worldwide, non-transferable (except as expressly set forth herein), non-exclusive license, under the Transferred IP (other than Trademarks and Patents) that is or has been, on or prior to the Initial Closing Date, (x) used in connection with the Seller Business, (y) used in connection with the development of any product, service, or system in the Seller Business, or (z) incorporated into any product, service, or system in the Seller Business:
+
+(i) (A) to use such Transferred IP in the operation of the Seller Business and to practice any methods, processes, and procedures in connection therewith and (B) to make, have made, use, sell, offer for sale, import, and otherwise dispose of products, services, and systems that were designed, developed, manufactured, distributed, offered for sale, sold, resold, supported, otherwise under development, or provided, as of the applicable Closing Date, by the Seller Parties in connection with in the Seller Business and to practice any methods, processes, and procedures in connection therewith, and in each case of clauses (A) and (B), including with respect to all Derivative Works and natural evolutions thereof;
+
+(ii) to make, have made, use, sell, offer for sale, import and otherwise dispose of Smart Sensing Network Equipment; and
+
+(iii) to make, have made, use, sell, offer for sale, import, and otherwise dispose of Public Safety LTE Smartphone Devices.
+
+Clauses (i) through (iii) above are collectively referred to as the "Seller Licensed Activities." The license rights granted under this Section 2.1(d) include:
+
+(1) with respect to such Transferred IP that constitutes Copyrights or copyrightable materials (other than Software), the rights to reproduce, prepare Derivative Works of, perform, display, and distribute such Copyrights and copyrightable materials in connection with the Seller Licensed Activities; and
+
+(2) with respect to such Transferred IP that constitutes Software, the rights to: (I) use, reproduce, prepare Derivative Works of,   19
+
+
+
+
+
+perform, and display such Software in connection with the Seller Licensed Activities; and (II) distribute such Software and Derivative Works of such Software in connection with the Seller Licensed Activities (but in Source Code form, solely as permitted pursuant to Section 2.1(f) and in accordance with Article V).
+
+For the avoidance of doubt, this Section 2.1(d) shall not constitute a license to Trademarks.
+
+(e) Seller Excluded Products. The licenses granted pursuant to Section 2.1(c)(i), Section 2.1(c)(ii), Section 2.1(d)(i), and Section 2.1(d)(ii) do not extend to any product, system, or service if and solely to the extent such product, system, or service constitutes or includes a Seller Excluded Product; provided, that if any such Seller Excluded Product is a Type of Enterprise Mobile Computing Product, then if and solely to the extent that such Seller Excluded Product is a Permitted Type of Enterprise Mobile Computing Product, such licenses will extend solely to such Permitted Type of Enterprise Mobile Computing Product that constitutes such product, system, or service or, as included in such product, system, or service, is included in such product, system, or service, as applicable. By way of example, if a Seller Excluded Product is a single component of a product, system, or service that is otherwise licensed under Section 2.1(c)(i), Section 2.1(c)(ii), Section 2.1(d)(i), or Section 2.1(d)(ii) and such Seller Excluded Product is not a Permitted Type of Enterprise Mobile Computing Product, such licenses do not extend to such component, but such licenses do extend to the remainder of such licensed product, system, or service. By way of further example, if a Seller Excluded Product is a single component of a product, system, or service that is otherwise licensed under Section 2.1(c)(i), Section 2.1(c)(ii), Section 2.1(d)(i), or Section 2.1(d)(ii), then to the extent such Seller Excluded Product is a Permitted Type of Enterprise Mobile Computing Product, such licenses extend to such component as included in such licensed product, system, or service.
+
+(f) Sublicenses. Each of the Seller Parties may grant sublicenses of the licenses granted to it pursuant to Section 2.1(c) or Section 2.1(d): (i) to any (for the avoidance of doubt, and without limiting any other provision of this IP Agreement, current or future) direct or indirect Subsidiary of Seller (but only for so long as such Person remains such a Subsidiary); (ii) to any other Person in connection with the sale or disposition of substantially all of the assets of a business or product line of any of the Seller Parties; (iii) other than with respect to Section 2.1(c), for the purpose of any Person's (including resellers, distributors, and OEMs) distribution of products licensed under Section 2.1(c) or Section 2.1(d); (iv) other than with respect to Section 2.1(c), to any Person (including OEMs, JDMs, suppliers, contractors, and subcontractors) solely for the purpose of, and to the extent necessary for, such Person to perform any service (including any service with respect to the design, manufacture, import, export, or supply of any product, service, or system in the Seller Business or any components thereof) for a Seller Party, and not for the direct benefit of such Person or any other Person, (v) other than with respect to Section 2.1(c), to a customer of a Seller Party for such customer's use of a product licensed under Section 2.1(c) or Section 2.1(d); or (vi) other than with respect to Section 2.1(c), with respect to Software, to any Person for the purpose of such   20
+
+
+
+
+
+Person's development of Software that is compatible or interoperates with a product licensed under Section 2.1(c) or Section 2.1(d). The Seller Parties have no other right to grant sublicenses under any of the licenses granted to the Seller Parties under this IP Agreement.
+
+(g) No Implied Rights. The Seller acknowledges and agrees that, except as expressly set forth in this Section 2.1 of this IP Agreement, the Seller Parties are not obtaining any rights under this IP Agreement in or to any Intellectual Property owned by Purchaser or any Purchaser Licensee as of the Initial Closing Date or at any time thereafter, and nothing in this IP Agreement confers on any Seller Party any right to use any names of the Purchaser or any Purchaser Licensee in any advertising publicity or other promotional activities.
+
+Section 2.2 Licensed IP.
+
+(a) Patent License. Effective as of the Initial Closing Date, the Seller hereby grants (and will cause each other Seller Party to grant following each applicable Closing Date), to the Purchaser Licensees an irrevocable (except as expressly set forth herein), perpetual, non-sublicenseable (except as expressly set forth herein), fully paid-up, royalty-free, worldwide, non-transferable (except as expressly set forth herein), non-exclusive license, under the Licensed Patents:
+
+(i) (A) to use the Licensed Patents in the operation of the Business and to practice any methods, processes, and procedures in connection therewith and (B) to make, have made, use, sell, offer for sale, import and otherwise dispose of products, services, and systems that were designed, developed, manufactured, distributed, offered for sale, sold, resold, supported, otherwise under development, or provided, as of the applicable Closing Date, by the Seller Entities in connection with the Business and to practice any methods, processes, and procedures in connection therewith, and in each case of clauses (A) and (B), including with respect to all Derivative Works and natural evolutions thereof; and
+
+(ii) to make, have made, use, sell, offer for sale, import, and otherwise dispose of Smart Sensing Network Equipment.
+
+(b) License of Non-Patent, Non-Trademark Licensed IP. Effective as of the Initial Closing Date the Seller hereby grants (and will cause each other Seller Party to grant, following each applicable Closing Date), to the Purchaser Licensees an irrevocable (except as expressly set forth herein), non-sublicenseable (except as expressly set forth herein), perpetual, fully paid-up, royalty-free, worldwide, non-transferable (except as expressly set forth herein), non-exclusive license, under the Licensed IP (other than Trademarks and Patents):
+
+(i) (A) to use such Licensed IP in the operation of the Business and to practice any methods, processes, and procedures in connection therewith and (B) to make, have made, use, sell, offer for sale, import, and otherwise dispose of products, services, and systems that were designed, developed, manufactured,   21
+
+
+
+
+
+distributed, offered for sale, sold, resold, supported, otherwise under development, or provided, as of the applicable Closing Date, by the Seller Entities in connection with the Business and to practice any methods, processes, and procedures in connection therewith, and in each case of clauses (A) and (B), including with respect to all Derivative Works and natural evolutions thereof; and
+
+(ii) to make, have made, use, sell, offer for sale, import, and otherwise dispose of Smart Sensing Network Equipment.
+
+Clauses (i) and (ii) above are collectively referred to as the "Purchaser Licensed Activities." The license rights granted under this Section 2.2(b) include:
+
+(1) with respect to Licensed IP that constitutes Copyrights or copyrightable materials (other than Software), the rights to reproduce, prepare Derivative Works of, perform, display, and distribute such Copyrights and copyrightable materials in connection with the Purchaser Licensed Activities; and
+
+(2) with respect to Licensed IP that constitutes Software, the rights to (I) use, reproduce, prepare Derivative Works of, perform, and display such Software in connection with the Purchaser Licensed Activities; and (II) distribute such Software and Derivative Works of such Software in connection with the Purchaser Licensed Activities (but in Source Code form, solely as permitted pursuant to Section 2.2(f) and in accordance with Article V).
+
+For the avoidance of doubt, this Section 2.2(b) shall not constitute a license to Trademarks.
+
+(c) License of Trademark IP.
+
+(i) License Grant. Effective as of the Initial Closing Date, the Seller hereby grants (and will cause each other Seller Party to grant, following each applicable Closing Date, to the Purchaser Licensees) a perpetual (unless terminated in accordance with Section 4.2(ii)(c)), fully paid-up, royalty-free, worldwide, non-transferable (except as set forth herein), non-exclusive license to use any and all Licensed Trademarks in the Business (including with respect to the Purchaser Licensed Activities), including with respect to all Derivative Works and natural evolutions of such Business, in a manner that is the same or substantially similar to the manner in which the Seller Entities have used the Licensed Trademarks in the Business.
+
+(ii) Quality Control. Purchaser will cause each Purchaser Licensee, following the Initial Closing Date, to include appropriate Trademark notices as required by applicable Law in connection with each of their respective uses of the Licensed Trademarks. The Purchaser acknowledges and agrees that all use of the Licensed Trademarks by the Purchaser Licensees following the Initial Closing Date and all goodwill associated therewith shall inure to the benefit of the Seller.   22
+
+
+
+
+
+Purchaser will cause the Purchaser Licensees to use the Licensed Trademarks following the Initial Closing Date with appropriate legends as required under applicable Law. Purchaser agrees that the quality of all Seller Excluded Products and any other products and services marketed or sold by the Purchaser Licensees under the Licensed Trademarks will conform to at least the level of quality of the Enterprise Products as currently provided by the Seller Entities as of the Initial Closing Date. Purchaser will (and will cause each Purchaser Licensee to) reasonably cooperate with Seller in facilitating Seller's control of such quality, permit reasonable inspection of the Purchaser Licensees' operations (upon reasonable notice and during normal business hours) solely with respect to their respective use of the Licensed Trademarks (if any), and supply Seller with specimens of any of their respective uses of the Licensed Trademarks (if any), including such specimens that are advertising or marketing materials, upon Seller's reasonable request, at Seller's expense.
+
+(d) Transitional Trademark License.
+
+(i) License Grant. Effective as of the Initial Closing Date, the Seller hereby grants (and will cause each other Seller Party to grant following each applicable Closing Date) to the Purchaser Licensees:
+
+(A) for a period of one hundred eighty (180) days after the applicable Closing Date (the "Mobility Transition Period"), a fully paid-up, royalty-free, worldwide, non-transferable, non-exclusive sublicense to use any and all Mobility Trademarks, in accordance with the terms and conditions of the Mobility Trademark License; and
+
+(B) for a period of seven hundred thirty (730) days after the applicable Closing Date (the "Non-Mobility Transition Period"), a fully paid-up, royalty-free, irrevocable (except as expressly set forth herein), worldwide, non-transferable, non- exclusive license to use any and all Retained Seller Trademarks (other than the Mobility Trademarks and Licensed Trademarks) that are or have been, on or prior to the Initial Closing Date, used in connection with the Business or any product, service, or system in the Business (the "Non-Mobility Trademarks"),
+
+in each case of clauses (A) and (B), solely in connection with the operation of the Business or with the exercise of the licenses granted pursuant to Section 2.2(a) and Section 2.2(b), in a manner that is the same or substantially similar to the manner in which the Seller Entities used the Mobility Trademarks or Non-Mobility Trademarks, as applicable, in connection with the Business as of the Initial Closing Date, including with respect to existing signs and stocks of advertisements and promotional materials and items, inventory and packaging included in the Acquired Assets ("Existing Stock") containing any Mobility Trademark or Non- Mobility Trademark. Seller Excluded Products manufactured during the Mobility Transition Period or Non-Mobility Transition Period that bear the Mobility Trademarks or the Non-Mobility Trademarks will be treated as   23
+
+
+
+
+
+Existing Stock under this Section 2.2(d), except to the extent a Purchaser Licensee is separately sublicensed with respect to any such Mobility Trademark or Non-Mobility Trademark.
+
+(ii) Purchaser Transition Efforts. Notwithstanding Section 2.2(d)(i), each Purchaser Licensee shall use Reasonable Efforts to discontinue the use of, exhaust, or otherwise dispose of, the Existing Stock after the Initial Closing Date and to modify all manufacturing equipment to cease to manufacture Seller Excluded Products marked with the Mobility Trademarks as soon as reasonably practicable after the Initial Closing Date.
+
+(e) Purchaser Excluded Products. The licenses granted pursuant to Section 2.2(a), Section 2.2(b), and Section 2.2(c) do not extend to any product, system, or service if and solely to the extent such product, system, or service constitutes or includes a Purchaser Excluded Product, except for a Purchaser Excluded Product that is Smart Sensing Network Equipment that is, as manufactured by or for a Purchaser Licensee, not specifically enabled for use in conjunction with or for interoperability with a (i) Public Safety Next-Gen LTE Network or (ii) Two-Way Radio Network. By way of example, if a Purchaser Excluded Product is a single component of a product, system, or service that is otherwise licensed under Section 2.2(a), Section 2.2(b), or Section 2.2(c), such licenses do not extend to such component, but such licenses do extend to the remainder of such licensed product, system, or service.
+
+(f) Sublicenses. Each Purchaser Licensee may grant sublicenses of the licenses granted to it pursuant to Section 2.2: (i) to any (for the avoidance of doubt, and without limiting any other provision of this IP Agreement, current or future) direct or indirect Subsidiary of Purchaser (but only for so long as such Person remains such a Subsidiary); (ii) to any other Person in connection with the sale or disposition of substantially all of the assets of a business or product line of any Purchaser Licensee; (iii) other than with respect to Section 2.2(a), for the purpose of any Person's (including resellers, distributors, and OEMs) distribution of products licensed under Section 2.2; (iv) other than with respect to Section 2.2(a), to any Person (including OEMs, JDMs, suppliers, contractors, and subcontractors) solely for the purpose of, and to the extent necessary for, such Person to perform any service (including any service with respect to the design, manufacture, import, export, or supply of any product, service, or system in the Business or any components thereof) for a Purchaser Licensee, and not for the direct benefit of such Person or any other Person, (v) other than with respect to Section 2.2(a), to a customer of a Purchaser Licensee for such customer's use of a product licensed under Section 2.2; or (vi) other than with respect to Section 2.2(a), with respect to Software, to any Person for the purpose of such Person's development of Software that is compatible or interoperates with a product licensed under Section 2.2. The Purchaser Licensees have no other right to grant sublicenses under any of the licenses granted to the Purchaser Licensees under this Section 2.2.
+
+(g) Acknowledgement. The Purchaser acknowledges and agrees that the licenses granted under this Section 2.2 do not extend to Purchaser or any product, system or service manufactured, sold, designed, distributed, or supported by Purchaser directly or indirectly through any Purchaser Licensee, other than any Business Activities for Seller Excluded Products or Smart Sensing Network Equipment.   24
+
+
+
+
+
+Section 2.3 Delivery.
+
+(a) Documentation. To the extent in the possession or under the control of any Seller Party, the Seller shall provide (and shall cause the other Seller Parties to provide) to the Purchaser: (i) promptly after the Initial Closing Date, complete and accurate copies of all the following that constitute Transferred IP: file histories and notes (where such notes are regarding, with respect to Transferred IP, actual or potential disclosure dates or prior art dates, standards-essential Patents, or license or covenants not to sue granted to any Person with respect to such Transferred IP) from the Seller Parties' docketing systems of the pending Patent applications and issued Patents (and invention disclosures, if any, for all such applications and Patents that any Seller Party is able to provide using Reasonable Efforts), pending Trademark applications and Trademark registrations, Copyright applications and Copyright registrations, and unpublished Patent applications; (ii) within thirty (30) days after the Effective Date, for Transferred IP throughout the world, a list of the names, addresses, email addresses, and phone numbers of prosecution counsel and agents; (iii) within thirty (30) days after the Effective Date, a list of all actions that must be taken for Transferred IP throughout the world (a "Transferred IP Docket") within one hundred eighty (180) days after the Effective Date (including the payment of any registration, maintenance, or renewal fees or the filing of any documents, corrections, or replies to any Governmental Entity, applications or certificates, for the purposes of prosecuting, maintaining, or renewing any such registered, issued, or applied-for Transferred IP); and (iv) at least on a monthly basis during the period of time from the Effective Date until the Initial Closing Date, reasonable access to the docketing information (with respect to such Transferred IP) generated by any Seller Party in the Ordinary Course consistent with how such Seller Party generates such information for itself. As of the Initial Closing Date, the Purchaser assumes all responsibility for the prosecution, maintenance and enforcement of the Transferred IP assigned under this IP Agreement as of the Initial Closing Date to a Purchaser Assignee, and the payment of all fees, and all other prosecution and maintenance activities associated with such Transferred IP. After the Effective Date, Seller shall (and shall cause the other Seller Parties to) cooperate and assist Purchaser in good faith with respect to: (A) providing information to Purchaser that is reasonably sufficient to allow Purchaser to understand prosecution, maintenance, renewal, and new filing activities with respect to the Transferred IP that occur or will occur between the Effective Date and the Initial Closing Date; and (B) providing written instructions to all prosecution counsel and agents throughout the world who are responsible for the Transferred IP to instruct such counsel and agents that Purchaser and the Purchaser Assignees will be responsible for the Transferred IP as of the Initial Closing Date and that all reasonably necessary steps should be taken to prevent the loss of any rights embodied by the Transferred IP unless such counsel and agents have received express written instructions to the contrary from Purchaser.
+
+(b) Obligation to Deliver Technology. Following the Initial Closing Date, to the extent in the possession or under the control of any Seller Party and to the extent not   25
+
+
+
+
+
+contained in storage media that constitutes an Acquired Asset and is delivered to the Purchaser, the Seller shall (and shall cause the other Seller Parties to), upon the Purchaser's reasonable request, use Reasonable Efforts to provide the Purchaser with all materials, Software, information, tangible embodiments, and other tangible things, as those terms have been interpreted pursuant to any applicable Laws governing the production of documents and things, constituting, comprising, related to, or necessary to practice the Transferred IP or Licensed IP. To the extent that such materials, Software, information, tangible embodiments, and other tangible things constitute, comprise or relate to any Intellectual Property licensed to Seller under Section 2.1(c) or Section 2.1(d) or the Licensed IP, the Seller shall be permitted to retain a reasonable number of copies of such documents, materials, Software, information, tangible embodiments, and other tangible things. Purchaser shall use Reasonable Efforts to inform Seller of the locations of any such materials, Software, information, tangible embodiments, and other tangible things requested by Purchaser, where Purchaser has actual knowledge of such locations.
+
+Section 2.4 General Intellectual Property Provisions.
+
+(a) Termination of Third Party Contracts. The license rights granted to the Purchaser Licensees under any Licensed IP that constitutes Third-Party Intellectual Property, if any, are subject to the terms and conditions of the Contracts applicable to such Licensed IP, and will terminate upon (i) termination of such Contracts, or (ii) termination of the Seller Parties' right to sublicense the Purchaser Licensees under such Contracts, in each case by the applicable third party licensor or sublicensor, as applicable (and not by a Seller Party).
+
+(b) Compliance with Third Party Contracts. Following the Initial Closing Date, the Purchaser shall cause the Purchaser Licensees and its and their employees, contractors and agents to, comply with the terms and conditions of any such Contracts that are listed on Schedule 2.4(b) to the extent such terms and conditions are applicable to the Third-Party Intellectual Property sublicense rights granted to the Purchaser Licensees pursuant to this IP Agreement; provided, however, that the foregoing shall not require any Purchaser Licensee (or any current or future Affiliate thereof) or any of their respective employees, contractors, or agents (i) to pay or otherwise be responsible for any direct or indirect amounts, fees, charges, costs, or other consideration to any Person or (ii) to grant any license (or covenant not to sue) with respect to any Intellectual Property, in each case of clauses (i) and (ii) with respect to any such Contract.
+
+(c) No Implied Rights. The Purchaser acknowledges and agrees that, except as expressly set forth in Section 2.1 and Section 2.2 of this IP Agreement, (i) the Purchaser Licensees are not obtaining any rights in or to any Seller IP or Retained Seller Trademarks under this IP Agreement, and (ii) nothing in this IP Agreement confers on the Purchaser Licensees any right to use any name of any Seller Party in any advertising, publicity or other promotional activities; provided, however, that notwithstanding anything to the contrary contained in this IP Agreement, the Purchaser Licensees and any of their current or future Affiliates may make factual, non-trademark use of Seller's and the other Seller Parties' full corporate names in order to fairly and accurately describe the history of the Business. Nothing herein prohibits such Purchaser Licensees and such   26
+
+
+
+
+
+Affiliates from maintaining books and records containing documents of files marked with any Retained Seller Trademarks in the Ordinary Course for archival and regulatory compliance purposes.
+
+(d) Third-Party Trademarks. Except as otherwise expressly provided herein, nothing in this IP Agreement confers on the Purchaser Licensees any right to use any Trademarks owned by any Person other than the Seller Parties. Except with respect to the Trademarks set forth on Schedule 2.4(d), following the Initial Closing Date, the Purchaser Licensees may not add any such Trademarks to any inventoried Enterprise Products of the Business existing as of the Initial Closing Date that are part of the Acquired Assets and that contain a Trademark licensed to the Seller Parties pursuant to the Mobility Trademark License without the Seller's prior written consent.
+
+Section 2.5 Standards Organizations. The Seller or at least one other Seller Party is a member of the SDOs listed on Schedule 3.8(a) of the Seller IPA Disclosure Schedule. The Seller shall provide (and shall cause the other Seller Parties to provide) to Purchaser within ninety (90) days of the Initial Closing Date, complete and accurate copies of, any IP policies, other licensing commitments, and generally applicable member requirements that are associated with any SDO listed on Schedule 3.8(a) of the Seller IPA Disclosure Schedule and complete copies of all IP declarations, pledges, commitments, and other statements that any Seller Party has made in association with the Transferred IP, in all cases, with respect to each such copy, to the extent that Purchaser cannot obtain such copy using Reasonable Efforts and Seller is not prohibited from providing such copy to Purchaser). During the period of time between the Effective Date and the Initial Closing Date, Seller shall promptly notify Purchaser if any Seller Party becomes a member of any SDO not listed on Schedule 3.8(a) of the Seller IPA Disclosure Schedule, becomes subject to any other IP policy, licensing commitment, or generally applicable member requirement of any SDO, or submits any IP declaration, pledge, commitment, or other statement to any SDO. The Purchaser acknowledges and agrees that Patents that are Transferred IP may be subject to the requirements of such SDOs. Subject to the Purchaser's receipt prior to the Initial Closing Date of such applicable IP policies, other licensing commitments, and generally applicable member requirements, the Purchaser agrees, with respect to Patents that are Transferred IP, to comply (and will cause the Purchaser Assignees to comply) with the licensing commitments imposed on members of such SDOs and to comply with any other requirements of such SDOs that are generally applicable to members thereof, to the extent Seller is required to pass such commitments or requirements on to Purchaser under its agreements with the applicable SDO.
+
+ARTICLE III REPRESENTATIONS AND WARRANTIES OF THE SELLER
+
+Except as specifically set forth in, or qualified by any matter set forth in, the disclosure schedules, dated as of the date of this IP Agreement and delivered by the Seller to the Purchaser (collectively, the "Seller IPA Disclosure Schedule") (it being agreed that the disclosure of any matter in any section or subsection in the Seller Disclosure Schedule, the Seller IPA Disclosure Schedule or the Seller EMA Disclosure Schedule shall be deemed to have been disclosed in any other section or subsection in the Seller Disclosure Schedule to which the applicability of such   27
+
+
+
+
+
+disclosure is reasonably apparent on the face of such disclosure), the Seller represents and warrants to the Purchaser as follows:
+
+Section 3.1 Ownership. With respect to each item of Assigned IP and Acquired Company IP, respectively, such item is owned by a Seller Party or an Acquired Company, respectively, and such Seller Party or Acquired Company, respectively, has marketable title to such item. Schedules 1.1(b) and 1.1(c) of the Seller IPA Disclosure Schedule collectively set forth a complete and accurate list of all registered, issued, or applied-for Intellectual Property that constitutes Acquired Company IP and Schedules 1.1(h), 1.1(l), and 1.1(n) of the Seller IPA Disclosure Schedule collectively set forth a complete and accurate list of all registered, issued, or applied-for Intellectual Property that constitutes Assigned IP (such Acquired Company IP and Assigned IP, collectively, the "Registered Intellectual Property"). For each listed item, each of Schedule 1.1(b), 1.1(c), 1.1(h), 1.1(l), and 1.1(n) of the Seller IPA Disclosure Schedule, as applicable, indicates, as applicable, each owner of each such item of Registered Intellectual Property, the jurisdictions in which each such item of Registered Intellectual Property has been issued or registered or in which any application for such issuance or registration has been filed, the registration or application number, and the application filing or registration dates thereof. Each such item of Registered Intellectual Property is subsisting and, to the Knowledge of the Seller, valid and enforceable (except with respect to applications for Intellectual Property). A Seller Party has sufficient right, title, and interest in and to the Licensed IP to grant the licenses granted under this IP Agreement with respect thereto.
+
+Section 3.2 Encumbrances. Except as set forth on Schedule 3.2(a) of the Seller IPA Disclosure Schedule, the Transferred IP is free and clear of any Encumbrances (other than Permitted Encumbrances and obligations under applicable SDO agreements with SDOs listed on Schedule 3.8 of the Seller IPA Disclosure Schedule) and, as of the Initial Closing Date, will be fully transferable, alienable, and licensable by the Purchaser Assignees and Acquired Companies without restriction and without payment to any Person and, except as set forth on Schedule 3.2(b) of the Seller IPA Disclosure Schedule, no Person has an option to take an assignment or license of any Transferred IP.
+
+Section 3.3 Claims. Except as set forth on Schedule 3.3(a) of the Seller IPA Disclosure Schedule, (i) no Legal Proceeding is pending against any Seller Entity, (ii) no Legal Proceeding has been brought against any Seller Entity during the last three (3) years that was not resolved (other than pursuant to a settlement or license Contract), and (iii) no Claim has been threatened in writing against any Seller Entity during the last three (3) years (and, with respect to clause (B), was directed to the Seller Entities' Legal and Governmental Affairs group (including any member or representative thereof and any attorney of any of the Seller Entities) or of which any of them were aware), in each case of clauses (i) through (iii), (A) with respect to any infringement, misappropriation, or other violation, of any Intellectual Property of any Person (or any unfair competition or trade practices) by any Seller Entity in connection with an Enterprise Product (including by any making, having made, using, selling, offering for sale, importing, and otherwise disposing of an Enterprise Product or any services in connection therewith), including any unsolicited offers to license specifically directed (in whole or in part) to an Enterprise Product and directed to the Seller Entities' Legal and Governmental Affairs group (including any member or representative thereof and any attorney of any of the Seller Entities) or of which any of them were aware, unsolicited demands to license, or cease and desist letters, or   28
+
+
+
+
+
+(B) challenging the enforceability, use, ownership, scope, or validity, of any Transferred IP (other than office actions issued in the ordinary course of prosecuting any pending patent or trademark application). Except as set forth on Schedule 3.3(b) of the Seller IPA Disclosure Schedule, with respect to the infringement, misappropriation, or other violation of any Transferred IP, (1) no Legal Proceeding has been brought during the last six (6) years or is pending, and (2) no Claim has been threatened in writing during the last three (3) years, against any Person by any Seller Entity. None of the Enterprise Products or Transferred IP are subject to any outstanding Order restricting or otherwise limiting the use, validity, enforceability, disposition, or exploitation thereof or any right, title, or interest of any Seller Entity with respect thereto.
+
+Section 3.4 Material IP Contracts. Schedule 3.4 of the Seller IPA Disclosure Schedule sets forth a complete and accurate list of all of the following (the "Material IP Contracts"): (i) Contracts to which any Acquired Company is a party under which (A) a Person grants to an Acquired Company a license to (or covenant not to sue with respect to) Intellectual Property in connection with the Business (the "In-bound Licenses") (provided that Seller shall not be required to list Off-the-Shelf Software Licenses and Contracts for Open Source Software), or (B) an Acquired Company grants to any Person a license to (or covenant not to sue with respect to) Intellectual Property (the "Out-bound Licenses") (provided that Seller shall not be required to so list non-exclusive licenses granted in the Ordinary Course to a (I) supplier solely for the purposes of, and to the extent necessary for, such supplier to design, manufacture and supply Enterprise Products for any Seller Entity with respect to the Business, and not for the direct benefit of such supplier or any other Person, or (II) customer solely for such customer's use of an Enterprise Product), (ii) other than In-Bound Licenses and Out-Bound Licenses set forth in Schedule 3.4(a) or Schedule 3.4(b) of the Seller IPA Disclosure Schedule, material Contracts entered into by any Seller Entity that materially adversely affect any Seller Entities' ability to own, use, transfer, license, or enforce any Transferred IP (including any sole or exclusive license grants) or that require payment of royalties with respect to any Transferred IP, and (iii) all Contracts (other than Assumed Contracts set forth on Schedule 1.1(c) of the Acquisition Agreement) entered into by any Seller Entity pursuant to which, as of the Initial Closing Date, any Acquired Company is a licensee or sublicensee of any cross-license to any Patent that claims or is alleged to claim any Wireless Standard or that is a general cross-license to any Patent, excluding any such Contracts that will expire or terminate within six (6) months after the Effective Date.
+
+Section 3.5 Non-Infringement. Except as set forth on Schedule 3.5(a) of the Seller IPA Disclosure Schedule, the operation of the Business as currently conducted does not infringe, misappropriate, or otherwise violate (or constitute any unfair competition or trade practices), and has not, during the past six (6) years with respect to Patents and during the past three (3) years with respect to all other Intellectual Property, infringed, misappropriated, or otherwise violated (or constituted unfair competition or trade practices), of any Intellectual Property of any Person in any material respect; provided that the foregoing representation is limited to the Knowledge of the Seller with respect to any third party Patents to the extent they claim or are alleged to claim Wireless Standards. Except as set forth on Schedule 3.5(b) of the Seller IPA Disclosure Schedule, to the Knowledge of the Seller, no Person is infringing, misappropriating, or otherwise violating, or, within the last three (3) years, has infringed, misappropriated, or otherwise violated, any Transferred IP in any manner material to the Business.   29
+
+
+
+
+
+Section 3.6 Employees. All Persons (including current and former employees, contractors, and consultants of any of the Seller Entities) who have conceived, created, invented, modified, improved, or developed any Intellectual Property material to, and used in or necessary for, the operation of the Business, for (or under the direction or supervision of) any Seller Entity (during the course of such employment, engagement, or Contract term therewith, as applicable) have executed and delivered to a Seller Entity, a Contract (i) providing for the non-disclosure by such Person of any trade secrets or other material confidential information of any of the Seller Entities with respect to such Intellectual Property, and (ii) providing for the assignment by way of a present grant of assignment (or, in the case of an independent contractor or consultant of (a) a Seller Entity (other than an Acquired Company), a sublicenseable license, or (b) an Acquired Company, a license) by such Person to a Seller Entity of any such Intellectual Property arising out of such Person's employment by, engagement by, or Contract with such Seller Entity, except where the failure to have such a Contract would not reasonably be expected to have a material adverse effect on the Business; provided, however, that the foregoing representation shall be to the Knowledge of the Seller solely with respect to any such contractor or consultant engaged by, or contracted with, a Seller Entity other than with the involvement or awareness of the Seller Entities' Legal and Governmental Affairs group (including any member or representative of and any attorney of any of the Seller Entities). No such Person has made any assertions with respect to any alleged ownership or title to any such Intellectual Property. To the Knowledge of the Seller, no such Person is in violation of any term or condition of any such Contract.
+
+Section 3.7 Software. None of the Seller Entities (i) has delivered, licensed, released, or disclosed to any Person any of the Source Code for any Enterprise Product (other than, in the Ordinary Course to: (1) an employee of a Seller Entity, (2) a contractor or supplier of a Seller Entity solely for the purposes of, and to the extent necessary for, such contractor or supplier to develop, manufacture, and supply Enterprise Products for any Seller Entity, and not for the direct benefit of such contractor or supplier or any other Person, or (3) with respect to Source Code that is not material to the Business, a customer of a Seller Entity with respect to Enterprise Products or to any Person for the purpose of such Person's development of Software that is compatible or interoperates with an Enterprise Product, in each case of clauses (1) through (3), under written Contracts (which include confidentiality, use, and disclosure restrictions) normally used by the applicable Seller Entity to protect its own similar confidential or proprietary information (and in no event less stringent than the terms and conditions of Article V)), except as would not reasonably be expected to have a material effect on the Business, or (ii) is a party to any Contract requiring the deposit of any such Source Code with an escrow agent or escrow service (or other escrow Contract) or requiring the sharing or disclosure of any such Source Code with any Person. With respect to any Open Source Software that is or has been used by a Seller Entity in any way in connection with any Enterprise Product (including any Open Source Software that is Incorporated Into any Enterprise Product by or on behalf of a Seller Entity), the Seller Entities are and have been in compliance in all material respects with all applicable licenses with respect thereto. No Software that is governed by (or has otherwise been licensed or made available to a Seller Entity under) a Reciprocal License has been (a) Incorporated Into any Enterprise Product by or on behalf of a Seller Entity, or (b) distributed or made available to any Person in connection with the Business by any Seller Entity, in each case of clauses (a) and (b), in a manner that would or does require or condition any right to perform the activity described in clause (a) or (b) on any of clauses (i) through (v) of the definition of Reciprocal License (with   30
+
+
+
+
+
+respect to such Software). The Seller Entities are in possession of any material Source Code owned by any of the Seller Entities (including any such Source Code to any Enterprise Product) that is related to the Business.
+
+Section 3.8 SDOs. Except as set forth on Schedule 3.8(a) of the Seller IPA Disclosure Schedule, no Seller Entity is an SDO Member. To the extent any Seller Entity is an SDO Member, such Person complies and has complied with all applicable rules and terms and conditions of membership (including all related disclosure obligations), and each Seller Entity is and has been, in material compliance with all Laws related to being an SDO Member, in each case, in connection with the Business. Schedule 3.8(b) of the Seller IPA Disclosure Schedule sets forth a complete and accurate list, to the Knowledge of the Seller, of all Transferred IP that constitutes a Patent that is specifically identified in a disclosure to any SDO where such Patent is subject to any rule, term or condition, license, disclosure obligation, commitment, or agreement related to such SDO (together with a description or reference to such rule, term or condition, license, disclosure obligation, commitment, or agreement).
+
+Section 3.9 Intellectual Property Assets. Assuming (i) the receipt of all consents required to assign or transfer any Assumed Contract (or, with respect to those which are not received, the cooperation by Seller pursuant to Section 10.6 of the Acquisition Agreement), (ii) the replication or split and partial assignment of all Non-Assignable Shared Contracts material, individually or in the aggregate, to the Business as contemplated by Section 10.7 of the Acquisition Agreement, and (iii) the acquisition of all regulatory approvals of Governmental Entities required in connection with the authorization, execution and delivery of the Acquisition Agreement and the consummation of the Contemplated Transactions and excluding all (A) with respect to the receipt of administrative or corporate services or benefits (as set forth in Section 1.2(b) of the Acquisition Agreement), Software and other Third-Party Intellectual Property used in connection with such services or benefits provided to the Acquired Companies pursuant to the Transition Services Agreement, (B) rights granted to the Seller Group under the Contracts set forth on Schedule 3.9 of the Seller IPA Disclosure Schedule, (C) Licensed Mobility Patents (as defined in the Mobility Intellectual Property License) and Mobility Technology (as defined in the Mobility Intellectual Property License), in each case to the extent licensed to each member of the Motorola Group (as defined in the Mobility Intellectual Property License) as of the Initial Closing Date pursuant to the Mobility Intellectual Property License, and (D) Intellectual Property (other than Licensed IP) owned by, or licensed from any Person (other than the Seller Entities) to, a supplier of the Seller Entities that is used by such supplier for the purposes of, and to the extent necessary for, such supplier to manufacture and supply Enterprise Products for the Seller Entities with respect to the Business, and (E) Patents to which the Seller Entities are not licensed as of the Effective Date and that claim Wireless Standards,: the Transferred IP and the Licensed IP, taking into account all provisions of this IP Agreement and the other Transaction Agreements, will be sufficient to enable the Purchaser Assignees and Purchaser Licensees to design, develop, manufacture, import, market, distribute, offer for sale, sell, resell, import, export, use, and support the Enterprise Products and perform services in connection therewith immediately following the Initial Closing in all material respects as designed, manufactured, imported, marketed, distributed, offered for sale, sold, imported, exported, used, supported, and provided, as applicable, by the Seller Entities as of the Effective Date; provided that the foregoing shall not be construed as a representation or warranty against third party Intellectual Property infringement claims. The Purchaser Licensees shall have,   31
+
+
+
+
+
+following the Initial Closing Date, sufficient rights with respect to the Trademarks licensed to the Purchaser Licensees pursuant to Section 2.2(d), to resell after the Initial Closing Date, finished Enterprise Products that are part of the Acquired Assets or Acquired Company Assets and that bear, as of the Initial Closing Date, any of such Trademarks.
+
+Section 3.10 Disclaimer. EXCEPT AS SPECIFICALLY SET FORTH IN THIS IP AGREEMENT OR ANOTHER TRANSACTION AGREEMENT, NEITHER PARTY (NOR ANY MEMBER OF ITS GROUP OR ANY OF ITS AFFILIATES) MAKES ANY REPRESENTATION OR WARRANTY, EXPRESS OR IMPLIED, AS TO ANY MATTER WHATSOEVER RELATING TO ANY INTELLECTUAL PROPERTY ASSIGNED OR LICENSED BY ANY OF THEM TO THE OTHER PARTY (OR ANY MEMBER OF THE OTHER PARTY'S GROUP OR ANY OF ITS AFFILIATES), IN EACH CASE INCLUDING ITS CONDITION, ITS MERCHANTABILITY, ITS FITNESS FOR ANY PARTICULAR PURPOSE, OR TITLE OR NON- INFRINGEMENT.
+
+Section 3.11 No Other Warranties or Covenants. Without limiting Section 3.11, except as expressly set forth in this IP Agreement or another Transaction Agreement, nothing contained in this IP Agreement shall be construed as: (i) a warranty or representation by any Seller Party or Purchaser Assignee or Acquired Company as to the validity or scope of the Transferred IP or the Licensed IP; (ii) conferring any license or any other right, by implication, estoppel or otherwise, under any Seller IP or Transferred IP, except as expressly granted herein; (iii) imposing on any Seller Party or Purchaser Assignee or Acquired Company any obligation to institute any suit or action for infringement of any Transferred IP or Licensed IP, or to defend any suit or action brought by any Person which challenges or concerns the validity of any Transferred IP or Licensed IP; (iv) a warranty or representation by any Seller Party or Purchaser Assignee or Acquired Company that any manufacture, use, sale, lease or other disposition of products by the Purchaser Licensees or Seller Parties or the use of any Transferred IP or Licensed IP will be free from infringement of any Intellectual Property; or (v) imposing on either party any obligation to file any patent application or to secure any patent or maintain any patent in force.
+
+ARTICLE IV TERM AND TERMINATION
+
+Section 4.1 Term. The term of this IP Agreement shall be from the Effective Date until all of the Intellectual Property licensed hereunder is in the public domain (provided, however, that in such event the representations and warranties in Article III shall survive (and terminate) in accordance with the Acquisition Agreement) or this IP Agreement is terminated pursuant to Section 4.3. This IP Agreement shall not expire or terminate for any other reason (even in the event of a material breach).
+
+Section 4.2 Irrevocability of Licenses. Each of the parties acknowledges and agrees that the licenses granted hereunder (i) are irrevocable and (ii) may not be terminated for any reason (even in the event of a material breach), except that (a) with respect to Licensed IP that constitutes Third-Party Intellectual Property, solely as provided in Section 2.4(a), (b) with respect to a particular Patent licensed under this IP Agreement, the license granted to such Patent shall automatically terminate upon the expiration of the statutory term (including all extensions   32
+
+
+
+
+
+and renewals) of such Patent, and (c) Seller may terminate the license granted to the Purchaser Licensees pursuant to Section 2.2(c) (and no other provision of this IP Agreement), following the Initial Closing Date and upon prior written notice to Purchaser, in the event Purchaser materially breaches Section 2.2(c) and fails to cure such material breach within one hundred twenty (120) days after Purchaser's receipt of written notice from Seller (which such notice shall contain a reasonable description of such material breach and a statement of Seller's intent to terminate the license granted to the Purchaser Licensees pursuant to Section 2.2(c) if such material breach is not cured within such one hundred twenty (120) day period). Nothing herein shall preclude any party from seeking damages or other remedies at law or in equity (other than termination of this IP Agreement or any license to any Intellectual Property granted under this IP Agreement) for any breach hereof.
+
+Section 4.3 Termination of Agreement. This IP Agreement will terminate automatically and without need for further action by either party in the event that the Acquisition Agreement is terminated in accordance with its terms.
+
+Section 4.4 Effect of Termination. Upon termination of this IP Agreement pursuant to Section 4.3, this IP Agreement and the rights and obligations of the parties under this IP Agreement, including any obligation to make any assignment or grant any license hereunder, automatically end without any liability against any party or its Affiliates, except as otherwise provided in the Acquisition Agreement and except that the provisions of this Section 4.4, Article V, Section 6.1, Section 6.2, Section 6.6, Section 6.7, Section 6.8, Section 6.9, Section 6.10, Section 6.11, Section 6.12, and Section 6.13 will remain in force and survive any termination of this IP Agreement.
+
+Section 4.5 Bankruptcy. The parties acknowledge and agree that the licenses granted hereunder are licenses of "intellectual property" within the meaning of Section 365(n) of the Bankruptcy Code ("Section 365(n)"), which have been licensed hereunder in a contemporaneous exchange for value. The parties further acknowledge and agree that if the Seller (or any of its Affiliates) or the Purchaser (or any of its Affiliates), as applicable (the "Insolvent Party"): (i) becomes insolvent or generally fails to pay, or admits in writing its inability to pay, its debts as they become due; (ii) applies for or consents to the appointment of a trustee, receiver or other custodian for it, or makes a general assignment for the benefit of its creditors; (iii) commences, or has commenced against it, any bankruptcy, reorganization, debt arrangement, or other case or proceeding under any bankruptcy or insolvency law, or any dissolution or liquidation proceedings; or (iv) elects to reject, or a trustee on behalf of it elects to reject, this IP Agreement or any agreement supplementary hereto, pursuant to Section 365 of the Bankruptcy Code ("Section 365"), or if this IP Agreement or any agreement supplementary hereto is deemed to be rejected pursuant to Section 365 for any reason, this IP Agreement, and any agreement supplementary hereto, shall be governed by Section 365(n) and the other party may elect to fully exercise its rights under this IP Agreement in accordance with Section 365(n). Upon written request from such other party to the Insolvent Party, its applicable Affiliates, or the bankruptcy trustee, of such other party's election to proceed under Section 365(n), such Insolvent Party, its applicable Affiliates, such bankruptcy trustee, or any third party agent shall comply in all respects with Section 365(n), including providing such other party (and its Affiliates) with the Intellectual Property licensed to such other party (and its Affiliates) and not interfering with the rights of such other party (and such Affiliates) as provided in this IP Agreement to obtain access to such Intellectual Property from such Insolvent Party, its applicable Affiliates, the bankruptcy trustee, or any third party agent.   33
+
+
+
+
+
+ARTICLE V CONFIDENTIALITY
+
+Each party shall (and shall cause the other members of its Group and its Affiliates to) hold the Source Code, trade secrets and other confidential information licensed to any of them under this IP Agreement in confidence, and shall protect the confidentiality thereof using at least the same degree of care that it uses to protect its own similar confidentiality or proprietary information, but in no event using less than a reasonable degree of care. Each party shall not (and shall cause the other members of its Group and its Affiliates not to) (i) disclose any such Source Code, trade secrets, or confidential information to any Person other than to (a) those of its employees who have a "need to know," or (b) other third Persons (including customers, suppliers, prospective suppliers, or joint developers), or (ii) use or disclose such Source Code, trade secrets and other confidential information except as necessary to exercise its rights or perform its obligations under this IP Agreement in accordance with any applicable restrictions or obligations with respect thereto, in each case of clauses (i) and (ii), under written Contracts (which include confidentiality, use, and disclosure restrictions) normally used by such party to protect its own similar confidential or proprietary information (and in no event less stringent than the terms and conditions of this Article V). This Article V will not apply to Source Code, trade secrets, or other confidential information of a party or any other member of its Group or any of its Affiliates where the other party can demonstrate such Source Code, trade secrets, or other confidential information (A) is or becomes generally known to the public or enters the public domain, other than as a result of a breach of this IP Agreement by such other party or a member of its Group or its Affiliates, (B) was rightfully disclosed to such other party or a member of its Group or its Affiliates by a third Person provided that such other party or member complies with the restrictions imposed by the third Person, or (C) was developed independently by such other party or member or Affiliate without use of or reference to any information disclosed to any of them by such party. If a party or any of members of its Group or its Affiliates is legally required to disclose any of the other party's Source Code, trade secrets, or other confidential information in connection with any legal proceeding, such party shall promptly notify the other party of the foregoing so that the other party may seek to prevent such disclosure or obtain the entry of a protective order or other appropriate protective device or procedure. The disclosing party shall fully cooperate with and aid such other party in connection with the foregoing. If a protective order or other protective device satisfactory to such other party is not obtained, the disclosing party or its applicable member will disclose only that portion of such Source Code, trade secrets, or other confidential information that is legally required to be disclosed (and will notify the other party of which portions are disclosed). Each party shall take steps reasonable under the circumstances to protect the confidentiality of all Source Code, trade secrets, and other confidential information licensed under this IP Agreement by it or its Affiliates to the other party or a member of its Group or any of its Affiliates.   34
+
+
+
+
+
+ARTICLE VI GENERAL PROVISIONS
+
+Section 6.1 Remedies. The sole and exclusive remedy for any breach of this IP Agreement, including the representations and warranties and covenants herein, shall be as set forth in Article 8 of the Acquisition Agreement. The representations and warranties and covenants contained herein shall terminate in accordance with Section 8.4 of the Acquisition Agreement
+
+Section 6.2 Assignment. Neither party may assign (whether by operation of law or otherwise) this IP Agreement, or any of its licenses, rights, privileges or obligations hereunder, without the prior written consent of the other party, and any such attempted assignment shall be void; provided, however, that, following the Initial Closing Date, without any such prior written consent but upon prior written notice to the other party, each party may assign this IP Agreement to: (i) an Affiliate; (ii) a lender for collateral security; (iii) a Person that succeeds to all or substantially all of its business or assets to which this IP Agreement relates in connection with a merger or sale of all or substantially all of its assets to which this IP Agreement relates; or (iv) corporate reorganization of the party in which the ultimate ownership of the party immediately prior to such reorganization is the same as the ultimate ownership of the party immediately after such reorganization. If a Seller Party assigns or transfers any Licensed IP, the Seller shall (or shall cause the applicable Seller Party to) expressly condition such assignment or transfer on the express acknowledgement and agreement of the assignee or transferee that all such Licensed IP is bound by the license grants set forth herein. If Purchaser or a Purchaser Assignee assigns or transfers any Intellectual Property licensed to the Seller Parties pursuant to Section 2.1(c) or Section 2.1(d), the Purchaser shall (or shall cause the applicable Purchaser Assignee to) expressly condition such assignment or transfer on the express acknowledgement and agreement of the assignee or transferee that all such Intellectual Property is bound by such license grants. Notwithstanding anything to the contrary contained in this IP Agreement, Article III may only be assigned by a party (and shall be assigned by a party) together with such party's assignment of the Acquisition Agreement in accordance with the terms and conditions thereof. Subject to the foregoing limitations, this IP Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and permitted assigns.
+
+Section 6.3 Effect of Merger or Change of Control. Upon a merger or change of control of a party (including, for purposes of this Section 6.3, with respect to Purchaser any Purchaser Licensee and with respect to Seller any Seller Party) (a "Change of Control Event") with or to a Person (other than a Person that is a then-current Affiliate of such party) (the "Buyer"), the license rights granted under Article II to such party shall not extend to the Buyer or any of its Affiliates existing immediately prior to the Change of Control Event or any of its or their past, current, or future products, systems or services. If as a result of the Change of Control Event such party remains a separate, independent legal entity (or is merged into another Person, where such Person was formed or created for the purpose of the Change of Control Event or where such Person is a then-current Affiliate of such party), then the license rights granted to such party under Article II shall continue in full force and effect. If as a result of the Change of Control Event such party is merged into the Buyer (other than if the Buyer is formed or created for the purpose of the Change of Control Event) or another Person (other than if such Person is formed or created for the purpose of the Change of Control Event or if such Person is a then-   35
+
+
+
+
+
+current Affiliate of such party) or otherwise does not remain a separate, independent legal entity (except if such party is merged into another Person, where such Person was formed or created for the purpose of the Change of Control Event or where such Person is a then-current Affiliate of such party), then (i) the license rights granted to such party under Article II shall be limited to the operation of the business and the products, systems, and services (including Smart Sensing Network Equipment and Public Safety LTE Smartphone Devices, as applicable) of such party existing as of the effective date of the Change of Control Event and Derivative Works and natural evolutions thereof (but, in all cases, with respect to such license rights, subject to Section 2.1(e) or Section 2.2(e), as applicable), and (ii) no rights or licenses granted to such party under Article II may be extended to the Buyer or any of its Affiliates existing immediately prior to the Change of Control Event in connection with any of its or their past, current, or future products, systems or services.
+
+Section 6.4 Acquisitions. If either party acquires a business or a Person that conducts a business covering any of the same products, systems, or services as those covered by any license granted under Article II to such acquiring party (a "Future Acquisition") (whether in an asset or equity transaction), any such license shall be deemed to apply to such same products, systems, and services (but no other products, systems or services) of such acquired business or Person; provided, that all Patents acquired in connection with such Future Acquisition are licensed to the non-acquiring party and, in the case of Seller, the Seller Parties or, in the case of Purchaser, the Purchaser Licensees, pursuant to the terms and conditions of this IP Agreement. In such event, any such acquired Person shall be deemed a Seller Party or a Purchaser Licensee hereunder, as the case may be.
+
+Section 6.5 Further Assurances. Each of the parties agrees that from time to time, at the reasonable request and expense of the other party, it shall execute and deliver such other documents and take such other actions as the other party may reasonably request to effectuate the transactions contemplated by this IP Agreement (including any short form documentation evidencing the licenses granted by any Seller Party hereunder or other documentation to perfect or record the rights granted hereunder in the Transferred IP or Licensed IP in any jurisdiction throughout the world). The Seller acknowledges and agrees (including on behalf of the other Seller Parties) that the Purchaser or any of its Affiliates may record and perfect this IP Agreement or such documentation in any jurisdiction throughout the world, and the Seller shall (and shall cause the other Seller Parties to) cooperate therewith, at the Purchaser's expense. The Purchaser hereby requests, and the Seller hereby grants (and shall cause the other Seller Parties to grant) to the Purchaser and its Affiliates, all rights necessary to record this IP Agreement or such documentation with the United States Patent and Trademark Office, the United States Copyright Office, and any equivalent office or agency in any jurisdiction in the world. Seller shall (and shall cause the other Seller Parties) to, between the Effective Date and the Initial Closing Date, cooperate with the Purchaser in connection with the Purchaser's preparation for acquiring the Business, including (i) by reasonably sharing information to prevent any loss of any of the Seller Entities' rights to any Intellectual Property constituting Transferred IP or Licensed IP, and (ii) facilitating between the parties and their respective Affiliates' communication and sharing of information related to this IP Agreement.   36
+
+
+
+
+
+Section 6.6 Governing Law; Forum.
+
+(a) The Laws of the State of Delaware (without reference to its principles of conflicts of law) shall govern the construction, interpretation and other matters arising out of or in connection with this IP Agreement and its schedules (whether arising in contract, tort, equity or otherwise).
+
+(b) Except with respect to (i) the result arising out of the escalation referenced in Section 2.1(b)(iii)(B) and (ii) the result of the escalation referenced in Section 2.1(b)(iii)(F) and any arbitration pursuant to Section 2.1(b)(iii)(F) (other than to enforce any arbitral judgment), the parties hereto irrevocably submit to the exclusive jurisdiction of the courts of the State of Delaware and the federal courts of the United States of America located in the State of Delaware over any Dispute arising out of or relating to this IP Agreements or any agreement or instrument contemplated thereby or entered into in connection herewith or therewith or any of the transactions contemplated hereby or thereby. Each party hereby irrevocably agrees that all claims in respect of such Dispute or proceeding will be heard and determined in such courts (and the courts hearing appeals from such courts). The parties hereby irrevocably waive, to the fullest extent permitted by applicable Law, any objection which they may now or hereafter have to the laying of venue of any such Dispute brought in such court or any defense of inconvenient forum in connection therewith. TO THE EXTENT PERMITTED BY APPLICABLE LAW THEN IN EFFECT, EACH PARTY HERETO WAIVES ITS RIGHT TO TRIAL OF ANY ISSUE BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM WHETHER BASED ON CONTRACT, TORT OR OTHERWISE ARISING OUT OF OR RELATING TO THIS IP AGREEMENT OR THE ACTION OF ANY OF THE PARTIES THERETO IN THE NEGOTIATION, ADMINISTRATION, PERFORMANCE AND ENFORCEMENT THEREOF.
+
+Section 6.7 Severability. If any term or provision of this IP Agreement is determined to be invalid, illegal or unenforceable, the remaining terms and provisions of this IP Agreement remain in full force, if the essential terms and conditions of this IP Agreement for each party remain valid, binding and enforceable. Upon such determination that any term or other provision is invalid, illegal or unenforceable, the parties hereto will negotiate in good faith to modify this IP Agreement so as to effect the original intent of the parties as closely as possible in an acceptable manner in order that the transactions contemplated hereby are consummated as originally contemplated to the greatest extent possible.
+
+Section 6.8 Entire Agreement; Conflicting Provisions. This IP Agreement, together with the other Transaction Agreements and any side letters executed by the parties in connection therewith, and all of the exhibits and schedules appended hereto and thereto, constitute the final, complete and exclusive statement of the parties' agreement on the matters contained herein and therein. All prior and contemporaneous negotiations and agreements between the parties on the matters contained in this IP Agreement and the other Transaction Agreements are superseded by this IP Agreement and the other Transaction Agreements, including, but subject to Section 5.5(b) of the Acquisition Agreement, the NDA. In the event of any conflict between any specific provision of this IP Agreement (including Article V) and the provisions of the Acquisition Agreement with respect to the subject matter hereof, the provisions of this IP Agreement will control.
+
+
+
+
+
+Section 6.9 Counterparts. The parties may execute this IP Agreement in multiple counterparts, each of which constitutes an original as against the party that signed it, and all of which together constitute one agreement. This IP Agreement is effective upon delivery of one executed counterpart from each party to the other party. The signatures of all parties need not appear on the same counterpart. The delivery of signed counterparts by facsimile or email transmission which includes a copy of the sending party's signature(s) is as effective as signing and delivering the counterpart in person.
+
+Section 6.10 Amendment. The parties may amend this IP Agreement only by a written agreement signed by the parties and that identifies itself as an amendment to this IP Agreement.
+
+Section 6.11 Waiver. The parties may waive a provision of this IP Agreement only by a writing signed by the party against whom enforcement of the waiver is sought. A party is not prevented from enforcing any right, remedy or condition in the party's favor because of any failure or delay in exercising any right or remedy or in requiring satisfaction of any condition, except to the extent that the party specifically waives the same in writing. A written waiver given for one matter or occasion is effective only in that instance and only for the purpose stated. A waiver once given is not to be construed as a waiver for any other matter or occasion. Any enumeration of a party's rights and remedies in this Agreement is not intended to be exclusive, and a party's rights and remedies are intended to be cumulative to the extent permitted by Law and include any rights and remedies authorized in Law or in equity.
+
+Section 6.12 Notices. Each party giving any notice required or permitted under this IP Agreement will give the notice in writing, and shall be deemed to have been duly given: (i) when received if delivered personally; (ii) when transmitted if sent by facsimile (with transmission confirmed); (iii) the day after it is sent if sent by commercial overnight courier; (iv) upon receipt if sent by certified or registered mail (return receipt requested); or (v) when transmitted if sent by email (with receipt confirmed by recipient). Notice to a party is effective for purposes of this Agreement only if given as provided in this Section 6.12 at the address of which the sending party has been notified in accordance with this Section 6.12.   If to the Seller:
+
+
+
+Motorola Solutions, Inc. 1303 E. Algonquin Road Schaumburg, Illinois 60196 Facsimile: +847.576.4688 Email: michael.annes@motorolasolutions.com
+
+
+
+Attention: Michael Annes, Senior Vice President, Business Development and Ventures   38
+
+
+
+
+
+With copies to:
+
+
+
+Motorola Solutions, Inc. 1303 E. Algonquin Road Schaumburg, Illinois 60196 Facsimile: +847.576.4688 Email: mark.hacker@motorolasolutions.com Attention: Mark Hacker, General Counsel   Winston & Strawn LLP 35 West Wacker Drive Chicago, Illinois 60601 United States of America Facsimile: +1.312.558.5700 Email: mcostigan@winston.com odavid@winston.com Attention: Matthew D. Costigan Oscar A. David
+
+If to the Purchaser:
+
+
+
+Zebra Technologies Corporation 475 Half Day Road Suite 500 Lincolnshire, IL 60069 Facsimile: (847) 821-1492 Email: jkaput@zebra.com Attention: Jim Kaput, General Counsel
+
+With a copy to:
+
+
+
+Kirkland & Ellis LLP 300 N. LaSalle Street Chicago, Illinois 60654 Facsimile: +1.312.862.2200 Email: henry.kleeman@kirkland.com scott.falk@kirkland.com Attention: R. Henry Kleeman R. Scott Falk, P.C.
+
+Section 6.13 No Joint Venture. Nothing in this IP Agreement creates a joint venture or partnership between the parties. This IP Agreement does not authorize any party (i) to bind or commit, or to act as an agent, employee or legal representative of, another party, except as may be specifically set forth in other provisions of this Agreement, or (ii) to have the power to control the activities and operations of another party. The parties are independent contractors with respect to each other under this IP Agreement. Each party agrees not to hold itself out as having any authority or relationship contrary to this Section 6.13.
+
+[Remainder of Page Intentionally Left Blank]   39
+
+
+
+
+
+IN WITNESS WHEREOF, the parties have duly executed and delivered this Intellectual Property Agreement on the date first written above.   MOTOROLA SOLUTIONS, INC.
+
+By:   /s/ Anders Gustafsson Name:   Anders Gustafsson Title:   Chief Executive Officer
+
+ZEBRA TECHNOLOGIES CORPORATION By:   /s/ Michael Annes Name:   Michael Annes Title:   Senior Vice President

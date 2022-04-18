@@ -1,0 +1,35 @@
+Exhibit 10.1
+
+FORM OF SUB-RESELLER AGREEMENT
+
+Signature Page
+
+Reseller Full Legal Name Salesforce.org, a nonprofit public benefit corporation having its principal place of business at 50 Fremont Street, Suite 300, San Francisco, California 94105
+
+This Form of Sub-Reseller Agreement (this "Sub-Reseller Agreement") is made and entered in by and between salesforce.com, inc., a Delaware corporation having its principal place of business at The Landmark @ One Market, Suite 300, San Francisco, California 94105 ("SFDC" or "Salesforce") and the Reseller named above and amends that certain Reseller Agreement between Salesforce and Reseller dated as of August 1, 2015, as previously amended (the "Agreement"). This Sub-Reseller Agreement is effective as of the later of the dates beneath the Parties' signatures below ("Sub-Reseller Effective Date"), provided, however, that the dates of the Parties' signatures are not separated by a period of time greater than ten (10) business days. If such period is greater than ten (10) business days then this Sub-Reseller Agreement shall be deemed null and void and to be of no effect. Capitalized terms not defined herein shall have the meanings given to them in the Agreement.
+
+The Parties, by their respective authorized signatories, have duly executed this Sub-Reseller Agreement as of the Sub-Reseller Effective Date.
+
+Salesforce.com, Inc. Reseller
+
+By: By: Name: Name: Title: Title: Date: Date:
+
+Source: SALESFORCE.COM, INC., 10-Q, 11/22/2017
+
+
+
+
+
+Exhibit 10.1
+
+Sub-Reseller Agreement Terms & Conditions
+
+1. Resale Rights. SFDC hereby appoints SUB-RESELLER ("Sub-Reseller") as a sub-reseller to whom Reseller may resell Services in accordance with Section 2(ii) of the Agreement, provided that Sub-Reseller may only resell such Services to Customer. Reseller must ensure that Sub-Reseller complies with the terms of the Agreement applicable to Reseller as if Sub- Reseller were an original party to the Agreement and any breach by Sub-Reseller of the Agreement will be deemed a breach by Reseller. Sub-Reseller is not be a third-party beneficiary of the Agreement.
+
+2. Effect of Sub-Reseller Agreement. Subject to the above modifications, the Agreement remains in full force and effect.
+
+3. Entire Agreement. The terms and conditions herein contained constitute the entire agreement between the Parties with respect to the subject matter of this Sub-Reseller Agreement and supersede any previous and contemporaneous agreements and understandings, whether oral or written, between the Parties hereto with respect to the subject matter hereof.
+
+4. Counterparts. This Sub-Reseller Agreement may be executed in one or more counterparts, including facsimiles or scanned copies sent via email or otherwise, each of which will be deemed to be a duplicate original, but all of which, taken together, will be deemed to constitute a single instrument.
+
+Source: SALESFORCE.COM, INC., 10-Q, 11/22/2017

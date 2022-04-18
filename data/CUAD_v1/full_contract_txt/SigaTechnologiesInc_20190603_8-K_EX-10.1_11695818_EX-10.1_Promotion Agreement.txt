@@ -1,0 +1,737 @@
+Exhibit 10.1 Certain portions of this exhibit have been omitted pursuant to Rule 601(b)(10) of Regulation S-K. The omitted information is (i) not material and (ii) would likely cause competitive harm to the Company if publicly disclosed. Information that has been omitted has been noted in this document with a placeholder identified by the mark "[***]". EXECUTION COPY PROMOTION AGREEMENT
+
+by and between
+
+SIGA TECHNOLOGIES, INC.
+
+and
+
+MERIDIAN MEDICAL TECHNOLOGIES, INC., a Pfizer company
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+TABLE OF CONTENTS PAGE ARTICLE 1 DEFINITIONS 1 ARTICLE 2 GRANT OF RIGHTS 11 2.1 Grant of Rights to MMT 11 2.2 Negative Covenants 11 2.3 Non-Compete Covenant 11 2.4 Retained Rights 12 2.5 No Implied Licenses 12 2.6 [***] 12 ARTICLE 3 GOVERNANCE 12 3.1 Joint Steering Committee 12 3.2 Good Faith 12 3.3 Scope of Governance 13 ARTICLE 4 PROMOTION AND OTHER COMMERCIALIZATION 13 4.1 Promotion in the Territory 13 4.2 Diligence 14 4.3 Customer Contracts 14 4.4 Regulatory Matters 15 4.5 Discontinued Countries 15 ARTICLE 5 FORECASTING AND ORDERING 15 5.1 Product Forecasts 15 5.2 Purchase Orders 15 5.3 Delivery 16 5.4 Supply Limitation 16 5.5 Supply Penalties 16 5.6 Adverse Event Reporting 16 ARTICLE 6 PAYMENTS 16 6.1 Promotion Fee 16 6.2 Payments 17 6.3 Currency 17 6.4 Records 17 6.5 Audits 18 6.6 Blocked Payment and Indemnification 19 6.7 Source of Recovery 19 6.8 Taxes 19 ARTICLE 7 INTELLECTUAL PROPERTY 20 7.1 Ownership of SIGA Intellectual Property 20 7.2 Intellectual Property Maintenance 20 7.3 New Patents and Trademarks 20
+
+-i-
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+TABLE OF CONTENTS (CONTINUED) PAGE ARTICLE 8 REPRESENTATIONS AND WARRANTIES; COVENANTS 21 8.1 Mutual Representations and Warranties 21 8.2 Additional Representations, Warranties and Covenants of SIGA 22 8.3 Additional Representations and Warranties of MMT 26 8.4 Covenants 27 8.5 No Other Representations or Warranties 29 ARTICLE 9 INDEMNIFICATION 29 9.1 Indemnification by SIGA 29 9.2 Indemnification by MMT 30 9.3 Indemnification Procedures 30 9.4 Insurance 31 9.5 Limitation of Liability 31 ARTICLE 10 CONFIDENTIALITY 31 10.1 Confidentiality 31 10.2 Authorized Disclosure 32 10.3 Technical Publication 33 10.4 Publicity; Terms of Agreement 33 10.5 Prior Confidentiality Agreements 34 10.6 Return of Confidential Information 34 10.7 Unauthorized Use 34 10.8 Exclusive Property 34 ARTICLE 11 TERM AND TERMINATION 35 11.1 Term 35 11.2 Termination for Cause 35 11.3 Termination Upon Certain Changes of Control 36 11.4 Termination for Failure to [***] 36 11.5 Termination for Convenience 36 11.6 Effect of Termination 36 11.7 Survival 36 ARTICLE 12 DISPUTE RESOLUTION 36 12.1 Executive Officer Resolution 36 12.2 Governing Law 37 12.3 Jurisdiction 37 12.4 NO JURY TRIAL 37 ARTICLE 13 MISCELLANEOUS 38 13.1 Entire Agreement; Amendment 38 13.2 Force Majeure 38
+
+-ii-
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+TABLE OF CONTENTS (CONTINUED) PAGE 13.3 Notices 38 13.4 No Strict Construction; Interpretation; Headings 39 13.5 Assignment 40 13.6 Performance by Affiliates 40 13.7 Further Assurances and Actions 40 13.8 Severability 41 13.9 No Waiver 41 13.10 Relationship of the Parties 41 13.11 English Language 42 13.12 Counterparts 42 13.13 Schedules 42 13.14 Expenses 42
+
+Exhibit A Permitted Subcontractors Exhibit B Business Plan Exhibit C SIGA Press Release Schedule 1 SIGA Patents Schedule 2 SIGA Trademarks Schedule 3 Safety Reporting Requirements Schedule 8.2(b) Encumbrances
+
+-iii-
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+PROMOTION AGREEMENT This PROMOTION AGREEMENT  (this "Agreement") is entered into as of May 31, 2019 (the "Effective Date") by and between SIGA TECHNOLOGIES, INC., a Delaware corporation having an address at 31 East 62nd Street, New York, NY 10065 ("SIGA"), and MERIDIAN MEDICAL TECHNOLOGIES, INC., a Pfizer company, and Delaware corporation having an address at 6350 Stevens Forest Road, Suite #301, Columbia, MD 21046 ("MMT"). SIGA and MMT are sometimes referred to individually as a "Party" and collectively as the "Parties". RECITALS WHEREAS, SIGA developed the FDA-approved oral capsule formulation of TPOXX® (tecovirimat) for the treatment of smallpox; WHEREAS, MMT possesses resources and expertise in the marketing, promoting, advertising, offering for sale and selling of pharmaceutical and antiviral products; and WHEREAS, MMT desires to obtain from SIGA, and SIGA desires to grant to MMT certain exclusive licenses in the Territory to market, promote, advertise, offer for sale and sell the Product in the Field in the Territory, as set forth herein. NOW, THEREFORE, in consideration of the foregoing premises and the mutual promises, covenants and conditions contained in this Agreement, the Parties hereby agree as follows: ARTICLE 1
+
+DEFINITIONS "Active Country" has the meaning set forth in Section 4.4(b). "Affiliate" means, with respect to each Party, any corporation, firm, partnership or other entity or Person which directly or indirectly controls or is controlled by or is under common control with that Party. A Person will be regarded as in "control" (including, with correlative meaning, the terms "controlled by" and "under common control with") of another Person if it (a) owns or controls at least fifty percent (50%) of the equity securities of the subject Person entitled to vote in the election of directors, or (b) possesses, directly or indirectly, the power to direct or cause the direction of the management or policies of any such Person (whether through ownership of securities or other ownership interests, by contract or otherwise). "Alliance Manager" has the meaning set forth in Section 3.1(d). "Anti-Corruption Law" means any applicable Law of any jurisdiction concerning or relating to bribery, kickbacks or corruption including the United States Foreign Corrupt Practices Act of 1977, the Anti-Kickback Statute, the UK Bribery Act 2010, any Laws enacted pursuant to the OECD Convention on Combating Bribery of Foreign Public Officials, and other similar anti-corruption legislation in other jurisdictions, as may be amended from time to time and each to the extent applicable to a Party.
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+"Audit Report" has the meaning set forth in Section 6.5. "Bankruptcy Code" means, as applicable, the U.S. Bankruptcy Code, as amended from time to time, and the rules and regulations and guidelines promulgated thereunder or the bankruptcy laws of any other country or Governmental Authority, as amended from time to time, and the rules and regulations and guidelines promulgated thereunder. "Binding Portion of Forecast" has the meaning set forth in Section 5.1(a). "Business Day" means any day other than a day on which the commercial banks in New York City are authorized or required to be closed. "Business Plan" has the meaning set forth in Section 4.1(a). "Calendar Quarter" means a period of three (3) consecutive months ending on the last day of March, June, September, or December, respectively, except that the first Calendar Quarter of the Term shall commence on the Effective Date and end on June 30, 2019 and the last Calendar Quarter shall end on the last day of the Term. "Calendar Year" means a period of twelve (12) consecutive months beginning on January 1 and ending on December 31, except that the first Calendar Year of the Term shall commence on the Effective Date and end on December 31 of the year in which the Effective Date occurs and the last Calendar Year of the Term shall commence on January 1 of the year in which the Term ends and end on the last day of the Term. "Change of Control" means, with respect to either Party, [***]. "Claims" has the meaning set forth in Section 9.1. "Commercialize" means to Promote, distribute, obtain Pricing Approvals and Reimbursement Approvals, import, export and/or conduct other commercialization activities, and "Commercialization" means commercialization activities related to a product, including any and all activities relating to Promoting, distributing, obtaining Pricing Approvals and Reimbursement Approvals, importing and exporting. "Commercialize" or "Commercialization" shall expressly exclude "Develop" or "Development". "Commercially Reasonable Efforts" means, with respect to the efforts to be expended by any Person with respect to any objective, reasonable, diligent and good faith efforts to accomplish such objective. With respect to the Promotion or other exploitation of the Product, "Commercially Reasonable Efforts" means [***]. "Competing Product" means [***]. "Compliance Communications" has the meaning set forth in Section 8.2(x)(i).
+
+2
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+"Confidential Information" of a Party means (a) any and all information of such Party or its Affiliates that is provided or disclosed by such Party or its Affiliates to the other Party or its Affiliates under this Agreement, whether in oral, written, graphic, or electronic form, and (b) the terms of this Agreement. "Control" means, with respect to any material, Know-How, or intellectual property right, that a Party (a) owns or (b) has a license (other than a license granted to such Party under this Agreement) or other right to such material, Know-How, or intellectual property right, and in each case, has the ability to grant to the other Party access, a license, sublicense or other rights (as applicable) to the foregoing on the terms and conditions set forth in this Agreement without violating the terms of any then-existing agreement or other arrangement with any Third Party. "Credit Amount" has the meaning set forth in Section 6.1(b). "Customer" means a Third Party that has entered into a Customer Contract with MMT. "Customer Contract Notice" has the meaning set forth in Section 4.3(b). "Customer Contract" has the meaning set forth in Section 4.3(a). "Delivery Date" shall mean the date set forth in each Purchase Order by which SIGA is to deliver the Product ordered thereunder, which date shall not be any earlier than the corresponding lead time set forth in the applicable Purchase Order. "Develop" or "Development" means any and all activities relating to researching or developing (including synthesizing, screening, testing or evaluating), preparing and conducting non-clinical studies, preparing and conducting clinical studies, and conducting certain regulatory activities (including preparation of regulatory applications) that are necessary or useful to obtain and maintain Regulatory Approval of the Product in any country in the Territory. "Develop" or  "Development" may include "Manufacture"  or  "Manufacturing" but shall expressly exclude "Commercialize" or "Commercialization". "Discontinued Country" has the meaning set forth in Section 4.2. "Dollars" or "$" means U.S. dollars. "EMA" means the European Medicines Agency or any successor entity. [***] "EU" means the economic, scientific and political organization of member states of the European Union as it may be constituted from time to time, which as of the Effective Date consists of Austria, Belgium, Bulgaria, Croatia, Cyprus, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, and the United Kingdom. For clarity, the EU will at all times be deemed to include the United Kingdom, whether or not the United Kingdom remains a member state of the EU.
+
+3
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+"Executive Officers" has the meaning set forth in Section 3.1(e). "Expanded Field" has the meaning set forth in Section 2.1(c). "FD&C Act" means the U.S. Federal Food, Drug, and Cosmetic Act, as amended. "FDA" means the U.S. Food and Drug Administration or any successor entity. "Field" means [***]. "Final Audit Report" has the meaning set forth in Section 6.5. "Final Report" has the meaning set forth in Section 6.2(b). "First Commercial Sale" means the date of the first sale of the Product in the Field in a country in the Territory to a Third Party for monetary value and for end use, including stockpiling, administration, or other consumption of the Product in the Field in such country in the Territory. "GCP" means the then-current standards, practices and procedures promulgated or endorsed by the FDA as set forth in the guidelines entitled "Guidance for Industry E6 Good Clinical Practice: Consolidated Guidance," including related regulatory requirements imposed by the FDA and, as applicable, comparable regulatory standards, practices and procedures promulgated by the EMA or other Regulatory Authority, as such standards, practices and procedures may be updated from time to time, including applicable quality guidelines promulgated under the ICH Q7. "Global Trade Control Laws" means the U.S. Export Administration Regulations, the U.S. International Traffic in Arms Regulations; the U.S. economic sanctions rules and regulations implemented under statutory authority and/or the President's Executive Orders and administered by the U.S. Department of the Treasury Office of Foreign Assets Control; EU Council Regulations on export controls, including No.428/2009; other EU Council sanctions laws and regulations, as implemented in EU Member States and enforced by EU Member State authorities, including Her Majesty's Treasury in the United Kingdom; United Nations sanctions policies; all relevant regulations and legislative instruments made under any of the above; other relevant economic sanctions, export and import control laws, and other laws, regulations, legislation, orders and requirements imposed by a relevant Governmental Authority. "GLP" means the then-current good laboratory practice standards promulgated or endorsed by the FDA as defined in 21 C. F. R. Part 58, and, as applicable, comparable regulatory standards promulgated by the EMA or other Regulatory Authority, as such standards may be updated from time to time, including applicable quality guidelines promulgated under the ICH.
+
+4
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+"GMP" means the standards relating to current Good Manufacturing Practices for fine chemicals, active pharmaceutical ingredients, intermediates, bulk products or finished pharmaceutical products set forth in (i) 21 U.S. C. 351(a)(2)(B), in FDA regulations at 21 C. F. R. Parts 210 and 211 and, as applicable, in The Rules Governing Medicinal Products in the European Community, Volume IV, Good Manufacturing Practice for Medicinal Products, or (ii) the ICH Guidelines relating to the manufacture of active pharmaceutical ingredient and finished pharmaceuticals, as such standards may be updated from time to time, including applicable quality guidelines promulgated under the ICH. "Governmental Authority" means any supra-national, multi-national, federal, state, local, municipal, provincial or other governmental authority or political subdivision of any nature (including any governmental division, prefecture, subdivision, department, agency, bureau, branch, office, public-institution, commission, council, court or other tribunal exercising executive, judicial, legislative, police, regulatory, administrative or taxing authority or functions of any nature pertaining to government). "ICH" means the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use. "Indemnified Party" has the meaning set forth in Section 9.3. "Indemnifying Party" has the meaning set forth in Section 9.3. "Independent Auditor" has the meaning set forth in Section 6.5. "Initial Business Plan" has the meaning set forth in Section 4.1(a). "Initial Term" has the meaning set forth in Section 11.1. "JSC" has the meaning set forth in Section 3.1(a). "Know-How" means all technical, scientific and other information, know-how and data, including trade secrets, knowledge, inventions, discoveries, methods, specifications, processes, practices, formulae, instructions, skills, techniques, procedures, experiences, ideas, technical assistance, designs, drawings, assembly procedures, computer programs, expertise, technology, other non-clinical, pre-clinical and clinical data, documentation and results (including pharmacological, toxicological, pharmaceutical, biological, chemical, physical, safety and manufacturing data and results), analytical, regulatory and quality control data and results, Regulatory Materials, study designs, protocols, assays, biological methodologies and other technical information, in each case, whether or not confidential, proprietary, patented or patentable. "Know-How" expressly excludes any Patents.
+
+5
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+"Laws" means any law, statute, rule, regulation, standard, order, judgment or ordinance having the effect of law of any applicable national, federal, provincial, state, county, city, or other political subdivision, or foreign, supranational or multinational law, including any statute, standard, code, resolution, or promulgation, or any order, writ, judgment, injunction, decree, stipulation, ruling, determination, or award entered by or with any Governmental Authority, or any license, franchise, permit, or similar right granted under any of the foregoing, or any similar provision having the force or effect of law, including the Federal Food, Drug, and Cosmetic Act (21 U.S.C. § 301, et seq.), the Anti-Kickback Statute (42 U.S.C. § 1320a- 7b), the Civil Monetary Penalty Statute (42 U.S.C. § 1320a-7a), the False Claims Act (31 U.S.C. § 3729 et seq.), comparable state statutes, the regulations promulgated under all such statutes, and the regulations issued by the FDA, and all applicable Anti-Corruption Laws, accounting and recordkeeping laws, and laws relating to interactions with HCPs and Government Officials. For the avoidance of doubt, any specific references to any Law or applicable Law or any portion thereof shall be deemed to include all then-current amendments thereto or any replacement or successor law, statute, standard, ordinance, code, rule, regulation, resolution, promulgation, order, writ, judgment, injunction, decree, stipulation, ruling, or determination thereto.
+
+"Losses" has the meaning set forth in Section 9.1. "Manufacture" or "Manufacturing" means all activities related to the manufacturing of a compound or product, including test method development and stability testing, formulation, process development, manufacturing scale-up, manufacturing for use in non-clinical and clinical studies, manufacturing for commercial sale, packaging, release of product, quality assurance/quality control development, quality control testing (including in-process, in-process release and stability testing) and release of product or any component or ingredient thereof, and regulatory activities related to all of the foregoing. "Manufacture" or "Manufacturing" may be included as part of "Develop" or "Development" to the extent applicable, but is expressly exclude from "Commercialize" or "Commercialization". [***] [***] "MMT Indemnitees" has the meaning set forth in Section 9.1. "MMT Promotion Personnel" any employees of MMT or its Affiliates and other approved Third Party contractors, agents and personnel and Permitted Sublicensees, that MMT will assign to conduct Promotion pursuant to this Agreement. "Net Product Sales Amount" means [***] "Non-Compliance Action" has the meaning set forth in Section 8.2(x)(ii). "Non-Promotion Notice" has the meaning set forth in Section 4.2. "Notice of Disagreement" has the meaning set forth in Section 6.5. "Notice of Dispute" has the meaning set forth in Section 12.1(a).
+
+6
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+"Patents" means (a) pending patent applications, issued patents, utility models and design patents anywhere in the world; (b) provisionals, non-provisionals, reissues, substitutions, confirmations, registrations, validations, re-examinations, additions, continuations, continued prosecution applications, continuations-in-part, or divisionals of or to any of the foregoing; (c) any other patent application claiming priority to any of the foregoing anywhere in the world; (d) extension, renewal or restoration of any of the foregoing by existing or future extension, renewal or restoration mechanisms, including supplementary protection certificates or the equivalent thereof; and (e) any foreign equivalents to any of the foregoing. "PDF" means Adobe™ Portable Document Format sent by electronic mail. "Permitted Sublicensee" has the meaning set forth in Section 2.1(b). "Person" means an individual, sole proprietorship, partnership, limited partnership, limited liability partnership, corporation, limited liability company, business trust, joint stock company, trust, incorporated association, joint venture or similar entity or organization, including a government or political subdivision or department or agency of a government or other Governmental Authority. "Pfizer" means Pfizer Inc., a Delaware corporation. "Potential New Field" has the meaning set forth in Section 2.1(c). "Pricing and Reimbursement Authority" means, as applicable, the body with the authority to control, approve, recommend, decide, or otherwise determine pricing and reimbursement of pharmaceutical products, including those with authority to enter into risk sharing schemes or to impose retroactive price reductions, discounts, or rebates (including the National Institute for Health and Care Excellence and the Scottish Medicines Consortium in the U.K.; the Institute for Quality and Efficiency in Health Care in Germany; the Technical Scientific Commission and the Price and Reimbursement Committee within the Italian Medicines Agency in Italy; the Directorate General for the Basic Portfolio of the National Health and Pharmacy System of the Ministry of Health in Spain; the National Union of Health Insurance Funds and the National Authority of Health in France; and Health Canada in Canada) or non-governmental authority (including "Sick Funds" in Germany)). "Pricing Approval" means the approval, agreement, determination or decision establishing prices for Product that can be charged in countries where Governmental Authorities or their designees control, approve, recommend, decide, or otherwise determine the price of pharmaceutical products. "Product" means the FDA-approved oral formulation of TPOXX® (tecovirimat) for use in the Field, or any oral formulation of tecovirimat for use in the Field for which a Regulatory Authority grants Drug Approval to SIGA in a country or jurisdiction in the Territory.
+
+7
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+"Promote" or "Promotion" means to market, advertise, promote, offer for sale, or sell a product. "Promotion Fee" has the meaning set forth in Section 6.1(a). "Purchase Order" shall mean a written purchase order generated by MMT for Product to be delivered pursuant to Customer Contracts which includes the information set forth in Section 5.2(a). "Quarterly Collected Revenue" means Net Product Sales Amount that is collected during the applicable Calendar Quarter. "Quarterly Payment" has the meaning set forth in Section 6.2(a). "Quarterly Report" has the meaning set forth in Section 6.2(a). "Regulatory Approval" means, with respect to the Product in a particular country in the Territory, marketing authorization granted by the relevant Regulatory Authority permitting the marketing and sale of the Product in such country but excludes any and all Pricing Approvals and Reimbursement Approvals. "Regulatory Authority" means, in a particular country, the Governmental Authority with the authority to grant Regulatory Approval in such country. "Regulatory Materials" means any documentation comprising any regulatory application, submission, notification, communication, correspondence, proof of approval or license, registration, Regulatory Approval or other filing made to, received from or otherwise conducted with a Regulatory Authority to Develop, Manufacture, market, sell or otherwise Commercialize the Product in a particular country in the Territory. "Reimbursement Approval" means the approval, agreement, determination or decision regarding the prices for Product that can be reimbursed in jurisdictions where the applicable Pricing and Reimbursement Authority approves, determines or recommends the reimbursement of pharmaceutical products. "Renewal Term" has the meaning set forth in Section 11.1. "Restricted Markets" means, as applicable under Global Trade Control Laws, the Crimean Peninsula, Cuba, Iran, North Korea, and Syria. "Restricted Party" means any individual(s) or entity(ies) on any of the following (collectively referred to herein as the "Restricted Party Lists"): the list of sanctioned entities maintained by the UN; the Specially Designated Nationals List and the Sectoral Sanctions Identifications List, as administered by the U.S. Department of the Treasury Office of Foreign Assets Control; the U.S. Denied Persons List, the U.S. Entity List, and the U.S. Unverified List, all administered by the U.S. Department of Commerce; the entities subject to restrictive measures and the Consolidated List of Persons, Groups and Entities Subject to E.U. Financial Sanctions, as implemented by the E.U. Common Foreign & Security Policy; the List of Excluded Individuals / Entities, as published by the U.S. Health and Human Services - Office of Inspector General; any lists of prohibited or debarred parties established under the U.S. Federal Food Drug and Cosmetic Act; the list of Persons and entities suspended or debarred from contracting with the U.S. government; and similar lists of restricted parties maintained by the Governmental Authorities of the countries that have jurisdiction over the activities conducted under this Agreement.
+
+8
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+"Restricted Party Lists" has the meaning set forth in the definition of Restricted Party. [***] [***] [***] "Rolling Forecast" has the meaning set forth in Section 5.1(a). "SEC" has the meaning set forth in Section 10.4(d). "Sell or Offer to Sell" means actual negotiation of terms of purchase and contracting for sale of Product in the Field in the Territory. "Selling Party" has the meaning set forth in the definition of Net Product Sales Amounts. "SIGA Indemnitees" has the meaning set forth in Section 9.2. "SIGA Intellectual Property" means the SIGA Know-How, SIGA Trademarks, SIGA Patents and SIGA Inventions. "SIGA Know-How" means all Know-How that (a) is necessary or useful for the Development, Manufacture or Commercialization of the Product in the Field in the Territory and (b) (i) is Controlled by SIGA or its Affiliates as of the Effective Date or (ii) is or becomes Controlled by SIGA or its Affiliates during the Term. "SIGA Patent" means any Patent that (a) claims, generically or specifically, the Product, or the Manufacture or use of the Product in the Field (including its intermediates and relevant compounds) and (b)(i) is Controlled by SIGA or its Affiliates as of the Effective Date, which such Patents are set forth in Schedule 1 hereto, (ii) is Controlled by SIGA or its Affiliates during the Term and claims priority to the Patents Controlled by SIGA or its Affiliates as of the Effective Date, or (iii) is or becomes Controlled by SIGA or its Affiliates during the Term. "SIGA Trademark" means any Trademark that (a) is necessary for the Development, Manufacture or Commercialization of a Product in the Field in the Territory and (b) (i) is Controlled by SIGA or its Affiliates as of the Effective Date (which such Trademarks are set forth in Schedule 2 hereto) or (ii) is or becomes Controlled by SIGA or its Affiliates during the Term.
+
+9
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+"SIGA's Auditor" has the meaning set forth in Section 6.5. "South Korea" means South Korea, including all of its territories and possessions. "Special Access Approval" has the meaning set forth in Section 4.4(b). "Supply Limitation" has the meaning set forth in Section 5.4. "Supply Terms" means [***]. "Term" has the meaning set forth in Section 11.1. "Territory" means all countries and territories in the world other than (a) the U.S., (b) South Korea, (c) any Restricted Market, and (d) any Discontinued Country and, in the case of (a)-(c), each of their respective territories and possessions. "Third Party" means any Person other than SIGA or MMT or an Affiliate of either of them. "Tier 1 Countries" mean [***]. "Tier 2 Countries" mean [***]. "Tier 3 Countries" mean [***]. "Tier Period" has the meaning set forth in Section 4.2. "Trademark" means any trademark, service mark, trade name, brand name, sub-brand name, trade dress, product configuration, program name, product name, delivery form name, certification mark, collective mark, logo, tagline, slogan, design or business symbol, that functions as an identifier of source or origin, whether or not registered and all statutory and common law rights therein and all registrations and applications therefor, together with all goodwill associated with, or symbolized by, any of the foregoing. "U.S." means the United States of America, including all of its territories and possessions. "VAT" has the meaning set forth in Section 6.8(c). "Yearly Collected Revenue" means Net Product Sales Amount that is collected during the applicable Calendar Year.
+
+10
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+ARTICLE 2
+
+GRANT OF RIGHTS 2.1 Grant of Rights to MMT. (a) Grant to MMT. Subject to the terms and conditions of this Agreement, SIGA hereby grants to MMT an exclusive right and license, with the right to grant sublicenses as permitted under Section 2.1(b), under the SIGA Intellectual Property solely to Promote the Product in the Field in the Territory. The license granted by SIGA to MMT under this Section 2.1(a) will be exclusive even as to SIGA with respect to rights to Promote the Product in the Field in the Territory, except as set forth in Section 2.4 below. (b) Sublicense Rights. Except for the subcontractors appointed by MMT as of the Effective Date as listed on Exhibit A attached hereto, MMT may not grant sublicenses of the rights and licenses granted to it in Section 2.1(a) to any Affiliate (including Pfizer or any Affiliate of Pfizer) or Third Party without the prior written approval of SIGA (such approval not to be unreasonably withheld). Each such subcontractor listed on Exhibit A attached hereto and any Affiliate or Third Party approved by SIGA as an MMT sublicensee pursuant to this Section 2.1(b) shall be deemed to be a "Permitted Sublicensee" for purposes of this Agreement. (c) Potential New Field. From time to time, MMT may request to expand the Field in a particular country in the Territory because it believes that there is an opportunity to Promote the Product in such new field (a "Potential New Field"). MMT shall make such request to SIGA in writing. SIGA will determine whether to approve such Potential New Field, based upon available information regarding the regulatory environment in such country for such Potential New Field, and whether SIGA will need to seek Regulatory Approval and Pricing Approval and Reimbursement Approval. The Parties shall discuss the Potential New Field in good faith and upon the mutual written agreement of the Parties to proceed with a Potential New Field in such country, such Potential New Field shall be deemed hereunder to be an "Expanded Field" for purposes of that country only in the Territory. 2.2 Negative Covenants. (a) MMT will not, and will not permit any of its Affiliates or sublicensees to, use or practice any SIGA Intellectual Property outside the scope of the licenses granted to it under Section 2.1. (b) SIGA will not, and will not permit any of its Affiliates or licensees to, Promote the Product in the Field in the Territory, except as set forth in Section 2.4. 2.3 Non-Compete Covenant. During the Term, MMT shall not Commercialize in any manner any Competing Product in the Field in any country in the Territory; provided, however, the Parties hereby acknowledge that the restrictions set forth in this Section 2.3 shall not apply to any Affiliates of MMT (including Pfizer). Furthermore, [***].
+
+11
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+2.4 Retained Rights. Notwithstanding anything herein to the contrary, SIGA retains the right on behalf of itself and its Affiliates, licensees or any Third Parties to Develop, Manufacture, supply, distribute and otherwise Commercialize the Product in Field the Territory, except that SIGA may not Promote or Sell or Offer to Sell the Product in the Field in the Territory to any Third Party; provided that SIGA may, at its sole cost and discretion engage in promotional activities regarding (but not enter into any Customer Contracts in respect of) the Product in support of MMT's efforts to Promote or Sell and Offer to Sell the Product. 2.5 No Implied Licenses. Except as explicitly set forth in this Agreement, neither Party will be deemed by estoppel or implication to have granted the other Party any license or other right to any intellectual property of such Party. For clarity, MMT acknowledges and agrees that SIGA has not granted any license to MMT hereunder to Develop or Manufacture the Product, and MMT does not have any right to Commercialize the Product, other than the license granted by SIGA to MMT to Promote the Product in the Field in the Territory as set forth in Section 2.1(a). 2.6 [***]. (a) [***]. ARTICLE 3
+
+GOVERNANCE 3.1 Joint Steering Committee. (a) Formation and Role. Within thirty (30) days after the Effective Date, the Parties will establish a joint steering committee (the "JSC") to govern the activities of the Parties with respect to the Promotion and Commercialization of the Product in the Field in the Territory pursuant to this Agreement. The role of the JSC is: [***] (b) Members. [***]. (c) Meetings. [***]. (d) Alliance Managers. [***]. (e) Decision Making. [***]. 3.2 Good Faith. In conducting themselves on any committees, each representative of either Party, including the chairperson, will consider diligently, reasonably and in good faith all input received from the other Party, and will use commercially reasonably efforts to reach consensus on all matters before them. In exercising any decision-making authority granted to it under this ARTICLE 3, each Party will conduct its discussions in good faith with a view toward operating for the mutual benefit of the Parties and in furtherance of the Commercialization and Promotion of the Product in the Field in the Territory. Notwithstanding anything to the contrary in this Agreement, neither Party nor any of their respective Affiliates will be required to take, or will be penalized for not taking, any action that is not in compliance with such Party's ethical business practices and policies or that such Party reasonably believes is not in compliance with Laws.
+
+12
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+3.3 Scope of Governance. The Parties agree not to share or discuss any Confidential Information beyond the scope of the collaboration contemplated by this Agreement. Each Party acknowledges and agrees that the JSC members and participants will receive Confidential Information in connection with their service on the JSC. Each Party will ensure that its JSC members and its non-voting observers and participants are informed that they should regard all JSC-related information as Confidential Information, and are subject to obligations of confidentiality and non-disclosure no less stringent than those set forth in ARTICLE 10. ARTICLE 4
+
+PROMOTION AND OTHER COMMERCIALIZATION 4.1 Promotion in the Territory. (a) [***] (b) MMT shall use Commercially Reasonable Efforts at its sole cost and expense to Promote the Product in the Field within the Territory in accordance with the then-current Business Plan; provided that MMT shall not Promote any Product within any Restricted Market or Discontinued Country. (c) MMT shall conduct all Promotion activities in accordance with applicable Laws, Pfizer policies and practices regarding advertising, marketing, promotional and other Product-specific communications, and the terms of this Agreement. MMT may prepare marketing, advertising, promotional materials and other communications relating to the Product for Promotion use in the Field in the Territory. All such materials shall be truthful and non-misleading, and in compliance with applicable Laws, and subject to review by SIGA through the JSC; provided that the final decision to use any approved materials will be at the sole discretion of MMT. (d) Subject to Section 4.2, SIGA shall provide reasonable assistance to MMT with respect to MMT's conduct of Promotion activities with respect to the Product in the Field in the Territory as specifically set forth in the Business Plan, including providing responses to medical inquiries communicated to MMT's sales representatives or other external-facing MMT representatives or received by MMT by letter, phone call or email or other means of communication, at MMT's sole cost and expense; provided, however, SIGA shall solely be responsible for the costs and expenses associated with the response to any medical inquiries.
+
+13
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+(e) MMT will provide appropriate (as determined by MMT in its sole discretion) training (including regarding compliance with applicable Laws) of the MMT Promotion Personnel who will be communicating with potential customers about the Product. (f) Subject to Section 13.6, MMT may not use any subcontractor that is not a Permitted Sublicensee to fulfill its obligations under this Agreement. 4.2 Diligence. Notwithstanding anything herein to the contrary, MMT's commitment to use Commercially Reasonable Efforts as set forth herein shall not preclude the suspension or discontinuance of the Promotion of the Product in the Field in a country within the Territory, if reasonably appropriate, based on the application of Commercially Reasonable Efforts with respect to the Promotion of the Product in such country. If MMT does not document in the Business Plan [***]the Product in the Field in a country in the Territory ("[***]") for a period of either (i) [***] calendar months after the Effective Date for Tier 1 Countries, (ii) [***] calendar months after the Effective Date for Tier 2 Countries or (iii) [***] calendar months after the Effective Date for Tier 3 Countries (each such time period set forth in (i)-(iii) being a "Tier Period"), then no later than [***] Business Days after the expiration the applicable Tier Period for such country, SIGA may provide MMT with written notice [***] non-[***] (a "Non-[***] Notice") in such country, and upon MMT's receipt of such Non-[***] Notice, such country shall be deemed to be a "Discontinued Country" for purposes of this Agreement. If [***], SIGA shall have the right to designate the applicable country as a Discontinued Country at any time thereafter as long as the relevant Tier Period [***] for the country has been met at the time of the Non-[***] Notice. SIGA hereby acknowledges and agrees that MMT and its Affiliates make (and have made) no representation or warranty, either express or implied, at law or in equity, that it will be able to successfully achieve any amount of Net Product Sales Amount, and SIGA specifically disclaims that it is relying upon or has relied upon any such representations or warranties that may have been made by any individual or entity. SIGA acknowledges and agrees that MMT and its Affiliates have, and will continue to have, other programs that may compete for resources that may be expended in the Promotion of the Product. Except as otherwise set forth in Section 2.3 with respect to Competing Products, nothing in this Agreement shall limit or restrict the right of MMT or its Affiliates to develop, make regulatory filings, obtain regulatory approvals with respect to, or to Commercialize any product that is not the Product or, with respect to MMT only, a Competing Product or to engage in any business or other activity. 4.3 Customer Contracts. (a) Subject to Section 2.4 and Section 4.3(b), MMT shall serve as the primary contracting party [***]. (b) [***].
+
+14
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+4.4 Regulatory Matters. (a) Subject to Sections 4.4(b) and (c) each Party, at its sole cost and expense, will be responsible for obtaining all regulatory authorizations, permits, licenses, and approvals required to carry out its obligations under this Agreement. (b) [***]. (c) MMT will provide SIGA with final copies of any marketing, advertising, promotional materials and other communications developed pursuant Section 4.1(c), and as soon as reasonably practicable thereafter, SIGA will be responsible for submitting on MMT's behalf such materials or other communications to seek to obtain any approvals necessary under applicable Law for the use of such materials in the Territory. (d) MMT will promptly notify SIGA, and shall provide SIGA with a copy, of any information it receives regarding any threatened or pending action, inspection or communication by or from any Third Party, including a Regulatory Authority, which may affect the regulatory status of the Product and will reasonably cooperate with SIGA in its response thereto. MMT may choose not to disclose communications, other than communications from Regulatory Authorities, to the extent that MMT's counsel reasonably believes that such disclosure to SIGA could violate applicable privacy laws or have a significant adverse impact on MMT's legal position or defense (including the loss of attorney-client privilege), in which case MMT shall promptly notify SIGA that it is exercising its right not to disclose. 4.5 Discontinued Countries. For clarity, notwithstanding anything to the contrary set forth herein, upon the designation of a country as a "Discontinued Country" under this Agreement, SIGA shall have the right to Promote the Product in the Discontinued Country at its sole discretion and cost. Upon designation of a country as a "Discontinued Country" in accordance with Section 4.2, MMT shall immediately cease all Promotional efforts related to the Product in such country, and SIGA shall have the sole right to Promote the Product in such Discontinued Country during and after the Term. ARTICLE 5
+
+FORECASTING AND ORDERING 5.1 Product Forecasts. (a) [***]. (b) [***]. 5.2 Purchase Orders. (a) [***]. [***]. [***].
+
+15
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+5.3 Delivery. [***]. 5.4 Supply Limitation. [***]. 5.5 Supply Penalties. [***]. 5.6 Adverse Event Reporting. MMT or its Affiliates will reasonably cooperate with SIGA to meet applicable pharmacovigilance and safety reporting requirements and in the event of a Product recall. To facilitate pharmacovigilance and safety reporting, the Parties agree that they will follow the procedures described in Schedule 3 Safety Reporting Requirements, which may be amended from time-to-time, to ensure that adverse event and other safety information is identified, reviewed, and reported in a manner that will permit SIGA to comply with applicable Laws, including any reporting requirements with any applicable Regulatory Authority. ARTICLE 6
+
+PAYMENTS 6.1 Promotion Fee. (a) In consideration for the services provided by MMT hereunder, commencing with the First Commercial Sale of the Product in the Territory, MMT shall be entitled to retain a fee (the "Promotion Fee") of: (i) [***] of the Yearly Collected Revenue of the Product in the Territory in each Calendar Year during the Term if the aggregate Net Product Sales Amounts for such Calendar Year are equal to or below [***]; and (ii) [***] of the Yearly Collected Revenue of the Product in the Territory in each Calendar Year during the Term if the aggregate Net Product Sales Amounts for such Calendar Year exceed [***]. (b) In satisfaction of MMT's rights to the Promotion Fee, MMT shall retain from each payment to SIGA of the Quarterly Collected Revenue an amount equal to (i) [***] of the Quarterly Collected Revenue in the Territory during such Calendar Quarter so long as the total Net Product Sales Amounts in the Territory during the relevant Calendar Year are equal to or below [***] and (ii) [***] of the Quarterly Collected Revenue in the Territory during such Calendar Quarter where the total Net Product Sales Amounts in the Territory during the relevant Calendar Year exceeds [***] and (iii) any Credit Amounts. If the Net Product Sales Amounts in the Territory exceeds [***] during any Calendar Year after any Quarterly Payment has been made, MMT shall automatically accrue a credit of [***] (the "Credit Amount") (representing the additional [***] fee that MMT would be entitled to receive with respect to the first [***] of the Quarterly Collected Revenue as a result of total Net Product Sales Amounts in the relevant Calendar Year having [***]), which Credit Amount will be deducted from future payments of Quarterly Collected Revenue to SIGA until the full Credit Amount is retained by MMT.
+
+16
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+6.2 Payments. (a) Within [***] days after the conclusion of each Calendar Quarter to occur during the Term, commencing with the First Commercial Sale of the Product in the Field in the Territory, MMT shall deliver to SIGA a written report containing the following information (each a "Quarterly Report"): [***]. All such reports shall be considered Confidential Information of MMT. Concurrent with the delivery of the applicable Quarterly Report, MMT shall pay to SIGA in Dollars by wire transfer of immediately available funds into an account designated by SIGA in writing in advance of such payment the net result of Quarterly Collected Revenues, minus the corresponding Promotion Fee, and minus any applicable Credit Amount for such Calendar Quarter (all amounts as calculated in the Quarterly Report, and the payment of the net result being a "Quarterly Payment"). (b) Upon the expiration or termination of this Agreement, MMT shall submit a final written report covering the time period between the date of the last Quarterly Report submitted by MMT and the date of expiration or termination of this Agreement (the "Final Report"). The Final Report shall contain all information required to be included in a Quarterly Report with respect to the time period between the conclusion of the most recent Calendar Quarter and the date of expiration or termination of this Agreement. If MMT owes any outstanding amounts to SIGA as calculated pursuant to such Final Report, then MMT shall pay to SIGA in Dollars such outstanding amounts by wire transfer of immediately available funds into an account designated by SIGA in writing in advance of such payment within [***] days after delivery of the Final Report. If SIGA owes any amounts relating to any portion of any outstanding Credit Amounts or otherwise, then SIGA shall pay such outstanding amounts to MMT within [***] days after delivery of the Final Report. 6.3 Currency. All sums due under this Agreement shall be payable in Dollars. Any amounts in currencies other than Dollars shall, for purposes of determining Net Product Sales Amounts or Quarterly Collected Revenue, be converted to Dollars using the [***]. Once the Net Product Sales Amount or Quarterly Collected Revenue payable in respect of a particular Calendar Quarter has been converted into Dollars, such amount of Dollars shall be used for the purpose of calculating the total Net Product Sales Amount and Quarterly Collected Revenue during the Calendar Year that includes such Calendar Quarter. 6.4 Records. MMT will keep (and will ensure that its Affiliates and sublicensees keep) such records as are required to determine, in accordance with U.S. generally accepted accounting principles or international financial reporting standards, as applicable, and this Agreement and the sums or credits due under this Agreement, including Net Product Sales Amounts. MMT will retain all such books, records and accounts until the later of (a) [***] after the end of the period to which such books, records and accounts pertain and (b) the expiration of the applicable tax statute of limitations (or any extensions thereof), or for such longer period as may be required by Laws. MMT will require its sublicensees to provide to it a report detailing the foregoing expenses and calculations incurred or made by such sublicensee, which report will be made available to SIGA in connection with any audit conducted by SIGA pursuant to Section 6.5.
+
+17
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+6.5 Audits. SIGA may have an independent top four certified public accountant, reasonably acceptable to MMT ("SIGA's Auditor"), have access during normal business hours, and upon [***] Business Days' prior written notice, to examine only those records of MMT (and its Affiliates and sublicensees) as may be reasonably necessary to determine, with respect to any Calendar Year ending not more than [***] before SIGA's request, the correctness or completeness of any report or payment made under this Agreement; provided, however, MMT shall not be required to provide, and neither SIGA nor SIGA's Auditor shall be entitled to review, the tax returns or tax records of MMT or those of its Affiliates and sublicensees. The foregoing right of review may be exercised only once per year and only once with respect to each periodic report and payment delivered in accordance with Section 6.2. Reports of the results of any such examination (each an "Audit Report") will be (a) limited to details of any discrepancies in MMT's records relating to the Product together with an explanation of the discrepancy and the circumstances giving rise to the discrepancy (b) made available to both Parties and (c) subject to ARTICLE 10. An Audit Report shall become final and binding on the Parties thirty (30) days following MMT's receipt thereof, unless MMT delivers written notice of its agreement thereto (in which case such Audit Report shall become final and binding on the date of delivery of such notice of agreement) or written notice of its disagreement thereto ("Notice of Disagreement") to SIGA in either case on or prior to such date. If a timely Notice of Disagreement is delivered by MMT to SIGA, then the Audit Report shall become final and binding on the Parties on the earlier of (i) the date MMT and SIGA resolve in writing any differences they have with respect to the matters specified in the Notice of Disagreement, and (ii) the date all matters in dispute are finally resolved in writing by the Independent Auditor. During the thirty (30) days following delivery of a Notice of Disagreement, MMT, SIGA and SIGA's Auditor shall seek to resolve in writing any differences which they may have with respect to the matters specified in the Notice of Disagreement. At the end of such thirty (30) day period, if no resolution has been reached, MMT and SIGA shall submit such dispute to an independent top four certified public accountant other than SIGA's Auditor and reasonably acceptable to both Parties (the "Independent Auditor") for resolution of all matters which remain in dispute which were included in the Notice of Disagreement, and the Independent Auditor shall make a final determination with respect thereto (with it being understood that the Parties will request that the Independent Auditor deliver to the Parties its resolution in writing not more than 30 days after its engagement). The Independent Auditor shall make a determination only with respect to the matters still in dispute and, with respect to each such matter, its determination shall be within the range of the dispute among MMT, SIGA and SIGA's Auditor. If an Audit Report as finally determined pursuant to this Section 6.5 (a "Final Audit Report") concludes that (i) additional amounts were owed by MMT, MMT will pay the additional amounts, or (ii) excess payments were made by MMT, SIGA will reimburse such excess payments, in either case ((i) or (ii)), within thirty (30) Business Days after the date on which an Audit Report is deemed a Final Audit Report. SIGA will bear the full cost of the performance of any such audit, including the fees of SIGA's Auditor and the Independent Auditor, unless a Final Audit Report, which covers the entire Calendar Year, discloses a variance to the detriment of the auditing Party of more than [***] from the amount of the original report, royalty or payment calculation, in which case MMT will bear the full cost of the performance of such audit. The results of such audit, including any determination made by the Independent Auditor, will be final, absent manifest error.
+
+18
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+6.6 Blocked Payment and Indemnification. If either Party utilizes a Restricted Party in the activities contemplated under this Agreement, without a license or other authorization required by Global Trade Control Laws or in circumstances where reimbursement by the non-utilizing Party would violate or create exposure to adverse consequences under Global Trade Laws, the non-utilizing Party shall not be responsible for any payments due to the utilizing Party or any other party resulting from the activities involving such Restricted Party even if the contractual obligation related thereto has already accrued. Any and all payments due to such utilizing Party or any other party resulting from such activity involving a Restricted Party shall be entirely at such utilizing Party's expense. Further, if the conduct of any activity or a transaction under this Agreement was in violation of applicable Global Trade Control Laws for any reason, such violating Party shall indemnify the other Party for any liability resulting from such activity or transaction, including any and all fines and penalties assessed to such other Party as a result of such activity or transaction. 6.7 Source of Recovery. Any outstanding amounts due and payable by SIGA pursuant to the terms of this Agreement, including reimbursements for Supply Penalties pursuant to Section 5.5 and any amounts owed to an MMT Indemnitee pursuant to SIGA's indemnification obligations in Section 9.1, at MMT's option, can be set-off by MMT from any Quarterly Payment until such amounts are fully recovered; provided that any amounts that are subject to a dispute properly brought under ARTICLE 12 may not be set-off pursuant to this Section 6.7. 6.8 Taxes. (a) Taxes on Income. Each Party will pay all taxes (including related interest and penalties) imposed on its share of income arising directly or indirectly from the efforts of, or the receipt or deemed receipt of any payment by, such Party under this Agreement. (b) Tax Withholding. Subject to Section 6.8(c) and Section 6.8(d), if any taxes (including related interest and penalties) are required to be withheld by or on behalf of MMT with respect to an amount payable to SIGA, (a) MMT will withhold such taxes from such amount, timely pay the withheld taxes to the proper taxing authority and furnish reasonably satisfactory proof of payment to SIGA; and (b) SIGA will reasonably assist MMT in its efforts to obtain a refund of or credit for such withholding tax in accordance with Section 6.8(c). Any amount actually withheld and remitted by MMT to a taxing authority pursuant to this Section 6.8(b) will be treated for all purposes of this Agreement as having been paid to SIGA. If MMT makes a payment without deduction for tax withholding and an amount of tax should have been withheld from such payment, MMT shall be entitled to recover the under withheld tax by an additional withholding from any amount payable to SIGA under this Agreement, and to the extent such recovery is insufficient, SIGA shall indemnify MMT for any such amount. No amount shall be withheld, or a reduced amount shall be withheld, as applicable, if, in accordance with Section 6.8(d), a Party that is entitled to a payment timely furnishes the other Party with the necessary tax forms and other documents prescribed by Laws, which shall be in a form reasonably satisfactory to the Party receiving the documents, identifying that the relevant payment is exempt from tax or subject to a reduced tax rate.
+
+19
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+(c) VAT. It is understood and agreed between the Parties that the amount of any payments contemplated under this Agreement are exclusive of any value added tax, sales tax or any similar tax ("VAT"), which shall be added thereon as applicable. Where VAT is properly added to a payment made under this Agreement, MMT or SIGA, as applicable, will pay the amount of the VAT, if applicable, but only on receipt of a valid tax invoice issued in accordance with applicable Law of the country in which the VAT is chargeable. (d) Tax Cooperation. The Parties agree to cooperate with one another and use reasonable efforts to reduce or eliminate tax withholding, VAT or similar obligations in respect of royalties, milestone payments, and other amounts payable under this Agreement. SIGA and MMT will provide each other with any applicable tax forms that may be reasonably necessary in order for the other Party not to withhold tax or to withhold tax at a reduced rate under an applicable income tax treaty or pursuant to applicable internal law. Each Party will provide the other with reasonable assistance to enable the recovery, as permitted by Law, of withholding taxes, VAT, or similar obligations resulting from payments made under this Agreement, such recovery to be for the benefit of MMT or SIGA, as applicable, to the extent it has complied with the requirements of this Section 6.8 in respect of such obligations. ARTICLE 7
+
+INTELLECTUAL PROPERTY 7.1 Ownership of SIGA Intellectual Property. Subject to the license granted to MMT under Section 2.1, SIGA shall own and retain all of its rights, title and interest in and to the SIGA Intellectual Property and the goodwill related to such Intellectual Property. 7.2 Intellectual Property Maintenance. SIGA shall control and be solely responsible for, at its sole discretion, the filing, preparation, prosecution, enforcement, maintenance and defense of the SIGA Intellectual Property worldwide and all claims and other aspects related thereto at SIGA's sole cost and expense, except as set forth in Section 7.3. 7.3 New Patents and Trademarks. For each Active Country, SIGA shall prosecute (a) applications in respect of any SIGA Patents listed on Schedule 1, and (b) trademark registrations for the SIGA Trademarks listed on Schedule 2 (or such other Trademark in respect of the Products as mutually agreed by the Parties at the JSC), in each case ((a) and (b)), with the appropriate Governmental Authorities, provided that there are no Trademarks which may be substantially similar or Patents which may limit patentability, and provided further, if SIGA determines that it is not commercially reasonable to prosecute such Patents and Trademarks, SIGA shall consult with MMT in respect of the appropriate prosecution strategy in such Active Country. For clarity, any new Patent or Trademark filed and/or registered, as applicable, by SIGA, pursuant to this Section 7.3 shall be deemed a SIGA Patent or a SIGA Trademark, respectively, and shall be subject to the grant of rights to MMT set forth in Section 2.1. SIGA's obligation to make the filings described in the first sentence of this Section 7.3 shall not apply with respect to an Active Country if the Product is sold in such Active Country pursuant to a Special Access Approval or other Regulatory Approval, without the need to file for SIGA Patents or SIGA Trademarks in such country.
+
+20
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+ARTICLE 8
+
+REPRESENTATIONS AND WARRANTIES; COVENANTS 8.1 Mutual Representations and Warranties. Each Party hereby represents and warrants to the other Party as follows: (a) Corporate Existence. As of the Effective Date, it is a company or corporation duly organized, validly existing, and in good standing under the Laws of the jurisdiction in which it was incorporated or formed; (b) Corporate Power, Authority and Binding Agreement. As of the Effective Date, (i) it has the power and authority and the legal right to enter into this Agreement and perform its obligations hereunder; (ii) it has taken all necessary action on its part required to authorize the execution and delivery of this Agreement and the performance of its obligations hereunder; and (iii) this Agreement has been duly executed and delivered on behalf of such Party, and constitutes a legal, valid, and binding obligation of such Party that is enforceable against it in accordance with its terms, subject to bankruptcy, insolvency, reorganization, moratorium or similar Laws affecting or relating to the enforcement of creditors' rights generally, and general principles of equity; (c) No Conflict. The execution and delivery of this Agreement, the performance of such Party's obligations hereunder and the licenses and sublicenses to be granted pursuant to this Agreement (i) do not and will not conflict with or violate any requirement of Laws existing as of the Effective Date; (ii) do not and will not conflict with or violate the certificate of incorporation, by-laws or other organizational documents of such Party; and (iii) do not and will not conflict with, violate, breach or constitute a default under any contractual obligations of such Party or any of its Affiliates existing as of the Effective Date; (d) Other Rights. Neither such Party nor any of its respective Affiliates is a party to or otherwise bound by any oral or written contract or agreement that will result in any other Person obtaining any interest in, or that would give to any other Person any right to assert any claim in or with respect to, any of such Party's rights under this Agreement;
+
+21
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+(e) No Violation. Neither such Party nor any of its respective Affiliates is under any obligation to any Person, contractual or otherwise, that is in violation of the terms of this Agreement or that would impede the fulfillment of such Party's obligations hereunder; and (f) No Debarment. As of the Effective Date, neither such Party, its respective Affiliates, nor any of its respective employees, consultants or contractors involved in the performance of activities under this Agreement: (i) is debarred under Section 306(a) or 306(b) of the FD&C Act or by the analogous Laws of any Regulatory Authority; (ii) has, to such Party's knowledge, been charged with, or convicted of, any felony or misdemeanor within the ambit of 42 U.S. C. §§ 1320a-7(a), 1320a-7(b)(l)-(3), or pursuant to the analogous Laws of any Regulatory Authority, or is proposed for exclusion, or the subject of exclusion or debarment proceedings by a Regulatory Authority; (iii) is excluded, suspended or debarred from participation, or otherwise ineligible to participate, in any U.S. or non-U.S. healthcare programs (or has been convicted of a criminal offense that falls within the scope of 42 U.S. C. §1320a-7 but not yet excluded, debarred, suspended, or otherwise declared ineligible), or excluded, suspended or debarred by a Governmental Authority from participation, or otherwise ineligible to participate, in any government contract or program, including procurement or non-procurement programs; and (iv) is a Restricted Party or is owned or controlled by a Restricted Party. 8.2 Additional Representations, Warranties and Covenants of SIGA. SIGA represents and warrants to MMT as of the Effective Date, and covenants to MMT during the Term, as follows: (a) SIGA Patent Schedule. Schedule 1 sets forth a true and complete list of all SIGA Patents owned or otherwise Controlled by SIGA or its Affiliates that relate to the Product or its Manufacture or use, including in the case of SIGA Patents that are licensed to SIGA, the name of the owner(s) and licensor(s) and the agreement(s) providing SIGA with Control. (b) Title; Encumbrances. Except as set forth on Schedule 8.2(b), (i) it has sufficient legal or beneficial title, ownership or license, rights, free and clear from any mortgages, pledges, liens, security interests, options, conditional and installment sale agreements, encumbrances, charges or claims of any kind, of or to the SIGA Intellectual Property to grant the licenses to MMT as purported to be granted pursuant to this Agreement and (ii) no Third Party has taken any action before any patent and trademark office (or similar Governmental Authority), which would render any of the SIGA Intellectual Property invalid or unenforceable; (c) Notice of Infringement or Misappropriation; Non-Infringement of Rights by Third Parties. To SIGA's knowledge, no Third Party is infringing or misappropriating or has infringed the SIGA Intellectual Property. In addition, it has not received any notice from any Third Party asserting or alleging that (i) the Product or any SIGA Trademark has infringed or misappropriated the intellectual property rights of any Third Party or (ii) the performance of MMT's obligations under this Agreement infringes or would infringe any Third Party intellectual property rights;
+
+22
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+(d) Non-Infringement of Third Party Rights. To SIGA's knowledge, the Commercialization of the Product can be carried out as contemplated by this Agreement as of the Effective Date without infringing any issued patents or pending applications controlled by a Third Party and without infringing any Trademark rights of any Third Party. (e) Non-Assertion by Third Parties. No Third Party has asserted or threatened in writing legal action asserting, that the SIGA Patents or the SIGA Trademarks are invalid or unenforceable by challenging or threatening to challenge the inventorship, ownership, SIGA's right to use, scope, validity or enforceability of any SIGA Patent (including by way of example, through the institution or written threat of institution of interference, derivation, post-grant review, opposition, nullity or similar invalidity proceedings before any Governmental Authority); (f) No Proceeding. There are no pending, and to SIGA's knowledge, no threatened, adverse actions, claims, investigations, suits or proceedings against SIGA or any of its Affiliates, at law or in equity, or before or by any Governmental Authority, involving the SIGA Intellectual Property or the Product, nor to SIGA's knowledge has any such adverse action, claim, investigation, suit or proceeding been brought or threatened since the inception of SIGA as a company, in each case, which has been resolved in a manner that impairs any of SIGA's rights in and to any such SIGA Intellectual Property or the Product; (g) No Consents. No authorization, consent, approval of a Third Party, nor any license, permit, exemption of or filing or registration with or notification to any court or Governmental Authority is or will be necessary for the (i) valid execution, delivery or performance of this Agreement by SIGA, including SIGA's obligations under this Agreement; (ii) the consummation by SIGA of the transactions contemplated hereby and the rights conveyed to MMT hereunder; or (iii) prevention of the termination of any right, privilege, license or agreement relating to the SIGA Intellectual Property or the continuation thereof following the Effective Date; (h) No Non-Competition Agreements. Neither SIGA nor any of its Affiliates are bound by any non-competition agreements related to the Product; (i) Compliance with Laws. SIGA has complied with all Laws in connection with the prosecution of the SIGA Patents, including any duty of candor owed to any patent office pursuant to such Laws; (j) No Grant of Rights. As of the Effective Date, there are no rights with respect to the Product or the SIGA Trademarks in the Territory granted by SIGA, in each case, to any Person or entity other than MMT;
+
+23
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+(k) No Third Party Rights to Sublicense. No Third Party has the right to sublicense any SIGA Patent or SIGA Trademark without the express written consent of SIGA, which consent will be withheld if in any way it conflicts with this Agreement. (l) No Unauthorized Use. Neither SIGA nor any of its Affiliates has received any written notice of any unauthorized use, infringement, or misappropriation by any Person, including any current or former employee or consultant of SIGA or its Affiliates, in respect of the Product or of any of the SIGA Intellectual Property; (m) Intellectual Property Rights. The SIGA Intellectual Property includes and will continue to include all intellectual property rights Controlled by SIGA which are reasonably necessary for the Commercialization of the Product in accordance with the terms of this Agreement. (n) Maintenance of SIGA Patent and Trademark Rights. SIGA will, at SIGA's sole discretion, diligently prosecute, maintain, enforce, and defend each of the SIGA Patents and the SIGA Trademarks reasonably necessary for the Commercialization of the Product in accordance with the terms of this Agreement. (o) SIGA Patents and Patent Applications. (i) The SIGA Patents listed on Schedule 1 are the only patents and patent applications relating to the Product in the Field in the Territory which SIGA has an interest either alone or jointly with any Third Party, and (ii) SIGA does not have knowledge of any information which leads it to believe that any issued patents included in the SIGA Patents are invalid or unenforceable; (p) SIGA Trademarks and Trademark Applications. (i) The SIGA Trademarks listed on Schedule 2 are the only Trademarks and Trademark applications relating to the Product in which SIGA has an interest either alone or jointly with any Third Party (other than applications made during the Term in accordance with Section 7.3), and (ii) to SIGA's knowledge none of the SIGA Trademarks are invalid or unenforceable; (q) Renewal and Maintenance Fees. All material renewal and maintenance fees due as of the Effective Date with respect to the prosecution and maintenance of the SIGA Patents and SIGA Trademarks have been paid, and to SIGA's knowledge, all issued patents within the SIGA Patents, and each claim set forth therein are in full force and effect and are valid and enforceable; (r) Access to Information. SIGA has allowed, and will continue to allow, MMT reasonable access to material information in SIGA's possession or Control (i) concerning side effects, injury, toxicity or sensitivity reaction and incidents or severity thereof with respect to the Product; and (ii) in respect of the SIGA Intellectual Property and the Product; (s) Inventors. The inventors named in the SIGA Patents are, to SIGA's knowledge, all of the true inventors for such SIGA Patents and each of such inventors has assigned to SIGA or its Affiliates all of his or her right, title and interest to such SIGA Patents and the inventions described therein;
+
+24
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+(t) Employee Confidentiality Agreements. All current and former employees and paid consultants (in the case of academic consultants, those acting outside the scope of their academic affiliation) of SIGA and its Affiliates who are or have been substantively involved in the conception, design, review, evaluation, reduction to practice, or Development of SIGA Patents or the Product have executed written contracts or are otherwise obligated to protect the confidential status and value thereof and to vest in SIGA exclusive ownership of the SIGA Patents and the Product; (u) Third Party Confidentiality. With the exception of the Government Authorities, to our knowledge, no Third Party has any SIGA Know-How in its possession or Control which is not subject to continuing obligations of confidentiality owed to SIGA or its Affiliates for at least the duration of the Term; provided that SIGA Know-How may be disclosed to Governmental Authorities without a continuing obligation of confidentiality owed to SIGA or its Affiliates if disclosed in connection with the Promotion of the Product hereunder or by SIGA outside of the Territory; (v) Safety and Efficacy. SIGA is not aware of any problems concerning the safety or efficacy of the Product (including any of its ingredients) or of any questions raised by any Regulatory Authority with respect thereto, and SIGA has provided relevant information to MMT of all adverse drug reactions known to SIGA relating to the Product or their use; (w) Good Practices. The Development and Manufacture of the Product has been carried out as of the Effective Date in accordance with United States GLP, GCP and GMP, as applicable and where required. After the Effective Date, the Development and Manufacture of the Product will be carried in accordance with the GLP, GCP and GMP of the United States and any country in the Territory where the Product has received Regulatory Approval, in all cases, as applicable and where required; and (x) Regulatory Matters. (i) SIGA has provided or made available, when requested by MMT to conduct its due diligence review, documents and communications in its possession from and to any Governmental Authority, or prepared by any Governmental Authority, related to the Product, that may bear on the compliance with the requirements of any Governmental Authority, including any notice of inspection, inspection report, warning letter, deficiency letter, or similar communication (collectively "Compliance Communications"); (ii) Neither SIGA nor any of its Affiliates has received, with respect to SIGA Intellectual Property and the Product, any oral or written communication (including any warning letter, untitled letter, or similar notices) from any Governmental Authority and, there is no action pending or, to SIGA's knowledge, threatened (including any prosecution, injunction, seizure, civil fine, suspension or recall), in each case alleging that with respect to the SIGA Intellectual Property or Product, SIGA or any of its Affiliates is not currently materially in compliance with any and all Laws implemented by such Governmental Authority (collectively, a "Non-Compliance Action"). Neither SIGA nor any of its Affiliates has received any oral or written notice from any Governmental Authority claiming that the Development, Commercialization or Promotion of the Product is not in material compliance with all Laws and permits;
+
+25
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+(iii) As to any Product, during the Term SIGA shall provide, or make available, to MMT copies of any (A) Compliance Communications within five (5) Business Days after provision to, or receipt from, any Governmental Authority and (B) Non-Compliance Action within five (5) Business Days after receipt from a Governmental Authority; except (in the cases of (A) and (B)) to the extent that SIGA's counsel reasonably believes that such disclosure to MMT could violate applicable privacy Laws or have a significant adverse impact on SIGA's legal position or defense (including the loss of attorney-client privilege). In the event that SIGA determines that disclosure could violate applicable privacy laws or have a significant adverse impact on its legal position or defense, SIGA shall promptly notify MMT that it is exercising its right not to disclose; and (iv) To SIGA's knowledge, none of SIGA, any of its Affiliates or any of their respective officers, employees or agents has made, with respect to the SIGA Intellectual Property or the Product, an untrue statement of a material fact to any Governmental Authority or has failed to disclose a material fact required to be disclosed to such Governmental Authority. 8.3 Additional Representations and Warranties of MMT. MMT represents and warrants to SIGA as of the Effective Date, and covenants to SIGA during the Term, as follows: (a) With respect to each country in the Territory in which MMT Promotes or intends to Promote the Product, if MMT knows or becomes aware that Governmental Authorities in such country cannot purchase the Product unless the Product has received Regulatory Approval in such country, then MMT shall promptly notify SIGA of such requirement; and (b) With respect to each country in the Territory, MMT has not received, any oral or written communication relating to the Products or the Promotion of the Products contemplated by this Agreement (including any warning letter, untitled letter, or similar notices) from any Governmental Authority in such country and, there is no action pending or, to MMT's knowledge, threatened (including any prosecution, injunction, seizure, civil fine, suspension or recall), in each case alleging that MMT is not currently materially in compliance with any and all Laws implemented by such Governmental Authority that would materially impact MMT's ability to perform its obligations hereunder in such country.
+
+26
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+8.4 Covenants. (a) No Debarment or Restricted Party. Neither Party will knowingly use any employee, consultant, contractor or agent or knowingly engage in Promotion, Commercialization, or distribution of Product to any entity or Person: (i) who has been debarred under Section 306(a) or 306(b) of the FD&C Act or pursuant to the analogous Laws of any Regulatory Authority; (ii) who, to such Party's knowledge, has been charged with, or convicted of, any felony or misdemeanor within the ambit of 42 U.S.C. §§ 1320a-7(a), 1320a-7(b)(l)-(3), or otherwise pursuant to the analogous Laws of any Regulatory Authority, or is proposed for exclusion, or the subject of exclusion or debarment proceedings by a Regulatory Authority, during the employee's or consultant's employment or contract term with such Party; (iii) who is excluded, suspended or debarred from participation, or otherwise ineligible to participate, in any U.S. or non- U.S. healthcare programs (or who has been convicted of a criminal offense that falls within the scope of 42 U.S. C. §1320a-7 but has not yet been excluded, debarred, suspended, or otherwise declared ineligible); (iv) who is excluded, suspended or debarred by a Governmental Authority from participation, or otherwise ineligible to participate, in any government contract or government program, including procurement and non-procurement programs; or (v) who is otherwise a Restricted Party. (b) Each Party will conduct appropriate screening of employees, consultants, contractors or agents that perform services on behalf of such Party under this Agreement against the relevant Restricted Party Lists. Each Party will notify the other Party promptly, but in no event later than five (5) Business Days, upon becoming aware that any of its employees, consultants, contractors or agents has been excluded, debarred, suspended or is otherwise ineligible, or is the subject of exclusion, debarment or suspension proceedings by any Regulatory Authority. Notwithstanding the foregoing, each Party will notify the other Party immediately in the event that any employee, consultant, contractor or agent performing services on behalf of such Party under this Agreement becomes a Restricted Party during the Term and, in such event, the Parties shall immediately suspend all activities relating thereto, including the performance of any accrued obligations under this Agreement or any Customer Contract. (c) Compliance. (i) Health Authorities. Each Party and its Affiliates will comply in all material respects with all Laws in the Development, Manufacture, Promotion and Commercialization of the Product and the performance of its obligations under this Agreement, including where applicable the statutes, regulations and written directives of the FDA, the EMA, and any Regulatory Authority having jurisdiction in the Territory, and all applicable Anti-Corruption Laws.
+
+27
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+(ii) Anti-Corruption. In connection with the performance of its obligations under this Agreement, neither Party, including its officers, directors, employees, or agents, has taken, nor will either Party take during the Term, any direct or indirect action to knowingly (i) offer, promise, provide, or authorize the offer or provision of money or anything of value, in order to improperly or corruptly seek to influence any official, employee, or representative of a Governmental Authority or any other Person in order to obtain or retain business or any other improper business advantage, (ii) request or accept any such improper payment, (iii) establish or maintain any unlawful fund of corporate monies or other properties, (iv) use any corporate funds for any illegal contributions, gifts, entertainment, travel or other unlawful expenses, or (v) cause a violation of any applicable Anti-Corruption Law. For illustrative purposes only, an example of the activities described in the second sentence of this Section 8.4(c) would be to knowingly provide any improper inducement for a Government Official or other Person to approve, reimburse, prescribe, or purchase the Product, to influence the outcome of a clinical trial, or otherwise to benefit a Party's or its Affiliates' business activities improperly. (iii) Trade Controls. (A) Each Party will perform the activities under this Agreement in compliance with all applicable Global Trade Control Laws. (B) Neither Party will knowingly transfer to the other Party any goods, software, technology, or services that are (a) controlled at a level other than EAR99 under the U.S. Export Administration Regulations, (b) controlled under the U.S. International Traffic in Arms Regulations, (c) specifically identified as an E.U. Dual Use Item or (d) on an applicable export control list of a foreign country. (C) The Parties acknowledge that activities under this Agreement will not (i) be in or with a Restricted Market, (ii) involve individuals ordinarily resident in a Restricted Market, or (ii) include companies, organizations, or Governmental Authorities organized or located in a Restricted Market. (d) No Violation. Neither Party nor any of its Affiliates will enter into an agreement or otherwise create any obligation to any Person or entity, contractual or otherwise, that is in material violation of the terms of this Agreement. (e) Third Party Confidentiality. SIGA will use Commercially Reasonable Efforts to (i) maintain the confidentiality of the SIGA Know-How, and (ii) ensure that no Third Party has any SIGA Know-How in its possession or Control which is not subject to continuing obligations of confidentiality owed to SIGA or its Affiliates for at least the duration of the Term; provided that SIGA Know-How may be disclosed to Governmental Authorities without a continuing obligation of confidentiality owed to SIGA or its Affiliates if disclosed in connection with the Promotion of the Product.
+
+28
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+8.5 No Other Representations or Warranties. EXCEPT AS EXPRESSLY STATED IN THIS AGREEMENT, NO REPRESENTATIONS OR WARRANTIES WHATSOEVER, WHETHER EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR NON-MISAPPROPRIATION OF THIRD PARTY INTELLECTUAL PROPERTY RIGHTS, ARE MADE OR GIVEN BY OR ON BEHALF OF EITHER PARTY, AND ALL REPRESENTATIONS AND WARRANTIES, WHETHER ARISING BY OPERATION OF LAW OR OTHERWISE, ARE HEREBY EXPRESSLY EXCLUDED. ARTICLE 9
+
+INDEMNIFICATION 9.1 Indemnification by SIGA. SIGA will, at its sole expense, defend, indemnify, and hold MMT and its Affiliates and their respective officers, directors, shareholders, owners, employees, agents and representatives (the "MMT Indemnitees") harmless from and against any and all, damages, losses, liabilities, taxes, costs, expenses (including court costs and reasonable attorneys' fees and expenses) and recoveries (collectively, "Losses") to the extent arising out of or resulting from any claims, suits, proceedings or demands of Third Parties (including, for the avoidance of doubt, Governmental Authorities) ("Claims"), arising from or occurring as a result of (a) allegations that the Product and /or the SIGA Intellectual Property infringes any Third Party intellectual property rights, (b) SIGA's failure to comply with any Regulatory Approval requirements of Regulatory Authorities in the Territory with respect to the Product, (c) product liability claims arising from SIGA's Development, Manufacture or Commercialization of the Product, (d) the breach of any of SIGA's obligations under this Agreement, including SIGA's representations and warranties, covenants and other agreements, (e) any breach by SIGA of any obligation that MMT has delegated or otherwise appointed SIGA to perform under a Customer Contract and SIGA has agreed to such delegation or appointment in writing, including a failure to supply the Product to Customers pursuant to the terms of this Agreement and/or any Customer Contract or (f) the willful misconduct or gross negligence of SIGA, its Affiliates, or the officers, directors, employees, agents or representatives of SIGA or its Affiliates in connection with performance by or on behalf of SIGA of SIGA's obligations or exercise of SIGA's rights under this Agreement. The foregoing indemnity obligation will not apply (i) to the extent that (x) the MMT Indemnitees fail to comply with the indemnification procedures set forth in Section 9.3 and SIGA's defense of the relevant Claims is prejudiced by such failure or (y) such Claims arise out of or result from the gross negligence or willful misconduct of MMT or its Affiliates or the officers, directors, employees, agents or representatives of MMT or its Affiliates, or breach by MMT of its representations, warranties or covenants or any other obligation of MMT hereunder; or (ii) to Claims for which MMT has an obligation to indemnify SIGA pursuant to Section 9.2, as to which Claims each Party will indemnify the other to the extent of its respective liability for such Claims, provided, for clarity, notwithstanding the provisions of Section 9.2(a) or (b), SIGA shall in all cases be solely responsible for any Claims relating to matters described in Section 9.1(c) and (e).
+
+29
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+9.2 Indemnification by MMT. MMT will, at its sole expense, defend, indemnify, and hold SIGA and its Affiliates and their respective officers, directors, shareholders. owners, employees, agents and representatives (the "SIGA Indemnitees") harmless from and against any and all Losses to the extent arising out of or resulting from any Claims arising from or occurring as a result of (a) the breach of any of MMT's obligations under this Agreement, including MMT's representations and warranties, covenants and other agreements, (b) subject to Section 9.1(e) any breach by MMT under any Customer Contract, including MMT's representations and warranties, covenants and other agreements, or the failure to comply with this Agreement, or (c) the willful misconduct or gross negligence of MMT, its Affiliates, or the officers, directors, employees, agents or representatives of MMT or its Affiliates in connection with performance by or on behalf of MMT of MMT's obligations or exercise of MMT's rights under this Agreement. The foregoing indemnity obligation will not apply (i) to the extent that (x) the SIGA Indemnitees fail to comply with the indemnification procedures set forth in Section 9.3 and MMT's defense of the relevant Claims is prejudiced by such failure or (y) such Claims arise out of or result from the gross negligence or willful misconduct of SIGA or its Affiliates or the officers, directors, employees, agents or representatives of SIGA, or any breach by SIGA of its representations, warranties or covenants hereunder; or (ii) to Claims for which SIGA has an obligation to indemnify MMT pursuant to Section 9.1, as to which Claims each Party will indemnify the other to the extent of its respective liability for such Claims. 9.3 Indemnification Procedures. The Party claiming indemnity under this ARTICLE 9 (the "Indemnified Party") shall give written notice to the Party from whom indemnity is being sought (the "Indemnifying Party") promptly after becoming aware of a Claim for which indemnity may be sought hereunder (it being understood and agreed, however, that the failure by an Indemnified Party to give notice of a Claim for which indemnity may be sought as provided in this Section 9.3 shall not relieve the Indemnifying Party of its indemnification obligation under this Agreement except that in no event shall the Indemnifying Party be liable for any Losses that result from any delay in providing such notice). The Indemnified Party will provide the Indemnifying Party with reasonable assistance, at the Indemnifying Party's reasonable expense, in connection with the defense of the Claim for which indemnity is being sought. The Indemnified Party may participate in and monitor such defense with counsel of its own choosing at its sole expense; provided, however, the Indemnifying Party shall assume and conduct the defense of the Claim and may so defend any such Claim with counsel of its choosing. The Indemnifying Party will not settle any Claim without the prior written consent of the Indemnified Party, not to be unreasonably withheld, unless the settlement involves only the payment of money by the Indemnifying Party. So long as the Indemnifying Party is actively defending the Claim in good faith, the Indemnified Party will not settle or compromise any such Claim without the prior written consent of the Indemnifying Party. If the Indemnifying Party does not assume and conduct the defense of the Claim as provided above, (a) the Indemnified Party may defend against, consent to the entry of any judgment, or enter into any settlement with respect to such Claim in any manner the Indemnified Party may deem reasonably appropriate (and the Indemnified Party need not consult with, or obtain any consent from, the Indemnifying Party in connection therewith), and (b) the Indemnifying Party will remain responsible to indemnify the Indemnified Party as provided in this ARTICLE 9. The assumption of the defense by the Indemnifying Party will not be construed as an acknowledgment that the Indemnifying Party is liable to indemnify the Indemnified Party with respect to such Claim, nor will it constitute a waiver by the Indemnifying Party of any defenses it may assert against the Indemnified Party's claim for indemnification.
+
+30
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+9.4 Insurance. MMT and SIGA shall each, at their sole cost and expense, procure and maintain (a) commercial general liability insurance in amounts not less than $[***] per incident and $[***] annual aggregate, and (c) product liability insurance in amounts not less than $[***] annual aggregate, and each naming the other Party as additional insured. MMT and SIGA shall maintain such insurance throughout the Term, and shall from time to time provide copies of certificates of such insurance the other Party upon request. 9.5 Limitation of Liability. EXCEPT (I) IN THE EVENT OF THE FRAUD OF A PARTY OR OF A PARTY'S BREACH OF ITS OBLIGATIONS UNDER ARTICLE 7 (INTELLECTUAL PROPERTY) OR ARTICLE 10 (CONFIDENTIALITY), OR (II) TO THE EXTENT ANY SUCH DAMAGES ARE REQUIRED TO BE PAID TO A THIRD PARTY AS PART OF A CLAIM FOR WHICH A PARTY PROVIDES INDEMNIFICATION UNDER THIS ARTICLE 9, NEITHER PARTY NOR ANY OF ITS AFFILIATES OR SUBLICENSEES SHALL BE LIABLE TO THE OTHER IN CONTRACT, TORT, NEGLIGENCE, BREACH OF STATUTORY DUTY OR OTHERWISE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE, REMOTE, EXEMPLARY OR SPECULATIVE DAMAGES OR OTHER DAMAGES THAT ARE NOT PROBABLE AND REASONABLY FORESEEABLE AND IRRESPECTIVE OF WHETHER THAT PARTY OR ANY REPRESENTATIVE OF THAT PARTY HAS BEEN ADVISED OF, OR OTHERWISE MIGHT HAVE ANTICIPATED THE POSSIBILITY OF, ANY SUCH LOSS OR DAMAGE; PROVIDED, FOR CLARITY, [***]. ARTICLE 10
+
+CONFIDENTIALITY 10.1 Confidentiality. Each Party agrees that, during the Term and for a period of [***] years thereafter, such Party and its Affiliates will keep confidential and will not publish or otherwise disclose and will not use for any purpose other than as provided for in this Agreement (which includes the exercise of any rights or the performance of any obligations hereunder) any Confidential Information furnished to it or its Affiliates by the other Party or its Affiliates pursuant to this Agreement, except to the extent expressly authorized by this Agreement or as otherwise agreed to in writing by the Parties; provided, however, that the confidentiality and non-use obligations imposed by this Agreement with respect to trade secrets included in an item of Confidential Information will continue for as long as the disclosing Party continues to treat such Confidential Information as a trade secret. The foregoing confidentiality and non-use obligations do not apply to any portion of the other Party's Confidential Information that the receiving Party can demonstrate by competent written proof:
+
+31
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+(a) was already known to the receiving Party or its Affiliate, other than under an obligation of confidentiality hereunder, at the time of disclosure by the other Party or any of its Affiliates; (b) was generally available to the public or otherwise part of the public domain at the time of its disclosure to the receiving Party or any of its Affiliates; (c) became generally available to the public or otherwise part of the public domain after its disclosure and other than through any act or omission of the receiving Party or any of its Affiliates in breach of this Agreement; (d) was disclosed to the receiving Party or any of its Affiliates by a Third Party who had a legal right to make such disclosure and who did not obtain such information directly or indirectly from the other Party or any of its Affiliates; or (e) was independently discovered or developed by the receiving Party or any of its Affiliates without access to or aid, application or use of the other Party's Confidential Information, as evidenced by a contemporaneous writing. 10.2 Authorized Disclosure. Notwithstanding the obligations set forth in Section 10.1, either Party or its respective Affiliates may disclose the other Party's Confidential Information and the terms of this Agreement to the extent: (a) such disclosure is reasonably necessary (i) for the filing or prosecuting of Patent or Trademark rights as contemplated by this Agreement; (ii) to comply with the requirements of Regulatory Authorities with respect to obtaining and maintaining Regulatory Approval of Product; or (iii) for prosecuting or defending litigation as contemplated by this Agreement; (b) such disclosure is reasonably necessary to its officers, directors, employees, agents, consultants, contractors, licensees, sublicensees, attorneys, accountants, lenders, insurers, shareholders, or licensors on a need-to-know basis for the sole purpose of performing its obligations or exercising its rights under this Agreement; provided that in each case, the disclosees are bound by obligations of confidentiality and non-use no less stringent than those contained in this Agreement; (c) such disclosure is reasonably necessary to any bona fide potential or actual investor, acquiror, merger partner, or other financial or commercial partner for the sole purpose of evaluating an actual or potential investment, acquisition or other business relationship with the disclosing Party; provided that in each case, the disclosees are bound by written obligations of confidentiality and non-use having a minimum term of two (2) years; or
+
+32
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+(d) such disclosure is reasonably necessary to comply with Laws, including regulations promulgated by applicable security exchanges, court order, administrative subpoena or other order. Notwithstanding the foregoing, if either Party or any of its respective Affiliates is required to make a disclosure of the other Party's Confidential Information pursuant to Section 10.2(a) or 10.2(d), such Party will promptly notify the other Party of such required disclosure and, upon the other Party's request, such Party and its Affiliates will use reasonable efforts to obtain, or to assist the other Party in obtaining, a protective order preventing or limiting the required disclosure at the non-disclosing Party's sole cost. 10.3 Technical Publication. Upon request, SIGA will provide to MMT publications, and other forms of public disclosure such as abstracts and presentations, of results of studies carried out to the extent they relate to the Product and are not protected by a confidentiality agreement with a Third Party, in each case, as soon as reasonably practicable after such disclosure. 10.4 Publicity; Terms of Agreement. (a) The Parties agree that the material terms of this Agreement are the Confidential Information of both Parties, subject to the special authorized disclosure provisions set forth in this Section 10.4. (b) SIGA may make a public announcement of the execution of this Agreement in the form attached as Exhibit C, which will be issued on or promptly after the Effective Date. (c) If either Party or its Affiliates desires to make a public announcement concerning the material terms of this Agreement such Party will give reasonable prior advance notice of the proposed text of such announcement to the other Party for its prior review and approval (except as otherwise provided herein), such approval not to be unreasonably withheld. A Party commenting on such a proposed announcement will provide its comments, if any, within five (5) Business Days after receiving the announcement for review, or such shorter period as may be reasonably required in order for the proposing Party to comply with any applicable deadline for making such announcement (as such deadline is communicated by the proposing Party to the commenting Party). In addition, where required by Laws or sought by either Party, including regulations promulgated by applicable security exchanges, such Party or its Affiliates may make a press release announcing the achievements of any material event with respect to this Agreement or the Parties' performance thereof, subject only to the review procedure set forth in the preceding sentence; provided that the review period will be reduced to two (2) Business Days (or such shorter period as may be reasonably required in order for the proposing Party to comply with any applicable deadline for making such press release, as such deadline is communicated by the proposing Party to the commenting Party) if the deadline for making such disclosure is five (5) or fewer Business Days after such achievement or event. In relation to the other Party's review of such an announcement, such other Party may make specific, reasonable comments on such proposed press release within the prescribed time for commentary, but will not withhold, condition, or delay its consent to disclosure of the information. Neither Party nor their respective Affiliates are required to seek the permission of the other Party to repeat any information regarding the terms of this Agreement that has already been publicly disclosed by such Party or its Affiliate, or by the other Party or its Affiliate, in accordance with this Section 10.4, if such information remains accurate as of such time.
+
+33
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+(d) The Parties acknowledge that either or both Parties may be obligated to file under Laws a copy of this Agreement with the U.S. Securities and Exchange Commission ("SEC") or other Governmental Authorities. Each Party will make such a required filing and will request confidential treatment of the commercial terms and sensitive technical or other competitively sensitive terms hereof and thereof to the extent such confidential treatment is available to such Party or file redacted versions of such terms as permitted by the SEC. In the event of any such filing, the filing Party will provide the other Party with a copy of this Agreement marked to show the provisions for which such Party intends to seek confidential treatment and will reasonably consider and incorporate the other Party's comments thereon to the extent consistent with the legal requirements, with respect to the filing Party, governing disclosure of material agreements and material information that must be publicly filed. 10.5 Prior Confidentiality Agreements. Any prior confidentiality agreements between the Parties are hereby superseded by this Agreement. Additionally, all information disclosed by a Party or its Affiliates to the other Party or its Affiliates pursuant to any prior confidentiality agreements shall be deemed to be such Party's Confidential Information disclosed hereunder and the confidentiality, non-use and non-disclosure obligations set forth in this ARTICLE 10 will apply to the receiving Party, its Affiliates and disclosees. If any such obligations conflict with the obligations set forth in any prior confidentiality agreements, then the receiving Party, its Affiliates and disclosees will comply with the more stringent obligations. 10.6 Return of Confidential Information. Except as otherwise set forth in this Agreement, upon termination of this Agreement, the receiving Party shall promptly return, or upon request of the disclosing party destroy and provide written certification of such destruction, all of the disclosing Party's Confidential Information, including all reproductions and copies thereof in any medium, except that the receiving Party may retain a reasonable number of archival copies as may be required by Law or its reasonable standard document retention policies. 10.7 Unauthorized Use. If either Party becomes aware or has knowledge of any unauthorized use or disclosure of the other Party's Confidential Information, it will promptly notify the other Party in writing of such unauthorized use or disclosure. 10.8 Exclusive Property. All Confidential Information is the sole and exclusive property of the disclosing Party and the permitted use thereof by the receiving Party for purposes of its performance hereunder will not be deemed a license or other right of the receiving Party to use any such Confidential Information for any other purpose.
+
+34
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+ARTICLE 11
+
+TERM AND TERMINATION 11.1 Term. This Agreement becomes effective on the Effective Date and, unless earlier terminated as provided in this ARTICLE 11, shall continue until the five (5) year anniversary of the Effective Date (the "Initial Term"). This Agreement shall be automatically renewed for successive three (3) year terms thereafter (each a "Renewal Term" and together with the Initial Term, the "Term") until and unless (i) either Party provides the other Party written notice of non-renewal no later than ninety (90) days prior the end of the Initial Term or any Renewal Term or (ii) earlier terminated as provided in this ARTICLE 11. 11.2 Termination for Cause. (a) This Agreement may be terminated by either Party on country-by-country basis, or in its entirety, upon [***] days prior written notice at any time during the Term by giving written notice to the other Party in the event that such other Party has committed a material breach of its obligations under this Agreement with respect to such country(ies) or the Agreement in its entirety, as applicable, and such material breach remains uncured for [***] days from the date of such notice. (b) Either Party may terminate this Agreement in its entirety immediately by written notice if the other Party (i) applies for or consents to the appointment of, or the taking of possession by, a receiver, custodian, trustee or liquidator of itself or of all or a substantial part of its property, (ii) makes a general assignment for the benefit of its creditors, (iii) commences a voluntary case under the Bankruptcy Code of any country, (iv) files a petition seeking to take advantage of any Laws relating to bankruptcy, insolvency, reorganization, winding-up, or composition or readjustment of debts, (v) fails to controvert in a timely and appropriate manner, or acquiesces in writing to, any petition filed against it in any involuntary case under the Bankruptcy Code of any country, (vi) takes any corporate action to effect any of the foregoing, (vii) has a proceeding or case commenced against it in any court of competent jurisdiction, seeking (A) its liquidation, reorganization, dissolution or winding-up, or the composition or readjustment of its debts, (B) the appointment of a trustee, receiver, custodian, liquidator or the like of all or any substantial part of its assets, or (C) similar relief under the Bankruptcy Code of any country, or an order, judgment or decree approving any of the foregoing is entered and continues unstayed for a period of sixty (60) days, or (viii) has an order for relief against it entered in an involuntary case under the Bankruptcy Code of any country. (c) SIGA may immediately terminate this Agreement on a country-by-country basis on notice to MMT if SIGA receives any information that it in good faith determines to be evidence of an actual breach by MMT or its Affiliates of Section 8.4(c)(ii) in such country. In the event of such termination, SIGA shall have no liability to MMT for any charges, fees, reimbursements, or other compensation or claims under this Agreement with respect to such country, including for services previously performed.
+
+35
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+11.3 Termination Upon Certain Changes of Control. [***]. 11.4 Termination for Failure to [***]. SIGA may terminate this Agreement immediately upon written notice to MMT if MMT does not, in accordance with the provisions of Section 2.3, notify SIGA in writing [***]. 11.5 Termination for Convenience. Notwithstanding any other provision of this Agreement, MMT may at any time terminate this Agreement on country-by-country basis, or in its entirety, upon [***] months' prior written notice to SIGA. 11.6 Effect of Termination. Upon termination of this Agreement pursuant to this ARTICLE 11, for all Customer Contracts then in force in the Territory, MMT shall either (i) promptly exercise its rights to terminate such Customer Contracts pursuant to termination rights accruing from the occurrence of a termination of this Agreement or otherwise or (ii) upon timely written request of SIGA, use Commercially Reasonable Efforts to assign any Customer Contract identified in such notice then in force to SIGA. SIGA shall be solely responsible for all costs and expenses incurred under or in connection with the assignment of a Customer Contract to SIGA pursuant to clause (ii) of this Section 11.6. All costs, penalties or other expenses incurred under or in connection with any Customer Contract as a result of MMT's termination of a Customer Contract pursuant to clause (i) of this Section 11.6 shall be the responsibility of the Party terminating this Agreement, provided that in the event of a termination under Section 11.2, such costs shall be the responsibility of the non-terminating Party. 11.7 Survival. Termination or expiration of this Agreement will not affect rights or obligations of the Parties under this Agreement that have accrued before the date of termination or expiration, including any accrued obligations relating to the delivery of the Product pursuant to ARTICLE 5. Notwithstanding anything to the contrary, the following provisions will survive any expiration or termination of this Agreement: Section 5.6 (Adverse Event Reporting), Section 7.1 (Ownership of SIGA Intellectual Property), ARTICLE 1 (Definitions), ARTICLE 6 (Payments) (solely with respect to accrued payment obligations as of the date of termination or expiration of this Agreement), ARTICLE 9 (Indemnification), ARTICLE 10 (Confidentiality), ARTICLE 11 (Term and Termination), ARTICLE 12 (Dispute Resolution) and ARTICLE 13 (Miscellaneous). ARTICLE 12
+
+DISPUTE RESOLUTION 12.1 Executive Officer Resolution. Except with respect to disputes arising from the delivery of an Audit Report which disputes shall be governed by the terms of Section 6.6, if any dispute or disagreement arises between the Parties in respect of this Agreement, to the extent not resolved by the JSC: (a) The Party claiming that such a dispute exists will give notice in writing to the other Party of the nature of the dispute (a "Notice of Dispute").
+
+36
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+(b) Within thirty (30) days of receipt of a Notice of Dispute, the Parties' Executive Officers will meet and confer in person or by teleconference and at this meeting will use their reasonable efforts to resolve such dispute. (c) If, within a further period of thirty (30) days, or in any event within sixty (60) days of initial receipt of the Notice of Dispute, the dispute has not been resolved, or if, for any reason, the meeting described in Section 12.1(b) has not been held within sixty (60) days of initial receipt of the Notice of Dispute, then the Parties agree that either Party may initiate litigation to resolve such dispute. (d) Notwithstanding any provision of this Agreement to the contrary, either Party may immediately seek preliminary, temporary or permanent injunctive and other equitable relief in any court of competent jurisdiction to (i) prevent or curtail any actual or threatened breach of this Agreement that is reasonably likely to cause it irreparable harm or (ii) enforce its rights under this Agreement. 12.2 Governing Law. This Agreement and all disputes arising out of or related to this Agreement or any breach hereof are governed by and construed under the Laws of the State of New York, without giving effect to any choice of law principles that would require the application of the Laws of a different state. 12.3 Jurisdiction. Each Party to this Agreement hereby (a) irrevocably submits to the exclusive jurisdiction of the state courts of the State of New York or the United States District Court for the Southern District of New York for the purpose of any and all actions, suits or proceedings arising in whole or in part out of, related to, based upon or in connection with this Agreement or the subject matter hereof, (b) waives to the extent not prohibited by Law, and agrees not to assert, by way of motion, as a defense or otherwise, in any such action, any claim that it is not subject personally to the jurisdiction of the above-named courts, that its property is exempt or immune from attachment or execution, that any such action brought in one of the above-named courts should be dismissed on grounds of forum non conveniens, should be transferred to any court other than one of the above-named courts or that this Agreement or the subject matter hereof may not be enforced in or by such court and (c) agrees not to commence any such action other than before one of the above-named courts nor to make any motion or take any other action seeking or intending to cause the transfer or removal of any such action to any court other than one of the above-named courts whether on the grounds of forum non conveniens or otherwise. 12.4 NO JURY TRIAL. THE PARTIES EXPRESSLY WAIVE AND FOREGO, TO THE FULLEST EXTENT PERMITTED BY LAW, ANY RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING (WHETHER BASED ON CONTRACT, TORT OR OTHERWISE) DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AGREEMENT, THE TRANSACTIONS CONTEMPLATED HEREBY OR THE ACTIONS OF THE PARTIES IN THE NEGOTIATION, ADMINISTRATION, PERFORMANCE OR ENFORCEMENT HEREOF.
+
+37
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+ARTICLE 13
+
+MISCELLANEOUS 13.1 Entire Agreement; Amendment. This Agreement, including the Schedules and Exhibits hereto, together with the confidentiality agreements referenced in Section 10.5, and any other documents delivered pursuant hereto or thereto, sets forth the complete, final and exclusive agreement and all the covenants, promises, agreements, warranties, representations, conditions and understandings between the Parties hereto and thereto and their Affiliates with respect to the subject matter hereof and supersedes, as of the Effective Date, all prior and contemporaneous agreements and understandings between the Parties with respect to the subject matter hereof. There are no covenants, promises, agreements, warranties, representations, conditions or understandings, either oral or written, between the Parties with respect to the subject matter of this Agreement other than as are set forth in this Agreement. No subsequent alteration, amendment, change or addition to this Agreement will be binding upon the Parties unless reduced to writing and signed by an authorized officer of each Party. 13.2 Force Majeure. Both Parties will be excused from the performance of their obligations under this Agreement to the extent that such performance is prevented by force majeure and the non-performing Party promptly provides notice of the prevention to the other Party. Such excuse will continue for so long as the condition constituting force majeure continues and the non-performing Party takes reasonable efforts to remove the condition. For purposes of this Agreement, force majeure includes conditions beyond the control of the Parties, including an act of God, war, civil commotion, terrorist act, epidemic, failure or default of public utilities or common carriers, destruction of production facilities or materials by fire, earthquake, and storm or like catastrophe. Notwithstanding the foregoing, a Party will not be excused from making payments owed hereunder because of a force majeure affecting such Party. If a force majeure persists for more than sixty (60) days, then the Parties will discuss in good faith the modification of the Parties' obligations under this Agreement to mitigate the delays caused by such force majeure. 13.3 Notices. Any notice required or permitted to be given under this Agreement will be in writing, will specifically refer to this Agreement, and will be addressed to the appropriate Party at the address specified below or such other address as may be specified by such Party in writing in accordance with this Section 13.3, and will be deemed to have been given for all purposes (a) when received, if hand-delivered or sent by email with non-automated confirmed read receipt or a reputable courier service, or (b) five (5) Business Days after mailing, if mailed by first class certified or registered airmail, postage prepaid, return receipt requested. If to SIGA: SIGA Technologies, Inc. 31 East 62nd Street, 5t h Floor New York, NY 10065 Attn: General Counsel
+
+38
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+With copies to (which will not constitute notice): Lily Wound, Esq. WilmerHale 7 World Trade Center 250 Greenwich Street New York, NY 10007 Email: lily.wound@wilmerhale.com If to MMT: Meridian Medical Technologies, Inc. 6350 Stevens Forest Road, Suite 301 Columbia, Maryland 21046 Attn: General Manager With a copy to: Legal Department
+
+With a copy to (which will not constitute notice): Arnold & Porter Kaye Scholer LLP 250 West 55t h Street New York, NY 10019-9710 Attn: Lowell Dashefsky and Eric Rothman Email: lowell.dashefsky @arnoldporter.com and eric.rothman@arnoldporter.com
+
+13.4 No Strict Construction; Interpretation; Headings. The language in this Agreement is to be construed in all cases according to its fair meaning. Except where the context otherwise requires, wherever used, the singular includes the plural, the plural the singular, the use of any gender applies to all genders. The word "or" is used in the disjunctive sense and the word "and" is used in the conjunctive sense. The captions of this Agreement are for convenience of reference only and in no way define, describe, extend, or limit the scope or intent of this Agreement or the intent of any provision contained in this Agreement. The term "including," "include," or "includes", whether or not followed by "without limitation" or "including, but not limited to," or words of similar import, shall be construed to mean in each case including, without limiting the generality of any description preceding such term. The Parties agree that no meaning should be inferred about the use of "without limitation" or "including, but not limited to" in some instances but not others. Unless the context requires otherwise, (i) any definition of or reference to any agreement, instrument or other document will be construed as referring to such agreement, instrument or other document as from time to time amended, supplemented or otherwise modified (subject to any restrictions on such amendments, supplements or modifications set forth herein or therein), (ii) any reference to any Laws will be construed as referring to such Laws as from time to time enacted, repealed or amended, (iii) any reference to any Person will be construed to include the Person's successors and permitted assigns, (iv) the words "herein", "hereof" and "hereunder", and words of similar import, will be construed to refer to this Agreement in its entirety and not to any particular provision hereof, (v) any reference to the words "mutually agree" or "mutual written agreement" will not impose any obligation on either Party to agree to any terms relating thereto or to engage in discussions relating to such terms except as such Party may determine in such Party's sole discretion, (vi) all references to Sections, Exhibits or Schedules will be construed to refer to Sections, Exhibits and Schedules to this Agreement, (vii) the word "days" means calendar days and the word "month" means calendar month unless otherwise specified, (viii) the words "copy" and "copies" and words of similar import when used in this Agreement include, to the extent available, electronic copies, files or databases containing the information, files, items, documents or materials to which such words apply, and (ix) any reference "dollar", "dollars" or "$" will be construed to refer to U.S. dollars. The headings of each Article and Section in this Agreement have been inserted for convenience of reference only and are not intended to limit or expand on the meaning of the language contained in the particular Article or Section. Each Party represents that it has been represented by legal counsel in connection with this Agreement and acknowledges that it has participated in the drafting hereof. In interpreting and applying the terms and provisions of this Agreement, the Parties agree that no presumption will apply against the Party which drafted such terms and provisions.
+
+39
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+13.5 Assignment. Neither Party may assign or transfer this Agreement or any rights or obligations hereunder without the prior written consent of the other Party, except that a Party may make such an assignment without the other Party's consent to its Affiliates or to a Third Party successor of, or transferee to, assets of such Party to which this Agreement relates, whether in a merger, sale of stock, sale of assets or other transaction. Any successor or assignee of rights or obligations permitted hereunder will, in writing to the other Party, expressly assume performance of such rights or obligations. Any permitted assignment will be binding on the successors of the assigning Party. Any assignment or attempted assignment by either Party in violation of the terms of this Section 13.5 is null, void and of no legal effect. 13.6 Performance by Affiliates. Subject to Section 2.1(b), each Party may discharge any obligations and exercise any right hereunder through any of its Affiliates. Each Party hereby guarantees the performance by its Affiliates of such Party's obligations under this Agreement, and will cause its Affiliates to comply with the provisions of this Agreement in connection with such performance. Any breach by a Party's Affiliate of any of such Party's obligations under this Agreement is a breach by such Party, and the other Party may proceed directly against such Party without any obligation to first proceed against such Party's Affiliate. 13.7 Further Assurances and Actions. Each Party, upon the request of the other Party, whether made before or after the Effective Date and without further consideration, will do, execute, acknowledge, and deliver or cause to be done, executed, acknowledged or delivered all such further acts, deeds, documents, assignments, transfers, conveyances, powers of attorney, instruments and assurances as may be reasonably necessary to effect complete consummation of the transactions contemplated by this Agreement, and to do all such other acts, as may be necessary or appropriate to carry out the purposes and intent of this Agreement. The Parties agree to execute and deliver such other documents, certificates, agreements and other writings and to take such other actions as may be reasonably necessary to consummate or implement expeditiously the transactions contemplated by this Agreement.
+
+40
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+13.8 Severability. Each of the provisions contained in this Agreement will be severable, and the unenforceability of one will not affect the enforceability of any others or of the remainder of this Agreement. If any one or more of the provisions of this Agreement, or the application thereof in any circumstances, is held to be invalid, illegal, or unenforceable in any respect for any reason, the Parties will negotiate in good faith with a view to the substitution therefor of a suitable and equitable solution to carry out, so far as may be valid and enforceable, the intent and purpose of such invalid provision; provided, however, that the validity, legality and enforceability of any such provision in every other respect and of the remaining provisions of this Agreement will not be in any way impaired thereby, it being intended that all of the rights and privileges of the Parties hereto will be enforceable to the fullest extent permitted by Law. 13.9 No Waiver. Any term or condition of this Agreement may be waived at any time by the Party that is entitled to the benefit thereof, but no such waiver will be effective unless set forth in a written instrument duly executed by or on behalf of the Party waiving such term or condition. The waiver, delay or the failure of any Party to enforce or exercise any term, condition or part of this Agreement at any time or in any one or more instances will not be deemed to be or construed as a waiver of the same or any other term, condition or part, nor will it forfeit any rights, power or privilege to future enforcement thereof. No single or partial exercise of any right, power or privilege will preclude any other or further exercise of such right, power or privilege or the exercise of any other right, power or privilege. To the maximum extent permitted by Law, (a) no claim or right arising out of this Agreement or any of the documents referred to in this Agreement can be discharged by one Party, in whole or in part, by a waiver or renunciation of the claim or right unless in writing signed by the other Party; (b) no waiver that may be given by a Party will be applicable except in the specific instance for which it is given; and (c) no notice to or demand on one Party will be deemed to be a waiver of any obligation of that Party or of the right of the Party giving such notice or demand to take further action without notice or demand as provided in this Agreement or the documents referred to in this Agreement. Except as expressly set forth in this Agreement, all rights and remedies available to a Party, whether under this Agreement or afforded by Law or otherwise, will be cumulative and not in the alternative to any other rights or remedies that may be available to such Party. 13.10 Relationship of the Parties. Neither Party will have any responsibility for the hiring, termination or compensation of the other Party's employees or for any employee benefits of such employee. No employee or representative of a Party will have any authority to bind or obligate the other Party to this Agreement for any sum or in any manner whatsoever, or to create or impose any contractual or other liability on the other Party without said Party's approval. For all purposes, and notwithstanding any other provision of this Agreement to the contrary, SIGA's legal relationship to MMT under this Agreement will be that of independent contractor and nothing in this Agreement gives either Party the power or authority to act for, bind, or commit the other Party in any way. This Agreement is not a partnership agreement. Nothing in this Agreement will be construed to establish a relationship of partners, principal and agent or joint venturers between the Parties or their respective employees or Affiliates. Nothing contained in this Agreement shall be construed to create a "separate entity" or "business entity" within the meaning of the U.S. Internal Revenue Code or the regulations thereunder and any foreign equivalents thereto. Neither MMT nor SIGA will make any statements, representations, or commitments of any kind, or to take any action that is binding on the other, without the prior consent of the other Party to do so.
+
+41
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+13.11 English Language. This Agreement was prepared in the English language, which language governs the interpretation of, and any dispute regarding, the terms of this Agreement. 13.12 Counterparts. This Agreement may be executed in one or more counterparts, each of which is an original, but all of which together constitute one and the same instrument. Each Party may execute this Agreement by facsimile transmission or by PDF. In addition, facsimile or PDF signatures of authorized signatories of any Party will be deemed to be original signatures and will be valid and binding, and delivery of a facsimile or PDF signature by any Party will constitute due execution and delivery of this Agreement. 13.13 Schedules. The disclosure of any matter in any Section of or on any Schedule to this Agreement will only be deemed to be a disclosure for the Section or subsection of this Agreement to which it corresponds in number, unless the applicability of such Schedule to any other Section is readily apparent. The disclosure of any matter in any Schedule to this Agreement will expressly not be deemed to (a) constitute an admission by either Party hereto, or (b) imply that any such matter is material for purposes of this Agreement. 13.14 Expenses. Each of the Parties will bear its own direct and indirect expenses incurred in connection with the negotiation and preparation of this Agreement and, except as set forth in this Agreement, the performance of the obligations contemplated hereby and thereby. [Remainder of this page intentionally left blank]
+
+42
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed by their duly authorized officers as of the Effective Date. SIGA TECHNOLOGIES, INC. MERIDIAN MEDICAL TECHNOLOGIES, INC. By: /s/ Phillip L. Gomez, III By: /s/ Thomas Handel Name:Phillip L. Gomez, III Name:Thomas Handel Title: CEO Title: General Manager and President
+
+SIGNATURE PAGE TO PROMOTION AGREEMENT
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+EXHIBIT A PERMITTED SUBCONTRACTORS None.
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+EXHIBIT B BUSINESS PLAN [***]
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+EXHIBIT C SIGA PRESS RELEASE See attached.
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+SCHEDULE 1
+
+SIGA PATENTS Issued Patents Patent Number Country Protection Conferred Issue Date Expiration Date
+
+SG 184201 Singapore Certain polymorphs of ST-246, method of preparation of the polymorphs and pharmaceutical compositions containing the polymorphs June 22, 2015 March 23, 2031
+
+RU 2578606 Russia Certain polymorphs of ST-246, method of preparation ofthe polymorphs and their use in treating orthopoxvirus March 27, 2016 March 23, 2031
+
+OA 16109 OAPI/Africa Certain polymorphs of ST-246, method of preparation ofthe polymorphs and their use in treating orthopoxvirus October 31, 2013 March 23, 2031
+
+NZ 602578 New Zealand Certain polymorphs of ST-246, method of preparation ofthe polymorphs and their use in treating orthopoxvirus December 2, 2014 March 23, 2031
+
+MX 326231 Mexico Pharmaceutical compositions containing ST-246 and one or more additional ingredients and dosage unit forms containing ST-246 December 11, 2014 April 23, 2027
+
+MX 348481 Mexico Compounds, compositions and methods for treatment and prevention of orthopoxvirus infections and associated diseases June 15, 2017 April 23, 2027
+
+MX 361428 Mexico Polymorphic forms of ST-246 and methods of preparation December 6, 2018 March 23, 2031
+
+MX 363189 Mexico Compounds, compositions and methods for treatment and prevention of orthopoxvirus infections and associated diseases March 14, 2019 April 23, 2027
+
+JP 4884216 Japan Therapeutic agent for treating orthopoxvirus including ST-246, pharmaceutical composition of matter for the ST- 246 compound and method of manufacturing ST-246 December 16, 2011 June 18, 2024
+
+JP 5657489 Japan Method of manufacturing ST-246 December 5, 2014 June 18, 2024
+
+JP 6018041 Japan Certain polymorphs of ST-246, method of preparation of the polymorphs and pharmaceutical compositions containing the polymorphs October 7, 2016 March 23, 2031
+
+JP 6188802 Japan Methods of preparing Tecovirimat August 10, 2017 August 14, 2033 JP 6444460 Japan Methods of preparing Tecovirimat December 7, 2018 August 14, 2033
+
+CN 2011800245893 China Certain polymorphs of ST-246, method of preparation of the polymorphs and pharmaceutical compositions containing the polymorphs August 26, 2015 March 23, 2031
+
+CN 2013800429237 China Methods of preparing Tecovirimat June 20, 2017 August 14, 2033
+
+CA 2529761 Canada Use of ST-246 to treat orthopoxvirus infection, pharmaceutical compositions containing ST-246 and composition of matter for the ST-246 compound August 13, 2013 June 18, 2024
+
+CA 2685153 Canada Pharmaceutical compositions containing ST-246 and one or more additional ingredients and dosage unit forms containing ST-246 December 16, 2014 April 23, 2027
+
+CA 2793533 Canada Certain polymorphs of ST-246, method of preparation of the polymorphs and pharmaceutical compositions containing the polymorphs February 26, 2019 March 23. 2031
+
+CA 2866037 Canada Chemicals, compositions and methods for treatment and prevention of orthopoxvirus infections and associated diseases May 16, 2017 April 23, 2027
+
+AU 2004249250 Australia Method of treating orthopoxvirus infection, pharmaceutical composition containing ST-246 and composition of matter for the ST-246 compound March 29, 2012 June 18, 2024
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+Patent Number Country Protection Conferred Issue Date Expiration Date
+
+AU 2007351866 Australia Pharmaceutical compositions containing ST-246 and one or more additional ingredients and dosage unit forms containing ST-246 January 10, 2013 June 18, 2024
+
+AU 2011232551 Australia Certain polymorphs of ST-246, method of preparation ofthe polymorphs and their use in treating orthopoxvirus February 26, 2015 March 23, 2031
+
+AU 2013302764 Australia Methods of preparing Tecovirimat April 5, 2018 August 14, 2033
+
+AU 2012268859 Australia Pharmaceutical compositions containing ST-246 and one or more additional ingredients and dosage unit forms containing ST-246 August 18, 2016 June 18, 2024
+
+AP 3221 ARIPO*/Africa Certain polymorphs of ST-246, method of preparation ofthe polymorphs and their use in treating orthopoxvirus April 3, 2015 March 23, 2031
+
+ZA 2012/07141 South Africa Certain polymorphs of ST-246, method of preparation of the polymorphs and pharmaceutical compositions containing the polymorphs June 29, 2016 March 23, 2031
+
+IL 201736 Israel Pharmaceutical compositions containing ST-246 and one or more additional ingredients and dosage unit forms containing ST-246 October 1, 2016 April 23, 2027
+
+IL 236944 Israel Methods of preparing Tecovirimat February 1, 2017 August 14, 2033
+
+IL 242666 Israel Compounds, compositions and methods for treatment and prevention of orthopoxvirus infections and associated diseases December 1, 2018 April 23, 2027
+
+AT 1638938 Austria Compounds, compositions and methods for treatment and prevention of orthopoxvirus infections and associated diseases April 12, 2017 June 18, 2024
+
+BE 1638938 Belgium Compounds, compositions and methods for treatment and prevention of orthopoxvirus infections and associated diseases April 12, 2017 June 18, 2024
+
+BE 2549871 Belgium Polymorphic forms of ST-246 August 22, 2018 March 23, 2031
+
+CH 1638938 Switzerland Compounds, compositions and methods for treatment and prevention of orthopoxvirus infections and associated diseases April 12, 2017 June 18, 2024
+
+CH 2549871 Switzerland Polymorphic forms of ST-246 August 22, 2018 March 23, 2031
+
+DE 1638938 Germany Compounds, compositions and methods for treatment and prevention of orthopoxvirus infections and associated diseases April 12, 2017 June 18, 2024
+
+DE 2549871 Germany Polymorphic forms of ST-246 August 22, 2018 March 23, 2031 DE 2887938 Germany Methods of preparing Tecovirimat January 10, 2018 August 14, 2033
+
+DK 1638938 Denmark Compounds, compositions and methods for treatment and prevention of orthopoxvirus infections and associated diseases April 12, 2017 June 18, 2024
+
+DK 2549871 Denmark Polymorphic forms of ST-246 August 22, 2018 March 23, 2031
+
+ES 1638938 Spain Compounds, compositions and methods for treatment and prevention of orthopoxvirus infections and associated diseases April 12, 2017 June 18, 2024
+
+FI 1638938 Finland Compounds, compositions and methods for treatment and prevention of orthopoxvirus infections and associated diseases April 12, 2017 June 18, 2024
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+Patent Number Country Protection Conferred Issue Date Expiration Date
+
+FR 1638938 France Compounds, compositions and methods for treatment and prevention of orthopoxvirus infections and associated diseases April 12, 2017 June 18, 2024
+
+FR 2887938 France Methods of preparing Tecovirimat January 10, 2018 August 14, 2033 FR 2549871 France Polymorphic forms of ST-246 August 22, 2018 March 23, 2031
+
+GB 1638938 United Kingdom Compounds, compositions and methods for treatment and prevention of orthopoxvirus infections and associated diseases April 12, 2017 June 18, 2024
+
+GB 2887938 United Kingdom Methods of preparing Tecovirimat January 10, 2018 August 14, 2033 GB 2549871 United Kingdom Polymorphic forms of ST-246 August 22, 2018 March 23, 2031
+
+IE 1638938 Ireland Compounds, compositions and methods for treatment and prevention of orthopoxvirus infections and associated diseases April 12, 2017 June 18, 2024
+
+IT 502017000078377 Italy Compounds, compositions and methods for treatment and prevention of orthopoxvirus infections and associated diseases April 12, 2017 June 18, 2024
+
+NL 1638938 Netherlands Compounds, compositions and methods for treatment and prevention of orthopoxvirus infections and associated diseases April 12, 2017 June 18, 2024
+
+PL 1638938 Poland Compounds, compositions and methods for treatment and prevention of orthopoxvirus infections and associated diseases April 12, 2017 June 18, 2024
+
+SE 1638938 Sweden Compounds, compositions and methods for treatment and prevention of orthopoxvirus infections and associated diseases April 12, 2017 June 18, 2024
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+Patent Applications [***]
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+SCHEDULE 2
+
+SIGA TRADEMARKS
+
+[***]
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+SCHEDULE 3
+
+Safety Reporting Requirements
+
+Safety Reporting Requirements for the Product
+
+1. Scope: SIGA has a legal and corporate responsibility to comply with applicable regulations governing the collection and reporting of adverse events ("AE(s)"), at risk scenarios ("ARSs"), unexpected therapeutic effects ("UTEs"), and product quality complaints ("PQC(s)") associated with the Product, as these terms are defined below. For the purposes of this Exhibit, AEs, ARSs, UTEs, and PQCs are collectively termed "Safety Reports."
+
+MMT is expressly entitled to perform any regulatory responsibilities for the Product through any of its Affiliates. MMT or an Affiliate of MMT shall exchange Safety Reports with the SIGA contact listed in section 4.1 Reporting Time-Frames. Throughout this Safety Reporting Exhibit, SIGA shall be referred to as "SIGA" and MMT and its Affiliates collectively as "Promoter." At all times SIGA and Promoter shall follow the procedures set out below.
+
+The procedures described in this Agreement are to be followed for pharmacovigilance activities for the Product, irrespective of any other activities between SIGA and Promoter which are contained within the Agreement.
+
+2. Definitions: 2.1. Adverse event (AE): an AE is any untoward medical occurrence in a patient administered the Product. The event need not have a causal relationship with the treatment or usage. This includes, but is not limited to: • Abnormal test findings • Clinically significant symptoms and signs
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+• Changes in physical examination findings • Hypersensitivity • Progression/worsening of underlying disease • Lack of drug efficacy • Drug abuse • Drug dependency • Signs and symptoms resulting from drug withdrawal and drug interactions • Suspected transmission of an infectious agent via a medicinal product 2.2. At risk scenarios (ARSs): circumstances where the report does not include an AE per se, but nevertheless needs to be reported to SIGA. These circumstances include: • Medication errors (including incorrect prescription or dispensing of a prescription, whether or not administered to the patient) • Exposure during pregnancy • Exposure during breastfeeding • Overdose • Extravasation • Occupational exposure • Off-label use 2.3. Unexpected therapeutic effect (UTEs): a beneficial therapeutic effect of the Product aside from the use for which it had been given. 2.4. Product quality complaint (PQC(s)): is any written or oral expression of dissatisfaction relative to the physical properties, condition, labelling, potency and/or packaging of the Product, including whether the Product is suspected or confirmed to be counterfeit.
+
+3. Promoter Responsibilities: 3.1. Promoter shall ensure that all employees and, if applicable, subcontractor employees performing activities under this Agreement ("Promoter Personnel") who may become aware of a Safety Report associated with the use of the Product comply with the requirements set out in this Exhibit. 3.2. If Promoter Personnel become aware of a Safety Report that may be associated with the Product, Promoter shall inform SIGA in accordance with the reporting procedures included in this Exhibit and as may be updated and provided to Promoter in the future by SIGA. 3.3. In the event Promoter engages a subcontractor to perform services related to this Agreement, Promoter shall request fulfilment by that subcontractor of these safety reporting requirements on substantially the same terms as those outlined in this Exhibit, unless it is established that there is no possibility that the subcontracted services will involve receipt or handling of Safety Reports by the subcontractor.
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+3.4. In the event that Promoter receives a communication from a Regulatory Authority relating to the Product, Promoter shall inform SIGA as soon as possible, but in any event no later than one (1) Business Day or three (3) calendar days of receipt, whichever is shorter. Where possible, SIGA shall be informed prior to, and have the opportunity to review, any response to the regulatory authority by Promoter.
+
+4. Reporting Process: 4.1. Reporting Time-Frames: Promoter shall report all Safety Reports to SIGA within two (2) Business Days or four (4) calendar days of awareness, whichever is shorter. All reports shall be sent to:
+
+Drug Safety Unit - Contact Details: Regulatory Affairs, SIGA Technologies E-mail: drugsafety@siga.com Telephone: 541-753-2000 Fax: 541-753-9999
+
+Postal Address: SIGA Technologies, Inc.4575 Research Way, Suite 110, Corvallis, OR 97333
+
+4.2. Case Receipt Confirmation: The receipt of Safety Reports from Promoter shall be acknowledged by SIGA in writing no later than one (1) Business Day following receipt. If acknowledgement of receipt is not received within this timeframe, then Promoter shall contact SIGA to determine if the source documents need to be re-sent. 4.3. Case Documentation and Record Retention: Promoter shall document all Safety Reports received and reported to SIGA. Documentation shall include, where possible the name, address, and telephone number of the reporter, and whether consent has been given by the reporter to be re-contacted by SIGA. Promoter will maintain a record of each Safety Report received, including relevant source documents, and a record of each Safety Report reported to SIGA for a minimum period of ten (10) years after the expiration or termination of this Agreement and, if requested, will provide these and any other information requested by SIGA. Notwithstanding the aforementioned requirement, before Promoter destroys any Safety Reports and associated source documents, or training records, it will notify SIGA of its intention to do so and afford SIGA the opportunity to retain such records if it so wishes.
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+5. Data Privacy: In forwarding Safety Reports to SIGA, Promoter shall comply with all applicable privacy and data protection laws, rules and regulations on the protection of individuals with regard to the processing of Personal Data and the free movement of such data. "Personal Data" means information that can be used by itself or in combination with other available information to identify a specific individual. The Promoter shall collect, use and disclose any Personal Data obtained in the course of performing the safety related activities under this Agreement solely for the purposes of complying with the regulatory obligations as described in this Agreement, or as otherwise required by law or by a court order. Promoter shall use electronic, physical, and other safeguards appropriate to the nature of the information to prevent any use or disclosure of Personal Data other than as provided for by this Agreement. Promoter will also take reasonable precautions to protect the Personal Data from alteration or destruction.
+
+Promoter shall notify SIGA promptly of any accidental, unauthorized, or unlawful destruction, loss, alteration, or disclosure of, or access to, the Personal Data ("Security Breach"), and take immediate steps to rectify any Security Breach.
+
+6. Audit: SIGA, or its authorized representatives, shall have the right, at its cost, with reasonable advance notice, during regular business hours, to audit the facility used by the Promoter in order to review the Promoter activities under this Exhibit including, but not limited to, any documents relevant to these activities, for compliance with the safety reporting requirements set out in this Exhibit. Where evidence of non- compliance is identified SIGA and Promoter will jointly discuss to determine appropriate corrective and preventive actions and Promoter will provide SIGA with regular reports on the completion status of the identified corrective and preventive actions.
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019
+
+
+
+
+
+SCHEDULE 8.2(b)
+
+ENCUMBRANCES The assets of SIGA are subject to a lien under the Loan and Security Agreement dated September 2, 2016.
+
+Source: SIGA TECHNOLOGIES INC, 8-K, 6/3/2019

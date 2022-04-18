@@ -1,0 +1,303 @@
+EXHIBIT 10.8
+
+DISTRIBUTOR AGREEMENT         Tripath Technology, Inc. 3900 Freedom Circle Suite # 200 Santa Clara, CA 95054 Tel: (408) 567-3000 Fax: (408) 567-3003
+
+This Agreement is effective 7/1/98 ("Effective Date") between Tripath Technology, Inc. ("Tripath"), and
+
+Uniquest Corporation 780 Montague Expressway Suite 406 Santa Jose, CA 95131
+
+Tripath and Distributor intend to establish Distributor as a non-exclusive Distributor for Tripath products in the following designated Territory, subject to the terms and conditions of this Agreement.
+
+Korea
+
+1. Products
+
+1.1 "Products" means the Tripath semiconductor products identified by Tripath in writing from time to time.
+
+1.2 Tripath may discontinue manufacture or sale, or otherwise treat as obsolete, any or all of the Products covered by this Agreement upon thirty days written notice.
+
+2. Appointment and Term
+
+2.1 For the term of this Agreement, Tripath appoints Distributor as a non-exclusive distributor for the Products in the Territory, subject to Tripath's direct sales activities under Section 4.
+
+2.2 Distributor will use best efforts to develop the local market and promote the sales of Products within the Territory. Distributor will not sell outside the Territory without Tripath's prior written permission, which will not be unreasonably withheld.
+
+2.3 After one month's written notice, Tripath may in its discretion amend (i) the Products, and/or (ii) the Territory.
+
+2.4 Tripath reserves the right to appoint other distributors in or out of the Territory who may sell into the Territory.
+
+2.5 Distributor's appointment is for a term of one year from the Effective Date, renewable automatically unless terminated under Section 18
+
+3. Distributor Responsibilities
+
+3.1 Distributor will maintain an adequately trained sales organization, capable of fulfilling its obligation under Subsection 2.2.
+
+3.2 Tripath will furnish technical and marketing information (such as sales aids and
+
+
+
+
+
+
+
+Distributor Agreement
+
+literature, data sheets, application notes, etc.) for the Products, and Distributor will maintain an organized and well stocked collection of such technical and marketing information for distribution to prospective customers.
+
+3.3 Distributor will employ sufficient trained personnel ("Application Engineers") to provide technical and marketing support for Tripath's Products. Distributor and Tripath will cooperate to ensure that the Application Engineers are and remain adequately trained and qualified.
+
+3.4 Distributor will maintain a reasonable number of Demonstration Products (customer samples), with appropriate technical and marketing literature, available for demonstration by knowledgeable Distributor personnel, provided that Distributor must obtain prior approval by Tripath before any customer receives demonstration Products (customer samples).
+
+3.5 Distributor has no authorization to make, and will not make, any guarantee or warranty with respect to any Product — all Product warranties are to be communicated to Customers directly by Tripath in writing. Distributor will make no representations as to quality, performance, capabilities, and the like except as are expressly authorized in writing by Tripath (such as in Tripath's standard, published specifications for a Product).
+
+4. Other Product Lines
+
+4.1 In appointing Distributor, Tripath is relying to a significant extent on Distributor's undertaking in Subsection 2.2.
+
+4.2 Distributor will not carry any competitive products without Tripath's consent, which shall not be unreasonable.
+
+5. Tripath Direct Sales Activity
+
+5.1 Tripath may in its sole discretion, immediately upon written notice to Distributor, make direct sales to certain accounts in the Territory ("Direct Sales Accounts"), including accounts to which Distributor has made sales.
+
+6. Pricing, credits, and allowances
+
+6.1 Prices for Products will be as set forth in the then effective distributor price list ("Distributor Price List") which will be furnished to Distributor from time to time. Any suggested resale prices shown in the Distributor Price List are to be considered as guidelines only.
+
+6.2 The Distributor Price List may be changed without prior notice, and will be effective as of the effective date indicated. The amount and timing of such change will be exclusively at Tripath's discretion.
+
+6.3 Orders for Products received and acknowledged by Tripath prior to a change in the Price List but shipped after the effective date of such change will be invoiced as follows: (a) in the case of a price decrease, the existing order backlog will be invoiced at the lower price, and (b) in the case of a price increase, the existing order backlog due for delivery within one month of the effective date of such change will be invoiced at the lower price. Outstanding written quotations will be held good for the same two-month period.
+
+6.4 Distributor's inventory of any Product will be price protected for reductions in the price of such Product as follows: the lesser of Distributor's (a) entire inventory of the Product, or (b) previous one month's shipments of the Product from Tripath.
+
+7. Purchase Orders and Payment
+
+7.1 Distributor will maintain sufficient inventory of Products (but not less than one month's inventory without Tripath's approval) to provide prompt delivery to Distributor's customers, in furtherance of Distributor's undertaking in Subsection 2.2.
+
+-2-
+
+
+
+
+
+
+
+Distributor Agreement
+
+7.2 Distributor will purchase Products for resale to its customers in accordance with Tripath's then effective terms and conditions of sale set forth in the Tripath sales order acknowledgment ("Sales Order Acknowledgment"), and the pricing terms of the then effective Distributor Price List (including minimum order quantities). The terms and conditions of sale in the Sales Order Acknowledgment may be changed without prior notice, exclusively at Tripath's discretion.
+
+7.3 No purchase order from Distributor is binding on Tripath until Tripath issues a Sales Order Acknowledgment to Distributor for such order, or makes a shipment against such order. Tripath will use commercially reasonable efforts to acknowledge Distributor purchase orders promptly.
+
+7.4 Tripath will invoice Distributor for Products when Tripath ships such Products.
+
+7.5 All credits will be handled as separate financial transactions from the original invoice, and will be evidenced by a written credit request submitted to Tripath. Distributor will not reduce any payment to Tripath to account for anticipated or unauthorized credits (except for short shipments and non-receipt of Products), either at the time of the payment of original invoice, or at the time of providing a credit request. Credit requests should be submitted by Distributor within one month after the date of Distributor's invoice for the related transactions.
+
+7.6 Any credit request will be based on the price shown on the then current Distributor Price List, or the actual net price paid by Distributor for the Product, whichever is lower.
+
+7.7 If Tripath notifies Distributor of any discrepancy in a credit request, Distributor has one month to resolve the discrepancy and pay the amount of the discrepancy.
+
+7.8 No purchase orders for which a Sales Order Acknowledgment has been issued may be canceled or rescheduled within one month of the scheduled shipment date without Tripath's approval.
+
+8. Special Pricing and Other Allowances
+
+8.1 The provisions of this Section 8 will be applicable only to transactions on DPA (distributor price authorization) basis in which Distributor first obtains a DPA confirmation from Tripath.
+
+8.2 Requests for special pricing and/or allowances will be submitted by Distributor to the appropriate Tripath sales office, and must be first approved in writing by that office.
+
+8.3 Quotes for special pricing are good for one month, and must be backed by a Tripath quote number. Distributor will supply supporting documentation showing Products listed by part number, date of transaction, end customer name and address, and the appropriate special pricing details, not later than two weeks after shipment to the associated customer.
+
+8.4 If Tripath has granted Distributor special pricing on a sale in which Distributor's customer has later returned the Product to Distributor, Distributor will reimburse Tripath for the amount of the DPA allowance within one month after such return.
+
+8.5 Any debit memo submitted by Distributor for a DPA allowance will be based on the price shown on the then current Distributor Price List, or the actual net price paid by Distributor for the Product, whichever is lower.
+
+9. Returns
+
+9.1 Distributor may return Products only after receiving written authorization from Tripath. All authorized returns will be shipped by Distributor freight prepaid. Unauthorized returns may be reshipped to Distributor, freight collect.
+
+-3-
+
+
+
+
+
+
+
+Distributor Agreement
+
+9.2 Distributor may request stock rotation return of slow moving Products, which will be authorized by Tripath provided that: (a) the Product is contained in Tripath's then current Distributor Price List, (b) the Product is packaged as it was originally shipped, and (c) a purchase order for equal value accompanies the request for return. Such stock rotation returns will not exceed five percent (5%) of the dollar value of Distributor's previous six (6) months net purchase orders from Tripath.
+
+9.3 Discontinued Product may be returned only with prior written authorization.
+
+9.4 Credit will be allowed for returned Products based on the price actually paid by Distributor, less any prior DPAs, credits and other allowances.
+
+9.5 If, in the reasonable opinion of Tripath, previously authorized returned Products have been used or damaged, a credit or replacement may be refused. Distributor will be notified within one month after receipt of Product by Tripath of any such Product Tripath is claiming to be used or damaged.
+
+10. Limited Warranty
+
+10.1 Tripath provides an end user limited warranty for retail Products, and one-year limited warranty for OEM products. The terms of the end user limited warranty are set forth in documentation provided with the retail Product.
+
+10.2 For OEM Products, Tripath warrants that the Products will be free of manufacturing and workmanship defects for one year from the date of shipment by Distributor to a customer, or eighteen months from the date of shipment to Distributor, whichever is sooner.
+
+10.3 If any OEM Products prove defective during this one year period as set forth in Section 10.2, Tripath will, at its option, either (a) repair or replace the Product with a new or reconditioned Product, (b) use reasonable efforts to provide Distributor with a correction of the defect, or (c) refund to Distributor the purchase price paid for the Product. Any Product replaced will become Tripath property.
+
+10.4 Distributor must return the defective OEM Product pursuant to a return material authorization under Section 9.1 in the original shipping carton (or an equivalent protective carton), and pay the shipping and insurance charges. Distributor assumes the risk of loss or damage during shipment.
+
+10.5 OEM Products that are defective as set forth in Section 10.2 as a result of improper handling, incorrect installation or other misuse, or as a result of accident, disaster, acts of God or other such events, as determined by Tripath in its reasonable discretion, are not covered by this limited warranty.
+
+10.6 For OEM Products, Tripath provides only the warranties set forth in this limited one year limited warranty. For retail Products, Tripath provides to the end user only the warranties set forth in the applicable end user warranty. Any and all other warranties, either express, implied or statutory, including, without limitation, warranties of fitness for a particular purpose, or of merchantability, are hereby expressly excluded and disclaimed by Tripath.
+
+11. Reports and Audits
+
+11.1 Distributor will submit reports as may be reasonably requested by Tripath, including, without limitation, monthly reports of inventory on hand and sales relating to the Products. Sales data will include, without limitation, Product part number, quantity, resale price, special pricing, distributor invoice number, and customer name. Distributor will submit these reports electronically on a timely basis each month and in no case later than two weeks after the beginning of the month.
+
+-4-
+
+
+
+
+
+
+
+Distributor Agreement
+
+11.2 Tripath may have an authorized Tripath representative, at Tripath's cost, audit Distributor's records relating to sales and inventories of Products, including, without limitation, records pertaining to any claims submitted by Distributor for price protection, stock rotation, returned Products, ship from stock and debit, DPA allowances, and credit requests. Upon prior written notice, Distributor will provide reasonable access to such records during normal business hours at Distributor's office. Distributor agrees to maintain all such records for a minimum of three years.
+
+12. Distributor's Financial Condition
+
+12.1 Tripath may withhold shipments because of Distributor's general financial condition and/or conditions of Distributor's account with Tripath. Such withholding will be not construed as a breach of this Agreement.
+
+12.2 Distributor will supply Tripath with credit data sufficient to establish Distributor's credit worthiness.
+
+13. Advertising and Sales Promotion
+
+13.1 Distributor's tradename may be used by Tripath in its advertisements, provided that such use is in proper form.
+
+13.2 Distributor will be eligible to participate in Tripath distributor cooperative advertising programs designated by Tripath for the Territory. However, prior approval must be obtained in writing from Tripath before any expenditures of funds by Distributor are eligible for reimbursement.
+
+14. Tripath Trademarks
+
+14.1 Tripath grants to Distributor a non-exclusive license to use Tripath's trademarks, trade names and service marks only in connection with the Products and in the performance of Distributor's obligations under this Agreement. All such uses are subject to Tripath's prior review and consent, which will not be unreasonably withheld or delayed.
+
+14.2 All use of Tripath trademarks and service marks will be in proper form, giving appropriate attribution to Tripath as the owner of the mark. Distributor will not undertake any use of a mark in a manner that might jeopardize Tripath's rights to use or register such mark, or Tripath's rights to prevent unauthorized use. Distributor will promptly notify Tripath of any acts of unfair competition or trade or service mark infringement, and reasonably cooperate with efforts to protect Tripath's rights.
+
+14.3 All use of Tripath trade marks and service marks by Distributor will inure to the benefit of Tripath, and Distributor will reasonably cooperate, at Tripath's expense with Tripath's efforts to register or otherwise secure rights in such marks. Upon termination of this Agreement, Distributor will immediately cease all further use of Tripath's trademarks, trade names or service marks except as may be required in the sale of Products in inventory.
+
+15. Relationship Between the Parties
+
+15.1 Both Distributor and Tripath are independent contractors, and no agency or other joint relationship is created.
+
+15.2 Neither party has any authority to act for and/or to bind the other in any way, or to represent that either is in any way responsible for the acts of the other.
+
+16. Confidentiality
+
+16.1 Confidential information ("Information") of Tripath and/or Distributor will mean information that the disclosing party desires to protect against unauthorized use or disclosure, and which is furnished under this Agreement as follows: (a) written or other tangible information clearly marked with a notice, such as
+
+-5-
+
+
+
+
+
+
+
+Distributor Agreement
+
+"CONFIDENTIAL"; and (b) oral information that is identified at the time of disclosure as being confidential. Confidential Information will not include information that: (a) enters the public domain without a breach of this Agreement, (b) is known to the recipient prior to the time of disclosure, or is independently developed by the recipient without using any Information, or (c) is obtained from another source that the receiving party has no reasonable cause to believe is under any obligation of confidentiality with respect to Information.
+
+16.2 The recipient of Information will treat it as proprietary and confidential, safeguarding the Information at least as carefully as it would its own confidential information, and will use all reasonable efforts to prevent any unauthorized use or disclosure, including restricting access to the Information within its organization and ensuring that its employees comply with this Agreement. A receiving party will not disclose any information to any third party without prior written consent. Either party learning of any unauthorized use or disclosure of any Information will promptly notify the other party, and will reasonably cooperate with efforts to protect such Information.
+
+16.3 The recipient of information will use it only in the furtherance of the business relationship established by this Agreement, and for no other purpose without prior written consent. All Information will remain the property of the disclosing party, and will be returned or destroyed upon written request.
+
+16.4 The confidentiality obligations in this Agreement will be binding during the Agreement and for a period of three years after any termination or non-renewal of the Agreement.
+
+16.5 Neither party will disclose the existence or terms of this Agreement without prior written consent.
+
+17. Export Control
+
+17.1 Distributor will not engage in exporting activities within the Territory without the prior written approval of Tripath, and the United States Government if such approval is necessary. Nothing in this Subsection is meant to authorize Distributor shipments outside the Territory.
+
+17.2 Distributor understands that the Products and Tripath confidential information are restricted by the United States Government from export to certain countries, and Distributor agrees that it will not sell or license Products or transfer Tripath confidential information in any way will violate any of the export control laws or regulations of the United States.
+
+18. Term and Termination
+
+18.1 The terms of this Agreement shall be one year from the effective date and will be automatically renewed on each anniversary of the effective date, for a renewal term of one year unless either party provides written notification of its intention not to renew this Agreement at least one month prior to the expiration of the initial or any renewal terms. Tripath will honor all orders acknowledged prior to the effective date of any such termination by nonrenewable.
+
+18.2 Tripath or Distributor may terminate this Agreement for any reason with thirty days written notice.
+
+18.3 Either party may terminate this Agreement immediately if the other party becomes insolvent, or takes any steps to make an arrangement with its creditors, or has a receiver appointed.
+
+18.4 If Tripath terminates pursuant to Subsection 18.1 or 18.2, or if Distributor terminates pursuant to Subsection 18.3, Tripath will purchase and Distributor will resell to Tripath Distributor's inventory of Products (excluding
+
+-6-
+
+
+
+
+
+
+
+Distributor Agreement
+
+discontinued and demonstration Products) which Tripath determines to be undamaged and in good condition (including, at Tripath's option on-site inspection). The price for such inventory will be the price actually paid by the Distributor, less any prior credit or allowances.
+
+18.5 If Distributor terminates pursuant to Subsection 18.1 or 18.2, or if Tripath terminates pursuant to Subsection 18.3, Tripath may, at its option, purchase and Distributor will resell to Tripath all or part of Distributor's inventory at the price set forth in Subsection 18.4, less a ten percent restocking charge.
+
+18.6 On termination of this Agreement for whatever cause, Distributor will immediately (a) cease to engage in marketing and distribution activities as Tripath's official distributor, and (b) cease representing in any manner that it is a distributor of Tripath Products in the Territory.
+
+18.7 All obligations of Distributor to make payments under this Agreement will survive any termination of this Agreement for whatever cause, along with the following provisions: Section 10 (Limited Warranty), Section 11 (Reports and Audits), Section 16 (Confidentiality), Section 17 (Export Control), Section 19 (Intellectual Property Indemnity), and Subsection 21.6 (Governing Law), and Subsection 21.7 (Arbitration).
+
+19. Intellectual property indemnity
+
+19.1 Indemnification. Distributor agrees that Tripath has the right to, and Tripath agrees that it will at its expense, defend or at its option settle any claim, suit, proceeding, or other action brought against Distributor or its customer for infringement of any United States copyright, trademark or other United States intellectual property right related to the Products or their use, subject to the limitations set forth in this Section. Tripath will have sole control of any such action or settlement negotiations (Tripath will not be liable for any costs or expenses incurred without its prior written authorization), and Tripath will pay any final judgment entered against Distributor or its customer based on such infringement. Tripath at its sole option will be relieved of the foregoing obligations unless Distributor or its customer notifies Tripath promptly in writing of such action and gives Tripath full information and assistance to settle and/or defend any such action. If it is adjudicated that a Product infringes, or if the sale or use of a Product is, as a result, enjoined, then Tripath will, at its option and expense either: (i) procure for Distributor and its customers the right to sell or use the Product; or (ii) replace the Product with other suitable Product; or (iii) suitably modify the Product to be noninfringing; or (iv) if none of the foregoing are commercially reasonable, as determined by Tripath, accept return of the affected Products and refund Distributor's aggregate payments for such Products, less a reasonable sum for use and/or damage, if any.
+
+19.2 Limitation. Notwithstanding the provisions of Section 19.1, Tripath assumes no liability for, and Distributor agrees to indemnify Tripath to the same extent as Tripath's indemnity under Section 19.1 for: (i) any infringements covering completed equipment or any assembly, circuit, combination, or method in which any of the Products may be used but not covering such Products standing alone; or (ii) any trademark infringements involving any marking or branding not applied by Tripath or involving any marking or branding applied at the request of Distributor; or (iii) any modification of the Products unless such modification was made by Tripath.
+
+19.3 Entire Liability. The foregoing provisions of this section 19 state the entire liability and obligations of Tripath and the exclusive remedy of Distributor and its customers, with respect to any actual or alleged intellectual property infringement by the Products.
+
+20. Limitation of Liability
+
+20.1 Neither Tripath nor Distributor will be liable for any incidental or consequential
+
+-7-
+
+
+
+
+
+
+
+Distributor Agreement
+
+damages (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or other pecuniary loss) arising out of this Agreement, even if advised of the possibility of such damages.
+
+21. General
+
+21.1 Assignment. This Agreement is not assignable by Distributor without prior written consent of Tripath, which will not be unreasonably withheld. Tripath is free to assign this contract without Distributor's consent.
+
+21.2 Modifications. This Agreement may be modified only in writing signed by an officer of each party.
+
+21.3 Headings. The headings of the several Sections are inserted for convenience of reference only, and are not intended to be part of nor to affect the meaning or interpretation of this Agreement.
+
+21.4 Notices. All notices under this Agreement will be sent by receipted courier (e.g., U.P.S.).
+
+21.5 Non-Waiver. The failure of either party to enforce at any time any of the provisions of this Agreement will not be construed as a waiver of the right of such party to subsequently enforce any such provisions or a waiver of the provision itself.
+
+21.6 Governing Law. This Agreement will be governed by the laws of California, without reference to conflicts of laws.
+
+21.7 Arbitration. Any dispute or claim arising out of this Agreement will be referred to and resolved by the International Chamber of Commerce ("ICC") in accordance with the ICC Arbitration Rules. The venue for such arbitration will be Santa Clara County, California, USA.
+
+-8-
+
+
+
+
+
+
+
+Distributor Agreement
+
+This Agreement supersedes all proposals, oral or written, all negotiations, or discussions between or among the parties relating to this Agreement, and all past course of dealing or industry custom. This Agreement takes precedence over the terms of any Tripath or Distributor order or sales documentation, including the Tripath Sales Order Acknowledgment.
+
+TRIPATH CORPORATION   DISTRIBUTOR             By: /s/ EVERETT ROACH   By: /s/ CHARLES LIM             Name: Everett Roach   Name: Charles Lim             Title: Vice President, World Wide Sales   Title: President             Date: 7/1/98   Date: 7/7/98
+
+-9-

@@ -1,0 +1,253 @@
+Exhibit 10.1
+
+Redactions with respect to certain portions hereof denoted with "***"
+
+COLLABORATION AGREEMENT
+
+This Collaboration Agreement (the "Agreement") is made as of April 14th, 2020 (the "Effective Date") by and between Anixa Biosciences, Inc., a Delaware corporation, located at 3150 Almaden Expressway, Suite 250, San Jose, CA 95118, U.S.A. ("Anixa"), and OntoChem GmbH, a German limited liability company, located at Blücherstr. 24, D-06120 Halle (Saale), Germany ("OntoChem"). Anixa and OntoChem are referred to herein individually as a "Party" and collectively as the "Parties."
+
+WHEREAS, the Parties wish to collaborate in the discovery and development of novel drug candidates for the treatment of COVID-19 in accordance with the terms and conditions of this Agreement.
+
+NOW, THEREFORE, in consideration of the premises and the mutual promises set forth in this Agreement, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+1. Defined Terms.
+
+1.1 "Affiliate" means, with respect to a Party, any entity directly or indirectly controlled by, controlling or under common control with such Party. For purposes of this definition, "control" means (a) ownership of fifty percent (50%) (or such lesser percentage which is the maximum allowed to be owned by a foreign entity or investor in a particular jurisdiction) or more of the outstanding voting stock or other ownership interest of an entity, or (b) possession of the power to (i) elect, appoint, direct or remove fifty percent (50%) or more of the members of the board of directors or other governing body of an entity or (ii) otherwise direct or cause the direction of the management or policies of an entity by contract or otherwise.
+
+1.2 "Hit Compound" means any chemical entity that is determined in performing the Research Plan to meet the Hit Criteria.
+
+1.3 "Hit Criteria" means the criteria identified as "Hit Criteria" as set forth in the Research Plan.
+
+1.4 "Invention" means any invention, know-how, data, discovery or proprietary information, whether or not patentable, that is made or generated solely by the Representatives of Anixa or OntoChem or jointly by the Representatives of Anixa and OntoChem in performing the Research Plan, including all intellectual property rights in the foregoing.
+
+1.5 "Representative" means, with respect to a Party, an officer, director, employee, agent or permitted subcontractor of such Party.
+
+1.6 "Research Plan" means the research plan attached hereto as Exhibit A.
+
+1
+
+
+
+
+
+1.7 "SAR" means the relationship between the chemical or three-dimensional structure of a compound and its biological activity, and includes the determination of the chemical groups responsible for evoking a target biological effect.
+
+1.8 "Target" means: (a) any protease of any coronavirus, including Mpro; (b) the Nsp15-pRB ribonuclease protein- protein interaction; (c) all mutants and variants of any molecule or component referenced in clauses (a) or (b); and (d) all truncated forms (including fragments) of any molecule or component referenced in clauses (a) or (b) or mutant or variant referenced in clause (c).
+
+1.9 "Variant" means, with respect to any Hit Compound: (a) all compounds within the genus of compounds to which such Hit Compound would belong under United States patent laws as referenced in the Selection Notice (as defined below); and (b) any base form, metabolite, ester, salt form, racemate, stereoisomer, polymorph, hydrate, anhydride or solvate of such Hit Compound or any other compound described in clause (a) (in the case of this clause (b), without regard to whether such compound is referenced in the Selection Notice).
+
+2. Research Program.
+
+2.1 Performance. The Parties will diligently perform their respective activities set forth in the Research Plan (such activities, collectively, the "Research Program") in accordance with the timelines set forth therein, with the objective of identifying Hit Compounds and Lead Scaffolds that modulate the applicable Target. Without limiting the foregoing, OntoChem will (a) provide all deliverables set forth in the Research Plan (each, a "Deliverable") and (b) obtain any authorizations, approvals and licenses required for performance of the Research Plan. If any terms set forth in the Research Plan conflict with the terms set forth in this Agreement, the terms of this Agreement will control unless expressly indicated to the contrary in the Research Plan. The Research Plan may not be amended without the prior written consent of both Parties. If, from time to time, the Parties desire to expand the scope of the Research Program, then they will negotiate in good faith a potential amendment of the Research Plan in regard to such expanded scope, on commercially reasonable terms, but neither Party will be obligated to enter into any such amendment.
+
+2.2 Weekly Updates. OntoChem will provide Anixa with weekly (or more frequently as requested) updates regarding its progress under the Research Program via teleconference, videoconference or e-mail, and the Parties will make appropriate personnel available in a timely manner to discuss and provide feedback in regard to such updates.
+
+2.3 Delivery of Data. In conjunction with each weekly update described in Section 2.2, OntoChem will deliver to Anixa all data generated under the Research Plan since the preceding update. In addition, Anixa will have the right to reasonably request additional information relating to such data, and OntoChem will respond to such requests promptly with any such additional information in its possession or control, provided that, for clarity, OntoChem will not be required to perform any new or additional research in order to generate any such additional information.
+
+2
+
+
+
+
+
+2.4 Selection of Lead Scaffolds. Within one year following completion of all activities under the Research Plan (the "Selection Deadline"), Anixa, in good faith consultation with OntoChem, will have the right to select up to two hundred (200) Hit Compounds (each, a "Selected Hit Compound"), by providing OntoChem with written notice of such Selected Hit Compound(s) (the "Selection Notice"), and each Selected Hit Compound, along with all Variants of such Selected Hit Compound referenced in the Selection Notice, is hereby designated as a "Lead Scaffold" under this Agreement. Commencing upon selection of a Selected Hit Compound, Anixa (itself and through its Affiliates and designees) will have sole authority over and control of the further development, manufacture, and commercialization of the corresponding Lead Scaffold and any product candidate or product incorporating a compound from such Lead Scaffold. Following the Selection Deadline, Anixa will have no further rights with respect to any Hit Compound that is not a Selected Hit Compound or included within a Lead Scaffold (each, a "Rejected Hit Compound"), provided that, during the period of two (2) years following the Selection Deadline, neither OntoChem nor any of its Affiliates will use or disclose to any third party any Rejected Hit Compound or any Variant thereof, including the identity, structure or SAR information of any such compound, for application as anti-viral agents or protease inhibitors, for purposes of modulating any Target or for treatment of virus-related conditions. In case OntoChem finds a novel and unexpected antiviral use of those Rejected Hit Compounds during this 2-years period, it will notify Anixa about these findings and Anixa has the right of first negotiation during a period of 6 months after this notification. If Anixa decides to not license those uses or compounds for this novel antiviral use, OntoChem is free to develop those molecules further as its own intellectual property without any further restrictions.
+
+2.5 Subcontractors. OntoChem may engage one or more subcontractors to perform its activities under the Research Plan with the prior written approval of Anixa and provided that, with respect to any such subcontractor, OntoChem will (a) be responsible and liable for the performance of such subcontractor and (b) enter into a written agreement (i) consistent with terms and conditions of this Agreement, including with respect to confidentiality and intellectual property, and (ii) prohibiting such subcontractor from further subcontracting. For clarity, vendors where commercial building blocks or compounds will be purchased are nor regarded as subcontractors.
+
+2.6 Target Exclusivity. During the term of this Agreement, except in the performance of its obligations or exercise of its rights under this Agreement, neither OntoChem nor any of its Affiliates will discover, research, develop, manufacture or commercialize any compound or product directed to any Target, either independently or for or in collaboration with a third party (including the grant of a license to any third party), or have any of the foregoing activities performed on behalf of OntoChem or any of its Affiliates by a third party. For clarity, the foregoing includes the screening (including via computational methods) of any compound library or virtual compound library against any Target.
+
+2.7 Records. Each Party will maintain complete and accurate records of all activities performed by or on behalf of such Party under the Research Program and all Inventions made or generated by or on behalf of such Party in the performance of the Research Program. Such records will be in sufficient detail and in good scientific manner appropriate for patent and regulatory purposes. Each Party will provide the other Party with the right to inspect such records, and upon request will provide copies of all such records, to the extent reasonably required for the exercise or performance of such other Party's rights or obligations under this Agreement, provided that any information disclosed under this Section 2.7 will be subject to the terms and conditions of Section 5. Each Party will retain such records for at least three (3) years following expiration or termination of this Agreement or such longer period as may be required by applicable law or regulation.
+
+3
+
+
+
+
+
+2.8 Debarment. Each Party hereby represents and warrants to the other Party that neither it nor any of its Affiliates or personnel has been debarred under any health care laws or regulations and that, to its knowledge, no investigations, claims or proceedings with respect to debarment are pending or threatened against such Party or any of its Affiliates or personnel. Neither Party nor any of its Affiliates will use in any capacity, in connection with the Research Program, any person or entity who has been debarred. Each Party agrees and undertakes to promptly notify the other Party if such Party or any of its Affiliates or personnel becomes debarred or proceedings have been initiated against any of them with respect to debarment, whether such debarment or initiation of proceedings occurs during or after the term of this Agreement.
+
+3. Financial Terms.
+
+3.1 Research Program Payments. In consideration for OntoChem's performance of its activities under the Research Plan, Anixa will:
+
+(a) pay OntoChem 100,002 Euros in six (6) equal installments as follows: (i) 16,667 Euros within five (5) days after the Effective Date; and (ii) five (5) installments in the amount of 16,667 Euros on each one-month anniversary of the Effective Date, except that the last such payment will be due within thirty (30) days after completion of all activities under the Research Plan; and
+
+(b) reimburse OntoChem for its out-of-pocket expenses incurred in performing the Research Plan on a pass- through basis without mark-up, within thirty (30) days after delivery of an invoice therefore (including reasonable supporting documentation), provided that Anixa has approved such expenses in advance and in writing (including in regard to the selection of specific Hit Compounds to be synthesized and analyzed in biological assays). It is estimated that OntoChem's out-of-pocket expenses under the Research Plan will include 110,000 Euros payable to Tube Pharmaceuticals GmbH as a subcontractor of OntoChem, subject to Section 2.5.
+
+(c) High-throughput screening compounds
+
+OntoChem will forward a commercial proposal to acquire these compounds at the sole discretion of Anixa. Both parties will agree on payment conditions.
+
+(d) Extra custom synthesis
+
+OntoChem will forward a commercial proposal to have synthesized these compounds at the sole discretion of Anixa. Both parties will agree on payment conditions.
+
+(e) Biological testing
+
+OntoChem will forward a commercial proposal to have biologically test these compounds at the sole discretion of Anixa. Both parties will agree on payment conditions.
+
+3.2 Lead Scaffold Payments. For each Lead Scaffold selected by Anixa, Anixa will pay OntoChem an annual fee of 10,000 U.S. Dollars, payable within thirty (30) days following each anniversary of the date of the Selection Notice, until five (5) years after the first commercial sale of the first product incorporating a compound from such Lead Scaffold, subject to Section 4.3 with respect to any Terminated Scaffold (as defined below).
+
+3.3 Milestone Payment. Anixa will pay OntoChem a one-time milestone payment of 300,000 U.S. Dollars within thirty (30) days following the dosing of the first patient in the first human clinical trial for the first product incorporating a compound from a Lead Scaffold.
+
+4
+
+
+
+
+
+3.4 Payment Terms. Payments to OntoChem will be made by check or by wire transfer of immediately available funds to such bank account as designated in writing by OntoChem from time to time. Taxes (and any penalties and interest thereon) imposed on any payment made by Anixa to OntoChem will be the responsibility of OntoChem. The fees for the respective bank transfers will be borne by Anixa.
+
+3.5 Financial Records. OntoChem will maintain complete and accurate books and accounting records related to all out-of-pocket expenses incurred in performing the Research Plan. These records will be available for inspection during regular business hours upon reasonable notice by Anixa, or its duly authorized representative, at Anixa's expense, for three (3) years following the end of the calendar year in which such expenses are invoiced. If it is determined that Anixa has overpaid for any expenses passed through by OntoChem under this Agreement, OntoChem will promptly reimburse Anixa for the amount of such overpayment and, if such overpayment represents more than five percent (5%) of the corresponding amount due, OntoChem will pay Anixa's reasonable fees and expenses incurred in connection with such inspection.
+
+4. Term and Termination.
+
+4.1 Term. Unless earlier terminated in accordance with Section 4.2 or 4.3, this Agreement will be in effect from the Effective Date until completion of the Research Program.
+
+4.2 Termination by Anixa. This Agreement may be terminated by Anixa, without cause, upon at least thirty (30) days written notice to OntoChem.
+
+4.3 Termination of Lead Scaffolds. For each Lead Scaffold, if (a) neither Anixa nor any of its Affiliates, licensees or assignees has dosed the first patient in a human clinical trial for a product incorporating a compound from such Lead Scaffold by the fifth (5th) anniversary of the date of the Selection Notice, or (b) Anixa earlier provides written notice of termination of such Lead Scaffold referencing this Section 4.3, then such Lead Scaffold (each, a "Terminated Scaffold") will thereupon cease to be a Lead Scaffold under this Agreement and thereafter, notwithstanding anything to the contrary in this Agreement: (i) Anixa will promptly assign to OntoChem all right, title and interest in and to any patents and patent applications owned by Anixa that claim such Terminated Scaffold (including the composition, use or manufacture thereof) and, following such assignment, OntoChem will exclusively control the filing, prosecution, maintenance and enforcement of such patents and patent applications; (ii) the identity, structure and SAR information of such Terminated Scaffold will be deemed to be the Confidential Information of OntoChem; (iii) Anixa will not owe any further annual fees under Section 3.2 for such Terminated Scaffold; and (iv) this Agreement will otherwise remain in full force and effect.
+
+4.4 Termination for Cause. This Agreement may be terminated by either Party for material breach by the other Party, provided that the terminating Party has given the breaching Party written notice of the breach and at least sixty (60) days to cure the breach prior to the effective date of termination.
+
+4.5 Effects of Termination. Promptly following expiration or termination of this Agreement, OntoChem will provide Anixa with an invoice (including reasonable supporting documentation) for any pre-approved out-of-pocket expenses (including non- cancellable commitments) incurred by OntoChem in performing the Research Plan and not yet reimbursed by Anixa, and Anixa will pay such invoice within thirty (30) days after receipt thereof. In addition, if this Agreement is terminated prior to completion of the Research Program, OntoChem will promptly furnish to Anixa any Deliverable or other work product generated to date and not previously provided to Anixa, including work in process.
+
+5
+
+
+
+
+
+4.6 Survival. Expiration or termination of this Agreement will not affect the rights and obligations of the Parties that accrued prior to the effective date of such expiration or termination. The following provisions will remain in effect following expiration or termination of this Agreement and the Parties will continue to be bound thereby: Sections 2.4 (last three sentences), 2.7, 2.8 (last sentence only), 3.2, 3.3, 3.4, 3.5, 4.5, 4.6, 5, 6, 8 and 9.
+
+5. Confidentiality.
+
+5.1 Definition. "Confidential Information" means any information disclosed (directly or indirectly) by a Party (in such capacity, "Discloser") to the other Party (in such capacity, "Recipient") in connection with this Agreement whether in written, graphic, electronic, tangible or any other form. Confidential Information will not, however, include any information that: (a) was publicly known or generally available to the public prior to the time of disclosure by Discloser to Recipient; (b) becomes publicly known or generally available to the public after disclosure by Discloser to Recipient through no wrongful action or inaction of Recipient; (c) is in the rightful possession of Recipient without confidentiality obligations at the time of disclosure by Discloser to Recipient as shown by Recipient's then-contemporaneous written files and records kept in the ordinary course of business; (d) is obtained by Recipient from a third party without an accompanying duty of confidentiality and without (to Recipient's knowledge) a breach of such third party's obligations of confidentiality; or (e) is independently developed by Recipient without use of or reference to Discloser's Confidential Information. Notwithstanding anything to the contrary in this Agreement, except as expressly provided in Section 4.3 with respect to a Terminated Scaffold, the identity, structure and SAR information of: (i) the Hit Compounds will be deemed to be the Confidential Information of both Parties until the Selection Deadline, provided that, during such period, Anixa (itself or through one or more third party service providers on its behalf under a written agreement consistent with terms and conditions of this Agreement, including with respect to confidentiality and intellectual property) may perform biological assays and other analyses to evaluate the Hit Compounds solely for purposes of selecting Lead Scaffolds pursuant to Section 2.4; (ii) the Lead Scaffolds will be deemed to be Anixa's Confidential Information commencing upon the date of the Selection Notice; (iii) the Rejected Hit Compounds will be deemed to be OntoChem's Confidential Information commencing upon the date of the Selection Notice, subject to the last sentence of Section 2.4.
+
+5.2 Non-Use and Non-Disclosure. Neither Party will use any Confidential Information of the other Party for any purpose except as reasonably necessary to fulfill its obligations or exercise its rights under this Agreement. Neither Party will disclose any Confidential Information of the other Party nor permit any such Confidential Information to be disclosed, either directly or indirectly, to any third party or its personnel without the other Party's prior written consent, except as expressly permitted hereunder. Each Party may disclose Confidential Information of the other Party to its Representatives who are required to have the information in order for such Party to fulfill its obligations or exercise its rights under this Agreement, provided that such Representatives are subject to legally binding non-use and non-disclosure obligations consistent with this Agreement, prior to any disclosure of Confidential Information to such Representatives. If Recipient becomes legally compelled to disclose any Confidential Information of Discloser, Recipient will provide Discloser prompt written notice of such disclosure obligation, if legally permissible, and upon request will reasonably assist Discloser in seeking a protective order or other appropriate remedy. If Discloser waives Recipient's compliance with this Agreement or fails to obtain a protective order or other appropriate remedy, Recipient will furnish only that portion of the Confidential Information that is legally required to be disclosed, provided that any Confidential Information so disclosed will maintain its confidentiality protection for all purposes other than such legally compelled disclosure.
+
+6
+
+
+
+
+
+5.3 Maintenance of Confidentiality. Recipient will take commercially reasonable measures to protect the secrecy of and avoid disclosure and unauthorized use of the Confidential Information of Discloser. Without limiting the foregoing, Recipient will take at least those measures that it employs to protect its own confidential information of a similar nature. Recipient will promptly notify Discloser in writing of any unauthorized use or disclosure, or suspected unauthorized use or disclosure, of Discloser's Confidential Information of which Recipient becomes aware.
+
+5.4 Confidential Terms. Except as otherwise required by applicable law or regulation, neither Party will disclose the existence or terms of this Agreement to any third party without the prior written consent of the other Party, except that (a) each Party may disclose this Agreement or its terms to its advisors and to existing and potential investors, acquirers, lenders and, in the case of Anixa, licensees on a reasonable need-to-know basis under circumstances that reasonably ensure the confidentiality thereof, and (b) Anixa may issue press releases, make investor and other public presentations and post content on its website from time to time regarding the existence and terms of this Agreement and progress regarding the development, manufacture and commercialization of Lead Scaffolds (including the identity of any permitted subcontractors under this Agreement), to the extent deemed appropriate for purposes of investor relations in its capacity as a publicly traded company and compliance with securities laws and regulations.
+
+5.5 Equitable Relief. Recipient agrees that any violation or threatened violation of this Article 5 may cause irreparable injury to Discloser, entitling Discloser to seek to obtain injunctive relief in addition to all legal remedies without showing or proving any actual damage and without any bond required to be posted.
+
+5.6 Return of Confidential Information. Upon expiration or termination of this Agreement, or upon written request, each Party will promptly return to the other Party, or upon written request of such other Party destroy, all materials containing such other Party's Confidential Information, provided, however, that the Recipient may retain in confidence (a) one archival copy of the Confidential Information of the Discloser in its legal files solely to permit the Recipient to determine compliance with this Agreement and (b) any portion of the Confidential Information of the Discloser which the Recipient is required by applicable law or regulation to retain. Notwithstanding the return or destruction of the materials described above, the Parties will continue to be subject to the terms of this Section 5.
+
+6. Intellectual Property.
+
+6.1 Background Intellectual Property. All inventions, know-how, data, discoveries and proprietary information, including all intellectual property rights in the foregoing, owned or controlled by a Party as of immediately prior to the Effective Date are and will remain the sole property of such Party.
+
+6.2 Inventions Owned by OntoChem. OntoChem will own, and Anixa hereby assigns to OntoChem, all right, title and interest in and to all Inventions directed to (a) any methods of generating or screening compound libraries and (b) the Rejected Hit Compounds (including the composition, use or manufacture thereof), in the case of this clause (b), effective as of the Selection Deadline (collectively (clauses (a) and (b)), "OntoChem Inventions"). As between the Parties, OntoChem will exclusively control the filing, prosecution, maintenance and enforcement of any patents and patent applications claiming OntoChem Inventions.
+
+7
+
+
+
+
+
+6.3 Inventions Owned by Anixa. Anixa will own, and OntoChem hereby assigns to Anixa, all right, title and interest in and to all Inventions other than OntoChem Inventions, including, for clarity, Inventions directed to the Lead Scaffold(s) (including the composition, use or manufacture thereof) (collectively, "Anixa Inventions"). As between the Parties, Anixa will exclusively control the filing, prosecution, maintenance and enforcement of any patents and patent applications claiming Anixa Inventions.
+
+6.4 License Grant. OntoChem hereby grants to Anixa a non-exclusive, fully paid-up, royalty-free, perpetual, irrevocable, transferable, worldwide license (with the right to grant and authorize sublicenses through multiple tiers) under any patents which OntoChem or any of its Affiliates own or control during the term of this Agreement, to make, have made, use, sell, offer for sale and import the Lead Scaffold(s) and products that incorporate compounds from the Lead Scaffold(s). OntoChem will not incorporate any invention, discovery or other proprietary information owned by any third party into any Anixa Inventions or Deliverables without Anixa's prior written consent.
+
+6.5 Invention Disclosure and Implementation. Each Party will notify the other Party promptly in writing of each Invention made or generated by such Party. The determination of inventorship with respect to all Inventions will be made in accordance with United States patent law. Each Party will assign, and does hereby assign, to the other Party rights with respect to the applicable Inventions as necessary to achieve ownership as provided in Sections 6.2 and 6.3. Each assigning Party will execute and deliver all documents and instruments reasonably requested by the other Party to evidence or record such assignment or to file for, perfect or enforce the assigned rights. Each assigning Party will make its relevant Representatives (and their assignments and signatures on such documents and instruments) reasonably available to the other Party for assistance in accordance with this Section 6.5 at no charge. However, out of pocket expenses such as travel or communication costs shall be reimbursed. Each Party will have the sole right to file and prosecute patent applications claiming any Inventions of which such Party is the sole owner pursuant to this Agreement without the consent of the other Party, and such other Party will provide, and will cause its Representatives to provide, reasonable cooperation and assistance with such filing and prosecution upon request. To the extent OntoChem is obligated by reason of mandatory provisions of the Gesetz über Arbeitnehmererfindungen (ArbNErfG) (German law covering employee inventions) to make payments to its employees, OntoChem will be solely responsible, and indemnify Anixa, for any and all such payments to OntoChem's employees.
+
+6.6 No Implied Rights. Except as otherwise expressly provided herein, nothing in this Agreement is intended to grant to either Party any rights under any intellectual property right of the other Party.
+
+7. Representations and Warranties.
+
+7.1 Mutual Representations and Warranties. Each Party hereby represents and warrants to the other Party that: (a) it is duly organized, validly existing, and in good standing under the laws and regulations of the jurisdiction in which it is organized; (b) it has the requisite power and authority and the legal right to enter into this Agreement and to perform its obligations hereunder; (c) it has taken all requisite action on its part to authorize the execution and delivery of this Agreement and the performance of its obligations hereunder; (d) this Agreement has been duly executed and delivered by such Party and constitutes a legal, valid and binding obligation of such Party, enforceable against such Party in accordance with its terms; and (e) the execution, delivery and performance of this Agreement by it do not conflict with any agreement, instrument or understanding, oral or written, to which it is a party, or to which it is bound, and it will not enter into any agreement, instrument or understanding, oral or written, that conflicts with the rights and obligations of this Agreement during the term of this Agreement.
+
+8
+
+
+
+
+
+7.2 Additional Representations and Warranties of OntoChem. OntoChem hereby further represents and warrants to Anixa that: (a) to OntoChem's knowledge, OntoChem's performance of its activities under the Research Plan does not infringe or constitute misappropriation of the intellectual property rights of any third party; (b) no licenses, permissions or releases from any third party are necessary for OntoChem's performance of its activities under the Research Plan; (c) OntoChem has obtained rights to use any third-party compound libraries and software referenced in the Research Plan under terms and conditions consistent with this Agreement; and (d) OntoChem's performance of its activities under the Research Plan will not result in any third party acquiring any right, title or interest in or to any Anixa Invention or Deliverable.
+
+7.3 Mutual Covenants. Each Party hereby covenants that: (a) all Representatives of such Party who participate in the performance of the activities contemplated by this Agreement will be subject to written obligations regarding the treatment of Confidential Information and the assignment of Inventions that are consistent with such Party's obligations under this Agreement, as of the commencement of such activities by such Representatives; and (b) such Party will comply with applicable laws and regulations in connection its performance of this Agreement.
+
+8. Indemnification and Insurance.
+
+8.1 Indemnification by Anixa. Anixa will indemnify, defend and hold harmless OntoChem, its Affiliates and their respective Representatives from and against any liability, demand, damage, cost or expense (including reasonable attorney's fees) arising from any third-party claim, action or proceeding arising from (a) Anixa's breach of this Agreement or (b) Anixa's negligence or willful misconduct in connection with this Agreement, except with respect to any matter for which OntoChem is obligated to provide indemnification under Section 8.2.
+
+8.2 Indemnification by OntoChem. OntoChem will indemnify, defend and hold harmless Anixa, its Affiliates and their respective Representatives from and against any liability, demand, damage, cost or expense (including reasonable attorney's fees) arising from any third-party claim, action or proceeding arising from (a) OntoChem's breach of this Agreement or (b) OntoChem's negligence or willful misconduct in connection with this Agreement, except with respect to any matter for which Anixa is obligated to provide indemnification under Section 8.1. Financial reimbursements claimed according to such indemnification shall not exceed payments received by OntoChem under this contract.
+
+8.3 Indemnification Procedure. A Party (the "Indemnitee") that intends to claim indemnification under this Section 8 will promptly notify the other Party (the "Indemnitor") in writing of any claim, action or proceeding in respect of which the Indemnitee intends to claim such indemnification (each a "Claim"), and the Indemnitor will have the right to control the defense and/or settlement of such Claim, provided that the Indemnitee will have the right to participate, at its own expense, with counsel of its own choosing in the defense and/or settlement of such Claim. The Indemnitor will not, without the prior written consent of the Indemnitee, enter into any settlement or agree to any disposition of the applicable Claim that imposes any conditions or obligations on the Indemnitee. The failure to deliver written notice to the Indemnitor within a reasonable period of time after the commencement of any such Claim will not relieve such Indemnitor of any liability to the Indemnitee under this Section 8 except to the extent such failure is prejudicial to the Indemnitor's ability to defend such Claim. The Indemnitee and its Representatives, at the Indemnitor's request and expense, will provide full information and reasonable assistance to the Indemnitor and its legal representatives with respect to the applicable Claim subject to indemnification. It is understood that only a Party may claim indemnification under this Section 8 (on its own behalf or on behalf of its Affiliates or their respective Representatives), and such Party's Affiliates and their respective Representatives may not directly claim indemnification hereunder.
+
+9
+
+
+
+
+
+8.4 Insurance. Each Party will maintain liability insurance, with reputable and financially secure insurance carriers, at levels consistent with industry standards based upon such Party's respective activities and indemnification obligations under this Agreement. Upon request, each Party will furnish to the other Party certificates issued by the applicable insurance company(ies) evidencing such insurance.
+
+9. Miscellaneous.
+
+9.1 Relationship of the Parties. The Parties are independent contractors and nothing contained in this Agreement will be construed to place them in the relationship of partners, principal and agent, employer/employee or joint venturer. Neither Party will have the power or right to bind or obligate the other Party, nor will either Party hold itself out as having such authority.
+
+9.2 Use of Name. Neither Party will use the name, logo or trademark of the other Party in any advertising, publicity or other promotional activities without such other Party's prior written consent, unless such use is reasonably necessary to comply with applicable laws or regulations and subject to clause (b) of Section 5.4.
+
+9.3 Notices. Any notice required or permitted to be given under this Agreement by either Party will be in writing (in English) and will be delivered to the applicable Party at its respective address set forth below by personal delivery, e-mail, reputable international courier or registered or certified mail. Notices will be deemed given on the date received if delivered personally, on the next business day if sent by e-mail or international courier, or five (5) days after the date postmarked if sent by registered or certified mail, return receipt requested, postage prepaid.
+
+If to OntoChem: OntoChem GmbH Blücherstr. 24, D-06120 Halle (Saale) Germany Attention: Chief Executive Officer E-mail: lutz.weber@ontochem.com
+
+If to Anixa: Anixa Biosciences, Inc. 3150 Almaden Expressway, Suite 250 San Jose, CA 95118 U.S.A. Attention: Chief Executive Officer E-mail: ak@anixa.com 10
+
+
+
+
+
+9.4 Governing Law. This Agreement and the rights and obligations of the Parties hereunder will be governed by the laws of the State of Delaware without regard to the conflict of laws provisions of any jurisdiction. The Parties agree that the 1980 United Nations Convention on Contracts for the International Sale of Goods shall not apply to this Agreement.
+
+9.5 Arbitration. The Parties agree that any dispute arising out of, or in connection with, this Agreement, which cannot be amicably resolved between the Parties, will be finally settled by binding arbitration under the then current rules of the International Chamber of Commerce ("ICC") by one (1) arbitrator appointed in accordance with ICC rules. Any such arbitration will be conducted in English in the State of Delaware. The arbitrator may grant injunctive or other relief in such dispute or controversy. The decision of the arbitrator will be final, conclusive and binding on the Parties. Judgment may be entered on the arbitrator's decision in any court of competent jurisdiction. The costs of the arbitration, including administrative and arbitrator's fees, will be shared equally by the Parties. Each Party will bear the cost of its own attorneys' fees and expert witness fees. Notwithstanding anything to the contrary in this Agreement, a Party may seek a temporary restraining order or a preliminary injunction from any court of competent jurisdiction in order to prevent immediate and irreparable injury, loss or damage on a provisional basis, pending the selection of the arbitrator or pending the arbitrator's determination of the merits of any dispute pursuant to this Section 9.5.
+
+9.6 Severability. If any one or more provisions of this Agreement will be found to be invalid or unenforceable in any respect, the Parties will negotiate in good faith a valid and enforceable substitute provision that most nearly reflects the original intent of the Parties, and the validity and enforceability of the remaining provisions of this Agreement will not in any way be affected or impaired thereby.
+
+9.7 Amendment; Waiver. This Agreement may be amended or modified, and any of the terms of this Agreement may be waived, only by a written instrument executed by each Party or, in the case of waiver, by the Party or Parties waiving compliance. The delay or failure of either Party at any time or times to require performance of any provision will in no manner affect its rights at a later time to enforce the same. No waiver by either Party of any condition or of the breach of any term contained in this Agreement, in any one or more instances, will be deemed to be, or considered as, a further or continuing waiver of any such condition or of the breach of such term or any other term of this Agreement.
+
+9.8 Assignment. Neither Party may assign or otherwise transfer this Agreement (or any of its rights or obligations hereunder) without the prior written consent of the other Party, except that either Party may assign this Agreement without such consent to an entity that acquires all or substantially all of the business or assets of such Party to which this Agreement relates, whether by merger, consolidation, sale of assets or otherwise. Any assignment or transfer of this Agreement in violation of this Section 9.8 will be null and void. This Agreement will bind and inure to the benefit of the Parties and their respective successors and permitted assigns.
+
+9.9 Entire Agreement. This Agreement represents the complete and entire understanding between the Parties regarding the subject matter hereof and supersedes all prior negotiations, representations or agreements, either written or oral, regarding such subject matter.
+
+9.10 Counterparts. The Parties may execute this Agreement in multiple counterparts, all of which together will constitute one instrument. Signatures to this Agreement delivered by facsimile or other electronic transmission (e.g., portable document format (PDF)) will be deemed to be binding as original signatures.
+
+(The remainder of this page is intentionally left blank. The signature page follows.)
+
+
+
+
+
+11
+
+
+
+
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+
+
+
+
+ANIXA BIOSCIENCES, INC. ONTOCHEM GMBH
+
+By: /s/ Amit Kumar By: /s/ Lutz Weber Amit Kumar, Ph.D. Name: Dr. Lutz Weber President and Chief Executive Officer Title: CEO 12
+
+
+
+
+
+Exhibit A: Research Plan
+
+***
+
+13

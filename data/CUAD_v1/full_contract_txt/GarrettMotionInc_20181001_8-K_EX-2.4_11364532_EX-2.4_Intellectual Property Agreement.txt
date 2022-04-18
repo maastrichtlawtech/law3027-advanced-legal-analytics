@@ -1,0 +1,497 @@
+Table of Contents
+
+EXECUTION VERSION
+
+Exhibit 2.4
+
+INTELLECTUAL PROPERTY AGREEMENT
+
+by and between
+
+HONEYWELL INTERNATIONAL INC.
+
+and
+
+GARRETT MOTION INC.
+
+Dated as of September 27, 2018
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+TABLE OF CONTENTS Page
+
+ARTICLE I DEFINITIONS Section 1.01. Definitions 1 ARTICLE II RECORDATION OF INTELLECTUAL PROPERTY RIGHTS ASSIGNMENT AGREEMENTS
+
+Section 2.01. Intellectual Property Assignment Agreements 4 Section 2.02. Recordation 4 Section 2.03. Security Interests 4
+
+ARTICLE III LICENSES AND COVENANTS FROM HONEYWELL TO SPINCO
+
+Section 3.01. License Grants 4 Section 3.02. Other Covenants 5 Section 3.03. Honeywell Content 6
+
+ARTICLE IV LICENSES AND COVENANTS FROM SPINCO TO HONEYWELL Section 4.01. License Grants 7 Section 4.02. Other Covenants 7
+
+ARTICLE V ADDITIONAL INTELLECTUAL PROPERTY RELATED MATTERS
+
+Section 5.01. Assignments and Licenses 8 Section 5.02. No Implied Licenses 9 Section 5.03. No Obligation To Prosecute or Maintain Patents 9 Section 5.04. Technical Assistance 9 Section 5.05. Group Members 9 Section 5.06. R&D Projects 9
+
+ARTICLE VI CONFIDENTIAL INFORMATION
+
+Section 6.01. Confidentiality 9 i
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+ARTICLE VII LIMITATION OF LIABILITY AND WARRANTY DISCLAIMER
+
+Section 7.01. Limitation on Liability 9 Section 7.02. Disclaimer of Representations and Warranties 10
+
+ARTICLE VIII TRANSFERABILITY AND ASSIGNMENT
+
+Section 8.01. No Assignment or Transfer Without Consent 10 Section 8.02. Divested Businesses 11
+
+ARTICLE IX TERMINATION Section 9.01. Termination by Both Parties 11 Section 9.02. Termination prior to the Distribution 11 Section 9.03. Effect of Termination; Survival 11 ARTICLE X FURTHER ASSURANCES
+
+Section 10.01. Further Assurances 11
+
+ARTICLE XI MISCELLANEOUS
+
+Section 11.01. Counterparts; Entire Agreement; Corporate Power 12 Section 11.02. Dispute Resolution 12 Section 11.03. Governing Law; Jurisdiction 13 Section 11.04. Waiver of Jury Trial 13 Section 11.05. Court-Ordered Interim Relief 13 Section 11.06. Specific Performance 14 Section 11.07. Third-Party Beneficiaries 14 Section 11.08. Notices 14 Section 11.09. Import and Export Control 15 Section 11.10. Bankruptcy 15 Section 11.11. Severability 15 Section 11.12. Expenses 16 Section 11.13. Headings 16 Section 11.14. Survival of Covenants 16 Section 11.15. Waivers of Default 16 Section 11.16. Amendments 16 Section 11.17. Interpretation 16
+
+EXHIBIT A1 - Patent Assignment Agreement EXHIBIT A2 - Trademark Assignment Agreement EXHIBIT A3 - Copyright Assignment Agreement EXHIBIT A4 - Domain Name Assignment Agreement EXHIBIT A5 - Invention Disclosure Assignment Agreement ii
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+SCHEDULE A - SpinCo Patents SCHEDULE B - SpinCo IDs SCHEDULE C - SpinCo Trademarks SCHEDULE D - SpinCo Domain Names SCHEDULE E - Registered SpinCo Copyrights SCHEDULE F - R&D Projects SCHEDULE G - Honeywell Content iii
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+INTELLECTUAL PROPERTY AGREEMENT, dated as of September 27, 2018 (this "Agreement"), by and between HONEYWELL INTERNATIONAL INC., a Delaware corporation ("Honeywell"), and GARRETT MOTION INC., a Delaware corporation ("SpinCo").
+
+RECITALS
+
+WHEREAS, in connection with the contemplated Spin-Off of SpinCo and concurrently with the execution of this Agreement, Honeywell and SpinCo are entering into a Separation and Distribution Agreement (the "Separation Agreement");
+
+WHEREAS, pursuant to the Separation Agreement and the other Ancillary Agreements, as of the Distribution Date, the Honeywell IP has been allocated to the Honeywell Group and the SpinCo IP has been allocated to the SpinCo Group;
+
+WHEREAS, the Parties wish to record the transfers of any registrations or applications of Honeywell IP and SpinCo IP, as applicable, to the extent the ownership thereof has transferred from a member of the Honeywell Group to a member of the SpinCo Group, or vice versa, pursuant to the Separation Agreement or any other Ancillary Agreement;
+
+WHEREAS, pursuant to the Separation Agreement and the other Ancillary Agreements, as of the Distribution Date, the Honeywell IP allocated to the Honeywell Group includes the Honeywell Shared IP and the SpinCo IP allocated to the SpinCo Group includes the SpinCo Shared IP;
+
+WHEREAS, it is the intent of the Parties that Honeywell grant a license to SpinCo in the Honeywell Shared IP, subject to the terms and conditions set forth in this Agreement;
+
+WHEREAS, it is the intent of the Parties that SpinCo grant a license to Honeywell in the SpinCo Shared IP, subject to the terms and conditions set forth in this Agreement; and
+
+WHEREAS, it is the intent of the Parties that Honeywell license certain other intellectual property rights to SpinCo and that SpinCo license certain other intellectual property rights to Honeywell.
+
+NOW, THEREFORE, in consideration of the mutual agreements, provisions and covenants contained in this Agreement, the Parties, intending to be legally bound, hereby agree as follows:
+
+ARTICLE I DEFINITIONS
+
+Section 1.01. Definitions. As used in this Agreement, the following terms have the meanings set forth below. Capitalized terms used, but not defined in this Agreement shall have the meanings ascribed to such terms in the Separation Agreement or any other Ancillary Agreement, as applicable.
+
+"Bankruptcy Code" has the meaning set forth in Section 11.10.
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+"Copyright Assignment Agreement" has the meaning set forth in Section 2.01.
+
+"Copyrights" means copyrights, works of authorship (including all translations, adaptations, derivations and combinations thereof), mask works, designs and database rights, including, in each case, any registrations and applications therefor.
+
+"Divested Entity" has the meaning set forth in Section 8.02.
+
+"Domain Name Assignment Agreement" has the meaning set forth in Section 2.01.
+
+"Domain Names" means Internet domain names, including top level domain names and global top level domain names, URLs, social media identifiers, handles and tags.
+
+"Honeywell Content" means the confidential and proprietary materials of Honeywell IP protected by Trade Secret and/or Copyright Law set forth on Schedule G.
+
+"Honeywell IP" means all Intellectual Property Rights owned by the Honeywell Group or the SpinCo Group as of immediately prior to the Distribution, other than the SpinCo IP.
+
+"Honeywell Shared IP" has the meaning set forth in Section 3.01(a).
+
+"Honeywell Trade Secrets" means the Trade Secrets included in the Honeywell IP.
+
+"Honeywell Trademarks" means the Trademarks included in the Honeywell IP.
+
+"Intellectual Property Assignment Agreements" has the meaning set forth in Section 2.01.
+
+"Intellectual Property Rights" or "IPR" means any and all intellectual property rights existing anywhere in the world associated with any and all (a) Patents, (b) Trademarks, (c) Copyrights, (d) Domain Names, (e) Software, (f) Trade Secrets and other confidential information, (g) all tangible embodiments of the foregoing in whatever form or medium and (h) any other legal protections and rights related to any of the foregoing. Intellectual Property Rights specifically excludes contractual rights (including license grants from third parties).
+
+"Invention Disclosure Assignment Agreement" has the meaning set forth in Section 2.01.
+
+"Party" means either party hereto, and "Parties" means both parties hereto.
+
+"Patent Assignment Agreement" has the meaning set forth in Section 2.01.
+
+"Patents" means patents (including all reissues, divisionals, continuations, continuations-in-part, reexaminations, supplemental examinations, inter partes review, post-grant oppositions, covered business methods reviews, substitutions and extensions thereof), patent registrations and applications, including provisional applications, statutory invention registrations, invention disclosures and inventions. 2
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+"R&D Projects" means the R&D Projects listed or described in Schedule F, each of which shall be subject to a separate agreement as set forth in Section 5.06.
+
+"Software" means any and all (a) computer programs and applications, including any and all software implementations of algorithms, models and methodologies, whether in source code, object code, human readable form or other form, (b) databases and compilations, including any and all data and collections of data, whether machine readable or otherwise, (c) descriptions, flow charts and other work product used to design, plan, organize and develop any of the foregoing, screens, user interfaces, report formats, firmware, development tools, templates, menus, buttons and icons, (d) all documentation including user manuals and other training documentation related to any of the foregoing and (e) all tangible embodiments of the foregoing in whatever form or medium now known or yet to be created, including all disks, diskettes and tapes.
+
+"SpinCo Copyrights" means (i) unregistered Copyrights that are owned by the Honeywell Group or the SpinCo Group as of immediately prior to the Distribution and that are exclusively used in or related to the SpinCo Business and (ii) the registered Copyrights identified on Schedule E hereto.
+
+"SpinCo Domain Names" means the Domain Names listed on Schedule D, in each case excluding any Trademarks containing "Honeywell" or any transliteration or translation thereof or any version of the "Honeywell and Design" logo.
+
+"SpinCo IDs" means the invention disclosures listed or described on Schedule B.
+
+"SpinCo IP" means (a) the SpinCo Patents, (b) the SpinCo Copyrights, (c) the SpinCo Domain Names, (d) the SpinCo Trade Secrets, (e) the SpinCo Trademarks and (f) the SpinCo IDs.
+
+"SpinCo Patents" means the Patents identified on Schedule A.
+
+"SpinCo Shared IP" has the meaning set forth in Section 4.01(a).
+
+"SpinCo Trade Secrets" means the Trade Secrets known to the Parties that are owned by the Honeywell Group or SpinCo Group as of immediately prior to the Distribution and that are exclusively used by or related to the SpinCo Business.
+
+"SpinCo Trademarks" means the Trademarks identified on Schedule C.
+
+"Trade Secrets" means all forms and types of financial, business, scientific, technical, economic or engineering information, including patterns, plans, compilations, program devices, formulas, designs, prototypes, methods, techniques, processes, procedures, programs or codes, whether tangible or intangible, and whether or how stored, compiled or memorialized physically, electronically, graphically, photographically or in writing, to the extent that the owner thereof has taken reasonable measures to keep such information secret and the information derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable through proper means by, the public.
+
+"Trademark Assignment Agreement" has the meaning set forth in Section 2.01. 3
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+"Trademarks" means trademarks, service marks, trade names, logos, slogans, trade dress or other source identifiers, including any registration or any application for registration therefor, together with all goodwill associated therewith.
+
+ARTICLE II RECORDATION OF INTELLECTUAL PROPERTY RIGHTS ASSIGNMENT AGREEMENTS
+
+Section 2.01. Intellectual Property Assignment Agreements. In order to carry out the intent of the Parties with respect to the recordation of the transfers of any registrations or applications of Honeywell IP or SpinCo IP, as applicable, to the extent the ownership thereof has transferred from a member of the Honeywell Group to a member of the SpinCo Group, or vice versa, pursuant to the Separation Agreement or any other Ancillary Agreement, the Parties shall, and shall cause their respective Group members (as applicable) to, execute intellectual property assignments in a form substantially similar to that attached as Exhibit A1 (the "Patent Assignment Agreement"), Exhibit A2 (the "Trademark Assignment Agreement"), Exhibit A3 (the "Copyright Assignment Agreement"), Exhibit A4 (the "Domain Name Assignment Agreement") and Exhibit A5 (the "Invention Disclosure Assignment Agreement") as well as such additional case specific assignments as deemed appropriate or necessary under applicable Laws (collectively, the "Intellectual Property Assignment Agreements") for recordation with the appropriate Governmental Authority.
+
+Section 2.02. Recordation. The relevant assignee Party shall have the sole responsibility, at its sole cost and expense, to file the Intellectual Property Assignment Agreements and any other forms or documents with the appropriate Governmental Authorities as required to record the transfer of any registrations or applications of Honeywell IP or SpinCo IP that is allocated under the Separation Agreement, as applicable, and the relevant assignor Party hereby consents to such recordation.
+
+Section 2.03. Security Interests. Prior to, on and after the Distribution Date, each Party shall cooperate with the other Party, without any further consideration and at no expense to the other Party, to obtain, cause to be obtained or properly record the release of any outstanding Security Interest attached to any Honeywell IP or SpinCo IP, as applicable, and to take, or cause to be taken, all actions as the other Party may reasonably be requested to take in order to obtain, cause to be obtained or properly record such release.
+
+ARTICLE III LICENSES AND COVENANTS FROM HONEYWELL TO SPINCO
+
+Section 3.01. License Grants.
+
+(a) General. The Parties acknowledge that through the course of a history of integrated operations SpinCo and the members of the SpinCo Group have each obtained knowledge of and access to, or otherwise used, certain Honeywell IP, including Patents, Trade Secrets, copyrighted content, proprietary know-how, and other Intellectual Property Rights that are not otherwise governed expressly by the Separation Agreement or the Ancillary Agreements or identified expressly in the schedules thereto (collectively, "Honeywell Shared IP"). With regard 4
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+to the Honeywell Shared IP, the Parties seek to ensure that SpinCo has the freedom to use such Honeywell Shared IP in the future. Hence, as of the Distribution Date, Honeywell hereby grants, and agrees to cause the members of the Honeywell Group to hereby grant, to SpinCo and the members of the SpinCo Group a non-exclusive, royalty-free, fully-paid, perpetual, sublicenseable (solely to Subsidiaries and suppliers for "have-made" purposes), worldwide license to use and exercise rights under the Honeywell Shared IP (excluding Trademarks, the Honeywell Content and the subject matter of any other Ancillary Agreement), said license being limited to use of a similar type, scope and extent as used in the SpinCo Business prior to the Distribution Date and the natural growth and development thereof.
+
+(b) Trademarks. The Parties acknowledge and agree that certain rights and obligations with respect to the use by the SpinCo Group of certain Honeywell Trademarks shall be set forth in the Trademark License Agreement. To the extent there is a conflict between the terms of this Agreement and the Trademark License Agreement, the terms of the Trademark License Agreement shall control.
+
+(c) Additional Licenses. For a period of five (5) years after the Distribution Date, in the event any member of the SpinCo Group, in SpinCo's reasonable judgment, requires a license under any Honeywell IP in order to initiate and pursue any new technical projects not covered by the licenses granted in Section 3.01(a), the Parties shall negotiate in good faith to license such Honeywell IP to the applicable member of the SpinCo Group on commercially reasonable terms. Notwithstanding anything to the contrary, if the Parties cannot reach agreement with respect to the terms of a license to Honeywell IP pursuant to the immediately preceding sentence, the applicable member of the SpinCo Group shall be permitted to challenge the validity or enforceability of such Honeywell IP (it being understood that such challenge is the sole remedy available to SpinCo in the event Honeywell does not grant such license, without regard to whether Honeywell has negotiated in good faith).
+
+Section 3.02. Other Covenants.
+
+(a) Honeywell hereby acknowledges (on behalf of itself and each other member of the Honeywell Group) SpinCo's right, title and interest in and to the SpinCo IP. Honeywell agrees that it will not, and agrees to cause each member of the Honeywell Group not to, (i) initiate any Action against any member of the SpinCo Group or its Affiliates for infringement, misappropriation or other violation of any Honeywell IP, (ii) oppose, challenge, petition to cancel, contest or threaten in any way, or assist another party in opposing, challenging, petitioning to cancel, contesting or threatening in any way, any application or registration by SpinCo or its Affiliates or their respective licensees for any SpinCo IP, the use of which is consistent with the use of such SpinCo IP in connection with the SpinCo Business as of immediately prior to the Distribution Date, (iii) engage in any act, or purposefully omit to perform any act, that impairs or adversely affects the rights of SpinCo or any member of the SpinCo Group in and to any SpinCo IP or (iv) apply for any registration with respect to the SpinCo IP (including federal, state and national registrations), in each case of the foregoing clauses (i) - (iv) for a period of five (5) years after the Distribution Date, without the prior written consent of SpinCo, which consent shall not be unreasonably withheld, conditioned or delayed. 5
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+(b) SpinCo shall be responsible for policing, protecting and enforcing its own Intellectual Property Rights. Notwithstanding the foregoing, Honeywell will promptly give notice to SpinCo of any actual or threatened, unauthorized use or infringement of the SpinCo IP of which it receives notice, in each case for a period of five (5) years after the Distribution Date.
+
+(c) Notwithstanding anything to the contrary in this Section 3.02, each member of the Honeywell Group shall be permitted to challenge the validity or enforceability of SpinCo IP, in each case solely in response to an Action initiated by a third party where failure to assert such challenge would reasonably be expected to materially prejudice any member of the Honeywell Group's defense to such Action; provided, that the applicable member(s) of the Honeywell Group shall use reasonable best efforts to provide SpinCo with reasonable written notice prior to initiating any such challenge.
+
+(d) All SpinCo Trade Secrets shall be in or shall be moved to the physical possession of the SpinCo Group in a tangible form (including all copies thereof and all notes, extracts or summaries based thereon) prior to the Distribution Date. At the specific written request of SpinCo, Honeywell shall destroy or shall have destroyed any form or copy of any SpinCo Trade Secrets specified by SpinCo in such written request that are in the possession of Honeywell or any members of the Honeywell Group and were not used in the Honeywell Business as of immediately prior to the Distribution, other than SpinCo Trade Secrets that were electronically preserved or recorded by an electronic backup system prior to the Distribution Date and remain within a secure, encrypted data backup system that is subject to industry practice defense, protection and access restriction measures.
+
+Section 3.03. Honeywell Content.
+
+(a) Notwithstanding Section 3.01, Honeywell hereby grants, and agrees to cause the members of the Honeywell Group to hereby grant, to SpinCo and the members of the SpinCo Group, for a period of ten (10) years after the Distribution Date (unless earlier terminated in accordance with Section 3.03(c)), a non-exclusive, royalty-free, fully-paid, non-sublicenseable, non-transferable, worldwide license to use and reproduce the Honeywell Content solely for the SpinCo Group's internal business purposes. For the avoidance of doubt, the Parties acknowledge and agree that SpinCo may distribute the Honeywell Content internally through SpinCo's intranet in the same form and manner that it was distributed on the Honeywell intranet immediately prior to the Distribution Date; provided, that the Honeywell Content may not be used for any purpose other than the SpinCo Group's internal business purposes and may not be shared with any third party without the prior written consent of Honeywell.
+
+(b) SpinCo shall, and shall cause each member of the SpinCo Group to, remove any Honeywell Trademarks or reference to the Honeywell Business appearing on any Honeywell Content as soon as reasonably practicable following the Distribution Date, but in no event later than one hundred and eighty (180) days after the Distribution Date.
+
+(c) Without limiting ARTICLE VIII, the license granted to the SpinCo Group in Section 3.03(a) shall automatically terminate in the event (i) that any member of the SpinCo Group assigns, transfers, licenses or otherwise conveys any rights in or to the Honeywell Content to any third party or (ii) of (x) the sale of all or substantially all of the ownership interests 6
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+in, or the assets of, any member of the SpinCo Group in a single transaction or a series of related transactions to one or more third parties, (y) any direct or indirect acquisition, consolidation or merger of any member of the SpinCo Group by, with or into any third party or (z) any spin-off, public offering or other corporate reorganization or single transaction or series of related transactions in which direct or indirect control of any member of the SpinCo Group is transferred to one or more third parties, including by transferring an excess of fifty percent (50%) of such member of the SpinCo Group's voting power, shares or equity, through a merger, consolidation, tender offer or similar transaction to one or more third parties.
+
+ARTICLE IV LICENSES AND COVENANTS FROM SPINCO TO HONEYWELL
+
+Section 4.01. License Grants.
+
+(a) General. The Parties acknowledge that through the course of a history of integrated operations Honeywell and the members of the Honeywell Groups have each obtained knowledge of and access to, or otherwise used, certain SpinCo IP, including Patents, Trade Secrets, copyrighted content, proprietary know-how, and other Intellectual Property Rights that are not otherwise governed expressly by the Separation Agreement or the Ancillary Agreements or identified expressly in the schedules thereto (collectively, "SpinCo Shared IP"). With regard to the SpinCo Shared IP, the Parties seek to ensure that Honeywell has the freedom to use such SpinCo Shared IP in the future. Hence, as of the Distribution Date, SpinCo hereby grants, and agrees to cause the members of the SpinCo Group to hereby grant, to Honeywell and the members of the Honeywell Group a non-exclusive, royalty-free, fully-paid, perpetual, sublicenseable (solely to Subsidiaries and suppliers for "have made" purposes), worldwide license to use and exercise rights under the SpinCo Shared IP (excluding Trademarks and the subject matter of any other Ancillary Agreement), said license being limited to use of a similar type, scope and extent as used in the Honeywell Business prior to the Distribution Date and the natural growth and development thereof.
+
+(b) Additional Licenses. For a period of five (5) years following the Distribution Date, in the event any member of the Honeywell Group, in Honeywell's reasonable judgment, requires a license under any SpinCo IP in order to initiate and pursue any technical projects not covered by the licenses granted in Section 4.01(a), the Parties shall negotiate in good faith to license such SpinCo IP to the applicable member of the Honeywell Group on commercially reasonable terms. Notwithstanding anything to the contrary, if the Parties cannot reach agreement with respect to the terms of a license to SpinCo IP pursuant to the immediately preceding sentence, the applicable member of the Honeywell Group shall be permitted to challenge the validity or enforceability of such SpinCo IP (it being understood that such challenge is the sole remedy available to Honeywell in the event SpinCo does not grant such license, without regard to whether SpinCo has negotiated in good faith).
+
+Section 4.02. Other Covenants.
+
+(a) SpinCo hereby acknowledges (on behalf of itself and each other member of the SpinCo Group) Honeywell's right, title and interest in and to the Honeywell IP. SpinCo agrees that it will not, and agrees to cause each member of the SpinCo Group not to, (i) 7
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+initiate any Action against any member of the Honeywell Group or its Affiliates for infringement, misappropriation or other violation of any SpinCo IP, (ii) oppose, challenge, petition to cancel, contest or threaten in any way, or assist another party in opposing, challenging, petitioning to cancel, contesting or threatening in any way, any application or registration by the Honeywell Group or its Affiliates or their respective licensees for any Honeywell IP, the use of which is consistent with the use of such Honeywell IP in connection with the Honeywell Business as of immediately prior to the Distribution Date, (iii) engage in any act, or purposefully omit to perform any act, that impairs or adversely affects the rights of Honeywell or any member of the Honeywell Group in and to any Honeywell IP or (iv) apply for any registration with respect to the Honeywell IP (including federal, state and national registrations), in each case of the foregoing clauses (i) - (iv) for a period of five (5) years after the Distribution Date, without the prior written consent of Honeywell, which consent shall not be unreasonably withheld, conditioned or delayed.
+
+(b) Honeywell shall be responsible for policing, protecting and enforcing its own Intellectual Property Rights. Notwithstanding the foregoing, SpinCo will promptly give notice to Honeywell of any actual or threatened, unauthorized use or infringement of the Honeywell IP of which it receives notice, in each case for a period of five (5) years after the Distribution Date.
+
+(c) Notwithstanding anything to the contrary in this Section 4.02, each member of the SpinCo Group shall be permitted to challenge the validity or enforceability of Honeywell IP, in each case solely in response to an Action initiated by a third party where failure to assert such challenge would reasonably be expected to materially any member of the SpinCo Group's defense to such Action; provided, that the applicable member(s) of the SpinCo Group shall use reasonable best efforts to provide Honeywell with reasonable written notice prior to initiating any such challenge.
+
+(d) All Honeywell Trade Secrets shall be in or shall be moved to the physical possession of the Honeywell Group in a tangible form (including all copies thereof and all notes, extracts or summaries based thereon) prior to the Distribution Date. At the specific written request of Honeywell, SpinCo shall destroy or shall have destroyed any form or copy of Honeywell Trade Secrets specified in such written request by Honeywell that are in the possession of SpinCo or any members of the SpinCo Group and were not used in the SpinCo Business as of immediately prior to the Distribution, other than Honeywell Trade Secrets that were electronically preserved or recorded by an electronic backup system prior to the Distribution Date and remain within a secure, encrypted data backup system that is subject to industry practice defense, protection and access restriction measures.
+
+ARTICLE V ADDITIONAL INTELLECTUAL PROPERTY RELATED MATTERS
+
+Section 5.01. Assignments and Licenses. No Party or any member of its Group may assign or grant a license in or to any of its Intellectual Property Rights licensed to the other Party or any member of its Group pursuant to ARTICLE III or ARTICLE IV, unless such assignment or grant is subject to the licenses, covenants and restrictions set forth herein. For the avoidance of doubt, a non-exclusive license grant shall be deemed subject to the licenses granted herein. 8
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+Section 5.02. No Implied Licenses. Nothing contained in this Agreement shall be construed as conferring any rights (including the right to sublicense) by implication, estoppel or otherwise, under any Intellectual Property Rights, other than as expressly granted in this Agreement, and all other rights under any Intellectual Property Rights licensed to a Party or the members of its Group hereunder are expressly reserved by the Party granting the license. The Party receiving the license hereunder acknowledges and agrees that the Party (or the applicable member of its Group) granting the license is the sole and exclusive owner of the Intellectual Property Rights so licensed.
+
+Section 5.03. No Obligation To Prosecute or Maintain Patents. Except as expressly set forth in this Agreement, no Party or any member of its Group shall have any obligation to seek, perfect or maintain any protection for any of its Intellectual Property Rights. Without limiting the generality of the foregoing, except as expressly set forth in this Agreement, no Party or any member of its Group shall have any obligation to file any Patent application, to prosecute any Patent, or secure any Patent rights or to maintain any Patent in force.
+
+Section 5.04. Technical Assistance. Except as expressly set forth in this Agreement, in the Separation Agreement or any other mutually executed agreement between the Parties or any of the members of their respective Groups, no Party or any member of its Group shall be required to provide the other Party with any technical assistance or to furnish any other Party with, or obtain on their behalf, any Intellectual Property Rights-related documents, materials or other information or technology.
+
+Section 5.05. Group Members. Each Party shall cause the members of its Group to comply with all applicable provisions of this Agreement.
+
+Section 5.06. R&D Projects. The Parties acknowledge and agree that the R&D Projects shall be governed by certain separate agreements between the Parties. To the extent there is a conflict between the terms of this Agreement and such agreements, the terms of such agreements shall control.
+
+ARTICLE VI CONFIDENTIAL INFORMATION
+
+Section 6.01. Confidentiality. All Trade Secrets and other confidential information of a Party disclosed to the other Party under this Agreement (including the Honeywell Content) shall be deemed confidential and proprietary information of the disclosing Party, shall be subject to the provisions of Section 7.09 of the Separation Agreement and may be used by the receiving Party for the express purpose of effecting the licenses granted herein.
+
+ARTICLE VII LIMITATION OF LIABILITY AND WARRANTY DISCLAIMER
+
+Section 7.01. Limitation on Liability. Without limiting the terms set forth in Section 6.09 of the Separation Agreement, none of Honeywell, SpinCo or any other member of either Group shall in any event have any Liability to the other or to any other member of the other's Group under this Agreement for any indirect, special, punitive or consequential damages, whether or not caused by or resulting from negligence or breach of obligations hereunder and whether or not informed of the possibility of the existence of such damages. 9
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+Section 7.02. Disclaimer of Representations and Warranties. Each of Honeywell (on behalf of itself and each other member of the Honeywell Group) and SpinCo (on behalf of itself and each other member of the SpinCo Group) understands and agrees that, except as expressly set forth in this Agreement, no Party is representing or warranting in any way, including any implied warranties of merchantability, fitness for a particular purpose, title, registerability, allowability, enforceability or non-infringement, as to any Intellectual Property Rights licensed hereunder, as to the sufficiency of the Intellectual Property Rights licensed hereunder for the conduct and operations of the SpinCo Business or the Honeywell Business, as applicable, as to the value or freedom from any Security Interests of, or any other matter concerning, any Intellectual Property Rights licensed hereunder, or as to the absence of any defenses or rights of setoff or freedom from counterclaim with respect to any claim or other Intellectual Property Rights of any such Party, or as to the legal sufficiency of any assignment, document or instrument delivered hereunder to convey title to any Intellectual Property Rights or thing of value upon the execution, delivery and filing hereof or thereof. Except as may expressly be set forth herein, any such Intellectual Property Rights are being licensed on an "as is," "where is" basis and the respective licensees shall bear the economic and legal risks related to the use of the Shared Honeywell IP in the SpinCo Business or the Shared SpinCo IP in the Honeywell Business, as applicable.
+
+ARTICLE VIII TRANSFERABILITY AND ASSIGNMENT
+
+Section 8.01. No Assignment or Transfer Without Consent. Except as expressly set forth in this Agreement, neither this Agreement nor any of the rights, interests or obligations under this Agreement, including the licenses granted pursuant to this Agreement, shall be assigned, in whole or in part, by operation of Law or otherwise by either Party without the prior written consent of the other Party. Any purported assignment without such consent shall be void. Notwithstanding the foregoing, if any Party to this Agreement (or any of its successors or permitted assigns) (a) shall enter into a consolidation or merger transaction in which such Party is not the surviving entity and the surviving entity acquires or assumes all or substantially all of such Party's assets, (b) shall transfer all or substantially all of such Party's assets to any Person or (c) shall assign this Agreement to such Party's Affiliates, then, in each such case, the assigning Party (or its successors or permitted assigns, as applicable) shall ensure that the assignee or successor- in-interest expressly assumes in writing all of the obligations of the assigning Party under this Agreement, and the assigning Party shall not be required to seek consent, but shall provide written notice and evidence of such assignment, assumption or succession to the non-assigning Party. Subject to the preceding sentences, this Agreement will be binding upon, inure to the benefit of, and be enforceable by, the Parties and their respective successors and assigns. No assignment permitted by this Section 8.01 shall release the assigning Party from liability for the full performance of its obligations under this Agreement. For the avoidance of doubt, in no event will the licenses granted in this Agreement extend to products, product lines, services, apparatus, devices, systems, components, hardware, software, processes, solutions, any combination of the foregoing, or other offerings of the assignee existing on or before the date of the transaction described in clauses (a) or (b) of the preceding sentence, except to the extent that they were licensed under the terms of this Agreement prior to such transaction. 10
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+Section 8.02. Divested Businesses. In the event a Party divests a business by (a) spinning off a member of its Group by its sale or other disposition to a third party, (b) reducing ownership or control in a member of its Group so that it no longer qualifiers as a member of its Group under this Agreement or (c) selling or otherwise transferring a line of business to a third party (each such divested entity/line of business, a "Divested Entity"), the Divested Entity shall retain those licenses granted to it under this Agreement provided that the license shall be limited to the business of the Divested Entity as of the date of divestment and the natural development thereof. The retention of any license grants are subject to the Divested Entity's and, in the event it is acquired by a third party, such third party's execution and delivery to the non-transferring Party, within 90 days of the effective date of such divestment, of a duly authorized, written undertaking, agreeing to be bound by the applicable terms of this Agreement. For the avoidance of doubt, in no event will the licenses retained by a Divested Entity extend to products, product lines, services, apparatus, devices, systems, components, hardware, software, processes, solutions, any combination of the foregoing, or other offerings of a third party acquirer existing on or before the date of the divestment, except to the extent that they were licensed under the terms of this Agreement prior to such divestment.
+
+ARTICLE IX TERMINATION
+
+Section 9.01. Termination by Both Parties. Subject to Section 9.02, this Agreement may not be terminated except by an agreement in writing signed by a duly authorized officer of each of the Parties.
+
+Section 9.02. Termination prior to the Distribution. This Agreement may be terminated by Honeywell at any time, in its sole discretion, prior to the Distribution; provided, however, that this Agreement shall automatically terminate upon the termination of the Separation Agreement in accordance with its terms.
+
+Section 9.03. Effect of Termination; Survival. In the event of any termination of this Agreement prior to the Distribution, neither Party (nor any member of their Group or any of their respective directors or officers) shall have any Liability or further obligation to the other Party or any member of its Group under this Agreement. Except with respect to termination of the Agreement under Section 9.02, notwithstanding anything in this Agreement to the contrary, ARTICLE I, ARTICLE VI, ARTICLE VII, this Section 9.03 and ARTICLE XI shall survive any termination of this Agreement.
+
+ARTICLE X FURTHER ASSURANCES
+
+Section 10.01. Further Assurances.
+
+(a) In addition to the actions specifically provided for elsewhere in this Agreement, each of the Parties shall use reasonable best efforts, prior to, on and after the Distribution Date, to take, or cause to be taken, all actions, and to do, or cause to be done, all things, reasonably necessary, proper or advisable under applicable Laws and agreements to consummate and make effective the transactions contemplated by this Agreement. 11
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+(b) Without limiting the foregoing, prior to, on and after the Distribution Date, each Party shall cooperate with the other Party, without any further consideration, but at the expense of the requesting Party, (i) to execute and deliver, or use reasonable best efforts to execute and deliver, or cause to be executed and delivered, all instruments, including any instruments of conveyance, assignment and transfer as such Party may reasonably be requested to execute and deliver by the other Party, (ii) to make, or cause to be made, all filings with, and to obtain, or cause to be obtained, all Consents of any Governmental Authority or any other Person under any permit, license, agreement, indenture or other instrument, and (iii) to take, or cause to be taken, all such other actions as such Party may reasonably be requested to take by the other Party from time to time, consistent with the terms of this Agreement, in order to effectuate the provisions and purposes of this Agreement and any transfers of Intellectual Property Rights or assignments and assumptions of Liabilities related thereto as set forth in the Separation Agreement.
+
+ARTICLE XI MISCELLANEOUS
+
+Section 11.01. Counterparts; Entire Agreement; Corporate Power.
+
+(a) This Agreement may be executed in one or more counterparts, all of which counterparts shall be considered one and the same agreement, and shall become effective when one or more counterparts have been signed by each Party and delivered to the other Party. This Agreement may be executed by facsimile or PDF signature and scanned and exchanged by electronic mail, and such facsimile or PDF signature or scanned and exchanged copies shall constitute an original for all purposes.
+
+(b) This Agreement and the Exhibits and Schedules hereto contain the entire agreement between the Parties with respect to the subject matter hereof and supersede all previous agreements, negotiations, discussions, writings, understandings, commitments and conversations with respect to such subject matter, and there are no agreements or understandings between the Parties with respect to the subject matter hereof other than those set forth or referred to herein or therein.
+
+(c) Honeywell represents on behalf of itself and each other member of the Honeywell Group, and SpinCo represents on behalf of itself and each other member of the SpinCo Group, as follows:
+
+(i) each such Person has the requisite corporate or other power and authority and has taken all corporate or other action necessary in order to execute, deliver and perform this Agreement and to consummate the transactions contemplated hereby; and
+
+(ii) this Agreement has been duly executed and delivered by it and constitutes, or will constitute, a valid and binding agreement of it enforceable in accordance with the terms thereof.
+
+Section 11.02. Dispute Resolution. In the event that either Party, acting reasonably, forms the view that another Party has caused a material breach of the terms of this Agreement, then the Party that forms such a view shall serve written notice of the alleged breach on the other Parties and the Parties shall work together in good faith to resolve any such alleged breach within 12
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+thirty (30) days of such notice (a "Dispute"). If any such alleged breach is not so resolved, then a senior executive of each Party shall, in good faith, attempt to resolve any such alleged breach within the following thirty (30) days of the referral of the matter to the senior executives. If no resolution is reached with respect to any such alleged breach in accordance with the procedures contained in this Section 11.02, then the Parties may seek to resolve such matter in accordance with Section 11.03, Section 11.04 and Section 11.06
+
+Section 11.03. Governing Law; Jurisdiction. Any disputes arising out of or relating to this Agreement, including to its execution, performance or enforcement, shall be governed by, and construed in accordance with, the Laws of the State of New York, regardless of the Laws that might otherwise govern under applicable principles of conflicts of Laws thereof. Each Party irrevocably consents to the exclusive jurisdiction, forum and venue of any state or federal court sitting in New York City in the State of New York over any and all claims, disputes, controversies or disagreements between the Parties or any of their respective Affiliates, successors and assigns under or related to this Agreement or any of the transactions contemplated hereby, including their execution, performance or enforcement, whether in contract, tort or otherwise. Each of the Parties hereby agrees that it shall not assert and shall hereby waive any claim or right or defense that it is not subject to the jurisdiction of such courts, that the venue is improper, that the forum is inconvenient or any similar objection, claim or argument. Each Party agrees that a final judgment in any legal proceeding resolved in accordance with this Section 11.03, Section 11.04, Section 11.05 and Section 11.06 shall be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by applicable Law.
+
+Section 11.04. Waiver of Jury Trial. EACH PARTY HEREBY WAIVES ITS RIGHTS TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION BASED UPON, ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY, INCLUDING THEIR EXECUTION, PERFORMANCE OR ENFORCEMENT, WHETHER IN CONTRACT, TORT OR OTHERWISE. THE SCOPE OF THIS WAIVER IS INTENDED TO BE ALL-ENCOMPASSING OF ANY AND ALL DISPUTES THAT MAY BE FILED IN ANY COURT AND THAT RELATE TO THE SUBJECT MATTER OF THIS TRANSACTION, INCLUDING CONTRACT CLAIMS, TORT CLAIMS (INCLUDING NEGLIGENCE), BREACH OF DUTY CLAIMS AND ALL OTHER COMMON LAW AND STATUTORY CLAIMS. THIS SECTION HAS BEEN FULLY DISCUSSED BY EACH OF THE PARTIES AND THESE PROVISIONS WILL NOT BE SUBJECT TO ANY EXCEPTIONS.
+
+Section 11.05. Court-Ordered Interim Relief. In accordance with Section 11.03 and Section 11.04, at any time after giving notice of a Dispute, each Party shall be entitled to interim measures of protection duly granted by a court of competent jurisdiction: (1) to preserve the status quo pending resolution of the Dispute; (2) to prevent the destruction or loss of documents and other information or things relating to the Dispute; or (3) to prevent the transfer, disposition or hiding of assets. Any such interim measure (or a request therefor to a court of competent jurisdiction) shall not be deemed incompatible with the provisions of Section 11.02, Section 11.03 and Section 11.04. Until such Dispute is resolved in accordance with Section 11.02 or final judgment is rendered in accordance with Section 11.03 and Section 11.04, each Party agrees that such Party shall continue to perform its obligations under this Agreement and that such obligations shall not be subject to any defense or set-off, counterclaim, recoupment or termination. 13
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+Section 11.06. Specific Performance. Subject to Section 11.02 and Section 11.05, in the event of any actual or threatened default in, or breach of, any of the terms, conditions and provisions of this Agreement, the affected Party shall have the right to specific performance and injunctive or other equitable relief of its rights under this Agreement, in addition to any and all other rights and remedies at Law or in equity, and all such rights and remedies shall be cumulative. The other Party shall not oppose the granting of such relief on the basis that money damages are an adequate remedy. The Parties agree that the remedies at Law for any breach or threatened breach hereof, including monetary damages, are inadequate compensation for any loss and that any defense in any action for specific performance that a remedy at Law would be adequate is waived. Any requirements for the securing or posting of any bond with such remedy are waived.
+
+Section 11.07. Third-Party Beneficiaries. Except as otherwise expressly set forth herein or as otherwise may be provided in the Separation Agreement with respect to the rights of any Honeywell Indemnitee or SpinCo Indemnitee, (a) the provisions of this Agreement are solely for the benefit of the Parties hereto and are not intended to confer upon any Person except the Parties hereto any rights or remedies hereunder and (b) there are no third- party beneficiaries of this Agreement and this Agreement shall not provide any third person with any remedy, claim, liability, reimbursement, cause of action or other right in excess of those existing without reference to this Agreement.
+
+Section 11.08. Notices. All notices or other communications under this Agreement shall be in writing and shall be deemed to be duly given when (a) delivered in person, (b) on the date received, if sent by a nationally recognized delivery or courier service or (c) upon the earlier of confirmed receipt or the fifth (5th) business day following the date of mailing if sent by registered or certified mail, return receipt requested, postage prepaid and addressed as follows:
+
+If to Honeywell, to:
+
+Honeywell International Inc. 115 Tabor Road Morris Plains, NJ 07950 Attn: Senior Vice President and General Counsel
+
+with a copy to:
+
+Paul, Weiss, Rifkind, Wharton & Garrison LLP 1285 Avenue of the Americas New York, NY 10019-6064 Attn: Scott A. Barshay Steven J. Williams email: sbarshay@paulweiss.com swilliams@paulweiss.com Facsimile: 212-492-0040 14
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+If to SpinCo, to:
+
+Garrett Motion Inc. c/o Honeywell Transportations Sarl Z.A. La Piece 16 1180 Rolle, Vaud Switzerland Attn: Senior Vice President and General Counsel
+
+with a copy to:
+
+Paul, Weiss, Rifkind, Wharton & Garrison LLP 1285 Avenue of the Americas New York, NY 10019-6064 Attn: Scott A. Barshay Steven J. Williams email: sbarshay@paulweiss.com swilliams@paulweiss.com Facsimile: 212-492-0040
+
+Either Party may, by notice to the other Party, change the address to which such notices are to be given. Each Party agrees that nothing in this Agreement shall affect the other Party's right to serve process in any other manner permitted by Law (including pursuant to the rules for foreign service of process authorized by the Hague Convention).
+
+Section 11.09. Import and Export Control. Each Party agrees that it shall comply with all applicable national and international laws and regulations relating to import and/or export control in its country(ies), if any, involving any commodities, software, services or technology within the scope of this Agreement.
+
+Section 11.10. Bankruptcy. The Parties acknowledge and agree that all rights and licenses granted by the other under or pursuant to this Agreement are, and shall otherwise be deemed to be, for purposes of Section 365(n) of the United States Bankruptcy Code, as amended (the "Bankruptcy Code"), licenses of rights to "intellectual property" as defined under Section 101 of the Bankruptcy Code. The Parties agree that, notwithstanding anything else in this Agreement, Honeywell and the members of the Honeywell Group and SpinCo and the members of the SpinCo Group, as licensees of such intellectual property rights under this Agreement, shall retain and may fully exercise all of its rights and elections under the Bankruptcy Code (including Honeywell's and the Honeywell Group members' and SpinCo's and the SpinCo Group members' right to the continued enjoyment of the rights and licenses respectively granted by under this Agreement).
+
+Section 11.11. Severability. If any provision of this Agreement or the application thereof to any Person or circumstance is determined by a court of competent jurisdiction to be invalid, void or unenforceable, the remaining provisions hereof, or the application of such provision to Persons or circumstances or in jurisdictions other than those as to which it has been held invalid or unenforceable, shall remain in full force and effect and shall in no way be affected, impaired or invalidated thereby, so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner materially adverse to either Party. Upon any such determination, any such provision, to the extent determined to be invalid, void or unenforceable, shall be deemed replaced by a provision that such court determines is valid and enforceable and that comes closest to expressing the intention of the invalid, void or unenforceable provision. 15
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+Section 11.12. Expenses. Except as otherwise expressly provided in this Agreement, (i) all third-party fees, costs and expenses incurred by either the Honeywell Group or the SpinCo Group in connection with the provisions of this Agreement prior to or on the Distribution Date, whether payable prior to, on or following the Distribution Date (but excluding, for the avoidance of doubt, any financing fees or interest payable in respect of any indebtedness incurred pursuant to the Debt Incurrence), will be borne and paid by Honeywell and (ii) all third-party fees, costs and expenses incurred by either the Honeywell Group or the SpinCo Group in connection with the provisions of this Agreement following the Distribution Date, whether payable prior to, on or following the Distribution Date, will be borne and paid by the Party incurring such fee, cost or expense.
+
+Section 11.13. Headings. The article, section and paragraph headings contained in this Agreement, including in the table of contents of this Agreement, are for reference purposes only and shall not affect in any way the meaning or interpretation of this Agreement.
+
+Section 11.14. Survival of Covenants. Except as expressly set forth in this Agreement, the covenants in this Agreement and the Liabilities for the breach of any obligations in this Agreement shall survive the Spin-Off and shall remain in full force and effect.
+
+Section 11.15. Waivers of Default. No failure or delay of any Party (or the applicable member of its Group) in exercising any right or remedy under this Agreement shall operate as a waiver thereof, nor shall any single or partial exercise of any such right or power, or any abandonment or discontinuance of steps to enforce such right or power, or any course of conduct, preclude any other or further exercise thereof or the exercise of any other right or power. Waiver by any Party of any default by the other Party of any provision of this Agreement shall not be deemed a waiver by the waiving Party of any subsequent or other default.
+
+Section 11.16. Amendments. No provisions of this Agreement shall be deemed waived, amended, supplemented or modified by any Party, unless such waiver, amendment, supplement or modification is in writing and signed by the authorized representative of each Party.
+
+Section 11.17. Interpretation. Words in the singular shall be held to include the plural and vice versa and words of one gender shall be held to include the other gender as the context requires. The terms "hereof," "herein," "herewith" and words of similar import, unless otherwise stated, shall be construed to refer to this Agreement as a whole (including all of the schedules hereto) and not to any particular provision of this Agreement. Article, Section or Schedule references are to the articles, sections and schedules of or to this Agreement unless otherwise specified. Any capitalized terms used in any Schedule to this Agreement but not otherwise defined therein shall have the meaning as defined in this Agreement. Any definition of or reference to any agreement, instrument or other document herein (including any reference herein to this Agreement) shall, unless otherwise stated, be construed as referring to such agreement, instrument or other document as from time to time amended, supplemented or otherwise modified (subject to any restrictions on such amendments, supplements or modifications 16
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+set forth therein, including in Section 11.15 above). The word "including" and words of similar import when used in this Agreement shall mean "including, without limitation," unless the context otherwise requires or unless otherwise specified. The word "or" shall not be exclusive. All references to "$" or dollar amounts are to lawful currency of the United States of America. In the event that an ambiguity or question of intent or interpretation arises, this Agreement shall be construed as if drafted jointly by the Parties, and no presumption or burden of proof shall arise favoring or disfavoring either Party by virtue of the authorship of any provisions hereof.
+
+[SIGNATURE PAGES FOLLOW] 17
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018
+
+
+
+
+
+Table of Contents
+
+IN WITNESS WHEREOF, the Parties have caused this Intellectual Property Agreement to be executed by their duly authorized representatives. HONEYWELL INTERNATIONAL INC.
+
+By: /s/ Richard E. Kent Name: Richard Kent Title: Vice President, Deputy General Counsel, Finance and Assistant Secretary
+
+GARRETT MOTION INC.
+
+By: /s/ Su Ping Lu Name: Su Ping Lu Title: President
+
+[Signature Page to Intellectual Property Agreement]
+
+Source: GARRETT MOTION INC., 8-K, 10/1/2018

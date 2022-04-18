@@ -1,0 +1,475 @@
+EXHIBIT 10.27
+
+                                                          MediaLinx File No. 952
+
+                         CO-BRANDING CONTENT AGREEMENT                          -----------------------------
+
+THIS AGREEMENT made as of the 30th day of June 1999
+
+BETWEEN:
+
+          MEDIALINX INTERACTIVE, L.P.,           represented herein by its general partner           MediaLinx Interactive Inc.           a corporation incorporated under the laws           of the Province of Ontario           20 Richmond Street East           Suite 600           Toronto, Ontario           M5C 3B5
+
+          (hereinafter called "MLX", or "Party")
+
+               - and -
+
+          HEALTHCENTRAL.COM INC.           a corporation incorporated under the           laws of the state of California           Marketplace Tower           6001 Shellmound Street, Suite 800           Emeryville, CA. 94608
+
+          (hereinafter called "HCI" or "Party")
+
+          (both MLX and HCI to be collectively referred to as the "Parties")
+
+WHEREAS MLX owns, hosts, licenses, publishes and maintains an Internet service in Canada that includes, but is not limited to the "Sympatico" web site which includes inter alia, the HealthyWay web site on the World Wide Web (the "MLX Internet Services");
+
+AND WHEREAS HCI owns, hosts, licenses, publishes and maintains a health services web site known as healthcentral.com on the World Wide Web (the "HCI Site);
+
+NOW THEREFORE in consideration of the mutual covenants herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+CERTAIN INFORMATION ON THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.
+
+1.  SERVICES & DEVELOPMENT
+
+a)   MLX and HCI have agreed to provide certain services and content to each      other in order to mutually develop and integrate content from the HCI Site      into the Sympatico health section, currently known as "HealthyWay", of the      Sympatico web site (the "Co-Branded Site").
+
+b)   The Parties have agreed that they will mutually approve the design of the      Co-Branded Site and that the launch date of the Co-Branded Site shall be      September 1st, 1999 unless mutually extended by the Parties as agreed to in      writing.
+
+2.  MLX'S OBLIGATIONS AND RESPONSIBILITIES
+
+Source: HEALTHCENTRAL COM, S-1/A, 11/8/1999
+
+
+
+
+
+During the Term of this Agreement MLX shall:
+
+a)   continue to technically host and moderate all of the HealthyWay discussion      forums currently residing on the forums section of the Sympatico web site.      MediaLinx shall retain all right, title to and interest in the discussion      forums;
+
+b)   promote the Co-Branded Site as set out in Schedule "1" attached hereto;
+
+c)   grant to HCI, a non-exclusive and non-transferable right to use MediaLinx      images and certain content contained in the HealthyWay web site (the      "Sympatico Content") for the sole purpose of satisfying the requirements of      this Agreement. MediaLinx shall retain all right, title to and interest in      the Sympatico Content;
+
+d)   grant to HCI, to the extent that HCI requires access to MLX logos and      trademarks (collectively "MLX Marks") the use of certain MLX Marks as      necessary for the purposes of fulfilling its obligations under this      Agreement. HCI assures that the MLX marks are used in accordance with MLX's      logo usage guidelines as provided by MLX from time to time. Without      limiting the generality of the foregoing, HCI agrees:
+
+     (i)     that MLX is the owner of the MLX Marks and the goodwill and              reputation associated therewith;
+
+     (ii)    not to contest the validity of the MLX Marks or MLX's title              thereto;
+
+     (iii)   that HCI acquires no right, title or interest in the MLX Marks, and              any and all goodwill associated with the MLX Marks enures              exclusively to the benefit of MLX;
+
+     (iv)    to notify MLX promptly of any attempt by any third party to use MLX              Marks, or any variation or imitation thereof of which HCI becomes              aware;
+
+     (v)     at MLX's expense, to fully co-operate with MLX and execute such              documents and at the request of MLX to do such acts and things as              may be reasonably necessary or desirable to restrain such use;
+
+e)   ensure that in the event that it enters into an electronic commerce      agreement with a third party for the sale of goods on the Co-Branded Site      that all agreements with the third parties shall ensure that such third      party shall be wholly responsible for all products and transactions that      may occur on the Co-Branded Site, that all such transactions shall comply      with all applicable Canadian and US laws and regulations, including privacy      laws and including compliance with MediaLinx's standards and guidelines,      and ensure that such third party
+
+                                                                               2
+
+     provides a full indemnity to MediaLinx and HCI in respect of any and all      transactions and products that may be hosted on the Co-Branded Site;
+
+f)   ensure that in the event that user traffic to the Co-Branded Site falls      below the levels outlined in Schedule 2, that MediaLinx will use all      commercially reasonable efforts to increase promotion to the Co-Branded      Site until usage to the site increases to levels above the levels outlined      in Schedule 2; and
+
+g)   make a reasonable effort to explore the technical possibilities of sharing      with HCI the traffic on the home page of the Sympatico Health Section of      the Sympatico web site, subject to any legal and regulatory constraints.
+
+3.  HCI's OBLIGATIONS AND RESPONSIBILITIES
+
+During the Term of this Agreement HCI shall:
+
+a)   use reasonable commercial efforts to provide industry accepted standards of      reliability of service and to make available the appropriate production      resources to build and maintain the Co-Branded Site;
+
+b)   integrate content contained in the HCI Site into the Co-Branded Site of the
+
+Source: HEALTHCENTRAL COM, S-1/A, 11/8/1999
+
+
+
+
+
+     Sympatico web site subject to the prior approval of MediaLinx;
+
+c)   update the "look and feel" of the Co-Branded Site upon Launch, subject to      the prior approval and consent of MediaLinx;
+
+d)   ensure that general terms and conditions on the Co-Branded Site are subject      to the prior approval of MediaLinx;
+
+e)   host, manage, update and maintain all aspects of the mutually approved Co-      Branded Site including technology, content, production, design, operations,      and customer relations save and except forums. Without limiting the      generality of the foregoing, HCI shall use all reasonable commercial      efforts to: 1) ensure that the hosting services provided in connection with      the Co-Branded Site are provided at the same standard as the hosting of the      Sympatico web site, and 2) ensure that the Co-Branded Site is available 7      days per week and 24 hours per day;
+
+f)   ensure that the level of Canadian content contained on the Co-Branded Site      is maintained at such levels as is found on the HealthyWay section of the      Sympatico web site on the Launch Date, and ensure that the level of      Canadian content is maintained in accordance with the attached Schedule      "3";
+
+g)   design the Co-Branded Site in such a manner so as to make prominent      Canadian content, Canadian context and Canadian activity, such as described      in Schedule "3";
+
+h)   make all reasonable efforts to suppress or remove all content from the HCI      Site which is to be integrated into the Co-Branded Site that is irrelevant      and inappropriate for the Canadian market and ensure that all content      contained in the Co-Branded Site continues to be relevant for the Canadian      market in accordance with Schedule "3";
+
+i)   provide MediaLinx with daily usage statistics for the Co-Branded Site in      accordance with the following format attached hereto as Schedule "4";
+
+                                                                               3
+
+j)   have the option to provide and manage some discussion forum hosts referred      to in paragraph 2(a) of this Agreement;
+
+k)   ensure that it only utilizes communications related services and tools on      the Co-Branded Site which have been provided by MediaLinx's Canadian      telecommunication partners, including but not limited to webmail,      directories, address book, and ip telephony;
+
+l)   grant to MLX, to the extent that MLX requires access to HCI logos and      trademarks (collectively "HCI Marks") the use of certain HCI Marks as      necessary for the purposes of fulfilling its obligations under this      Agreement. MLX assures that the HCI Marks are used in accordance with HCI's      logo usage guidelines as provided by HCI from time to time. Without      limiting the generality of the foregoing, MLX agrees:
+
+     (i)     that HCI is the owner of the HCI Marks and the goodwill and              reputation associated therewith;
+
+     (ii)    not to contest the validity of the HCI Marks or HCI's title              thereto;
+
+     (iii)   that MLX acquires no right, title or interest in the HCI Marks, and              any and all goodwill associated with the HCI Marks enures              exclusively to the benefit of HCI;
+
+     (iv)    to notify HCI promptly of any attempt by any third party to use the              HCI marks, or any variation or imitation thereof of which MLX              becomes aware;
+
+     (v)     at HCI's expense, to fully co-operate with HCI and execute such              documents and at the request of HCI to do such acts and things as              may be reasonably necessary or desirable to restrain such use; and
+
+m)   ensure that in the event that it enters into an electronic commerce
+
+Source: HEALTHCENTRAL COM, S-1/A, 11/8/1999
+
+
+
+
+
+     agreement with a third party for the sale of goods on the Co-Branded Site      that all agreements with the third parties shall ensure that such third      party shall be wholly responsible for all products and transactions that      may occur on the Co-Branded Site, that all such transactions shall comply      with all applicable Canadian and US laws and regulations, including privacy      laws and including compliance with MediaLinx's standards and guidelines,      and ensure that such third party provides a full indemnity to MediaLinx and      HCI in respect of any and all transactions and products that may be hosted      on the Co-Branded Site.
+
+4.  ADVERTISING
+
+Subject to paragraph 6, MediaLinx shall be entitled to sell advertising and sponsorships on all pages of the Co-Branded Site to Canadian advertisers (for the purposes of this Agreement "Canadian advertisers" shall be advertisers with substantial places of business in Canada) and HCI shall be entitled to sell advertising and sponsorships on all pages of the Co-Branded Site to US advertisers (for the purposes of this Agreement, US advertisers shall be advertisers with substantial places of business in the United States). All sponsorship and advertising package deals for the Co-Branded Site will be mutually agreed upon by the parties and shall abide by MediaLinx's and HCI's standard advertising agreement and Canadian and U.S. advertising regulations and standards. Any excess inventory that has not been sold is available to be sold by either party. Neither party shall permit advertising on the Co-Branded Site from an entity which is a competitor to the other party. For the purposes of this Agreement, a "competitor" to MediaLinx shall be an Internet portal web site and/or an internet service provider. For the purposes of this Agreement, a "competitor" to HCI shall be a consumer health based web site. The parties shall define a plan in writing prior to the Launch setting out how the Parties shall work together to jointly sell advertising, serve the advertising and track the advertising inventory on the Co-Branded Site.
+
+                                                                               4
+
+5.  E-COMMERCE
+
+Subject to paragraph 6, MediaLinx and HCI shall be entitled to negotiate e- commerce relationships which shall reside on the Co-Branded Site. In addition to the terms and conditions detailed in paragraphs 2(e) and 3(m), both parties acknowledge and agree that any e-Commerce offering must be able to offer pricing in Canadian dollars and provide shipping across Canada, unless otherwise mutually agreed to in writing. In addition, all products offered through the Co- Branded Site must abide by all Canadian laws and regulations. The cost of integrating any e-Commerce relationship will be borne by the entity that brought the relationship. Any and all marketing activities and design of an e-Commerce system shall be approved by both parties.
+
+6.  FINANCIALS
+
+(a)  HCI shall pay MLX a guaranteed fixed sum of [*] US per annum during the      Initial Term of this Agreement to be paid out as a monthly payment of [*]      US (the "Monthly Payment"). This Monthly Payment shall be due by the 10th      day of each month;
+
+(b)  HCI shall be entitled to all net revenue generated from advertising and e-      commerce transactions generated by Canadian companies that may take place      on the Co-Branded Site up to and including [*] US in any given year.      Thereafter, any net revenues exceeding [*] US shall be shared fifty-fifty      between the parties (50% MediaLinx--50% HCI). HCI shall be entitled to all      proceeds generated from US companies on the Co-Branded Site. "Net revenue"      is defined as revenue less: 1) third party expenses directly related to the      acquisition of the revenue; for example, advertising broker commissions and      advertising management services, and 2) internally paid commissions for      selling the advertisement and/or sponsorship;
+
+(c)  Both Parties shall keep true and accurate books and records of all revenue      generated as a result of the Co-Branded Site. Either Party shall have the      right from time to time to audit and make extracts of the books and records      of the other, insofar as said books or records pertain to the terms of this      Agreement. Any such audit shall take place upon not less than seven (7)      days advance written notice, during normal business hours of normal      business days and at reasonable intervals. Any such audit shall be at the
+
+Source: HEALTHCENTRAL COM, S-1/A, 11/8/1999
+
+
+
+
+
+     requesting Party's expense, unless the audit determines that the other      party has underpaid by 10% or more. In the event that the calculation of      payments herein is determined by a computer-based system, then the "books      and records" shall include, without limitation, the machine-sensible data      (e.g. punch cards, magnetic tapes, discs; and
+
+(d)  Both Parties shall provide the other with quarterly accounting reports as      necessary. The quarterly reporting periods end September 30th and      December 31st, 1999, March 31st, 2000, and June 30th, 2000.      Applicable remittances and accounting reports will follow under separate      cover within sixty (60) days of the end of each quarter.
+
+[*] = CERTAIN INFORMATION ON THIS PAGE HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.
+
+                                                                               5
+
+7.  CUSTOMER INFORMATION
+
+Any and all customer data that is collected from the Co-Branded Site shall be collected and used in accordance with Canadian federal and provincial laws and U.S. Federal and State laws and both MediaLinx and HCI privacy guidelines and MediaLinx and HCI shall each own an undivided interest in such data. MediaLinx will not have access to the HCI Personal Health Records (being the longitudinal repository of personal health information about users of the Co-Branded Site) during or after the Term of this Agreement. During the Term of this Agreement and for a period of six (6) months thereafter, MediaLinx shall not use or publicly disclose the data collected from users of the Co-Branded Site if such use is for the purpose of providing health information, advertisements, or products that compete with those that reside on the Co-Branded Site. In other instances, MediaLinx shall be entitled to use or publicly disclose the data collected subject to privacy guidelines noted above.
+
+In addition to the foregoing, HCI shall ensure that the Co-Branded Site is integrated into the Sympatico site-wide registry in order for users to have a single login access for all Sympatico.ca and Sympatico co-branded web sites.
+
+8.  PAGE VIEWS
+
+Both MediaLinx and HCI shall be entitled to count the page views on the Co- Branded Site. In the event that it becomes necessary to have only one party count the number of page views on the Co-Branded Site, due to third party reporting, regulatory and/or legal requirements, HCI shall be entitled to count one hundred percent (100%) of the content page views of the Co-Branded Site and MLX shall be entitled to count one hundred percent (100%) of the HealthyWay discussion forum page views and one hundred percent (100%) of the page views on the Sympatico Health home page.
+
+9.  EXCLUSIVITY
+
+During the Term of the Agreement, and subject to the following requirements respecting Canadian content levels as set out in paragraphs 3(f), (g) and (h), HCI shall be the exclusive health content partner in the health section of the Sympatico web site, provided however, that nothing contained herein shall prevent MediaLinx from entering into an agreement with other parties for: i) a health based web directory; or ii) other health related content whose content does not compete with the content contained on the Co-Branded Site; which in no event shall receive no more than one fifth (1/5th) of the promotion and which shall constitute no more than one fifth (1/5th) of the total health related content which resides on the home page of the Sympatico Health section. In the event that MediaLinx obtains a web guide from a third party, MediaLinx and HCI shall discuss how to present both web guides to the user, and make best effort to agree to the kind of experience that the user shall have when utilizing the new web guide. If, at any time during the Term of this Agreement, HCI fails to meet the content requirements set out in paragraphs 3(f), (g) and (h), HCI shall no longer be entitled to be the exclusive health content partner in the health section of the Sympatico web site. HCI shall not either directly or indirectly license or deliver content to or carry on or be engaged with any other Canadian portal web site, being a Web site which aggregates and markets a variety of content directed to multiple communities of interest and which offers products,
+
+Source: HEALTHCENTRAL COM, S-1/A, 11/8/1999
+
+
+
+
+
+tools and services to a broad base of Canadian end users.
+
+                                                                               6
+
+10.  BRANDING & COMMUNICATIONS
+
+During the first six (6) months from the Launch date, the primary branding for the Co-Branded Site shall remain HealthyWay. In addition to the foregoing and subject to mutual design approval, a "Powered By HealthCentral" or such other appropriate tag line shall appear on the Co-Branded Site and shall be approximately 80% of the font size of the HealthyWay title and will be close to the HealthyWay brand. Thereafter, the HealthyWay and Health Central trademarks shall be co-branded in a mutually agreed upon method. The URL for the Co-Branded Site shall remain healthyway.sympatico.ca. A separate redirect URL may be set up for the Co-Branded Site, e.g. healthcentral.sympatico.ca.
+
+All electronic communications to the users of the Co-Branded Site shall be jointly developed, co-branded with each party's respective marks and shall be mutually agreed upon.
+
+11.  TERM & TERMINATION
+
+11.1  Term
+
+The term of this Agreement shall be for a period of two (2) years (the "Term"). The effective date of the start of the Term will be from the Launch Date.
+
+11.2  Termination
+
+(a)  Either Party may terminate this Agreement upon 30 days prior written notice      to the other Party if 1) such other Party breaches any material term of      this Agreement, unless such breach is cured within 30 days; or 2) if any of      the terms of this Agreement that require mutual approval are not mutually      agreed to;
+
+(b)  This Agreement may be terminated by a Party immediately, without notice:
+
+     (i)     upon the institution by or against the other Party of insolvency,              receivership, or bankruptcy proceedings or any other proceedings              for the settlement of the other Party's debts, if such proceedings              are not dismissed within sixty (60) days;
+
+     (ii)    upon the other Party making an assignment for the benefit of              creditors; or
+
+     (iii)   upon the other Party's dissolution;
+
+(c)  Either party may terminate this Agreement upon 30 days written notice if      either Party's corporate structure has undergone a material ownership      change such that its corporate interests are then in conflict with the      corporate interests of the other Party; and
+
+(d)  Upon termination or expiration of this Agreement for any reason:
+
+     (i)     the Parties shall immediately cease using the Marks of the other              Party;
+
+     (ii)    the Parties shall immediately return to each other all property of              the other and cease using or distributing all advertising or              promotional materials, if any, containing references to the other              Party or the other Party's product;
+
+     (iii)   the Parties shall remove all special links made pursuant to this              Agreement from their respective products of the other Party; and
+
+     (iv)    each Party shall pay to the other Party all outstanding amounts              which have accrued and are properly owing, including without              limitation, any New Account customer commission payments or net              advertising revenue owed outstanding together with any appropriate              final reports.
+
+                                                                               7
+
+Source: HEALTHCENTRAL COM, S-1/A, 11/8/1999
+
+
+
+
+
+11.3  The exercise of a right of termination or other right or remedy in       connection with this Agreement shall be without prejudice to any other       right or remedy to which the terminating party may be entitled under this       Agreement or applicable law.
+
+12.  REPRESENTATIONS & WARRANTIES
+
+(a)  MLX's Representations and Warranties.
+
+MLX represents and warrants that:
+
+(i)     it has full right, power and authority to enter into and be bound by the         terms and conditions of this Agreement and to perform its obligations         under this Agreement, without the approval or consent of any other         party;
+
+(ii)    it has sufficient right, title and interest in and to the rights granted         to HCI pursuant to this Agreement to enter and perform this Agreement         and to enable HCI to perform under this Agreement;
+
+(iii)   it owns all intellectual property in and to the MLX Marks and the         Sympatico Content, including but not limited to any and all creative         advertisement content, or has obtained all necessary licenses,         clearances, assignments and waivers in respect of any and all         intellectual property used in the Sympatico Content, including without         limitation waivers of moral rights necessary to publish, license and         distribute world-wide;
+
+(iv)    the use, reproduction, distribution or transmission of the Sympatico         Content will not violate any laws including criminal laws, commercial         laws, or any rights of any third parties including, but not limited to         such violations as infringement or misappropriation of copyright,         patent, trademark, trade defamation, invasion of privacy or rights of         celebrity, violation of any anti-discrimination law or regulation, or         any other right of any person or entity;
+
+(v)     it has all necessary skills and materials necessary to provide its         contributions to the Co-Branded Site as contemplated by this Agreement.         MLX shall perform the services described herein in a timely fashion with         all due skill, competence and diligence and the quality of the Co-         Branded Site shall meet both HCI's and MLX's standards of high quality         and excellence;
+
+(vi)    that the information contained in the MLX marks and the MLX content is         accurate, does not contain any material that is libelous, obscene,         misleading or otherwise harmful.
+
+(b)  HCI's Representations and Warranties.
+
+HCI represents and warrants that:
+
+(i)     it has full right, power and authority to enter into and be bound by the         terms and conditions of this Agreement and to perform its obligations         under this Agreement, without the approval or consent of any other         party;
+
+(ii)    it has sufficient right, title and interest in and to the rights granted         to MLX pursuant to this Agreement to enter and perform this Agreement         and to enable MLX to perform under this Agreement;
+
+(iii)   it owns all intellectual property in and to the HCI Marks and all         content HCI contributes to the Co-Branded Site (the "HCI Content")         including but not limited to any and all creative
+
+                                                                               8
+
+        advertisement content, or has obtained all necessary licenses,         clearances, assignments and waivers in respect of any and all         intellectual property used in the HCI Marks and the HCI Content,         including without limitation waivers of moral rights necessary to
+
+Source: HEALTHCENTRAL COM, S-1/A, 11/8/1999
+
+
+
+
+
+        publish, license and distribute world-wide;
+
+(iv)    the use, reproduction, distribution or transmission of the HCI Marks and         HCI Content will not violate any laws including criminal laws,         commercial laws, or any rights of any third parties including, but not         limited to such violations as infringement or misappropriation of         copyright, patent, trademark, trade defamation, invasion of privacy or         rights of celebrity, violation of any anti-discrimination law or         regulation, or any other right of any person or entity;
+
+(v)     the Co-Branded Site will function, operate and perform in all material         respects in accordance with the requirements described or incorporated         in the Agreement;
+
+(vi)    it has all necessary skills and materials necessary to provide its         contributions to the Co-Branded Site as contemplated by this Agreement.         HCI shall perform the services described herein in a timely fashion with         all due skill, competence and diligence and the quality of the Co-         Branded Site shall meet both HCI's and MLX's standards of high quality         and excellence;
+
+(vii)   that no advertisement submitted to MLX hereunder shall make use of any         subliminal technique and holds MLX and its affiliated and related         companies harmless against any loss or damage arising from the storage         and/or use of any and all advertising. HCI warrants that any and all         advertising that it submits complies with advertising standards in         Canada, including those of MLX and that the use, reproduction,         distribution, or transmission of such advertising will not violate any         criminal laws, commercial laws or any rights of any third parties,         including, but not limited to, such violations as infringement or         misappropriation of copyright, patent, trademark, trade secret, music,         image, video/full motion video or other proprietary or property right,         false advertising, unfair competition, defamation, invasion of privacy         or rights of celebrity, property right, false advertising, unfair         competition, defamation, invasion of privacy or rights of celebrity,         violation of any anti-discrimination law or regulation, or any other         right of any person or entity;
+
+(viii)  that the Co-Branded Site will function, operate and perform in all         material respects in accordance with the requirements described in the         Agreement; and
+
+(vix)   that the information contained in the HCI Marks and the HCI Content is         accurate, does not contain any material that is libelous, obscene,         misleading or otherwise harmful.
+
+13.  NO ADDITIONAL WARRANTIES
+
+a)   Except as specifically provided herein or as agreed to in writing by the      Parties, the services provided under this Agreement are not guaranteed and      are provided "as is" and MLX gives no representations, warranties or      conditions of any kind, express or implied, including without limitation      warranties as to insertion, display or loading of any advertisement,      sponsorship or integrated branded search engine uninterrupted or error free      operation of the Sympatico Web Site, any advertisement, sponsorship,      integrated branded search engine or link, merchantability, quality or      fitness for a particular purpose and those arising by statute or otherwise,      or from a course of dealing or usage of trade; and
+
+                                                                               9
+
+b)   Except as specifically provided herein or as agreed to in writing by the      parties: 1) the services provided under this Agreement are not guaranteed      and are provided "as is"; and 2) HCI gives no representations, warranties      or conditions of any kind, express or implied, including without limitation      warranties as to: insertion, display or loading of any advertisement,      sponsorship or integrated branded search engine uninterrupted or error free      operation of the co-branded Web Site, any advertisement, sponsorship,      integrated branded search engine or link, merchantability, quality or      fitness for a particular purpose and those arising by statute or otherwise,      or from a course of dealing or usage of trade.
+
+14.  INDEMNIFICATION
+
+Source: HEALTHCENTRAL COM, S-1/A, 11/8/1999
+
+
+
+
+
+(a)  By MLX: MLX agrees to indemnify and hold harmless HCI and its employees,      representatives, agents and affiliates from any and all liability, loss,      claims, damages or causes of action (each a "Claim"), including reasonable      legal fees and expenses that may be incurred by, arising out of or relating      to any claim that the MLX Marks or Sympatico Content or any MLX developed      advertising infringes in any manner any copyright, patent, trademark, trade      secret or any other intellectual property right of any third party;
+
+(b)  By HCI: HCI agrees to indemnify and hold harmless MLX and its employees,      representatives, agents and affiliates from any Claim including reasonable      legal fees and expenses that may be incurred by, arising out of or relating      to any third party claim that the HCI Marks or HCI Content or any HCI      developed advertising infringes in any manner any copyright, patent,      trademark, trade secret or any other intellectual property right of any      third party; and
+
+(c)  Procedure: All indemnification obligations under Section 14, shall be      subject to the following requirements:
+
+     (i)     the indemnified party shall provide the indemnifying party with              prompt written notice of any Claim;
+
+     (ii)    the indemnified party shall permit the indemnifying party to assume              and control the defense of any action upon the indemnifying party's              written acknowledgment of the obligation to indemnify; and
+
+     (iii)   the indemnified party shall not enter into any settlement or              compromise of any Claim without the indemnifying party's prior              written consent, which shall not be unreasonably withheld.
+
+     In addition, the indemnified party may, at its own expense, participate in      its defense of any Claim. In the event that the indemnifying party assumes      the defense of any such claim, the indemnifying party shall have no      liability for legal fees and costs incurred by the indemnified party.
+
+15.  LIMITATION OF LIABILITY
+
+EXCEPT WITH RESPECT TO THE INDEMNITY OBLIGATIONS IN SECTION 14, THE CONFIDENTIALITY OBLIGATIONS UNDER SECTION 16, AND THE YEAR 2000 COMPLIANCE OBLIGATIONS UNDER SECTION 20, NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED IN THIS AGREEMENT, UNDER NO CIRCUMSTANCES SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY WITH RESPECT TO THE SUBJECT MATTER OF THIS AGREEMENT UNDER ANY CONTRACT, NEGLIGENCE,
+
+                                                                              10
+
+STRICT LIABILITY, TORT OR OTHER LEGAL OR EQUITABLE THEORY FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF REVENUE OR GOODWILL OR ANTICIPATED PROFITS OR LOST BUSINESS), EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+16.  CONFIDENTIALITY
+
+Each Party shall keep confidential any information, data and reports obtained in connection with this Agreement, unless such information has been rightfully obtained from a third party or is generally available to the public, or as must be disclosed by law. Upon termination of this Agreement, each of the parties (the "Receiving Party") shall return to the other party (the "Disclosing Party") any records or copies thereof which it may have obtained from the Disclosing Party in connection with its review of the Disclosing Party's business, other than information otherwise rightfully obtained by Receiving Party, acting in good faith, from someone other than the Disclosing Party or generally available to the public. Each party shall hold the terms and provisions of this Agreement confidential and shall not disclose its terms to any person except to its management. Notwithstanding the foregoing, this Agreement and the LOI is subject to the terms and conditions of the Confidentiality and Non-Disclosure Agreement signed between the Parties dated May 3rd, 1999.
+
+17.  NO PUBLIC NOTICE
+
+Source: HEALTHCENTRAL COM, S-1/A, 11/8/1999
+
+
+
+
+
+No public announcement of the proposed transaction will be made by either Party unless the timing and content have been agreed upon in advance by both parties, except as may otherwise be required by law. It is understood though that MediaLinx may discuss this arrangement with its Sympatico Internet service providers and affiliates to the extent necessary to meet the proposed time lines.
+
+18.  COSTS
+
+Unless agreed to otherwise, each party will pay for its own costs and expenses in connection with this Agreement and the proposed activities contemplated herein, without limitation, legal fees, brokers, accountants and other professional advisors.
+
+19.  INDEPENDENT CONTRACTORS
+
+It is the intention of MLX and HCI that MLX and HCI are, and shall be deemed to be, independent contractors with respect to the subject matter of this Agreement, and nothing contained in this Agreement shall be deemed or construed in any manner whatsoever as creating any partnership, joint venture, employment, agency, fiduciary or other similar relationship between MLX and HCI.
+
+                                                                              11
+
+20.  YEAR 2000 COMPLIANCE
+
+Both MLX and HCI represent and warrant that their contributions to the Co- Branded Site are designed to be used prior to, during, and after the calendar year 2000 AD and will operate during each such time period without error relating to date data, specifically including any error relating to, or the product of, date data which represents or references different centuries or more than a century. Without limiting the generality of the foregoing, the Co-Branded Site: (i) will not abnormally end or provide invalid or incorrect results as a result of date data, specifically including date data which represents or references different centuries or more than one century; (ii) has been designed to ensure year 2000 compatibility, including, but not limited to, date data century recognition, calculations which accommodate same century and multi- century formulas and date values, and date data interface values that reflect the century; and (iii) includes "Year 2000 Capabilities". For the purposes of this Agreement, "Year 2000 Capabilities" means the Co-Branded Site (i) will manage, calculate, sequence, compare and manipulate data involving dates, including single century formulas and multi-century formulas, including leap years and will not cause an abnormally ending scenario within the application or generate incorrect values or invalid results involving such dates; (ii) provides that all date-related user interface functionalities and data fields include the indication of century; and (iii) provides that all date-related data interface functionalities include the indication of century.
+
+While HCI asserts that its code and scripts will execute properly, as described above, and that HCI uses third party software that specifies Y2K compliance, we can not guarantee that all third party software will perform as specified by the manufacturer. Should a third party product fail to meet its Y2K compliance policy, we will work with the vendor to remedy the problem in a timely fashion. HCI will ensure that it complies with any third party recommendations that are necessary for Y2K compliance.
+
+21.  GOVERNING LAW
+
+This Agreement shall be governed by and interpreted and enforced in accordance with the laws of the Province of Ontario and the Parties agree to abide by the jurisdiction of the Courts of Ontario.
+
+22.  ENTIRE AGREEMENT
+
+This Agreement, together with any and all attached exhibits and/or schedules, represents the entire agreement between MLX and HCI with respect to the subject matter herein and shall supercede all prior agreements, communications and understanding of the Parties, oral and/or written.
+
+23.  LEGAL FEES
+
+The prevailing Party in any legal action brought by one Party against the other and arising out of this Agreement shall be entitled, in addition to any other
+
+Source: HEALTHCENTRAL COM, S-1/A, 11/8/1999
+
+
+
+
+
+rights and remedies it may have, to reimbursement for its expenses, including court and arbitration costs, as well as reasonable legal fees.
+
+                                                                              12
+
+24.  SUCCESSORS AND ASSIGNS
+
+Except as provided in this Section, neither Party may assign its rights or obligations under this Agreement without the prior written consent of the other Party, which shall not be unreasonably withheld. Notwithstanding the foregoing, either party shall be permitted to assign this Agreement and any of its rights and obligations hereunder to an affiliate or related company or to a purchaser of all or substantially all of its Internet business, without obtaining the prior written consent of the other party.
+
+25.  FORCE MAJEURE
+
+Neither Party shall be liable for failure to perform or delay in performing any obligation under this Agreement if such failure or delay is due to fire, flood, earthquake, strike, war (declared or undeclared), embargo, blockade, legal prohibition, governmental action, riot, insurrection, damage, destruction or any other similar cause beyond the control of such Party.
+
+26.  NOTICES
+
+All notices, requests, consents and other communications which are required or permitted hereunder shall be in writing and shall be deemed given (a) when delivered in person at the time of such delivery or by telecopy with confirmed receipt of transmission at the date and time indicated on such receipt or (b) when received if given by an internationally recognized express courier service to the address specified below. Notice of change of address shall be given in the same manner as other communications.
+
+If to HCI:                    If to MediaLinx: - ----------                    ----------------
+
+HealthCentral.com Inc.        MediaLinx Interactive, L.P. 2600 Tenth Street             20 Richmond Street East, Suite 600 Berkeley, CA                  Toronto, Ontario, M5C 3B5 94710                         Attn: Director of Content                               Fax: (416) 350-1516                               with a copy to Legal Department:                               Fax No.: (416) 350-5212
+
+27.  COUNTERPARTS
+
+This Agreement may be executed in one or more counterparts, each of which shall be deemed an original and all of which, taken together, shall constitute one and the same instrument.
+
+28.  HEADINGS
+
+The section and article headings contained in this Agreement are included for convenience only, and shall not limit or otherwise affect the terms of this Agreement.
+
+                                                                              13
+
+                                  Schedule "1"
+
+MLX will run [*] advertising banners, promoting the Co-Branded Site each month, which shall run throughout the Sympatico.ca Site.
+
+MLX will promote the Co-Branded Site on the Sympatico.ca homepage in a frequent and timely fashion.
+
+MLX will promote the Sympatico Health Site through Sympatico.ca house advertising, from time to time.
+
+MLX will provide contextual integration of Health content into other areas of
+
+Source: HEALTHCENTRAL COM, S-1/A, 11/8/1999
+
+
+
+
+
+Sympatico.ca, as appropriate.
+
+MLX will provide a persistent link, in fold, from the Sympatico Health Site home page to the Co-Branded Site.
+
+MLX will provide a link to the Sympatico Health Site home page from the Sympatico.ca home page.
+
+[*] = CERTAIN INFORMATION ON THIS PAGE HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.                                                                               14
+
+                                  Schedule "2"
+
+MLX will use all commercially reasonable efforts to maintain the user traffic at a monthly minimum of:
+
+ .  [*] page views three (3) months after the launch of the Co-Branded Site;
+
+ .  [*] page views six (6) months after the launch of the Co-Branded Site; and
+
+ .  [*] page views twelve (12) months after the launch of the Co-Branded Site.
+
+[*]  = CERTAIN INFORMATION ON THIS PAGE HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION.  CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.
+
+                                                                              15
+
+                                  Schedule "3"
+
+HCI shall ensure that Canadian content and context is promoted and maintained within the Co-Branded Site in accordance with the following:
+
+Ensure that Canadian spelling is used throughout the site where possible. Ensure that non-relevant or inappropriate information is either removed or put into context for a Canadian user. Ensure that Canadian health information sourced from Canadian content providers is added to the site, where possible.
+
+Issues related to access to services: Canadian public health care system There is little notion of "managed care" in Canada Inclusion of Canadian "self help" resources
+
+Health related law & policy: Federal and provincial government funding of healthcare and the existence of a social safety net in Canada Allowed distribution of drugs Different roles related to pharmaceutical advertising
+
+Societal context of Canada: Canada's multicultural make up (e.g. Less Hispanics, more Asians) Likelihood of different health risk factors for Canadians Different behaviour of the Canadian population (e.g. travelling south for the winter, "snowbirds") Different health events e.g. "Heart month"
+
+Technicalities: Differences in drug names Canadian currency Metric system for measurement
+
+The Canadian voice: Important to highlight Canadian health experts e.g. Canadian health professionals, researchers, companies "local" events e.g. hospital closures, labour issues
+
+                                                                              16
+
+Source: HEALTHCENTRAL COM, S-1/A, 11/8/1999
+
+
+
+
+
+                                  Schedule "4"
+
+HCI will provide MLX with usage statistics in the following 2 formats:
+
+1) access to real time online statistics through a web browser including a number of preprogrammed usage reports, and
+
+2) a format mutually agreed to by HCI and MLX
+
+                                                                              17
+
+Source: HEALTHCENTRAL COM, S-1/A, 11/8/1999

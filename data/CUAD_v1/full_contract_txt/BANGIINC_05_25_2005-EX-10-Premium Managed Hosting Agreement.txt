@@ -1,0 +1,79 @@
+03/01/05
+
+607-1295 Richards Street   604.684.2255
+
+Vancouver, BC V6B1B7   deep@rrt.ca   deep systems
+
+
+
+
+
+Premium Managed Hosting Agreement
+
+This is a managed hosting agreement between AstroNutrition.com and deep systems.  The effective term is 12 months beginning March 1, 2005 and ending February 28, 2006.
+
+Included Monthly Services
+
+System Administration
+
+Management of SMTP, IMAP, DNS, SQL database and HTTP server software and systems for the AstroNutrition.com domain and web site.  This includes regular off-site backups of the website itself and the database.
+
+Change Management
+
+Management of site source code and integration of contributed software updates and bug fixes into zencart is included.
+
+Personal Technical Support
+
+24 x 7 emergency phone support and 1-business-day email response on non-critical issues.
+
+Includes a 99 percent server uptime guarantee.
+
+Available Professional Services
+
+Project Management
+
+Support of external development is charged at a rate of $55 CAD per hour.
+
+Custom Software Development
+
+New code enhancing the functionality of the system is charged at a rate of $55 CAD per hour.
+
+Terms of Agreement
+
+Managed hosting fees are $175 per month for a period of 12 months.  This includes up to 10 G of bandwidth, with overages at $20 for each 1 G beyond 10 in any given month. The billing cycle is the 1st of each month.
+
+D/WLM/717334.1
+
+
+
+
+
+
+
+- 2 -
+
+03/01/05
+
+607-1295 Richards Street   604.684.2255
+
+Vancouver, BC V6B1B7   deep@rrt.ca   deep systems
+
+
+
+
+
+Co-located Facilities
+
+Servers are co-located at 700 West Georgia in downtown Vancouver on UPS and backup generator power.
+
+Server Software
+
+- FreeBSD 5 Operating System - Apache 2 HTTP Server - MySQL 4 Database Server - AWStats Advancd Web Stats Package - WebDAV interface for external developers - Subversion Change Management System - Trac Issue Tracking System and Project Knowledge Base
+
+/s/ Ryan Thompson
+
+/s/ Chester Ku   Ryan Thompson, Deep Systems
+
+Chester Ku, Astro Nutrition
+
+D/WLM/717334.1       - 2 -

@@ -1,0 +1,159 @@
+Exhibit 10.7
+
+CONTENT LICENSE AGREEMENT
+
+This Content License Agreement (this "Agreement") is dated as of October 1, 2005 (the "Effective Date") and is by and between Emdeon Corporation a Delaware corporation ("Emdeon"), with offices at at 669 River Drive, Center 2, Elmwood Park, New Jersey 07407 and WebMD, Inc. a Georgia Corporation ("WebMD"), with offices at 111 Eighth Avenue, New York, NY 10011. Emdeon and WebMD expressly agree that this Agreement incorporates the Terms and Conditions attached hereto.
+
+WebMD agrees to grant, and Emdeon agrees to accept, a license to use the Content (as defined below) in connection with various software products it has all right title and interest to (the "Software") in accordance with the terms of this Agreement.
+
+Content to be provided under this Agreement is specified on Exhibit A (the "Content").
+
+Expiration Date: August 31, 2006
+
+AGREED TO AND ACCEPTED:               WebMD, Inc.   Emdeon Corporation               By:     By:
+
+              Name:    Name:
+
+              Title:     Title:
+
+
+
+Source: WEBMD HEALTH CORP., S-1/A, 9/8/2005
+
+
+
+
+
+
+
+EXHIBIT A
+
+CONTENT TO BE PROVIDED
+
+WebMD shall provide Content as follows:
+
+The entire set of Anatomical Line Drawings. Anatomical Line Drawings are printable line drawings intended for physicians to draw on and illustrate diseases and conditions to patients.
+
+-2-
+
+Source: WEBMD HEALTH CORP., S-1/A, 9/8/2005
+
+
+
+
+
+
+
+EXHIBIT B
+
+FEES
+
+Fees for the Content shall be $5,000 per year.
+
+Additional anatomical line drawings shall be licensed to Emdeon at an incremental charge of $150 per drawing.
+
+-3-
+
+Source: WEBMD HEALTH CORP., S-1/A, 9/8/2005
+
+
+
+
+
+
+
+TERMS AND CONDITIONS
+
+1. Content.
+
+(a) Description. WebMD hereby agrees to provide Emdeon the Content described on Exhibit A in accordance with the terms of this Agreement.
+
+(b) License. Subject to Emdeon's compliance with the provisions of this Agreement, Emdeon is hereby authorized and licensed to use the Content by making such Content available to third parties verbatim or as source material via the Software. Such license is a non-exclusive, non-transferrable and worldwide license and shall include the right to use, reproduce, copy and publish the Content solely in connection with the Software. Emdeon may determine the placement and formatting of the Content in the Software, but may not change the substance of the Content to any extent whatsoever without WebMD's written approval of the change.
+
+(c) Updates. If WebMD should reprint, issue a new edition, change or modify the edition, or otherwise enhance or edit the Content Emdeon has licensed (collectively, "Updates"), Emdeon has the option, at no additional cost, to receive the most recent Update. WebMD shall promptly notify Emdeon when a new Update is available.
+
+(d) Format. WebMD agrees to provide Emdeon the Content, including any Updates, in a mutually agreeable format (the "Format"). WebMD shall bear the cost of any reformatting necessary to provide the Content in the Format. Emdeon shall bear all the cost associated with the integration of the Content into the Software.
+
+(e) WebMD retains absolute editorial control over the Content. Nothing in this Agreement shall restrict WebMD's right to place other marks (such as third party marks) within the Content.
+
+(f) From time to time, WebMD will provide Content that supersedes and replaces Content previously provided (for example, a corrected news article). Promptly after receipt of replacement Content, Emdeon will either (a) remove the superseded Content and replace it with the replacement Content or (b) note at the top of the superseded Content that it has been replaced and give a hypertext link to the replacement Content.
+
+(g) WebMD does not provide medical or diagnostic advice or services. Emdeon agrees that the Content is to be used for informational and educational purposes only. Emdeon agrees that it shall not rely, or promote reliance, on the Content as a substitute for the professional judgment of a health care professional in diagnosing and treating patients.
+
+2. Intellectual Property. As between WebMD and Emdeon, WebMD or its suppliers retain all worldwide right, title, and interest in and to the Content. All rights in the Content not expressly granted by WebMD to Emdeon are reserved to WebMD. Except as expressly provided, no rights or licenses are intended or conveyed herein, whether by implication, estoppel, or otherwise.
+
+3. Term and Termination.
+
+(a) Term. This Agreement shall be effective as of the Effective Date and shall expire on the Expiration Date set forth above (the "Initial Term"), unless earlier terminated in accordance with Section 3(b). Upon mutual agreement, this Agreement may be renewed for one (1) additional one (1) year term upon the expiration of the Initial Term.
+
+(b) Termination. In addition to expiration of this Agreement as set forth in Section 3(a) hereof in the event either party fails to perform any of its material obligations hereunder, the other party may terminate this Agreement at its election after thirty (30) days written notice to the party of such breach, if such breach is not cured by the party within such thirty (30) day period.
+
+(c) Survival. All representations, warranties and indemnities shall survive the execution, delivery, suspension, expiration and/or termination of this Agreement or any provision hereof. Upon any expiration or termination of this Agreement, Emdeon shall have a reasonable period of time to remove the Content from the Software.
+
+4. Fees and Payment.
+
+-4-
+
+Source: WEBMD HEALTH CORP., S-1/A, 9/8/2005
+
+
+
+
+
+
+
+(a) Payments. In consideration for provision of the Content and all rights granted hereunder, Emdeon hereby agreed to pay WebMD the amounts set forth on Exhibit B of this Agreement. All amounts payable shall be due be due thirty (30) days after the receipt of WebMD's invoice.
+
+(b) Taxes. All payments under the Agreement are exclusive of all federal, state, local and foreign taxes, levies and assessments. Emdeon agrees to bear and be responsible for the payment of all such taxes, levies and assessments imposed on WebMD arising out of this Agreement, excluding any tax based on WebMD's net income. All fees charged hereunder by WebMD are net of any such taxes.
+
+(c) Late payments are subject to an interest charge, at the lower rate of (i) one and one-half percent (1.5%) per month, or (ii) the maximum legal rate.
+
+5. Trademark License.
+
+(a) Emdeon is hereby granted a non-exclusive and worldwide right to use WebMD's trademarks and logos ("Marks") for the purpose of identifying the origin of the Content during the term of this Agreement. These Marks may be used by Emdeon, in its sole discretion, in connection with the Content in the Software, and in any form, format, forum, media, medium, means or method by which the Content is delivered. Notwithstanding the foregoing, portions of the Software that contain Content shall include a WebMD Mark in appearance and format mutually agreed to by the parties.
+
+6. Disclaimer. WebMD MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, WITH RESPECT TO THE CONTENT OR THE ACCURACY OF THE CONTENT. WEBMD EXPRESSLY DISCLAIMS ALL WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND ALL WARRANTIES ARISING FROM CONDUCT, COURSE OF DEALING OR CUSTOM OF TRADE. IN NO EVENT WILL WEBMD OR ITS SUPPLIERS OR LICENSORS BE LIABLE UNDER ANY THEORY OF LIABILITY, HOWEVER ARISING, FOR ANY COSTS OF COVER OR FOR INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND ARISING OUT OF THIS AGREEMENT, OR THE PROVISION OR USE OF CONTENT, EVEN IF WEBMD HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. WEBMD'S AGGREGATE LIABILITY FOR ALL DAMAGES, LOSSES AND CAUSES OF ACTION IN ANY WAY RELATED TO THIS AGREEMENT OR THE CONTENT, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, EITHER JOINTLY OR SEVERALLY, SHALL NOT EXCEED FIFTY DOLLARS ($50). THIS SECTION REFLECTS AN ALLOCATION OF RISK BETWEEN THE PARTIES, IS NOT A PENALTY, AND SHALL BE EXCLUSIVE. THIS SECTION SHALL APPLY DESPITE ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED WARRANTY OR REMEDY.
+
+6. Confidentiality.
+
+(a) Confidential Information. "Confidential Information" means any data, materials or information that is disclosed by either party to the other party during the term hereof, in oral or written form, and which is marked or otherwise reasonably identified as "confidential" or "proprietary". Confidential Information also includes any information described in this Section which either party obtains from a third party under an obligation of confidentiality. Confidential Information does not include any data or information which the receiving party can demonstrate with competent written proof: (i) was already known to it at the time of disclosure; (ii) was independently developed by it without reference to the disclosing party's Confidential Information; (iii) is in the public domain; (iv) was rightfully disclosed to it by a third party without obligation of confidentiality; or (v) is required to be disclosed pursuant to any statutory or regulatory authority or court order, provided the disclosing party is given prompt written notice of such requirement and the scope of such disclosure is limited to the extent possible.
+
+(b) Trade Secrets. "Trade Secrets" shall mean Confidential Information, including but not limited to technical or non-technical data, a formula, a pattern, a compilation, a program, a device, a method, a technique, a drawing, a process, financial data, financial plans, product plans, or a list of actual or potential customers or suppliers, in any form or format, which is not commonly known by or available to the public and which: (i) derives economic value, actual or potential, from not being generally known to and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use, and (ii) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.
+
+(c) Requirements. During the term of this Agreement and for so long as such information remains a trade secret under applicable law, neither party will, except as otherwise expressly directed by the other
+
+-5-
+
+Source: WEBMD HEALTH CORP., S-1/A, 9/8/2005
+
+
+
+
+
+
+
+party, use, copy, or disclose, or permit any unauthorized person access to, any of the other party's Trade Secrets, except as expressly permitted herein and necessary for accomplishment of activities required hereby. During the term of this Agreement and for a period of two (2) years after termination hereof, neither party will use, copy, or disclose, or permit any unauthorized person access to, any of the other party's Confidential Information, except as expressly directed by such party or as permitted herein. The receiving party agrees to take reasonable precautions (no less rigorous than the receiving party takes with respect to its own comparable Confidential Information and Trade Secrets) to prevent unauthorized or inadvertent disclosure of the Confidential Information and Trade Secrets of the disclosing party.
+
+(d) Return of Information. The receiving party will, at the request of the disclosing party, during the term of this Agreement or thereafter (i) promptly return all Confidential Information and Trade Secrets held or used by the receiving party in whatever form, or (ii) at the discretion of the disclosing party, promptly destroy all such Confidential Information and Trade Secrets, including all copies thereof, and those portions of all documents that incorporate such Confidential Information and/or Trade Secrets.
+
+7. Assignment. Neither party shall have the right to sell, assign, transfer or hypothecate (all hereinafter referred to as "assign" or "assignment") this Agreement, or delegate any of its obligations hereunder, voluntarily or by operation of law, without the prior written consent of the other party. Any such purported assignment or delegation without such prior written consent shall be null and void and have no force and effect.
+
+8. General.
+
+(a) Notices. All material notices and other communications required or permitted under this Agreement shall be in writing and notices will be deemed given three (3) days after they are sent by first class mail, return receipt requested, and one (1) day after they are sent by overnight courier or upon receipt if delivered by hand delivery, to the receiving party's address as set forth in the first paragraph above, or to such other address that the receiving party may have provided in writing to the other party for purposes of receiving notices as provided in this Section.
+
+(b) Governing Law, Venue and Jurisdiction. This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without application of conflict of laws principles.
+
+(c) Force Majeure. Neither party shall be held responsible for any inability to perform occasioned by labor strife, war, riot, fires, embargoes, floods, government requirements, or other similar events beyond the control of such party.
+
+(d) Relationship. WebMD's relationship to Emdeon shall be that of an independent contractor. Nothing herein shall create any association, partnership, joint venture or agency relationship between WebMD and Emdeon. Without limiting the generality of the foregoing, it is expressly understood and agreed that WebMD shall have no authority whatsoever to make any representations or commitments to or enter into any agreements with any third party on behalf of Emdeon.
+
+(e) Severability and Non-Waiver. In the event any provision of this Agreement shall be found to be contrary to any law or regulation of any federal, state or municipal administrative agency or body, the other provisions of this Agreement shall not be affected thereby but shall notwithstanding continue in full force and effect. No waiver by either party hereto of any breach or default by the other party shall be construed to be a waiver of any other breach or default by such other party. Resort to any remedies referred to herein shall not be construed as a waiver of any other rights and remedies to which either party is entitled under this Agreement or otherwise nor shall an election to terminate be deemed an election of remedies or a waiver of any claim for damages or otherwise.
+
+(f) Counterparts. This Agreement may be executed in one or more counterparts, each of which will be deemed original, but all of which will constitute one and the same instrument.
+
+(g) Complete Agreement. This Agreement, including the attached Exhibits, constitutes the entire understanding between the parties with respect to the subject matter hereof and all prior understandings, whether oral or written, have been merged herein and are superseded hereby. This Agreement may not be altered or modified except in writing signed by both parties hereto.
+
+-6-
+
+Source: WEBMD HEALTH CORP., S-1/A, 9/8/2005

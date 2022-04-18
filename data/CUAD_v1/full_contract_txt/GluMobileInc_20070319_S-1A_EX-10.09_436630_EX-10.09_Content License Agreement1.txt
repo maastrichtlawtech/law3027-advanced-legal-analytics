@@ -1,0 +1,1325 @@
+Exhibit 10.09
+
+***** CONFIDENTIAL TREATMENT REQUESTED
+
+Agreement Number 12965
+
+WIRELESS CONTENT LICENSE AGREEMENT
+
+This License Agreement (this "Agreement") is entered into effective as of December 16, 2004, (the "Effective Date") by and between TWENTIETH CENTURY FOX LICENSING & MERCHANDISING, a division of Fox Entertainment Group, Inc. ("Fox"), as Administrator for Twentieth Century Fox Film Corporation ("Trademark Licensor"), and Sorrent, Inc. ("Licensee"). Fox and Licensee are collectively referred to as the "parties" and each individually as a "party."
+
+RECITALS:
+
+WHEREAS, Trademark Licensor owns the rights to develop, manufacture, publish, and distribute entertainment applications based on the story, plot, theme, distinctive creative elements and name/logo (collectively, the "PSM") appearing in the theatrical motion pictures set forth on Exhibit A attached hereto (individually, the "Property" and collectively, the "Properties," and further designated as "Major Release(s)" and "Targeted Release(s)"); and
+
+WHEREAS, Fox is the administrator of such rights for Trademark Licensor; and
+
+WHEREAS, Licensee is engaged in the business of, among other things, developing and producing interactive entertainment applications for wireless communication devices, such as mobile telephones; and
+
+WHEREAS, Licensee desires to obtain a license from Fox to develop a variety of wireless products utilizing elements of the PSM and to be operated on mobile/cellular telephones; and further to publish, license, promote, distribute and sell such wireless products to end users through communications service provider(s) and portals providing wireless products ("CSP(s)") on the terms and conditions set forth herein; and
+
+WHEREAS, Fox and Vodafone Group Services Limited ("VGSL") have entered into a wireless content distribution agreement ("VGSL Agreement") whereby Fox is to be the content provider for VGSL wireless products relating to various Properties, and Fox desires a license to distribute Wireless Products to VGSL pursuant to the VGSL Agreement.
+
+AGREEMENT
+
+NOW, THEREFORE, the parties do hereby agree as follows:
+
+1. GRANT OF RIGHTS:
+
+(a) Wireless Products and Wireless Platform: Fox grants to Licensee a limited, exclusive (except as otherwise may be provided in this Agreement), non-transferable (except as permitted in Paragraph 17(d)) right and license to use, make, have made (as set forth in Paragraph 1(a)(i) below), reproduce, modify, and create derivative works of
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+
+
+*****  The omitted portions of this exhibit have been filed with the Securities and Exchange Commission pursuant to a request for confidential treatment under Rule 406 promulgated under the Securities Act of 1933.
+
+-1-
+
+
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+the PSM in each Property, solely for the purpose of developing the wireless applications specifically set forth for each of the Properties on Exhibits B through M attached hereto ("Wireless Products"), some of which Wireless Products are defined in the Glossary attached hereto as Exhibit N. To the extent not specified in this Agreement the parties will agree upon the specific Wireless Products to be developed for each Property in accordance with the procedure set forth in Paragraph 2. Notwithstanding the foregoing, Licensee acknowledges that it shall be obligated to develop all Wireless Products set forth on Exhibits B, C, D, and G, and any other Wireless Products for other Properties that the parties mutually agree in writing will be added to the VGSL Agreement for distribution by VGSL (the "VGSL Products"). The Wireless Products shall utilize elements of the PSM and shall be operated on mobile or cellular telephones. Furthermore, Fox grants to Licensee a limited, exclusive (except as may otherwise be provided in this Agreement), non-transferable (except as permitted in Paragraph 17(d)) right and license to make, have made, reproduce, modify, create derivative works of, advertise, promote, distribute, sell and license the Wireless Products, including any PSM included therein, solely (i) for use on mobile or cellular telephones (the "Wireless Platform"); (ii) in the Territory (as defined in Paragraph 3), (iii) during the Term (as defined in Paragraph 4), (iv) for distribution by Licensee through the Distribution Channels (as defined in Paragraph 2(c)) granted herein; and (v) by means of periodic subscription fee, a per-download basis, or through a retail purchase. Nothing contained herein shall be construed as granting Licensee the right to develop and/or distribute video clips and/or trailers for the Properties, except where Fox expressly agrees to development and/or distribution of such video clips and/or trailers.
+
+(i) Sublicense: Licensee shall be permitted to sublicense the rights and licenses granted herein to third party contractors of Licensee, solely for purposes of development and distribution of the Wireless Products on behalf of Licensee in accordance with this Agreement; provided that such third party contractors have entered into binding written agreements with Licensee that are no less protective of Fox's intellectual property rights than are the terms and conditions of this Agreement, and provided further that Licensee will not subcontract development of any video games hereunder without Fox's prior written approval of the third party game development contractor. Notwithstanding the foregoing, Licensee shall remain the primary contact under this Agreement and shall remain liable for all obligations performed by a sublicensee.
+
+(ii) Substitution of Properties and Addition of Properties: Fox reserves the right to remove any Property listed on Exhibit A in the event that Fox determines not to theatrically release such Property or is found to be legally prohibited from engaging in the development and sale of Wireless Products in connection with such Property, and shall replace the removed Property with a like Property, which designation shall be subject to the mutual agreement of Fox and Licensee. Any further additions to Exhibit A shall also be subject to the mutual agreement of Fox and Licensee, provided however Fox shall reasonably determine if the Property constitutes a Major Release or a Targeted Release consistent with its past practices. In no event will the number of Major Releases and Targeted Releases included as Properties licensed to Licensee under this Agreement be less than four (4) and eight (8) respectively.
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-2-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+(iii) Addition of Wireless Products: The parties may amend this Agreement to include additional Wireless Products for the Properties set forth on Exhibit A, subject to their mutual agreement in writing, provided that if they are unable to agree upon such additions within five (5) business days of a request from Fox, Fox will have the right to develop or have developed the requested Wireless Products for the relevant Property notwithstanding the exclusivity granted to Licensee in this Agreement.
+
+(b) Bundling: Neither party will solicit or enter into any agreement with any third party regarding the bundling of the Wireless Products with any other property (including a Fox property) or with any other products and services including preloading, OEM and soft bundling, except as mutually agreed between the parties. The parties will mutually agree upon the terms of each bundling transaction, the nature of the bundle, the timing, and any new or different royalties for such bundling on a case-by-case basis.
+
+(c) Third-Party Promotions: Neither party may solicit or enter into any agreement with any third party regarding third-party promotional opportunities with respect to the Wireless Products without the other party's prior written consent; provided that the foregoing will not limit Licensee's rights to market and promote the Wireless Products directly and through (i) CSPs, subject to any Fox approval rights set forth elsewhere in this Agreement, or (ii) Fox's right to engage in third party promotions for the Properties involving wireless content otherwise sourced or created.
+
+(d) Excluded Products: For the avoidance of any doubt, the rights granted in Paragraph 1(a) and (b) shall be specifically limited to the Wireless Products for the Wireless Platform and shall not extend to any other device, platform, operating system or distribution method, whether wired or wireless, pursuant to which interactive entertainment software may be delivered to or accessed by end-users, including, but not limited to, the following: (i) traditional entertainment software console platforms, such as Sony PlayStation and PlayStation 2, Microsoft Xbox, and Nintendo GameCube and successor platforms; (ii) desktop or laptop computer systems, such as PC Windows, Macintosh, (iii) hand-held electronic dedicated gaming devices (e.g., Nintendo's GameBoy Color and GameBoy Advance handheld devices, Sony's PSX handheld device, and Tiger Electronic hand- held devices); (iv) pay-per-play arcade systems and other forms of location-based entertainment; (v) interactive toys; (vi) television, whether via cable, satellite, set-top boxes or other on-demand service; (vii) massively multiplayer games; (viii) internet gaming and (ix) any other technology now known or hereafter devised. Except as otherwise specifically stated herein with respect to the Wireless Products, Licensee shall have no right to develop, manufacture, reproduce, distribute, sell or exploit any other products based on the PSM or the Property.
+
+(e) Fox's Reservation of Rights: Fox expressly reserves and retains any and all rights that are expressly excluded from or not specifically granted to Licensee pursuant to this Agreement, including but not limited to the following:
+
+(i) Development/Exploitation/Distribution: the right to develop, publish, and/or distribute (or grant a third party the right to develop, publish, and/or distribute) other wireless products or wireless content of any nature which may be derived from the Properties (and further, to exploit same) which are similar or in direct
+
+Wireless Content License Agreement Multiple Properties /Sorrent, Inc. / Final PLZ
+
+-3-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+competition with the Wireless Products at any time in Japan including during the Term and within Japan, provided that Fox will not grant to any other party any such rights to develop, publish, and/or distribute Wireless Products for the Wireless Platform to end users outside of Japan (with the exception of those distribution rights for Wireless Products granted to VGSL under the VGSL Agreement in accordance with Paragraph 1(f) of this Agreement), or provide to any Licensee Competitor (as defined in Exhibit Q) any Licensee Materials or otherwise grant any rights to any Licensee Competitor to develop, publish, and/or distribute Wireless Products, or other wireless products or content based on the Properties. Fox has not granted and will not grant any exclusive distribution rights with respect to the Wireless Products to VGSL or any other party; and
+
+(ii) Use of Fox's Logo or Other Intellectual Property Rights: the right to use the Fox logo or trademark, or any other trademark(s), logo(s) or copyrights owned by Fox other than those specifically set forth herein in the manner set forth; and
+
+(iii) Video Clips and Trailers: except as may otherwise be provided in this Agreement, the right to develop and/or distribute (or grant a third party the right to develop and distribute) video clips and/or trailers for the Properties. At any time during the Term, Fox may distribute directly (or grant a third party the right to distribute) video clips and/or trailers to CSPs in connection with the Properties; and
+
+(iv) SMS/Text Messaging: the right to develop, market and distribute (or grant a third party the right to develop, market and distribute) SMS or text messaging in connection with the Properties; and
+
+(v) Promotional Content: the right to develop and/or distribute (or grant a third party the right to develop and/or distribute) free promotional and/or give-away content in connection with the Properties, provided that Fox will use all reasonable efforts to make mention of the Wireless Products developed by Licensee, or cause the third party to do the same, in the context of the promotion and/or give-away.
+
+(f) Licensee's Grant of Rights. Subject to Fox's compliance with the terms and conditions of this Agreement, including its payment obligations in accordance with Section 7, Licensee hereby grants to Fox a limited, non-exclusive, non-transferable (except as permitted in Section 17(d)), right to distribute Licensee Materials (as defined in Paragraph 11 (c)) to VGSL and T-Mobile, solely as incorporated into Wireless Products, and to authorize VGSL and T-Mobile to distribute such Wireless Products to end users outside of the United States. Fox's rights in the Licensee Materials will be limited to those expressly granted in this Paragraph 1(f). Licensee reserves all rights and licenses in and to the Licensee Materials not expressly granted to Fox in this Section 1(f). Any other marketing, distribution, or sale of the Wireless Products and/or Licensee Materials by Fox will be subject to Licensee's prior written consent, in Licensee's reasonable discretion.
+
+2. DEVELOPMENT AND DISTRIBUTION OF THE WIRELESS PRODUCTS:
+
+(a) Development: Subject to Fox's delivery of the PSM Materials (as defined in Paragraph 2(a)(i) below), Licensee shall be obligated to create, develop, and publish the Wireless Products, pursuant to the terms and conditions of this Agreement. Subject to
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-4-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+Fox's approval rights, Licensee shall assume full responsibility for the creation, development and production of the Wireless Products, which shall include, without limitation, (A) designing the creative and technical specifications for the Wireless Products, (B) creating all computer code for the Wireless Products, (C) creating all visual assets for the Wireless Products, (D) acquiring and/or licensing any and all other technology, software and hardware needed for purposes of creating and distributing the Wireless Products, (E) ensuring compatibility of technology with the CSPs to which Licensee grants distribution rights, which shall include without limitation VGSL and T-Mobile, (the "Licensed CSPs"), and (F) conducting quality assurance testing of the Wireless Products. For the avoidance of doubt, Licensee acknowledges and agrees that Fox will have no development obligations whatsoever with respect to the Wireless Products, and further that Fox's sole role with respect to such development will be limited to delivering the PSM Materials, supervising Licensee's obligations with respect to same, granting or denying approvals as set forth hereunder, providing photos, style guides and other materials to Licensee where necessary, and collaborating with Licensee on the creative direction with respect to the Wireless Products.
+
+(i) Delivery of PSM Materials. For each of the Properties identified in or added by mutual agreement to Exhibit A, Fox will provide to Licensee no later than ***** prior to the release of any games to be developed in connection with each Property and no later than ***** prior to the release of any other wireless applications to be developed in connection with each Property, some or all of the following items, to the extent available, on a Property-by-Property basis and only in electronic format where available: style guides, one-sheets (art used for movie poster), digital images, audio clips, storyboards, video tapes of trailers as they are produced, hard-copy scripts, publicity photos, and non-trailer video which shall only be available for viewing on the Fox lot premises (collectively, the "PSM Materials"). For the avoidance of doubt, Licensee will not be provided electronic copies of any scripts. Fox will update the PSM Materials provided to Licensee as new or different materials become available.
+
+(ii) VGSL Development: Licensee expressly acknowledges and agrees that Fox has entered into the VGSL Agreement with VGSL for the development of certain Wireless Products set forth on Exhibits B, C, D and G, in connection with the following Properties: "Robots;" Untitled Ridley Scott Film; "Ice Age 2;" and "Mr & Mrs. Smith." Licensee shall be obligated to develop such Wireless Products, and distribute them as set forth in Paragraph 2(c)(ii) below, on behalf of Fox.
+
+(iii) Development for Japan: Upon Fox's notice to Licensee, Licensee shall immediately cease all development, publication and distribution of the Wireless Products in Japan.
+
+(iv) Music and Sound Effects: If Licensee seeks to use music or sound effects from any of the Properties in connection with the development of the Wireless Products, such use shall be subject to the advance written approval of Fox, and, if applicable, Fox Music, Inc., c/o the Vice President, General Manager, Fox Music Publishing ("Fox Music"). Subject to Fox and Fox Music's approval, Licensee shall be solely responsible for any and all third party payments that may arise out of the
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+
+
+*****  The omitted portions of this exhibit have been filed with the Securities and Exchange Commission pursuant to a request for confidential treatment under Rule 406 promulgated under the Securities Act of 1933.
+
+-5-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+approved use of the music from the Property in connection with the Wireless Products, including without limitation any royalties, mechanical fees, residuals, publishing fees, license fees, reuse fees or other guild-related payments. In such event, Licensee shall pay directly to Fox Music a separate Royalty, at a rate subject to good faith negotiation between Licensee and Fox Music, on sales of the Wireless Products incorporating such music. Further, Licensee shall obtain the prior written approval of Fox Music concerning the final music arrangement to be so utilized and provide Fox Music with two samples of the final, approved Wireless Products prior to the sale or distribution thereof.
+
+(A) No License for Music Realtones or Trutones: For the avoidance of doubt, nothing herein shall be construed as granting Licensee the right to develop and/or distribute any Wireless Products containing music Realtones or Trutones (each as defined in Exhibit N).
+
+(b) Release:
+
+(i) The Wireless Products: Subject to the timely delivery of the PSM Materials to Licensee by Fox, Licensee shall deliver the Wireless Products to VGSL a minimum of ***** before the initial theatrical release of each Property in each of the VGSL Territories as defined in Paragraph 2(c)(ii) (A) below, and to the other Licensed CSPs within such time frames mandated by such Licensed CSPs so as to enable the release of the Wireless Products ***** prior to the initial theatrical release of each Property in each of the Territories as defined in Paragraph 3 below (the "Wireless Products Latest Commencement Date"). If Licensee fails to make the Wireless Products commercially available to the CSPs by the Wireless Products Latest Commencement Date, and such failure is not due solely to any delay by Fox in delivery of the PSM Materials, Fox shall have the right to terminate this Agreement immediately upon notice to Licensee and all rights to utilize the PSM shall automatically revert to Fox; provided that, subject to Paragraph 9(b)(ii) below, Fox will not exercise the right to terminate with respect to any delayed delivery of Wireless Products for films that have their initial theatrical release prior to June 30, 2005; and provided further that nothing in this Paragraph 2(b)(i) will limit Fox's indemnification under Paragraph 14 or any other rights and remedies Fox may have under this Agreement. Licensee shall use all commercially reasonable efforts to cause the Licensed CSPs to make available to end users the Wireless Products for each of the Major Releases and Targeted Releases no later than ***** prior to the initial theatrical release of each of the Major Releases and Targeted Releases.
+
+(c) Distribution:
+
+(i) CSP Distribution: Licensee shall distribute the Wireless Products to end users through the Licensed CSPs and each Licensed CSP's respective Internet portals and distribution systems ("Distribution Channel").
+
+(A) Minimum Subscriber Market Penetration: Licensee shall use all commercially reasonable efforts to secure distribution of the Wireless Products through CSPs and to ensure that the Wireless Products are
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+
+
+*****  The omitted portions of this exhibit have been filed with the Securities and Exchange Commission pursuant to a request for confidential treatment under Rule 406 promulgated under the Securities Act of 1933.
+
+-6-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+available on substantially all medium and high volume handsets of all Licensed CSPs, which for the purposes of this obligation shall include VGSL.
+
+(1) Major Releases: Licensee furthermore shall use all commercially reasonable efforts to achieve the following market penetration targets in Europe for the Major Releases ("Market Penetration Targets"): (1) distribution of the Wireless Products for the Major Releases through CSP's that hold at least ***** (*****%) of the subscribers in Western Europe during the ***** of this Agreement; and (2) distribution of the Wireless Products for the Major Releases through CSP's that hold at least ***** percent (*****%) of the subscribers in Western Europe during the ***** of this Agreement. If Licensee fails to reach the Market Penetration Targets Fox shall in its sole discretion have the right to terminate Licensee's exclusivity under this Agreement. In the event of termination of Licensee's exclusivity for Licensee's failure to achieve the Market Penetration Targets, Fox shall not distribute the Wireless Products which have been developed by Licensee prior to such termination, without first obtaining a license from Licensee on terms to be mutually agreed in each party's reasonable discretion, for the exploitation of the Licensee Materials.
+
+(2) Targeted Releases: Fox acknowledges that Licensee may not be able to secure placement of all Targeted Releases at the levels set forth for the Market Penetration Targets defined in the previous sub-Paragraph. Notwithstanding the foregoing, Licensee shall use all commercially reasonable efforts to secure the widest possible distribution of the Wireless Products derived from the Targeted Releases in Europe.
+
+(ii) VGSL and T-Mobile Distribution: For the Territories (as defined in Paragraph 3 below) set forth in Paragraph 2(c)(ii)(A) below, Licensee expressly acknowledges and agrees that Fox has entered into the VGSL Agreement with VGSL for the development of certain Wireless Products as set forth in Paragraph 2(a)(ii) above, and for the distribution of such Wireless Products. Fox has also entered into a separate agreement with T-Mobile to permit T-Mobile to distribute certain Wireless Products to end users outside of the United States the "T-Mobile Agreement"). Licensee hereby grants all licenses to Fox to enable Fox to provide Wireless Products to VGSL and T-Mobile for distribution to VGSL and T-Mobile subscribers outside of the United States in accordance with the terms of this Agreement, and shall further deliver such Wireless Products to VGSL and T-Mobile on behalf of Fox. Licensee further acknowledges and agrees that pursuant to the VGSL Agreement and the T-Mobile Agreement, VGSL and T-Mobile will remit directly to Fox all receipts generated from sales of the Wireless Products to VGSL and T-Mobile subscribers. Fox will pass through all such receipts received from VGSL and T-Mobile to Licensee and such receipts shall be treated as Gross Receipts, as defined in Paragraph 7(a)(ii) below, for the purpose of this Agreement. Licensee shall not enter into an exclusive distribution agreement with
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+
+
+*****  The omitted portions of this exhibit have been filed with the Securities and Exchange Commission pursuant to a request for confidential treatment under Rule 406 promulgated under the Securities Act of 1933.
+
+-7-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+a CSP in any of the VGSL Territories listed in Paragraph 2(c)(ii)(A) below, and Fox has not granted and will not grant any exclusive distribution rights to VGSL or T-Mobile. Fox and Licensee will cooperate together in good faith, on a schedule to be mutually agreed, to jointly manage the VGSL and T-Mobile relationships with respect to the Wireless Products, subject to willingness on the parts of VGSL and T-Mobile to so cooperate. Notwithstanding the foregoing, any conversations undertaken between Fox and VGSL and/or T-Mobile without Licensee's participation shall not be a breach of this provision.
+
+(A) Non-Exclusive CSP Distribution in VGSL Territories: Under no circumstances shall Licensee enter into an exclusive distribution agreement with a CSP other than VGSL in the following territories ("VGSL Territories") covered under the VGSL Agreement: (1) United Kingdom; (2) Ireland; (3) Germany; (4) Spain; (5) France; (6) Sweden; (7) Switzerland; (8) Portugal; (9) Netherlands; (10) Greece; (11) Italy; (12) Australia; (13) New Zealand; (14) Egypt; (15) Slovenia; (16) Belgium; (17) Austria; (18) Hungary; (19) Malta; (20) Croatia; (21) South Africa; and (22) Japan.
+
+(iii) Japan Distribution: Upon Fox's notice to Licensee, Licensee shall cease immediately some or all distribution of the Wireless Products in Japan. In the event Fox provides such termination notice to Licensee, Licensee hereby grants Fox a license to the Licensee Materials in order for Fox to distribute the Wireless Products that Licensee has developed for distribution in Japan prior to such termination, either directly or through a third-party. In consideration of such license, Fox shall pay Licensee a royalty as set forth in Paragraph 7(b)(i) below.
+
+(iv) Unless otherwise mutually agreed between Fox and Licensee, Licensee will require each Licensed CSP to distribute Wireless Products to end users only for the payment of a fee; provided that Licensee may permit limited distribution (i.e. one Wireless Product per Property in each category of Wireless Products and including only one game level for each game) of Wireless Products without a fee for promotional or marketing purposes. The fees will typically appear on the end user's Wireless Platform bill and be remitted by the end user to the CSP pursuant to an agreement between the end user and the CSP. The CSP will in turn remit fees to Licensee (less any Deductions as that term is defined in Paragraph 7(a)(ii) below) pursuant to an agreement between Licensee and the CSP. Licensee will then remit royalties to Fox in accordance with Paragraph 7, below.
+
+3. TERRITORY: Licensee shall use commercially reasonable efforts to exploit the rights granted hereunder throughout the world (the "Territory"), including without limitation all of the following VGSL Territories set forth in Paragraph 2(c)(i)(B) above: (1) United Kingdom; (2) Ireland; (3) Germany; (4) Spain; (5) France; (6) Sweden; (7) Switzerland; (8) Portugal; (9) Netherlands; (10) Greece; (11) Italy; (12) Australia; (13) New Zealand; (14) Egypt; (15) Slovenia; (16) Belgium; (17) Austria; (18) Hungary; (19) Malta; (20) Croatia; (21) South Africa; and (22) Japan. Licensee shall localize the Wireless Products into the following languages: English, French, German, Italian, Spanish, and Japanese. In addition to the previously stated languages, to the extent practicable Licensee also shall localize the Wireless Products to be delivered to VGSL into Portuguese, Greek, Dutch and Swedish, to the extent that the Properties
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-8-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+are dubbed into such languages, Fox holds foreign rights to the dubbed tracks, and such dubbed tracks are timely available.
+
+4. TERM: The rights granted hereunder shall be effective as of the Effective Date and shall expire on December 31, 2006 (the "Term"); provided, however, that with respect to each Property, all rights and licenses granted herein will continue in full force and effect for a period of eighteen (18) months after the initial theatrical release of that Property.
+
+(a) Licensee's Right of First Negotiation on New Properties: For the Term of this Agreement, Fox hereby grants to Licensee a right of first negotiation with respect to those theatrical motion pictures released during the Term of this Agreement (in addition to the Properties identified in Exhibit A) in which (i) Fox owns or controls licensing and merchandising rights, for which Fox determines in its sole discretion to grant to any third party any licensing rights for the development and distribution of wireless products, and (ii) which theatrical motion pictures Fox reasonably deems to be a Major Release consistent with its past practices. The Right of First Negotiation shall be exercised as follows. Whenever Fox desires to grant to any third party any licensing rights for a Major Release (each such instance, an "Opportunity"), Fox shall request that Licensee submit a bid regarding the Opportunity. If Licensee intends to exercise its Right of First Negotiation, it must submit a bid in response to Fox's request within 10 business days. If Licensee does submit a bid, both parties shall negotiate in good faith over the bid for a reasonable period of time, not to exceed 10 additional business days. If the parties have not reached agreement in writing regarding the terms and conditions for the exploitation of the Opportunity within said time period, or if Licensee fails to submit a bid in a timely manner, Fox shall be free to accept any bid from any other party with respect to the Opportunity, or Fox shall be free not to exploit the Opportunity at all. Should Licensee choose to exercise its Right of First Negotiation, its floor bid shall be at least US$***** for each Major Release (as defined in Exhibit N).
+
+5. ADVANCE: Licensee shall pay Fox a non-refundable recoupable advance in the amount of US$***** upon Licensee's signature of this Agreement (the "Advance"). The Advance shall be treated as the first installment of the Guarantee described in Section 6(a), and will be recoupable against royalties as part of the Guarantee.
+
+6. GUARANTEE:
+
+(a) Amount: Licensee shall pay to Fox a non-refundable guarantee in the amount of US$***** ("Guarantee"), inclusive of the Advance. The Guarantee shall be recoupable against royalty payments and payable as follows: (a) US$***** inclusive of the Advance above; (b) US$***** on or before *****; (c) US$***** on or before *****; (d) US$***** on or before *****; (e) US$***** on or before *****; (f) US$***** on or before *****; and (g) US$***** on or before *****. There shall be no cross-collateralization among the Royalties earned, as defined in Paragraph 7 below, for the purposes of recouping the Guarantee for any of the Major Releases or Targeted Releases.
+
+(b) Individual Property Guarantees: Notwithstanding the payment schedule set forth in Paragraph 6(a) above, a minimum recoupable guarantee (each "Individual Property
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+
+
+*****  The omitted portions of this exhibit have been filed with the Securities and Exchange Commission pursuant to a request for confidential treatment under Rule 406 promulgated under the Securities Act of 1933.
+
+-9-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+Guarantee") shall be apportioned from the Guarantee set forth in Paragraph 6(a) above to each of the individual Major Releases and Targeted Releases set forth on Exhibit A as follows for the purposes of determining recoupment of Guarantees and Royalty payments attributable to each of the Major Releases and Targeted Releases as set forth in Paragraph 7 below:
+
+(i) Major Releases: The Individual Property Guarantee for each of the Major Releases set forth on Exhibit A shall be US$*****.
+
+(ii) Targeted Releases: The Individual Property Guarantee for each of the Targeted Releases set forth on Exhibit A shall be US$*****.
+
+(c) Overages: At such time that Fox has earned in Royalties, as defined in Paragraph 7 below, the amount of an Individual Property Guarantee attributable to a specific Property, Licensee shall then remit to Fox on a quarterly basis in accordance with Paragraph 7(c) all Royalties due and payable in excess of such Individual Property Guarantee. Notwithstanding the foregoing, all Guarantee installments shall remain due and payable in accordance with the schedule of payments set forth in Paragraph 6(a) above and may not be allocated or apportioned to Royalty overages due.
+
+7. ROYALTIES:
+
+(a) Payments from Licensee to Fox: In consideration of the rights granted to Licensee pursuant to this Agreement, Licensee shall pay to Fox, or such other party as Fox may designate in writing, a royalty in the following amounts:
+
+(i) Major Releases:
+
+(A) Until such time as ***** percent (*****%) of an Individual Property Guarantee for a Major Release is recouped by Licensee, Fox shall earn, and credit against the Individual Property Guarantees, Royalties at the rate of ***** percent (*****%) of Licensee's Gross Receipts from Licensee's sale, license, distribution or other exploitation of the Wireless Products derived from the respective Major Release; and
+
+(B) Thereafter and until such time as ***** percent (*****%) of an Individual Property Guarantee for a Major Release is recouped by Licensee, Fox shall earn and Licensee shall pay to Fox Royalties at the rate of ***** percent (*****%) of Licensee's Gross Receipts from Licensee's sale, license, distribution or other exploitation of the Wireless Products derived from the respective Major Release; and
+
+(C) Thereafter (and for the remainder of the Term), Fox shall earn and Licensee shall pay to Fox Royalties at the rate of ***** percent (*****%) of Licensee's Gross Receipts from Licensee's sale, license, distribution or other exploitation of the Wireless Products derived from the respective Major Release.
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+
+
+*****  The omitted portions of this exhibit have been filed with the Securities and Exchange Commission pursuant to a request for confidential treatment under Rule 406 promulgated under the Securities Act of 1933.
+
+-10-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+(ii) Targeted Releases:
+
+(A) Until such time as ***** percent (*****%) of an Individual Property Guarantee for a Targeted Release is recouped by Licensee, Fox shall earn, and credit against the Individual Property Guarantees, Royalties at the rate of ***** percent (*****%) of Licensee's Gross Receipts from Licensee's sale, license, distribution or other exploitation of the Wireless Products derived from the respective Targeted Release; and
+
+(B) Thereafter (and for the remainder of the Term), Fox shall earn and Licensee shall pay to Fox Royalties at the rate of ***** percent (*****%) of Licensee's gross receipts from Licensee's sale, license, distribution or other exploitation of the Wireless Products derived from the respective Targeted Release.
+
+Royalties shall accrue when the Wireless Products are sold, downloaded or otherwise distributed to the end user, whichever first occurs, and shall become payable upon receipt by Licensee. "Gross Receipts" shall mean all monies received by or credited to Licensee for download of the Wireless Products by end users less only monies actually retained by the CSPs (the "Deductions").
+
+(b) Payments from Fox to Licensee: In consideration of the rights granted by Licensee to Fox and VGSL pursuant to this Agreement, Fox shall pay to Licensee, or such other party as Licensee may designate in writing, a royalty in the following amounts:
+
+(i) Distribution in Japan. In the event that Fox distributes, licenses, or otherwise exploits the Wireless Products in Japan pursuant to Paragraph 2(c)(iii), or grants to any third party any rights to distribute the Wireless Products for the Wireless Platform to end users within Japan, or otherwise uses in Japan any elements of the Fox Intellectual Property (as defined in Paragraph 11(a) that are solely attributable to Licensee's development efforts pursuant to this Agreement, Fox agrees to pay Licensee a royalty in the amount of ***** percent (*****%) of Fox's gross receipts for any such activity, which shall be defined as all monies actually received by Fox for the Wireless Products or other such elements of the PSM, less any Deductions.
+
+(ii) VGSL Payments: As set forth in Paragraph 2(c)(ii) above, pursuant to the VGSL Agreement, VGSL will remit directly to Fox Fox's contractual share (pursuant to the VGSL Agreement) of all revenue from sales of the Wireless Products by VGSL in the VGSL Territories ("VGSL Revenue"). Fox will remit all VGSL Revenue to Licensee and such VGSL Revenue shall be treated as Gross Receipts for the purpose of this Agreement. The VGSL Revenue shall be treated in accordance with Paragraph 7(a) in calculating Royalties due to Fox from Licensee.
+
+(iii) Other Payments: To the extent that Fox enters into an agreement with a CSP other than VGSL with Licensee's consent in accordance with Paragraph 1(f),
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+
+
+*****  The omitted portions of this exhibit have been filed with the Securities and Exchange Commission pursuant to a request for confidential treatment under Rule 406 promulgated under the Securities Act of 1933.
+
+-11-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+whereby Fox's contractual share of revenue from the sale of the Wireless Products to the CSP's subscribers is remitted directly to Fox from the CSP, Fox will pass through all such revenue from the CSP to Licensee and such revenue shall be treated as Gross Receipts for the purpose of this Agreement. Payments of all royalties from the sale of Wireless Products through any such arrangements shall be made by Licensee to Fox in accordance with Paragraph 7(b) above. Except as otherwise provided under this Agreement, Fox hereby agrees not to enter into any future agreements with a CSP for the distribution of the Wireless Products without the involvement and prior written agreement of Licensee.
+
+(iv) For the avoidance of doubt, Fox will have no right or license to develop, publish, and or distribute any Wireless Products for the Wireless Platform, or to permit any third party to do so, or to otherwise use or exploit any Licensee Materials, except in accordance with Paragraphs 1(b) (with respect to bundling), 2(c)(iii) (with respect to Japan), and 2(c)(ii) (with respect to VGSL and T-Mobile).
+
+(c) Payment Terms. Payment of all royalties and other payments by either party to the other shall be made in United States Dollars by check or wire transfer to a bank account to be designated by the receiving party. Payment of all royalties shall be made without deduction, reduction or set-off of any kind, provided that the paying party shall be permitted to deduct withholding taxes as permitted by applicable law. Each party agrees that it shall not be entitled to withhold any portion of the royalties as a reserve. Each party agrees to provide the other with all necessary withholding tax forms.
+
+(d) Accounting Statement: Royalty statements (which statements shall be on the form attached hereto as Exhibit O and incorporated herein by this reference or such other form as the receiving party may designate in its discretion) shall be due and payments made within thirty (30) days after the close of each calendar quarter in which the paying party received any applicable revenue. Each party shall keep a record of all sales and shall submit, together with the royalty statements, a quarterly summary report of such sales. Notwithstanding the foregoing, pursuant to Paragraphs 7(b) (2) and 7(b)(3), Fox shall make all payments of revenue remitted directly by VGSL or any other CSP with whom the parties prospectively agree Fox will receive revenue directly, within thirty (30) days of receipt of such revenue.
+
+(e) Books and Records: Each party shall keep accurate and complete books and records as they relate hereto for the greater of three years from the Effective Date or two years from the termination or expiration of the Term. On reasonable notice, each party shall have the right to examine said books and records; provided that such examination will be made no more than twice in any given twelve month period, and shall be made during normal business hours. If any audit discloses that a party owes royalties in excess of 5% of royalties paid during any accounting period, the audited party shall pay the audit costs together with shortfall and interest at rates as specified in Paragraph 7(e) below.
+
+(f) Late Payments: If a party does not receive the applicable royalty payment as specified on or before the thirtieth day after the close of any calendar quarter, the party owing such royalty shall pay interest with respect to any royalties owed from day to day until the date of payment at a rate of 5% above U.S. Prime Rate on an annual basis. Interest on royalties owed calculated in accordance with this Paragraph shall accrue after
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-12-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+as well as before any judgment. Neither the acceptance of any payment or royalty statement nor the deposit of any check shall preclude a party from questioning the correctness of any such payment or royalty statement at any time.
+
+8. DUTIES OF LICENSEE:
+
+(a) Marketing and Promotion: Licensee shall be responsible for all marketing, advertising and promotional efforts with respect to the Wireless Products throughout the Territory during the Term. Licensee shall (A) participate in face to face meetings and conference calls regarding marketing from time to time, the frequency, location and subject matter of which shall be mutually agreed; (B) submit a separate marketing plan for the Wireless Products for each Property for which Fox has approved a Treatment (as defined in Paragraph 9(a)(ii)) within thirty (30) days of Fox's approval of such Treatment, subject to Fox's providing sufficient information regarding its release plans for the applicable Property (each, a "Marketing Plan"); (C) commit funds to the marketing of the Wireless Products as is commensurate with Licensee's marketing efforts of other similar wireless products that Licensee publishes; (D) perform business to business and trade marketing efforts (e.g., to the CSPs) commensurate with industry standards; and (E) appoint a marketing point of contact which shall be responsible for coordinating communications and facilitating relationships between Fox and Licensee and for overseeing the performance of Licensee's obligations hereunder.
+
+All marketing materials for the Wireless Products that incorporate and/or make reference to any part of the PSM or the Properties (collectively, the "Licensee Marketing Materials") shall be subject to Fox's approval as follows:
+
+(i) Licensee Marketing Materials: Licensee shall be responsible for producing the Licensee Marketing Materials, all of which shall be subject to Fox's prior written approval, at Licensee's sole cost and expense. Licensee will submit samples of all Licensee Marketing Materials to Fox for review and approval prior to Licensee's use of the Licensee Marketing Materials. Fox shall endeavor to review the Licensee Marketing Materials within two (2) weeks of receipt thereof, provided however, a delayed Fox response shall not constitute a deemed approval under any circumstances. Only after Fox has approved the Licensee Marketing Materials may Licensee proceed with production thereof. Once approval has been granted by Fox, Licensee will not make alterations, modifications or revisions to the Licensee Marketing Materials without the prior written consent of Fox.
+
+(ii) CSP Marketing Materials: If any Licensed CSP seeks to incorporate any element of the PSM in its advertising, marketing, packaging (if any), consumer and trade publicity and promotional materials as well as any collateral materials related thereto ("CSP Marketing Materials"), Licensee shall ensure that such Licensed CSP obtains Fox's approval in accordance with Paragraph 8(a)(i). Licensee shall submit any such proposed CSP Marketing Materials on the CSP's behalf. Once Fox has approved any such CSP Marketing Materials and notified Licensee, Licensee shall notify the CSP and Licensee and the CSP may proceed with production thereof, provided there are no alterations from the approved packaging.
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-13-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+(b) Product Support: Licensee shall provide all customer product support, including technical support, for the Wireless Products in the same manner as it provides such support for any other product that it distributes and/or publishes, and in any case in accordance with wireless industry standards. Licensee will display (and ensure that the CSP displays) a toll free telephone number (or an email address, in Licensee's discretion, on a country by country basis) on its website so that customers may contact Licensee and/or the CSP regarding the Wireless Products ("Customer Request"). Licensee and/or the CSP will use all commercially reasonable efforts to respond to each such Customer Request within 24 hours after receipt of such request. Licensee shall exercise commercially reasonable efforts to resolve each such Customer Request. Licensee also shall respond to all inquiries from VGSL relating to the Wireless Products delivered to VGSL.
+
+(c) Solicitation of Sales: So long as the Agreement has not been terminated or otherwise expired, Licensee shall use all commercially reasonable efforts to promote sales of the Wireless Products during the Term of this Agreement.
+
+(d) No Preferential Treatment: Licensee agrees that it will use substantially similar efforts to advertise, promote, manufacture, sell and distribute the Wireless Products as it devotes to its other licensed products.
+
+(e) Compliance with all Laws: Licensee shall comply with all laws, rules, treaties, and regulations governing the distribution of the Wireless Products throughout the Territory.
+
+(f) Internet Data: Licensee shall comply with COPPA regulations as well as with Fox's Internet Privacy Policy with respect to the collection of any consumer information via the Internet. The policy is attached hereto as Exhibit P and incorporated herein by this reference.
+
+(g) Localization: Licensee shall localize the Wireless Products into the following languages: English, French, German, Italian, Spanish, and Japanese, with Portuguese, Greek, Dutch and Swedish to be made available where practicable to the extent that the Properties are dubbed into such languages, Fox holds foreign rights to the dubbed tracks, and such dubbed tracks are timely available.
+
+(h) Optimization: Licensee shall be required to optimize the Wireless Products for all Territories and Licensed CSPs.
+
+(i) Compatibility Testing: Licensee shall be responsible for any compatibility testing of the Wireless Products required by CSPs, and further shall be responsible for the following: (i) quality assurance of the Wireless Products which is consistent with industry standards; and (ii) adequate operation and functionality of the Wireless Products on the Wireless Platform in connection with each Licensed CSP's networks. To the extent that a material bug or defect is discovered in the Wireless Products which impacts in any manner the functionality of the Wireless Products, Licensee will promptly investigate and correct such bugs or defects, whether discovered by Licensee, Fox, the Wireless Platform manufacturer(s) or the CSP(s). As between Fox and Licensee, all costs of performing the foregoing obligations shall be borne by Licensee.
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-14-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+9. FOX APPROVALS:
+
+(a) Wireless Products Approval: Fox shall have the right to approve the Wireless Products in accordance with the procedure set forth below. Licensee acknowledges that Fox's approval shall include the approval of any third party who has approval rights over any of the Properties, as applicable.
+
+(i) Creative Meetings: Licensee shall participate in face to face creative meetings with Fox on a monthly basis to determine which Wireless Products shall be developed for upcoming Major Releases and Targeted Releases. The parties will mutually agree upon the list of Wireless Products for each Property, and will amend the applicable Exhibit for that property upon reaching such agreement. Notwithstanding the foregoing, Licensee shall develop the Wireless Products set forth in Exhibits B through M for each Property.
+
+(ii) Concept / Treatment: For each of the Major Releases and Targeted Releases, within ***** after receipt from Fox of the applicable PSM Materials, Licensee will deliver to Fox a concept / treatment for the applicable Wireless Products, which will outline the technical and creative aspects of the Wireless Products (each, a "Treatment"). Each Treatment shall be subject to Fox's approval, which approval is within Fox's discretion. Once a Treatment is approved by Fox and to the extent the approved Treatment requires compatibility input from a Licensed CSP, it shall be Licensee's sole responsibility to secure concept approval from such Licensed CSP. If the Licensed CSP requires changes, modifications or alterations to a Treatment, or to any element of the Wireless Products, Licensee shall seek Fox's written approval of any such change, which approval may be withheld in Fox's sole discretion.
+
+(iii) Design Document: Once a given Treatment is approved by Fox, Licensee shall then submit to Fox a game design document ("Design Document") which will lay out the creative and technical aspects for the Wireless Product, including how Licensee intends to use the Property and the PSM in the Wireless Product. The Design Document shall be subject to Fox's written approval, which approval is within Fox's sole discretion.
+
+(iv) Alpha Testing: Upon approval of the Design Document by Fox, Licensee shall submit a prototype of the applicable Wireless Product, which demonstrates all of the features and functions set forth in the Design Document, although colors, graphics and related elements need not be in their final form (each, an "Alpha Prototype"). Each Alpha Prototype will be subject to Fox's written approval, which approval will be in Fox's sole discretion.
+
+(v) Beta Testing: Upon approval of the Alpha Prototype, Licensee shall submit a post-Alpha prototype of the Wireless Product meeting all Alpha requirements and in substantial conformance with the Design Document, with all features and functions implemented and in which all interface, memory allocation and code size issues are effectively addressed (each, a "Beta Prototype"). Each Beta Prototype will have passed Licensee's established testing procedures and have no known Bugs. Each Beta Prototype shall be subject to Fox's written approval, which
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+
+
+***** The omitted portions of this exhibit have been filed with the Securities and Exchange Commission pursuant to a request for confidential treatment under Rule 406 promulgated under the Securities Act of 1933.
+
+-15-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+approval will be in Fox's sole discretion. After Fox has approved a Beta Prototype, Licensee shall be free to release the Beta Prototype as a final commercial product.
+
+(A) Modifications: After approval of a Beta Prototype, Licensee shall not modify the Wireless Products without the prior written approval of Fox. For purposes of this paragraph, porting, enhancements, optimization (which alters the content displayed in any material manner) and localization shall be deemed a modification requiring Fox's prior written approval. Notwithstanding the foregoing, Porting that does not require substantive changes to a Wireless Product will not be deemed a modification requiring Fox's prior approval.
+
+(b) Approval Process:
+
+(i) Evaluation: Fox shall approve or reject in writing all Treatments, Design Documents, Alpha Prototypes, and Beta Prototypes submitted to it for its approval (each individually a "Deliverable"). Fox's approval or rejection of all Deliverables shall be rendered in good faith.
+
+(ii) Rejection: If Fox rejects any Deliverable, Fox shall provide to Licensee, in writing, the reasons for its rejection of that Deliverable. Licensee shall then use commercially reasonable efforts to make the changes to that Deliverable and resubmit the Deliverable to Fox for Fox's reconsideration. If Fox rejects a given Alpha Prototype more than twice based on a reason previously notified to Licensee by Fox, then Fox may terminate this Agreement in whole or with respect to the affected Property and Wireless Products and shall reserve all remedies available under this Agreement. Notwithstanding the foregoing, Fox will not terminate this Agreement for rejection of any Deliverables related to Properties that have their initial theatrical release prior to June 30, 2005, provided such Deliverables are accepted and delivered not later than ***** after the U.S. theatrical releases for each of the following Properties: "Robots"; "Mr. & Mrs. Smith"; and Untitled Ridley Scott Film.
+
+(iii) Collaborative Process: The parties intend that development of the Wireless Products will be a collaborative effort between Fox and Licensee, such that Fox shall have a reasonable opportunity to provide input into the primary aspects of each Wireless Product through the review and approval procedure described above, including, but not limited to, the look and feel of the Wireless Products, art direction, as well as the use of the Property (and all elements therefrom) in the Wireless Products and in the advertising, promotion and marketing thereof in accordance with this Agreement. Licensee understands and agrees that approval of any two-dimensional artwork does not constitute approval of the implementation of the artwork in the Wireless Products.
+
+(iv) Timing: Fox shall endeavor to approve or reject in writing all Deliverables and all materials submitted to it for its approval within two (2) weeks of Fox's receipt thereof. If Fox does not approve or reject in writing a Deliverable within two (2) weeks of its receipt and causes a significant delay in the development of the
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+
+
+***** The omitted portions of this exhibit have been filed with the Securities and Exchange Commission pursuant to a request for confidential treatment under Rule 406 promulgated under the Securities Act of 1933.
+
+-16-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+Wireless Products, then Fox and Licensee shall mutually and in good faith discuss and agree to any adjustments in the Wireless Products Latest Commencement Date which are necessary due to such delay. Fox shall not terminate this Agreement for Licensee's delay in delivery of the Wireless Products, where such delay is solely caused by Fox's failure to deliver the PSM Materials in a timely manner in accordance with Paragraph 2(a)(i). Fox reserves the right to terminate this Agreement in accordance with paragraph 2(b)(i) where Licensee's delay in delivery of the Wireless Products is the result of Fox's disapproval of the Deliverables.
+
+10. PRICING: As between Fox and Licensee, Licensee will be responsible for determining the prices and/or fees at which the Wireless Products will be offered for sale to the general public but will do so in accordance with Licensee's agreements with the CSPs. Licensee acknowledges that VGSL will be responsible for making pricing decisions for the Wireless Products distributed through VGSL, provided that Fox will not agree to any reduction in the share of revenue it receives from VGSL, other than the ***** percent (*****%) reduction in Fox's revenue share for late delivery provided for in the current version of the VGSL Agreement.
+
+11. INTELLECTUAL PROPERTY RIGHTS:
+
+(a) Intellectual Property Rights Defined: For purposes of this Agreement, the term "Intellectual Property Rights" means know-how, inventions, patents, patent rights, and registrations and applications, renewals, continuations and extensions thereof, works of authorship and art, copyrightable materials and copyrights (including, but not limited to, titles, computer code, designs, themes, objects, characters, character names, stories, dialog, catch phrases, concepts, artwork, animation, sounds, musical compositions, graphics and visual elements, audio-visual effects and methods of operation, and any related documentation), copyright registrations and applications, renewals and extensions thereof, mask works, industrial rights, trademarks, service marks, trade names, logos, trademark registrations and applications, renewals and extensions thereof, trade secrets, rights in trade dress and packaging, publicity, personality and privacy rights, rights of attribution, paternity, integrity and other similarly afforded "moral" rights, and all other forms of intellectual property and proprietary rights recognized by the U.S. laws, and other applicable foreign and international laws, treaties and conventions.
+
+(b) Fox Intellectual Property: Fox shall own all Intellectual Property Rights in and to any derivative works made from the Properties, whether or not used in the Wireless Products, including without limitation design documents, graphics, animation, music, packaging, advertising, promotional and other artwork used in connection with the development and distribution of the Wireless Products but at all times excluding the Licensee Materials as defined in Paragraph 11(c) below (collectively, the "Fox Intellectual Property"). The Fox Intellectual Property includes all rights in and to the entire "look and feel" of the Wireless Products, all visual displays, scripts, dialogue, literary treatments, concepts, characters, backgrounds, environments, and other elements visible to the Wireless Products' users; all sounds, sound effects, soundtracks and other elements audible to the user. Licensee acknowledges and agrees Fox shall be the exclusive owner of these rights as a work made for hire. Licensee acknowledges that Licensee's use of any Property shall not confer or imply a grant of rights, title or interest in the Property or good will associated therewith, except as specifically provided herein.
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+
+
+***** The omitted portions of this exhibit have been filed with the Securities and Exchange Commission pursuant to a request for confidential treatment under Rule 406 promulgated under the Securities Act of 1933.
+
+-17-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+Fox's Intellectual Property Rights shall be indefeasible and irrevocable and shall not be subject to reversion under any circumstance, including cancellation, termination, expiration, or breach of this Agreement. Licensee further agrees to execute one or more copyright assignments at Fox's request, or any other subsequent document as further evidence of this assignment, and to cooperate with Fox in perfecting the assignment of any rights to the Fox Intellectual Property, and hereby appoints Fox as its attorney-in-fact to execute any documents required in connection with such assignment. All materials created hereunder shall be prepared by an employee-for-hire of Licensee under Licensee's sole supervision, responsibility and monetary obligation, or, if third parties who are not employees of Licensee, including without limitation all software developers developing the Wireless Products contribute to the creation of any Fox Intellectual Property, Licensee shall obtain from such third parties a full written assignment of rights so that all right, title and interest in the Fox Intellectual Property shall vest in Fox.
+
+(c) Licensee Materials: Licensee owns and shall retain all right, title, and interest in and to (i) all software source code, tools, and technical documentation used by or for Licensee to create the Wireless Products, including without limitation any and all software code included in the Wireless Products, (ii) all aspects and elements of the Wireless Products other than the Fox Intellectual Property therein, including without limitation any and all gaming engines, game concepts, rules, scripts, and other Intellectual Property Rights therein; and (iii) any and all Intellectual Property Rights in any of the foregoing (the "Licensee Materials").
+
+(d) Moral Rights: Licensee hereby does expressly assign to Fox any and all rights of paternity or integrity, rights to claim authorship, to object to any distortion, mutilation or other modification of, or other derogatory actions in relation to the PSM, the Fox Intellectual Property, and any of Fox's Intellectual Property Rights in and to the PSM and or the Fox Intellectual Property and any derivative works thereof, whether or not such would be prejudicial to Fox's honor or reputation, and any similar right, existing under judicial or statutory law of any country in the world, or under any treaty ("Moral Rights"), regardless of whether such right is denominated or generally referred to as a moral right. Licensee hereby does irrevocably transfer and assign to Fox any and all Moral Rights that Licensee may have in Fox's Intellectual Property Rights in and to the PSM and the Fox Intellectual Property and any derivative works thereof and shall cause Licensee's employees and contractors, including Licensee's developers of the Wireless Products, to do likewise. Licensee hereby does forever waive and agree never to assert any and all Moral Rights it may have in Fox's Intellectual Property Rights in and to the PSM and the Fox Intellectual Property and any derivative works thereof and shall cause its employees and contractors (including the developers) to do likewise.
+
+(e) Licensee Cooperation: Licensee shall not by any act or omission to act impair or prejudice the Intellectual Property Rights of Fox in the PSM, the Fox Intellectual Property or the Properties, or violate any moral rights or deal with the PSM, the Fox Intellectual Property or Properties so that any third party might obtain any lien or other right of whatever nature incompatible with the Intellectual Property Rights of Fox. Licensee agrees to notify Fox of any known or suspected infringement of Fox's Intellectual Property Rights in the PSM and the Property that comes to Licensee's attention and to assist Fox, at Fox's expense, in taking such action as Fox, in its sole discretion, deems necessary or appropriate to prevent or remedy such infringing activities. Licensee shall
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-18-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+also promptly notify Fox in writing of any legal proceeding instituted, or written claim or demand asserted, by any third party against Licensee with respect to the infringement of any Intellectual Property Rights that is alleged to result from the use of the PSM or the Properties in connection with the Wireless Products in accordance with this Agreement.
+
+(f) First Sale Doctrine Not Applicable: The PSM is licensed, not sold, by Fox to Licensee, and nothing in this Agreement will be interpreted or construed as a sale or purchase of the PSM, including but not limited to any use of a "purchase order" by Licensee in connection with the transactions contemplated hereunder. Furthermore, notwithstanding use of the terms "sale" and "sell" throughout this Agreement, any distribution or delivery of the Wireless Products by Licensee to any sublicensee (including, without limitation, CSPs and end-users) will be by license and not by sale (and Licensee shall post notice of that fact in sufficient size, location and manner on Licensee's website on the page from which the general public can subscribe to the Wireless Products). Accordingly, Licensee acknowledges that the "First Sale Doctrine" (as embodied in 17 U.S.C., Paragraph 109 of the United States Copyright Act of 1976, as amended, or the equivalent law or statute in the Territory) does not apply to Licensee's acquisition of rights in and to the PSM and the Property hereunder or to any sublicensee's acquisition of rights in and to the Wireless Products under any agreement between Licensee and a sublicensee.
+
+12. TRADEMARKS AND COPYRIGHTS; FOX'S TITLE AND GOODWILL:
+
+(a) Intellectual Property Notices: Licensee agrees to place on Licensee's website and in the Wireless Products, and on the packaging and related documentation, if any, and Marketing Materials for the Wireless Products, all trademarks, copyright notices, logos and other legal or proprietary designations of Fox in the form and manner reasonably directed by Fox, including, without limitation, a notice indicating that the Wireless Products are produced by Licensee under license from Fox. All copyrights, trademarks and service marks relating to the Properties, PSM Materials, and Fox Intellectual Property, are, will be and shall remain the sole property of Fox and any rights therein granted to Licensee shall terminate immediately upon termination of this Agreement. All goodwill and reputation attaching to such copyrights, trademarks and service marks shall vest in Fox. Licensee shall create, execute and deliver to Fox all documents and instruments reasonably required by Fox for the protection of or otherwise in connection with the copyrights, trademarks and service marks of Fox. Licensee shall not have the right to use Fox's trademarks or trade names except in connection with the promotion and distribution of the Wireless Products in the Territory in accordance with the terms of this Agreement. Notwithstanding the foregoing, Licensee may include a notice for the Licensee Materials, where appropriate.
+
+(b) Goodwill: Licensee acknowledges that Fox is the owner of all right, title and interest in and to the PSM and the Properties, and further acknowledges the great value of the goodwill associated with the PSM and the Properties and that the PSM and the Properties have acquired secondary meaning in the mind of the public and that the trademarks and copyrights included in the PSM and the Properties, and the registrations thereof, are valid and subsisting, and further agrees that it shall not during the Term of this Agreement or at any time thereafter dispute or contest directly or indirectly, or do or cause to be done any act which in any way contests, impairs or tends to impair Fox's
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-19-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+exclusive rights and title to the PSM and the Properties, or the validity thereof or the validity of this Agreement, and shall not assist others in so doing.
+
+(c) Cooperation: Licensee shall not in any manner represent that it has any ownership in the PSM or the Properties, or in any trademarks or copyrights included in the PSM or the Properties (or registrations thereof), but may, only during the Term, and only if Licensee has complied with any and all applicable laws and registration requirements within the Territory for so doing, represent that it is a "licensee" or "official licensee" hereunder. Licensee shall not register or attempt to register any copyright or trademark in the Properties, in its own name or that of any third party, nor shall it assist any third party in doing so.
+
+13. REPRESENTATIONS AND WARRANTIES:
+
+(a) By Licensee: Licensee represents and warrants to Fox that:
+
+(i) Governmental Authority: Licensee has full power and authority to enter into and perform this Agreement without approval from any governmental entity or third party, and that such ability is not limited or restricted by any agreements or understanding between Licensee and any other person or company;
+
+(ii) Corporate Authority: The execution, delivery and performance by Licensee of this Agreement have been duly authorized by any and all necessary corporate action by Licensee, and this Agreement constitutes the legal, valid and binding obligation of Licensee enforceable in accordance with its terms;
+
+(iii) Expertise: Licensee possesses the expertise and know-how and experience to develop the Wireless Products and is otherwise fully capable of performing its obligations under this Agreement;
+
+(iv) Infringement: The Licensee Materials and any other computer code, technology, information, art or other materials created, developed or used by Licensee pursuant to this Agreement will not infringe upon or misappropriate the Intellectual Property Rights or any other legal rights of any third party, and should any aspect of the Licensee Materials, or such other computer code, technology, information, art or materials created, developed or used by Licensee pursuant to this Agreement, become, or, in Fox's opinion, be likely to become, the object of any infringement or misappropriation claim or suit, Licensee will procure, at Licensee's expense, the right to use such Licensee Materials, computer code, technology, information, art or other materials in all respects, or will replace or modify the affected material to make it non- infringing; and
+
+(v) Licensee Conduct: Licensee will (A) conduct its business in a manner that reflects favorably at all times on the Property, the Wireless Products and the good name, goodwill and reputation of Fox, (B) avoid deceptive, misleading or unethical practices, that are or might be detrimental to Fox, the Property, the Wireless Products or the public, (C) avoid making disparaging, false or misleading statements or representations with regard to Fox, the Property or the Wireless Products, (D) not employ or cooperate in the employment of any deceptive or
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-20-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+      misleading advertising material with regard to Fox, the Property or the Wireless Products, (E) make no representations, warranties or guarantees to customers or to the trade with respect to the specifications, features or capabilities of the Wireless Products that are inconsistent with the warranties and disclaimers included in or with the Wireless Products, (F) not sell the Wireless Products to any party who it knows, or reasonably should know, will infringe Fox's Intellectual Property Rights in the Wireless Products, and (G) comply with all applicable international, national, regional, and local laws in performing its duties hereunder and in any of its dealings with respect to the Wireless Products.
+
+  (b)   By Fox: Fox represents and warrants to Licensee that:
+
+      (i) Authority: Fox has full power and authority to enter into and perform this Agreement, and that such ability is not limited or restricted by any agreements or understanding between Fox and any other person or company. The execution, delivery and performance by Fox of this Agreement have been duly authorized by any and all necessary corporate action by Fox, and this Agreement constitutes the legal, valid and binding obligation of Fox enforceable in accordance with its terms.
+
+      (ii) No Representations/Warranties Regarding Revenue: Notwithstanding the representations and warranties made by Fox in this Paragraph 13(b), Fox makes no representations or warranties whatsoever regarding the amount of revenue that may be generated by sales of the Wireless Products.
+
+14.  INDEMNIFICATION:
+
+    (a) By Licensee: Licensee agrees to indemnify, defend and hold harmless Fox, Trademark Licensor and their respective successors, assigns, parents, subsidiaries, affiliates and co-venturers, and their respective directors, officers, employees and agents from and against all third party claims, damages, losses, liabilities, suits and expenses (including reasonable attorneys' fees), arising out of or in connection with any allegations that (i) the Licensee Materials or the manufacture, packaging, distribution, promotion, sale, or exploitation thereof (except with respect to those matters against which Fox has agreed to indemnify Licensee hereunder) infringes or misappropriates the Intellectual Property Rights of any third party or (ii) any breach of warranty, representation or covenant contained in this Agreement; provided that Fox (a) promptly notifies Licensee in writing of the claim; (b) grants Licensee sole control of the defense, subject to Fox's approval of counsel (to avoid conflicts of interest) and the terms of any settlement that affect Fox; and (c) provides Licensee, at Licensee's expense, with all assistance, information and authority reasonably required for the defense and settlement of the claim. If Licensee fails to undertake such defense, Licensee shall reimburse Fox for reasonable attorneys' fees incurred by Fox in its defense of such claim or suit. Furthermore, Licensee agrees to indemnify, defend and hold harmless Fox, Trademark Licensor and their respective successors, assigns, parents, subsidiaries, affiliates and co-venturers and all other parties associated with the Property, and their respective directors, officers, employees and agents from and against claims made by VGSL against Fox regarding failure to deliver and distribute the VGSL Products (as defined in Paragraph 1(a)) in a timely manner as set forth in Paragraphs 2(a)(ii), 2(b)(i) and 2(c)(ii), third-party Intellectual Property claims relating to the Licensee Materials, and all related damages, losses,
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-21-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+    liabilities, suits and expenses (including reasonable attorneys' fees). Fox's failure to provide notice in accordance with this Paragraph shall not relieve Licensee of its obligations to indemnify, defend and hold Fox harmless from any such claims, unless and except to the extent that Licensee is prejudiced by any such failure.
+
+    (b) By Fox: Fox agrees to indemnify, defend and hold harmless Licensee, its successors, assigns, parents, subsidiaries, affiliates and co-venturers, and their respective directors, officers, employees and agents from and against all third party claims, damages, losses, liabilities, suits and expenses (including reasonable attorneys' fees), arising out of or in connection with any allegations that the PSM, PSM Materials, or Properties infringe or misappropriate any Intellectual Property Rights of any third party; provided that Licensee (a) promptly notifies Fox in writing of the claim; (b) grants Fox sole control of the defense and settlement of the claim; and (c) provides Fox, at Fox's expense, with all assistance, information and authority reasonably required for the defense and settlement of the claim. If Fox fails to undertake such defense, Fox shall reimburse Licensee for reasonable attorneys' fees incurred by Licensee in its defense of such claim or suit.
+
+    (c) Injunctions. If either party's use or exploitation of any materials provided and licensed hereunder is, or in the licensor's opinion is likely to be, enjoined due to the type of claim specified in Paragraphs 13(a) or (b), above, the licensor may, at its sole option and expense: (a) procure for the licensee the right to continue using such rights under the terms of this Agreement; (b) replace or modify any materials provided so that they are non-infringing; or (c) if options (a) and (b) above cannot be accomplished despite the licensor's reasonable efforts, then the licensor may terminate the licensee's rights and the licensor's obligations hereunder with respect to such materials, in which event the licensor will refund to the licensee any amounts paid by the licensee with respect to such materials. For the avoidance of doubt, Licensee is the licensor of the Licensee Materials, pursuant to Paragraph 1(e), for the purpose of this Paragraph.
+
+    (d) Sole Remedy. THE PROVISIONS OF THIS PARAGRAPH 14 SET FORTH EACH PARTY'S SOLE AND EXCLUSIVE OBLIGATIONS AND REMEDIES WITH RESPECT TO THIRD PARTY CLAIMS OF INFRINGEMENT OR MISAPPROPRIATION OF INTELLECTUAL PROPERTY RIGHTS OF ANY KIND UNLESS OTHERWISE STIPULATED BY JUDICIAL ORDER.
+
+15.  TERMINATION:
+
+    (a) Termination Rights;
+
+      (i) Bankruptcy: If Licensee's liabilities exceed its assets, or if Licensee becomes unable to pay its debts as they become due, or files or has filed against Licensee a petition in bankruptcy, reorganization or for the adoption of an arrangement under any present or future bankruptcy, reorganization or similar law (which petition if filed against Licensee shall not be dismissed within 30 days from the filing date), or if Licensee makes an assignment for the benefit of its creditors or is adjudicated a bankrupt, or if a receiver or trustee of all or substantially all of Licensee's property is appointed, or if Licensee discontinues its business, this Agreement shall automatically terminate forthwith without notice to Licensee.
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-22-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+      (ii) Transfer or Change of Control: If a substantial portion of the assets or controlling stock in Licensee's business is sold or transferred, or if there is a substantial change in Licensee's management, or if Licensee's property is expropriated, confiscated or nationalized by any government or if any government assumes de facto control of Licensee's business, in whole or in part, Fox may terminate this Agreement upon 30 days' notice to Licensee.
+
+      (iii) Unauthorized Uses: If Licensee transfers, sells or distributes to any unauthorized third party any artwork, voice clips, or other Fox proprietary materials related to the Property including but not limited to Marketing Materials, then Fox may terminate this Agreement forthwith on written notice without any cure period.
+
+      (iv) Failure to Exploit: If Licensee fails to exploit the PSM as set forth in Paragraph 2(a) and 2(b), or fails to release the Wireless Products in accordance with the dates set forth in Paragraph 2(b), then Fox may terminate this Agreement forthwith on written notice without any cure period subject to the terms and conditions set forth in Paragraph 2(a) and 2(b), respectively.
+
+      (v) Failure to Obtain Approvals: If Licensee releases a Wireless Product without first obtaining Fox's approval as specifically set forth in this Agreement in Paragraph 9, then Fox may terminate this Agreement forthwith on written notice without any cure period.
+
+      (vi) Other Defaults: Excepting only those Licensee defaults in this Paragraph 15 which permit Fox to terminate immediately without any cure period for Licensee, if either party fails to perform any of its material obligations hereunder, the other party may terminate this Agreement upon 30 days' notice, unless the breaching party cures any such breach within said 30 days and gives notice to the other party thereof within that period. Notwithstanding the foregoing, in the event that either party (A) fails to pay Royalties or other amounts when due, or (B) fails to make Royalty or other accountings in accordance with the terms of this Agreement, then the breaching party shall be subject to a one-time cure period of fifteen (15) days for such breach. If a party fails to cure the breach within such fifteen (15)-day period or another breach of either (A) or (B) above occurs following an initial cure within the fifteen (15)-day period, then the other party shall have the right in its sole discretion to terminate this Agreement forthwith on written notice without any cure period.
+
+      (vii) Other Agreements: Should any event of default by Licensee cause Fox to terminate this Agreement, Fox, in its sole discretion, may terminate, without any cure period, any other agreements concurrently existing between Fox and Licensee upon written notice specifying the agreements to be terminated. For the avoidance of doubt, this remedy shall only apply to any agreements concurrently existing between the specific parties to this Agreement and shall not apply to agreements between Licensee and Fox Sports.
+
+    (b) Effect of Termination/Expiration: In the event of termination of this Agreement, Licensee shall: (i) immediately stop in all respects the sale and distribution of the Wireless Products and provide Fox with a complete inventory report and accounting with
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-23-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+    payment of all Royalties, and (ii) at Fox's election shall either (A) deliver to Fox all materials related to the Wireless Products or (B) give Fox satisfactory evidence of their destruction. Licensee agrees that its failure to stop in all respects the sale and/or distribution of the Wireless Products upon termination or expiration of the Agreement will result in immediate irreparable damage to Fox for which there is no adequate remedy at law, and in the event of such failure by Licensee, Fox shall be entitled to injunctive relief. Fox's exercise of any of the foregoing remedies shall not operate as a waiver of any other rights or remedies which Fox may have. Fox shall not distribute the Wireless Products after the termination or expiration of this Agreement without obtaining from Licensee a separate license to the Licensee Materials.
+
+(i) Sell-Off Period: Notwithstanding Paragraph 15(b), in the event of termination of this Agreement, Licensee shall have a period of ***** from the date of such termination (unless such termination occurs less than ***** prior to the expiration of this Agreement in which case the time period shall be shortened accordingly so as not to exceed the date of expiration) in which to sell-off existing inventory of Wireless Products already in the Distribution Channels ("Sell Off Period"). Licensee agrees that no additional Wireless Products may be developed or distributed during the Sell Off Period and Licensee agrees to require that any Licensed CSP to comply with this provision. Upon the expiration of the Sell Off Period, Licensee agrees to destroy all such remaining inventory and confirm same in writing to Fox (and require that any Licensed CSP do the same). Any revenues, credits or other consideration received by Licensee for the Wireless Products during the Sell Off Period will be subject to Licensee's obligation to pay Fox Royalties pursuant to Paragraph 7 above.
+
+(ii) Fox's Development of Wireless Products: In the event of termination or expiration of this Agreement or Licensee's loss of exclusive rights under this Agreement, Fox shall be free to create and exploit, or have a third party create or exploit, wireless products which may be similar to those developed and distributed by Licensee pursuant to this Agreement for the Properties.
+
+    (c) Guarantee Forfeiture: In the event of termination of this Agreement and without limitation of Fox's rights and remedies all of which are expressly reserved, the following payment penalties shall apply: (i) if termination occurs in the first year of the Term, Licensee shall forfeit any Guarantee paid, and shall immediately pay any remaining Guarantee, up to the amount of ***** dollars (US$*****), and any Guarantee payments made in excess of ***** dollars ($*****) shall be refunded by Fox to Licensee; and (ii) if termination occurs in the second year of the Term, Licensee shall forfeit any Guarantee paid, and shall immediately pay any remaining portion of the Guarantee then unpaid, up to the amount of ***** dollars (US$*****). Any forfeited Guarantees will apply as a set off against any additional damages claimed by Fox.
+
+16.  CONFIDENTIAL INFORMATION AND PRESS:
+
+    (a) Confidential: Each party agrees to use reasonable efforts, and at least the same care that it uses to protect its own confidential information of like importance, to prevent unauthorized dissemination and disclosure of the other party's confidential information
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+
+
+*****  The omitted portions of this exhibit have been filed with the Securities and Exchange Commission pursuant to a request for confidential treatment under Rule 406 promulgated under the Securities Act of 1933.
+
+-24-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+    during and for a period of three (3) years after the Term. These obligations will be subject to the following terms and conditions:
+
+    (b) Confidential Information Defined: Confidential information includes, but is not limited to, the following: (i) the design, technology and know- how related to the Wireless Products, the PSM and the Property; (ii) the computer object and source code of the Wireless Products, the PSM and the Property; (iii) non-public information concerning either party's financing, financial status, research and development, proposed new products, marketing plans and pricing, unless and until publicly announced; and (iv) any information designated by either party as confidential or proprietary in writing:
+
+(i) Certain Information Not Deemed Confidential: The foregoing obligations will not apply to any information that: (A) becomes known to the general public without fault or breach on the part of the receiving party; (B) the receiving party receives from a third party without breach of a nondisclosure obligation and without restriction on disclosure; (C) was in the possession of the receiving party prior to disclosure by the other; or (D) is independently developed by the receiving party's personnel having no access to similar confidential information obtained from the other.
+
+(ii) Confidential Information of Another: Nothing in this Agreement will affect any obligation of either party to maintain the confidentiality of a third party's confidential information.
+
+    (c) Press Releases: Licensee may not issue a press release or otherwise disclose to or discuss with the press the existence or terms of this Agreement without the prior written consent of Fox (it being understood that Fox's legal counsel shall have final approval over the timing and/or content of any press release or other public disclosure by Licensee regarding this Agreement). Notwithstanding the foregoing, the parties (and their respective parent companies) shall be free to disclose Confidential information to the extent required by any law or regulation to any relevant stock exchange. The parties will liaise and endeavor to agree to the wording of any such disclosure in advance.
+
+17.  MISCELLANEOUS:
+
+    (a) Notices: All notices and statements shall be in writing and shall together with any payments be personally delivered or sent postage prepaid to the intended party at the address set forth below (unless notification of a change of address is given in writing). The date of mailing of a notice or statement shall be deemed the date the notice is given or statement rendered.
+
+    To Fox:
+
+Mail:  Twentieth Century Fox Licensing & Merchandising P.O. Box 900 Beverly Hills, California 90213 USA Attention: Vice President, Wireless Development
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-25-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+            Messenger:   2121 Avenue of the Stars, 4th Floor       Los Angeles, California 90067 USA       Attention: Vice President, Wireless Development             Facsimile:   (310) 369-1465           With copies to:                 Mail:   Twentieth Century Fox Licensing & Merchandising       P.O. Box 900       Beverly Hills, California 90213 USA       Attention: Legal Department             Messenger:   2121 Avenue of the Stars, Suite 1334       Los Angeles, California 90067 USA       Attention: Legal Department             Facsimile:   (310) 369-4241           and:                     Mail:   Twentieth Century Fox Licensing & Merchandising       P.O. Box 900       Beverly Hills, California 90213 USA       Attention: Finance Department             Messenger:   2121 Avenue of the Stars, 4th Floor       Los Angeles, California 90067 USA       Attention: Finance Department             Facsimile:   (310) 369-8531           To Licensee:                 Mail &   Sorrent Inc.
+
+  Messenger:   1800 Gateway Drive, Suite 200  San Mateo, CA 94404       Attention: Paul Zuzelo             E-mail:   pzuzelo@sorrent.com     Facsimile:   (650) 571-5698
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-26-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+          With copies to:                 Mail &   Sorrent Inc.   Messenger:   1800 Gateway Drive, Suite 200       San Mateo, CA 94404       Attention: Greg Suarez             E-mail:   greg.suarez@sorrent.com             Facsimile:   (650) 571-5698
+
+(b) Waiver, Modification: The terms of this Agreement may not be waived or modified except by an agreement in writing executed by the parties hereto. The waiver by either party of any breach of this Agreement by the other party must be in writing and shall not be deemed to be a waiver of any prior or succeeding breach.
+
+(c) Relationship of the Parties: Nothing herein contained shall be construed to place the parties in the relationship of principal and agent, partners or joint venturers and neither party shall have the power to obligate or bind the other party in any manner whatsoever.
+
+(d) No Assignment: Licensee may not assign any of its rights and obligations under this Agreement without the prior written consent of Fox; provided that Licensee may assign all of its rights and obligations hereunder to its successor in the event of a sale of all or substantially all of its assets or voting securities, or of the business unit associated with this Agreement. Subject to the foregoing, this Agreement will inure to the benefit of each parties successors and assigns. Any purported assignment or transfer except in accordance with the above shall be void and of no effect.
+
+(e) Governing Law; Jurisdiction; Service of Process: This Agreement shall be construed in accordance with the laws of the State of California applicable to agreements executed and to be wholly performed therein. The parties hereto agree that any suit, action or proceeding arising out of or relating to this Agreement shall be instituted and prosecuted in the United States District Court for the Central District of California or in any court of competent jurisdiction of the State of California. The parties hereto irrevocably submit to the jurisdiction of said courts and waive any rights to object to or challenge the appropriateness of said forums. Service of process shall be in accordance with the laws of the State of California.
+
+(f) Appointment/Change of Agent: Upon notice to Licensee, Fox may appoint an agent or designate a substitute agent from time to time to act on Fox's behalf to collect from Licensee and remit to Fox all Royalty payments due to Fox under this Agreement. The termination or substitution of an agent by Fox shall not affect the rights, duties, privileges or obligations of Fox or of Licensee hereunder. No agent so appointed is authorized to make any representation or warranty with respect to the ownership or title of the Property and or to approve the manufacture, sale or distribution of the Wireless Products.
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+
+
+***** The omitted portions of this exhibit have been filed with the Securities and Exchange Commission pursuant to a request for confidential treatment under Rule 406 promulgated under the Securities Act of 1933.
+
+-27-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+(g) Binding Agreement: Licensee shall have no rights hereunder and neither Fox nor Trademark Licensor shall be bound hereby unless and until this Agreement has been accepted in writing by Fox. If Fox does not accept this Agreement, the parties shall be released from all liability and this document shall be of no force and effect.
+
+(h) Limitation of Actions: No legal action shall be brought by Licensee under this Agreement unless commenced within 12 months from the date the cause of action arose.
+
+(i) Severability: Should any paragraph, clause or provision of this Agreement be found invalid or unenforceable by any court having jurisdiction over this Agreement, the subject matter hereof, or the parties hereto, such decision shall affect only the paragraph, clause or provision so construed or interpreted and all remaining paragraphs, clauses or provisions shall remain valid and enforceable.
+
+(j) Entire Agreement: There are no representations, warranties or covenants other than those set forth in this Agreement which sets forth the entire understanding among the parties hereto.
+
+(k) Headings: The headings of the Paragraphs of this Agreement are for convenience only and shall not be of any effect in construing the meanings of the Paragraphs.
+
+(l) Survival: The following Paragraphs shall survive the expiration or termination of this Agreement: 5; 6; 7; 11; 13(a)(iv); 14, and 16.
+
+(m) Drafting: Because the parties hereto have participated in drafting and negotiating this Agreement, there shall be no presumption against any party on the ground that such party was responsible for preparing this Agreement or any part of it.
+
+(n) Force Majeure: Neither party shall be liable for any delay or failure in performing any of its obligations hereunder when any such delay or failure is occasioned by causes or contingencies beyond its control, including but not limited to force majeure, fires, floods, war, strikes and governmental regulations, provided the party delaying or failing to perform shall promptly after its inception give written notice of such cause or contingency to the other party and provided further that the party giving such notice shall make all reasonable efforts to remove such disability as soon as possible. Notwithstanding the foregoing, in the event the events constituting force majeure cause a delay in performance of thirty consecutive days or more, either party may terminate this Agreement immediately upon written notice to the other party.
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-28-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+By signing in the spaces provided below, the parties hereto have agreed to all of the terms and conditions of this Agreement.                   SORRENT, INC.       TWENTIETH CENTURY FOX LICENSING & MERCHANDISING, a division of Fox Entertainment Group, Inc.     ("Licensee")                     ("Fox")                   By   /s/ Paul Zuzelo       By   /s/ Jamie Samson
+
+  Name Paul Zuzelo           Jamie Samson               Its Senior Vice President                     Its CAO & Exec. V.P.                               Date  December 17, 2004       Date  12/17/04
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-29-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+EXHIBIT A
+
+Properties
+
+Major Releases:
+
+"Robots"
+
+Untitled Ridley Scott Film
+
+"Ice Age 2"
+
+"Eragon"
+
+  •   The inclusion of "Eragon" shall be contingent upon Fox's acquisition of the rights to the Property and its ability to grant licensing and merchandising rights thereto. For the avoidance of doubt, there shall be no grant of rights to the Property from Fox to Licensee without Fox's prior written notice advising of Fox's acquisition of the rights to the Property and related licensing and merchandising rights. This Exhibit A and Exhibit E will be amended at such time that Fox can grant such rights.
+
+Targeted Releases:
+
+Untitled Mike Judge Film
+
+"Mr. & Mrs. Smith"
+
+"Lady Luck"
+
+  •   The inclusion of "Lady Luck" shall be contingent upon Fox's acquisition of the rights to the Property and its ability to grant licensing and merchandising rights thereto. For the avoidance of doubt, there shall be no grant of rights to the Property from Fox to Licensee without Fox's prior written notice advising of Fox's acquisition of the rights to the Property and related licensing and merchandising rights. This Exhibit A and Exhibit H will be amended at such time that Fox can grant such rights.
+
+TBD
+
+TBD
+
+TBD
+
+TBD
+
+TBD
+
+The Properties set forth on this Exhibit A may be removed and substituted, or additional Properties may be included, in accordance with Paragraph 1(a) (i).
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-30-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+EXHIBIT B
+
+"Robots" Wireless Products
+
+A minimum of:
+
+12-D Java Game in connection with the initial theatrical release
+
+1 3-D Java Game in connection with the DVD release
+
+5 Java Applications ('Screensavers') (2 3-D Screensavers and 3 2-D Screensavers) in connection with the initial theatrical release
+
+5 MMS
+
+10 Wallpapers
+
+5 Voicetones
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-31-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+EXHIBIT C
+
+Untitled Ridley Scott Film Wireless Products
+
+A minimum of:
+
+1 2-D Java Game, which shall include mutually agreed upon 3-D elements
+
+1 Java Application ('Screensaver') where feasible
+
+5 MMS
+
+10 Wallpapers
+
+5 Voicetones
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-32-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+EXHIBIT D
+
+"Ice Age 2" Wireless Products
+
+A minimum of:
+
+1 Java Game (2-D or 3-D to be mutually agreed)
+
+1 Java Application ('Screensaver') where feasible
+
+5 MMS
+
+10 Wallpapers
+
+5 Voicetones
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-33-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+EXHIBIT E
+
+"Eragon" Wireless Products
+
+A minimum of:
+
+1 Java Game (2-D or 3-D to be mutually agreed)
+
+1 Java Application ('Screensaver') where feasible
+
+5 MMS
+
+10 Wallpapers
+
+5 Voicetones
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-34-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+EXHIBIT F
+
+"Untitled Mike Judge Film" Wireless Products
+
+A minimum of:
+
+1 Java Game (2-D or 3-D to be mutually agreed provided that if the parties are unable to reach an agreement, Licensee's decision will prevail)
+
+1 Java Application ('Screensaver') where feasible
+
+5 MMS
+
+10 Wallpapers
+
+5 Voicetones
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-35-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+EXHIBIT G
+
+"Mr. & Mrs. Smith" Wireless Products
+
+A minimum of:
+
+1 Java Game (2-D or 3-D to be mutually agreed provided that if the parties are unable to reach an agreement, Licensee's decision will prevail)
+
+1 Java Application ('Screensaver') where feasible
+
+5 MMS
+
+10 Wallpapers
+
+5 Voicetones, if talent agreements so allow
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-36-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+EXHIBIT H
+
+"Lady Luck" Wireless Products
+
+A minimum of:
+
+1 Java Game (2-D or 3-D to be mutually agreed provided that if the parties are unable to reach an agreement, Licensee's decision will prevail)
+
+1 Java Application ('Screensaver') where feasible
+
+5 MMS
+
+10 Wallpapers
+
+5 Voicetones, if talent agreements so allow
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-37-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+EXHIBIT I
+
+"TBD" Wireless Products
+
+A minimum of:
+
+1 Java Game (2-D or 3-D to be mutually agreed provided that if the parties are unable to reach an agreement, Licensee's decision will prevail)
+
+1 Java Application ('Screensaver') where feasible
+
+5 MMS
+
+10 Wallpapers
+
+5 Voicetones, if talent agreements so allow
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-38-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+EXHIBIT J
+
+"TBD" Wireless Products
+
+A minimum of:
+
+1 Java Game (2-D or 3-D to be mutually agreed provided that if the parties are unable to reach an agreement, Licensee's decision will prevail)
+
+1 Java Application ('Screensaver') where feasible
+
+5 MMS
+
+10 Wallpapers
+
+5 Voicetones, if talent agreements so allow
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-39-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+EXHIBIT K
+
+"TBD" Wireless Products
+
+A minimum of:
+
+1 Java Game (2-D or 3-D to be mutually agreed provided that if the parties are unable to reach an agreement, Licensee's decision will prevail)
+
+1 Java Application ('Screensaver') where feasible
+
+5 MMS
+
+10 Wallpapers
+
+5 Voicetones, if talent agreements so allow
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-40-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+EXHIBIT L
+
+"TBD" Wireless Products
+
+A minimum of:
+
+1 Java Game (2-D or 3-D to be mutually agreed provided that if the parties are unable to reach an agreement, Licensee's decision will prevail)
+
+1 Java Application ('Screensaver') where feasible
+
+5 MMS
+
+10 Wallpapers
+
+5 Voicetones, if talent agreements so allow
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-41-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+EXHIBIT M
+
+"TBD" Wireless Products
+
+Up to:
+
+1 Java Game (2-D or 3-D to be mutually agreed provided that if the parties are unable to reach an agreement, Licensee's decision will prevail)
+
+1 Java Application ('Screensaver') where feasible
+
+5 MMS
+
+10 Wallpapers
+
+5 Voicetones, if talent agreements so allow
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-42-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+EXHIBIT N
+
+Glossary
+
+"MMS" stands for Multimedia Messaging Service — a store and forward messaging service that allows mobile subscribers to exchange multimedia messages with other mobile subscribers. MMS supports the transmission of additional media types: text, picture, audio, video and combinations of them.
+
+"Realtone" or "Trutone" (also referred to as Master Tone) shall mean a digital, audio file containing an excerpt of a master recording of a musical composition, no more than 45 seconds in length, formatted for playback by a wireless device when such wireless device receives an incoming call.
+
+"Screensaver" shall mean a Java application that replaces the image on a screen when the screen is not in use.
+
+"Wallpaper" on a mobile phone shall mean the background pattern or picture against which mobile phone screen menus, icons, and other elements are displayed and moved around. A wallpaper image can be in a JPEG or a GIF file format. Each model/make of the mobile phone provides several pre- installed wallpaper images for the user to choose from. A user can also choose to download and install third-party wallpapers and use one of these instead.
+
+"Voicetone" shall mean the audio speech sound heard by a caller, such as lines from a movie or spoken lyrics of a song.
+
+"Ringtone" shall mean a digital, audio file containing a portion of a musical composition, no more than 45 seconds in length, formatted for playback by a wireless device when such wireless device receives an incoming call. For the avoidance of doubt, a Ring Tone may be either monophonic or polyphonic.
+
+[Remaining definitions are TBD]
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-43-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+EXHIBIT O Royalty Statement
+
+
+
+TWENTIETH CENTURY FOX LICENSING & MERCHANDISING LICENSING STATEMENT OF ROYALTIES PAYABLE                                                                                       Licensee                               Contract Number:
+
+Property                               Report Period Start Date:
+
+Territory                               Report Period End Date:
+
+    Wallpaper  Screensaver  MMS   Game   Ringer   Wallpaper  Screensaver  MMS   Game   Ringer Name/Likeness  No Music  No Music   No Music  No Music  No Music  Music   Music   Music   Music   Music None
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7                                         Mail to:       Twentieth Century Fox Licensing & Merchandising   Total Net Sales
+
+        P.O. Box 900           Royalty Rates
+
+        Beverly Hills, CA 90213-0900           Royalty Earned
+
+        Attn: Jimyong Kim           Less: Advance Balance
+
+Street address:       2121 Avenue of the Stars, Room 4014           Royalty Payment Enclosed
+
+        Los Angeles, CA 90067         -or-New Advance Balance
+
+                                          This report is based on our books and records and is, to the best of my knowledge, true, correct             and complete for the period stated and complies with all contractual requirements         Minimum Guarantee Amount
+
+NAME                       TITLE       Payment Required to Meet                                 Guarantee due on:
+
+SIGNATURE                       DATE
+
+NOTE: This report is required to be filed whether or not there were any sales for the period. For most licenses, the report is due no later than 30 days following every calendar quarter the agreement is active.
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-44-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+EXHIBIT P
+
+News America Incorporated Statement of Privacy Principles
+
+PREAMBLE
+
+News America Incorporated ("News America") is the principal U.S. subsidiary of The News Corporation Limited, one of the world's largest media companies. The businesses of News America and its subsidiary, Fox Entertainment Group, Inc., include: the production and distribution of motion pictures, television programming and related consumer products (Twentieth Century Fox); television and cable broadcasting (the Fox Network, Fox owned television stations, Fox Sports Net, Fox Sports World, Fox Sports World Espaňol, Speedvision, Fox News Channel, FX and Fox Movie Channel); the publication of newspapers, books, magazines and promotional free-standing inserts (The New York Post, HarperCollins Publishers, The Weekly Standard and News America Marketing); sports franchises (the Los Angeles Dodgers); and marketing services (SmartSource/iGroup). In this Statement of Privacy Principles these businesses are collectively called the News America Group. At the News America Group we strive to enhance our relationship with consumers. Collecting personal information about consumers is vital to this effort. This Statement of Privacy Principles describes the policies and procedures of the News America Group's U.S.-based businesses for the collection, use, and dissemination of personally identifiable information about U.S. consumers in both the online and offline world. The Principles are based on the concepts of consumer notice and choice.* The News America Group is actively involved in the ongoing privacy debate and is continually monitoring privacy developments. Accordingly, from time to time we may modify these Privacy Principles to reflect changes in the law, self-regulatory initiatives and technology.
+
+COLLECTION
+
+The News America Group obtains personally identifiable information only if we believe the information is relevant to our relationship with a consumer or to assist us in creating a relationship with a consumer. We obtain personally identifiable information about consumers directly from consumers whenever possible, primarily in the course of providing them with products, information and services. When the News America Group obtains personally identifiable information from third-party sources, we use only reputable sources. In those instances where our information collection activities involve children, the News America Group provides special privacy protections.
+
+NOTICE
+
+When The News America Group collects personally identifiable information from consumers, we inform them about who is collecting the information, why it is being collected, how it is being collected, the types of uses we will make of the information, whether we will disclose the information to third parties and the types of third parties to whom we will disclose the information, and consumers' options regarding the use of their information.
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-45-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+CHOICE
+
+The News America Group provides consumers with an opportunity to choose whether the business unit that collects their personally identifiable information may use it for purposes that are other than those for which the information was submitted, and whether the information may be shared with third parties.
+
+USE OF PERSONAL INFORMATION
+
+Inside the News America Group, we use personally identifiable information only in a manner consistent with these Privacy Principles. Personally identifiable information is available only to our employees, agents and contractors who have a business reason to have access to such information. The News America Group uses personally identifiable information to respond to our customers and to make decisions about the goods and services that the News America Group or its business partners provide or hope to provide to consumers. Subject to the exercise of consumer choice, personally identifiable information may be used for different purposes, or shared with our business partners. A News America Group business entity may disclose personally identifiable information without providing consumers with a choice in order to protect the rights of the companies within the News America Group or their respective employees, agents and contractors; to protect the safety and security of visitors to web sites operated by News America Group companies; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if a News America Group entity sells all or part of one of its businesses, makes a sale or transfer of assets or is otherwise involved in a business merger or transfer, personally identifiable information may be transferred to a third party as part of that transaction.
+
+SECURITY
+
+The News America Group uses reasonable administrative, technical, personnel, and physical measures to safeguard personally identifiable information in its possession against loss, theft, and unauthorized use, disclosure or modification.
+
+ACCESS, CORRECTION AND DELETION
+
+Whenever possible, each News America Group business unit permits consumers to have a right to see the personally identifiable information that it has collected from them, to correct any information that is incorrect and to instruct the business unit to delete the information from its files.
+
+REMEDIES
+
+Consumers may contact a privacy officer at each News America Group business unit regarding privacy complaints and disputes.
+
+COMPLIANCE
+
+Each News America Group company will take appropriate measures to ensure compliance with these Privacy Principles.
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-46-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007
+
+
+
+
+
+
+
+EXHIBIT Q
+
+LICENSEE COMPETITORS
+
+Jamdat Mforma Digital Bridges Digital Chocolate Game Loft Infospace
+
+Any further additions and/or deletions shall be mutually agreed and addressed via amendment to this Agreement.
+
+Wireless Content License Agreement Multiple Properties / Sorrent, Inc. / Final PLZ
+
+-47-
+
+Source: GLU MOBILE INC, S-1/A, 3/19/2007

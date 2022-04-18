@@ -1,0 +1,1593 @@
+STRATEGIC ALLIANCE AGREEMENT
+
+This agreement ("Agreement"), is entered into as of the date on which the Registration Statement is declared effective by the SEC (the  "Effective Date"), by and among PHL VARIABLE INSURANCE COMPANY ("PHLVIC"), PHOENIX LIFE INSURANCE COMPANY, ("PLIC"  and, together with PHLVIC, "PHL Variable"), PHOENIX EQUITY PLANNING CORPORATION ("PEPCO" and, together with PHLVIC and PLIC,  the "PHL Parties"), and INVESTORS CAPITAL CORPORATION ("ICC"). Except as otherwise defined, capitalized terms used herein shall have  the meanings given to them in Section 1 Definitions, below.
+
+RECITALS
+
+A. PHL Variable will offer to issue the GIE to ICC Customers.
+
+B. ICC is a broker dealer that is registered under the 1934 Act and with FINRA and an investment adviser that is registered with the  SEC under the Advisers Act and doing business as an investment adviser as Investors Capital Advisory Services ("ICAS").
+
+C. ICAS has established certain asset allocation Models that are eligible for use with the GIE, and in the future may establish other  Models that become eligible for use with the GIE.
+
+D. ICC and the Phoenix Parties have previously entered into a Selling Agreement, effective as of December 1, 2002 and the addition of  GIE to the Selling Agreement effective as of the Effective Date, pursuant to which ICC will solicit sales of the GIE to ICC Customers.
+
+E. The Parties desire to set forth herein certain of their respective duties and obligations in connection with the GIE, all upon the terms  and subject to the conditions more fully set forth below.
+
+NOW, THEREFORE, in consideration of the foregoing recitals, the mutual covenants and obligations hereinafter set forth, and for  other good and valuable considerations, the receipt and sufficiency of which are hereby acknowledged, the Parties hereto, intending to be legally  bound, agree as follows:
+
+SECTION 1 DEFINITIONS
+
+
+
+
+
+
+
+   - 1 -
+
+  1.01 1933 Act. The Securities Act of 1933, as amended.    1.02 1934 Act. The Securities Exchange Act of 1934, as amended.
+
+  1.03 Advisers Act. The Investment Advisers Act of 1940, as amended.
+
+  1.04 Affiliate. With respect to a person, any other person controlling, controlled by, or under common control with, such person.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   - 2 -
+
+  1.05 Agreement. The term shall have the meaning set forth in the introductory paragraph of this Agreement.
+
+  1.06 Application. The application, enrollment form, or similar form approved for use by PHL Variable by which an ICC Customer  applies for a GIE.
+
+
+
+1.07 Books and Records. All books and records maintained or required by applicable Law to be maintained by each of the Parties  hereto in connection with the Transaction Documents and the GIE, including to the extent any of the following exist: (i) hard  copy and microfiche records; (ii) all paper files; (iii) all electronic images; (iv) all computer data files; and (v) any and all records  in other forms.
+
+  1.08 Business Day. A day when the New York Stock Exchange is open for business.
+
+  1.09 Certificate. The certificate of insurance issued by PHL Variable to an ICC Customer pursuant to the Master Group Annuity  Contract.
+
+  1.10 Certificate Owner. The person or entity that is the owner of a Certificate.
+
+  1.11 Change of Control. The term shall have the meaning set forth in Section 16.01.2.
+
+  1.12 Confidential Information. The term shall have the meaning set forth in Section 11.03.1
+
+  1.13 Customer Complaint. The term shall have the meaning set forth in Section 11.04.
+
+  1.14 Determination. The term shall have the meaning set forth in Section 12.02.1.6.
+
+  1.15 ICC. The term shall have the meaning set forth in the introductory paragraph of this Agreement.
+
+  1.16 Effective Date. The date set forth in the introductory paragraph of this Agreement.
+
+  1.17 Fee Increase Notice Date. The term shall have the meaning set forth in Section 8.08.1.
+
+  1.18 Governmental Entity. Any domestic, federal or State, court, governmental or regulatory authority or agency, including State  insurance and State securities regulators.
+
+  1.19 GIE. The Master Group Annuity Contracts and each Certificate issued by PHL Variable and registered on Form S-1 under the  1933 Act with the SEC under File No. 333-XXXXXX as in effect on the Effective Date, including any riders, endorsements or  amendments to the Master Group Annuity Contracts or the Certificates, and each Application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   - 3 -
+
+  1.20 GIE Fees. The fees due to either PHLVIC or PLIC, as applicable, by a Certificate Owner under a Certificate for coverage under  such Certificate.
+
+  1.21 Investment Company Act. The Investment Company Act of 1940, as amended.
+
+  1.22 IRC. The Internal Revenue Code of 1986, as amended.
+
+  1.23 Law. Any law, rule, regulation, order or written interpretation of any governmental body or self regulatory organization, and any  writ, judgment, injunction or court decree.
+
+  1.24 ICAS. A business unit of ICC which is an investment adviser that is registered with the SEC under the Advisers Act
+
+  1.25 ICC GIE Persons. The term shall have the meaning set forth in Section 8.07.1.
+
+  1.26 Investors Capital Indemnitees. The term shall have the meaning set forth in Section 12.01.
+
+  1.27 ICC. The term shall have the meaning set forth in the introductory paragraph of this Agreement.
+
+  1.28 ICC Licensed Marks. The term shall have the meaning set forth in Section 9.02.2.
+
+  1.29 Investors Capital Services. The term shall have the meaning set forth in Section 8.02.1.
+
+  1.30 License. The term shall have the meaning set forth in Section 9.02.2.
+
+  1.31 Licensee. The term shall have the meaning set forth in Section 9.02.4.
+
+  1.32 Licensor. The term shall have the meaning set forth in Section 9.02.4.
+
+  1.33 ICC Account. An account established by an ICC Customer that is invested in accordance with a Model managed by ICAS and  eligible for coverage under a GIE.
+
+  1.34 ICC Customer. A customer or client of ICC who has established an ICC Account.
+
+  1.35 Master Group Annuity Contracts. The Master Group Annuity Contracts entered into by and between PHLVIC and ICC or an  Affiliate, and by and between PLIC and ICC or an Affiliate
+
+  1.36 Memorandum of Understanding. The confidential Memorandum of Understanding, dated as of the Effective Date, entered into  by and among PHLVIC, PLIC and ICC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   - 4 -
+
+  1.37 Models. The confidential and proprietary asset allocation models managed by ICAS more fully described in the Memorandum of  Understanding.
+
+  1.38 Nonpublic Personal Information. The term shall have the meaning set forth in Section 11.03.1
+
+  1.39 Parties. The term "Parties" refers to PHLVIC, PLIC, PEPCO, and ICC collectively and the term "Party" refers to each of them  individually.
+
+  1.40 PEPCO. The term shall have the meaning set forth in the introductory paragraph of this Agreement.
+
+  1.41 PHL GIE Persons. This term shall have the meaning set forth in Section 8.07.1
+
+  1.42 PHL Parties. The term shall have the meaning set forth in the introductory paragraph of this Agreement.
+
+  1.43 PHL Licensed Marks. This term shall have the meaning set forth in Section 9.02.3.
+
+  1.44 PHL Services. The term shall have the meaning set forth in Section 7.03.1.
+
+  1.45 PHL Variable. The term shall have the meaning set forth in the introductory paragraph of this Agreement.
+
+  1.46 PHLVIC. The term shall have the meaning set forth in the introductory paragraph of this Agreement.
+
+  1.47 PLIC. The term shall have the meaning set forth in the introductory paragraph of this Agreement.
+
+  1.48 Prospectus. The prospectus included within a Registration Statement, including supplements thereto filed under Rule 424 under  the 1933 Act, prepared by PHL Variable, from and after the date on which each shall have been filed.
+
+
+
+1.49 Registration Statement. At any time that this Agreement is in effect, each currently effective registration statement and each  currently effective post-effective amendment thereto filed with the SEC under the 1933 Act on Form S-1 or otherwise relating to  the GIE including the Prospectus and financial statements included in, and all exhibits to, such registration statement or post- effective amendment prepared by PHL Variable.
+
+  1.50 SEC. The United States Securities and Exchange Commission.
+
+  1.51 Selling Agreement. The Selling Agreement effective as of December 1, 2002 and the addition of GIE to the Selling Agreement  effective as of the Effective Date, by and among the Parties, as amended from time to time, pursuant to which ICC will solicit  sales of the GIE from ICC Customers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SECTION 2 TERM
+
+SECTION 3 REPRESENTATIONS AND WARRANTIES OF ICC   ICC hereby represents and warrants to the PHL Parties as follows:
+
+
+
+
+
+
+
+   - 5 -
+
+  1.52 State. Any state of the United States and the District of Columbia.
+
+  1.53 Term. The term shall have the meaning set forth in Section 2.
+
+  1.54 Territory. The Territory shall initially consist of all States, as may be changed from time to time by the written agreement of the  Parties.
+
+  1.55 Trademark Consent. The term shall have the meaning set forth in Section 10.02.1.
+
+  1.56 Trademark License Terms. The term shall have the meaning set forth in Section 10.02.2.
+
+  1.57 Transaction Documents. The term shall mean this Agreement, the Memorandum of Understanding, and the GIE.
+
+  2.01 This Agreement shall commence on the Effective Date and shall continue until it is terminated in accordance with the  provisions of Section 15 of this Agreement ("Term").
+
+  3.01 Organization. ICC is a corporation duly incorporated and validly existing under the laws of the State of Massachusetts.
+
+  3.02 Power and Authority. ICC has the requisite power and authority under its articles of incorporation and by-laws to enter into and  perform its duties and obligations under the Transaction Documents to which it is a party.
+
+
+
+3.03 Corporate Action. All requisite actions have been taken to authorize ICC to enter into and perform its duties and obligations set  forth in the Transaction Documents to which it is a party and to execute and deliver the Transaction Documents to which it is a  party and, when so executed and delivered, the Transaction Documents to which it is a party shall constitute the valid and  binding obligations of ICC enforceable against it in accordance with its terms.
+
+
+
+3.04 Non-Contravention. ICC has duly executed and delivered this Agreement and neither such execution and delivery nor the  performance by ICC of any of its obligations under the Transaction Documents to which it is a party will (i) violate any  provision of its articles of incorporation or by-laws (ii) result in a violation or breach of, or constitute a default or an event of  default under, any indenture, mortgage, bond or other contract, license, agreement, permit, instrument or other commitment or  obligation to which it is a party or by which it is bound or (iii) materially violate any Law applicable to it or its business.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SECTION 4 REPRESENTATIONS AND WARRANTIES OF PHLVIC   PHLVIC hereby represents and warrants to the ICC as follows:
+
+   - 6 -
+
+
+
+3.05 Licenses and Permits. As of the Effective Date, ICC on its behalf and on behalf of ICAS has, and during the term of this  Agreement shall use reasonable efforts to maintain, all material licenses, permits, registrations, authorizations, orders, consents,  and other approvals by each Government Entity necessary or advisable for the performance of its obligations under the  Transaction Documents to which it is a party.
+
+  3.06 Compliance with Law. As of the Effective Date, ICC shall use reasonable efforts to conduct and will continue to conduct  business operations in connection with performance of its duties and obligations under the Transaction Documents to which it  is a party in compliance in all material respects with applicable Law.
+
+  3.07 Equipment, Facilities and Staff. ICC has the equipment, facilities, systems, staff and other assets necessary to perform its  duties and obligations under the Transaction Documents to which it is a party.
+
+  3.08 Pending Litigation and Actions. ICC is not subject to any current or pending litigation or any pending regulatory actions that  would materially impair its ability to carry out its duties and obligations under the Transaction Documents to which it is a party.
+
+
+
+3.09 Registration Statement and Prospectus. All information about ICC and ICAS that ICC has provided to PHL Variable for use in  the Registration Statement did not, on the effective date of the Registration Statement, contain any untrue statement of a  material fact or omit to state a material fact necessary to make the statements therein not misleading in light of the circumstances  under which they were made. ICC shall promptly notify PHLVIC in the event ICC believes the representations and warranties in  this Section 3.09 are no longer true in any material respect (it being understood that no representation is made with respect to  information about the PHL Parties or the GIE).
+
+  3.10 Master Group Annuity Contracts. ICC shall cause itself or an Affiliate to enter into the Master Group Annuity Contracts by  and between PHLVIC and ICC or an Affiliate, and by and between PLIC and ICC or an Affiliate
+
+  3.11 Form ADV, Part II, Sch. H. Schedule H of Part II of ICAS' Form ADV relating to the Models is in compliance with Rule 204-3(f)  under the Advisers Act and the requirements of Schedule H of Part II of Form ADV. ICC shall promptly notify each of the PHL  Parties if there are any material changes to the Form ADV, Part II, Schedule H relating to the Models.
+
+  4.01 Organization. PHLVIC is a corporation duly incorporated and validly existing under the laws of the State of Connecticut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   - 7 -
+
+  4.02 Power and Authority. PHLVIC has the requisite power and authority under its articles of incorporation and by-laws to enter into  and perform its duties and obligations under the Transaction Documents to which it is a party.
+
+
+
+4.03 Corporate Action. All requisite actions have been taken to authorize PHLVIC to enter into and perform its duties and  obligations set forth in the Transaction Documents to which it is a party and to execute and deliver the Transaction Documents  to which it is a party and, when so executed and delivered, the Transaction Documents to which it is a party shall constitute the  valid and binding obligation of PHLVIC enforceable against it in accordance with its terms.
+
+
+
+4.04 Non-Contravention. PHLVIC has duly executed and delivered this Agreement and neither such execution and delivery nor the  performance by PHLVIC of any of its obligations under the Transaction Documents to which it is a party will (i) violate any  provision of its articles of incorporation or by-laws (ii) result in a violation or breach of, or constitute a default or an event of  default under, any indenture, mortgage, bond or other contract, license, agreement, permit, instrument or other commitment or  obligation to which it is a party or by which it is bound or (iii) materially violate any Law applicable to it or its business.
+
+
+
+4.05 Licenses and Permits. As of the Effective Date, PHLVIC has, and during the term of this Agreement shall use reasonable  efforts to maintain all material licenses, permits, registrations, authorizations, orders, consents, and other approvals by each  Government Entity necessary or advisable for the performance of its obligations under the Transaction Documents to which it  is a party.
+
+  4.06 Compliance with Law. As of the Effective Date, PHLVIC shall use reasonable efforts to conduct and will continue to conduct  business operations in connection with performance of its duties and obligations under the Transaction Documents to which it  is a party in compliance in all material respects with applicable Law.
+
+  4.07 Equipment, Facilities and Staff. PHLVIC has the equipment, facilities, systems, staff and assets necessary to perform its duties  and obligations under the Transaction Documents to which it is a party.
+
+  4.08 Pending Litigation and Actions. PHLVIC is not subject to any current or pending litigation or regulatory actions that would  materially impair its ability to carry out its duties and obligations under the Transaction Documents to which it is a party.
+
+
+
+4.09 Registration Statement and Prospectus. The Registration Statement, on the date of which it was declared effective, did not  contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements therein not  misleading in light of the circumstances under which they were made (it being understood that no representation is made with  respect to information about ICAS or ICC provided by ICAS or ICC in writing to PHL Variable). All statements in the  Registration Statement, on the date of which it was declared
+
+
+
+
+
+
+
+
+
+   - 8 -
+
+
+
+effective, relating to taxation and tax effects are true in all material respects. The Prospectus or other information contained in  the Registration Statement, when disseminated or used after the effective date of the Registration Statement, shall not contain  any untrue statement of a material fact or omit to state a material fact necessary to make the statements therein not misleading in  light of the circumstances under which they were made (it being understood that no representation is made with respect to  information about ICAS or ICC provided by ICAS or ICC in writing to PHL Variable). PHLVIC shall immediately notify ICC in the  event PHLVIC believes or has reason to believe that the representations and warranties in this paragraph are no longer true or  completely accurate.
+
+
+
+4.10 Tax Matters. It is more likely than not that: (1) PHLVIC will not be treated as the owner of the assets in an ICC Account for  federal income tax purposes; (2) the GIE, including each Certificate, will be treated as an annuity contract for federal income tax  purposes; however, if the value of an ICC Account happens to be greater than zero when an Owner's life expectancy is less  than one year (which will only occur at extremely advanced ages), it is possible that the Policy could be treated as no longer  constituting an annuity contract for Federal tax purposes from that point on; (3) for all Certificate Holders on the date of GIE  issuance and during the entire period during which the GIE and each Certificate is in effect, losses with respect to the ICC  Account will be deductible under Section 165(a) of the IRC notwithstanding the existence of the GIE' conditional guarantee of  annual lifetime income payments in the event that the value of the assets in an ICC Account decreases to zero; (4) for all  Certificate Owners on the date of GIE issuance and during the entire period during which the GIE and each Certificate is in  effect, dividends on stock held in an ICC Account otherwise meeting the requirements of Section 1(h)(11) of the IRC will  constitute qualified dividend income notwithstanding the existence of a GIE and its conditional guarantee of annual lifetime  income payments in the event the value of the assets in the ICC Account decreases to zero; and (5) for each Certificate Owner  on the date of Certificate issuance and during the entire period during which the GIE and each Certificate is in effect, the  Certificate and assets in the ICC Account subject thereto will not be treated as a straddle under Section 1092 of the IRC.
+
+
+
+4.11 Ownership of GIE; No Claims Relating to GIE. Except as set forth in Section 10.01, PHLVIC and its Affiliates, as applicable, are  the exclusive legal and beneficial owner of and have good and marketable title in and to the GIE and all intellectual property  rights therein, free and clear of all pledges, claims, liens, charges, encumbrances and security interests of any kind or character,  including any claims for infringement of intellectual property rights. For the purposes of this Section, intellectual property  includes GIE forms, specimen forms, the features of the GIE, materials filed by any of the PHL Parties with State insurance  regulators, and any other forms prepared by any of the PHL Parties or any of their Affiliates in connection with the GIE. There  are no claims, actions, suits, investigations or proceedings (arbitration or otherwise) pending against, or to the knowledge of  PHLVIC, threatened against or affecting, all or any part of the GIE
+
+
+
+
+
+SECTION 5 REPRESENTATIONS AND WARRANTIES OF PLIC   PLIC hereby represents and warrants to the ICC as follows:
+
+
+
+
+
+
+
+
+
+
+
+
+
+   - 9 -
+
+  or to the transactions contemplated by any of the Transaction Documents. To the knowledge of PHLVIC, there are no facts that  could reasonably serve as a basis for such claim, action, suit, investigation or proceeding. The use and issuance of the GIE  does not and will not infringe, misappropriate, violate or dilute any intellectual property rights of any person.
+
+  5.01 Organization. PLIC is a corporation duly incorporated and validly existing under the laws of the State of New York.
+
+  5.02 Power and Authority. PLIC has the requisite power and authority under its articles of incorporation and by-laws to enter into  and perform its duties and obligations under the Transaction Documents to which it is a party.
+
+
+
+5.03 Corporate Action. All requisite actions have been taken to authorize PLIC to enter into and perform its duties and obligations  set forth in the Transaction Documents to which it is a party and to execute and deliver the Transaction Documents to which it  is a party and, when so executed and delivered, the Transaction Documents to which it is a party shall constitute the valid and  binding obligation of PLIC enforceable against it in accordance with its terms.
+
+
+
+5.04 Non-Contravention. PLIC has duly executed and delivered this Agreement and neither such execution and delivery nor the  performance by PLIC of any of its obligations under the Transaction Documents to which it is a party will (i) violate any  provision of its articles of incorporation or by-laws (ii) result in a violation or breach of, or constitute a default or an event of  default under, any indenture, mortgage, bond or other contract, license, agreement, permit, instrument or other commitment or  obligation to which it is a party or by which it is bound or (iii) materially violate any Law applicable to it or its business.
+
+  5.05 Licenses and Permits. As of the Effective Date, PLIC has, and during the term of this Agreement shall use reasonable efforts to  maintain all material licenses, permits, registrations, authorizations, orders, consents, and other approvals by each Government  Entity necessary or advisable for the performance of its obligations under the Transaction Documents to which it is a party.
+
+  5.06 Compliance with Law. As of the Effective Date, PLIC shall use reasonable efforts to conduct and will continue to conduct  business operations in connection with performance of its duties and obligations under the Transaction Documents to which it  is a party in compliance in all material respects with applicable Law.
+
+  5.07 Equipment, Facilities and Staff. PLIC has the equipment, facilities, systems, staff and assets necessary to perform its duties and  obligations under the Transaction Documents to which it is a party.
+
+
+
+
+
+
+
+
+
+
+
+   - 10 -
+
+  5.08 Pending Litigation and Actions. PLIC is not subject to any current or pending litigation or regulatory actions that would  materially impair its ability to carry out its duties and obligations under the Transaction Documents to which it is a party.
+
+
+
+5.09 Registration Statement and Prospectus. The Registration Statement, on the date of which it was declared effective, did not  contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements therein not  misleading in light of the circumstances under which they were made (it being understood that no representation is made with  respect to information about ICAS or ICC provided by ICAS in writing to PHL Variable). All statements in the Registration  Statement, on the date of which it was declared effective, relating to taxation and tax effects are true in all material respects. The  Prospectus or other information contained in the Registration Statement, when disseminated or used after the effective date of  the Registration Statement, shall not contain any untrue statement of a material fact or omit to state a material fact necessary to  make the statements therein not misleading in light of the circumstances under which they were made (it being understood that  no representation is made with respect to information about ICAS or ICC provided by ICAS or ICC in writing to PHL Variable).  PLIC shall immediately notify ICC in the event PLIC believes or has reason to believe that the representations and warranties in  this paragraph are no longer true or completely accurate.
+
+
+
+5.10 Tax Matters. It is more likely than not that: (1) PLIC will not be treated as the owner of the assets in an ICC Account for federal  income tax purposes; (2) the GIE, including each Certificate, will be treated as an annuity contract for federal income tax  purposes; (3) for all Certificate Holders on the date of GIE issuance and during the entire period during which the GIE and each  Certificate is in effect, losses with respect to the ICC Account will be deductible under Section 165(a) of the IRC  notwithstanding the existence of the GIE' conditional guarantee of annual lifetime income payments in the event that the value  of the assets in an ICC Account decreases to zero; (4) for all Certificate Owners on the date of GIE issuance and during the  entire period during which the GIE and each Certificate is in effect, dividends on stock held in an ICC Account otherwise  meeting the requirements of Section 1(h)(11) of the IRC will constitute qualified dividend income notwithstanding the existence  of a GIE and its conditional guarantee of annual lifetime income payments in the event the value of the assets in the ICC  Account decreases to zero; and (5) for each Certificate Owners on the date of Certificate issuance and during the entire period  during which the GIE and each Certificate is in effect, the Certificate and assets in the ICC Account subject thereto will not be  treated as a straddle under Section 1092 of the IRC.
+
+
+
+5.11 Ownership of GIE; No Claims Relating to GIE. Except as set forth in Section 11.01, PLIC and its Affiliates, as applicable, are the  exclusive legal and beneficial owner of and have good and marketable title in and to the GIE and all intellectual property rights  therein, free and clear of all pledges, claims, liens, charges, encumbrances and security interests of any kind or character,  including any claims for infringement of intellectual property rights. For the purposes of this
+
+
+
+
+
+SECTION 6 REPRESENTATIONS AND WARRANTIES OF PEPCO   PEPCO hereby represents and warrants to the ICC as follows:
+
+
+
+
+
+
+
+
+
+
+
+   - 11 -
+
+
+
+Section, intellectual property includes GIE forms, specimen forms, the features of the GIE, materials filed by any of the PHL  Parties with State insurance regulators, and any other forms prepared by any of the PHL Parties or any of their Affiliates in  connection with the GIE. There are no claims, actions, suits, investigations or proceedings (arbitration or otherwise) pending  against, or to the knowledge of PLIC, threatened against or affecting, all or any part of the GIE or to the transactions  contemplated by any of the Transaction Documents. To the knowledge of PLIC, there are no facts that could reasonably serve  as a basis for such claim, action, suit, investigation or proceeding. The use and issuance of the GIE does not and will not  infringe, misappropriate, violate or dilute any intellectual property rights of any person.
+
+  6.01 Organization. PEPCO is a corporation duly incorporated and validly existing under the laws of the State of Delaware.
+
+  6.02 Power and Authority. PEPCO has the requisite power and authority under its articles of incorporation and by-laws to enter into  and perform its duties and obligations under the Transaction Documents to which it is a party.
+
+
+
+6.03 Corporate Action. All requisite actions have been taken to authorize PEPCO to enter into and perform its duties and obligations  set forth in the Transaction Documents to which it is a party and to execute and deliver the Transaction Documents to which it  is a party and, when so executed and delivered, the Transaction Documents to which it is a party shall constitute the valid and  binding obligations of PEPCO enforceable against it in accordance with its terms.
+
+
+
+6.04 Non-Contravention. PEPCO has duly executed and delivered this Agreement and neither such execution and delivery nor the  performance by PEPCO of any of its obligations under the Transaction Documents to which it is a party will (i) violate any  provision of its articles of incorporation or by-laws (ii) result in a violation or breach of, or constitute a default or an event of  default under, any indenture, mortgage, bond or other contract, license, agreement, permit, instrument or other commitment or  obligation to which it is a party or by which it is bound or (iii) materially violate any Law applicable to it or its business.
+
+
+
+6.05 Licenses and Permits. As of the Effective Date, PEPCO has, and during the term of this Agreement shall use reasonable efforts  to maintain all material licenses, permits, registrations, authorizations, orders, consents, and other approvals by each  Government Entity necessary or advisable for the performance of its obligations under the Transaction Documents to which it  is a party.
+
+  6.06 Compliance with Law. As of the Effective Date, PEPCO shall use reasonable efforts to conduct and will continue to conduct  business operations in connection with performance of its duties and obligations under the Transaction Documents to which it  is a party in compliance in all material respects with applicable Law.
+
+
+
+
+
+
+
+
+
+SECTION 7 OBLIGATIONS OF THE PHL PARTIES
+
+
+
+   - 12 -
+
+  6.07 Equipment, Facilities and Staff. PEPCO has the equipment, facilities, systems, staff and assets necessary to perform its duties  and obligations under the Transaction Documents to which it is a party.
+
+  6.08 Pending Litigation and Actions. PEPCO is not subject to any current or pending litigation or regulatory actions that would  materially impair its ability to carry out its duties and obligations under the Transaction Documents to which it is a party.
+
+
+
+6.09 Registration Statement and Prospectus. The Registration Statement, on the date of which it was declared effective, did not  contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements therein not  misleading in light of the circumstances under which they were made (it being understood that no representation is made with  respect to information about ICAS or ICC provided by ICAS or ICC in writing to PHL Variable). All statements in the  Registration Statement, on the date of which it was declared effective, relating to taxation and tax effects are true in all material  respects. The Prospectus or other information contained in the Registration Statement, when disseminated or used after the  effective date of the Registration Statement, shall not contain any untrue statement of a material fact or omit to state a material  fact necessary to make the statements therein not misleading in light of the circumstances under which they were made (it being  understood that no representation is made with respect to information about ICAS or ICC provided by ICAS or ICC in writing to  PHL Variable). PEPCO shall immediately notify ICC in the event PEPCO believes or has reason to believe that the  representations and warranties in this paragraph are no longer true or completely accurate.
+
+  7.01 Adequate Resources. Each of the PHL Parties shall devote commercially reasonable resources to ensure each of them and their  Affiliates, as applicable, can perform their respective duties and obligations under the Transaction Documents.
+
+
+
+7.02 GIE Filing and Approval. PHL Variable shall take all commercially reasonable efforts to (1) qualify the offer and sale of the GIE in  each jurisdiction within the Territory, and (2) obtain any approvals that are or may be required by any Governmental Entity to  permit or facilitate the offer and sale of the GIE in each such jurisdiction; provided however that neither PHL Variable nor any  other PHL Party shall be required to seek to qualify the offer and sale of the GIE or obtain any approvals to permit or facilitate  the offer or sale of the GIE in the State of New York or the State of Maine. Such actions shall include, as applicable, filing the  Registration Statement and using commercially reasonable efforts to maintain the effectiveness of the Registration Statement,  filing forms of the Master Group Annuity Contracts, Certificates, and Applications with Governmental Entities,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   - 13 -
+
+  including State insurance departments, and filing or submitting such notices, requests, and other documents in furtherance of  the foregoing. One or more of the PHL Parties will immediately notify ICC if any Governmental Entity withdraws or modifies a  previously issued approval of the GIE.     7.03 Administrative Services.
+
+  7.03.1 PHL Services. During the Term, each of the PHL Parties, as applicable, shall use commercially reasonable efforts to  provide those administrative services set forth on Exhibit A (the "PHL Services").
+
+
+
+7.03.2 Standards for Services. In performing the PHL Services, each of the PHL Parties shall at all times (1) act in good  faith and with the care, skill, and diligence of a person experienced in providing services similar to the PHL Services;  (2) perform such services consistent with applicable Law, and (3) perform such services in a manner the Parties may  agree in writing from time to time.
+
+
+
+7.03.3 Subcontracting with Affiliates. The PHL Parties may subcontract with one or more of their Affiliates for the  performance of some or all of the PHL Services; provided, however, that no subcontract shall relieve any of the PHL  Parties from any of their respective duties, obligations or liabilities under this Agreement and each of the PHL  Parties shall remain responsible for all such duties, obligations and liabilities, whether or not performed in whole or  in part by a subcontractor.
+
+  7.04 Continuing Duties and Obligations. Nothing contained in the Transaction Documents shall relieve any of the PHL Parties from  their respective duties and obligations under any of the other Transaction Documents.
+
+
+
+7.05 Registrations and Licenses. Each of the PHL Parties shall maintain, and cause each of the directors, officers, employees, agents  and representatives of each of the PHL Parties or any Affiliate thereof to maintain all material registrations, licenses,  memberships, approvals, and consents necessary or desirable to carry out their respective obligations under any of the  Transaction Documents during the terms of the Transaction Documents, as applicable. PHL Variable shall promptly notify ICC  in writing upon the lapse, termination, non-renewal, suspension, revocation, or cancellation (without replacement) of any such  registration, license, membership, approval, order or consent.
+
+  7.05.1 Books and Records. Each of PHLVIC and PLIC shall maintain their respective Books and Records as required by  applicable Law.
+
+  7.06 Non-Solicitation. During the term hereof and for a period of two years following termination, none of the PHL Parties, any of  their Affiliates, or any of their respective officers, directors, employees, agents, or representatives, shall, without the prior  written approval of ICC, knowingly and intentionally market any
+
+
+
+
+
+SECTION 8 OBLIGATIONS OF ICC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   - 14 -
+
+
+
+products or services to an ICC Client or Certificate Owner other than the GIE, if such ICC Client or Certificate Owner is identified  from information any of the PHL Parties, any of their Affiliates, or any of their respective officers, directors, employees, agents,  or representatives, obtain pursuant to any of the Transaction Documents or any transaction contemplated thereunder. PHLVIC  and PLIC may communicate with Certificate Owners as is necessary to administer the Certificates or as required by applicable  Law.
+
+  8.01 Adequate Resources. ICC shall devote commercially reasonable resources to ensure it can perform its duties and obligations  under the Transaction Documents.
+
+  8.02 Administrative Services.
+
+  8.02.1 Investors Capital Services. During the Term, ICC shall use commercially reasonable efforts to provide those  administrative services set forth on Exhibit B (the "Investors Capital Services").
+
+
+
+8.02.2 Standards for Services. In performing the Investors Capital, ICC shall at all times (1) act in good faith and with the  care, skill, and diligence of a person experienced in providing services similar to the Investors Capital; (2) perform  such services consistent with applicable Law, and (3) perform such services in a manner the Parties may agree in  writing from time to time.
+
+
+
+8.02.3 Subcontracting with Affiliates. ICC may subcontract with one or more of their Affiliates for the performance of  some or all of the Investors Capital; provided, however, that no subcontract shall relieve e ICC from any of its  duties, obligations or liabilities under this Agreement and ICC shall remain responsible for all such duties,  obligations and liabilities, whether or not performed in whole or in part by a subcontractor.
+
+  8.03 Continuing Duties and Obligations. Nothing contained in the Transaction Documents shall relieve ICC from its respective  duties and obligations under any of the other Transaction Documents.
+
+
+
+8.04 Information to be Provided to the PHL Parties. ICC shall provide to the PHL Parties such information reasonably necessary to  describe ICAS and ICC in the Registration Statement and Prospectus. Such information shall not contain any untrue statement  of a material fact or omit to state a material fact necessary to make the statements provided not misleading in light of the  circumstances under which they were made (it being understood that no representation is made with respect to information  about the PHL Parties or the GIE).
+
+  8.05 Registrations and Licenses. ICC shall maintain, and cause each of the directors, officers, employees, agents and  representatives of ICC or any Affiliate thereof to maintain all material registrations, licenses, memberships, approvals, and  consents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   - 15 -
+
+
+
+necessary or desirable to carry out their respective obligations under this Agreement or the Master Group Annuity Contracts  during the terms of such agreements, as applicable. ICC shall promptly notify each of the PHL Parties in writing upon the lapse,  termination, non-renewal, suspension, revocation or cancellation (without replacement) of any such registration, license,  membership, approval, order or consent.     8.06 Books and Records. ICC shall maintain its Books and Records as required by applicable Law.
+
+  8.07 Proprietary Interests of the PHL Parties.
+
+  8.07.1 Interference with Contracts. During the term hereof and for a period of two years following termination, ICC, any of  their Affiliates, or any of their respective officers, directors, employees, agents, or representatives will:
+
+
+
+8.07.1.1 knowingly and intentionally interfere in any way with the contractual relationships existing between or  among any of the PHL Parties or their Affiliates (as the case may be), on the one hand, and any officer,  director, employee, agent, or other representative of any of the PHL Parties or their Affiliates assigned  to assist the Parties or their Affiliates in connection with the negotiation and implementation of the GIE and any Transaction Document, or the sales and marketing of the GIE ("PHL GIE Persons"), on the  other;
+
+  8.07.1.2 knowingly and intentionally induce, solicit, or encourage PHL GIE Persons to terminate their  respective contracts, or otherwise change their relationship, with any of the PHL Parties or their  Affiliates; or
+
+  8.07.1.3 without the prior written consent of the PHL Parties, employ or otherwise contract with any PHL GIE  Persons.
+
+  8.08 ICAS Advisory Fees.
+
+
+
+8.08.1 Existing ICC Accounts. During the Term, ICAS may increase the investment advisory fee ICAS charges ICC  Customers in connection with any ICC Account that exists on the date ICC provides notice to PHL Variable of the  proposed fee increase (such date, the "Fee Increase Notice Date") only upon receipt of the written consent of PHL  Variable, which consent shall not be unreasonably withheld. If PHL Variable does not disapprove the proposed fee  increase within 10 days from the Fee Increase Notice Date, then such increase shall be deemed approved.
+
+  8.08.2 New ICC Accounts. During the Term, ICAS may increase the investment advisory fee ICAS charges ICC Customers  in connection with
+
+
+
+
+
+SECTION 9 INTELLECTUAL PROPERTY RIGHTS.
+
+
+
+
+
+
+
+
+
+   - 16 -
+
+  any ICC Account established after the Fee Increase Notice Date so long as the fee increase will not take effect for at  least 30 days from the Fee Increase Notice Date.
+
+
+
+9.01 Ownership of GIE. Notwithstanding anything to the contrary contained in any of the Transaction Documents, none of the PHL  Parties or any of their Affiliates shall own (1) any information about ICC or any of their Affiliates, whether contained or  referenced in the GIE, Prospectus, Registration Statement, or otherwise, (2) any of the Books or Records of any of ICC or any of  their Affiliates, or (3) any data or other information relating to an ICC Account or ICC Client.
+
+  9.02 Names, Logos, Trademarks, and Service Marks.
+
+  9.02.1 Prohibition. No Party shall use any of the names, trade names, trademarks, service marks and logos of another Party  without the prior written consent of such Party (the "Trademark Consent"). The provisions of Section 10.02 shall  apply in the event a Trademark Consent is given.
+
+
+
+9.02.2 ICC Licensed Marks. ICC or one of its Affiliates, as applicable, is the owner of all rights, title and interests in and to  the names, trade names, trademarks, service marks and logos specified in and attached to the Trademark Consent of  such Party or Affiliate (collectively, the "ICC Licensed Marks"). Except as may be otherwise specified in its  Trademark Consent, during the Term and subject to Section 9.02.5, the terms and conditions of the Trademark  Consent, and the additional trademark terms and conditions set forth on Exhibit C ("Trademark License Terms"),  ICC or its Affiliates, as applicable, shall grant to the PHL Parties and their Affiliates, as applicable, a non-exclusive  limited license (a "License") to use the ICC Licensed Marks solely in connection with the performance of the duties  and obligations of each of the PHL Parties and their Affiliates, as applicable, under the Transaction Documents.  Each of the PHL Parties, on behalf of itself and any of its Affiliates, acknowledges that this Section 9.02.2, together  with the Trademark Consent and Trademark License Terms, constitute a complete grant of the rights within this  Section 9.02.2.
+
+
+
+9.02.3 PHL Variable Licensed Marks. Each of the PHL Parties or each of their Affiliates, as applicable, is the owner of all  rights, title and interests in and to the names, trade names, trademarks, service marks and logos specified in and  attached to the Trademark Consent of such Party or Affiliate (collectively, the "PHL Licensed Marks"). Except as  may be otherwise specified in its Trademark Consent, during the Term and subject to Section 9.02.5, the terms and  conditions of the Trademark Consent and the Trademark License Terms, each of the PHL Parties or its Affiliates, as  applicable, shall grant to ICC and their Affiliates, as applicable, a non-exclusive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   - 17 -
+
+
+
+limited license (a "License") to use the PHL Licensed Marks solely in connection with the performance of the duties  and obligations of ICC and its Affiliates, as applicable, under the Transaction Documents. ICC, on behalf of itself  and any of its Affiliates, acknowledges that this Section 9.02.3 together with the Trademark Consent and Trademark  License Terms constitute a complete grant of the rights within this Section 9.02.3.
+
+  9.02.4 Definitions. Each Party granting a License is sometimes referred to as a "Licensor" and each recipient of the grant is  sometimes referred to as a "Licensee."    9.02.5 Terms and Conditions
+
+  9.02.5.1 Termination. Subject to the restrictions set forth in this Section, each License shall terminate as  follows:
+
+
+
+9.02.5.1.1 In the event of a complete termination of this Agreement under Sections 15.01 and 15.02  as to all Certificates, the grant of all Licenses shall automatically terminate as of the  effective date of termination. In the event of such termination, ICC and its Affiliates shall  cease using the PHL Licensed Marks and each of the PHL Parties and their Affiliates  shall cease using the Investors Capital Licensed Marks.
+
+
+
+9.02.5.1.2 In the event of termination under Section 15.02.1 as to new business and during such  time as any Certificate remains in force and benefit payments thereunder have not  commenced, the grant of all Licenses shall continue only as necessary for the Parties to  carry out their respective duties and obligations under the Transaction Documents as  applicable. For the purposes of clarity, each Party acknowledges that the Licenses shall  not extend to sales and distribution of the GIE after the effective date of termination  pursuant to Section 15.02.1, and upon such termination, ICC and its Affiliates shall cease  using the PHL Licensed Marks and each PHL Party and their Affiliates shall cease using  the Investors Capital Licensed Marks in connection with the sales and distribution of the  GIE.
+
+
+
+9.02.5.1.3 In the event of termination under Section 15.02.1 as to new business and during such  time as the only Certificates remaining in force are those with respect to which benefit  payments have commenced, the grant of the License to the PHL Parties and their  Affiliates shall
+
+
+
+
+
+
+
+
+
+
+
+   - 18 -
+
+
+
+continue only as necessary to make benefit payments under such Certificates and only  until payment of the last benefit due is made under the last Certificate in force. In the  event of such termination, (1) the License granted to ICC and its Affiliates shall terminate  on the date on which the only remaining Certificates in force are those under which  benefit payments have commenced and thereafter ICC and its Affiliates shall cease using  all PHL Licensed Marks, and (2) the License granted to the PHL Parties and their  Affiliates, restricted as noted in this subsection, shall terminate on the date on which the  last benefit payment is made under the last Certificate in force and thereafter the PHL  Parties and their Affiliates shall cease using all Investors Capital Licensed Marks.
+
+  9.02.5.1.4 In the event of suspension under Section 15.02.2, the grant of all Licenses shall continue  only as necessary for the Parties to carry out their respective duties and obligations  under the Transaction Documents, as applicable.
+
+
+
+9.02.5.2 Pre-Use Approval of Trademark-Bearing Materials, Names and Logos. A Licensee shall obtain the  prior written consent of the Licensor for the use or public release by such Licensee of any materials  bearing the Licensor's licensed marks. With respect to the use of names or logos, none of the PHL  Parties or their Affiliates, as applicable, shall use in advertising or publicity the names of any of ICC or  its Affiliates, as applicable, or any symbol, abbreviation, contraction or simulation thereof or relating to  ICC or an ICC Account, without the prior written consent of ICC, as applicable. With respect to the  use of names or logos, ICC or its Affiliates, as applicable, shall not use in advertising or publicity the  names of any of the PHL Parties or their Affiliates, or any symbol, abbreviation, contraction or  simulation thereof, without the prior written consent of the PHL Parties, as applicable.
+
+
+
+9.02.5.3 Recall. A Licensor may revoke a Trademark Consent or the prior written consent provided pursuant to  Section 9.02.5(b) only in the event of a material change in circumstances or in the event of a breach by  a Licensee of Section 9.02, the Trademark Consent, and/or the Trademark License Terms. If the  Trademark Consent or such other consents are properly revoked, then Licensee shall cease using all  licensed marks affected by the revoked consent.
+
+
+
+
+
+
+
+
+
+SECTION 10 COMPENSATION AND EXPENSES
+
+
+
+SECTION 11 ADDITIONAL COVENANTS
+
+
+
+
+
+
+
+
+
+   - 19 -
+
+  9.02.5.4 Acknowledgment of Ownership. Each Licensee:
+
+
+
+9.02.5.4.1 acknowledges and stipulates that the Licensor's licensed marks are valid and enforceable  trademarks and/or service marks; and that such Licensee does not own the Licensor's  licensed marks and claims no rights therein other than as a Licensee under this  Agreement; and
+
+  9.02.5.4.2 shall not alter the Licensor's licensed marks in any respect but shall use them only in the  manner in which they are depicted in the Trademark Consent, as may be amended from  time to time by Licensor.
+
+
+
+10.01 Compensation. ICC and its Affiliates shall not be entitled to payment or other compensation of any kind or character from any  of the PHL Parties or their Affiliates, and none of the PHL Parties or their Affiliates shall be entitled to payment or other  compensation of any kind or character from ICC or its Affiliates, for performing their respective duties and obligations under  any of the Transaction Documents. ICC acknowledges that (1) ICC and its Affiliates may benefit from sale of the GIE, and (2)  such benefits constitute good and valuable consideration under this Agreement. The Parties acknowledge that the grant of  Licenses pursuant to Section 9.02 also constitutes good and valuable consideration.
+
+  10.02 Expenses. Each Party shall be obligated to pay all costs and expenses it incurs in connection with developing and implementing  the GIE and incident to preparing for, entering into and carrying out this each of the Transaction Documents, as applicable, and  the transactions contemplated therein.
+
+  11.01 Compliance with Applicable Law.
+
+  11.01.1 Each Party shall perform, and shall cause each of its respective Affiliates, as applicable, to perform, their respective  duties and obligations under the Transaction Documents in compliance in all material respects with applicable Law.
+
+  11.02 Confidentiality.    11.02.1 Definition.
+
+
+
+11.02.1.1 "Confidential Information" means information obtained from a Party (i) in connection with the  development of or performance of any of the Transaction Documents; (ii) concerning customers of the  Parties or customers of their Affiliates, including their identities, addresses, and telephone numbers;  (iii) as to a Party's or its Affiliate's business methods, operations, or affairs, or the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   - 20 -
+
+  processes and systems used in the operation of its or its Affiliate's business; (iv) concerning the  Parties and their Affiliates that is identified as confidential by a Party; or (v) required to be treated as  confidential under applicable Law.
+
+
+
+11.02.1.2 "Confidential Information" does not include (i) information now available in the public domain or that  in the future enters the public domain through no fault of the receiving Party; (ii) information disclosed  to the receiving Party by a third party without violation by such third party of an independent  obligation of confidentiality; (iii) information that is independently developed by or for a Party or its  Affiliate in the ordinary course of business outside of any of the Transaction Documents; or (iv)  information whose disclosure by the receiving Party is consented to in writing by the disclosing Party.
+
+  11.02.2 Obligation to Keep Confidential. The receiving Party shall:
+
+
+
+11.02.2.1 hold, and ensure that its Affiliates and the respective officers, directors, employees, agents, and  representatives of the receiving Party and its Affiliates hold, the Confidential Information in strict  confidence according to standards the receiving Party utilizes for confidential information of a similar  nature;
+
+
+
+11.02.2.2 not copy, reproduce, sell, assign, license, market, transfer, or otherwise dispose of, give, or disclose  such Confidential Information to unaffiliated third persons or to the respective officers, directors,  employees, agents, and representatives of the receiving Party and its Affiliates who have not agreed in  writing to be bound by such obligations except as required by Law;
+
+  11.02.2.3 not use the Confidential Information for any purposes whatsoever other than the performance of the  duties and obligations of the receiving Party or its Affiliates, as applicable, under the Transaction  Documents; and
+
+
+
+11.02.2.4 notify its Affiliates and the respective officers, directors, employees, agents, and representatives of  the receiving Party and its Affiliates who may be exposed to such Confidential Information of their  obligations to keep such information confidential and not to disclose or use such information except  as expressly provided herein.
+
+  11.02.3 Notice of Disclosure. In the event the receiving Party is requested to disclose all or any part of the Confidential  Information under the terms of a valid subpoena or order issued by a court of competent jurisdiction or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   - 21 -
+
+
+
+other Governmental Entity, the receiving Party shall promptly notify the disclosing Party promptly of such request  and shall provide the disclosing Party with reasonable opportunity to obtain and reasonable assistance in obtaining  a protective order or similar remedy, provided that no such notice shall be required if such notice is prohibited by  Law or if the Governmental Entity requesting such information has requested that the request not be disclosed.
+
+  11.02.4 Internal Controls, Policies and Procedures. The Parties shall establish and maintain appropriate policies,  procedures and internal controls to comply with this Section 11.
+
+  11.03 Nonpublic Personal Information.
+
+
+
+11.03.1 Confidentiality of Nonpublic Personal Information. The Parties each acknowledge they may come into possession  of nonpublic personal information regarding "customers" or "consumers" of the other Party, as those terms are  defined in Regulation S-P as enacted by the SEC and in other applicable Laws relating to privacy of nonpublic  personal information (collectively, "Nonpublic Personal Information."). No Party shall (1) share any Nonpublic  Personal Information with any person except as permitted by the privacy notices such Party has provided to its  consumers and customers in accordance with applicable Laws; (2) share any Nonpublic Personal Information with  any unaffiliated third person regardless of whether such sharing is permitted by such Party's privacy notices; and  (3) share any Nonpublic Personal Information with any Affiliate unless such sharing is necessary for performance  of that Party's duties and obligations under this Agreement, the Sales and General Agency Agreement, or the  Memorandum of Understanding.
+
+
+
+11.03.2 Internal Controls, Policies and Procedures. Each Party shall establish and maintain written policies, procedures  and internal controls that establish adequate administrative, technical, and physical safeguards for the protection of  customer records and information as required by Rule 30 under Regulation S-P or applicable Law. Each Party  represents and warrants that its respective policies, procedures and internal controls are reasonably designed to (1)  ensure the security and confidentiality of Nonpublic Personal Information, (2) protect against anticipated threats or  hazards to the security and integrity of Nonpublic Personal Information, and (3) protect against unauthorized  access to or use of Nonpublic Personal Information.
+
+
+
+11.04 Duty to Notify; Cooperation. Each Party shall promptly notify the others of the following of which any of them has received  notice or has otherwise become aware: (1) any violation of Law by the personnel of such Party that would materially impact on  the ability of that Party or its Affiliates, as applicable, to perform their respective duties and obligations under any of the  Transaction
+
+
+
+
+
+
+
+
+
+SECTION 12 INDEMNIFICATION
+
+
+
+
+
+
+
+   22
+
+
+
+Documents, as applicable, (2) any violation of Law that relates in any way to the GIE; (3) any complaint or allegation by a GIE  Certificate Owner relating in any way to the GIE (each, a "Customer Complaint"); and (4) any examination, investigation,  allegation, proceeding, or action by a Governmental Entity, including a court, federal or State securities regulators, State  insurance regulators, and State attorney general, related to any of the Transaction Documents provided that no such notice  shall be required if such notice is prohibited by Law or if the Governmental Entity requesting such information has requested  that the request not be disclosed.
+
+
+
+11.04.1 Customer Complaints. The Parties shall cooperate with each other in resolving each Customer Complaint. Any  proposed response by a Party to a Customer Complaint shall be sent to the other Parties not less than five (5)  Business Days prior to the response being sent to any person, including the Certificate Owner or any Governmental  Entity, provided, however, that if a more prompt response is required, the Parties shall send to the other Parties the  proposed response as soon as practicable under the circumstances but in no event shall any Party submit such  response to another person without providing the other Party with prior written notice of and a copy of the  response.
+
+  11.04.2 Examinations, Investigations and Proceedings. The Parties shall cooperate with each other in connection with any  matter described under Section 11.04 as set forth above.
+
+  12.01 Indemnification by the PHL Parties.
+
+
+
+12.01.1 Indemnification. Each of the PHL Parties shall, jointly and severally, indemnify and hold harmless ICC, its Affiliates,  and each of their respective officers, directors, employees, representatives, successors and permitted assigns  (collectively, the "Investors Capital Indemnitees"), from and against any and all losses, claims, damages, liabilities,  judgments, costs and expenses, including reasonable attorney fees and costs of investigation (collectively, "Loss"  or "Losses"), to which any Investor Capital Indemnitee may become subject, relating to or arising from any of the  following:
+
+  12.01.1.1 a material breach by any of the PHL Parties, any of their Affiliates, or any their respective officers, directors,  employees, agents, representatives, successors or permitted assigns of any provision of any of the Transaction  Documents to which they are a party;
+
+  12.01.1.2 a material violation of applicable Law by any of the PHL Parties, any of their Affiliates, or any their  respective officers,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   - 23 -
+
+
+
+directors, employees, agents, representatives, successors or permitted assigns relating to or arising  from any of the Transaction Documents to which they are a party; provided, however, that none of the  PHL Parties shall owe indemnification for Losses related to a material violation of Law arising out of or  based upon reliance by any of the PHL Parties or any of its Affiliates upon information about ICC or  any Affiliate thereof provided by ICC in writing to a PHL Party;     12.01.1.3 the GIE, including its issuance and administration and any benefit payments due under the GIE;
+
+  12.01.1.4 any and all documents relating to or arising from the GIE that are drafted by, or are reviewed and  approved by, any of the PHL Parties or any Affiliate thereof, including the Registration Statement,  correspondence with Certificate Owners, and filings with Governmental Entities; or
+
+  12.01.1.5 any claim for infringement of intellectual property rights by an unaffiliated third party in connection  with any product that is similar to or resembles all or any part of the GIE.
+
+
+
+12.01.2 Limitation. Indemnification pursuant to this Section 12.01 shall be in addition to any liability that any of the PHL  Parties may otherwise have. Notwithstanding anything to the contrary set forth in this Section, no Investor Capital  Indemnitee shall be entitled to indemnification pursuant to this Section to the extent that (a) Losses are attributable  to acts, omissions or conduct of any Investor Capital Indemnitee that constitute willful misconduct, gross  negligence, bad faith, or recklessness (other than any of the PHL Parties, any of their Affiliates, or any their  respective officers, directors, employees, agents, representatives, successors or permitted assigns acting as an  agent or representative of any of the Investors Capital Indemnitees), unless such acts, omissions or conduct were  committed at the written direction of any of the PHL Parties Authorized Persons, or (b) such Loss is also a Loss for  which the PHL Indemnitees are indemnified pursuant to Section 12.02 of this Agreement. Each Investors Capital  Party acknowledges that none of the PHL Parties or their Affiliates shall be deemed to have guaranteed the  profitability of the GIE or any volume of sales, and no indemnification shall arise based on an assertion of such a  guarantee of profitability of the GIE or volume of sales.
+
+  12.02 Indemnification by the ICC.
+
+  12.02.1 Indemnification. ICC shall indemnify and hold harmless each of the PHL Parties, their Affiliates, and each of their  respective officers, directors, employees, representatives, successors and permitted assigns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   - 24 -
+
+  (collectively, the "PHL Indemnitees"), from and against any and all Losses to which any PHL Indemnitee may  become subject, relating to or arising from any of the following:
+
+  12.02.1.1 a material breach by ICC, any of their Affiliates, or any their respective or any of their officers,  directors, employees, agents, representatives, successors or permitted assigns, of any provision of the  Transaction Documents to which they are a party;
+
+
+
+12.02.1.2 a material violation of applicable Law by ICC , any of its Affiliates, or any their respective or any of its  officers, directors, employees, agents, representatives, successors or permitted assigns, relating to or  arising from the Transaction Documents to which they are a party or ICC; provided, however, that ICC  shall not owe indemnification for Losses related to a material violation of Law arising out of or based  upon reliance by ICC or any of its Affiliates upon information about any of the PHL Parties or any  Affiliate thereof provided by any of the PHL Parties in writing to ICC;
+
+  12.02.1.3 the administration and management of ICC Accounts;
+
+  12.02.1.4 any claim by any person or entity related in any way to the development of all or any part of ICC, but  excluding claims relating in any way to the development of all or any part of the GIE or Registration  Statement;
+
+
+
+12.02.1.5 any claim for infringement of intellectual property rights by an unaffiliated third party in connection  with any product that is similar to or resembles all or any part of ICC, but excluding any claim relating  in any way to the development of all or any part of the GIE or Registration Statement and any claim  described in Sections 12.01.1(e) and (f) of this Agreement; or
+
+
+
+12.02.1.6 a termination of a Certificate by either PHLVIC or PLIC as a result of a breach of the Memorandum of  Understanding by ICAS that is not cured on or before the 5th consecutive Business Day following the  date on which either PHLVIC or PLIC delivers notice under the Memorandum of Understanding that  PHLVIC or PLIC, as applicable, has determined it cannot hedge changes proposed by ICAS either (i)  without incurring material additional risk or additional hedging costs that are material in light of the  pricing of the GIE, or (ii) because Phoenix is unable to obtain an appropriate hedge (a determination as  to either (i) or (ii), a "Determination"); except a breach shall not be deemed to have occurred if the ICC  demonstrates, through binding arbitration pursuant to Section 14.02 of this Agreement, that a  Determination was unreasonable, erroneous or not made in good faith.
+
+
+
+
+
+
+
+
+
+
+
+   - 25 -
+
+
+
+12.02.2 Limitation. Indemnification pursuant to this Section 12.02 shall be in addition to any liability that the ICC may  otherwise have. Notwithstanding anything to the contrary set forth in this Section, no PHL Indemnitee shall be  entitled to indemnification pursuant to this Section to the extent that (a) Losses are attributable to acts, omissions  or conduct of any PHL Indemnitee that constitute willful misconduct, gross negligence, bad faith, or recklessness  (other than any of ICC, any of their Affiliates, or any their respective officers, directors, employees, agents,  representatives, successors or permitted assigns acting as an agent or representative of any of the PHL  Indemnitees), unless such acts, omissions or conduct were committed at the written direction of ICC Authorized  Persons, or (b) such Loss is also a Loss for which the Investor Capital Indemnitees are indemnified pursuant to  Section 12.01 of this Agreement. Each PHL Party acknowledges that neither ICAS nor any of its Affiliates shall be  deemed to have guaranteed the profitability of the GIE or any volume of sales, and no indemnification shall arise in  connection with profitability of the GIE or volume of sales.
+
+
+
+12.03 Inter-Party Claims. Any Party seeking indemnification pursuant to this Section 12 (the "Indemnified Party") shall notify the  other Party or Parties from whom such indemnification is sought (the "Indemnifying Party") of the Indemnified Party's assertion  of such claim for indemnification, specifying the basis of such claim. The Indemnified Party shall thereupon give the  Indemnifying Party reasonable access to the documents that evidence or support such claim or the act, omission or occurrence  giving rise to such claim.
+
+  12.04 Third Party Claims.
+
+
+
+12.04.1 Each Indemnified Party shall promptly notify the Indemnifying Party of the assertion by any third party of any claim  with respect to which the indemnification set forth in this Article 12 relates (which shall also constitute the notice  required by Section 16.03). The Indemnifying Party shall have the right, upon notice to the Indemnified Party within  ten business days after the receipt of any such notice, to undertake the defense of or, with the consent of the  Indemnified Party, (which consent shall not unreasonably be withheld), to settle or compromise such claim. The  failure of the Indemnifying Party to give such notice and to undertake the defense of or to settle or compromise  such a claim shall constitute a waiver of the Indemnifying Party's rights under this Section 12.04.1 and shall  preclude the Indemnifying Party from disputing the manner in which the Indemnified Party may conduct the defense  of such claim or the reasonableness of any amount paid by the Indemnified Party in satisfaction of such claim.
+
+
+
+
+
+SECTION 13 STATUS OF PARTIES
+
+
+
+
+
+
+
+   - 26 -
+
+  12.04.2 The election by the Indemnifying Party, pursuant to Section 13.03.1, to undertake the defense of a third-party claim  shall not preclude the Party against which such claim has been made also from participating or continuing to  participate in such defense, so long as such Party bears its own legal fees and expenses for so doing.
+
+
+
+13.01 Independent Contractors. Each of the PHL Parties and their Affiliates, on the one hand, and ICC and its Affiliates, on the other,  shall be deemed to be an independent contractor as to the others for all purposes. None of the Transaction Documents shall be  construed (1) to create the relationship of employer and employee among the Parties hereto or between any Party and any of  the officers, directors, employees, or representatives of any other Party, (2) to create a partnership or joint venture among the  Parties hereto, or (3) to authorize any Party to act as a general or special agent of any other, except as may be specifically set  forth herein. Except as otherwise expressly set for in this Agreement, no Party shall in any manner be prevented or bound to  refrain from engaging in any business or businesses of any kind or nature, or owning or dealing in securities of any entity or  making any investments of any kind, or performing services for any other person, firm, or entity.
+
+  13.02 Authority to Act. Except as otherwise expressly set forth in this Agreement or the Sales and General Agency Agreement, none  of the PHL Parties or their Affiliates, on the one hand, and ICC or its Affiliates, on the other, shall have or be deemed to have  authority to act on behalf of the others.
+
+
+
+13.03 No Third-Party Beneficiaries. This Agreement, the Selling Agreement, and the Memorandum of Understanding are solely  among the Parties hereto, as applicable, and are not intended to create any right or legal relationship, express or implied, among  the Parties or any of their respective Affiliates, officers, directors, employees, agents, representatives, successors or permitted  assigns, on the one hand, and any third party, including any Certificate Owner or other person covered under a GIE, on the  other hand; provided, however, that the Investors Capital Indemnitees and the PHL Indemnitees are expressly intended to be  third-party beneficiaries under this Agreement.
+
+
+
+13.04 ICC Not Underwriter, Insurer or Producer. Notwithstanding anything to the contrary in any Transaction Document, none of  the ICC, its Affiliates, or any of their respective directors, officers, employees, agents, or other representatives are or shall be  deemed to be (1) underwriters of any security, including the GIE; (2) insurers, guarantors, or underwriters of any obligation of  either PHLVIC and PLIC under the GIE, including the obligation of either of PHLVIC or PLIC to pay claims and benefits arising  under the GIE, or (3) insurance agents, brokers or producers, except in the case of ICC and certain of its officers, employees,  agents, or other representatives, who are licensed as insurance producers as required under applicable State insurance Laws.
+
+
+
+
+
+SECTION 14 DISPUTE RESOLUTION
+
+
+
+
+
+
+
+
+
+
+
+
+
+   - 27 -
+
+  13.05 PHL Parties not Investment Adviser. Notwithstanding anything to the contrary in any Transaction Document, none of the PHL  Parties or any of their respective directors, officers, employees, agents, or other representatives are investment advisers under  the Advisers Act or similar State Laws.
+
+  14.01 Disputes Regarding PHL Services or Investors Capital Services.
+
+
+
+14.01.1 Notice; Authorized Persons. During the Term, if any of the PHL Parties, on the one hand, or ICC, on the other,  encounters a problem that it believes constitutes a material breach of the other's duty to provide either the PHL  Services or the Investor Capital Services, as applicable, the non-breaching Parties shall promptly notify the other  Parties in writing, and such breaching Party or Parties shall promptly respond. If the problem is not promptly  resolved among the Parties, a PHL Parties Authorized Person and an ICC Authorized Person shall, before the end of  the first full Business Day following the date on which initial notice is provided by the non-breaching Parties,  consult with each other in good faith concerning the existence, cause and remediation of the possible breach.
+
+  14.01.1.1 If such Authorized Persons mutually determine that the problem constitutes a material breach, the  breaching Party or Parties shall promptly take such actions and make any modifications and/or  changes as are required to correct the breach, without charge to the non-breaching Parties.
+
+  14.01.1.2 If such Authorized Persons cannot mutually determine whether the problem is the result of a material  breach, then the dispute shall be resolved in accordance with Section 15.02 below.
+
+  14.01.2 Indemnification. The non-breaching Party or Parties may seek indemnification for any damages resulting from a  breach under this Section pursuant to Section 12 (Indemnification).
+
+
+
+14.02 Arbitration. All controversies, claims or disputes among the Parties arising out of or relating to this Agreement, either of the  Master Group Annuity Contracts, or breach of any of them, including matters relating to formation, shall be settled by binding  arbitration by the American Arbitration Association in accordance with its Commercial Arbitration Rules and Title 9 of the U.S.  Code. The place of arbitration shall be Hartford, Connecticut.
+
+
+
+14.02.1 The arbitrators shall be disinterested. The number of arbitrators shall be three, one of whom shall be appointed by  the PHL Parties and one of whom shall be appointed by ICC, and the third of whom shall be selected by mutual  agreement of the first two arbitrators, or by the administering authority if the first two arbitrators do not arrive at a  mutual agreement within thirty (30) days of the selection of the second arbitrator.
+
+
+
+
+
+
+
+
+
+
+
+
+
+SECTION 15 DURATION AND TERMINATION
+
+
+
+
+
+
+
+   - 28 -
+
+
+
+14.02.2 A decision of a majority of the arbitrators shall be final and binding and there shall be no appeal therefrom, unless  (i) the decision was procured by corruption, fraud or other undue means; (ii) there was evident partiality by the  arbitrator appointed as a neutral or corruption in any of the arbitrators or misconduct prejudicing the rights of any  Party; or (iii) the arbitrators exceeded their powers. The arbitrators shall issue a written opinion in support of the  arbitration award.
+
+  14.02.3 The arbitrators shall have no authority to award punitive damages or any other damages not measured by the  prevailing Party's actual damages, and may not, in any event, make any ruling, finding or award that does not  conform to the terms and conditions of the applicable agreement.
+
+
+
+14.02.4 Each Party shall be responsible for the costs and expenses incurred by such Party, including attorneys, although  the cost of arbitration, including the fees of the arbitrators, shall be borne equally by the PHL Parties, on the one  hand, and the ICC, on the other; provided, however, that the panel of arbitrators may determine to award fees and  costs, including attorney fees, to the prevailing Party.
+
+  14.02.5 Any Party may seek injunctive relief from the arbitrators to maintain the status quo until such time as the arbitration  award is rendered or the controversy is otherwise resolved.
+
+  14.02.6 Judgment upon the award rendered by the arbitrators may be entered in the courts specified in Section 16.04 below.
+
+
+
+15.01 Duration. Except as to termination of new business pursuant to Section 16.02 of this Agreement, this Agreement shall remain in  effect for so long as any Certificate remains in force with respect to which benefit payments thereunder have not commenced;  provided, however, that the Parties shall be obligated to fulfill their obligations under the Transaction Documents to which they  are a party with respect to any Certificate that remains in force.
+
+  15.02 Termination and Suspension as to New Business.
+
+  15.02.1 Termination. This Agreement may be terminated by either the PHL Parties, on the one hand, or ICC, on the other,  with respect to Certificates that have not been issued as of the effective date of termination in the following manner:
+
+  15.02.1.1 By any of the PHL Parties, on the one hand, or ICC, on the other, providing one hundred and twenty  (120) days prior written notice to the other Parties.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   - 29 -
+
+  15.02.1.2 By ICC, if any of the PHL Parties or their Affiliates, as applicable, materially breaches any of the  Transaction Documents and does not cure such breach within sixty (60) days of being provided  written notice of such breach by ICC.
+
+  15.02.1.3 By any of the ICC, immediately, if:
+
+  15.02.1.3.1 Any of the PHL Parties is placed in receivership or conservatorship or other proceedings  pursuant to which it is substantially prevented from continuing to engage in the lines of  business relevant to the subject matter hereof.
+
+  15.02.1.3.2 Any of the PHL Parties becomes a debtor in bankruptcy, whether voluntary or  involuntary, is the subject of an insolvency, rehabilitation, or delinquency proceeding, or  is determined to be in hazardous financial condition.
+
+  15.02.1.3.3 Any of the PHL Parties becomes the subject of a criminal indictment or information or  similar proceedings.
+
+  15.02.1.3.4 Any of the PHL Parties assigns or transfers this Agreement in a manner that does not  comply with the provisions of this Agreement.
+
+  15.02.1.4 By any of the PHL Parties, if any of the ICC or its Affiliate, as applicable, materially breaches any of the  Transaction Documents to which they are a party and does not cure such breach within sixty (60) days  of being provided written notice of such breach by a PHL Party.
+
+  15.02.1.5 By any of the PHL Parties, immediately, if:
+
+  15.02.1.5.1 ICC is placed in receivership or conservatorship or other proceedings pursuant to which  it is substantially prevented from continuing to engage in the lines of business relevant  to the subject matter hereof.
+
+  15.02.1.5.2 ICC becomes a debtor in bankruptcy, whether voluntary or involuntary, is the subject of  an insolvency, rehabilitation, or delinquency proceeding, or is determined to be in  hazardous financial condition.
+
+  15.02.1.5.3 ICC becomes the subject of a criminal indictment or information or similar proceedings.
+
+  15.02.1.5.4 ICC assigns or transfers this Agreement in a manner that does not comply with the  provisions of this Agreement.
+
+
+
+
+
+SECTION 16 MISCELLANEOUS
+
+
+
+
+
+
+
+   - 30 -
+
+
+
+15.02.2 Suspension. Any of the PHL Parties, on the one hand, and ICC, on the other, upon 30 days written notice, may  suspend issuance of (1) new Certificates entirely or (2) new Certificates guaranteeing ICC Accounts that invest in  one or more Models with certain style attributes or investment vehicles, as may be expressly provided in such  written notice, provided, however that the PHL Parties may suspend the issuance of new Certificates affected by a  change in any of the Models after the 5  consecutive Business Day following the date on which either PHLVIC or  PLIC deliver notice under the Memorandum of Understanding concerning its reasonable determination that it  cannot hedge proposed changes without incurring material additional risk and/or material additional hedging costs,  or because Phoenix is unable to obtain a reasonably appropriate hedge, if ICAS has made the proposed changes  and not cured such changes within such five-day period.
+
+  16.01 Assignment or Change of Control.
+
+
+
+16.01.1 Assignment. This Agreement shall be binding on and shall inure to the benefit of the respective successors and  assigns of the Parties except as otherwise provided in this Agreement. No Party shall assign this Agreement or any  rights or obligations hereunder or, except as expressly set forth in the Agreement with respect to the PHL Services  and Investors Capital Services, delegate any of their respective duties and obligations hereunder, without the prior  written consent of the other Parties, which, in view of the unique and specialized nature of each Party's obligations  hereunder, may be declined by any Investors Capital Party on the one hand or any PHL Party, on the other hand, as  the case may be, for any reason. Any attempted assignment or delegation in violation of this Section shall be void.  A Change of Control, as defined below, shall be considered an assignment under this Section 16.01 and Sections  16.02.1(c) (4) and 16.02.1(e)(4).
+
+  16.01.2 Change of Control. A "Change of Control" means:
+
+
+
+(a) the acquisition by any person, entity or group, including a "group" required to file a Schedule 13D or  Schedule 14D-1 under the 1934 Act (excluding, for this purpose, a Party, its Affiliates and any employee  benefit plan of a Party or its Affiliates that acquires ownership of voting securities of an Affiliate of that  Party) of beneficial ownership (within the meaning of Rule 13d-3 under the 1934 Act) of 50% or more of  either the (1) then outstanding ordinary shares of a Party, of a person or entity controlling such Party, or of a  person or entity controlling such person or entity, up to and including the ultimate controlling person (such  Party and persons or entities collectively, the "Control Group"), or (2) the
+
+th
+
+
+
+
+
+
+
+
+
+
+
+
+
+in each case excluding a reorganization, merger, consolidation, sale, transfer, lease or other disposition when  the transaction is among Parties that are under common control both before and after such transaction.
+
+   - 31 -
+
+  combined voting power of the Control Group's then outstanding voting securities entitled to vote generally  in the election of directors, in each case excluding an acquisition when the transaction is among Parties that  are under common control both before and after such transaction;
+
+
+
+(b) the election or appointment to the board of directors of any member of the Control Group, or resignation of  or removal from such board of directors with the result that the individuals who as of the date hereof  constituted the board of directors (the "Incumbent Board") of each member of the Control Group no longer  constitute at least a majority of such board of directors, provided that any person who becomes a director  subsequent to the date hereof whose appointment, election, or nomination for election by the shareholders  of each member of the Control Group, was approved by a vote of at least a majority of the Incumbent Board  (other than an appointment, election or nomination of an individual whose initial assumption of office is in  connection with an actual or threatened election contest relating to the election of the directors of a member  of the Control Group) shall be, for purposes of this Agreement, considered as though such person were a  member of the Incumbent Board; or
+
+  (c) the approval by the shareholders of any member of the Control Group of:
+
+
+
+(1) a reorganization, merger or consolidation by reason of which the persons who were the shareholders  of such member of the Control Group immediately prior to such reorganization, merger or consolidation  do not, immediately thereafter, own more than 50% of the combined voting power of the reorganized,  merged or consolidated company's then outstanding voting securities entitled to vote generally in the  election of directors, or
+
+  (2) a liquidation or dissolution of such member of the Control Group or the sale, transfer, lease or other  disposition of all or substantially all of the assets of such person (whether such assets are held  directly or indirectly),
+
+  16.02 Rights, Remedies, Etc. are Cumulative. The rights, remedies, and obligations contained in this Agreement are cumulative and  are in addition to any and all rights, remedies, and obligations, at law or in equity, which the Parties may be entitled to under  State and federal laws.
+
+
+
+
+
+If to the PHL Parties   Kathleen A. McGah   Vice President   Life and Annuity Counsel   Phoenix Life Insurance Company   One American Row   PO Box 5056   Hartford, CT 06102-5056   With a simultaneous copy that shall not constitute notice under this section to:   General Counsel   Phoenix Life Insurance Company   One American Row   PO Box 5056   Hartford, CT 06102-5056   If to ICC:   General Counsel   Investors Capital Corporation   230 Broadway East   Lynnfield, MA 01940
+
+   - 32 -
+
+
+
+16.03 Notices. Except as set for in this paragraph, all notices hereunder shall be made in writing and shall be effective upon delivery,  which shall be made (1) by hand delivery, (2) by registered or certified United States mail, postage prepaid with return receipt  requested, (3) by a nationally-recognized overnight courier service, to the addresses set forth below, or to such other address  as any Party may request by giving written notice to the other Parties. A Party may also provide notice by electronic means  (such as email or facsimile) or telephone in cases when immediate notice is required so long as the Party giving notice delivers  separate written notice to be with 24 hours pursuant to Sections 16.03(1) or 16.03 (3).
+
+
+
+16.04 Governing Law. This Agreement shall be construed and its provisions interpreted under and in accordance with the internal  Laws of the State of Connecticut, without giving effect to principles of conflict or choice of laws of that or any other  jurisdiction. Each of the Parties hereto shall submit to the jurisdiction of the courts of the State of Connecticut and the federal  courts in Connecticut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   - 33 -
+
+  16.05 Amendments. No change may be made to the terms or provisions of this Agreement except by written agreement signed by the  Parties.
+
+  16.06 Severability. If any provision of this Agreement is held invalid, illegal, unenforceable, or in conflict with the Law of any  jurisdiction, such provision shall be enforced to the extent permitted under applicable Law, and the validity, legality, and  enforceability of the remaining provisions shall not in any way be affected or impaired thereby.
+
+  16.07 Waiver. The failure by any Party to insist upon strict compliance with any condition of this Agreement shall not be construed  as a waiver of such condition. Waiver by one Party to this Agreement of any obligation of another Party to this Agreement  does not constitute a waiver of any further or other obligation of such Party.
+
+
+
+16.08 Interpretation. This Agreement shall be governed by the following rules of interpretation: (a) when a reference is made in this  Agreement to an Article, Section, or Exhibit, such reference shall be to an Article of, a Section of, or Exhibit to, this Agreement  unless otherwise indicated; (b) the headings contained in this Agreement are for reference purposes only and shall not affect in  any way the meaning or interpretation of this Agreement; (c) whenever the words "include," "includes" or "including" are used  in this Agreement, they shall be deemed to be followed by the words "without limitation;" (d) whenever the singular is used  herein, the same shall include the plural, and whenever the plural is used herein, the same shall include the singular, where  appropriate; and (e) references to currency or amounts due shall mean United States dollars.
+
+  16.09 Construction. The Parties hereto have participated, directly or indirectly, in the negotiations and preparation of this Agreement.  In no event shall this Agreement be construed more or less stringently against any Party by reason of another Party being  construed as the principal drafting Party hereto.
+
+  16.10 Survival. The following Sections shall survive termination of this Agreement: Sections7.05, 7.06, 8.06, 8.07, 9 (including Exhibit  C), 10, 11.02, 11.03, 12, 13, 14.02, 16.
+
+
+
+16.11 Entire Agreement. This Agreement, the other Transaction Documents and the Indemnification Agreement between the Parties,  effective as of the Effective Date (the "Indemnification Agreement"), constitute the entire agreement between the Parties hereto  with respect to the subject matter hereof and thereof, and supersede any and all prior oral or written understandings,  agreements or negotiations, between or among the Parties with respect to the subject matter hereof and thereof. No prior  writings by or among the Parties with respect to the subject matter hereof and thereof may be used by any Party in connection  with the interpretation of any provision of this Agreement, the Indemnification Agreement, or the other Transaction  Documents.
+
+
+
+
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed and delivered by their duly authorized partners and  officers, all as of the Effective Date.
+
+
+
+   - 34 -
+
+  16.12 Counterparts. This Agreement may be executed in two or more counterparts, each of which taken together shall constitute one  and the same instrument.
+
+PHL VARIABLE INSURANCE COMPANY     PHOENIX EQUITY PLANNING CORPORATION
+
+BY:   /S/ KATHLEEN A. MCGAH     BY:   /S/ KATHLEEN A. MCGAH  NAME:   KATHLEEN A. MCGAH     NAME:   KATHLEEN A. MCGAH TITLE:   VICE PRESIDENT     TITLE:   VICE PRESIDENT
+
+PHOENIX LIFE INSURANCE COMPANY     INVESTORS CAPITAL CORPORATION
+
+BY:   /S/ JOHN V. LAGRASSE     BY:   /S/ THEODORE E. CHARLES  NAME:   JOHN V. LAGRASSE     NAME:   THEODORE E. CHARLES TITLE:   EXECUTIVE VICE PRESIDENT     TITLE:   DIRECTOR
+
+
+
+
+
+EXHIBIT A TO THE STRATEGIC ALLIANCE AGREEMENT
+
+PHL VARIABLE SERVICES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 35 -
+
+A. PHL Variable shall, or shall cause one or more of its Affiliates to, provide all services necessary or desirable to fully administer the GIE,  including, but not limited to:
+
+  1. Notifying ICC of any change to the GIE Fee rate at least ten calendar days prior to the effective date of the fee change via E-mail;
+
+  2. Calculating the GIE Fee for each Certificate and send the inception and quarterly fee information to ICC;
+
+  3. Calculating the Retirement Income Base for each Certificate;
+
+  4. Calculating the Retirement Income Amount for each Certificate;
+
+  5. Calculating the Required Minimum Distribution for each IRA account, as applicable, but not including tax reporting to the IRS;
+
+  6. Providing telephone support to ICC to enable ICC to answer Certificate Owners' questions about their GIE benefit, including  Retirement Income Base; Retirement Income Amount, and the GIE Fee on Business Days during the regular business hours of PHL  Variable;
+
+  7. Drafting and sending the following documents/correspondence to Certificate Owners:
+
+  a. Welcome Letter and Certificate;
+
+  b. GIE Retirement Income Base /Retirement Income Amount Adjustment Notice or similar notice, due to a withdrawal, contribution  or reaching retirement income date;
+
+  c. GIE Fee Deduction Notice or similar notice, sent quarterly to confirm the GIE Fee deduction;
+
+  d. January 1  Letter, with the new Retirement Income Amount for the year;     e. GIE Termination Notice or similar notice; and
+
+  8. Correspondence after the account value reaches zero;
+
+  9. Sending ICC a report showing any investments in an ICC Account that are not invested in accordance with the ICC models, as  necessary;
+
+  10. Providing ICC with a quarterly data file containing Certificate Owner data, if requested in writing by ICC in order for ICAS to reconcile  data maintained by PHL Variable vs. ICAS. ICC shall notify PHL Variable of any discrepancies identified;
+
+  11. Notifying ICAS, thirty [30] calendar days in advance of the anniversary date for each Certificate, of fee information relating to the  Annual Optional Increase; Correcting Certificate Owner file data upon notification of an incorrect Certificate termination by ICC using  current account values; and
+
+  12. Working with ICC on manual corrections.
+
+B. All information provided shall be in form and content mutually acceptable to the Parties
+
+st
+
+
+
+
+
+EXHIBIT B TO THE STRATEGIC ALLIANCE AGREEMENT
+
+INVESTORS CAPITAL SERVICES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 36 -
+
+A. ICCS shall, or shall cause one or more of its Affiliates, to:
+
+  1. Notify PHL Variable if a Certificate Owner has changed to a non-GIE eligible investment model and has thereby terminated the GIE;
+
+  2. Notify PHL Variable of the amount of non-cash assets transferred into an ICC Account that are in non-conformance to the model asset  allocation in the daily transmission;
+
+  3. Notify PHL Variable of or errors and corrections relating to a Certificate Owner's additional contributions and withdrawals;    4. For new Certificates, send ICC Account assets and values electronically to PHL Variable on the certificate effective date;
+
+  5. If ICAS becomes aware of any material pricing errors, notify PHL Variable of such errors;
+
+  6. On each Business Day, send PHL Variable ICC Account assets, values, and selected transactions electronically;
+
+  7. ICAS shall provide PHL Variable with a quarterly data file containing Certificate Owner data, if requested in writing by PHL Variable in  order for PHL Variable to reconcile data maintained by PHL Variable. PHL Variable shall notify ICAS of any discrepancies identified;
+
+  8. Work with PHL Variable on manual corrections; and
+
+  9. Debit the GIE Fee at inception and quarterly, in advance, and remit the fee to PHL Variable.
+
+  10. Notify PHL Variable if a Certificate Owner has terminated the GIE;
+
+  11. Notify PHL Variable of the divorce of Certificate Owners promptly after such notification is received by ICC or ICAS;
+
+  12. Send PHL Variable a copy of Certificate Owners' divorce decrees promptly after such decrees are received by ICC or ICAS;    13. Notify PHL Variable of the death of a Certificate Owner promptly after such notification is received by ICC or ICAS;
+
+  14. Send PHL Variable a copy of the deceased Certificate Owner's death certificate promptly after the death certificate is received by ICC or  ICAS;
+
+  15. Verify that each Application is completed;
+
+  16. Send the completed Application to PHL Variable; and
+
+  17. Notify PHL Variable if ICC becomes aware of an erroneous termination of a GIE.
+
+B. All information provided shall be in form and content mutually acceptable to the Parties
+
+
+
+
+
+EXHIBIT C
+
+TRADEMARK LICENSE TERMS
+
+The following terms and conditions apply to each License of Trademarks pursuant to Section 9.02 of the Agreement.
+
+
+
+
+
+
+
+
+
+
+
+   - 37 -
+
+1. LIMITED LICENSE: Nothing in the Agreement or this Exhibit shall be construed to grant Licensee any rights or license to any trademark,  trade name, certification mark, service mark, domain name, product name, logo, patent, technical information, or copyright of Licensor other  than as specified herein. All rights not specifically granted to Licensee are reserved to Licensor.
+
+
+
+a) Use: Licensor reserves the right as owner of the Trademarks to specify all aspects of use of the Trademarks, including but not limited  to, the manner, place, type, form, layout, design, channels of trade, channels of distribution, and media of or for such use, on or in  connection with, all displays, advertising, labels, literature, Internet sites, sales promotion materials, and all other forms of use of the  Trademarks. All use of the licensed Trademarks shall inure to the benefit of Licensor. Licensee shall comply with any specific trademark  use rules as may be referenced in any of the Exhibits, or provided to Licensee, which may be amended or revised by Licensor from time  to time, upon written notice.
+
+
+
+b) Acknowledgment: Licensee hereby acknowledges the validity of Licensor's Trademarks and Licensor's exclusive right, title and  interest in and to the Trademarks. As requested by Licensor, Licensee shall employ identifying symbols and/or words in connection  with its use of the Trademarks. Licensee shall cooperate with Licensor in taking all appropriate measures for the protection of the  Trademarks, and shall faithfully observe and execute the requirements, procedures, and directions of Licensor with respect to the use  and protection of the Trademarks. Licensee shall not, during the term of this Agreement, or thereafter:
+
+  (1) do or permit to be done any act or thing which prejudices, infringes or impairs the rights of Licensor with respect to the  Trademarks;
+
+  (2) represent that it has any right, title, or interest in or to the Trademarks, other than the limited license granted hereunder, or in  any registration therefore;
+
+  (3) use, register or attempt to register any trademarks, trade names, logos, domain names, metatags, meta descriptors, or electronic  mail (e-mail) addresses, server names, search-engine markers, that are identical to, or confusingly similar to the Trademarks or  any other trademarks, trade names or domain names of Licensor or any of its subsidiaries or affiliated companies;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   - 38 -
+
+  (4) do anything or produce any goods in connection with the Trademarks that damages or reflects adversely upon Licensor, its  subsidiaries or affiliated companies or any of their trademarks, trade names or domain names; and
+
+  (5) continue any use or action in relation to or in connection with the Trademarks or this Agreement if objected to by Licensor.
+
+  c) Goodwill: Licensee recognizes the value of the reputation and goodwill associated with the Trademarks, acknowledges that the  Trademarks have acquired secondary meaning, and that all related rights and goodwill belong exclusively to Licensor.
+
+  d) Art Work: All art and design or lay-out work that contains, is derived from or used with the Trademarks, shall be solely owned by  Licensor. Licensee shall not obtain, attempt to obtain or claim any copyright or trademark rights therein, and upon request, Licensee  shall assign same to Licensor.
+
+
+
+e) Infringement Action: Licensor shall have the sole right to determine the appropriate action to be taken against any infringement,  imitation, or unauthorized use of the Trademarks including having the sole discretion to settle any claims or any controversy arising  out of any such claims. Licensee shall provide Licensor with such reasonable assistance as Licensor may require in obtaining any  protection of Licensor's rights to the Trademarks at no expense to Licensor. Licensee shall not have any rights or claim against  Licensor for damages or otherwise arising from any determination by Licensor to act or not to act with respect to any alleged  infringement, imitation or unauthorized use by others, and any such determination by Licensor shall not affect the validity or  enforceability of this Agreement. Any and all damages and settlements recovered arising from any action or proceeding shall belong  solely and exclusively to Licensor.
+
+  f) Assignment to LICENSOR: Upon request, Licensee shall transfer to Licensor any rights which accrue to Licensee arising from its use  of the Trademarks or this Agreement.
+
+2. QUALITY STANDARDS, INSPECTION, AND TESTING: So that the value of the goodwill and reputation associated with the Trademarks  will not be diminished, Licensee shall have an obligation to ensure that all materials on which the Trademarks are used shall be of at least the  same uniform high quality (i) as may be approved by Licensor hereunder; or (ii) as specified in quality standards provided by Licensor  hereunder, as the case may be. To monitor for Licensee's adherence to such obligations, Licensor shall have the right to inspect such  materials from time to time through duly authorized representatives. Materials not meeting the quality or other requirements set forth in this  Agreement shall not be in any way promoted in connection with the Trademarks, and all references to the Trademarks on labels, product  literature, promotional material, etc., shall be removed at Licensee's expense.
+
+
+
+
+
+" ® is a registered Trademark of [Licensor] and is used under license to [Licensee]."
+
+
+
+
+
+   - 39 -
+
+3. LICENSING NOTICE: Licensee shall include a notice on all labeling, advertising, literature, Internet sites, and sales promotional materials  that the Trademarks are licensed from Licensor. The notice shall be as follows or as otherwise specified by Licensor:
+
+4. NO CONSEQUENTIAL DAMAGES, ETC.: IN NO EVENT SHALL ANY PARTY BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL,  PUNITIVE, CONSEQUENTIAL, OR ANY SIMILAR DAMAGES WHETHER OR NOT CAUSED BY OR RESULTING FROM THE  NEGLIGENCE OF SUCH PARTY EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, IN RELATION  TO, ARISING OUT OF OR IN CONNECTION WITH THIS EXHIBIT OR THE TRADEMARKS.
+
+5. SUPPLEMENTAL PROVISIONS: If any supplemental provisions are made a part of the Agreement or this Exhibit, they are set forth in  Annex A to this Exhibit.
+
+6. SURVIVAL: Notwithstanding termination of the Agreement, Sections 1(a)-1(f) and 4-6 of this Exhibit shall survive termination of the  Agreement.

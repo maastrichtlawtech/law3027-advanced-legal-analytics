@@ -1,0 +1,323 @@
+EXHIBIT 10.18
+
+                             SPONSORSHIP AGREEMENT
+
+This Sponsorship Agreement ("Agreement") is entered into as of the 14th day of May, 1999 ("Effective Date"), by and between Intuit Inc. a Delaware corporation, located at 2550 Garcia Ave., Mountain View, California 94043 ("Intuit"), and Stamps.com Inc., a Delaware corporation, located at 2900 31st Street, Suite 150, Santa Monica, CA 90405-3035 ("Client").
+
+                                   RECITALS
+
+A.   Intuit maintains sites on the Internet at http://www.quicken.com (the      "Quicken.com Site") and at http://www.quickbooks.com (the "QuickBooks                                 -------------------------      Site"), and owns, manages or is authorized to place advertising on the      following affiliated Web sites worldwide http://www.quicken.excite.com                                               -----------------------------      ("Excite Money & Investing Site"), http://www.quicken.webcrawler.com                                         ---------------------------------      ("WebCrawler Money & Investing Site"), and http://www.quicken.aol.com                                                 --------------------------      ("AOL.com Personal Finance Site") (all such sites, including the      Quicken.com Site and QuickBooks Site, collectively referred to as the      "Intuit Sites"). Within the Intuit Sites, content is organized into topical      channels ("Channels").
+
+B.   Intuit maintains the Quicken'99 software product into which Banner      Advertisements are served ("Quicken Software").
+
+C.   Client is engaged in the business of the sale and delivery of electronic      postage at its Web site located at http://www.stamps.com (the "Client      Site").
+
+D.   Client wishes to promote its business to users of the Intuit Sites through      promotions and advertising in various portions of the Intuit Sites.
+
+Therefore, the parties agree as follows:
+
+1.   ADDITIONAL DEFINITIONS
+
+1.1  "Above-the-Fold" means the portion of a page that is designed to be visible      on a standard computer screen with a resolution of 640 pixels by 480 pixels      without requiring the user to scroll horizontally or vertically through the      page.
+
+1.2  "Banner Advertisement" means advertisements consisting of billboard-like      graphics displayed in a standardized specific location on the Intuit Sites,      which advertisements click-through to the Client Site, or such other      address mutually agreed upon by the parties from time to time.
+
+1.3  "Channel Home Page" means, with respect to any Channel the introductory or      welcome page for such Channel.
+
+1.4  "Client Competitor" means any of the entities listed on Exhibit A to this      Agreement, as such list may be amended by mutual agreement by the parties,      provided such entity derives any of its annual gross revenues from the sale      or delivery of electronic postage or postage meters.
+
+1.5  "Client Graphic" means those mutually agreed upon graphics, artwork, logos,      descriptions and other material provided by Client for use on the Intuit      Sites.
+
+1.6  "Impression" is generated where a User's browser software requests a file      via the World Wide Web service of the Internet, where such file contains a      Banner Advertisement or Link.
+
+                                       1
+
+1.7  "Launch Date" means [***]                           ---
+
+1.8  "Link" means a hypertext text and/or graphic link from the Intuit Sites to      the Client's Site.
+
+1.9  "Net Transaction Revenues" means the aggregate amount of transaction fees      received by Client during the Term from a New Customer for the purchase of      U.S. postage from Client by such New Customer, less amounts attributable to      taxes, shipping, returns, bad debt, handling, credit card charges and      similar charges (collectively, "Deductions").  Notwithstanding the      foregoing, such Deductions, with the exception of credit card charges,      shall not exceed an aggregate of [***] of such transaction fees.                                        ---
+
+1.10 "New Customer" means a User who (a) registers for Client's service using a      unique credit card number, electronic mail address or name not previously      received by Client, and (b) purchases U.S. postage from Client's service.
+
+1.11 "Sponsor Client Graphic" means a Client Graphic which indicates Client as      a "Sponsor" with respect to the sale or delivery of electronic postage,
+
+
+
+
+
+     which graphics click-through to the Client Site, or such other address      mutually agreed upon by the parties from time to time.
+
+1.12 "User" means any person or entity that accesses one or more pages on the      Intuit Sites and is transported via the World Wide Web from the Intuit Site      to the Client's Site.
+
+2.   SMALL BUSINESS CHANNEL PROMOTION
+
+2.1  Promotions. Commencing on the Launch Date and continuing throughout the      ----------      Term, Intuit shall promote Client on the "Small Business" Channel of the      Quicken.com Site, Excite Money & Investing Site and WebCrawler Money &      Investing Site as follows:
+
+     2.1.1  A Sponsor Client Graphic consisting of 160x40 pixels shall be             rotated amongst the following pages (or their successor pages, if             any): (1) "Starting a Business" page, (2) "Managing your Business"             page, (3) "Marketing" page, (4) "Legal Issues" page, and (5) "Taxes             & Accounting" page. Each such Sponsor Client Graphic shall be Above             the Fold.
+
+     2.1.2  A Sponsor Client Graphic of 88x31 pixels to be found at the bottom             of each page where a sponsorship strip exists.
+
+     2.1.3  A text Link to be located Above-the-Fold in a text sponsor bar on             the "Small Business" Channel home page of the Quicken.com Site,             Excite Money & Investing Site and WebCrawler Money & Investing Site.
+
+     2.1.4  A text Link on the "Products & Promos" area of the "Small Business"             Channel Home Page of the Quicken.com Site, Excite Money & Investing             Site and WebCrawler Money & Investing Site.
+
+     2.1.5  A Sponsor Client Graphic consisting of a minimum number of pixels             mutually agreed upon by the parties, will appear on the "Small             Business Mailing/Shipping, OnLine Postage" page in the "Small             Business" Channel, when such page is made publicly available on the             applicable Intuit Sites. Such graphic shall be displayed in a             position mutually agreed upon by the parties.
+
+2.2  Email Promotions. Intuit will place a Sponsor Client Graphic consisting of      ----------------      a minimum of 234x60 pixels, with a mutually agreed upon text in two (2)      mutually agreed upon, small business email newsletters sent by Intuit, to      all its registered small business users who have elected to receive such      newsletter ("Small Business Newsletters").  Client shall be the only      sponsor in each Small Business Newsletter.  For the avoidance of doubt, it      is understood that the Small Business Newsletters shall not contain      advertisements
+
+- -----------------------      [***] Confidential treatment has been requested for the bracketed portions. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+                                       2
+
+     (excluding any editorial content or directory listings which include third      parties that are not Client Competitors) for any entity, other than Client.
+
+2.3  Additional Banner Advertisements. Commencing on the Launch Date and      --------------------------------      continuing throughout the Term, Intuit will include on the Quicken.com      Site, Banner Advertisements consisting of 468x60 pixels.
+
+2.4  Total Small Business Impressions. Intuit estimates but does not guarantee      --------------------------------      to deliver [***] Impressions of Client's Banner Advertisements, Client                  ---      Graphics and Links described in this Section 2 during the entire Term of      this Agreement. Intuit acknowledges it is Client's preference to have      Intuit deliver such Impressions as follows:
+
+          [***]            ---
+
+     If Intuit fails to deliver such Impressions during the twelve (12) month      period following the Launch Date, Intuit agrees to run such promotions in      equivalent areas and placement, as mutually agreed upon by the parties,      until such Impressions have been delivered.
+
+3.   [***] PROMOTION       ---
+
+3.1  Promotions. Commencing on the day after the date on which the [***]      ----------                                                     ---      available and continuing throughout the Term, Intuit shall promote Client      on the [***] of the Quicken.com Site, Excite Money & Investing Site,              ---      WebCrawler Money & Investing Site, and AOL.com Personal Finance Site as      follows:
+
+     3.1.1  A Sponsor Client Graphic of a pixel size mutually agreed upon by the             parties, shall be rotated throughout the "Features and Deals" area.             Each such Sponsor Client Graphic shall be Above the Fold.
+
+
+
+
+
+     3.1.2  A Sponsor Client Graphic of 88x31 pixels to be found at the bottom             of each page where a sponsorship strip exists.
+
+3.2  Additional Banner Advertisements. Commencing on the Launch Date and      --------------------------------      continuing throughout the Term, Intuit will include on the Quicken.com      Site, Excite Money & Investing Site, WebCrawler Money & Investing Site, and      AOL.com Personal Finance Site, Banner Advertisements consisting of 468x60      pixels.
+
+3.3  Total [***] Impressions. Intuit estimates but does not guarantee to deliver      -----------------------      [***] Impressions of Client's Banner Advertisements and Client Graphics       ---      described in this Section 3 during the entire Term of this Agreement.      Intuit acknowledges it is Client's preference to have Intuit deliver such      Impressions as follows:
+
+          [***]            ---
+
+     If Intuit fails to deliver such Impressions during the twelve (12) month      period following the Launch Date, Intuit agrees to run such promotions in      equivalent areas and placement, as mutually agreed upon by the parties,      until such Impressions have been delivered.
+
+4.   QUICKEN.COM SITE HOME PAGE PROMOTION
+
+4.1  Promotions. Commencing on the Launch Date and continuing for a period of      ----------      six (6) months throughout the Term, as mutually agreed by the parties,      Intuit shall promote Client on the Quicken.com Site home page, with a      Sponsor Client Graphic of 88x31 pixels to be found at the bottom of such      home page.
+
+4.2  Total Impressions. Intuit estimates but does not guarantee to deliver [***]      -----------------                                                      ---      Impressions of Client's Sponsor Graphics described in this Section 4 during      the period agreed upon by the parties.  If Intuit fails to deliver
+
+- --------------------      [***] Confidential treatment has been requested for the bracketed portions. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+                                       3
+
+     such Impressions during the agreed upon time period, Intuit agrees to run      such promotions in equivalent areas and placement, as mutually agreed upon      by the parties until such Impressions have been delivered.
+
+5.   QUOTES PLUS TAB EXCITE MONEY & INVESTING SITE PROMOTION
+
+5.1  Promotions. Commencing on the Launch Date and continuing for a period of      ----------      six (6) months throughout the Term, as mutually agreed by the parties,      Intuit shall promote Client on the "Quotes Plus" tab within the      "Investment" Channel of the Excite Money & Investing Site with a Sponsor      Client Graphic of 160x40 pixels will be included Above the Fold at each of      the following "Quotes Plus" page tabs: (1) "Insider Trading", (2)      "Comparison", (3) "Company Profile", (4) "Broker Research", (5) "Analysts",      and (6) "Alerts".
+
+5.2  Total Impressions. Intuit estimates but does not guarantee to deliver [***]      -----------------                                                      ---      Impressions of Client's Sponsor Graphics described in this Section 5 during      the period agreed upon by the parties. If Intuit fails to deliver such      Impressions during the agreed upon time period, Intuit agrees to run such      promotions in equivalent areas and placement, as mutually agreed upon by      the parties until such Impressions have been delivered.
+
+6.   QUICKBOOKS SITE PROMOTION
+
+6.1  Banner Advertisements. Commencing on the Launch Date and continuing      ---------------------      throughout the Term, Intuit will include Banner Advertisements consisting      of 468x60 pixels on the QuickBooks Site.
+
+6.2  Total Impressions: Intuit estimates but does not guarantee to deliver [***]      -----------------                                                      ---      Impressions of Banner Advertisements described in this Section 6 during the      Term of this Agreement. Intuit acknowledges it is Client's preference to      have Intuit deliver such Impressions as follows:
+
+          [***]            ---
+
+     If Intuit fails to deliver such Impressions during the twelve (12) month      period following the Launch Date, Intuit agrees to run such promotions in      equivalent areas and placement, as mutually agreed upon by the parties,      until such Impressions have been delivered.
+
+7.   QUICKEN SOFTWARE PROMOTION
+
+
+
+
+
+7.1  Banner Advertisements. Commencing on the Launch Date and continuing      ---------------------      throughout the Term, Intuit will serve Banner Advertisements consisting of      468x60 pixels into the Quicken Software.
+
+7.2  Total Impressions: Intuit estimates but does not guarantee to deliver [***]      -----------------                                                      ---      Impressions of Banner Advertisements described in this Section 7 during the      Term of this Agreement. Intuit acknowledges it is Client's preference to      have Intuit deliver such Impressions as follows:
+
+          [***]            ---
+
+     If Intuit fails to deliver such Impressions during the twelve (12) month      period following the Launch Date, Intuit agrees to run such promotions in      equivalent areas and placement, as mutually agreed upon by the parties,      until such Impressions have been delivered.
+
+8.   LAUNCH DATE, RESPONSIBILITY FOR INTUIT SITES AND REPORTING
+
+8.1  Client Obligations.  Client will use reasonable efforts to assist Intuit in      ------------------      implementing the promotional placements and advertising described in the      Agreement.  The parties recognize that the Launch Date can be met only if      Client provides final versions of all Client Graphics, text, Banner      Advertisements and other promotional media and valid URL links necessary to      implement the promotional placements and
+
+- ------------------      [***] Confidential treatment has been requested for the bracketed portions. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+                                       4
+
+     advertising described in this Agreement (collectively, "Impression      Material") to Intuit at least ten (10) days prior to the Launch Date.
+
+8.2  Untimely Delivery Options. In the event that Client fails to provide the      -------------------------      Impression Material to Intuit at least ten (10) days in advance of the      Launch Date, Intuit may, at its sole discretion (i) reschedule the Launch      Date to the earliest practicable date according to the availability of      Intuit's engineering resources after delivery of the complete Impression      Material or (ii) commence delivery of Impressions based on Impression      Material in Intuit's possession at the time and/or reasonable placeholders      created by Intuit.
+
+8.3  Intuit Sites.  Intuit will have sole responsibility for providing, hosting      ------------      and maintaining, at its expense, the Intuit Sites.  Subject to the terms      and conditions set forth herein, including without limitation, the      obligations of Intuit set forth in Sections 2-7, Intuit will have sole      control over the "look and feel" of the Intuit Sites including, but not      limited to, the display, appearance and placement of the parties'      respective names and/or brands and the promotional links.  Notwithstanding      the above, Client acknowledges that the Banner Advertisements may be served      by a third party authorized by Intuit ("Authorized Advertisement Server")
+
+8.4  Reports. Intuit or its Authorized Advertisement Server will provide Client      -------      with monthly reports ("Usage Reports") substantiating the number of      Impressions of Client's Banner Advertisements, Client Graphics, Sponsor      Client Graphics and Links displayed on the Intuit Sites, the total number      of click-throughs generated by each such advertisement or graphic, and such      other information as the parties shall mutually agree.
+
+8.5  Records/Audit. Intuit will maintain accurate records with respect to the      -------------      calculation of Impressions delivered pursuant to this Agreement. Client      may, upon no less than thirty (30) days prior written notice to Intuit,      cause an independent Certified Public Accountant to inspect all relevant      records of Intuit upon which the calculation of Impressions under the Usage      Reports are based during Client's normal business hours. The fees charged      by such Certified Public Accountant in connection with the inspection will      be paid by Client unless the number of Impressions are determined to have      been less than ninety-five percent (95%) of the Impressions due to Client,      in which case Client will be responsible for the payment of the reasonable      fees for such inspection.   In addition, if the audit reveals such      shortfall in the number of Impressions generated, Intuit shall continue to      display Client's Banner Advertisements, Client Graphics, Sponsor Client      Graphics and Links on the Intuit Sites as set forth herein.  The audit      rights set forth herein shall continue for one (1) year following the      termination of this Agreement for any reason.  No such audit may occur more      than once a year during the Term.
+
+9.   EXCLUSIVITY
+
+     Throughout the Term Intuit will not place, and will not allow any party      acting on its behalf to place, any graphic, link or other form of      advertising or media on any page of the Quicken.com Site and/or on any page      on the AOL.com Personal Finance Site (other than the Channel Home Page),      which markets or promotes any electronic postage product, postage meter
+
+
+
+
+
+     and/or service ("Postage Products") offered by a Client Competitor.      Notwithstanding the above, Intuit may include editorial content or tools      about or from a Client Competitor and include Client Competitors in      directory listings.
+
+10.  FEES
+
+10.1 Sponsorship, Advertising and Exclusivity Fees.  Client will pay Intuit       ---------------------------------------------      sponsorship and advertising fees of $2,644,010 and an exclusivity fee of      $661,003.  Such fees shall be paid to Intuit as follows.  An initial fee of      $[***] shall be due and payable on the Effective Date.  The remaining        ---      balance of $[***] shall be paid to Intuit in 12 equal monthly installments                   ---      of [***]. Each monthly installment should be payable in advance and due no          ---      later than the fifth (5th) of the month.
+
+- -------------------      [***] Confidential treatment has been requested for the bracketed portions. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+                                       5
+
+10.2 Transaction Fees.  Separate and apart from the fees in Subsection 10.1      above, at such time as Client has acquired [***] New Customers (the                                                  ---      "Minimum Customer Number") Client will pay Intuit [***] of the Net                                                         ---      Transaction Revenues it receives from each New Customer acquired by Client      above the Minimum Customer Number ("Transaction Fee").  Within fifteen (15)      days after the end of each month, Client will provide a monthly report (the      "Transaction Fee Report") to Intuit. The Transaction Fee Report will report      the Net Transaction Revenue and Transaction Fees for such month. All      Transaction Fees due per the Transaction Fee Report will be paid with the      submission of such Report.
+
+10.3 Records/Audit.  Client will maintain accurate records with respect to the      -------------      calculation of all Transaction Fees due under this Agreement.  Intuit may,      upon no less than thirty (30) days prior written notice to Client, cause an      independent Certified Public Accountant to inspect all relevant records of      Client upon which the calculation of such payments are based during      Client's normal business hours.  The fees charged by such Certified Public      Accountant in connection with the inspection will be paid by Intuit unless      the payments made to Intuit are determined to have been less than ninety-      five percent (95%) of the payments actually owed to Intuit, in which case      Client will be responsible for the payment of the reasonable fees for such      inspection. In addition, Client shall immediately remit payment to Intuit      for the full amount of any disclosed shortfalls.  The audit rights set      forth herein shall continue for one (1) year following the termination of      this Agreement for any reason. No such audit may occur more than once a      year during the Term.
+
+10.4 Cost and Expenses.  Unless otherwise provided in this Agreement, each       ------------------      party shall bear its own costs and expenses in connection with its      activities performed under this Agreement.
+
+11.  PUBLICITY
+
+     Unless required by law, neither party will make any public statement, press      release or other announcement relating to the terms of or existence of this      Agreement without the prior written approval of the other.  Notwithstanding      the foregoing, the parties agree to issue a mutually acceptable initial      press release regarding the relationship between Intuit and Client, within      thirty (30) days of the Effective Date unless agreed otherwise by the      parties.
+
+12.  TERM AND TERMINATION
+
+12.1 Term. Unless otherwise terminated as specified in this Section 12, the      ----      term of this Agreement shall begin on the Effective Date and will not end      until the later of (a) twelve (12) months from the Launch Date; or (2) the      date Intuit displays a total of 176,717,916 Impressions in accordance with      the terms set forth herein ("Term").
+
+12.2 Termination. Either party may terminate this Agreement if the other party      -----------      materially breaches a material obligation hereunder and such breach remains      uncured for thirty (30) days following the notice to the breaching party of      the breach and the notifying party's intention to terminate.  All      undisputed payments that have accrued prior to the termination or      expiration of this Agreement for any reason will be payable in full within      thirty (30) days thereof.  In addition, upon the termination of this      Agreement by Client for any reason, a pro-rata amount of the Monthly      Payment Fee shall be refunded to Client calculated as follows: the Monthly      Payment Fee less the cost of the Impressions displayed for such month as of      the effective date of the termination, calculated on an average CPM basis.
+
+12.3 Survival.  The provisions of Section 6.5, Section 10.3, Section 12.3,      --------
+
+
+
+
+
+     Section 13.1, Section 14, Section 15, Section 16, Section 17, and Section      18 will survive any termination or expiration of this Agreement.
+
+- ---------------------      [***] Confidential treatment has been requested for the bracketed portions. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+                                       6
+
+12.4 Renewal.  If Intuit elects to provide advertising, sponsorship or other      -------      promotional space on all or any portion of the Intuit Sites for a Client      Competitor, Intuit agrees to negotiate with Client in good faith regarding      such promotional opportunity.  In the event the parties fail to reach      agreement within ten (10) business days following the commencement of such      good faith negotiations (or such later date as the parties may agree to),      Intuit may offer the opportunity to any third party on terms and conditions      no less favorable then those offered to Client.
+
+13.  TRADEMARK OWNERSHIP AND LICENSE
+
+13.1 Ownership. Client will retain all right, title and interest in and to its      ---------      trademarks, service marks and trade names worldwide, subject to the limited      license granted to Intuit hereunder.  Intuit will retain all right, title      and interest in and to its trademarks, service marks and trade names      worldwide, subject to the limited license granted to Client hereunder.
+
+13.2 License. Each party hereby grants to the other a non-exclusive, limited      -------      license to use its trademarks, service marks or trade names only as      specifically described in this Agreement.  All such use shall be in      accordance with each party's reasonable policies regarding advertising and      trademark usage as shall be established or changed from time to time in      each party's sole discretion.  Upon the expiration or termination of this      Agreement, each party will cease using the trademarks, service marks and/or      trade names of the other except as the parties may agree in writing or to      the extent permitted by applicable law.
+
+14.  CONTENT OWNERSHIP
+
+     Client will retain all right, title and interest in and to the Client Site      worldwide including, but not limited to, ownership of all copyrights, look      and feel and other intellectual property rights therein.  Intuit will      retain all right, title, and interest in and to the Intuit Sites worldwide      including, but not limited to, ownership of all copyrights, look and feel      and other intellectual property rights therein.
+
+15.  CONFIDENTIALITY AND USER DATA
+
+15.1 Definition. For the purposes of this Agreement, "Confidential Information"      ----------      means this Agreement, and all information about the disclosing party's (or      its suppliers') business or activities that is proprietary and      confidential, which shall include all business, financial, technical and      other information of a party marked or designated by such party as      "confidential or "proprietary" at the time of disclosure.  In addition, the      Usage Reports are considered to be confidential to Intuit.
+
+15.2 Exclusions. Confidential Information will not include information that (i)      ----------      is in or enters the public domain without breach of this Agreement, (ii)      the receiving party lawfully receives from a third party without      restriction on disclosure and without breach of a nondisclosure obligation,      (iii) the receiving party rightfully knew prior to receiving such      information from the disclosing party or (iv) the receiving party develops      independent of any information originating from the disclosing party.
+
+15.3 Restrictions. Each party agrees (i) that it will not disclose to any third      ------------      party or use any Confidential Information disclosed to it by the other      except as expressly permitted in this Agreement and (ii) that it will take      all reasonable measures to maintain the confidentiality of all Confidential      Information of the other party in its possession or control, which will in      no event be less than the measures it uses to maintain the confidentiality      of its own information of similar importance.
+
+15.4 User Data.  All information and data provided to Intuit by users of the      ---------      Intuit Sites or otherwise collected by Intuit relating to user activity on      the Intuit Sites shall be retained by and owned solely by Intuit.  All      information and data provided to Client by users of the Client Site or      otherwise collected by Client relating to user activity on the Client Site      shall be retained by and owned solely by Client.  Each party agrees to      usesuch information only as authorized by the user and shall not disclose,      sell, license, or otherwise transfer any such information to any third      party (except as required by law) or use the user information for the      transmission of "junk mail," "spam," or any other unsolicited mass      distribution of information.
+
+                                       7
+
+15.5 Limitations. Notwithstanding the foregoing, each party may disclose
+
+
+
+
+
+     -----------      Confidential Information (i) to the extent required by a court of competent      jurisdiction or other governmental authority or otherwise as required by      law or (ii) on a "need-to-know" basis under an obligation of      confidentiality to its legal counsel, accountants, banks and other      financing sources and their advisors.
+
+16.  WARRANTY/INDEMNITY/DISCLAIMER OF WARRANTIES
+
+16.1 By Client. Client represents and warrants that (i) it has full power and      ---------      authority to enter into this Agreement; (ii) entering into and performance      of this Agreement by Client does not violate, conflict with, or result in a      material default under any other contract or agreement to which Client is a      party, or by which it is bound; and (iii) it has the right to make      available the services on the Client Site.
+
+16.2 By Intuit.  Intuit represents and warrants that (i) it has full power and      ---------      authority to enter into this Agreement; (ii) entering into and performance      of this Agreement by Intuit does not violate, conflict with, or result in a      material default under any other contract or agreement to which Intuit is a      party, or by which it is bound; and (iii) it has the right to make      available on the Intuit Sites the Banner Advertisements, Sponsor Client      Graphics, Links and other advertisements placed hereunder.
+
+16.3 By Client.  Client will defend and/or settle any third party claim brought      ---------      against Intuit, its affiliates, officers, directors, employees, consultants      and agents arising from:  (1) a breach of Client's representations or      warranties under Section 16.1; (2) any claim that Client's Impression      Materials infringe or violate any third party's copyright, U.S. patent,      trade secret, any patent outside of the US which Client has knowledge of,      or trademark; or (3) content provided by Client for the Client Site or the      products and services of Client offered on the Client Site, and will pay      resulting costs, damages and reasonable attorneys' fees finally awarded,      provided that Intuit promptly notified Client in writing of any and all      such claims.  Client has sole control of the defense and all related      settlement negotiations and Intuit reasonably cooperates with Client with      the defense and/or settlement thereof, at Client's expense.      Notwithstanding the foregoing, Client shall not, without Intuit's prior      written consent (which consent shall not be unreasonably withheld or      delayed), make any such settlement that imposes any obligation, financial      or otherwise, upon Intuit.  Intuit may not settle or compromise such claim,      action or allegation, except with the prior written consent of Client.      Intuit may have its own counsel in attendance at all proceedings and      substantive negotiations relating to such claim, action or allegation, at      Intuit's cost and expense.
+
+16.4 By Intuit.  Intuit will defend and and/or settle any third party claim      ---------      brought against Client, its affiliates, officers, directors employees,      consultants and agents arising from (1) a breach of Intuit's      representations or warranties under Section 16.2; or (2) any claim arising      from the Intuit Sites other than content or services provided by Client,      and will pay resulting costs, damages and reasonable attorneys' fees      finally awarded, provided that Client promptly notifies Intuit in writing      of any and all such claims.  Intuit has sole control of the defense and all      related settlement negotiations, and Client reasonably cooperates with      Intuit with the defense and/or settlement thereof at Intuit's expense.      Notwithstanding the foregoing, Intuit shall not, without Client's prior      written consent (which consent shall not be unreasonably withheld or      delayed), make any such settlement that imposes any obligations, financial      or otherwise, upon Client.  Client may not settle or compromise such claim,      action or allegation, except with the prior written consent of Intuit.      Client may have its own counsel in attendance at all proceedings and      substantive negotiations relating to such claim, action or allegation, at      Client's costs and expense.
+
+16.5 DISCLAIMER. EXCEPT AS SPECIFIED IN THIS AGREEMENT, NEITHER PARTY MAKES ANY      ----------      WARRANTY IN CONNECTION WITH THE SUBJECT MATTER OF THIS AGREEMENT AND HEREBY      DISCLAIMS ANY AND ALL IMPLIED WARRANTIES AND CONDITIONS, INCLUDING WITHOUT      LIMITATION ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A      PARTICULAR PURPOSE REGARDING SUCH SUBJECT MATTER.
+
+17.  LIMITATION OF LIABILITY
+
+     EXCEPT UNDER SECTIONS 15 AND 16, IN NO EVENT WILL EITHER PARTY BE LIABLE TO      THE OTHER FOR ANY SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, WHETHER
+
+                                       8
+
+     BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE,      WHETHER OR NOT THAT PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH      DAMAGE.  THE LIABILITY OF EITHER PARTY FOR DAMAGES OR ALLEGED DAMAGES      HEREUNDER (EXCEPT UNDER SECTIONS 15 AND 16), WHETHER IN CONTRACT, TORT OR      ANY OTHER LEGAL THEORY, IS LIMITED TO, AND WILL NOT EXCEED, THE AMOUNTS TO      BE PAID BY CLIENT TO INTUIT HEREUNDER.
+
+18.  GENERAL
+
+18.1 Assignment.  Neither party may assign this Agreement, in whole or in part,      ----------      without the other party's written consent (which will not be unreasonably
+
+
+
+
+
+     withheld or delayed); provided however, that either party may assign its      rights and obligations hereunder in the event of a sale of all, or      substantially all of such party's assets related to this Agreement, whether      by merger, reorganization, operation of law or otherwise, or (2) either      party's assignment and/or delegation of its rights and responsibilities      hereunder to a wholly-owned subsidiary or joint venture in which the      assigning party holds an interest.  Any attempt to assign this Agreement      other than as permitted above will be null and void.  Subject to the      foregoing, this Agreement shall be binding upon and shall inure to the      benefit of both parties, their successors and permitted assigns.
+
+18.2 Applicable Law and Jurisdiction.  This Agreement and the performance of      -------------------------------      the parties under this Agreement shall be governed by and construed in      accordance with the laws of the State of California, U.S.A., except that      body of law concerning conflicts of laws.  In any action relating to the      parties, the parties consent to jurisdiction in a state or federal court in      Santa Clara County, California.
+
+18.3 Notice. Unless otherwise stated, all notices required under this Agreement      ------      shall be in writing and shall be considered given (i) when delivered      personally, (ii) within five (5) days of mailing, certified mail, return      receipt requested and postage prepaid (iii) one (1) day after deposit with      a commercial overnight carrier, or (iv) when delivered by facsimile      transmission.  All communications will be addressed as follows (unless      changed by notice):
+
+          To Client:               Stamps.com                                    2900 31st Street, Suite 150                                    Santa Monica, CA 90405-3035                                    Attn: Vice President, Business Development
+
+                                       9
+
+          To Intuit:               If hand delivered or faxed:                                    --------------------------                                    Intuit Inc.                                    2535 Garcia Avenue MS 2550                                    Mountain View, California  94043                                    Attn:  General Counsel                                    Phone:  650.944.6000                                    Fax:  650.944.5656
+
+                                   If mailed:                                    ---------                                    Intuit Inc.                                    P.O. Box 7850 MS 2550                                    Mountain View, CA  94039-7850                                    Attn:  General Counsel
+
+18.4 No Agency.  The parties are independent contractors and will have no power      ---------      or authority to assume or create any obligation or responsibility on behalf      of each other.  This Agreement will not be construed to create or imply any      partnership, agency or joint venture.
+
+18.5 Force Majeure.  Any delay in or failure of performance by either party      -------------      under this Agreement will not be considered a breach of this Agreement and      will be excused to the extent caused by any occurrence beyond the      reasonable control of such party including, but not limited to, acts of      God, power outages, failures of the Internet, and Client's failure to      obtain any necessary governmental approval required in connection with the      performance of its obligations hereunder.
+
+18.6 Severability.  In the event that any of the provisions of this Agreement      ------------      are held to be unenforceable by a court or arbitrator, the remaining      portions of the Agreement will remain in full force and effect.
+
+18.7 Entire Agreement.  This Agreement is the complete and exclusive agreement      ----------------      between the parties with respect to the subject matter hereof, superseding      any prior agreements and communications (both written and oral) regarding      such subject matter.  This Agreement may only be modified, or any rights      under it waived, by a written document executed by both parties.
+
+18.8 Counterparts.  This Agreement may be executed in counterparts, each of      ------------      which will serve to evidence the parties' binding agreement.
+
+Client:  Stamps.com Inc.                 Intuit Inc.          ---------------
+
+By:     __________________________       By:    _______________________
+
+Name:   __________________________       Name:  _______________________
+
+Title:  __________________________       Title: _______________________
+
+Date:   __________________________       Date:  _______________________
+
+
+
+
+
+                                       10
+
+                                   EXHIBIT A
+
+                              CLIENT COMPETITORS
+
+E-Stamp
+
+Pitney Bowes
+
+Neopost
+
+United States Postal Service Francotype Postalia Ascom
+
+The parties shall meet on a quarterly basis to determine what, if any, changes shall be made to the Client Competitor list. Notwithstanding the above, in the event a Client Competitor is acquired by a third party which is involved in the sales and/or marketing of goods and services outside of electronic postage products, postage meters and/or postage services ("Non Postage Products"), Intuit shall be restricted from promoting the Postage Products of such entity but shall not be restricted from marketing and/or promoting the Non Postage Products of such entity.
+
+                                       11

@@ -1,0 +1,873 @@
+Exhibit 10.5
+
+Certain identified information has been excluded because it is both not material and would likely cause competitive harm if publicly disclosed.
+
+COMMERCIALIZATION AND LICENSE AGREEMENT
+
+This Commercialization and License Agreement (this "Agreement") is made effective as of December 17, 2019 (the "Effective Date") by and between Vyera Pharmaceuticals, LLC, a Delaware limited liability company ("Vyera"), and CytoDyn Inc., a Delaware corporation ("CytoDyn"). CytoDyn and Vyera are sometimes referred to herein individually as a "Party" and collectively as the "Parties."
+
+RECITALS
+
+WHEREAS, Vyera is a pharmaceutical company engaged in the commercialization of products useful in the amelioration, treatment or prevention of certain human diseases and conditions.
+
+WHEREAS, CytoDyn has developed leronlimab (PRO 140), an anti-CCR5 humanized monoclonal antibody and is pursuing the clinical development of its PRO 140 drug candidate for the treatment of multi-drug resistant Human Immunodeficiency Virus ("HIV") infection, as well as related HIV infection indications.
+
+WHEREAS, the Parties desire that, upon regulatory approval of PRO 140 for the Initial Indication (as defined below), Vyera will Commercialize (as defined below) Licensed Products (as defined below) in the Field (as defined below) in the Territory (as defined below), all in accordance with the terms and conditions of this Agreement.
+
+NOW, THEREFORE, in consideration of the foregoing and the premises and conditions set forth herein, the Parties agree as follows:
+
+ARTICLE 1 DEFINITIONS
+
+1.1 "AAA" has the meaning set forth in Section 12.3(a).
+
+1.2 "AAI Agreement" has the meaning set forth in Section 9.2(o).
+
+1.3 "Affiliate" means, with respect to a particular Party, a Person that controls, is controlled by or is under common control with such Party. For the purposes of this definition, the word "control" (including, with correlative meaning, the terms "controlled by" or "under the common control with") means the actual power, either directly or indirectly through one (1) or more intermediaries, to direct or cause the direction of the management and policies of such entity, whether by the ownership of fifty percent (50%) or more of the voting stock of such entity, by contract or otherwise.
+
+1.4 "AGC Agreement" has the meaning set forth in Section 9.2(o).
+
+1.5 "Agreement" has the meaning set forth in the introductory paragraph.
+
+1.6 "Alliance Manager" means, with respect to each Party, the person appointed by such Party from within its organization to coordinate and facilitate the communication, interaction and cooperation of the Parties pursuant to this Agreement. The Alliance Managers shall be the primary contacts between the Parties with respect to the activities conducted pursuant to this Agreement.
+
+1.7 "Annual WAC" means the annual wholesale acquisition cost for the Licensed Product.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+1.8 "API" means an active pharmaceutical ingredient, whether produced from a living organism or through synthetic process (i.e., any substance intended to be used in the manufacture of a drug product and that is intended to furnish pharmacological activity in the cure, treatment or prevention of disease).
+
+1.9 "Applicable Law" means all applicable statutes, ordinances, regulations, rules, or orders of any kind whatsoever of any Governmental Authority, including, without limitation, the FDCA, Prescription Drug Marketing Act, the Generic Drug Enforcement Act of 1992 (21 U.S.C. §335a et seq.), U.S. Patent Act (35 U.S.C. §1 et seq.), Federal Civil False Claims Act (31 U.S.C. §3729 et seq.), and Anti-Kickback Statute (42 U.S.C. §1320a-7b et seq.), all as amended from time to time, together with any rules, regulations, and compliance guidance promulgated thereunder.
+
+1.10 "Arbitration Request" has the meaning set forth in Section 12.3(b).
+
+1.11 "Bankruptcy Laws" has the meaning set forth in Section 11.6(b).
+
+1.12 "Biosimilar Competitor" means, with respect to the Licensed Product, a drug or biological product that has been determined by the FDA to be therapeutically equivalent to the Licensed Product, such that it may be substituted by a pharmacist for the Licensed Product in the Field in the Territory without the need for such pharmacist to seek authorization from the physician that prescribed the Licensed Product.
+
+1.13 "Biosimilar Entry Date" means the first day of the first Calendar Quarter that occurs after Biosimilar Competitor(s) have achieved at least [***] in the Field in the Territory.
+
+1.14 "BLA" means a Biologics License Application (as defined in the FDCA), including all supplements, amendments, variations, extensions and renewals thereof.
+
+1.15 "Breaching Party" has the meaning set forth in Section 11.4.
+
+1.16 "Business Day" means a day other than Saturday, Sunday or any other day on which commercial banks located in the State of New York or the State of Washington, U.S., are authorized or obligated by Applicable Law to close.
+
+1.17 "Calendar Quarter" means the respective periods of three (3) consecutive calendar months ending on March 31, June 30, September 30 and December 31; provided, however, that (a) the first Calendar Quarter of the Term shall extend from the Effective Date to the end of the first complete Calendar Quarter thereafter; and (b) the last Calendar Quarter of the Term shall end upon the expiration or termination of this Agreement.
+
+1.18 "Calendar Year" means the twelve-month period ending on December 31; provided, however, that (a) the first Calendar Year of the Term shall begin on the Effective Date and end on December 31, 2019; and (b) the last Calendar Year of the Term shall end on the effective date of expiration or termination of this Agreement.
+
+1.19 "Change of Control" means, with respect to Vyera, (a) the sale of all or substantially all of its assets; (b) any merger, consolidation or acquisition of Vyera, by or into another Person; and/or (c) any change in the ownership of more than fifty percent (50%) of the voting capital stock of Vyera or its direct or indirect parent entities, other than: (i) transactions involving solely Vyera (or an Affiliate, as applicable) and/or one or more Affiliates, on the one hand, and one or more of Vyera's (or an Affiliate's, as applicable) Affiliates, on the other hand, and/or (ii) transactions in which the stockholders of Vyera (or an Affiliate, as applicable) immediately prior to such transaction hold at least fifty percent (50%) of the voting power of the surviving company or ultimate parent company of the surviving company; in each of clauses (a)-(c), in one or more related transactions.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+1.20 "Claim" has the meaning set forth in Section 13.1.
+
+1.21 "Clinical Trial" means any human clinical study or trial of a Licensed Product in the Field in the Territory.
+
+1.22 "Combination Product" means a product that is Commercialized by Vyera and/or its Affiliates under this Agreement and that comprises, consists of, or incorporates two or more APIs (whether administered together or separately), which includes leronlimab as one of the APIs together with one or more additional APIs that: (a) are not leronlimab; and (b) are not proprietary to CytoDyn, regardless of the formulation or mode of administration of such Combination Product. For the sake of clarity, a Combination Product is a Licensed Product.
+
+1.23 "Commercial Failure" means that Vyera fails to achieve aggregate [***].
+
+1.24 "Commercialization" means any and all pre-launch, launch and post-launch activities related to the marketing, promoting, distributing (to Third Parties), offering for sale and selling a Licensed Product in the Field in the Territory. For clarity, Commercialization does not include Development and/or Manufacturing of a Licensed Product. When used as a verb, "Commercialize" means to engage in Commercialization.
+
+1.25 "Commercialization Plan" has the meaning set forth in Section 5.2.
+
+1.26 "Commercially Reasonable Efforts" means: (a) with respect to the efforts to be expended, or considerations to be undertaken, by a Party or its Affiliate with respect to any objective, activity or decision to be undertaken hereunder, reasonable, good faith efforts to accomplish such objective, activity or decision as such Party would normally use to accomplish a similar objective, activity or decision under similar circumstances; and (b) with respect to Development and Commercialization of any Licensed Product for any indication by a Party, efforts and resources consistent with those efforts and resources commonly used by a similarly situated biotechnology company with respect to a product owned by it or to which it has similar rights, which product is at a similar stage in its development or product life and is of similar market potential taking into account (i) the patent and other proprietary position of the Licensed Product and (ii) the anticipated profitability of the Licensed Product.
+
+1.27 "Competitive Product" means any product for the treatment or prevention of [***], leronlimab that is not a Licensed Product.
+
+1.28 "Confidential Information" means, subject to Article 10, all non-public or proprietary information not otherwise included in Know-How disclosed by either Party to the other Party in connection with the activities contemplated by this Agreement, which may include ideas, inventions, discoveries, concepts, compounds, compositions, formulations, formulas, practices, procedures, processes, methods, knowledge, know-how, trade secrets, technology, inventories, machines, techniques, development, designs, drawings, computer programs, knowledge, skill, experience, documents, apparatus, results, clinical and regulatory strategies, Regulatory Documentation, and submissions pertaining to, or made in association with, filings with any Governmental Authority, data, including pharmacological, toxicological and clinical data, analytical and quality control data, manufacturing data and descriptions, patent and legal data, market data, financial data or descriptions, devices, assays, chemical formulations, specifications, material, product samples and other samples, physical, chemical and biological materials and compounds and information related to such materials and compounds, and any modifications, improvements, designs, and recipes without regard as to whether any of the foregoing is marked "confidential" or "proprietary," or disclosed in oral, written, graphic, or electronic form. Confidential Information shall include the terms and conditions of this Agreement.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+1.29 "Control" or "Controlled" means, with respect to any Know-How, Patent or other intellectual property right, possession (including ownership) by a Party, including its Affiliates, of the ability (without taking into account any rights granted by a Party to the other Party under the terms of this Agreement) to grant access, a license or a sublicense to such Know-How, Patent or other intellectual property right without violating the terms of any agreement or other arrangement with, or necessitating the consent of, any Third Party, at such time that the Party would be first required under this Agreement to grant the other Party such access, license or sublicense.
+
+1.30 "Cost of Goods" means the amount paid to CytoDyn by Vyera for the supply of Licensed Products under the Supply Agreement (net of any mark-up applied under the Supply Agreement). The Cost of Goods shall be the Cost of Manufacture of Licensed Products manufactured by CytoDyn (if applicable) or the amount actually paid by CytoDyn to a Third Party for the Manufacture and supply of such Licensed Products.
+
+1.31 "Cost of Manufacture" [***].
+
+1.32 "Cover", "Covering" or "Covered" means, with respect to a product, technology, process or method, that, in the absence of ownership of, or a license granted under, a Valid Claim, the practice or Commercialization of such product, technology, process or method would infringe such Valid Claim (or, in the case of a Valid Claim that has not yet issued, would infringe such Valid Claim if it were to issue in its then current form or in a substantially similar version).
+
+1.33 "Cure Period" has the meaning set forth in Section 11.4.
+
+1.34 "CytoDyn" has the meaning set forth in the introductory paragraph.
+
+1.35 "CytoDyn Indemnitee" has the meaning set forth in Section 13.1.
+
+1.36 "CytoDyn Know-How" means any and all Know-How Controlled by CytoDyn either or both as of the Effective Date or during the Term that is necessary or useful to Commercialize any Licensed Product in the Field in the Territory.
+
+1.37 "CytoDyn Patents" means any and all Patents Controlled by CytoDyn either or both as of the Effective Date or during the Term that claim any CytoDyn Know-How or Inventions. The CytoDyn Patents as of the Effective Date include those set forth on Attachment A. CytoDyn may update Attachment A from time to time to remove reference to expired Patents and to include reference to additional Patents.
+
+1.38 "CytoDyn Reserved Dispute" has the meaning set forth in Section 12.4.
+
+1.39 "Develop" or "Development" means all research and non-clinical and clinical drug development activities, including toxicology, pharmacology, and other non-clinical efforts, statistical analysis, formulation development, delivery system development, the performance of Clinical Trials, including the Manufacturing, as applicable, of the Licensed Product for use in research and Clinical Trials, or other activities reasonably necessary in order to obtain and maintain Regulatory Approval of Licensed Products in the Field in the Territory. When used as a verb, "Develop" means to engage in Development activities.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+1.40 "Development Plan" means the Development Plan attached hereto as Attachment B, as it may be amended in accordance with Section 4.3.
+
+1.41 "Disclosing Party" has the meaning set forth in Section 10.1.
+
+1.42 "Disposition Period" has the meaning set forth in Section 2.6.
+
+1.43 "Dispute" has the meaning set forth in Section 12.1.
+
+1.44 "Effective Date" has the meaning set forth in the introductory paragraph.
+
+1.45 "Equity Investment" has the meaning set forth in Section 8.13.
+
+1.46 "Existing Licenses" has the meaning set forth in Section 9.2(b).
+
+1.47 "FDA" means the U.S. Food and Drug Administration and any successor agency(ies) or authority having substantially the same function.
+
+1.48 "FDCA" means the United States Federal Food, Drug and Cosmetic Act of 1938 (21 U.S.C. §301 et seq.) and applicable regulations promulgated thereunder, as amended from time to time.
+
+1.49 "Field" means the treatment of HIV in humans.
+
+1.50 "Financial Statements" means (a) the audited consolidated balance sheet of Vyera's parent company, Phoenixus AG and its subsidiaries, for the fiscal year ended December 31, 2018, and the related consolidated statement of operations, shareholders' equity and cash flows for the fiscal year then ended, and (b) the unaudited consolidated balance sheet of Phoenixus AG for the eight (8) months ended August 31, 2019, and the related consolidated profit and loss statements for the eight (8) months then ended.
+
+1.51 "First Commercial Sale" means, with respect to a Licensed Product, the first sale of such Licensed Product to a Third Party by Vyera or its Affiliates after Regulatory Approval of such Licensed Product has been obtained. Sales for test marketing, sampling and promotional uses, compassionate or similar use shall not constitute a First Commercial Sale unless such sale results in a Net Sale.
+
+1.52 [***].
+
+1.53 "Force Majeure" means any event beyond the reasonable control of the affected Party that materially affects the Party's performance of its obligations, except payment obligations, under this Agreement, including embargoes; war or acts of war, including terrorism; insurrections, riots, or civil unrest; strikes, lockouts or other labor disturbances; epidemics, fire, floods, earthquakes, tsunamis, hurricanes or other acts of nature; or acts, omissions or delays in acting by any Governmental Authority (including the refusal of the competent Governmental Authorities to issue required Regulatory Approvals due to reasons other than the affected Party's negligence or willful misconduct or any other cause within the reasonable control of the affected Party) and failure of plant or machinery (provided that such event or failure could not have been prevented by the exercise of skill, diligence, and prudence that would be reasonably and ordinarily expected from a skilled and experienced person engaged in the same type of undertaking under the same or similar circumstances).
+
+1.54 "GAAP" means generally accepted accounting principles current in the U.S.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+1.55 "GCP" means the then-current standards, practices and procedures promulgated or endorsed by the FDA as set forth in the guideline adopted by the International Conference on Harmonization ("ICH"), titled "Guidance for Industry E6 Good Clinical Practice: Consolidated Guidance," (or any successor document) including related regulatory requirements imposed by the FDA, as they may be updated from time to time.
+
+1.56 "GLP" means the then-current standards, practices and procedures promulgated or endorsed by the FDA as set forth in 21 C.F.R. Part 58 (or any successor statute or regulation), including related regulatory requirements imposed by the FDA, as they may be updated from time to time, including applicable guidelines promulgated under the ICH.
+
+1.57 "GMP" means the then-current good manufacturing practices required by the FDA, as set forth in the FDCA, as amended, and the regulations promulgated thereunder, for the manufacture and testing of pharmaceutical materials.
+
+1.58 "Governmental Authority" means any multi-national, national, federal, state, local, municipal or other government authority of any nature (including any governmental division, subdivision, department, instrumentality, agency, bureau, branch, office, commission, council, court or other tribunal).
+
+1.59 "HIV" has the meaning set forth in the Recitals to this Agreement.
+
+1.60 "Indemnifying Party" has the meaning set forth in Section 13.3(a).
+
+1.61 "Indemnitee" has the meaning set forth in Section 13.3(a).
+
+1.62 "Initial Indication" means use in combination with other antiretroviral agents for treatment experienced HIV-1 patients infected exclusively by CCR5- tropic virus, who are failing their current regimen and have documented multi-antiretroviral class resistance to at least one ART drug within 3 drug classes (or within 2 drug classes with limited treatment options).
+
+1.63 "Inventions" means any and all inventions, discoveries and developments, whether or not patentable, which are conceived and reduced to practice relating to the Licensed Product in the Field after the Effective Date and arising in the course of activities under this Agreement: (a) solely by one or more employees or consultants of CytoDyn; (b) solely by one or more employees or consultants of Vyera; or (c) jointly by one or more employees or consultants of CytoDyn and one or more employees or consultants of Vyera. To be clear, Inventions, as defined here, does not include CytoDyn Patents that exist as of the Effective Date.
+
+1.64 "JC" has the meaning set forth in Section 3.1(a).
+
+1.65 "Know-How" means all non-public or proprietary information now known or hereafter developed and disclosed in connection with the activities contemplated by this Agreement, including information applicable to compounds, formulations, compositions, products or to their manufacture, development, registration, use or commercialization or methods of assaying or testing them or processes for their manufacture, formulations containing them, compositions incorporating or comprising them and including all biological, chemical, pharmacological, biochemical, toxicological, pharmaceutical, physical and analytical, safety, quality control, manufacturing, preclinical and clinical data, instructions, processes, formulae, expertise and information, regulatory filings and copies thereof, relevant to the development, manufacture, use or commercialization of and/or which may be useful in studying, testing, development, production or formulation of products, or intermediates for the synthesis thereof.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+1.66 "Knowledge" means, (a) with respect to CytoDyn, the actual knowledge (following due inquiry) of Nader Z. Pourhassan, Michael D. Mulholland, Nitya G. Ray, and Brendan Rae, and (b) with respect to Vyera, the actual knowledge (following due inquiry) of Averill L. Powers, Ruchin Patel, Nicholas J. Pelliccione and Anne K. Kirby.
+
+1.67 "[***]" has the meaning set forth in [***].
+
+1.68 "[***]" has the meaning set forth in [***].
+
+1.69 "Liability" or "Liabilities" means losses, damages, fees, costs and other liabilities incurred by a Party related to such Party's performance or conduct, or by virtue of being a "Party", under this Agreement.
+
+1.70 "Licensed Product" means any pharmaceutical product, including all forms, presentations, strengths, doses and formulations (including any method of delivery), that contains leronlimab (PRO-140) as defined by [***] that CytoDyn is currently evaluating in its clinical development program for the treatment of HIV infection that is Covered by one or more claims of a CytoDyn Patent or CytoDyn Know-How.
+
+1.71 "Licensed Product Infringement" has the meaning set forth in Section 2.4(a).
+
+1.72 "Losses" has the meaning set forth in Section 13.1.
+
+1.73 "Manufacture" means all activities and processes related to the manufacturing of a Licensed Product, or any ingredient thereof, including manufacturing of intermediate and finished Licensed Product for Development and Commercialization, labelling, packaging, handling, warehousing, in- process and finished Licensed Product testing, release of a Licensed Product or any component or ingredient thereof, validation, quality control and quality assurance activities related to manufacturing and release of a Licensed Product and ongoing stability tests and regulatory activities related to any of the foregoing. Where the context so requires, Manufacture shall also include obtaining a Licensed Product from contract manufacturers. When used as a verb, to "Manufacture" means to engage in Manufacturing activities.
+
+1.74 "Minimum Requirements" means the investments and activities identified as "Minimum Requirements" in a Commercialization Plan.
+
+1.75 "[***]" has the meaning set forth in [***].
+
+1.76 "[***]" has the meaning set forth in [***].
+
+1.77 "Net Sales" means, with respect to the Licensed Product, [***]
+
+Notwithstanding the foregoing, amounts received or invoiced by Vyera or its Affiliates for the sale of such Licensed Product among Vyera or its Affiliates for resale shall not be included in the computation of Net Sales hereunder; instead, the amounts invoiced or received by Vyera or its Affiliates, as applicable, on resale to a Third Party shall be included in the computation of Net Sales. In any event, any amounts received or invoiced by Vyera or its Affiliates shall be accounted for only once. For purposes of determining Net Sales, a Licensed Product shall be deemed to be sold when recorded as a sale by Vyera or its Affiliates in accordance with GAAP. For clarity, a particular deduction may only be accounted for once in the calculation of Net Sales. Net Sales shall exclude any samples of Licensed Product transferred or disposed of at no expense for promotional or educational purposes.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+In the event that a Licensed Product is sold as a Combination Product, Net Sales shall be determined as follows:
+
+(A) where all API(s) in such Combination Product are sold separately in the Territory, Net Sales shall be calculated by multiplying the Net Sales of the Combination Product by the fraction A/(A+B), where A is the weighted (by sales volume) average unit sale price of the Licensed Product, as sold separately in finished form in the Territory, where net sales is calculated in the same manner as Net Sales, and B is the sum of the weighted average unit sale price in the Territory (net sales being calculated in the same manner as Net Sales) of the other API(s) included in the Combination Product when sold separately in finished form at the same dosage levels, in each case during the applicable royalty reporting period, or, if sales of both the Licensed Product and the other API(s) did not occur in the same country in such period, then in the most recent royalty reporting period in which sales of both occurred, provided that such "recent royalty reporting period" shall not have been more than twenty-four (24) months earlier.
+
+(B) In the event that such weighted average sale price of the Licensed Product component of the Combination Product cannot be determined, but the weighted average sale price of the other API(s) in the Combination Product can be determined, Net Sales shall be calculated by multiplying the Net Sales of the Combination Product by the fraction (C-D)/C, where C is the weighted (by sales volume) average unit sale price of the Combination Product, and D is the sum of the weighted (by sales volume) average unit sales prices charged for the other API(s) in the Combination Product when sold separately in finished form.
+
+(C) In the event that such weighted average sale price of the other API(s) in the Combination Product cannot be determined, but the weighted average sale price of the Licensed Product component of the Combination Product can be determined, Net Sales shall be calculated by multiplying the Net Sales of the Combination Product by the fraction A/C, where A is the weighted (by sales volume) average unit sales price of such Licensed Product component as sold separately, and C is the weighted (by sales volume) average unit sales price of the Combination Product.
+
+(D) In the event that neither the weighted average sale price of the Licensed Product nor the weighted average sales price of the other API(s) in the Combination Product can be determined, the Net Sales of the Licensed Product shall be calculated by multiplying the Net Sales of the Combination Product (determined as provided above for Licensed Products) by the fraction D/D+E where D is the fair market value of the portion of the Combination Product that includes the Licensed Product and E is the fair market value of the portion of the Combination Product containing the other API(s) in such Combination Product, and all such fair market values shall be determined in good faith by the Parties.
+
+In the event either Party reasonably believes that the calculation set forth above does not fairly reflect the value of the Licensed Product, relative to the other API(s) in the Combination Product, the Parties shall negotiate, in good faith, other means of calculating Net Sales with respect to Combination Products to so reflect such value.
+
+The weighted average sale price for a Licensed Product, any other API(s) used in a Combination Product, or any Combination Product shall be calculated once each Calendar Year, at the beginning of such Calendar Year, and such price shall be used during all applicable royalty reporting periods for such entire Calendar Year. When determining the weighted average sale price of a Licensed Product, other API(s), or Combination Product, the weighted average sale price shall be calculated by dividing the sales dollar (translated into U.S. dollars) by the units of active ingredient sold during the preceding Calendar Year (or the number of months sold in a partial Calendar Year) for the respective Licensed Product, other API(s), or Combination Product. In the initial Calendar Year, a forecasted weighted average sale price will be used for the Licensed Product, other API(s) or Combination Product.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+1.78 "Non-Breaching Party" has the meaning set forth in Section 11.4.
+
+1.79 "Party(ies)" has the meaning set forth in the introductory paragraph.
+
+1.80 "Patents" means all: (a) patents, including any utility or design patent; (b) patent applications, including provisionals, substitutions, divisionals, continuations, continuations in-part or renewals; (c) patents of addition, restorations, extensions, supplementary protection certificates, registration or confirmation patents, patents resulting from post-grant proceedings, re-issues and re-examinations; (d) other patents or patent applications claiming priority directly or indirectly to: (i) any such specified patent or patent application specified in (a) through (c), or (ii) any patent or patent application from which a patent or patent application specified in (a) through (c) claim direct or indirect priority; (e) inventor's certificates; (f) other rights issued from a Governmental Authority similar to any of the foregoing; and (g) in each of (a) through (f), whether such patent, patent application or other right arises in the Territory.
+
+1.81 "Payments" has the meaning set forth in Section 8.10.
+
+1.82 "Person" means an individual, sole proprietorship, partnership, limited partnership, limited liability partnership, corporation, limited liability company, business trust, joint stock company, trust, incorporated association, joint venture or similar entity or organization, including a government or political subdivision, department or agency of a government.
+
+1.83 "Pharmacovigilance Agreement" means the safety data exchange agreement that the Parties will use their Commercially Reasonable Efforts to agree and enter into within ninety (90) days after the Effective Date.
+
+1.84 "Promotional Materials" means all training materials and all written, printed, graphic, electronic, audio or video matter, including journal advertisements, sales visual aids, leave items, formulary binders, reprints, direct mail, direct-to-consumer advertising, Internet postings and broadcast advertisements, in each case, created by Vyera or its Affiliates or on its behalf, and used or intended for use in connection with any promotion of the Licensed Product in the Field in the Territory under this Agreement.
+
+1.85 "Quality Agreement" has the meaning set forth in Section 6.3.
+
+1.86 "Receiving Party" has the meaning set forth in Section 10.1.
+
+1.87 "Regulatory Approval" means any and all approvals (including supplements, amendments, pre- and post-approvals), licenses, registrations or authorizations of any national, regional, state or local Regulatory Authority, department, bureau, commission, council or other governmental entity, that are necessary for the commercialization of a Licensed Product under this Agreement in the Field in the Territory.
+
+1.88 "Regulatory Authority" means: (a) any applicable Governmental Authority involved in granting Regulatory Approval in a country or jurisdiction in the Territory, including the FDA; and (b) any other applicable Governmental Authority having jurisdiction over a pharmaceutical Licensed Product.
+
+1.89 "Regulatory Documentation" means, with respect to each Licensed Product, all: (a) Regulatory Materials, including all data contained therein and all supporting documents created for, submitted to or received from an applicable governmental agency or Regulatory Authority relating to such Regulatory Materials; and (b) other documentation Controlled by a Party which is reasonably necessary in order to Commercialize Licensed Product in the Field in the Territory, including any registrations and licenses, regulatory drug lists, advertising and promotion documents shared with Regulatory Authorities, adverse event files, complaint files and Manufacturing records.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+1.90 "Regulatory Exclusivity" means, with respect to any Licensed Product in the Territory, any additional market protection, other than patent protection, granted by a Regulatory Authority in the Territory which confers an exclusive Commercialization period during which Vyera or its Affiliates have the exclusive right to market and sell such Licensed Product in the Field and in the Territory through a regulatory exclusivity right (e.g., new biologic entity exclusivity, new use or indication exclusivity, new formulation exclusivity, orphan drug exclusivity, pediatric exclusivity, or any applicable data exclusivity).
+
+1.91 "Regulatory Materials" means, with respect to the Licensed Product, all documentation, correspondence, submissions and notifications submitted to or received from a Regulatory Authority that are necessary or reasonably useful in order to Commercialize such Licensed Product in the Field in the Territory. For the avoidance of doubt, Regulatory Materials shall include, with respect to each Licensed Product, all Investigational New Drug applications (INDs), BLAs, Regulatory Approvals, and amendments and supplements for any of the foregoing, as well as the contents of any minutes from meetings (whether in person or by audio conference or videoconference) with a Regulatory Authority.
+
+1.92 "Required Third Party License" has the meaning set forth in Section 8.7.
+
+1.93 "Reserved Disputes" has the meaning set forth in Section 12.4.
+
+1.94 "Royalty Term" means the time period beginning with the First Commercial Sale of the Licensed Product in the Territory and continuing until the latest of (a) the expiration of the last Valid Claim Covering the Licensed Product and included in a CytoDyn Patent licensed to Vyera under this Agreement, (b) the date that is ten (10) years from the date of the First Commercial Sale, (c) the expiration of any Regulatory Exclusivity with respect to the Licensed Product and (d) the Biosimilar Entry Date.
+
+1.95 "SBL Agreement" has the meaning set forth in Section 9.2(o).
+
+1.96 "Serious Adverse Event" means any serious untoward medical occurrence in a patient or subject who is administered a Licensed Product, having reference to the provisions of 21 C.F.R 312.32(a), but only if and to the extent that such serious untoward medical occurrence is required under Applicable Laws to be reported to applicable Regulatory Authorities.
+
+1.97 "Sharp Agreement" has the meaning set forth in Section 9.2(o).
+
+1.98 "Side Letter" means that certain letter agreement, dated as of the date hereof, by and between CytoDyn and Vyera.
+
+1.99 "Step-Down Date" means the later of (a) the expiration of the last Valid Claim Covering the Licensed Product and included in a CytoDyn Patent licensed to Vyera under this Agreement and (b) the expiration of any Regulatory Exclusivity with respect to the Licensed Product.
+
+1.100 "Supply Agreement" has the meaning set forth in Section 6.2.
+
+1.101 "Supply Date" has the meaning set forth in Section 11.3(b).
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+1.102 "Subsequent Indication" means each indication in the Field other than the Initial Indication, including the Monotherapy Indication; provided that Subsequent Indications must be distinct indications and broadening the use of a Licensed Product for a particular indication shall not be deemed a new indication. By way of illustration, extending the use of the Licensed Product to patients of different age parameters who have multi-drug resistant HIV infection shall not be deemed a new indication distinct from the Initial Indication. For clarity, indications outside of the Field, such as indications in connection with oncology are not included within the scope of this Agreement.
+
+1.103 "Term" has the meaning set forth in Section 11.1.
+
+1.104 "Territory" means the U.S.
+
+1.105 "Third Party" means any Person other than (a) Vyera, (b) CytoDyn or (c) an Affiliate of either of Vyera or CytoDyn.
+
+1.106 "Trademarks" has the meaning set forth in Section 5.4(a).
+
+1.107 "Transition Services" has the meaning set forth in Section 11.7(e)(ii).
+
+1.108 "Transition Services Agreement" has the meaning set forth in Section 11.7(e)(i).
+
+1.109 "U.S." means the United States of America, including its territories and possessions, including Puerto Rico.
+
+1.110 "Valid Claim" means a claim of an issued and unexpired Patent included within the CytoDyn Patents to the extent such claim has not been revoked, held invalid or unenforceable by a patent office, court or other governmental agency of competent jurisdiction in a final order, from which no further appeal can be taken, and which claim has not been disclaimed, denied or admitted to be invalid or unenforceable through reissue, re-examination or disclaimer or otherwise.
+
+1.111 "Vyera" has the meaning set forth in the introductory paragraph.
+
+1.112 "Vyera Indemnitee" has the meaning set forth in Section 13.2.
+
+1.113 "Vyera Reserved Dispute" has the meaning set forth in Section 12.4.
+
+ARTICLE 2 LICENSES; PROPRIETARY RIGHTS
+
+2.1 Grant of Licenses. (a) License to Vyera. CytoDyn hereby grants to Vyera, and Vyera hereby accepts, an exclusive royalty-bearing license (or sublicense, as the case may be), under the CytoDyn Patents, the CytoDyn Know-How and the Inventions (if any) solely to Commercialize, use, have used, offer for sale and sell Licensed Products in the Field in the Territory. (b) Sublicense Rights. The licenses granted to Vyera under this Agreement shall not be transferrable and/or sublicensable without CytoDyn's written consent, which it may grant, condition or withhold in its sole discretion.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+2.2 Proprietary Rights. (a) Title. This Agreement does not convey to Vyera any rights in any CytoDyn Patents, CytoDyn Know-How, Regulatory Approvals, Regulatory Materials, Regulatory Documentation, or Inventions by implication, estoppel or otherwise except for the rights expressly granted in Section 2.1(a). Title to the CytoDyn Patents, the CytoDyn Know-How, Regulatory Approvals, Regulatory Materials, Regulatory Documentation, and all Inventions shall at all times remain vested in CytoDyn. Except as otherwise provided in Section 2.2(b) with respect to Inventions, this Agreement does not convey to CytoDyn any rights in any Vyera Know-How or any Vyera Patents by implication, estoppel or otherwise. (b) Inventions. All right, title and interest in and to any and all Inventions that would be necessary or useful to Develop, Manufacture or Commercialize a Licensed Product (and/or an improvement, modification or line extension thereof) will be owned by CytoDyn. To the fullest extent permitted by law, Vyera shall, and hereby does, assign all of its right title and interest in and to any and all Inventions to CytoDyn. In the event that such assignment would be unlawful, Vyera shall, and hereby does, grant to CytoDyn an exclusive, irrevocable, worldwide, sublicensable (including through multiple tiers), transferrable (without consent) royalty free license to any and all right, title and/or interest that it may have in or to an Invention. Vyera will, upon reasonable request of CytoDyn, and at CytoDyn's expense, execute or cause to be executed, any assignments, filings, applications or other documents that CytoDyn may require to evidence its rights in the Inventions.
+
+2.3 Disclosure; Patent Prosecution. (a) Each of CytoDyn and Vyera shall promptly disclose to the other in writing reasonably detailed written reports describing any Invention that might, under the applicable U.S. patent laws, be patentable and constitute an Invention. (b) As between the Parties, CytoDyn shall be responsible, at its sole expense and in its sole discretion, for the preparation, filing, prosecution, and maintenance of any and all CytoDyn Patents (including, for clarity, any CytoDyn Patents that are the result of an Invention). CytoDyn will keep Vyera reasonably informed of the status of such efforts.
+
+2.4 Enforcement and Defense of Patents. (a) Each Party shall give the other Party notice, promptly after becoming aware, of any infringement of CytoDyn Patents, where such infringement concerns the Commercialization, manufacture, importation, use, offer for sale or sale of a Licensed Product in the Field in the Territory (a "Licensed Product Infringement"). CytoDyn shall have the sole right to initiate and prosecute any legal action at its sole expense in its name with respect to CytoDyn Patents, and to also control the defense of any declaratory judgment action relating to such Licensed Product Infringement; provided that no settlement, or consent judgment or other voluntary final disposition of the suit that relates to the Licensed Product in the Field in the Territory may be entered into without the consent of Vyera, which consent shall not be unreasonably withheld, conditioned or delayed. (b) For any action to terminate any Licensed Product Infringement, Vyera will provide reasonable cooperation and will provide CytoDyn with any information or assistance that CytoDyn may reasonably request, at the expense of CytoDyn. CytoDyn shall keep Vyera informed of developments in any such action or proceeding as such may relate to Commercialization, including, to the extent permissible by Applicable Law, the status of any settlement negotiations.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+(c) Any recovery obtained in connection with or as a result of any action to terminate any Licensed Product Infringement contemplated by this Section 2.4, whether by settlement or otherwise, shall be applied first in satisfaction of any costs and expenses incurred by CytoDyn in connection with the action; and next in satisfaction of any unreimbursed costs and expenses incurred by Vyera in connection with the action. The balance, if any remaining after the Parties have been compensated for such costs and expenses shall be allocated between the Parties with any recovery of ordinary damages based upon Licensed Product Infringement (whether awarded on a lost sales or lost profits basis) being deemed to be "Net Sales" and shared equally between the Parties and any recovery of special or punitive damages retained by CytoDyn.
+
+2.5 Field and Territory Restrictions. (a) Nothing in this Agreement is intended to, nor shall it, prevent CytoDyn from (i) Developing, Manufacturing and or Commercializing leronlimab inside or outside of the Territory for use outside of the Field or (ii) Developing or Manufacturing leronlimab inside or outside of the Territory for Commercialization within the Field outside of the Territory, in each case, to the extent such actions would not result in a breach of CytoDyn's obligations to use Commercially Reasonable Efforts to perform the activities set forth in the Development Plan. (b) Vyera shall not Commercialize nor shall it authorize the Commercialization of any Licensed Product outside of the Field or outside of the Territory. Vyera shall not, itself or through other Persons, directly or indirectly, solicit, advertise, sell, distribute, ship, consign, or otherwise transfer any Licensed Product outside of the Field or outside of the Territory. Vyera shall use Commercially Reasonable Efforts to ensure that Licensed Products sold in its Territory are not exported or used outside such Territory. Without limiting the generality of the foregoing, Vyera will not sell any Licensed Product to a purchaser if Vyera knows, or has reason to believe, that such purchaser intends to remove such Licensed Product from the Territory or otherwise intends to facilitate the use of such Licensed Product outside of the Field or outside of the Territory. Vyera shall use Commercially Reasonable Efforts to ensure that its permitted sublicensees, Affiliates, distributors, and wholesalers comply with all of the foregoing obligations.
+
+2.6 Competitive Products. Except as expressly required under this Agreement, Vyera hereby covenants not to Develop, Manufacture, Commercialize or otherwise exploit a Competitive Product in the Territory during the Royalty Term, including by means of an Affiliate. In the event that Vyera experiences a Change of Control with a Third Party that is actively engaged in the Development, Manufacture or Commercialization of a Competitive Product, then, Vyera shall either: (a) within ninety (90) days after the closing of such Change of Control, enter into a binding written agreement to sell, transfer, assign or divest all of Vyera's and/or its Affiliate's rights in and to such Competitive Product to a non-Affiliate Third Party and consummate such sale, transfer, assignment or divestiture of said rights not later than ninety (90) days following the date of the binding Agreement; or (b) within six (6) months after the closing of such Change of Control, terminate any and all Development, Manufacturing, Commercialization and/or other exploitation of such Competitive Product; or (c) terminate this Agreement in accordance with Section 11.2(c). For the avoidance of doubt, Vyera shall not be deemed to be in breach of this Section 2.6 (i) during the one hundred eighty (180) day period following a Change of Control described in this Section 2.6 (the "Disposition Period") so long as it has complied with its obligations under the immediately preceding clause (a), (b) or (c) prior to the end of the Disposition Period and (ii) during the pendency of the one hundred eighty (180)day notice period required pursuant to Section 11.2(c) elects to terminate this Agreement pursuant to the immediately preceding clause (c) prior to the end of the Disposition Period.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+ARTICLE 3 GOVERNANCE
+
+3.1 Joint Committee. (a) Within ten (10) days after the Effective Date, a Joint Committee ("JC") shall be established with the responsibilities and authority set forth in this Section 3.1. The JC shall consist of six (6) members, three (3) members to be appointed by each of CytoDyn and Vyera, and the Alliance Manager from each Party. Each Party may, with notice to the other, substitute any of its members serving on the JC and may invite ad hoc non-voting members as desired. The Parties may also, by mutual agreement, increase or (subject to Section 3.1(d)) decrease the number of members serving on the JC; provided that the number of members representing each Party remains equal. Prior to Regulatory Approval of a Licensed Product, CytoDyn will have the right to appoint one of its members to be the chairperson of the JC. Vyera and CytoDyn shall alternate appointing the chairperson of the JC in each year following Regulatory Approval. (b) The JC shall have the responsibility and authority to: (i) provide a forum for exchange of information related to the Development and Commercialization of Licensed Products in the Field in the Territory; (ii) review and discuss any proposed material amendments or updates to the Development Plan and present the results of such discussions to the management or boards of the Parties for approval; (iii) review and discuss the Commercialization Plan for the Licensed Products in the Field in the Territory and any proposed material amendments or updates thereto and present the results of such discussions to the management or the boards of the Parties for approval; (iv) oversee the implementation of the Development Plan and the Commercialization Plan; (v) monitor the progress of the Development Plan and the Commercialization Plan against the metrics agreed to by the Parties (such as timeline, costs, and revenue) and report on such progress to the management or boards of the Parties; and (vi) perform any other functions as the Parties may agree in writing. (c) The JC shall hold meetings as mutually agreed by the Parties, but in no event less than quarterly unless Vyera and CytoDyn mutually agree in writing (which may include email), no later than thirty (30) days in advance of any meeting following the initial meeting of the JC, that no new business has transpired that would require a meeting of the JC. The first meeting of the JC shall be held within forty-five (45) days of the Effective Date and shall be held in New York, NY. After the initial meeting, meetings may be held by telephone or video conference, provided that the Parties shall meet in person at least once per year, and such meetings shall alternate between New York, New York and Vancouver, Washington. Minutes of all meetings setting forth decisions of the JC shall be prepared by the chairperson and circulated to both Parties within thirty (30) days after each meeting, and shall not become official until approved by both Parties in writing; minutes shall be presented for approval as the first order of business at the subsequent JC meeting, or if it is necessary to approve the minutes prior to such subsequent meeting, then the Parties shall approve the minutes within thirty (30) days of receipt thereof. (d) The quorum for JC meetings shall be four (4) members, provided there are at least two (2) members from each of CytoDyn and Vyera present. The JC will render decisions by unanimous vote. The members of the JC shall act in good faith to cooperate with one another and to reach agreement with respect to issues to be decided by the JC.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+(e) Disagreements among the JC will be resolved via good-faith discussions; provided, that in the event of a disagreement that cannot be resolved within thirty (30) days after the date on which the disagreement arose, the matter shall be resolved pursuant to Section 12.2; and provided, further that if the Dispute cannot be resolved pursuant to Section 12.2, then if such Dispute is a Reserved Dispute, then such Reserved Dispute will be resolved in accordance with Section 12.4, and if such Dispute is not a Reserved Dispute, such dispute will be resolved in accordance with Section 12.3(a). (f) At each JC meeting, CytoDyn will keep the JC informed regarding the progress and results of Development activities with respect to Licensed Product in the Territory in the Field and Vyera will keep the JC informed regarding the progress and results of Commercialization activities with respect to Licensed Product in the Territory in the Field.
+
+3.2 Alliance Managers. Each Party shall appoint, within ten (10) days of the Effective Date, an Alliance Manager. The Alliance Managers shall have the right to attend all meetings of the JC, as non-voting participants and secretaries at such meetings, and may bring to the attention of the JC, any matters or issues either of them reasonably believes should be discussed and shall have such other responsibilities as the Parties may mutually agree in writing. Each Party may replace its Alliance Manager at any time upon notice to the other Party.
+
+3.3 Operating Principles; Expenses. The Parties hereby acknowledge and agree that the deliberations and decision-making of the JC, and any subcommittee established by the JC shall be in accordance with the following operating principles: (a) decisions should be made in a prompt manner; and (b) the Parties' mutual objective is to maximize the clinical and commercial success of the Licensed Products in the Field in the Territory, consistent with sound and ethical business and scientific practices. The Parties shall each bear all expenses of their respective representatives on the JC, Alliance Managers and any other subcommittee established under this Agreement and such costs shall not be included in any other category of expenses under this Agreement, nor will they be deducted from Net Sales. The JC, the Alliance Managers and any other committees established pursuant to this Agreement or as determined by the foregoing committees, will have only such powers as are specifically delegated to it in this Agreement, and will have no power to amend this Agreement or waive a Party's rights or obligations under this Agreement. Either Party may propose topics for inclusion in the agenda for a meeting of the JC; provided that that the chairperson of the JC shall have the authority to determine in which order such topics are discussed in the subject meeting.
+
+3.4 Information Disclosure. Information that otherwise falls under the definition of Confidential Information contained in reports made pursuant to Section 3.1 or otherwise communicated between the Parties will be subject to the confidentiality provisions of Section 10.1. Each Party shall have the right to use the Confidential Information disclosed by the other Party without charge, but only to the extent necessary to enable each Party to carry out its respective role defined in this Agreement or otherwise in exercise of rights granted to it pursuant to this Agreement.
+
+ARTICLE 4 DEVELOPMENT
+
+4.1 Development Plan and Development Activities. CytoDyn shall have sole responsibility for, and final decision-making authority with respect to, performance of Development of the Licensed Product for the Initial Indication and any Subsequent Indication. CytoDyn shall use Commercially Reasonable Efforts to execute and perform the activities set forth in the Development Plan. CytoDyn shall conduct the activities under the Development Plan, and shall ensure that its Affiliates and contractors conduct their activities under the Development Plan, in a good scientific manner and in material compliance with Applicable Law, including cGLP, cGCP, cGMP and applicable national and international guidelines. For clarity, the Development Plan will only include activities related to indications in the Field.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+4.2 Development Reporting. CytoDyn shall provide the JC no later than five (5) Business Days prior to each scheduled JC meeting, with written materials that summarize, in reasonable detail, material Development activities performed in the Field during the immediately preceding period since the last meeting of the JC, and compare such performance with the goals and timelines set forth in the Development Plan. CytoDyn shall also promptly provide the JC with notice of any material delay in Development when compared to the Development Plan.
+
+4.3 Amendments to the Development Plan. CytoDyn may decide from time to time to propose for approval by the JC updates to the Development Plan as necessary to reflect changes in the progress of Development for the Licensed Product for the Initial Indication or a Subsequent Indication in the Territory. Any proposed change to the Development Plan shall set forth all anticipated Development activities and timelines. The JC shall promptly review such proposed change and shall as soon as practicable but in any event within fifteen (15) days following submission either (a) approve it or (b) provide comments to CytoDyn for its consideration. CytoDyn shall consider such comments (if any) and revise the Development Plan to implement all such reasonable comments and provide such revised Development Plan to the JC. If Disputes remain with respect to such amendments to the Development Plan, then such dispute shall be referred to the JC for resolution thereof in accordance with Section 3.1(e). For the avoidance of doubt, the failure to agree on a proposed update to the Development Plan or any Development activities is a CytoDyn Reserved Dispute.
+
+ARTICLE 5 COMMERCIALIZATION
+
+5.1 General. Vyera shall have the exclusive right to implement, and subject to Section 5.5, final decision-making authority with respect to, Commercialization of all Licensed Products in the Field and the Territory. Vyera shall be solely and exclusively responsible for all costs and expenses associated with Commercialization of Licensed Products in the Field and the Territory. Vyera shall use Commercially Reasonable Efforts in connection with such Commercialization of Licensed Products in the Territory for each indication in the Field for which such Licensed Products have received Regulatory Approval, and shall conduct Commercialization activities in material compliance with Applicable Laws and shall ensure that its Third Party contractors conduct Commercialization activities in material compliance with Applicable Laws. Without limiting the foregoing, Vyera shall have the exclusive right and responsibility throughout the Territory for the following: (a) receiving and accepting orders for the Licensed Product from customers; (b) distributing the Licensed Product to customers; (c) controlling invoicing and collection of accounts receivable for Licensed Product sales; (d) recording Licensed Product sales in its books of account for sales (in accordance with Vyera's accounting standards consistently applied (currently GAAP)); (e) subject to Section 5.5, determining pricing for the Licensed Product and all aspects of the promotion (including promotional materials) to be used in Commercializing Licensed Products; (f) negotiating with Third Parties, including without limitation, payors, pharmacy benefit managers and distributors, with respect to sales and distribution of Licensed Product; and (g) paying all rebates, chargebacks and other amounts due to customers in respect of Licensed Products (it being understood that all such amounts shall be deducted in calculating Net Sales). Notwithstanding the foregoing, CytoDyn acknowledges and agrees that in the event Vyera delivers to CytoDyn a notice of termination pursuant to Sections 11.2(b) or (c), the use of Commercially Reasonable Efforts shall take into account Vyera's intent to cease its Commercialization activities as of the end of the applicable notice period and shall not require Vyera to take any action that is inconsistent with such intent.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+5.2 Commercialization Plan. Attached as Attachment C is a written commercialization plan setting forth anticipated material Commercialization activities to be performed for the Licensed Product in the Initial Indication in the Territory (the "Commercialization Plan"). Vyera shall conduct the Commercialization activities in accordance with the Commercialization Plan and in performing such activities will ensure that it meets or exceeds the Minimum Requirements. No later than three (3) months prior to the anticipated First Commercial Sale in the Territory based upon the then most recent Development Plan, Vyera shall update the Commercialization Plan, and shall thereafter update the Commercialization Plan on an annual basis by providing the JC with such updates no later than November 1 of each Calendar Year. In each case, the Commercialization Plan shall, at a minimum, include the activities, investments and allocations set forth in the Minimum Requirements. To the extent that CytoDyn files any BLA with a Regulatory Authority to cover a Subsequent Indication in the Field not included within the then current Licensed Product target label and the FDA accepts such BLA filing for review on or before September 1 of any Calendar Year, the updated Commercialization Plan shall include the Commercialization activities, if any, to be performed with respect to the Licensed Product in such Subsequent Indication.
+
+5.3 Commercialization Reports. With respect to Commercialization of Licensed Products in the Territory, Vyera shall keep the JC informed regarding the progress and results of such Commercialization. Such progress reports shall be provided at least quarterly and in a form reasonably acceptable to CytoDyn. Vyera shall also promptly provide the JC with any additional information regarding its Commercialization of the Licensed Product reasonably requested by the JC, including any material changes in any Commercialization Plan. Vyera shall inform the JC of any such material changes to a Commercialization Plan for the Licensed Product at the first JC meeting following such change.
+
+5.4 Licensed Product Trademarks. (a) CytoDyn shall be responsible for the selection, registration, defense and maintenance of the trademarks under which Vyera will market all Licensed Products in the Territory, as well as all expenses associated therewith (the "Trademarks"). CytoDyn shall own all Trademarks and any domain names incorporating such Trademarks used by Vyera in connection with the Commercialization of Licensed Products in the Field in the Territory under this Agreement and all goodwill associated therewith. Vyera shall not have, assert or acquire any right, title or interest in or to any of the Trademarks. If Vyera acquires any rights in the Trademarks, by operation of Applicable Law, or otherwise, such rights shall be deemed and are hereby irrevocably assigned to CytoDyn without further action by either Party. Vyera shall not grant or attempt to grant a security interest in, or otherwise encumber, the Trademarks or record any such security interest or encumbrance against any application or registration regarding the Trademarks. Vyera shall ensure that all Licensed Products sold in the Territory bear the Trademarks. (b) CytoDyn shall have the right to select all trade dress, logos, slogans, designs and copyrights used on and in connection with the Licensed Products in the Field in the Territory. CytoDyn will be the sole owner of all trade dress, logos, slogans, designs and copyrights specifically created by or on behalf of Vyera or used by Vyera on or in connection with the Licensed Products in the Territory. (c) Vyera shall be responsible, at its expense, for preparing and producing Promotional Materials subject to the review and comment of CytoDyn. Vyera shall make its core Promotional Materials available to CytoDyn for review and comment prior to use, such comments not to be unreasonably disregarded by Vyera. The Promotional Materials used by Vyera or its Affiliates or sublicensees in the Territory shall be consistent with the Regulatory Approval in the Territory and shall in any event comply in all material respects
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+with Applicable Law. Vyera shall use and distribute the Promotional Materials in accordance with the terms of this Agreement, the Commercialization Plan and the direction of the JC. To the extent that CytoDyn disagrees with promotional message or tactics proposed by Vyera for a Licensed Product in the Territory, it may raise such issues with Vyera for discussion, but Vyera is ultimately responsible for all decisions related to promotional message and tactics related to the sale of Licensed Products in the Field in the Territory; provided that, in each instance, such promotional message and/or tactics are in accordance in all material respects with Applicable Law. Notwithstanding anything to the contrary herein, prior to incorporating the Trademarks into any Promotional Materials, Vyera shall provide CytoDyn with mock-ups of the proposed trademark style of usage (i.e., a style sheet) for its review and consent of the trademark usage, such consent not to be unreasonably withheld, delayed or denied.
+
+5.5 Decisions that are not Reserved. Notwithstanding anything to the contrary in this Article 5 or any other section of this Agreement: (a) the Minimum Requirements may not be modified, amended or otherwise changed without the written consent of CytoDyn, such consent not to be unreasonably withheld, conditioned or delayed; and [***].
+
+ARTICLE 6 MANUFACTURE AND SUPPLY
+
+6.1 Supply of Licensed Product. Vyera shall purchase all of its requirements for supply of Licensed Product exclusively from CytoDyn in accordance with the terms and conditions of the Supply Agreement. For clarity, in the event of a termination of the Supply Agreement, this Section 6.1 shall no longer apply to either Party.
+
+6.2 Supply Agreement. The Parties shall enter into a Supply Agreement(s) for the commercial supply of Licensed Product on the Effective Date. The Supply Agreement(s) shall be in the form attached as Attachment D, with such changes (if any) mutually agreed by the Parties in writing.
+
+6.3 Quality Agreement. Within ninety (90) days of the Effective Date, the Parties shall negotiate in good faith and enter into a quality agreement (a "Quality Agreement") setting forth the responsibilities of the Parties with respect to quality assurance matters for the Licensed Product. The Parties acknowledge and agree that: (a) CytoDyn shall have primary responsibility for all quality assurance matters as the holder of the BLA for the Licensed Product; and (b) Vyera shall not be directly responsible for quality assurance matters with respect to the Licensed Product.
+
+ARTICLE 7 REGULATORY MATTERS
+
+7.1 Regulatory Filings; Approvals. CytoDyn shall be responsible for preparing and filing all Regulatory Materials for the Licensed Product in the Territory and outside of the Territory and shall be the owner of all Regulatory Approvals issuing therefrom. CytoDyn shall be responsible for answering any queries from Regulatory Authorities, including those related to Manufacture of the Licensed Product. CytoDyn shall provide Vyera with a copy (which may be wholly or partly in electronic form) of all Regulatory Materials with respect to Licensed Product in the Field in the Territory. CytoDyn shall provide Vyera with reasonable advance notice of any scheduled meeting with the FDA relating to Development and/or the BLA for the Licensed Product in the Field in the Territory, and Vyera shall have the right to silently observe (if and to the extent permitted by the FDA) and, if the Parties mutually agree in writing in advance, participate in any such meeting. CytoDyn shall promptly furnish Vyera with copies of all material correspondence or minutes of material meetings with the FDA in each case relating to the Licensed Product in the Field in the Territory. For clarity, CytoDyn shall have no obligation to share information regarding its development activities, its regulatory meetings or other activities with respect to PRO 140 outside of the Field and/or outside of the Territory.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+7.2 Inspections. To the extent permitted under Applicable Law and, if applicable, its relevant Third Party agreements, (a) CytoDyn shall provide Vyera with reasonable advance notice of any scheduled regulatory inspection of CytoDyn or Third Party Manufacturing facilities used for supply of the Licensed Product as contemplated by Article 6, and (b) Vyera shall be allowed to participate in any pre-approval readiness activities and audits for CytoDyn or its Third Party Manufacturing facilities. CytoDyn or its applicable Third Party manufacturer of Licensed Product shall control all interactions with Regulatory Authorities with respect to such inspection. To the extent permitted under Applicable Law and, if applicable, CytoDyn's relevant Third Party agreements, Vyera shall have the right to be present during such inspection. CytoDyn shall use its Commercially Reasonable Efforts to ensure that any applicable Third Party manufacturer of Licensed Product is obligated to provide such access to Vyera (to the extent that CytoDyn has such rights of access). So long as CytoDyn is supplying Vyera supplies of Licensed Products pursuant to the Supply Agreement, it shall use Commercially Reasonable Efforts to obtain and maintain such rights of access for Vyera.
+
+7.3 Adverse Event Reporting; Pharmacovigilance Agreement. CytoDyn shall be responsible for all adverse event reporting, including any and all Serious Adverse Events with respect to all Licensed Products for all indications in the Territory. CytoDyn shall maintain the unified worldwide adverse event database for the Licensed Products. Within ninety (90) days of the Effective Date the Parties will enter into the Pharmacovigilance Agreement, setting forth guidelines and procedures for the receipt, investigation, recording, review, post-marketing surveillance, communication, reporting and exchange between the Parties of adverse event reports, technical complaints and any other information concerning the safety of the Licensed Products. Vyera shall be responsible for promptly (and in any event in sufficient time to permit CytoDyn to comply with its legal and regulatory reporting obligations) providing to CytoDyn any and all information relating to adverse events, including, without limitation, Serious Adverse Events, that comes into its possession.
+
+7.4 Licensed Product Withdrawals and Recalls. In the event that either Party: (a) becomes aware of an event, incident or circumstance that has occurred which may result in the need for a recall or other removal of a Licensed Product or any lot or lots thereof from the market; (b) becomes aware that a Regulatory Authority is threatening or has initiated an action to remove a Licensed Product from the market; (c) is required by any Regulatory Authority to distribute a "Dear Doctor" letter or its equivalent, regarding use of Licensed Product; or (d) places a Clinical Trial for a Licensed Product in the Field on hold for clinical safety reasons, such Party shall promptly advise the other Party in writing with respect thereto, and shall provide to such other Party copies of all relevant correspondence, notices, and the like. CytoDyn shall have final authority to make all decisions relating to any recall, market withdrawal or other corrective action with respect to the Licensed Product in the Territory and shall be responsible for conducting any recalls or taking such other remedial action, and Vyera agrees, upon reasonable request by CytoDyn to assist with respect to such recalls or remedial actions. The costs of such recall or remedial action shall be apportioned as follows: (i) if the recall or remedial action is due to the nature of the Licensed Product and its specifications as documented in the approved BLA, then CytoDyn shall bear the cost of such recall, (ii) if such recall or remedial action is due to Vyera's Commercialization efforts (such as, without limitation, a false marketing claims triggering a "Dear Doctor" letter) then Vyera shall bear the costs of the recall. If the remedial action or recall is necessitated by a defect in the Manufacturing process for the applicable units of Licensed Product and CytoDyn (or its designee) is supplying the Licensed Product under the Supply Agreement, costs shall be borne as set forth in the Supply Agreement.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+7.5 Other Safety Issues. At the request of either Party, the JC shall establish a subcommittee to handle the discussion of specific safety issues, advise each Party concerning the collection and evaluation of safety data, and respond to any significant safety issues raised, or requests made, by Regulatory Authorities.
+
+7.6 Standards of Conduct. The Parties shall use Commercially Reasonable Efforts to perform, or shall use Commercially Reasonable Efforts to ensure that its Third Party contractors perform, all regulatory activities in good scientific manner and in compliance with Applicable Laws.
+
+ARTICLE 8 CONSIDERATION
+
+8.1 License Fee. Vyera shall pay CytoDyn a non-refundable, non-creditable license issue fee of $500,000 within three (3) Business Days following the date the Parties enter into this Agreement and the Supply Agreement.
+
+8.2 Development and Commercial Milestone Payments. Vyera shall pay each of the following non-refundable, non-creditable payments to CytoDyn upon achievement of each of the following events with respect to the Licensed Product. Each milestone payment by Vyera pursuant to this Section 8.2 shall be payable only one time. Milestone Payment
+
+Upon [***] [***]
+
+Upon the later of (i) [***] and (ii) the [***] [***]
+
+Upon [***] [***]
+
+Upon cumulative Net Sales for the Licensed Product equal to [***] [***]
+
+Upon cumulative Net Sales for the Licensed Product equal to [***] [***]
+
+Upon cumulative Net Sales for the Licensed Product equal to [***] [***]
+
+Upon cumulative Net Sales for the Licensed Product equal to [***] [***]
+
+Upon cumulative Net Sales for the Licensed Product equal to [***] [***]
+
+Upon cumulative Net Sales for the Licensed Product equal to [***] [***]
+
+Total [***]
+
+[***]
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+CytoDyn shall promptly notify Vyera in writing following the achievement of the first two (2) milestone events described in this Section 8.2 and submit to Vyera an invoice for the corresponding milestone payment set forth in this Section 8.2. Within thirty (30) days of Vyera's receipt of any such invoice, Vyera shall remit the milestone payment to CytoDyn in immediately available funds. Vyera shall promptly notify CytoDyn in writing following the achievement of each remaining milestone event described in this Section 8.2, but in no event will such notice be given to CytoDyn later than (a) five (5) Business Days after First Commercial Sale of Licensed Product and (b) twenty (20) Business Days after Vyera becomes aware of the achievement of any milestone related to cumulative Net Sales. Thereafter, CytoDyn shall submit to Vyera an invoice for the corresponding milestone payment set forth in this Section 8.2. Within thirty (30) days of Vyera's receipt of any such invoice, Vyera shall remit the applicable milestone payment to CytoDyn.
+
+8.3 Milestone Payment for [***]. Vyera shall pay to CytoDyn [***] (the "[***] Milestone Payment") in the event that [***] (a "[***]") results in a [***]. Whether a [***] meets the criteria set forth in this Section 8.3 will be determined in good faith by the JC. The determination of whether a [***] results in [***] will not be a Reserved Dispute of either Party. In the event that the JC approves a proposed [***], the JC will discuss in good faith the details of the program that will be implemented to pursue the [***], including the budget, the timeline and any other items that the JC deems material. The proposed program will then be presented to the management of each Party for approval. In the event that the Parties agree to pursue a [***], CytoDyn shall promptly notify Vyera in writing following receipt of [***] and submit to Vyera an invoice for the [***]. Within thirty (30) days of Vyera's receipt of any such invoice, Vyera shall remit the [***] to CytoDyn. The [***] shall be non-refundable and non-creditable. Notwithstanding the foregoing, if the JC and/or the Parties are not able to come to agreement on a program to pursue a [***], the decision on whether to pursue a [***] shall be made by CytoDyn in its sole discretion provided, however, that such [***] will not be eligible for a [***].
+
+8.4 Milestone Payment for [***]. If CytoDyn receives [***], then Vyera shall pay to CytoDyn [***] (the "[***]") in immediately available funds upon the receipt of [***]. CytoDyn shall promptly notify Vyera in writing following receipt of [***] and submit to Vyera an invoice for the corresponding milestone payment set forth in this Section 8.4. Within thirty (30) days of Vyera's receipt of any such invoice, Vyera shall remit the milestone payment to CytoDyn. The [***] shall be non-refundable and non-creditable.
+
+8.5 Milestone Payment for [***]. With respect to any [***] for the Licensed Product within the Field other than the [***], the JC shall determine in good faith (which determination, for the avoidance of doubt, shall not be a Reserved Dispute of either Party) the amount of the payment, if any, payable by Vyera to CytoDyn in the event [***] is received. Such payment as recommended by the JC shall be approved by the management of each Party. CytoDyn shall promptly notify Vyera in writing following receipt [***] for which payment has been agreed and approved and submit to Vyera an invoice for the corresponding milestone payment that the Parties have agreed upon pursuant to this Section 8.5. Within thirty (30) days of Vyera's receipt of any such invoice, Vyera shall remit the milestone payment to CytoDyn. Each milestone payment for a [***] shall be non-refundable and non-creditable. Notwithstanding the foregoing, in the event that the JC is unable to agree on whether to pursue a [***], the decision as to whether to pursue a [***] shall be made by CytoDyn in its sole discretion provided, however, that such [***] will not be eligible for a milestone payment pursuant to this Section 8.5.
+
+8.6 Royalty Obligation. Vyera shall pay to CytoDyn royalties equal to fifty percent (50%) of Net Sales of Licensed Products in the Territory during the Royalty Term; provided that, after the Step-Down Date, the royalty percentage will be reduced to [***] of Net Sales of Licensed Products in the Territory throughout the remaining period in the Royalty Term. Royalties shall be payable commencing upon the First Commercial Sale of the Licensed Product in the Territory until the expiration of the Royalty Term in the Territory. Following the expiration of the Royalty Term with respect to the Licensed Product, the licenses granted under Section 2.1 with respect to such Licensed Product in the Field and the Territory shall be non-exclusive, perpetual, irrevocable, fully-paid and royalty-free.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+8.7 Required Licenses. If either Party receives a notice from a Third Party indicating that the Commercialization of a Licensed Product in the Field in the Territory infringes a Third Party Patent, it will promptly notify the other Party. The Parties will thereafter discuss a response in good faith. If the Parties agree in good faith that it is reasonable to enter into a license with such Third Party to avoid infringement of such Third Party patent(s)by the sale, offer for sale or use of a Licensed Product in the Field in the Territory (each such license, a "Required Third Party License"), then CytoDyn shall have the right to negotiate the terms of such Required Third Party License and the amounts payable under such Required Third Party License shall be deducted from the royalties payable to CytoDyn. If either of the Parties agree in good faith that it is not reasonable to enter into a license with a Third Party to avoid infringement by the sale, offer for sale or use of a Licensed Product in the Field in the Territory, any fees, costs or expenses incurred by either Party, including, without limitation, damages as a result of an infringement claim, will be borne by CytoDyn in accordance with Section 13.2. If the Parties agree in good faith that it is appropriate to bring an opposition, action for declaratory judgment, nullity action, interference, declaration for non-infringement, re- examination or other attack upon the validity, title or enforceability of a patent owned or controlled by a Third Party based on its' potential adverse impact on the patent freedom-to-operate with respect to the Commercialization of a Licensed Product in the Field in the Territory, then CytoDyn shall control such action and shall be responsible for the costs of such action. CytoDyn shall provide Vyera with copies of any substantive documents related to such proceedings and reasonable notice of all such proceedings. Vyera may itself or through its counsel offer comments and suggestions with respect to the matters that are the subject of this Section 8.7 and CytoDyn shall consider such comments and suggestions in good faith. If the Parties disagree in good faith as to whether it is reasonable to enter into a license agreement with a Third Party to avoid infringement by the sale, offer for sale or use of a Licensed Product in the Field in the Territory and such Third Party subsequently brings an infringement action (or an infringement action is brought on its behalf) that is solely related to the sale, offer for sale or use of a Licensed Product in the Field in the Territory, then the Party that did not agree to pursuing the Required Third Party License will be responsible for all costs, fees and damages incurred in connection with such infringement action in the event and to the extent any such infringement action is solely related to the sale, offer for sale or use of a Licensed Product in the Field in the Territory, and the provisions of Section 13.2 shall not apply if Vyera is the Party that did not agree to pursue such Required Third Party License solely for the sale, offer for sale or use of a Licensed Product in the Field in the Territory.
+
+8.8 Royalty Report; Payment. Within forty-five (45) days following the end of each Calendar Quarter after the First Commercial Sale of each Licensed Product in the Territory, Vyera shall provide CytoDyn with a report in a form reasonably acceptable to CytoDyn containing the following information for the applicable Calendar Quarter for such Licensed Product: (a) the amount of gross sales of the Licensed Product in the Territory; (b) an itemized calculation of Net Sales in the Territory showing reasonably detailed deductions; provided for in the definition of "Net Sales"; (c) a reasonably detailed calculation of the royalty payment due on such sales; (d) an accounting of the number of units of the Licensed Product sold; and (e) the application of the reduction, if any, made in accordance with the terms of Section 8.7. Vyera shall pay all amounts due to CytoDyn with respect to Net Sales by Vyera or its Affiliates for such Calendar Quarter at the time of the submission of such quarterly report.
+
+8.9 Third Party Financial Obligations. CytoDyn will be solely responsible for, and shall indemnify Vyera for, the payment of any royalties, sublicense revenues, milestones or other payments due to Third Party(ies) under Existing Licenses arising with respect to the Commercialization, under the licenses granted under this Agreement, of the Licensed Product, in the Field in the Territory.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+8.10 Taxes. The amounts payable pursuant to this Agreement ("Payments") shall not be reduced on account of any taxes unless required by Applicable Law. Vyera shall deduct and withhold from the Payments any taxes that it is required by Applicable Law to deduct or withhold. Notwithstanding the foregoing, if CytoDyn is entitled under any applicable tax treaty to a reduction of rate of, or the elimination of, or recovery of, applicable withholding tax, it may deliver to Vyera or the appropriate Governmental Authority the prescribed forms necessary to reduce the applicable rate of withholding or to relieve Vyera of its obligation to withhold tax. In such case Vyera shall apply the reduced rate of withholding, or not withhold, as the case may be, provided that Vyera is in receipt of evidence, in a form reasonably satisfactory to Vyera, for example CytoDyn's delivery of all required documentation at least five (5) Business Days prior to the time that the Payments are due. If, in accordance with the foregoing, Vyera withholds any amount, it shall pay to CytoDyn the balance when due, make timely payment to the proper taxing authority of the withheld amount, and send CytoDyn proof of such payment within thirty (30) days following that payment.
+
+8.11 Audit. Vyera shall maintain, and shall cause its Affiliates to maintain, complete and accurate records in sufficient detail to permit CytoDyn to confirm the accuracy of the calculation of royalties and milestones due under this Agreement. Upon reasonable prior notice, but not more than once per Calendar Year, such records of Vyera and its Affiliates shall be available during Vyera's and its Affiliates regular business hours for a period of three (3) years from the end of the Calendar Year to which they pertain for examination at the expense of CytoDyn by an independent certified public accountant selected by CytoDyn and reasonably acceptable to Vyera, for the sole purpose of verifying the accuracy of the financial reports and correctness of the payments furnished by Vyera pursuant to this Agreement. Any such auditor shall not disclose Vyera's Confidential Information, except to the extent such disclosure is necessary to verify the accuracy of the financial reports furnished by Vyera or the amount of payments due by Vyera under this Agreement. Any amounts shown to be owed but unpaid shall be paid within thirty (30) days from the accountant's report, plus interest, as set forth in Section 8.12 from the original due date. Any amounts shown to have been overpaid shall be refunded within thirty (30) days from the accountant's report. CytoDyn shall bear the full cost of such audit unless such audit discloses an underpayment by Vyera of more than five percent (5%) of the amount due, in which case Vyera shall bear the full cost of such audit. The audit rights set forth in this Section 8.11 shall survive the Term for a period of three (3) years.
+
+8.12 Late Payment. All payments due to a Party under this Agreement shall be made in U.S. Dollars by wire transfer of immediately available funds into an account designated by the receiving Party. If a Party does not receive payment of any sum due to it on or before the due date, simple interest shall thereafter accrue on the sum due to such Party until the date of payment at the per annum rate of two percent (2%) over the then prime rate quoted by Citibank in New York City or the maximum rate allowable by Applicable Law, whichever is lower.
+
+8.13 Equity Investment. Within seven (7) days of the Effective Date, Vyera shall make an equity investment of $4,000,000 in CytoDyn (the "Equity Investment"), pursuant to that certain Subscription Agreement substantially in the form attached hereto as Attachment E and that certain Warrant Agreement substantially in the form attached hereto as Attachment F.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+ARTICLE 9 REPRESENTATIONS, WARRANTIES AND COVENANTS
+
+9.1 Mutual Representations, Warranties and Covenants. Each of the Parties hereby represents and warrants to the other Party as of the Effective Date and hereinafter, as set forth below, covenants that: (a) Organization. It is duly organized, validly existing, and in good standing under Applicable Law of the jurisdiction of its organization, and has all requisite power and authority, corporate or otherwise, to execute, deliver, and perform this Agreement. (b) Binding Agreement. This Agreement is a legal and valid obligation binding upon such Party and enforceable in accordance with its terms, subject to the effects of bankruptcy, insolvency, or other Applicable Law of general application affecting the enforcement of creditor rights, judicial principles affecting the availability of specific performance, and general principles of equity (whether enforceability is considered a proceeding at law or equity). (c) Authorization. The execution, delivery, and performance of this Agreement by such Party have been duly authorized by all necessary corporate action and do not conflict with any agreement, instrument, or understanding, oral or written, to which it is a party or by which it is bound, or violate any Applicable Law or any order, writ, judgment, injunction, decree, determination, or award of any court or governmental body, or administrative or other agency presently in effect applicable to such Party. (d) No Further Approval. It is not aware of any government authorization, consent, approval, license, exemption of or filing or registration with any court or governmental department, commission, board, bureau, agency or instrumentality, domestic or foreign, under any Applicable Law, currently in effect, necessary for, or in connection with, the transactions contemplated by this Agreement or any other agreement or instrument executed in connection herewith, or for the performance by it of its obligations under this Agreement and such other agreements (save for Regulatory Approvals and similar authorizations from Governmental Authorities necessary for the Commercialization of the Licensed Products in the Field as contemplated hereunder). (e) No Inconsistent Obligations. Neither Party is under any obligation, contractual or otherwise, to any Person that conflicts with or is inconsistent in any material respect with the terms of this Agreement, or that would impede the diligent and complete fulfillment of its obligations hereunder. (f) No Debarment. Neither Party nor any of its respective Affiliates has been debarred by the FDA, is not subject to any similar sanction of other Governmental Authorities in the Territory, and, to its Knowledge, neither Party nor any of its respective Affiliates has used, or will engage, in any capacity, in connection with this Agreement or any ancillary agreements (if any), any Person who either has been debarred by such a Regulatory Authority, or is the subject of a conviction described in Section 306 of the FDCA. Each Party shall inform the other Party in writing promptly if it or any Person engaged by it or any of its Affiliates who is performing services under this Agreement or an ancillary agreement (if any) is debarred or is the subject of a conviction described in Section 306 of the FDCA, or if any action, suit, claim, investigation or legal or administrative proceeding is pending or, to such Party's Knowledge, is threatened, relating to the debarment or conviction of such Party, any of its Affiliates or any such Person performing services hereunder or thereunder. (g) Transparency Reporting. Each Party shall be responsible for tracking and reporting transfers of value initiated and controlled by its and its Affiliates' employees, contractors, and agents pursuant to the requirements of the transparency laws of any Governmental Authority in the Territory, including Section 6002 of the Patient Protection and Affordable Care Act, Pub. L. No. 111-148, as amended, commonly referred to as the "Sunshine Act."
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+9.2 Additional Representations and Warranties of CytoDyn. CytoDyn represents and warrants as of the Effective Date, and hereinafter, as set forth below, covenants to Vyera that: (a) CytoDyn has all rights necessary to grant the licenses under the CytoDyn Know-How and the CytoDyn Patents that it grants to Vyera in this Agreement. As of the Effective Date and thereafter for the duration of the Term, CytoDyn shall not, and shall cause its Affiliates not to, grant to any Third Party rights that conflict with the rights granted to Vyera under this Agreement; provided that, Vyera acknowledges and agrees that CytoDyn shall have the right to license the CytoDyn Know-How, the CytoDyn Patents and the Inventions (a) outside of the Field anywhere in the world and (b) within the Field but outside of the Territory. (b) CytoDyn and its Affiliates have provided or made available to Vyera prior to the Effective Date, copies of all material and relevant information (including all material agreements) with respect to the CytoDyn Know-How and the CytoDyn Patents (other than information that is confidential information of a Third Party and subject to obligations of confidentiality) and such information is true, complete and correct. CytoDyn has provided to Vyera an accurate, current, copy of each of the agreements under which CytoDyn has licensed Patents or Know-How used in the Development of the Licensed Product (the "Existing Licenses"), including all amendments thereto. To CytoDyn's Knowledge, no material breach of any of the Existing Licenses exists as of the Effective Date which would give any party thereto the right to terminate the same. The Existing Licenses are identified on Schedule 9.2(b). (c) The Patents set forth on Attachment A represent all Patents that CytoDyn or any of its Affiliates Controls that Cover or that disclose any Invention necessary or useful for the Commercialization of the Licensed Product in the Territory in the Field as of the Effective Date. CytoDyn is the sole and exclusive owner of the entire right, title and interest in the CytoDyn Patents owned by CytoDyn free of any encumbrance, lien, or claim of ownership by any Third Party. With respect to CytoDyn Patents Controlled but not owned by CytoDyn, CytoDyn has the right to grant the license granted to Vyera under Section 2.1 on the terms set forth herein, and such license does not conflict with the terms of any of the Existing Licenses. (d) CytoDyn or one of its Affiliates Controls all CytoDyn Know-How which is necessary or useful for the Commercialization of the Licensed Product in the Territory in the Field. (e) To CytoDyn's Knowledge, there is no actual or threatened infringement or misappropriation of the CytoDyn Know-How or the CytoDyn Patents by any Person in the Territory in derogation of the rights granted to Vyera in this Agreement. (f) To CytoDyn's Knowledge as of the Effective Date and without any additional independent investigation by its outside patent counsel other than such freedom to operate analysis as have previously been performed and shared with CytoDyn, the Commercialization of the Licensed Product in the Field in the Territory will not infringe or misappropriate the Patents or other intellectual property or proprietary rights of any Third Party in the Territory.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+(g) The CytoDyn Patents that are owned by CytoDyn have been filed and maintained properly and correctly and are being diligently prosecuted in the U.S. Patent Office in accordance with Applicable Law. All applicable fees related to the filing or maintenance of the CytoDyn Patents have been paid on or before the due date for payment. (h) All current and former officers, employees, agents, advisors, consultants, contractors or other representatives of CytoDyn or any of its Affiliates who are inventors of or have otherwise contributed in a material manner to the creation or development of any CytoDyn Know- How or the CytoDyn Patents, that in each case, is owned by CytoDyn, have executed and delivered to CytoDyn or any such Affiliate an assignment or other agreement regarding the protection of proprietary Confidential Information and the assignment to CytoDyn or any such Affiliate of any CytoDyn Know-How and the CytoDyn Patents, the current form of which has been made available for review by Vyera. To CytoDyn's Knowledge, no current officer, employee, agent, advisor, consultant or other representative of CytoDyn or any of its Affiliates is in violation of any term of any assignment or other agreement regarding the protection of CytoDyn Patents or CytoDyn Know-How or of any employment contract or any other contractual obligation relating to the relationship of any such Person with CytoDyn or any such Affiliate. (i) CytoDyn has used Commercially Reasonable Efforts to maintain the confidentiality of the CytoDyn Know-How. To CytoDyn's Knowledge and without any additional independent investigation by CytoDyn, no breach of such confidentiality has been committed by any Third Party. (j) To the extent permissible under Applicable Law, all employees of CytoDyn or its Affiliates performing activities under this Agreement are and shall be under an obligation to assign all right, title and interest in and to their Inventions and other Know-How, whether or not patentable, and intellectual property rights therein, to CytoDyn or its Affiliate(s) as the sole owner thereof. Vyera shall have no obligation to contribute to any remuneration of any inventor employed or previously employed by CytoDyn or any of its Affiliates in respect of any such Inventions and other Know-How and intellectual property rights therein that are so assigned to CytoDyn or its Affiliate(s). CytoDyn will be responsible for any payments to all such remuneration due to such inventors with respect to such Inventions and other Know-How and intellectual property rights therein. (k) There are no material claims, judgments or settlements against, or material amounts with respect thereto owed by, CytoDyn, or any of its Affiliates relating to the CytoDyn Know-How and the CytoDyn Patents. No claim or litigation has been brought or, to CytoDyn's Knowledge, threatened by any Person alleging, and CytoDyn has no Knowledge of any claim, whether or not asserted, that (i) any of the CytoDyn Patents is invalid or unenforceable, or (ii) the CytoDyn Know-How and the CytoDyn Patents, or the disclosing, copying, making, assigning, or licensing of the CytoDyn Know-How and the CytoDyn Patents, violates, infringes, or otherwise conflicts or interferes with, or would violate, infringe, or otherwise conflict or interfere with, any intellectual property or proprietary right of any Person. (l) Neither CytoDyn nor any of its Affiliates has previously entered into any agreement, whether written or oral, with respect to, or otherwise assigned, transferred, licensed, conveyed, or otherwise encumbered its right, title, or interest in or to CytoDyn Know-How and the CytoDyn Patents (including by granting any covenant not to sue with respect thereto) or any Patent or other intellectual property or proprietary right that would be
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+CytoDyn Know-How and the CytoDyn Patents but for such assignment, transfer, license, conveyance, or encumbrance, and it will not enter into any such agreements or grant any such right, title, or interest to any Person that is inconsistent with the rights and non-exclusive licenses granted to Vyera under this Agreement. (m) Neither CytoDyn nor any of its Affiliates, nor any of its or their respective officers, employees, agents, advisors, consultants or other representatives has made an untrue statement of material fact or fraudulent statement to the FDA or any other Regulatory Authority with respect to the Development or Commercialization of the Licensed Product, failed to disclose a material fact required to be disclosed to the FDA or any other Regulatory Authority with respect to the Development or Commercialization of the Licensed Product, or committed an act, made a statement, or failed to make a statement with respect to the Development or Commercialization of the Licensed Product that could reasonably be expected to provide a basis for the FDA to invoke its policy respecting "Fraud, Untrue Statements of Material Facts, Bribery, and Illegal Gratuities", set forth in 56 Fed. Reg. 46191 (September 10, 1991). (n) CytoDyn and its Affiliates have conducted, and their respective contractors and consultants have conducted prior to the Effective Date, and shall thereafter during the Term continue to conduct, all Development of the Licensed Product in material compliance with Applicable Law. CytoDyn has conducted, and has caused its contractors and consultants to conduct, any and all pre-clinical and clinical studies related to the Licensed Product in material compliance with Applicable Law (o) CytoDyn [***] (p) CytoDyn has not breached in any material respect any agreements with any Third Party relating to the Licensed Product.
+
+9.3 Additional Representations and Warranties of Vyera. Vyera represents and warrants as of the Effective Date and hereinafter covenants to CytoDyn that: (a) To the extent permissible under Applicable Law, all employees, agents, advisors, consultants or contractors of Vyera or its Affiliates performing activities under this Agreement are and shall be under an obligation to assign all right, title and interest in and to any Inventions, whether or not patentable, and intellectual property rights therein, to Vyera or its Affiliate(s) as the sole owner thereof. CytoDyn shall have no obligation to contribute to any remuneration of any inventor employed or previously employed by Vyera or any of its Affiliates in respect of any such Inventions, Know-How and intellectual property rights therein that are so assigned to Vyera or its Affiliate(s). Vyera will pay all such remuneration due to such inventors with respect to such Inventions. (b) Vyera has the financial capacity to meet its obligations under this Agreement, including, without limitation, the payment of the amounts due under Article 8 and the investments required under the Minimum Requirements. (c) Neither Vyera, nor any of its Affiliates shall directly or indirectly, challenge, or assist any Third Party to dispute or challenge, in a legal or administrative proceeding the patentability, enforceability or validity of any CytoDyn Patents.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+(d) Vyera will conduct all Commercialization activities in material compliance with all Applicable Laws. (e) There is no pending, completed or, to Vyera's Knowledge, threatened, action (including any lawsuit, arbitration, or legal or administrative or regulatory proceeding, charge, complaint, or investigation) against Vyera or any of its Affiliates that would reasonably be expected to have a material adverse effect on Vyera's ability to meet its obligations under this Agreement. None of Vyera or any of its Affiliates have received any notice, warning letter or other communication from the FDA or any other governmental entity, which (i) contests the premarket clearance, licensure, registration, or approval of, the uses of, the distribution of, the manufacturing or packaging of, the testing of, the sale of, or the labeling and promotion of any pharmaceutical product, (ii) enters or proposes to enter into a consent decree with Vyera or any of its Affiliates, (iii) enjoins or prohibits Vyera or any of its Affiliates from undertaking Commercialization activities, or (iv) otherwise alleges any material violation of any Applicable Laws by Vyera or any of its Affiliates. The properties, business and operations of Vyera have been and are being conducted in all material respects in accordance with all Applicable Laws. (f) Financial Statements. The Financial Statements provided by Vyera to CytoDyn were prepared in accordance with GAAP, applied on a consistent basis for all periods presented, unless listed otherwise in the notes to its Financial Statements. The Financial Statements accurately list and fairly present, in all material respects, the financial condition and operating results of Vyera's direct parent entity as of the date of the statements, and for the periods indicated in the statements, subject to normal year-end audit adjustments. As of October 21, 2019, Vyera had at least $23,613,459 in cash on hand.
+
+9.4 No Other Representations or Warranties. EXCEPT AS EXPRESSLY SET FORTH IN THIS ARTICLE 9 AND SECTION 2.6 AND SECTION 14.11, NEITHER PARTY MAKES ANY REPRESENTATIONS OR WARRANTIES OF ANY KIND WHATSOEVER, EITHER EXPRESS OR IMPLIED, WRITTEN OR ORAL, EITHER IN FACT OR BY OPERATION OF LAW, BY STATUTE OR OTHERWISE, AND EACH PARTY SPECIFICALLY DISCLAIMS ANY OTHER WARRANTIES, INCLUDING ANY EXPRESS OR IMPLIED WARRANTY OF QUALITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR WARRANTY OF NON-INFRINGEMENT OR AS TO THE VALIDITY OF ANY PATENTS.
+
+ARTICLE 10 CONFIDENTIALITY
+
+10.1 Nondisclosure. Each Party agrees that, during the Term and for a period of ten (10) years thereafter, a Party (the "Receiving Party") receiving Confidential Information of the other Party (the "Disclosing Party") shall: (a) maintain in confidence such Confidential Information using not less than the efforts such Receiving Party uses to maintain in confidence its own confidential or proprietary information of similar kind and value; (b) not disclose such Confidential Information to any Third Party without the prior written consent of the Disclosing Party, except for disclosures expressly permitted below; and (c) not use such Confidential Information for any purpose except those permitted by this Agreement (it being understood that this Section 10.1 shall not create or imply any rights or licenses not expressly granted under this Agreement). Notwithstanding anything to the contrary in this Agreement, the obligations of confidentiality and non-use with respect to any Know-How or trade secret within such Confidential Information shall survive such ten (10) year period for so long as such Confidential Information remains Know-How and/or protected as a trade secret under Applicable Law.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+10.2 Exceptions. The obligations in Section 10.1 shall not apply with respect to any portion of the Confidential Information to the extent that the Receiving Party can show by competent evidence: (a) is publicly disclosed by the Disclosing Party, either before or after it is disclosed to the Receiving Party hereunder; (b) is known to the Receiving Party or any of its Affiliates, without any obligation to keep it confidential or any restriction on its use, prior to disclosure by the Disclosing Party; (c) is subsequently disclosed to the Receiving Party or any of its Affiliates on a non-confidential basis by a Third Party that, to the Receiving Party's knowledge, is not bound by a similar duty of confidentiality or restriction on its use; (d) is now, or hereafter becomes, through no act or failure to act on the part of the Receiving Party or any of its Affiliates, generally known or available, either before or after it is disclosed to the Receiving Party; (e) is independently discovered or developed by or on behalf of the Receiving Party or any of its Affiliates without the application or use of Confidential Information belonging to the Disclosing Party; or (f) is the subject of written permission to disclose provided by the Disclosing Party.
+
+10.3 Authorized Disclosure. The Receiving Party may disclose Confidential Information belonging to the Disclosing Party, provided that any such disclosure shall be made only to the extent such disclosure is reasonably necessary, and that, other than in the instances of clauses (c) and (d) below (and with respect to (c) and (d) below, only to the extent required as set forth in an opinion of counsel), such disclosure of Confidential Information by Vyera shall not include CytoDyn trade secrets, or non-public Regulatory Approval, Regulatory Documentation, and Regulatory Materials, or CytoDyn Know-How absent the advance express written approval from CytoDyn, and in the following instances: (a) filing or prosecuting Patents as permitted by this Agreement; however, CytoDyn may not disclose any Vyera Confidential Information as it relates to a Licensed Product; (b) preparing and submitting Regulatory Materials and obtaining and maintaining Regulatory Approvals for Licensed Products; (c) prosecuting or defending litigation, including responding to a subpoena in a Third Party litigation; (d) complying with Applicable Law or court or administrative orders; (e) in communications with existing or bona fide prospective acquirers, merger partners, lenders or investors, and consultants and advisors of the Receiving Party in connection with transactions or bona fide prospective transactions with the foregoing, in each case on a "need-to- know" basis and under appropriate confidentiality provisions substantially similar to those of this Agreement (provided that the term of such confidentiality obligations in such other agreement may only extend for five (5) years); and
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+(f) to its Affiliates, (with respect to CytoDyn only) sublicensees or prospective sublicensees, subcontractors or prospective subcontractors, consultants, agents and advisors on a "need-to-know" basis in order for the Receiving Party to exercise its rights or fulfill its obligations under this Agreement, each of whom prior to disclosure must be bound by obligations of confidentiality and restrictions on use of such Confidential Information that are substantially similar to those set forth in this Article 10 (provided that the term of such confidentiality obligations in such other agreement may only extend for five (5) years); provided, however, that, the Receiving Party shall remain responsible for any failure by any Person who receives Confidential Information pursuant to Section 10.3(e) or this Section 10.3(f) to treat such Confidential Information as required under this Article 10. (g) If and whenever any Confidential Information is disclosed in accordance with this Section 10.3, such disclosure shall not cause any such information to cease to be Confidential Information except to the extent that such disclosure results in a public disclosure of such information (other than by breach of this Agreement). Notwithstanding the foregoing, in the event a Party is required to make a disclosure of the other Party's Confidential Information pursuant to clauses (a) through (e) of this Section 10.3, it will, except where impracticable or prohibited by Applicable Law, give reasonable advance notice to the other Party of such disclosure and use not less than the same efforts to secure confidential treatment of such information as it would to protect its own confidential information from disclosure. Each Receiving Party shall notify the Disclosing Party promptly on discovery of any unauthorized use or disclosure of the Disclosing Party's Confidential Information by the Receiving Party or any of its Affiliates, agents or representatives.
+
+10.4 Terms of this Agreement. The Parties acknowledge that this Agreement and all of the respective terms of this Agreement shall be treated as Confidential Information of both Parties subject to the provisions of Sections 10.3, 10.5 and 10.6.
+
+10.5 Publicity. Each Party agrees not to issue any press release or other public statement disclosing information relating to this Agreement or the transactions contemplated hereby that contains information not previously publicly disclosed in accordance with this Section 10.5 without the prior written consent of the other Party, such consent not to be unreasonably withheld, delayed or conditioned.
+
+10.6 Securities Filings. Notwithstanding anything to the contrary in this Article 10, in the event either Party proposes to file with the Securities and Exchange Commission or the securities regulators of any state or other jurisdiction a registration statement or any other disclosure document that describes or refers to the terms and conditions of this Agreement or any related agreements between the Parties, or requires the filing of this Agreement as an exhibit to such registration, statement or disclosure document, such Party shall notify the other Party of such intention and shall provide the other Party with a copy of relevant portions of the proposed filing at least ten (10) Business Days prior to such filing (and any revisions to such portions of the proposed filing at a reasonable time prior to the filing thereof), including any exhibits thereto that refer to the other Party or the terms and conditions of this Agreement or any related Agreements between the Parties. The Party making such filing shall cooperate in good faith with the other Party to obtain confidential treatment of the terms and conditions of this Agreement or any related Agreements between the Parties that the other Party reasonably requests be kept confidential or otherwise afforded confidential treatment, and shall only disclose Confidential Information that it is reasonably advised by outside counsel is legally required to be disclosed. Each Party acknowledges that the other Party may be required by securities regulators, including the Securities and Exchange Commission, or advised by such other Party's outside counsel that the financial terms, including the milestone amounts and/or royalty rates must be included in such filings. No such notice shall be required if the description of or reference to this Agreement or a related agreement between the Parties contained in the proposed filing has been included in any previous filing made by either Party in accordance with this Section 10.6 or otherwise approved by the other Party.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+10.7 Equitable Relief. Given the nature of the Confidential Information and the competitive damage that could result to a Party upon unauthorized disclosure, use or transfer of its Confidential Information to any Third Party, the Parties agree that monetary damages may not be a sufficient remedy for any breach of this Article 10. In addition to all other remedies, a Party shall be entitled to seek specific performance and injunctive and other equitable relief as a remedy for any breach or threatened breach of this Article 10.
+
+10.8 Publications. CytoDyn, in its sole discretion, may publish results of all non-clinical studies conducted with respect to any Licensed Product and in its reasonable discretion may publish Clinical Trials conducted with respect to any Licensed Product; provided that the results of CytoDyn's Phase III Clinical Trial with respect to the Licensed Product in the Initial Indication meets all legal and industry standards for publication, CytoDyn shall publish such results on the clinicaltrials.gov website and CytoDyn shall provide Vyera with notification of any such publications. Should Vyera propose to make any publication relating to the Licensed Product, CytoDyn shall have the right to review all proposed publications prior to submission of such publication. Vyera shall provide CytoDyn with a copy of the applicable proposed abstract, manuscript, or presentation no less than thirty (30) days (fifteen (15) days in the case of abstracts) prior to its intended submission for publication. CytoDyn shall respond in writing promptly and in no event later than thirty (30) days (fifteen (15) days in the case of abstracts) after receipt of the proposed material with any concerns regarding patentability or protection of any Confidential Information or other comments that it may have. In the event of concern over patent protection of any intellectual property right, Vyera agrees not to submit such publication or to make such presentation that contains such information until CytoDyn is given a reasonable period of time, and in no event more than sixty (60) days, to seek patent protection in accordance with the terms of this Agreement, for any material in such publication or presentation which it believes is patentable. Subject to Section 10.3, any Confidential Information shall, if requested by CytoDyn, be removed by Vyera. Vyera will reasonably consider other comments made by CytoDyn.
+
+ARTICLE 11 TERM AND TERMINATION
+
+11.1 Term. The term of this Agreement ("Term") shall commence upon the Effective Date and, unless earlier terminated pursuant to this Article 11, shall expire on the last day of the Royalty Term. Upon the expiration of the Royalty Term, the license granted to Vyera under Section 2.1 of this Agreement shall become non-exclusive, fully-paid, royalty free, perpetual and irrevocable. Notwithstanding the foregoing, if Vyera exercises the Continuation Right (as defined in the Supply Agreement), then Vyera shall continue to purchase Licensed Product from CytoDyn pursuant to the Supply Agreement and shall pay CytoDyn for such Licensed Product the price specified in the Supply Agreement and a royalty equal to [***], provided that after the exercise of the Continuation Right, CytoDyn will not be obligated to supply Licensed Product exclusively to Vyera in the Field in the Territory.
+
+11.2 Unilateral Termination by Vyera. Vyera shall have the right to terminate this Agreement in its entirety: (a) on or after the second (2nd) anniversary of the Effective Date, upon written notice to CytoDyn in the event the approval by the FDA of the BLA for the Licensed Product for the Manufacture and sale of the Licensed Product in the U.S. for the Initial Indication has not been received by such second (2nd) anniversary; provided, however, that in the event of a delay that would reasonably be expected to result in the receipt of BLA approval on or after such second (2nd) anniversary, then Vyera may terminate this Agreement pursuant to this Section 11.2(a) prior to the second (2nd) anniversary upon [***] notice to CytoDyn;
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+(b) following the occurrence of a Commercial Failure, upon [***] written notice to CytoDyn; provided, however, that Vyera's right to terminate this Agreement pursuant to this Section 11.2(b) shall only be exercisable during the [***] period following the date when sales data with respect to a Commercial Failure becomes available to Vyera; and (c) at any time following the second (2nd) anniversary of the First Commercial Sale of the Licensed Product, for any reason or no reason, upon one hundred eighty (180) days' written notice to CytoDyn.
+
+11.3 Unilateral Termination by CytoDyn. CytoDyn shall have the right to terminate this Agreement in its entirety upon written notice to Vyera on the occurrence of any of the following: (a) Vyera or any of its Affiliates directly or indirectly, challenges, disputes, or assists any Third Party to dispute or challenge, in a legal or administrative proceeding the patentability, enforceability or validity of any CytoDyn Patents; (b) Vyera fails to make a First Commercial Sale within sixty (60) days following the later of (i) the date Regulatory Approval is obtained and (ii) the date CytoDyn supplies (or is ready to supply) Vyera with the Licensed Product for sale pursuant to the Supply Agreement (the "Supply Date"); (c) Vyera breaches its obligations or covenants under Section 2.6 (Competitive Products); (d) Upon [***] written notice, in the event Vyera fails to meet any of the Minimum Requirements and has not cured such failure, to the extent curable, within such notice period; or (e) Vyera fails to make the Equity Investment within seven (7) days of the Effective Date, as required by Section 8.13.
+
+CytoDyn's right to terminate this Agreement pursuant to this Section 11.3 must be exercised within [***] following the occurrence of the applicable event or circumstance under the immediately preceding clauses (a)-(d) giving rise to CytoDyn's right to terminate this Agreement.
+
+11.4 Termination for Material Breach. Either Party (the "Non-Breaching Party") may terminate this Agreement in the event the other Party (the "Breaching Party") commits a material breach of this Agreement, and such material breach (excluding breaches of payment obligations) has not been cured within [***] after receipt of written notice of such breach by the Breaching Party from the Non-Breaching Party (the "Cure Period"). The Cure Period shall be [***] after receipt of written notice of such breach by the Breaching Party from the Non-Breaching Party for breaches of payment obligations (except with respect to Section 8.13, which is covered by Section 11.3(d) above). The written notice describing the alleged material breach shall provide sufficient detail to put the Breaching Party on notice of such material breach. Any termination of this Agreement pursuant to this Section 11.4 shall become effective at the end of the Cure Period, unless the Breaching Party has cured any such material breach prior to the expiration of such Cure Period, or, if such material breach is not reasonably susceptible to cure within the Cure Period, then, the Non-Breaching Party's right of termination shall be suspended only if, and for so long as, the Breaching Party has provided to the Non-Breaching Party a written plan that is reasonably calculated to effect a cure of such material breach, such plan is accepted by the Non-Breaching Party (such acceptance not to be unreasonably withheld, delayed or conditioned), and the Breaching Party commits to and carries out such plan as provided to the Non-Breaching Party. The right of either Party to terminate this Agreement as provided in this Section 11.4 shall not be affected in any way by such Party's waiver of or failure to take action with respect to any previous breach under this Agreement.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+11.5 Termination for Safety Concerns. Either Party shall have the right to terminate this Agreement upon written notice to the other Party upon the occurrence of Serious Adverse Events related to the use of the Licensed Product that causes such Party to conclude based upon specific and verifiable information that the Licensed Product is unsafe for human use.
+
+11.6 Termination for Bankruptcy. (a) Either Party may terminate this Agreement in its entirety upon providing written notice to the other Party on or after the time that such other Party makes a general assignment for the benefit of creditors, files an insolvency petition in bankruptcy, petitions for or acquiesces in the appointment of any receiver, trustee or similar officer to liquidate or conserve its business or any substantial part of its assets, commences under the laws of any jurisdiction any proceeding involving its insolvency, bankruptcy, reorganization, adjustment of debt, dissolution, liquidation or any other similar proceeding for the release of financially distressed debtors, or becomes a party to any proceeding or action of the type described above, and such proceeding or action remains un-dismissed or un-stayed for a period of more than [***]. (b) All rights and licenses granted under or pursuant to this Agreement are, and shall otherwise be deemed to be, for purposes of Section 365(n) of Title 11 of the U.S. Code and other similar laws in any jurisdiction outside the U.S. (collectively, the "Bankruptcy Laws"), licenses of rights to "intellectual property" as defined under the Bankruptcy Laws. If a case is commenced during the Term by or against a Party under Bankruptcy Laws then, unless and until this Agreement is rejected as provided pursuant to such Bankruptcy Laws, such Party (in any capacity, including debtor-in-possession) and its successors and assigns (including a Title 11 trustee) shall perform all of the obligations in this Agreement intended to be performed by such Party. If a case is commenced during the Term by or against a Party under the Bankruptcy Laws, this Agreement is rejected as provided for under the Bankruptcy Laws, and the non-bankrupt Party elects to retain its rights hereunder as provided for under the Bankruptcy Laws, then the Party subject to such case under the Bankruptcy Laws (in any capacity, including debtor-in-possession) and its successors and assigns (including a Title 11 trustee), shall continue to provide whatever rights held by and granted to the non-bankrupt Party with respect to and as licensee of the Patents and Know How licensed hereunder as such rights existed hereunder immediately before the commencement of the case under the Bankruptcy Laws. All rights, powers and remedies of the non-bankrupt Party as provided herein are in addition to and not in substitution for any and all other rights, powers and remedies now or hereafter existing at law or in equity (including the Bankruptcy Laws) in the event of the commencement of a case by or against a Party under the Bankruptcy Laws.
+
+11.7 Effects of Termination. All of the following effects of termination are in addition to the other rights and remedies that may be available to either of the Parties under this Agreement and shall not be construed to limit any such rights or remedies. In the event of termination of this Agreement by either Party: (a) Without limiting the effect that such termination shall have on any provisions of this Agreement, other than those provisions that this Agreement expressly provides shall survive such termination, all rights and licenses granted herein with respect to the Licensed Product shall terminate, and Vyera shall cease any and all Commercialization activities
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+with respect to the Licensed Product as soon as is reasonably practicable under Applicable Law; provided that such licenses shall continue as necessary for the Parties to complete the orderly wind-down of their activities under this Agreement in accordance with Applicable Law and on a schedule mutually agreed by the Parties; (b) All payment obligations hereunder with respect to the Licensed Product shall terminate, other than those that are accrued and unpaid as of the effective date of such termination and those due in respect of sales pursuant to Section 11.7(d); (c) each Receiving Party shall, in accordance with the Disclosing Party's request, either return to the Disclosing Party or certify in writing to the Disclosing Party that it has destroyed all documents and other tangible items containing the Confidential Information of the Disclosing Party; provided, that a Receiving Party shall be permitted to retain one copy of such materials in its legal files to be used to verify compliance with its obligations hereunder and as otherwise required to comply with Applicable Law or such Party's bona fide document retention policy; (d) Vyera shall have the right to sell or otherwise dispose of any inventory of any Licensed Product on hand at the time of such termination or in the process of manufacturing provided that, Vyera shall be responsible for the payment of all obligations under Article 8 with respect to any sales of Licensed Product that occur during the subject wind-down period (including, without limitation, all royalties and milestones that may be triggered); and (e) In the event of a termination by Vyera under Section 11.2, the following terms shall apply: (i) at CytoDyn's request, the Parties will negotiate in good faith a transition services agreement (the "Transition Services Agreement"), under which Vyera will provide certain Commercialization services to CytoDyn in connection with CytoDyn efforts to Commercialize the Licensed Product in the Field in the Territory; (ii) the services to be provided by Vyera pursuant to the Transition Services Agreement (the "Transition Services") will be negotiated in good faith taking into account (A) the activities undertaken by Vyera in connection with the Commercialization of Licensed Product during the Term and (B) Vyera's then-existing resources and capabilities (it being understood and agreed that Vyera shall not (x) be required to hire any new employees or enter into any new agreements with Third Parties in order to provide the Transition Services or (y) terminate any employee or agreement the primary purpose of which is to circumvent its obligations to provide the Transition Services); (iii) the Transition Services Agreement will require Vyera to provide Transition Services for a period of up to six (6) months from the effective date of termination; provided that CytoDyn will have the ability to terminate Transition Services on a service-by-service basis as they are transitioned; and (iv) Transition Services will be reimbursed at Vyera's actual cost plus ten percent (10%) by CytoDyn. (v) At CytoDyn's reasonable request and subject to the terms of the applicable agreement, Vyera will use its reasonable best efforts to assign to CytoDyn any Third Party agreements that relate to the Transition Services matters solely for Licensed Product in the Territory in the Field.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+(vi) Notwithstanding anything to the contrary set forth in this Section 11.7, neither Party shall be required to return Confidential Information or other tangible items or documents to the other which are useful to the performance or receipt of the Transition Services until after the expiration or termination of the Transition Services Agreement.
+
+11.8 Remedies. Notwithstanding anything to the contrary in this Agreement, except as otherwise explicitly set forth in this Agreement, termination or expiration of this Agreement shall not relieve the Parties of any Liability or obligation which accrued hereunder prior to the effective date of such termination or expiration, nor prejudice either Party's right to obtain performance of any obligation. Each Party shall be free, pursuant to Article 12, to seek, without restriction as to the number of times it may seek, damages, costs and remedies that may be available to it under Applicable Law or in equity and shall be entitled to offset the amount of any damages and costs obtained against the other Party in a final determination under Section 12.3, against any amounts otherwise due to such other Party under this Agreement.
+
+11.9 Survival. In the event of the expiration or termination of this Agreement (including the expiration of the Royalty Term under circumstances in which the Parties maintain a supply relationship in accordance with the Supply Agreement), in addition to the provisions of this Agreement that continue in effect in accordance with their terms, the following provisions of this Agreement shall survive: Article 1, 10, 12 and 13, and Sections 2.2, 2.3(a), 2.5(a), 3.4, 5.4(a), 8.6 (last sentence only), 8.8, 8.10, 8.11, 8.12, 9.4, 11.1 (last two sentences only), 11.6, 11.7, 11.8, 11.9, 14.1-14.2, 14.4-14.5, 14.7-14.8, and 14.10-14.13.
+
+ARTICLE 12 DISPUTE RESOLUTION
+
+12.1 Exclusive Dispute Resolution Mechanism. The Parties agree that the procedures set forth in this Article 12 shall be the exclusive mechanism for resolving any dispute, controversy, or claim between the Parties that may arise from time to time pursuant to this Agreement relating to either Party's rights or obligations hereunder (each, a "Dispute", and collectively, the "Disputes") that is not resolved through good faith negotiation between the Parties.
+
+12.2 Resolution by Executive Officers. Except as otherwise provided in this Section 12.2, in the event of any Dispute, regarding the construction or interpretation of this Agreement, or the rights, duties or Liabilities of either Party hereunder, the Parties shall first attempt in good faith to resolve such Dispute by negotiation and consultation between themselves. In the event that such Dispute is not resolved on an informal basis within ten (10) Business Days, either Party may, by written notice to the other Party, refer the Dispute to a senior executive officer (or his/her delegate) of the other Party for attempted resolution by good faith negotiation within thirty (30) days after such notice is received. Each Party may, in its sole discretion, seek resolution of any Dispute that are not resolved under this Section 12.2 in accordance with Section 12.3; provided that if the Dispute is a Reserved Dispute it shall be resolved in accordance with Section 12.4.
+
+12.3 Arbitration. (a) Any unresolved Dispute which was subject to Section 12.2 and is not a Reserved Dispute, shall be finally resolved by binding arbitration in accordance with the Commercial Arbitration Rules and Supplementary Procedures for Large Complex Disputes of the American Arbitration Association ("AAA") and otherwise as set forth in this Section 12.3, and judgment on the arbitration award may be entered in any court having jurisdiction thereof.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+(b) If a Party intends to begin an arbitration to resolve a dispute arising under this Agreement after the provisions of Section 12.2 have been exhausted, such Party shall provide written notice (the "Arbitration Request") to the other Party of such intention and the issues for resolution. From the date of the Arbitration Request and until such time as the dispute has become finally settled, the running of the time periods as to which a Party must cure a breach of this Agreement becomes suspended as to the subject matter of the dispute. Unless the Parties otherwise agree in writing, during the period of time that any arbitration proceeding is pending under this Agreement, the Parties shall continue to comply with all those terms and provisions of this Agreement that are not the subject of the pending arbitration proceeding. (c) Within ten (10) Business Days after the receipt of the Arbitration Request, the other Party may, by written notice, add additional issues for resolution; provided, that such issues have been subject to Section 12.2 and relate directly to the matter that is the subject of the applicable Arbitration Request. (d) The arbitration shall be conducted by one arbitrator selected in accordance with the AAA Commercial Arbitration Rules and Supplementary Procedures for Large Complex Disputes as modified below, unless the matter in dispute has a value of at least $50,000,000 and either Party wishes to have the arbitration conducted by a panel of three (3) arbitrators. The arbitrator(s) shall be experienced in the subject matter of the Arbitration Request as it applies to the biotechnology or pharmaceutical business. The Parties shall cooperate to attempt to select the arbitrator(s) by agreement within twenty (20) days of the initiation of arbitration. If agreement cannot be reached within such twenty (20) days, then that AAA will submit a list of twenty (20) qualified arbitrators from which each Party shall strike unacceptable entries; provided that each Party shall not strike more than thirty-five percent (35%) of the names without cause, and rank the remaining names. The AAA shall appoint the arbitrator(s) with the highest combined ranking(s). If these procedures fail to result in selection of the required number of arbitrators, the AAA shall appoint the arbitrator(s), allowing each side challenges for cause. The arbitration shall be held in New York, New York and all proceedings and communications shall be conducted in English. The Parties shall each use their best efforts to have the arbitration hearing held as soon as practicable and in any event within sixty (60) days after the selection of the arbitrator(s). At least five (5) Business Days prior to the arbitration hearing, each Party shall submit to the other Party and the arbitrator(s) a copy of all exhibits on which such Party intends to rely at the hearing, a pre-hearing brief (up to twenty (20) pages), and a proposed ruling (up to five (5) pages). The proposed ruling shall be limited to proposed rulings and remedies on each issue, and shall contain no argument on or analysis of the facts or issues. Within five (5) Business Days after close of the hearing, each Party may submit a post-hearing brief (up to five (5) pages) to the arbitrator(s). (e) Either Party may apply first to the arbitrator(s) for interim injunctive relief until the arbitration decision is rendered or the arbitration matter is otherwise resolved; provided, that if such Party determines that such injunctive relief cannot be awarded in a timeframe adequate to protect such Party's interests, then a Party may, without waiving any right or remedy under this Agreement, seek from any court having jurisdiction any injunctive or provisional relief necessary to protect the rights or property of that Party pending resolution of the arbitration matter pursuant to this Section 12.3. The arbitrators shall have no
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+authority to award punitive or any other type of damages not measured by a Party's compensatory damages. The Parties further agree that the decision of the arbitrators shall be the sole, exclusive and binding remedy between them regarding determination of arbitration matters presented. (f) The Parties hereby agree that any disputed performance or suspended performance pending the resolution of an arbitration matter that the arbitrators determine to be required to be performed by a Party must be completed within a reasonable time period following the final decision of the arbitrators. (g) Each Party shall bear its own attorneys' fees, costs, and disbursements arising out of the arbitration, and shall pay an equal share of the fees and costs of the arbitrators; provided, however, that the arbitrators shall be authorized to determine whether a Party is the prevailing Party, and if so, to award to that prevailing Party reimbursement for its reasonable attorneys' fees, costs and disbursements (including, for example, expert witness fees and expenses, photocopy charges and travel expenses), and/or the fees and costs of the arbitrators. (h) Except to the extent necessary to confirm an award or decision or as may be required by Applicable Laws, neither a Party nor an arbitrator may disclose the existence, content, or results of an arbitration without the prior written consent of both Parties. (i) By agreeing to this binding arbitration provision, the Parties understand that they are waiving certain rights and protections which may otherwise be available if a dispute between the Parties were determined by litigation in court, including the right to seek or obtain certain types of damages precluded by this provision, the right to a jury trial, certain rights of appeal, and a right to invoke formal rules of procedure and evidence.
+
+12.4 Reserved Disputes. Certain disputes that are specifically defined below shall be finally decided by the executive officer of one of the Parties ("Reserved Disputes"). In such cases, the executive officer of that Party shall make his or her decision with regard to the Reserved Dispute within twenty (20) days of its referral and such decision shall be final and binding and shall not be subject to Section 12.3. Reserved Disputes shall not include disputes with respect to the interpretation, breach, termination or invalidity of this Agreement. [***]
+
+12.5 Preliminary Injunctions. Notwithstanding anything in this Agreement to the contrary, a Party may seek a temporary restraining order or a preliminary injunction from any court of competent jurisdiction in order to prevent immediate and irreparable injury, loss, or damage on a provisional basis.
+
+12.6 Patent and Trademark Disputes. Notwithstanding anything in this Article 12 or Section 14.2 of this Agreement to the contrary, as between the Parties, and pursuant to Section 9.3(c) (with respect to matters subject to Section 9.3(c)), any and all issues regarding the scope, construction, validity, and enforceability of any Patent or trademark relating to a Licensed Product that is the subject of this Agreement shall be determined in a court or other tribunal, as the case may be, of competent jurisdiction under applicable Federal patent or trademark laws.
+
+12.7 Tolling. During the pendency of any Dispute resolution proceeding between the Parties under this Article 12, the obligation to make any payment under this Agreement from one Party to the other Party, which payment is the subject, in whole or in part, of a proceeding under this Article 12, shall be tolled until the final outcome of such Dispute has been established. Any undisputed payment obligations (including undisputed portions of a payment obligation that is subject to a proceeding under this Article 12) shall not be tolled during such Dispute.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+12.8 Confidentiality. Any and all activities conducted under this Article 12, including any and all proceedings and decisions hereunder, shall be deemed Confidential Information of each of the Parties, and shall be subject to Article 10.
+
+12.9 WAIVER OF RIGHT TO JURY TRIAL. In connection with the Parties' rights under this Article 12, EACH PARTY, TO THE EXTENT PERMITTED BY LAW, KNOWINGLY, VOLUNTARILY, AND INTENTIONALLY WAIVES ITS RIGHT TO A TRIAL BY JURY IN ANY ACTION OR OTHER LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT AND THE TRANSACTIONS IT CONTEMPLATES. THIS WAIVER APPLIES TO ANY ACTION OR LEGAL PROCEEDING, WHETHER SOUNDING IN CONTRACT, TORT, OR OTHERWISE.
+
+ARTICLE 13 INDEMNIFICATION AND INSURANCE
+
+13.1 Indemnification by Vyera. Vyera hereby agrees to defend, indemnify and hold harmless CytoDyn and its Affiliates, and each of their respective directors, officers, employees, agents and representatives (each, a "CytoDyn Indemnitee") from and against any and all claims, suits, actions, demands, liabilities, expenses and/or losses, including reasonable legal expenses and attorneys' fees (collectively, the "Losses"), to which any CytoDyn Indemnitee may become subject as a result of any claim, demand, action or other proceeding by any Third Party (each, a "Claim") to the extent such Losses arise directly or indirectly out of: (a) the breach by Vyera of any warranty, representation, covenant or agreement made by Vyera in this Agreement; (b) Commercialization activities undertaken by or on behalf of Vyera or its Affiliates; (c) the negligence, gross negligence, illegal conduct or willful misconduct of Vyera or its Affiliate, or any officer, director, employee, agent or representative thereof; except, with respect to each of subsections (a), (b) and (c) above, to the extent such Losses arise directly or indirectly from the negligence, gross negligence, illegal conduct or willful misconduct of any CytoDyn Indemnitee or the breach by CytoDyn of any warranty, representation, covenant or agreement made by CytoDyn in this Agreement.
+
+13.2 Indemnification by CytoDyn. CytoDyn hereby agrees to defend, indemnify and hold harmless Vyera and its Affiliates and each of their respective directors, officers, employees, agents and representatives (each, a "Vyera Indemnitee") from and against any and all Losses to which any Vyera Indemnitee may become subject as a result of any Claim to the extent such Losses arise directly or indirectly out of: (a) the breach by CytoDyn of any warranty, representation, covenant or agreement made by CytoDyn in this Agreement; (b) the negligence, gross negligence, illegal conduct, or willful misconduct of CytoDyn or its Affiliate or its licensee (other than Vyera or its Affiliate), or any officer, director, employee, agent or representative thereof; or (c) subject to Section 8.7, the infringement of Third Party Patents or the misappropriation of Third Party Know-How by the sale, offer for sale or use of any Licensed Product in the Field in the Territory; except, with respect to each of subsections (a), (b) or (c) above, to the extent such Losses arise directly or indirectly from the negligence, gross negligence, illegal conduct or willful misconduct of any Vyera Indemnitee or the breach by Vyera of any warranty, representation, covenant or agreement made by Vyera in this Agreement.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+13.3 Indemnification Procedures. (a) Notice. Promptly after a CytoDyn Indemnitee or a Vyera Indemnitee (each, an "Indemnitee") receives notice of a pending or threatened Claim, such Indemnitee shall give written notice of the Claim to the Party from whom the Indemnitee is entitled to receive indemnification pursuant to Sections 13.1 or 13.2, as applicable (the "Indemnifying Party"). However, an Indemnitee's delay in providing or failure to provide such notice shall not relieve the Indemnifying Party of its indemnification obligations, except to the extent it can demonstrate actual prejudice due to the delay or lack of notice. (b) Defense. Upon receipt of notice under this Section 13.3 from the Indemnitee, the Indemnifying Party will have the duty to either compromise or defend, at its own expense and by counsel (reasonably satisfactory to Indemnitee) such Claim. The Indemnifying Party will promptly (and in any event not more than twenty (20) days after receipt of the Indemnitee's original notice) notify the Indemnitee in writing that it acknowledges its obligation to indemnify the Indemnitee with respect to the Claim pursuant to this Article 13 and of its intention either to compromise or defend such Claim. Once the Indemnifying Party gives such notice to the Indemnitee, the Indemnifying Party is not liable to the Indemnitee for the fees of other counsel or any other expenses subsequently incurred by the Indemnitee in connection with such defense, other than the Indemnitee's reasonable out of pocket Third Party expenses related to its investigation and cooperation, except as otherwise provided in the next sentence. As to all Claims as to which the Indemnifying Party has assumed control under this Section 13.3(b), the Indemnitee shall have the right to employ separate counsel and to participate in the defense of a Claim (as reasonably directed by the Indemnifying Party) at its own expense; provided, however, that if the Indemnitee shall have reasonably concluded, based upon a written opinion from outside legal counsel, that there is a conflict of interest between the Indemnifying Party and the Indemnitee in the defense of such Claim, in which case the Indemnifying Party shall pay the fees and expenses of one (1) law firm serving as counsel for the Indemnitee in relation to such Third Party Claim. (c) Cooperation. The Indemnitee shall reasonably cooperate with the Indemnifying Party and its legal representatives in the investigation and defense of any Claim. The Indemnifying Party shall keep the Indemnitee informed on a reasonable and timely basis as to the status of such Claim (to the extent the Indemnitee is not participating in the defense of such Claim) and conduct the defense of such Claim in a prudent manner. (d) Settlement. If an Indemnifying Party assumes the defense of a Claim, no compromise or settlement of such Claim may be effected by the Indemnifying Party without the Indemnitee's written consent (such consent not to be unreasonably withheld, delayed or conditioned). Notwithstanding the foregoing, the Indemnitee's consent shall not be required of a settlement where: (i) there is no finding or admission of any violation of law or any violation of the rights of any person and no effect on any other claims that may be made against the Indemnitee; (ii) the sole relief provided is monetary damages that are paid in full by the Indemnifying Party; (iii) the Indemnitee's rights under this Agreement are not adversely affected; and (iv) there is a full release of the Indemnitee from such Claim. If the Indemnifying Party fails to assume defense of a Claim within a reasonable time, the Indemnitee may settle such Claim on such terms as it deems appropriate with the consent of the Indemnifying Party (such consent not to be unreasonably withheld, delayed or conditioned), and the Indemnifying Party shall be obligated to indemnify the Indemnitee for such settlement as provided in this Article 13. It is understood that only Vyera and CytoDyn may claim indemnification under this Agreement (on its own behalf or on behalf of its Indemnitees), and other Indemnitees may not directly claim indemnity under this Agreement.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+13.4 Insurance. Each Party, at its own expense, shall maintain comprehensive general liability, product liability and other appropriate insurance for the activities such Party undertakes pursuant to this Agreement, from reputable and financially secure insurance carriers in a form and at levels consistent with sound business practice and adequate in light of its obligations under this Agreement. Each Party shall provide a certificate of insurance (or evidence of self-insurance) evidencing such coverage to the other Party upon request. Such insurance will not create a limit to a Party's liability with respect to its indemnification obligations under this Article 13 or otherwise. This Section 13.4 will survive expiration or termination of this Agreement for the period in which the Licensed Product is being Commercialized by or on behalf of Vyera plus six (6) years. Each Party shall provide the other Party with prompt written notice of any cancellation, non-renewal or material change in such insurance that could materially adversely affect the rights of the other Party hereunder, and shall provide such notice within thirty (30) days after any such cancellation, non-renewal or material change.
+
+13.5 Limitation of Liability. EXCEPT FOR A PARTY'S OBLIGATIONS SET FORTH IN THIS ARTICLE 13, AND ANY BREACH OF ARTICLE 10 (CONFIDENTIALITY), IN NO EVENT WILL EITHER PARTY BE LIABLE TO THE OTHER PARTY (OR THE OTHER PARTY'S AFFILIATES OR SUBLICENSEES) IN CONNECTION WITH THIS AGREEMENT FOR LOST REVENUE, LOST PROFITS, LOST ROYALTIES, LOST SAVINGS, LOSS OF USE, DAMAGE TO GOODWILL, OR ANY CONSEQUENTIAL, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE OR INDIRECT DAMAGES IN CONNECTION WITH THIS AGREEMENT, HOWEVER CAUSED, UNDER ANY THEORY OF LIABILITY, INCLUDING CONTRACT, NEGLIGENCE, OR STRICT LIABILITY, EVEN IF THAT PARTY HAS BEEN PLACED ON NOTICE OF THE POSSIBILITY OF SUCH DAMAGES. FOR CLARITY AND NOTWITHSTANDING THE PROVISIONS OF THE FIRST SENTENCE OF THIS SECTION 13.5, ROYALTIES AND MILESTONES PAYABLE TO CYTODYN IN CONNECTION WITH VYERA'S COMMERCIALIZATION OF LICENSED PRODUCTS IN ACCORDANCE WITH THE TERMS OF THIS AGREEMENT COULD CONSTITUTE DIRECT DAMAGES TO THE EXTENT AWARDED IN ACCORDANCE WITH ARTICLE 12.
+
+ARTICLE 14 MISCELLANEOUS
+
+14.1 Notices. All notices and other communications given or made pursuant hereto shall be in writing and shall be deemed to have been duly given on the date delivered, if delivered personally, or on the next Business Day after being sent by reputable international overnight courier (with delivery tracking provided, signature required and delivery prepaid), in each case, to the Parties at the following addresses, each as may be specified below (or at such other address for a Party as shall be specified by notice given in accordance with this Section 14.1).
+
+If to Vyera:
+
+Vyera Pharmaceuticals, LLC 600 Third Avenue, 10t h Floor New York, NY 10016 Attention: Legal Department Email: [***]
+
+with a copy to:
+
+Morgan, Lewis & Bockius LLP 101 Park Avenue New York, NY 10178-0060 Attention: [***] Email: [***]
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+If to CytoDyn:
+
+CytoDyn Inc. 1111 Main Street, Suite 660 Vancouver, WA 98660 Attention: Nader Pourhassan, CEO Email: [***]
+
+with a copy to:
+
+Lowenstein Sandler LLP One Lowenstein Drive Roseland, NJ 07068 Attention: [***] Email: [***]
+
+14.2 Governing Law. This Agreement and all disputes arising out of or related to this Agreement or any breach hereof shall be governed by and construed in accordance with the laws of the State of New York, without giving effect to any choice of law principles that would result in the application of the laws of any other jurisdiction. The United Nations Convention on Contracts for the International Sale of Goods shall not apply to the transactions contemplated by this Agreement
+
+14.3 Designation of Affiliates. Each Party may discharge any obligation and exercise any right hereunder through delegation of its obligations or rights to any of its Affiliates. Each Party hereby guarantees the performance by its Affiliates of such Party's obligations under this Agreement, and shall cause its Affiliates to comply with the provisions of this Agreement in connection with such performance. Any breach by a Party's Affiliate of any of such Party's obligations under this Agreement shall be deemed a breach by such Party, and the other Party may proceed directly against such Party without any obligation to first proceed against such Party's Affiliate.
+
+14.4 Relationship of the Parties. It is expressly agreed that CytoDyn, on the one hand, and Vyera, on the other hand, shall be independent contractors and that the relationship between the two Parties shall not constitute a partnership, joint venture or agency, including for tax purposes. Neither CytoDyn nor Vyera shall have the authority to make any statements, representations or commitments of any kind, or to take any action which shall be binding on the other, without the prior written consent of the other Party to do so. All persons employed by a Party shall be employees of that Party and not of the other Party and all costs and obligations incurred by reason of such employment shall be at the expense of such Party.
+
+14.5 Force Majeure. Both Parties shall be excused from the performance of their obligations under this Agreement to the extent that such performance is prevented by Force Majeure and the nonperforming Party promptly provides notice of the prevention to the other Party. Such excuse shall be continued so long as the condition constituting Force Majeure continues and the nonperforming Party takes reasonable efforts to remove the condition. Notwithstanding the foregoing, a Party shall not be excused from making payments owed hereunder because of a Force Majeure affecting such Party. If a Force Majeure persists for more than [***], then the Parties shall discuss in good faith the modification of the Parties' obligations under this Agreement in order to mitigate the delays caused by such Force Majeure.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+14.6 Assignment. Vyera may not assign this Agreement, or any rights or obligations hereunder without the prior written consent of CytoDyn, not to be unreasonably withheld or delayed provided that Vyera may assign this Agreement without CytoDyn's consent to an Affiliate or to a successor to substantially all of the business of Vyera to which this Agreement relates. A Change of Control shall be deemed an assignment for purposes of this Agreement. Any permitted successor or assignee of rights and/or obligations permitted hereunder shall, in writing to the other Party, expressly assume performance of such rights and/or obligations. Any permitted assignment shall be binding on the successors of the assigning Party. Any assignment or attempted assignment by Vyera in violation of the terms of this Section 14.6 shall be null, void and of no legal effect. For clarity, nothing in this Agreement shall prohibit Vyera from undergoing any Change of Control, but if Vyera undergoes a Change of Control, it will be subject to Section 2.6. CytoDyn may assign this Agreement and its rights and obligations hereunder, in whole but not in part, to any Third Party not in a materially worse (financially and otherwise) of performing CytoDyn's obligations hereunder without the prior written consent of Vyera (it being understood that any other assignment of this Agreement or any rights or obligations hereunder shall require the prior written consent of Vyera, not to be unreasonably withheld or delayed).
+
+14.7 Severability. If any one (1) or more of the provisions of this Agreement is held to be invalid or unenforceable by any court of competent jurisdiction from which no appeal can be or is taken, the provision(s) shall be considered severed from this Agreement and shall not serve to invalidate any remaining provisions hereof. The Parties shall make a good faith effort to replace any invalid or unenforceable provision with a valid and enforceable provision such that the objectives contemplated by the Parties when entering this Agreement may be realized.
+
+14.8 Waiver and Non-Exclusion of Remedies. Any term or condition of this Agreement may be waived at any time by the Party that is entitled to the benefit thereof, but no such waiver shall be effective unless set forth in a written instrument duly executed by or on behalf of the Party waiving such term or condition. The waiver by either Party hereto of any right hereunder or of the failure to perform or of a breach by the other Party shall not be deemed a waiver of any other right hereunder or of any other breach or failure by such other Party whether of a similar nature or otherwise. The rights and remedies provided herein are cumulative and do not exclude any other right or remedy provided by Applicable Law or otherwise available except as expressly set forth herein.
+
+14.9 Further Assurance. Each Party shall duly execute and deliver, or cause to be duly executed and delivered, such further instruments and do and cause to be done such further acts and things, including the filing of such assignments, agreements, documents, and instruments, as may be necessary or as the other Party may reasonably request in connection with this Agreement or to carry out more effectively the provisions and purposes hereof.
+
+14.10 Headings. The headings of each Article and Section in this Agreement have been inserted for convenience of reference only and are not intended to limit or expand on the meaning of the language contained in the particular Article or Section.
+
+14.11 Construction. Except where the context otherwise requires, wherever used, the singular shall include the plural, the plural shall include the singular, and the use of any gender shall be applicable to all genders. Whenever this Agreement refers to a number of days without using a term otherwise defined herein, such number refers to calendar days. The terms "including," "include," "includes" or "for example" shall not limit the generality of any description preceding such term and, as used herein, shall have the same meaning as "including, but not limited to," and/or "including, without limitation." The language of this Agreement shall be deemed to be the language mutually chosen by the Parties and no rule of strict construction shall be applied against either Party hereto. Each Party represents that it has been represented by legal counsel in connection with this Agreement and acknowledges that it has participated in the drafting hereof. In interpreting and applying the terms and provisions of this Agreement, the Parties agree that no presumption will apply against the Party which drafted such terms and provision.
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+14.12 Entire Agreement. This Agreement, including the Attachments hereto, sets forth the complete, final and exclusive agreement and all the covenants, promises, agreements, warranties, representations, conditions and understandings between the Parties hereto with respect to the subject matter hereof and supersedes, as of the Effective Date, all prior and contemporaneous agreements and understandings between the Parties with respect to the subject matter hereof; including the Mutual Confidential Disclosure Agreement between the Parties dated as of January 31, 2019. There are no covenants, promises, agreements, warranties, representations, conditions or understandings, either oral or written, between the Parties other than as are set forth herein and therein. No subsequent alteration, amendment, change or addition to this Agreement shall be binding upon the Parties unless reduced to writing and signed by an authorized officer of each Party. In the event of any inconsistency between the body of this Agreement and either any Attachments to this Agreement or any subsequent agreements ancillary to this Agreement, unless otherwise express stated to the contrary in such Attachment or ancillary agreement, the terms contained in this Agreement shall control.
+
+14.13 Counterparts. This Agreement may be executed in two (2) or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. This Agreement may be executed by .pdf or other electronically transmitted signatures and such signatures shall be deemed to bind each Party hereto as if they were the original signatures.
+
+[Remainder of this page intentionally left blank—signature page follows]
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+IN WITNESS WHEREOF, the Parties have entered into this Agreement as of the Effective Date. CYTODYN INC.
+
+By: /s/ Nader Z. Pourhassan Name: Nader Z. Pourhassan, Ph.D. Title: President and Chief Executive Officer
+
+VYERA PHARMACEUTICALS, LLC
+
+By: /s/ Averill L. Powers Name: Averill L. Powers Title: Chief Strategy Officer and General Counsel
+
+[Signature Page to Commercialization and License Agreement]
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+Attachment A
+
+CytoDyn Patents
+
+[See attached.]
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+Attachment B
+
+Development Plan
+
+[See attached.]
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+Attachment C
+
+Commercialization Plan
+
+[See attached.]
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+Attachment D
+
+Form of Supply Agreement
+
+[See attached.]
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+Attachment E
+
+Form of Subscription Agreement
+
+[See attached.]
+
+Source: CYTODYN INC., 10-Q, 1/9/2020
+
+
+
+
+
+Attachment F
+
+Form of Warrant Agreement
+
+[See attached.]
+
+Source: CYTODYN INC., 10-Q, 1/9/2020

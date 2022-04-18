@@ -1,0 +1,383 @@
+1                                                                     EXHIBIT 10.2
+
+Portions of this exhibit have been redacted pursuant to a request for confidential treatment under Rule 24b-2 of the General Rules and Regulations under the Securities Exchange Act. Omitted information, marked "[***]" in this exhibit, has been filed with the Securities and Exchange Commission together with such request for confidential treatment.
+
+                             CO-BRANDING AGREEMENT
+
+                 This CO-BRANDING AGREEMENT (this "Agreement") is made as of this November 14, 2000 by and between Dassault Systemes, a societe anonyme organized under the laws of France and the owner of Purchaser ("Dassault Systemes") and/or certain affiliates of Dassault Systemes, and PlanetCAD Inc. (formerly known as Spatial Technology Inc.), a corporation organized under the laws of the State of Delaware ("PlanetCAD") (each a "Party," together, the "Parties").
+
+                                  WITNESSETH:
+
+                 WHEREAS, PlanetCAD, SPATIAL COMPONENTS, LLC and DASSAULT SYSTEMS CORP. entered into a certain Purchase Agreement, dated July 4, 2000 ("Purchase Agreement"), pursuant to which DASSAULT SYSTEMES CORP. acquired the Component Business (as defined in the Purchase Agreement) from PlanetCAD and SPATIAL COMPONENTS, LLC, including certain software; and
+
+                 WHEREAS, PlanetCAD has created, operates and maintains its own Web sites, including, without limitation 3Dshare.com and PlanetCAD.com, through which PlanetCAD provides Internet-based services to its customers, and has competence and expertise in the supply of Internet-based services to customers.
+
+                 WHEREAS, as a condition to closing the transaction contemplated under the Purchase Agreement, the Parties hereto agreed to enter into this Agreement for the co-branding of 3Dshare.com.
+
+                 NOW, THEREFORE, in consideration of the mutual promises and covenants set forth herein, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+                                   SECTION 1                                    DEFINITIONS
+
+                 All capitalized terms not otherwise defined herein shall have the same meanings set forth in the Asset Purchase Agreement.
+
+                                      1    2
+
+                 1.1 "Affiliate(s)" shall mean, with respect to any specified Person, any other Person that, directly or indirectly, Controls, is Controlled by, or is under common Control with such Person.
+
+                 1.2 "Billing Party" means the party responsible for all billing and collection matters associated with the Co-Branded Service.
+
+                 1.3 "CBD Software" shall mean the following computer software programs, whichever packaging and naming, in the version and release that is commercially available at the Effective Date, as well as corrections, enhancements and modifications of the CBD Software delivered in the maintenance services provided under the Cross-License Agreement executed contemporaneously by the Parties: ACIS (R) 3D Toolkit, ACIS (R), Advanced Blending Husk, ACIS(R) Advanced Rendering Husk, ACIS(R) Local Operations Husk, ACIS(R) Shelling Husk, ACIS(R) Precise Hidden Line Husk, ACIS(R) Mesh Surface Husk, ACIS(R) Space Warping Husk, ACIS(R) Advanced Surfacing Husk, ACIS(R) Cellular Topology Husk, Spatial Deformable Modeler, ACIS(R) Deformable Modeling Husk, JetScream(TM), ACIS(R) JetScream Husk, ACIS (R) RevEnge Husk (MetroCad), ACIS(R) AEC Husk, IVSDK, ACIS(R) Open Viewer and Plug-ins, Large Model Viewer, 3D Building Blox(TM), SAT(R) (ACIS File Format).
+
+                 1.4 "CNDA" means the Confidential and Non-Disclosure Agreement among, inter alia, PlanetCAD and Dassault Systemes executed contemporaneously herewith.
+
+                 1.5 "Co-Branded Service" means the service to be developed under this Agreement, including Enhancements, which will be offered to Dassault Systemes Customers via the Dassault Systemes Web site(s) and will contain translation and healing application services substantially similar to those currently offered and sold on the PlanetCAD Web site(s) as of the Effective Date under the product name 3Dshare.com, and based upon the CBD Software.
+
+                 1.6 "Control" means, with respect to the relationship between or among two or more Persons, shall mean the possession, directly or indirectly,
+
+Source: RAND WORLDWIDE INC, 8-K/A, 4/2/2001
+
+
+
+
+
+or as trustee or executor, of the power to direct or cause the direction of the affairs or management of a Person, whether through the ownership of voting securities, as trustee or executor, by contract or otherwise, including, without limitation, the ownership, directly or indirectly, of securities having the power to elect a majority of the board of directors or similar body governing the affairs of such Person; provided that neither PlanetCAD nor shall be deemed to be controlled by any other Person or under common control with any Person that is not one of their respective subsidiaries.
+
+                 1.7 "Dassault Systemes" shall mean the entity that is a party to this Agreement and each of its Affiliates.
+
+                 1.8 "Dassault Systemes Customer(s)" means any customer of the Co-Branded Service having accessed such Web service, wherever hosted, by first logging in on any Dassault Systemes Web site.
+
+                 1.9 "Dassault Systemes Customer Database(s)" shall have the meaning set forth in Section 6.1  [DASSAULT SYSTEMES CUSTOMER DATABASES].
+
+                                      2    3
+
+                 1.10 "Dassault Systemes Personnel" means employees, officers, agents, independent contractors and subcontractors of Dassault Systemes.
+
+                 1.11 "Dassault Systemes Web sites" means any Web site created, owned, operated or supported by or for Dassault Systemes.
+
+                 1.12 "Effective Date" means November 14, 2000.
+
+                 1.13 "Enhancements" mean without limitation, compilations, modifications, adaptations, improvements, bug fixes, corrections, versions, design changes, revisions, upgrades, updates, and new versions with respect to the Co-Branded Services during the Term of this Agreement.
+
+                 1.14 "Hardware Infrastructure" means all hardware equipment, materials, products and facilities that may be necessary at any time to operate the Software Infrastructure to the Co-Branded Service.
+
+                 1.15 "Infrastructure" means the "Software Infrastructure" and the "Hardware Infrastructure."
+
+                 1.16 "Initial Term" shall have the meaning set forth in Section 10.1  [Term].
+
+                 1.17 "Know-How" shall mean all residual information of a non-tangible form, which is not protected by the United States or European Union laws of copyright, patent or trade secrets and which may be retained by a party who has had access to confidential and proprietary information of the other party, including ideas, concepts or techniques contained therein.
+
+                 1.18 "Launch Date" shall mean the date of first log in of a Dassault Systemes Customer for the Co-Branded Service.
+
+                 1.19 "Marks" shall have the meaning set forth in Section 3.4  [Use of Marks].
+
+                 1.20 "Net Revenue" shall have the meaning set forth in Section 5.5  [Net Revenue Defined].
+
+                 1.21 "Non-Billing Party" means the party who is not the Billing Party.
+
+                 1.22 "Person" means any individual or legal entity, including without limitation, partnership, corporation, association, trust or unincorporated organization.
+
+                 1.23 "PlanetCAD Personnel" means employees, officers, agents, independent contractors and subcontractors of PlanetCAD.
+
+                 1.24 "PlanetCAD Web sites" means 3dshare.com, PlanetCAD.com and any other Web site created, owned, operated or supported by or for PlanetCAD.
+
+                 1.25 "Revenue Report" shall have the meaning set forth in Section 5.6  [Reporting and Payment Obligations].
+
+                                      3    4
+
+                 1.26 "Software" means any computer software program, including programming-code, on-line documentation, if any, user interface related thereto or associated therewith, to the extent that such user interface does exist, and related user and installation documentation other than on-line documentation associated with this computer software program.
+
+Source: RAND WORLDWIDE INC, 8-K/A, 4/2/2001
+
+
+
+
+
+                 1.27 "Server Software" means all software, including without limitation, Web interface, Web middleware, Web dynamic content billing, Web content generation software, and any Derivative Works thereof that is used by PlanetCAD to provide services on the Co-Branded Service. The list of all such Software as of the Effective Date is attached in Schedule A which will be updated by PlanetCAD when reasonably requested by Dassault Systemes and when in PlanetCAD's determination significant changes have been made.
+
+                 1.28 "Software Infrastructure" means the software configuration and environment necessary to perform, supply and support the Co-Branded Service including any Third Party Software.
+
+                 1.29 "Term" shall have the meaning set forth in Section 10.1  [Term].
+
+                 1.30 "Third Party Software" means computer software programs owned by a party other than PlanetCAD or Dassault Systemes and incorporated into, or required for the development, operation and/or support of any Web service governed by this Agreement and the Infrastructure associated therewith.
+
+                                   SECTION 2                                  SUBJECT MATTER
+
+                 2.1 Engagement. Dassault Systemes and PlanetCAD agree to cooperate to develop and bring to their customers the Co-Branded Service under the terms and conditions set forth below.
+
+                                   SECTION 3                          OWNERSHIP AND LICENSING RIGHTS
+
+                 3.1 Ownership by PlanetCAD. All right, title and interest in and to: (i) the Server Software and (ii) the service known as of the Effective Date as 3Dshare.com and its Enhancements shall be owned by PlanetCAD.
+
+                 3.2 Ownership by Dassault Systemes. All right, title and interest in and to the CBD Software and its Enhancements shall be owned by Dassault Systemes.
+
+                 3.3 Limited Hosting License. PlanetCAD hereby grants to Dassault Systemes a fully-paid, non-exclusive, worldwide, revocable limited license to the Server Software and Infrastructure for the sole purpose of (i) hosting the Co-Branded Service and (ii) fulfilling its
+
+                                      4    5 obligations under this Agreement. The license granted pursuant to this Section 3.3  [Limited Hosting License] shall be deemed to be automatically revoked upon termination of this Agreement. Within 2 weeks following execution of this Agreement, PlanetCAD will provide Dassault Systemes with the necessary media and licensing keys or similar authorization system (if any) to use such Server Software and Infrastructure according to the above license.
+
+                 3.4 Use of Marks. Prior to commercialization of the Co-Branded Service the parties shall agree on the use and placement of all Dassault Systemes and PlanetCAD logos, trade names, trademarks, service marks, and similar identifying material (collectively referred to as "Marks") on the Co-Branded Service. Any usage of a party's Marks on the Co-Branded Service including without limitation size, placement, font and style of such Marks will be subject to such party's prior written approval. On or before the Launch Date, each party shall grant the other party a non-exclusive, non-transferable, revocable right to use their approved Marks, for the sole purpose of advertising, marketing, promotion and sale of the Co-Branded Service. In connection with such license each party agrees not to use the other party's Marks in any manner that is disparaging or that otherwise portrays such party in a negative light. Each party retains all right, title and interest, in and to its Marks. Upon termination of this Agreement the right in either party to use the other party's Marks shall automatically terminate.
+
+                 3.5 Know-How. The parties hereby acknowledge and agree that any and all rights to Know-How developed or shared under this Agreement by either party shall be jointly owned by the parties and may be used by either party in the operation of their respective businesses during and following termination of this Agreement.
+
+                                   SECTION 4             DEVELOPMENT AND COMMERCIALIZATION OF THE CO-BRANDED SITE
+
+                 4.1 Review of Co-Branded Site. Immediately prior to the Launch Date, each party shall have an opportunity to review the content and presentation of the Web pages relating to the Co-Branded Service and shall have the right to request reasonable changes to any aspect of the Co-Branded Service, including without limitation, the look and feel of the Web pages.
+
+                 4.2 Appointment of Liaison. As soon as practicable after the Effective Date, each party shall appoint a project manager to act as a liaison to oversee and ensure compliance of the respective obligations of the parties hereunder.
+
+Source: RAND WORLDWIDE INC, 8-K/A, 4/2/2001
+
+
+
+
+
+                 4.3 Access to the Co-Branded Service by Dassault Systemes Customers. During the Term of this Agreement, the Co-Branded Service will be accessible from any Dassault Systemes Web site(s), as determined by Dassault Systemes in its sole discretion, on a fully transparent basis by way of a direct link to the first Web page of the Co-Branded Service. Upon exiting the Co-Branded Service, the Dassault Systemes Customers will be automatically returned to the Dassault Systemes Web site. PlanetCAD shall, with consultation and input from Dassault Systemes, perform all services necessary for the implementation of such link between the Dassault Systemes Web site and the Co-Branded Service.
+
+                 4.4 Co-Branding Designations. The Co-Branded Service will be designated as such by use of both party's Marks on the Co-Branded Service, and inclusion of wording such as
+
+                                      5    6 "powered by PlanetCAD" on all Web pages, associated with the Co-Branded Service. The placement, text, font and size of the wording shall be mutually agreed upon by the parties.
+
+                 4.5 Hosting and Customer Support Obligations of the Parties. Unless otherwise agreed by the parties: (i) PlanetCAD will host the Co-Branded Service at its facilities and shall be responsible for providing the Infrastructure necessary to operate such service; (ii) the party responsible for hosting the Co-Branded Service shall be responsible for all customer billing as set forth in Section 5.1  [Customer Billing] herein; (iii) Dassault Systemes will provide first level customer support; (iv) PlanetCAD will provide second level customer support, and (v) PlanetCAD shall be responsible for all updates and Enhancements of the Co-Branded Service. PlanetCAD shall not charge Dassault Systemes any hosting fee for the Co-Branded Service.
+
+                 4.6 Software Support and Maintenance Obligations of the Parties. For the Term of this Agreement the parties shall cooperate to perform maintenance and support services on their respective software included on and necessary to the operation of the Co-Branded Service. The description of maintenance and support obligations is set forth in the Maintenance and Support Services Schedule, attached hereto as Schedule B and incorporated herein by reference.
+
+                 4.7 Change of Hosting. At any time during the Term of this Agreement, Dassault Systemes may, at its discretion, decide to host the Co-Branded Service, or have it hosted by any third party of its choice, by sending ninety days written notice to that effect to PlanetCAD. In such event, PlanetCAD agrees to: (i) provide to Dassault Systemes a current and updated list of equipment, materials, products and facilities composing the Hardware Infrastructure, and (ii) provide reasonable cooperation with Dassault Systemes in seamlessly transitioning the Co-Branded Service to Dassault Systemes equipment or to the equipment of its subcontractors or Affiliates.
+
+                                   SECTION 5                 CUSTOMER BILLING, PAYMENT TERMS AND AUDIT RIGHTS
+
+                 5.1 Customer Billing. Unless otherwise agreed by the parties and subject to the reporting and revenue sharing obligations set forth in this Section 5, the party responsible for hosting shall be the Billing Party.
+
+                 5.2 Pricing of the Co-Branded Service. Prior to the Launch Date, the parties shall agree on which currencies and list prices shall apply to the Co-Branded Service. If, for whatever reason, the parties fail to agree on a price to be applied, the price applied to the Co-Branded Service shall be equal to the then current list price for such services as offered on the PlanetCAD Web site(s). If, for whatever reason, the parties fail to agree on a currency to be applied, the Billing Party will be entitled to choose a currency, as long as such currency easily converts into US dollars and the Billing Party shall pay to the other party its share of revenue in US dollars, based on the average exchange rate of that currency against US dollars during the last 3 months preceding the date of payment to the other party.
+
+                 5.3 Taxes. The Billing Party may deduct and withhold from any payments due to the other party under this Agreement any and all taxes and other amounts as required
+
+                                      6    7 under the laws of any jurisdiction that has the authority to tax the Billing Party, the other party or the transactions contemplated by this Agreement. However, should the Billing Party consider withholding payment or paying any such amount from payments due under this Agreement, the Billing Party shall send in advance to the other party a certificate setting forth the regulatory and/or legal framework for such a payment, including the provisions of the international tax treaty allowing such payment. The other party will have 30 days from the reception of such information to accept or refuse such payment/withholding:
+
+Source: RAND WORLDWIDE INC, 8-K/A, 4/2/2001
+
+
+
+
+
+    (i)  If the other party accepts or does not answer within this time frame,           the Billing Party will be entitled to make such payment/withholding           and shall provide the other party with a certificate stating the           amounts withheld and the jurisdictions to which such amounts were           remitted.
+
+    (ii) If the other party provides to the Billing Party a certificate stating           that (a) the Billing Party has no withholding/payment obligations with           respect to the laws of such particular jurisdiction and setting forth           the relevant authority for such statement and/or (b) that such a           payment may be avoided under any applicable law or treaty and provide           with the necessary documentation for that purpose, and if the Billing           Party then determines that it has no such withholding obligation under           the laws of such jurisdiction, the Billing Party shall make any future           payments to the other party without deduction for the items set forth           in the certificate, until such time as the Billing Party reasonably           believes that it has a withholding obligation.
+
+Either Party shall pay any applicable sales or value added tax on the payments due.
+
+                 5.4 Share of Net Revenue. As financial consideration under this Agreement, Net Revenue will be shared by the parties as follows:
+
+                 (a)   For so long as PlanetCAD hosts the Co-Branded Service,                         during which time PlanetCAD shall be the Billing Party,                         all Net Revenue derived from sales of the Co-Branded                         Service to Dassault Systemes Customers shall be                         apportioned [***] percent ([***]%) to Dassault Systems                         and [***] percent ([***]%) to PlanetCAD.
+
+                 (b)   In the event that Dassault Systemes opts to host the                         Co-Branded Service pursuant to Section 4.7  [Change of Hosting] herein they                         shall become the Billing Party and all Net Revenue                         derived from sales of the Co-Branded Service shall be                         apportioned [***] percent ([***]%) to Dassault Systems                         and [***] percent ([***]%) to PlanetCAD.
+
+                 5.5 Net Revenue Defined. Net Revenue shall consist of all revenues recognized by the Billing Party derived from supply of the Co-Branded Service, including the price paid by the customers, less any applicable discounts and net of any commissions or fees paid to third party resellers, to obtain access to the Co-Branded Service and any other fees and charges invoiced by the Billing Party to the customers, without deduction by such party of any other costs or expenses related to achievement of the revenue, provided, however, that Net
+
+                                      7    8 Revenue shall be reduced by the amount, if any, of (i) value-added taxes, (ii) sales taxes or (iii) withholding taxes imposed by any jurisdiction on payments made by a payor in such jurisdiction to a payee outside of such jurisdiction.
+
+                 5.6 Reporting and Payment Obligations. Within 7 Business Days after the end of each calendar quarter, the Billing Party shall provide the other party with an itemized statement, subject to adjustment within 30 days of receipt of such statement, setting forth the Net Revenue achieved over the preceding calendar quarter, and shall include such other information as may be mutually agreed upon by the parties (the "Revenue Report"). The Revenue Report shall be accompanied by payment to the Non-Billing Party of all amounts owed as set forth on such Revenue Report, as well as - when applicable - the exchange currency rate. When agreed between the parties as provided for in Section 5.2  [Pricing of the Co-Branded Service], payment will be made to the Non-Billing Party in the currency received by the Billing Party for the provision of the Co-Branded Service. Otherwise, payment shall be made in US dollars as provided for in Section 5.2  [Pricing of the Co-Branded Service]. In the event that the Billing Party is unable under foreign currency export controls or similar applicable laws, unknown to the parties at the time where they agree on payments in that currency, to provide payment to the Non-Billing Party in the currency received by the Billing Party the parties agree to negotiate a mutually agreeable solution. A party's right to payment shall accrue upon the date the corresponding revenues accrue to the Billing Party. The parties shall pay interest for late payment of any sum due at the LIBOR rate plus four points (not to exceed the maximum rate authorized, or be inferior to the minimum rate allowed, by applicable law, as the case may be).
+
+                 5.7 Records - Audit. The Billing Party shall, for two years following each transaction relating to the Co-Branded Service, keep true and accurate records and books of account of such transaction containing all particulars which may be necessary for the purpose of auditing payments to the Non-Billing Party under this Agreement. During such two-year period, and upon reasonable notice to the Billing Party, the Non-Billing Party shall have the right to have an audit conducted through a licensed independent accounting firm, of any billings, collections, and taxes on such itemized statement, and to examine the records and books of account of the Billing Party in connection therewith. The Billing Party will bear the costs of such audit if a discrepancy
+
+Source: RAND WORLDWIDE INC, 8-K/A, 4/2/2001
+
+
+
+
+
+or error of computation in an amount greater than $10,000 in favor of the Non-Billing Party is identified. Any audit conducted pursuant to this Section 5.7  [Records -] shall not be conducted in such a manner as to unreasonably interfere with the Non-Billing Party's operations and in no event shall an audit be conducted more frequently than once each year.
+
+                                      8    9
+
+                                  SECTION 6                       DASSAULT SYSTEMES CUSTOMER DATABASES
+
+                 6.1 PlanetCAD's obligation to maintain and update Dassault Systemes Customer Databases. For as long as PlanetCAD hosts the Co-Branded Service, PlanetCAD will maintain and continuously update Dassault Systemes' Customer Database(s), which shall include without limitation, databases of Dassault Systemes Customers, of demands from and results of Web services supplied to Dassault Systemes Customers and associated Net Revenue and of data collected via the Customer Relations Management ("CRM") environment. The Dassault Systemes Customer Databases must be held separately from any other databases held or maintained by PlanetCAD. If not held separately, the Dassault Systemes Customer Databases must be clearly identified and sorted out as the property of Dassault Systemes and the provisions regarding PlanetCAD's limited right of use and its obligation of confidentiality as set forth below apply without change.
+
+                 6.2 Ownership of Dassault Systemes Customer Databases. Dassault Systemes will be deemed the maker of the Dassault Systemes Customer Databases and the owner of any and all right, title and interest in and to the Dassault Systemes Customer Databases and their content, wherever hosted.
+
+                 At all times during the Term of this Agreement, Dassault Systemes will have unrestricted access to and use of the Dassault Systemes Customer Databases, and the content therein.
+
+                 At all times during the Term of this Agreement, and as long as the Dassault Systemes Customer Databases are hosted by PlanetCAD, PlanetCAD benefits from a limited right to use the assault Systemes Customer Databases for the exclusive purpose of performing its obligations under this Agreement.
+
+                 6.3 Transfer of Dassault Systemes Customer Databases. Upon discontinuation of hosting of the Co-Branded Service, PlanetCAD will transfer to Dassault Systemes the Dassault Systemes Customer Databases upon Dassault Systemes' request. PlanetCAD will have no right, license or interest whatsoever in the Dassault Systemes Customer Databases or content therein, except to the extent necessary for performance of its obligations under this Agreement.
+
+                 6.4 Warranty of Confidentiality of Dassault Systemes Customer Databases and Input and Output Data of Dassault Systemes Customers. The parties expressly agree that the Dassault Systemes Customer Databases and their content as well as Dassault Systemes Customers input data to be processed and output data supplied, are confidential information of Dassault Systemes, and will be treated as such, in accordance with the terms and conditions of the CNDA.
+
+                                      9    10
+
+                                   SECTION 7                             COMPETITIVE RESTRICTIONS
+
+                 7.1 Restrictions on PlanetCAD.
+
+                 (a) During the Term of this Agreement, and for a period of one year thereafter, except as expressly provided in this Agreement, PlanetCAD shall not market any services to Customers without the prior written approval of Dassault Systemes.
+
+                 (b) During the Term of this Agreement, PlanetCAD shall be permitted to market new functions and services relating to the Co-Branded Service directly to Dassault Systemes Customers with Dassault Systemes prior written approval, but only to the extent such functions and services are offered by PlanetCAD on the PlanetCAD Web site(s).
+
+                 (c) Notwithstanding the foregoing, PlanetCAD may market new functions and services on the PlanetCAD Web sites to customers that are Dassault Systemes Customers, without the consent of Dassault Systemes, provided PlanetCAD (i) obtained the contact information of such customer from an independent source unrelated to the parties to this Agreement and can provide evidence as to the independent source of the name and e-mail address of such customer, and (ii) did not use the data contained in the Dassault Systemes Customer Database(s).
+
+                 7.2 Restrictions on Dassault Systemes. Except as contemplated under this Agreement, during the two year period following the Effective Date, Dassault Systemes shall not commercially offer any web service, which is (i) based upon the ACIS-based software transferred to Dassault Systemes in
+
+Source: RAND WORLDWIDE INC, 8-K/A, 4/2/2001
+
+
+
+
+
+connection with the Purchase Agreement and (ii) similar to the Co-Branded Service.
+
+                 7.3 Non-Exclusive Services Agreement. It is agreed and acknowledged by the parties that this Agreement is not an exclusive services agreement and except for the restrictions set forth in this Section nothing herein shall prohibit Dassault Systemes, PlanetCAD or any of their affiliates from developing or supplying, whether directly or indirectly, web services substantially identical to those described herein.
+
+                                   SECTION 8                          REPRESENTATIONS AND WARRANTIES
+
+                 8.1 Mutual Representations. Each party represents and warrants to the other party as follows:
+
+                 (a) The performance of this Agreement does not infringe or conflict with any Intellectual Property right of any third party, and (ii) no confidential, proprietary or trade secret information of either party or their personnel that will be used in performing this Agreement has been misappropriated from any third party; and
+
+                                      10    11
+
+                 (b) All services, work, obligations or assignments performed by either party under this Agreement will be of professional quality, conforming to generally accepted practices within the industry, and the Infrastructure including Third Party Software shall function and perform to the specifications and requirements thereof.
+
+                 8.2 Hosting Representations and Warranties of PlanetCAD. For so long as PlanetCAD is hosting the Co-Branded Service, PlanetCAD shall use commercially reasonable efforts to ensure that the services provided on the site are equivalent in functionality and performance to the applications run on the PlanetCAD Web sites and of good quality according to generally accepted practices within the industry.
+
+                 8.3 Disclaimer. THIS IS AN AGREEMENT SOLELY FOR SERVICES, AND THERE SHALL BE NO WARRANTIES, EXPRESS OR IMPLIED, EXCEPT AS STATED HEREIN.
+
+                                   SECTION 9                     INDEMNITIES AND LIMITATIONS ON LIABILITY
+
+                 9.1 Dassault Systemes Indemnification. Dassault Systemes shall indemnify and hold harmless PlanetCAD, and its officers, directors, employees, and shareholders from and against any claims, demands, suits, causes of action, losses, damages, judgments, costs and expenses (including reasonable attorneys' fees) arising out of or related to any breach of Dassault Systemes' representations, warranties and covenants set forth in this Agreement.
+
+                 9.2 PlanetCAD Indemnification. PlanetCAD shall indemnify and hold harmless Dassault Systemes, its affiliates, and their respective officers, directors, employees, and shareholders from and against any claims, demands, suits, causes of action, losses, damages, judgments, costs and expenses (including reasonable attorneys' fees) arising out of or related to any breach of PlanetCAD's representations, warranties and covenants set forth in this Agreement.
+
+                 9.3 Intellectual Property Infringement.Each Party agrees to hold the other Party, its subsidiaries and distributors and assignees harmless from and against any claim of any nature, including, but not limited to, administrative, civil or criminal procedures, which is or may be made or raised against this Party, its subsidiaries and distributors and assignees by any third party that the use or distribution of the Software or any other intellectual property that is the subject of this Agreement and owned or licensed by this Party, infringes or violates any third party's patent, copyright, trade secret or other intellectual property right in any country. Indemnification hereunder shall cover all damages, regardless of their nature, settlements, expenses and costs, including costs of investigation, court costs and attorneys' fees. The payment of any indemnification shall be contingent on:
+
+    (a)  This Party giving prompt written notice to the other of any such claim           or allegation;
+
+    (b)  Cooperation by this Party with the other Party in its defense against           the claim; and
+
+                                      11    12
+
+    (c)  This Party obtaining the other's prior written approval of any           settlement, if any, by this Party of such matters, such approval not           to be unreasonably withheld.
+
+Source: RAND WORLDWIDE INC, 8-K/A, 4/2/2001
+
+
+
+
+
+                 Neither Party shall have the obligation to indemnify the other for any claims of infringement based on any modification by the latest version of its Software, or from the combination of its Software with any other program to the extent such claim would not have arisen without such combination or from use of the unmodified Software or intellectual property.
+
+                 If the operation of any Software that is the subject of this Agreement becomes, or is likely to become, the subject of a claim involving the infringement or other violation of any patent, copyright, trade secret, or other intellectual property rights of any third party, the Parties will jointly determine in good faith what appropriate steps are to be taken by them, with a view towards curing such infringement or other violation, at the Software owner's sole charge. Such steps may include, but are not limited to:
+
+    (i)  The owner securing the right to continue using its Software, or
+
+    (ii) The owner replacing or modifying its Software so that it becomes           non-infringing.
+
+                 If no other option is reasonably available, the owner of the Software agrees to use its best efforts to withdraw, at its sole expense, the infringing Software from the market.
+
+                 In the event a Derivative Work, created under this Agreement, becomes the subject of a claim of infringement, the owner of said Derivative Work shall indemnify the other Party pursuant to this Section 9.
+
+                 9.4 LIMITATIONS ON LIABILITY. EXCEPT FOR LIABILITY ARISING FROM SECTION 9.3  [Intellectual Property Infringement], IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES, LOSSES, OR EXPENSES INCLUDING, BUT NOT LIMITED TO, LOSS OF USE, LOSS OF PROFITS, OR LOSS OF GOODWILL, EVEN IF THAT PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE.
+
+                 EXCEPT FOR LIABILITY ARISING FROM SECTION 9.3  [Intellectual Property Infringement], IN NO EVENT SHALL EITHER PARTY BE LIABLE UNDER THIS AGREEMENT FOR AN AMOUNT GREATER THAN THE AMOUNT THAT SUCH PARTY HAS EARNED PURSUANT TO THE REVENUE SHARING PROVISIONS OF SECTION 5.4  [Share of Net Revenue] IN THE TWELVE MONTH PERIOD PRECEDING THE CLAIM.
+
+                                  SECTION 10                               TERM AND TERMINATION
+
+                 10.1 Term. This Agreement shall be effective as of the Effective Date and shall continue in force for three years from the Launch Date (the "Initial Term") unless earlier
+
+                                      12    13 terminated in accordance with this Section (the "Term"). The Agreement shall automatically renew for successive one year additional terms unless terminated by either party at least six months prior to the expiration of the then-current term.
+
+                 10.2 Breach. Either party may terminate this Agreement at any time in the event that the other party is in default or breach of any material provision of this Agreement, and such default or breach continues unremedied for a period of sixty days after written notice thereof. In addition to the right to terminate this Agreement, the non-breaching party, shall have all rights and remedies available at law and in equity.
+
+                 10.3 Failure of Negotiations After Initial Term. The revenue sharing obligations set forth in Section 5.4  [Share of Net Revenue] shall be subject to re-negotiation at the end of the Initial Term. The parties agree to negotiate in good faith, however, in the event they are unable to agree to satisfactory terms, this Agreement shall terminate six months from the date on which the parties make a conclusive determination that satisfactory terms could not be reached.
+
+                                  SECTION 11                                   MISCELLANEOUS
+
+                 11.1 Confidentiality. All communications and information disclosed by one party to the other party under this Agreement shall be subject to the terms and conditions of the CNDA.
+
+                 11.2 Freedom of Action. Except as otherwise provided, nothing contained in this Agreement shall be construed to limit or impair any right of either party to enter into similar agreements with other parties, or to develop, acquire, license or market, directly or indirectly, other products or services, competitive with those offered by the other party.
+
+                 11.3 Additional Instruments. Notwithstanding termination of this Agreement, the parties covenant and agree to execute and deliver any additional instruments or documents necessary to carry out the general intent of this Agreement, including without limitation patent assignments or any other assignments necessary to evidence the ownership of intellectual property contemplated hereby or any such additional instruments or documents, including
+
+Source: RAND WORLDWIDE INC, 8-K/A, 4/2/2001
+
+
+
+
+
+such instruments as may be required by the laws of any jurisdiction, now or in effect or hereinafter enacted, that may affect a party's rights, title or interest, as applicable, in and to any of the software governed hereby.
+
+                                      13    14
+
+                 11.4 Irreparable Injury. Each party acknowledges and agrees that each covenant in this Agreement pertaining to confidential information and ownership of intellectual property is reasonable and necessary to protect and preserve the rights of the other party in its confidential information and intellectual property, and that any breach by such party of the terms of this Agreement may result in irreparable injury to the other party. Each party, therefore, subject to a claim of laches, estoppel, acquiescence or other delay in seeking relief, consents and agrees that the other party shall be entitled to seek and obtain a temporary restraining order and a permanent injunction to prevent a breach or contemplated breach of this Agreement and waives any requirement that the other party post a bond in connection with seeking such injunctive relief.
+
+                 11.5 Relationship of the Parties. PlanetCAD and Dassault Systemes are independent contractors, and nothing in this Agreement will create any partnership, joint venture, agency, franchise, sales representative, or employment relationship between the parties. Neither party has the authority to act as agent for the other party or to conduct business in the name of such other party or make statements, warranties or representations that exceed or are inconsistent with the warranties provided hereunder.
+
+                 11.6 Notices. All notices required or permitted shall be given in writing, in the English language, and shall be deemed effectively delivered upon personal delivery or three days after deposit with a carrier by registered mail or other equivalent service, postage prepaid, return receipt requested, addressed as follows, or to such other address as either party may designate to the other:
+
+                                      14    15
+
+                          In the case of PlanetCAD :
+
+                                           PlanetCAD Inc.                                             2520 55th Street, Suite 200                                             Boulder, Colorado 80301                                             Attn. Office of the President
+
+                          In the case of Dassault Systemes:
+
+                                           Dassault Systemes                                             9 Quai Marcel Dassault                                             92150 Suresnes                                             Attn. Thibault De Tersant                                             cc: Law Department
+
+                 11.7 Headings. The descriptive headings contained in this Agreement are for convenience of reference only and shall not affect in any way the meaning or interpretation of this Agreement.
+
+                 11.8 Severability. If any term or other provision of this Agreement is deemed invalid, illegal or incapable of being enforced by any law or public policy, all other terms and provisions of this Agreement shall nevertheless remain in full force and effect so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner materially adverse to any party.
+
+                 11.9 Entire Agreement. This Agreement, together with the Schedules attached hereto, constitutes the entire agreement of the parties with respect to the subject matter hereof and supersedes all prior agreements and undertakings, both written and oral, between and PlanetCAD with respect to the subject matter hereof.
+
+                 11.10 Amendment. This Agreement may not be amended or modified except by an instrument in writing signed by, or on behalf of, duly authorized representatives of Dassault Systemes and PlanetCAD.
+
+                                      15    16
+
+                 11.11 Applicable Law, Venue. This Agreement shall be governed by, and construed in accordance with, the Laws of the State of New York, applicable to contracts executed in and to be performed entirely within that
+
+Source: RAND WORLDWIDE INC, 8-K/A, 4/2/2001
+
+
+
+
+
+state. This Agreement shall not be governed by the U.N. Convention on Contracts for the International Sale of Goods. The parties hereto hereby (a) submit to the exclusive jurisdiction of any court of competent jurisdiction sitting in the State of Delaware, The City of Wilmington for the purpose of any Action arising out of or relating to this Agreement brought by any party hereto, and (b) agree, to the fullest extent permitted by applicable law, to waive, and not to assert by way of motion, defense, or otherwise, in any such Action, any claim that is not subject personally to the jurisdiction of the above-named courts, that its property is exempt or immune from attachment or execution, that the Action is brought in an inconvenient forum, that the venue of the Action is improper, or that this Agreement may not be enforced in or by any of the above-named courts.
+
+                 11.12 Waiver of Jury Trial. EACH OF THE PARTIES HERETO HEREBY WAIVES TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY WITH RESPECT TO ANY ACTIONS OR PROCEEDINGS DIRECTLY OR INDIRECTLY ARISING OUT OF, UNDER OR IN CONNECTION WITH THIS AGREEMENT, OR THE TRANSACTIONS CONTEMPLATED HEREUNDER.
+
+                 11.13 Counterparts. This Agreement may be executed in one or more counterparts, each of which when executed shall be deemed to be an original but all of which taken together shall constitute one and the same agreement.
+
+                 11.14 No Waiver. The failure of either party to enforce any provision of this Agreement shall not constitute a waiver of the right to subsequently enforce such provision, or any other provision of this Agreement.
+
+                 11.15 Force Majeure. Neither party shall be held liable for any failure to perform any of its obligations under this Agreement for as long as, and to the extent that such failure is due to an event of force majeure. An event of force majeure shall include general strikes, lockouts, acts of God, acts of war, mobilization of troops, fire, extreme weather, flood, or other natural calamity, embargo, acts of governmental agency, government or any other laws or regulations.
+
+                 11.16 Expenses. Except as expressly provided for in this Agreement, each party shall bear its own expenses incurred in connection with this Agreement, including without limitation travel and living expenses incurred by that party's employees.
+
+                 11.17 Assignment; Subcontracting; Third Party Beneficiaries.
+
+                 (a) This Agreement may be assigned or otherwise transferred, by operation of law or otherwise without the express written consent of PlanetCAD and Dassault Systemes, but in such event the assigning Party shall give notice to the non-assigning Party and the non-assigning Party shall have the right to terminate this Agreement within the 30-day period following receipt of such notice.
+
+                                      16    17
+
+                 (b) Either party may assign or otherwise transfer all or part of this Agreement to any of its Affiliates, and for as long as it remains an Affiliate; provided that no such assignment shall relieve a party of any of its obligations under this Agreement. In the event there is a change of Control of an Affiliate which terminates its status as an Affiliate of the party to this Agreement, and this Agreement has been assigned to such an Affiliate, this Agreement must be assigned back to the party within 6 months of the effective date of the change of Control.
+
+                 (c) Either Party may subcontract services necessary to perform the obligations set forth in this Agreement provided that any and all such subcontractors shall have entered into agreements with the subcontracting Party sufficient to enable that Party to comply with all terms and conditions of this Agreement.
+
+                 (d) This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their permitted assigns, subcontractor or transferee, and nothing herein, express or implied, is intended to or shall confer upon any other person, including, without limitation, any union or any employee or former employee of either party, any legal or equitable right, benefit or remedy of any nature whatsoever, including, without limitation, any rights of employment for any specified period, under or by reason of this Agreement.
+
+                 IN WITNESS WHEREOF, each party has caused its duly authorized representative to execute this Agreement effective the day and year first above written.
+
+                                              PlanetCAD Inc.                                   Dassault Systemes
+
+/s/ R. Bruce Morgan                              /s/ Thibault de Tersant
+
+Source: RAND WORLDWIDE INC, 8-K/A, 4/2/2001
+
+
+
+
+
+   ---------------                                  ------------------- Its: Chief Executive Officer                     Its: Executive Vice President Name: R. Bruce Morgan                            Name: Thibault de Tersant
+
+                                      17
+
+Source: RAND WORLDWIDE INC, 8-K/A, 4/2/2001

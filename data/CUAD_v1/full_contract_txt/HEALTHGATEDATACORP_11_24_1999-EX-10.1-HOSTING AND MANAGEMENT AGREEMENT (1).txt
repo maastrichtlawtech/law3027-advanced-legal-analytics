@@ -1,0 +1,1773 @@
+EXHIBIT 10.1
+
+                    ELECTRONIC JOURNAL SOFT WARE DEVELOPMENT,                         HOSTING AND MANAGEMENT AGREEMENT
+
+      This AGREEMENT is made the 20 March day of 1998
+
+      BETWEEN
+
+      1. HealthGate Data Corp., a Delaware corporation ("HealthGate"), having an       address at 380 Pleasant Street, Malden, Massachusetts, 02148, USA
+
+      AND
+
+      2. Blackwell Science Limited a company registered in England       ("Blackwell"), whose registered office is Osney Mead, Oxford OX2 OEL,       England, and Munksgaard A/S, a company registered in Denmark       ("Munksgaard"), having an address at 35 Norre Sogade, Copenhagen DK-1016,       Denmark (together, Blackwell and Munksgaard shall be referred to as "the       Publishers")
+
+      WHEREAS:
+
+      A. Blackwell and Munksgaard, among other business activities, publish       journals;
+
+      B. HealthGate, among other business activities, creates, compiles and       distributes health and biomedical information through the Internet;
+
+      C. The Publishers desire to retain HealthGate to provide electronic       journal management services, including development of an on-line web site       for its journals, and other mutually agreed publications.
+
+      D. HealthGate will provide the Services.
+
+      E. HealthGate shall license to the Publishers the Proprietary Software and       provide appropriate operational documentation if the Publishers decide to       manage their own service from 28 February 2000.
+
+      NOW THEREFORE IT IS HEREBY AGREED AS FOLLOWS:
+
+1.    Definitions
+
+      In this Agreement, the following words and expressions shall have the       following meanings:
+
+"Acceptance" or "Accepted"      Means acceptance of any part or the whole of the                                       System by the Publishers when the System                                       has successfully passed the acceptance                                       tests in accordance with Clause 9 below                                       but for the avoidance of doubt does not                                       refer to the continuing Services after the                                       Site goes live
+
+"Agreement"                     means this document and its Schedules and any                                       documents expressly incorporated herein by                                       reference and shall include any amendments                                       subsequently agreed.
+
+"Content"                       means up to 200 Journals and any other material                                       related to the Journals which the                                       Publishers include in printed or                                       electronic form, or any part thereof
+
+the "Development Timetable"     means the timetable upon which the Development                                       Work is proposed to take place which is in                                       the implementation plan
+
+the "Development Work"          means the development work required to produce                                       the System (but excluding the ongoing                                       services after the Site goes live) based                                       upon the Specification and technical                                       documentation sufficient for the system to                                       be developed and extended including but                                       not limited to any deviations from the                                       original specification agreed to be                                       necessary during the development.
+
+"Escrow Agreement"              means the agreement(s) between the Publishers,                                       the escrow agent and HealthGate the terms                                       of which are specified in the Fourth                                       Schedule
+
+the "Hardware"                  means the equipment and hardware referred to in                                       Clause 8, as upgraded from time to time,                                       and including extra hardware as a                                       contingency.
+
+"Journal"                       means a Journal which the Publishers intend to                                       include on the Site
+
+
+
+
+
+the "Licence"                   means the Licence granted in Clause 10
+
+the "Proprietary Software"      means HealthGate's own software which has been                                       or will be developed
+
+                                     2
+
+the "Services"                  the services to be performed by HealthGate to be                                       set out in the Specification, to include                                       but not limited to (i) any ongoing work in                                       the design and development of the Site;                                       (ii) mounting the Content on HealthGate's                                       Hardware; (iii) hosting and making the                                       Content and portions thereof accessible in                                       an online interactive mode for searching,                                       access, review, displaying in a web                                       browser or on computer terminals,                                       downloading, and printing on paper and;                                       (iv) providing access to Publishers'                                       subscribers and other third parties to the                                       Site through telecommunications access via                                       the Internet.
+
+the "Site"                      means the world wide web site to be prepared for                                       the Publishers comprising all pages                                       including graphics, audio-visual effects,                                       software and all the material in                                       compliance with the Specification and all                                       parts of the System used for the Site
+
+the "Software"                  means the Proprietary Software and the Third                                       Party Software including any source code                                       and operator manuals relating thereto, to                                       be developed or used and/or licensed by                                       HealthGate in accordance with this                                       Agreement
+
+the "Specification"             means the detailed user scenarios and                                       implementation plan prepared by HealthGate                                       and approved by the Publishers and annexed                                       in the First Schedule
+
+the "System"                    means the system comprising the hardware,                                       software, services and peripherals                                       specified in the Specification and                                       including the Software all as the same is                                       to be supplied by HealthGate to suit the                                       Publishers' requirements
+
+"System Completion Date"        means 14 December 1998
+
+"Third Party Software"          means all software to be included in the System                                       owned by a third party, which shall be                                       licensed for use and/or distribution by                                       HealthGate as part of the System, and by                                       the Publishers and/or third parties if the                                       Services cease to be provided by                                       HealthGate.
+
+"Use Fees"                      are the fees as set out in clause 19.4
+
+                                       3
+
+2.    Appointment of HealthGate
+
+      The Publishers hereby appoint HealthGate and HealthGate hereby accepts       such appointment upon the terms and subject to the conditions of this       Agreement:
+
+      2.1.  to carry out the Development Work within the Development Timetable;
+
+      2.2.  to provide the Services for the period in Clause 3; and
+
+      2.3.  to hand over the System as provided in Clauses 10, 18, 33 and the             other provisions of this Agreement.
+
+      The Publishers grant HealthGate an exclusive right to carry out the       Services, with the exception that the Publishers shall honour current       contracts with third parties and Publisher may publish and licence content       themselves as long as it does not materially reduce HealthGate's revenue.       For the purpose of determining HealthGate's revenue, Use Fees and Article       Fees shall not be taken into account.
+
+3.    Duration
+
+      3.1.  This Agreement shall commence on 1 January 1998. The initial term of             the Services, unless terminated as set out herein, shall continue up             to and including 28 February 2000 ("the Initial Term").
+
+
+
+
+
+      3.2.  Right of Renewal
+
+            The Publishers shall have the right to renew the term of the             Services as provided in this Agreement.
+
+4.    Development and Specification
+
+      4.1.  HealthGate shall carry out the Development Work in accordance with             the Development Timetable and in accordance with the Specification             by the System Completion Date.
+
+      4.2.  HealthGate hereby assign all present and future copyright in the             Blackwell Specification to the Publishers.
+
+      4.3.  Publishers grant to HealthGate a perpetual, royalty-free licence to             use the Specification.
+
+                                       4
+
+5.    Milestones and Deliverables
+
+      5.1.  If HealthGate fails to complete the System development by the System             Completion Date, unless such failure results from the Publishers'             default in performing its obligations under this Agreement or from             an extension of time agreed in writing, the Publishers may in their             discretion notify HealthGate accordingly, and if such failure is not             remedied within 28 calendar days, HealthGate, recognising the loss             caused to the Publishers, will on demand from the Publishers pay to             the Publishers a sum calculated at the rate of 1% of the value of             the contract in respect of every 28 days which elapse from the             System Completion Date to the actual date of completion of the             System. Such sums of money will be paid by HealthGate to the             Publishers not as a penalty but as and for the ascertained and             liquidated damages owing and payable by HealthGate to the Publishers             by reason of such failure to meet the System Completion Date.
+
+      5.2.  If HealthGate fails to complete the System by the end of the tenth             week after the System Completion Date then the Publishers (unless             such failure demonstrably results from the Publishers' default in             the performance of its obligations under this Agreement) will be             entitled without prejudice to any other rights or remedies they may             have under this Agreement or at law or in equity to terminate this             Agreement immediately by written notice.
+
+      5.3.  If any delay in meeting the System Completion Date is in any way due             to the Publishers' fault, HealthGate will nevertheless, if the             Publishers so requests, continue with the work on the Project with a             view to completing it as soon as reasonably possible in the             circumstances, and the Development Timetable will be adjusted             accordingly.
+
+6.    Project Management
+
+      6.1.  HealthGate and the Publishers shall each designate the name,             address, telephone number, fax number, and e-mail address of a             Project Manager and a Deputy Project Manager. The Project Managers             shall be responsible for arranging all meetings, visits, and             consultations between the parties, and for the transmission and             receipt of technical information between the parties. The parties'             initial Project Manager and Deputy Project Manager is set forth on             the Third Schedule hereto.
+
+      6.2.  If HealthGate has reason to believe that any estimate of any time is             likely to be exceeded or that it is likely that the Development             Timetable will not be complied with, HealthGate will immediately             inform the Publishers' Project Manager by written notice.
+
+                                       5
+
+7.    Content
+
+      The Publishers, at their cost and expense, shall make available the       Content in loadable electronic format to HealthGate as specified in the       Specification. HealthGate shall remotely load the Content into a staging       area.
+
+8.    Procurement of Hardware
+
+      HealthGate shall maintain the Site on HealthGate's web server and/or other       servers through the term of this Agreement insofar as it relates to the       Services. HealthGate shall acquire and maintain all necessary equipment       and hardware (collectively the "Hardware") for Site. The Hardware shall be       capable of storing the Content, including future issues of the Journals       within the Content. HealthGate shall replace and upgrade such Hardware to       satisfy the requirements of the Specification. The Hardware for the Site       shall include redundancy so that the Site may remain operational despite       an equipment failure. The Hardware shall be located at HealthGate's       computer facilities in Malden, Massachusetts. The Hardware may be       relocated only with Publishers' written consent, which consent shall not       be unreasonably withheld. HealthGate, at its cost and expense, shall       maintain adequate access via telecommunications to the Site at service
+
+
+
+
+
+      levels that shall be maintained at the same extent as HealthGate provides       to its own users.
+
+9.    Testing, Acceptance and Delivery
+
+      9.1.  Upon completion of the Development Work HealthGate and the             Publishers shall run acceptance tests to assure compliance with the             Specification. Load testing will be conducted at HealthGate. Such             period of acceptance testing shall not exceed 2 weeks from date of             delivery for testing.
+
+      9.2.  Upon passing the acceptance tests, the System shall be deemed             Accepted
+
+      9.3.  Upon Acceptance as provided in Clause 9.2 HealthGate shall deliver             into escrow the source code, source listings and information for the             Proprietary Software included in the System in accordance with the             terms of the Escrow Agreement.
+
+      9.4.  In the event that the system fails to pass any of the prescribed             acceptance tests or fails to satisfy the Publishers' requirements,             the Publishers shall afford HealthGate the opportunity of             rectifying, replacing and retesting the System. In the event that             the System or any part thereof again fails to be accepted, such             acceptance shall not be unreasonably withheld, or to satisfy the             Publishers' requirements of which the Publishers shall be the sole             judge, the Publishers shall (as time is of the essence of this             Agreement) be entitled, in addition to any other rights it may have             under this Agreement or in law, to have HealthGate remove the             Content from the System (in whole or in part as the Publishers so
+
+                                       6
+
+            instructs) and HealthGate shall be liable to refund forthwith any             moneys paid by the Publishers for such rejected System or part             thereof. Notwithstanding the foregoing, upon acceptance of System             launch, as noted in Clause 19.2.4, HealthGate shall be entitled to             retain all monies paid by Publishers to this point.
+
+            In such circumstances HealthGate shall be entitled to retain the             first $250,000 paid by the Publishers to develop the Specification.
+
+10.   Licence
+
+      10.1. Proprietary Software
+
+            HealthGate hereby grants to the Publishers a non-exclusive             non-transferable licence to use the Proprietary Software for the             purposes of this Agreement
+
+            Save in relation to the Publishers' logos, trademarks, and content,             HealthGate may use and/or licence the Proprietary Software for             itself or for others without any compensation or liability to the             Publishers.
+
+            All Proprietary Software and Source Code remain the property of             HealthGate. Publishers may not use either Proprietary Software or             Source Code held in escrow to develop a product that competes with             those services offered by HealthGate. HealthGate, in its sole             discretion, retains the right to determine if Publishers are             utilizing either the Proprietary Software or Source Code in             violation of this Agreement.
+
+      10.2. Option for Licence
+
+            10.2.1. On termination of the provision of the Services by                     HealthGate to the Publishers for whatever reason, HealthGate                     shall at the Publishers' option:
+
+                          (i) grant to the Publishers a non-exclusive                     non-transferable licence to use the Proprietary Software for                     the purposes of using, developing, enhancing and maintaining                     the Site and carrying out any or all of the activities                     previously carried out by HealthGate or on its behalf under                     this Agreement
+
+                          (ii) exercise best endeavours to grant to the                     Publishers a non-exclusive non-transferable licence to use                     the Third Party Software for the Site when and to the extent                     requested by the Publishers.
+
+            10.2.2. The annual fee for the licence in Clause 10.2.1 for the                     Software, to include the Proprietary Software and the Third                     Party Software, shall be $150,000 per annum, including                     standard upgrades and maintenance, provided that if                     HealthGate is not able to grant a licence of the Third Party                     Software, then the Publishers shall be at liberty to licence                     the Third Party Software from its owners and/or licensors                     direct, and/or to
+
+                                       7
+
+
+
+
+
+                    license alternative software, and shall deduct the fees for                     such licences from the $150,000 per annum for the Software.
+
+            10.2.3. The Publishers shall have the right to terminate the licence                     referred to in Clause 10.2.1 by giving three months' notice                     in writing to HealthGate.
+
+11.   Hosting
+
+      HealthGate will host the Site in accordance with the Specification for the       period for the Services in Clause 3.
+
+12.   Service Levels
+
+      12.1. HealthGate will provide the Services and shall meet the Service             Levels including but not limited to:
+
+            12.1.1. dealing promptly with queries or problems relating to the                     use or performance of the Software and correcting or                     procuring the correction of all material program errors;
+
+            12.1.2. identifying the location of any fault on the System,                     ensuring the continuing satisfactory operation of the                     System, taking all appropriate actions to ensure that the                     System maintains its full functionality;
+
+            12.1.3. providing or procuring minor enhancements to the Software                     including but not limited to updating data and formulae to                     ensure that any changes in tax or other statutory                     regulations or law are incorporated into the Software.
+
+      12.2. The Service Levels will be subject to review at any time by             agreement between the Project Managers and in any event will be             formally reviewed every 12 months during the term of this Agreement.
+
+      12.3. HealthGate will provide usage statistics relating to the Services as             described in the specification on a monthly basis, or such other             reasonable intervals as may be mutually agreed upon by the parties             from time to time.
+
+      12.4. HealthGate will perform the Services and meet the Specifications and             Service Levels set forth and referred to in this Agreement. In all             cases where HealthGate has not committed to a specific performance             standard, HealthGate will use reasonable care in providing the             Services.
+
+13.   Permitted Users, Pricing and Subscription Information
+
+      13.1. The Publishers shall have sole authority concerning determining             access to the Site. Except for the fees payable to HealthGate             described in Clause 14 hereof (document delivery), the Publishers             shall retain the sole and exclusive right to determine the prices             and fees payable and other terms and conditions applicable
+
+                                       8
+
+            to the Publishers' subscribers and other third party users for             access to the Publishers' Content on the Site. The Site shall be             designed to permit automated loading and maintenance of subscription             data from the Publishers' fulfilment systems. The Specification             details the procedures for loading such subscription information             (including both bulk entry and single entry information) and timing             for access to the Site for users included on such updated             subscription data.
+
+      13.2. The Publishers grant to HealthGate a royalty-free licence for the             purpose of testing, demonstrating, and evaluating the Site.
+
+      13.3. For the avoidance of doubt the Publishers shall have the right to             permit third party intermediaries, (including but not limited to             Ovid, OCLC, Swets, B H Blackwell, Munksgaard Direct and Dawson) to             access the Site and to authorize access to users in terms within the             Publishers' sole discretion. The Use Fees as set out in Schedule 2             shall apply.
+
+14.   Document Delivery: Fees from Sales of Articles
+
+      14.1. The Site will include functions to facilitate the sale of individual             articles from the Journals and other items at the sole discretion of             the Publishers to non-subscribers and other third party users.
+
+      14.2. In relation to sales the Publishers make direct, the Publishers             shall establish copyright and other fees for such sales ("Article             Fees"). HealthGate shall collect the Article Fees established by             Publishers plus a service fee to be determined by HealthGate but in             any event the service fee may not exceed 30% of the Article Fee for             the particular article, or $US 4, whichever is the higher. Within 60             days of the end of each calendar month, HealthGate shall forward to             Publishers the net Article Fees actually collected (exclusive of             HealthGate's service fee).
+
+      14.3. The Publishers may also permit third party intermediaries to sell             individual articles and other items, on terms to be agreed between             the Publishers and such third party intermediaries. Neither the
+
+
+
+
+
+            Publishers nor the third party intermediaries shall be required to             pay a service fee or any other additional fee for this service, nor             shall HealthGate be permitted to collect a service fee, its             remuneration being as provided in Clause 19 and in Schedule 2 (Use             Fees).
+
+15.   Improvements
+
+      HealthGate shall replace and upgrade the Software to satisfy the       requirements of the Specification at no extra cost to the Publishers.
+
+                                       9
+
+16.   Links
+
+      The Site shall support and include in-bound links, as may be mutually       agreed upon, to the Publishers' Content (including citations and       references within articles), from bibliographic databases, including       HealthGate, PubMed, ISI's Web of Science, and other sites, and as required       by the Publishers from time to time. HealthGate shall not be responsible       for setting up links from sites which it does not host. The Site shall       also support links with on-line content of other publishers, using       Document Object Identifier (DOI) and other standards, which may be       mutually agreed upon from time to time.
+
+17.   Right of Renewal
+
+      17.1  The Publishers shall have the right to renew the term of the             Services by notice in writing to HealthGate to be given on or before             30 September 1999. If the Publishers exercise their right to renew,             the term of the Services shall be extended by one further year, up             to and including 28 February 2001. The Use Fees shall remain the             same as in the Initial Period and the fee for the Services shall not             exceed $7000 for additional journals, $2000 maintenance fee on             existing journals and $2000 per Gigabyte.
+
+      17.2  If the Publishers exercise their right of renewal under Clause 17.1,             then the Publishers shall have a further right of renewal for each             of the subsequent three years, provided that the right to renew             shall be conditional upon the Publishers having exercised their             right in the previous year, and giving notice on or before the 30             September before the renewal is to take effect.
+
+18.   Assistance upon Termination
+
+      On termination of the provision of the Services by HealthGate to the       Publishers for any reason:
+
+                                       10
+
+      18.1. HealthGate will liaise with the Publishers, making available for             such purposes such HealthGate liaison staff as the Publishers may             reasonably require, and acting in all good faith, to ensure a             mutually satisfactory license to the Publishers or, at the             Publishers' option, to a replacement contractor. The period of             liaison will commence as soon as notice has been given of             termination of this Agreement, and will continue for a maximum             period of 3 months after termination;
+
+      18.2. HealthGate agrees that at the time of termination of this Agreement,             it will render all assistance, provide all documentation and             undertake all actions to the extent necessary to effect an orderly             assumption of the Services by the Publishers or, at the Publishers'             option, by a replacement contractor;
+
+      18.3. If the Publishers so require, HealthGate will use its best             endeavours to procure the transfer at the Publishers' expense, to             the Publishers or to a third party nominated by the Publishers at             the Publishers' sole discretion, of any Third Party Software             licences HealthGate may have obtained in its own name in order to             provide the Services and used for that purpose exclusively; and
+
+      18.4. HealthGate will be obliged to satisfy the Publishers that it has             erased the Publishers Content and all copies, and that it has no             ability to reproduce the Publishers Content in any way.
+
+            The rights of the Publishers in this Clause 18 are in addition to             the rights in Clause 33.
+
+19.   Cost and Payment, Change Control Formula
+
+      19.1. The total price payable by the Publishers is set out in Clause 19.2             and the Use Fees in Clause 19.4, subject to the terms and conditions             in this Agreement, this price being a fixed price.
+
+      19.2. Subject to HealthGate performing its obligations hereunder,             HealthGate shall invoice the Publishers for payment as follows:
+
+            19.2.1.                                     On 30 January 1998                                                         $100,000
+
+
+
+
+
+            19.2.2.                                     On 06 February 1998                                                         $150,000
+
+            19.2.3.                                     On acceptance of                                                         Specification,                                                         $150,000 or 27                                                         February 1998                                                         whichever is later
+
+                                       11
+
+            19.2.4.                                     On acceptance of                                                         System launch                                                         $150,000
+
+            19.2.5.                                     On system completion                                                         date $150,000
+
+            19.2.6.                                     On 1 January 1999                                                         $175,000
+
+            19.2.7.                                     On 1 April 1999                                                         $175,000
+
+            19.2.8.                                     On 1 July 1999                                                         $175,000
+
+            19.2.9.                                     On 1 September 1999                                                         $175,000
+
+      PROVIDED ALWAYS THAT if the Agreement is terminated in accordance with       Clause 9.4 then the financial provisions of that Clause will apply in       place of this Clause 19.
+
+      19.3. Invoices are payable within 60 days of receipt, with the exception             of payments due under Clause 19.2, which shall be payable on the due             date or on acceptance of the work, which ever is the later.
+
+      19.4. Use Fees             The Publishers shall make payments to HealthGate based upon "Use" of             the Content as set forth on the Second Schedule. For the purposes of             this Agreement, "Use" shall mean a retrieval or download by a             Publishers' subscriber of the full-text of an article. There shall             not be any additional use fees or charges for users' browsing of             table of contents or abstracts. Use Fees shall be billed by             HealthGate monthly and all payments are due by cheque by the end of             the following month after the date of the invoice.
+
+      19.5. Interest
+
+            Interest on late payment by either party shall be charged at 2%             above base rate for the time being of Barclays Bank plc in England.             This sub-Clause 19.5 shall survive termination under Clause 9.4.
+
+                                       12
+
+20.   Advertising
+
+      20.1. The Site shall be designed to include space for advertising. All             specifications concerning advertising space shall be mutually agreed             upon from time to time and detailed in the Specification. The rate             structure for advertising shall be mutually agreed upon.
+
+      20.2. All advertising is subject to review and approval by the Publishers             and the Publishers reserve the right to refuse any proposed             advertisements. Revenues from advertisers utilizing the advertising             space shall be allocated between HealthGate and the Publishers. Each             party shall receive 30% of all advertising sales for advertising             sales originated by the other party (provided, in the event that             advertising is sold at rates less than fair market rates such 30%             figure shall be equitably increased to reflect the fair market value             of the advertising. Said fair market rates shall be determined by             mutual agreement of both parties). No deduction shall be made for             commissions payable to sales representatives or employees of any             party.
+
+      20.3. Within 60 days of the end of each calendar month, the parties shall             report to each other concerning revenues collected on advertising             sales and make appropriate payments to the other party for the             previous month's collections based on the foregoing formula.
+
+      20.4. In the event that any claim is made against either party in respect             of any advertisement. The expenses of dealing with any claim shall             be paid for in the same proportion as at Clause 20.2.
+
+21.   Support and Enhancement
+
+      HealthGate shall establish a telephone line for the purpose of providing       support to users of the Site, which support shall be free of charge to       such users. Such telephone line shall be answered pursuant to HealthGate's
+
+
+
+
+
+      standard protocol and shall be operational 5:00 A.M. to 10:00 P.M., US       Eastern Time, and be supported by voice mail at other times. Such       telephone line shall be operated at all times by one HealthGate employee.       HealthGate shall ensure that the employee is suitably qualified and       experienced for the purpose. If the parties determine that more than one       employee is necessary to handle all inquiries in a reasonably prompt,       professional and efficient manner, Publishers at their cost and expense       may request HealthGate to dedicate additional employees for such purpose.
+
+                                       13
+
+      The Site shall include an e-mail function directly to HealthGate. All       e-mails received by HealthGate shall be answered within one business day.       The Site shall include a Frequently Asked Questions (FAQ) area and       detailed help screens as determined in the Specification. Both parties       agree to work together, through their duly appointed Project Managers, to       develop the FAQ area and the help screens.
+
+22.   HealthGate Responsibilities
+
+      22.1. HealthGate undertakes that in performing the Services it will use             commercially reasonable endeavours to comply with the Service Levels             including but not limited to System availability, specifications,             standards, functions and performance requirements.
+
+      22.2. HealthGate will provide all assistance that the Publishers may             reasonably require in accordance with this Agreement for the purpose             of evaluating Service Levels from time to time and resolving             operational problems in connection with the Services. All such             requests must come from either the Publishers Project Manager or             Deputy Project Manager.
+
+      22.3. HealthGate warrants that it owns or is authorised to use the             Computer Equipment for the purposes of supplying the Services.
+
+      22.4. Viruses
+
+            Each Party shall use its best efforts to ensure that no viruses,             worms or similar items ("Viruses") are introduced into any Software             System used under this Agreement. If a Virus is found in any such             Software System, HealthGate shall, promptly upon the discovery             thereof, use its best efforts to eliminate such Virus and             ameliorate the effect thereof. If such Virus causes a loss of             operational efficiency or data, HealthGate shall mitigate and             restore such loss as quickly as feasible.
+
+      22.5. Disabling Code
+
+            Save with the written consent of the Publishers, the Software and             System shall not include, nor shall HealthGate introduce into any             Software and/or the System, any code whose purpose is to disable or             reduce the efficiency of all or any portion of the Services.
+
+23.   Access to HealthGate
+
+      23.1. During the Term of this Agreement, HealthGate shall accommodate one             employee or representative of Publishers at HealthGate's office for             the purpose of reviewing and understanding the operation of the             Site. HealthGate and Publishers shall coordinate the schedule of             such employee so that he or she
+
+                                       14
+
+            does not unduly interfere with HealthGate's operation of the Site or             HealthGate's other operations. The Publishers anticipate that such             employee will be at HealthGate's offices approximately 30 days per             year.
+
+      23.2. Audit Rights
+
+            23.2.1. The Publishers and/or their respective independent auditors,                     at no expense to HealthGate, and upon twenty (20) Business                     Days' written notice to HealthGate, shall have the right to                     conduct an operational audit pertaining to the fees and the                     Services rendered pursuant to this Agreement, including but                     not limited to having HealthGate process through any system                     test data supplied by the Publishers and/or their respective                     auditors, operate audit software on any system or download                     Publishers' Content and/or usage statistics to a computer                     designated by the Publishers, and/or their respective                     auditors. The operational audit will verify that HealthGate                     is exercising reasonable data processing operational                     procedures in its performance of the Services and confirm                     that HealthGate is performing and observing its obligations                     hereunder.
+
+            23.2.2. HealthGate shall make available for the Publishers and/or                     the Publishers' auditors inspection all records relating to                     the fees and to the Services provided pursuant to this                     Agreement.
+
+
+
+
+
+      23.3. Regulatory Access (Eg HEFCE)
+
+            HealthGate and the Publishers acknowledge and agree that the             performance of the Services under this Agreement may be subject to             regulation and examination by the Publishers' regulatory agencies             and/or government and/or customer's contractors. The parties agree             that the records maintained and produced under this Agreement shall             at all times be available for examination and audit by governmental             agencies and/or governmental and/or customer's contractors having             rights in relation to and/or jurisdiction over the business of the             Publishers. Each party to this Agreement shall notify the other             party promptly of any formal request by an authorized agency or             contractor to examine records regarding the Publishers that are             maintained by HealthGate. Upon request, HealthGate shall provide any             relevant assurances to such agencies and shall subject itself to any             required examination or regulation. The Publishers shall reimburse             HealthGate for reasonable costs actually incurred due to any such             examination or regulation that is performed solely for the purpose             of examining data processing services performed by HealthGate for             the benefit of and at the request of the Publishers.
+
+                                       15
+
+24.   Security and Disaster Recovery
+
+      24.1. HealthGate will ensure that all documents, data and Software are             kept under secure conditions with back up arrangements satisfactory             to the Publishers, to protect them effectively from unauthorised             access and so that they can be recovered from any malfunction of the             System.
+
+      24.2. Should the Publishers' Content and/or data be lost or destroyed,             HealthGate will be responsible for its prompt reconstruction as             quickly as possible with high priority allocation of time and             resources, having regard to the back-up frequency agreed with the             Publishers in the Specification.
+
+      24.3. HealthGate will not without the written consent of the Publishers             disclose any of the Publishers' data or Publishers' Content to any             third party.
+
+      24.4. HealthGate will take all reasonable precautions to minimise the             impact of any disaster relating to the Services.
+
+      24.5. Security for Facilities
+
+            HealthGate will perform all required security procedures at any             place where Services are performed by HealthGate. All personnel of             HealthGate will comply with the agreed security procedures with             respect to access to any facility, data and data files.
+
+      24.6. The Publishers and/or their auditors, at no expense to HealthGate,             and upon twenty (20)Business Days' written notice to HealthGate,             shall have the right to conduct a system backup and disaster             recovery audit with regard to the Services provided pursuant to this             Agreement. The system disaster and recovery audit will verify that             HealthGate is exercising reasonable procedures in the performance of             its system backup and disaster recovery obligations hereunder.             HealthGate shall allow the Publishers and/or their auditors access             to any site used by HealthGate as a backup facility, if HealthGate             can secure the rights for the Publishers and/or their auditors to             enter the backup facility.
+
+      24.7. Disaster Recovery
+
+            HealthGate shall maintain and continue to maintain throughout the             term of this Agreement, an off-site disaster recovery capability.             HealthGate shall present to the Publishers a disaster recovery plan             prior to the System Completion Date. HealthGate shall monitor each             such disaster recovery plan and keep it current.
+
+                                       16
+
+      24.8. HealthGate shall use its best efforts to recover from a disaster and             to continue providing Services to the Publishers within a             commercially reasonable period. An executive summary of each such             disaster recovery plan, which may change from time to time, shall be             provided to the Publishers at no charge. HealthGate shall test each             disaster recovery plan annually and shall provide the Publishers             with a summary of its test results.
+
+25.   Third Party Software
+
+      25.1. HealthGate warrants that any Third Party Software is validly             licensed for running by HealthGate at the Site and for all the uses             permitted under this Agreement in fulfillment of the services for             the term of the Agreement and that it is authorised to grant the             rights to the Third Party Software licensed under this Agreement for             use on the Site.
+
+      25.2. HealthGate will fully indemnify the Publishers in respect of all
+
+
+
+
+
+            damages, costs and expenses incurred by the Publishers resulting             from any act or default of HealthGate in respect of the Third Party             Software.
+
+26.   Intellectual Property Rights
+
+      26.1. The copyright and any and all other intellectual property in any             report, financial specification documentation and information, and             usage statistics on whatever media, prepared or to be created by             HealthGate pursuant to this Agreement shall be the property of the             Publishers notwithstanding termination hereof unless otherwise             expressly agreed in writing by the Publishers. HealthGate hereby             assigns all right, title and interest in and to the same to the             Publishers.
+
+      26.2. Publishers' Content and Data
+
+            The parties hereto acknowledge and agree that the Publishers and/or             their licensors own and will continue to own all right, title and             interest in and to Publishers' Journals and other data, including             but not limited to usage statistics for the Services ("Publishers'             Data"). Upon the termination of this Agreement for any reason or,             with respect to any Publishers' Data, on such earlier date as the             Publishers shall determine that any of the same will no longer be             required by HealthGate in order to render Services to the             Publishers, Publishers' Data will be either erased from the data             files maintained by HealthGate. or if the Publishers so elect,             returned to the Publishers by HealthGate. The Publishers' Data may             not be utilized by HealthGate for any purpose except to provide             Services to the Publishers, nor may Publishers' Data or any part             thereof be disclosed, sold, assigned, leased or otherwise disposed             of to third parties by HealthGate or commercially exploited by or on             behalf of HealthGate, or any of its employees or agents.
+
+                                       17
+
+27.   Warranty
+
+      HealthGate's warranty
+
+      27.1. HealthGate warrants to the Publishers that the Software on delivery             to the Publishers will conform substantially with the Specification.
+
+      27.2. HealthGate undertakes to correct by patch or new release (at its             option) that part of the Software which does not so comply PROVIDED             THAT such noncompliance has not been caused by any modification,             variation or addition to the Software not performed by HealthGate
+
+      27.3. Millennium Compliance
+
+            HealthGate warrants that (a) the occurrence in or use by the System             of dates on or after January 1, 2000 ("Millennial Dates") will not             adversely affect its performance at any level with respect to             date-dependent data, computation, output or other functions; and (b)             the System will create, store, receive, process and output             information related to or including Millennial Dates without error             or omissions.
+
+      Publisher's warranty
+
+      27.4. Each Publisher hereby represents and warrants that: (i) it has, and             will have throughout the term of this Agreement, all right, title             and interest in and to the Content, except for items that are in the             public domain or that are obtained under valid licenses, (ii) the             Publishers Content do not and will not infringe any tradename,             trademark or copyright, and (iii) there are not material suits,             claims or proceedings currently pending or threatened against any             Publisher based upon the Content and that Publishers will promptly             advise HealthGate of the pendency or threat of any such suits,             claims or proceedings relating to the Content or the Site arising             during the term of this Agreement.
+
+      27.5. HealthGate shall be solely responsible for the compliance by its             personnel with all laws and regulations of any pertinent countries             relating to data protection and privacy and/or transborder data             flow.
+
+                                       18
+
+28.   Indemnities and Liability, Limitation of Liability
+
+      28.1. Indemnities and Liability
+
+            (a) Cross Indemnity - HealthGate and the Publishers each agree to             indemnify, defend and hold harmless the other from any and all             claims, actions, losses, damages, liabilities, costs and expenses,             including reasonable attorneys' fees and expenses, arising out of or             relating to the death or bodily injury of any agent, employee,             customer, business invitee or business visitor of the indemnitor, or             arising out of or relating to loss of or damage to tangible real or
+
+
+
+
+
+            tangible personal property, to the extent that such claim, action,             liability, loss, damage, cost or expense was proximately caused by             the indemnifying party's tortious act or omission, or by those of             its agents or employees.
+
+            (b) Patent Indemnity - HealthGate and the Publishers each agree to             indemnify, defend and hold harmless the other from any and all             claims, actions, damages, liabilities, costs and expenses, including             reasonable attorneys' fees and expenses, arising out of any claims             of infringement of any patent, or a trade secret, or any copyright,             trademark, service mark, trade name or similar proprietary rights             conferred by contract or by common law or by any law of any             applicable jurisdiction alleged to have occurred because of the             system including but not limited to hardware, software, and data             provided by the indemnitor under this Agreement.
+
+            (c) Indemnification Procedures - With respect to third-party claims             subject to the indemnities set forth in this Clause 28, the             indemnitee shall notify the indemnitor promptly of any matters in             respect of which the foregoing indemnity may apply and of which the             indemnitee has knowledge and shall give the indemnitor full             opportunity to control the response thereto and the defense thereof;             including, without limitation, any agreement relating to the             settlement thereof; provided that the indemnitee shall have the             right to approve any settlement or any decision not to defend. The             indemnitee's failure to promptly give notice shall affect the             indemnitor's obligation to indemnify the indemnitee only to the             extent that the indemnitor's rights are materially prejudiced             thereby. The indemnitee may participate, at its own expense, in any             defense and any settlement directly or through counsel of its             choice. If the indemnitor elects not to defend, the indemnitee shall             have the right to defend or settle the claim as it may deem             appropriate, at the cost and expense of the indemnitor, which shall             promptly reimburse the indemnitee for all such costs, expenses and             settlements amounts.
+
+                                       19
+
+      28.2. Limitations of Liability--Except in respect of personal injury or             death caused by the negligence of either party (for which by law no             limit applies), in the event either party shall be liable to the             other party on account of the performance or nonperformance of its             respective obligations under this Agreement, whether arising by             negligence, wilful misconduct or otherwise, the amount recoverable             by the other party for all events, acts or omissions shall not             exceed, in the aggregate, an amount equal to payments made under             this Agreement.
+
+29.   Source Code and Escrow
+
+      29.1. HealthGate and the Publishers shall enter and maintain in force the             Escrow Agreement for such period as the Publishers require.
+
+      29.2. Whenever a new version of the Proprietary Software is used for the             Site, HealthGate will promptly deposit a new version of the source             code and the operational documentation for that version under the             same Escrow Agreement, and notify the Publishers in writing that the             deposit has been made.
+
+      29.3. If no new version has been deposited in any 6 month period,             HealthGate will deposit a replacement copy of the then current             version of the source code of the Proprietary Software under the             Escrow Agreement and will notify the Publishers in writing.
+
+30.   Confidential Information
+
+      Neither party shall, other than with the prior written consent of the       other party, during or after the termination, determination or expiry of       this Agreement disclose directly or indirectly to any person, firm,       company or third party and shall only use for the purposes of this       Agreement, any information relating to the Agreement, the other party, its       business, trade secrets, customers, suppliers or any other information of       whatever nature which the party whose information it is or its licensees       or nominee may deem to be confidential and which the other party has or       shall hereafter become possessed of. For the avoidance of doubt the usage       statistics relating to the Site shall be the Publishers' confidential       information.
+
+      The foregoing provisions shall not prevent the disclosure or use by either       party of any information which is or hereafter, through no fault of the       other party, become public knowledge or to the extent permitted by law.       Nor shall they prevent the use by the Publishers of information for the       purposes of handing over or considering handing over the System to       themselves or to another contractor, PROVIDED THAT if the information is       disclosed to a third party the Publishers shall first enter a       confidentiality agreement with the third party in similar terms to this       Clause.
+
+                                       20
+
+
+
+
+
+31.   Data Protection
+
+      The parties agree to ensure that they will at all times comply with the       provisions and obligations imposed by the Data Protection Act 1984, the EU       Data Protection Directive 95/46 and any implementing legislation in the       United Kingdom. Both parties agree to indemnify each other in respect of       any unauthorised disclosure of data by them.
+
+32.   Termination, Change of Control of HealthGate
+
+      32.1. Notwithstanding any provisions herein contained this Agreement may             be terminated forthwith by either party by notice in writing from             the party not at fault if any of the following events shall occur,             namely:
+
+                  (i) if the other party shall commit any act of bankruptcy,                   shall have a receiving order made against it, shall make or                   negotiate for any composition or arrangement with or                   assignment for the benefit of its creditors or if the other                   party, being a body corporate, shall present a petition or                   have a petition presented by a creditor for its winding up or                   shall enter into any liquidation (other than for the purposes                   of reconstruction or amalgamation), shall call any meeting of                   its creditors, shall have a receiver of all or any of its                   undertakings or assets appointed, shall be deemed by virtue of                   the relevant statutory provisions under the applicable law to                   be unable to pay its debts, or shall cease to carry on                   business;
+
+                  (ii) if the other party shall at any time be in default under                   this Agreement and shall fail to remedy such default within 30                   days from receipt of notice in writing from the first party                   specifying such default.
+
+                  If any such event referred to in this sub-clause shall occur,                   termination shall become effective forthwith or on the date                   set forth in such notice.
+
+         32.2.    Either party may by notice in writing to the other party                   terminate this Agreement, if any of the following events shall                   occur, namely:
+
+                  32.2.1. if either party is in breach of any term, condition or                           provision of this Agreement or required by law and                           fails to remedy such breach (if capable of remedy)                           within 14 days of receipt of notice from the other                           party specifying such breach;
+
+                                       21
+
+                  32.2.2. Change in control
+
+                          If there is a change in Control of the first party,                           the second party may, entirely at their own option and                           without thereby becoming liable for any costs or                           losses which the first party or its holding company or                           any company in which it may hold shares may suffer as                           a result terminate the Agreement by notice in writing                           to first party.
+
+                          For the purpose of this clause, a person shall have                           "Control" of a company if he holds, directly or                           indirectly, shares which together with shares held by                           any persons acting in concert with him carry 50% or                           more of the voting rights of that company and "Change                           in Control" shall be interpreted accordingly. Words                           and phrases defined in the City Code on Take-overs and                           Mergers shall have the same meaning here.
+
+      32.3. Termination, howsoever or whenever occasioned shall be subject to             any rights and remedies either party may have under this Agreement             or in Law.
+
+      32.4. the following Clauses shall survive termination for whatever cause             of this Agreement: Clauses 4.2, 5, 10.2, 20.4, 23.2, 25-28, 30-34             inclusive.
+
+33.   Rights Upon Termination
+
+      Upon termination of this Agreement and for a period of six (6) months       thereafter, the Publishers will have the following rights and obligations:
+
+      33.1. Commencing upon any notice of termination by the Publishers,             HealthGate will comply with the Publishers' reasonable directions,             and will provide to the Publishers any and all termination             assistance reasonably requested by the Publishers to allow the             Services to continue and to facilitate the orderly transfer of             responsibility for the Services to the Publishers or a successor             provider of Services designated by the Publishers. The termination             assistance to be provided to the Publishers by HealthGate may             include the following:
+
+            33.1.1. Continuing to perform, for a reasonable period (as
+
+
+
+
+
+                    determined by the Publishers) of up to six (6) months                     following the termination date, any or all of the Services                     then being performed by HealthGate.
+
+            33.1.2. Developing, together with the Publishers, a plan for the                     orderly transition of Services ("Transition Plan") then                     being performed by HealthGate from HealthGate to the                     Publishers or such successor provider of Services.
+
+            33.1.3. Providing reasonable training for personnel of the                     Publishers in the performance of the Services then being                     transitioned to the Publishers or such successor provider of                     Services.
+
+                                       22
+
+      33.2. If HealthGate is then using any Equipment leased or owned by the             Publishers to provide services to any third party, HealthGate may             continue to use that Equipment for that purpose until such time as             HealthGate can reasonably transition to other equipment.
+
+      33.3. Upon receipt of written notice from the Publishers that HealthGate             is in default under this Agreement by failing to comply with the             requirements of this Clause 33, or that HealthGate is in default             under any provision regarding rights upon termination of this             Agreement, HealthGate shall have ten (10) business days in which to             cure such default. HealthGate acknowledges that, in the event             HealthGate fails to cure such default within the specified time             period, the Publishers would suffer irreparable harm, and             HealthGate, hereby agrees that the Publishers would in such event be             entitled to obtain from a court of competent jurisdiction an order             of specific performance, in addition to such other rights and             remedies to which it may be entitled at law or in equity under this             Agreement.
+
+      33.4. Upon the termination of this Agreement or HealthGate's engagement             whichever shall be the earlier, HealthGate or its personal             representative as the case may be, shall immediately deliver up to             the Publishers all correspondence, reports, documents,             specifications, papers, information (on whatever media) and property             belonging to the Publishers which may be in his possession or under             his control together with all confidential information or copyright             works belonging to the Publishers specified in Clauses 27 and 31             above.
+
+34.   General
+
+      34.1. Waiver
+
+            Failure or neglect by either party to enforce at any time any of the             provisions hereof shall not be construed nor shall be deemed to be a             waiver of that party's rights hereunder nor in any way affect the             validity of the whole or any part of this Agreement nor prejudice             that party's rights to take subsequent action.
+
+      34.2. Entire Agreement
+
+            This Agreement constitutes the entire agreement between the parties.             Each party confirms that it has not relied upon any representation             not recorded in this document or in its Schedules inducing it to             enter this Agreement. No variation of these terms and conditions             will be valid unless confirmed in writing by authorized signatories             of both parties.
+
+                                       23
+
+      34.3. Assignment
+
+            HealthGate shall not transfer or assign the whole or any part of             this Agreement without the prior written consent of the Publishers.
+
+      34.4. Headings
+
+            he headings of the terms and conditions herein contained are             inserted for convenience of reference only and are not intended to             be part of or to affect the meaning or interpretation of any of the             terms and conditions of this Agreement.
+
+      34.5. Severability
+
+            In the event that any of these terms, conditions or provisions shall             be determined by any competent authority to be invalid, unlawful or             unenforceable to any extent, such term, condition or provision shall             to that extent be severed from the remaining terms, conditions and             provisions which shall continue to be valid to the fullest extent             permitted by law.
+
+      34.6. Notices
+
+            Any notice to be given by either party to the other may be sent by
+
+
+
+
+
+            registered post or airmail to the address to the other party as             appearing herein and if so sent shall be deemed to be served 4 days             following the date of posting, or may be sent by courier and if so             shall be deemed to be received when actually received.
+
+      34.7. Injunctive Relief
+
+            All claims within the scope of this Agreement that any party may             have against the other for monetary damages must, subject to Clause             29 (Source Code and Escrow), be pursued through the procedures             established in this Agreement. However, nothing in this Clause 34.7             will prevent any party from immediately seeking injunctive or other             equitable relief from any court having competent jurisdiction.
+
+                                       24
+
+      34.8. Law
+
+            The parties hereby agree that this Agreement shall be construed in             accordance with English law. Any and all disputes between the             parties arising under or in connection with this Agreement which             cannot be resolved amicably by the parties, shall be resolved in the             courts located in London, England, except with respect to any action             brought by the Publishers against HealthGate, in which case             jurisdiction and venue shall be in Boston Massachusetts.
+
+                                       25
+
+Signing Provisions
+
+SIGNED for and on behalf of the Publishers by:
+
+/s/ Jonathan Conibear                                  /s/ Joachim Malling
+
+in the presence of:
+
+/s/ [ILLEGIBLE]                                        /s/ [ILLEGIBLE]
+
+Date: 20.3.98                                          30.4.98
+
+SIGNED for and on behalf of HealthGate by:
+
+By: /s/ William S. Reece     -----------------------------------         William S. Reece
+
+in the presence of:
+
+/s/ Maria Pace
+
+Date:
+
+4.7.98
+
+Schedules
+
+1     Specification 2     Use Fees 3     Project Managers 4     Escrow
+
+                                       26
+
+                                   SCHEDULE 1
+
+HealthGate Data Corp                              [ILLEGIBLE]
+
+Blackwell/Munksgaard Journal Publishing
+
+- --------------------------------------------------------------------------------
+
+User Scenarios
+
+Chapter 1
+
+
+
+
+
+- --------------------------------------------------------------------------------
+
+Blackwell/Munksgaard Journal Publishing
+
+User Scenarios
+
+- -------------------------------------------------------------------------------- Overview - --------------------------------------------------------------------------------
+
+This document contains outlines, or "scenarios," of how users will access the Blackwell/Munksgaard Journal Publishing system that HealthGate is currently developing.
+
+The goal of this project is to provide the high standards of Blackwell/Munksgaard publications and services to existing readers online, as well as develop an audience of new Internet users. Since the focus of this project is to expand readership and usage, the design of this project will be driven by user needs and interests.
+
+The following scenarios illustrate how to optimally meet the needs and offer the widest selection of services to Blackwell/Munksgaard users through a series of chronological steps and options. A user is defined as any party (including individuals or other systems) that will interface with the Blackwell/Munksgaard Journal Publishing system.
+
+- -------------------------------------------------------------------------------- List of Scenarios - --------------------------------------------------------------------------------
+
+      Below is a list of the scenarios. The list will be ordered to contain the       building block scenarios first, followed by the more complex scenarios.
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD PUBLISHING SYSTEM                                         1
+
+Overview                                                       1
+
+List of Scenarios                                              1
+
+Registration                                                   3
+
+      General Registration                                     3
+
+      Credit Card Subscription Registration                    4
+
+      Society Member / Institutional       Subscriber Self Registration                             4
+
+      Purchase Order or Deposit Account       for Institutional Subscribers                            5
+
+      Transaction Registration / Single       Document Purchase by non registered       user                                                     6
+
+Purchases                                                      7
+
+      Single Document Purchase       Registered User with CC Information                      7
+
+      Single Document Purchase       Registered User without CC       Information                                              7
+
+      Single Document Purchase       Registered User using Purchase       Order                                                    8
+
+      Additional Subscription Purchase                         8
+
+Linking                                                        9
+
+      Bibliographic Linking within an Article                  9
+
+      Related Information Links                               10
+
+Delivery Options Other than HTML                              10
+
+      Downloading PDF                                         10
+
+      Fax Delivery                                            11
+
+Subscriber Features                                           11
+
+      User Access to their Custom Page                        11
+
+Journal Features                                              12
+
+      Journal Page                                            12
+
+      Issue Listings                                          13
+
+      Table of Contents                                       13
+
+
+
+
+
+      Abstract                                                13
+
+      Full Text                                               14
+
+      Email version of Table of Contents                      14
+
+      Text Email ...........................................  14
+
+      HTML Email ...........................................  15
+
+Searching                                                     15
+
+      Quick Search                                            15
+
+      Searching Full Text                                     15
+
+      Finding an Article Cited Elsewhere                      16
+
+Customer Help                                                 16
+
+      Forgotten Password                                      16
+
+      Forgotten User Name and Password                        17
+
+      Changing Password                                       17
+
+      Changing Email Address                                  17
+
+      Changing Credit Card Number                             18
+
+      Changing Other Information                              18
+
+Content Management                                            18
+
+      Journal Setup                                           18
+
+      Set Journal Price                                       18
+
+      Set Document Price                                      19
+
+      Template Submission                                     19
+
+Content Publishing                                            19
+
+      Issue Loading                                           19
+
+      Issue Review                                            20
+
+      Issue Release                                           20
+
+Third Party Access                                            20
+
+      General                                                 20
+
+      Abstracts Only (Headers)                                21
+
+      Abstracts and PDF (Headers and PDF)                     21
+
+      Full Text Blackwell/Munksgaard DTD                      21
+
+      Full Text in Ovid's DTD                                 21
+
+      Delivery Options for Third Parties                      21
+
+Reporting                                                     21
+
+      User                                                    21
+
+      Content                                                 22
+
+Integration                                                   22
+
+      HeathMill or Other Subscription       Systems to HealthGate Connection                        22
+
+      HealthGate to HeathMill or Other       Subscription Systems                                    23
+
+      Integration to JPMS                                     23
+
+      Integration with Blackwell/Munksgaard       Web Site(s)                                             24
+
+Future Items                                                  24
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD PUBLISHING SYSTEM                                         2
+
+Chapter 2
+
+      User Scenarios
+
+      This chapter contains the Blackwell/Munksgaard Journal Publishing system       user scenarios.
+
+
+
+
+
+- -------------------------------------------------------------------------------- Registration - --------------------------------------------------------------------------------
+
+General Registration
+
+      Users who access Blackwell/Munksgaard publications will fall into one of       three categories:
+
+      a)    Non-registered users who are browsing Blackwell/Munksgaard content.             These users will have limited access to some free content, but will             not be able to access other areas or purchase products.
+
+      b)    Registered users who have provided name, email and postal mailing             address, but have not provided credit card data. Users in this             category include those who have visited the site before and have             been assigned a user name and password, as well as Society members             who have previously registered.
+
+      c)    Purchasing users who have registered, and provided credit card             information. These users may have bought subscriptions to             Blackwell/Munksgaard journals or other publications in the past.
+
+      For any but the most casual browser, general registration is encouraged,       and outlined below.
+
+      1.    Registration procedure: If a non-registered user would like to             access certain areas or services, there will be a link provided to             the registration area.
+
+            Once the user has entered the registration area, s/he will be asked             to provide full name, email address, and postal address. After this             information has been entered, the user will be provided with a             dialog box to enter a self-selected user name and password.
+
+      2.    Creating user name: The user name is checked for uniqueness against             all user names, then added to the database. If the name has already             been registered, the user will be provided with three suggested             names, or the option to create another user name of their own             choice.
+
+      3.    Confirmation of registration: Once a unique user name and password             have been assigned, the user may choose to continue the purchase             process by linking to pages that will enable him/her to enter credit             card information (see "Credit Card Subscription Registration"             below). If no purchase is desired at this time, the user will end             the registration process at this point S/he will see a page that             confirms their registration. Shortly afterwards, the user will also             receive an email acknowledging their registration, and providing             instructions on what to do if they forget their user name and             password. This will also serve to ensure that the user's email             address as entered in the registration form is correct.
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD PUBLISHING SYSTEM                                         3
+
+USER SCENARIOS                                                      REGISTRATION - --------------------------------------------------------------------------------
+
+Credit Card Subscription Registration
+
+      Users will now be able to order subscriptions to Blackwell/Munksgaard       journals and publications online via a simple registration and secure       payment process. In this scenario, the user chooses to pay with a credit       card.
+
+      1.    Registration: When the user enters the registration area, s/he will             be asked to provide their user name and password. (See "General             Registration" above).
+
+      2.    Tracking marketing efforts: A feature to track the efficacy of             marketing campaigns may also be incorporated. In addition to             entering the above subscriber information, the user will also be             asked to provide information pertaining to offer codes, or other             identifying characteristics of marketing offers.
+
+      3.    Separating society memberships: Users are asked if they are a member             of a society participating in the online journals. If they select a             society, their registration information will be checked with an             updated automated listing of existing society members. Since a             society member is entitled to pre-defined journal subscriptions             under a separate agreement, this is done to ensure that a society             member is not charged. If the registering user is determined to be a             society member, follow the "Society Member Registration" scenario             instead.
+
+      4.    Selecting a subscription plan: After entering the registration             information, the user will be prompted to select a subscription             plan.
+
+      5.    Charging subscriptions: Once the subscription plan has been             selected, the user will then be shown a page that provides a secure             connection for credit card information. The user will be asked to
+
+
+
+
+
+            give the credit card number, type (VISA, MasterCard, AMEX,             Discover), and expiration date.
+
+      6.    Transaction receipt: The credit card is then validated and the user             is shown the cost that has been charged to the credit card. A             receipt is displayed on the screen, as well as emailed to the user.
+
+      7.    Thanks/Email notification of future publications: After the             registration process is completed, the user will see a page thanking             them for their subscription order. As an added feature, new users             will be offered the option of having the table of contents of each             new issue emailed to them upon publication.
+
+      8.    Next destination: When the above information is provided, the user             will then be given access to the cover page of the journal that has             just been ordered.
+
+Society Member / Institutional Subscriber Self Registration
+
+      If a user is determined to be a Society member or a paid subscriber not       know to the system (pre-subscribed by Blackwell/Munksgaard), the following       scenario applies:
+
+      1.    Access from marketing efforts: Society membership benefits include             subscriptions to pre-defined print journals. In accordance with             marketing efforts, inserts promoting online journal registration and             the URL for the Blackwell/Munksgaard site will be provided in these             journals. Members may also find out about online service via other             marketing efforts, such as newsletters, leaflets, direct mail or             other web sites.
+
+      2.    Registration info: Once the user accesses the site, he/she will be             provided with a form asking for basic registration information (see             "Credit Card Subscription Registration," steps 1-7).
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                        4
+
+USER SCENARIOS                                                      REGISTRATION - --------------------------------------------------------------------------------
+
+      3.    Membership options: If the name has been matched and verified online             as a Society member, the user is presented with a listing of             publications and journals, etc. which they may access with existing             membership privileges.
+
+            If the user is not verified as a current Society member, the user             will be asked to provide standard registration information (see             "Credit Card Subscription Registration").
+
+            In addition to the publication listings, users will be given one of             three options as defined by the publisher to receive these             subscriptions:
+
+            a. Exclusive online access
+
+            b. Print subscription and optional online access
+
+            c. Full access via both print subscription and online
+
+      4.    Content for purchase: Once users have selected their subscription             method, they will be shown additional content available for             purchase.
+
+      5.    Creating identity code for user: When content for purchase has been             selected by the user, s/he will see a form that enables them to             create a user name and password. Once the information has been             entered, another dialog box will prompt them to confirm the             password.
+
+      6.    Assuring uniqueness of code: The user name is checked for uniqueness             against all user names, and added to the list. If the user name has             already been registered, they will be provided with three suggested             names, or the option to create another user name of their own             choice.
+
+      7.    Purchasing additional content: If the user chooses to purchase any             of the additional content, the purchase will be charged to the             credit card information previously provided. The credit card is             validated and charged. If the credit card is declined, the user is             prompted to try again.
+
+      8.    Transaction receipt: Once the credit card has been validated, the             page shows the cost that has been charged to the credit card.             Receipt is presented on the screen, as well as emailed to the user.
+
+      9.    Final step of purchasing process: As the final step in the             purchasing process, the user will see a page that thanks them for             their order, and shows a listing of all content purchased in the             last transaction.
+
+            After purchasing process has been completed, the user will then be             given access to their selected content. A confirmation email will be             sent welcoming the user to our service.
+
+
+
+
+
+Purchase Order or Deposit Account for Institutional Subscribers
+
+      For those institutions that wish to order subscriptions to       Blackwell/Munksgaard journals, publications, and single full-text articles       on a consistent basis, an open purchase order or deposit account may be       established. The following scenario outlines how a customer would have       access via this method.
+
+      1.    Initial set-up: The customer will make the initial contact to             Blackwell/Munksgaard to set up the account. Open purchase orders and             deposit accounts may be established through either             Blackwell/Munksgaard or HealthGate.
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                        5
+
+USER SCENARIOS                                                      REGISTRATION - --------------------------------------------------------------------------------
+
+      2.    Access code: After the account has been established, users will then             be given a special access code to access the Site. When registering             the user will be able to use the access code instead of providing us             with credit card information (Access to publications via IP address             verification is an option for institutional accounts).
+
+      3.    Registration: When the user completes registration the same way as a             normal customer, except that they enter the access code rather than             provide billing information. Any charges or purchases will be             applied to their account.
+
+      4.    Account expiration: If the account expires, or reaches the monetary             cap assigned, the user will be shown a page that prompts them to             contact Blackwell/Munksgaard to renew the account. This page will             also provide the option to continue and have purchases applied to a             credit card. A report will be available warning Blackwell/Munksgaard             of accounts that are close to expiring.
+
+Transaction Registration /Single Document Purchase by non registered user
+
+      This scenario outlines the way in which a user would be able to purchase a       single article (document) while browsing the abstract of the article.
+
+      1.    Promoting full text articles: Abstracts are available to all users             free of charge; registration is not required. However, if the user             would like to buy the full text of any given article, pricing             information for the article will be listed at the end of the             abstract, with a link to purchase the article.
+
+      2.    Purchasing full text -- registered users: After selecting the link             to purchase the article, the user is given the option to log in,             using the previously assigned registration user name and password.             After logging in, a page showing full text articles and journal             subscriptions for purchase will be provided. The user will make             his/her selections, and the credit card information page will             appear. (Go to step #5)
+
+      3.    Purchasing full text -- new users: If the user has never registered             before, they will be asked to register.
+
+      4.    Registration: When the user enters the registration area, s/he will             be asked to provide basic identifying information (See "General             Registration" above).
+
+      5.    Credit card info: The user will then be shown a page that provides a             secure connection for credit card information. The user will be             asked to give the credit card number, type (VISA, MasterCard, AMEX,             Discover), and expiration date.
+
+      6.    Credit card validation: The credit card is validated, and the user             is given confirmation that they are about to be charged for the             requested full text article(s) and/or journal subscription(s).
+
+      7.    Fax delivery/other purchase options: An option to have the article             faxed to them for an additional fee (to be determined) is also             offered.
+
+      8.    Transaction confirmation: Once the user has completed the above             steps, a receipt listing all purchases is shown on the page; a copy             will also be emailed to them.
+
+      9.    Transaction cancellation: If the user cancels the transaction, then             they are returned to the abstract of the article.
+
+      10.   Content access: After the user confirms the charge, s/he is given             access to the content for a specified period of time (hours/days to             be determined.)
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                        6
+
+USER SCENARIOS                                                         PURCHASES - --------------------------------------------------------------------------------
+
+
+
+
+
+            Articles are provided to the user in both PDF and HTML format
+
+- -------------------------------------------------------------------------------- Purchases - --------------------------------------------------------------------------------
+
+      The scenarios below outline single document purchases. There also will be       a facility to purchase multiple documents in a shopping basked like       manner.
+
+Single Document Purchase Registered User with CC Information
+
+      In this scenario, a registered user requests a document to which they do       not currently have access. For example, they may be viewing an abstract       from a journal that is not part of their subscription, or they may be       referencing a new document (full text) In this scenario we assume that the       user has a credit card on file or an open purchase order (PO).
+
+      1.    Registration update: At the end of an abstract, a link is provided             which enables the user to purchase a related document or product             (i.e., full text article, journal subscription, book, etc.) The link             brings the user to a page that offers purchase options, lists the             price of the full text article and allows registered users to enter             their user name and password. Non-registered users would have to             register in order to enter credit card information.
+
+      2.    Login: Registered users will log on, confirming registration. Then             they will be shown a price confirmation and delivery options.
+
+      3.    Optional fax delivery: If the requested document is an article, the             user will be offered an option to have the article faxed for an             additional fee (to be determined).
+
+      4.    Transaction confirmation: Once the user has completed the above             steps, a receipt listing all purchases is shown on the page; a copy             will also be emailed to them.
+
+      5.    Transaction cancellation: If the user cancels the transaction, they             are returned to the abstract of the article.
+
+      6.    Content access: After the user confirms the charge, s/he is given             access to the content for a specified period of time (hours/days to             be determined.)
+
+            Articles are provided to the user in both HTML and PDF formats.
+
+Single Document Purchase Registered User without CC Information
+
+      In this scenario, a registered user requests to see a document to which       they do not currently have access. For example, they may be viewing an       abstract from a new journal and decide they would like to subscribe. In       this scenario, we assume that the user does not have a credit card on file       or an open PO.
+
+      1.    Registration update: At the end of an abstract, a link is provided             which enables the user to purchase a related document or product             (i.e., full text article, journal subscription, book, etc.) The link             brings the user to a page that offers purchase options, and lists             the price of the full text article. The user will be asked to a)             register, or b) login.
+
+      2.    Login. Registered users will login.
+
+      3.    Credit card info: Then if they do not have credit card information             on file or if their credit card has expired, they will be shown a             page which provides a secure connection for credit card information.             The user will be asked to give the credit card number, type (VISA,             MasterCard, AMEX, Discover), and expiration date.
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                        7
+
+USER SCENARIOS                                                         PURCHASES - --------------------------------------------------------------------------------
+
+      4.    Credit card validation: The credit card is validated, and the user             is given confirmation that they are about to be charged for the             requested full text article(s) journal subscription(s), etc. (Any             relevant discounts will be shown on screen at this time.)
+
+      5.    Optional fax delivery: If the requested document is an article, the             user will be offered an option to have the article faxed for an             additional fee (to be determined).
+
+      6.    Transaction confirmation: Once the user has completed the above             steps, a receipt listing all purchases is shown on the page; a copy             will also be emailed to them.
+
+      7.    Transaction cancellation: If the user cancels the transaction, they             are returned to the abstract of the article.
+
+      8.    Content access: After the user confirms the charge, he/she is given             access to the content for a specified period of time (hours/days to
+
+
+
+
+
+            be determined).
+
+            Articles are provided to the user in both HTML and PDF formats.
+
+Single Document Purchase Registered User using Purchase Order
+
+      In this scenario, a registered user requests a document to which they do       not currently have access and choose to pay via an existing purchase order       which they have set up with Blackwell/Munksgaard. If they do not have a       purchase order, they will be asked to contact Blackwell/Munksgaard.
+
+      1.    Registration update: At the end of an abstract, a link is provided             which enables the user to purchase a related document or product             (i.e., full text article, journal subscription, book, etc.) The link             brings the user to a page that offers purchase options, and lists             the price of the full text article. The user will be asked to a)             register, or b) login.
+
+      2.    Login. Registered users will login with an account that has been             tagged for all charges to be applied to an existing purchase order.
+
+      3.    Purchase Order validation: The purchase order is validated to assure             that this charge will not go over the total amount on the purchase             order. The user is given confirmation that they are about to be             charged for the requested full text article(s). (Any relevant             discounts will be shown on screen at this time.)
+
+      4.    Optional fax delivery: If the requested document is an article, the             user will be offered an option to have the article faxed for an             additional fee (to be determined).
+
+      5.    Transaction confirmation: Once the user has completed the above             steps, a receipt listing all purchases is shown on the page; a copy             will also be emailed to them.
+
+      6.    Transaction cancellation: If the user cancels the transaction, they             are returned to the abstract of the article.
+
+      7.    Content access: After the user confirms the charge, he/she is given             access to the content for a specified period of time (hours/days to             be determined.)
+
+            Articles are provided to the user in both HTML and PDF formats.
+
+Additional Subscription Purchase
+
+      Online users will be provided with several opportunities throughout the       site to subscribe to other journals; these purchase options will be       inserted in areas that contextually will promote the likelihood of a sale.
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                        8
+
+USER SCENARIOS                                                           LINKING - --------------------------------------------------------------------------------
+
+      The following scenario provides an example of how the need for additional       full text articles and/or a journal subscription results in a sale.
+
+      1.    Point of entry: A user reads an article in a journal to which they             subscribe. Searching for more information in this subject area, the             user clicks on the link to related articles.
+
+      2.    Exposure to new journal: After viewing the list of related articles,             the user notes that the articles of the most interest are all in a             journal to which s/he does not currently subscribe. At this point             the user has a choice: s/he may either purchase the full text of             some or all the articles, or consider a subscription to the journal             itself, which will provide unlimited access to these and other             articles year-round. The user decides to find out more information             about the journal.
+
+      3.    Journal description: All journal titles will be linked. When the             user clicks on a journal link, he/she will see a page that provides             a brief description of the journal, the frequency of publication,             and pricing information.
+
+      4.    Purchasing procedure: The user decides to purchase the journal.             Since this user has already subscribed to at least one other             journal, his/her identification and credit card data are already             stored in the system.
+
+            The user is given the option of charging the subscription to the             existing account, or entering new credit card information. (See             "Credit Card Subscription Registration" above).
+
+      5.    Confirmation of purchase: Once the user has indicated which credit             card is to be charged, the purchase is charged and validated. The             user will then be shown a page that provides a receipt for the             journal subscription purchase. Confirmation of the purchase will             also be sent to the user via email.
+
+      6.    Other tie-ins to purchase: After confirmation, the user may link to             his/her own custom page to find that the new subscription has been
+
+
+
+
+
+            documented, and the custom page updated.
+
+      7.    Next destination: At the end of the transaction, the user will be             shown the selected volume of the journal.
+
+- -------------------------------------------------------------------------------- Linking - --------------------------------------------------------------------------------
+
+Bibliographic Linking within an Article
+
+      This scenario illustrates how a user would link to and from bibliographic       information contained within an article.
+
+      1.    Reference links: Reference citations within all articles will be             linked to bibliographic references (or endnotes.) When the user             clicks on the citation in the article, a page showing the complete             listing of references for that article will be displayed.
+
+      2.    Database links: When the user clicks on the MEDLINE link, s/he will             be shown the corresponding MEDLINE abstract for the cited article,             if the journal is indexed for inclusion in MEDLINE. (Similar             functionality will exist with ISI Web of Science).
+
+      3.    Full text/Journal subscription purchase option: If full text is             available for the cited reference, it will be offered for purchase             at this point; journal subscription purchase may be offered as well.             Abstracts will also be available from the references. These purchase             options will be displayed along with pricing information. If the             user is not a subscriber to the cited journal, and chooses to             purchase the article, or subscribe to the journal, new pages
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                        9
+
+USER SCENARIOS                                  DELIVERY OPTIONS OTHER THAN HTML - --------------------------------------------------------------------------------
+
+            leading them through the purchase process will automatically be             shown. (See "Single Document Purchase" and "Additional Subscription             Purchase" above.)
+
+      4.    Subscription tracking: If the user is already a subscriber to the             journal that contains the selected article, the user will be             informed that they may access the article free.
+
+      5.    Other reference options: All articles will also contain a side bar             which lists (and links to) other full text articles available within             the Blackwell/Munksgaard collection that references this article             (forward bibliographic references).
+
+      6.    In Press Bibliographic Links: Links will not exist to bibliographic             references that are still in press. However, the system will check             regularly to link them once the article has been published.
+
+      7.    Exit from abstract: The user will also be able to return to the             previous article from the abstract.
+
+Related Information Links
+
+      When viewing an article, the user will be provided with a side bar that       outlines several related links pertaining to the article they are       currently reading. In this scenario, we highlight some of the different       types of links that may be offered.
+
+      1.    Author listing: The names of all authors of the current article will             be provided as links. When the user clicks on the link of a selected             author, s/he will be presented with a listing of other articles             written by that author. These titles will be linked to the             corresponding abstract and/or full text. If available, full text             purchase and/or PDF versions of the selected article will be             offered.
+
+      2.    Related articles by subject: A listing of related linked subject             areas will also be provided. When the user clicks on these areas,             s/he will receive a listing of related articles searched by MeSH             headings and keywords.
+
+      3.    Related published information: Users interested in reading other             published information related to the chosen article will find that             the side bar provides them with links to:
+
+            a. Correspondence (letters, editorials, etc) pertaining to that             article
+
+            b. Errata (article addenda, corrections, etc.) pertaining to that             article
+
+      4.    Services: The user will also be able to take advantage of certain             services. One service will be the ability to email the URL of a             chosen article to a colleague. When the user chooses this option,             s/he will be presented with a page to enter an email address, and a             "send" button.
+
+
+
+
+
+- -------------------------------------------------------------------------------- Delivery Options Other than HTML - --------------------------------------------------------------------------------
+
+Downloading PDF
+
+      For those full text articles available in PDF format, the user will be       given the option of PDF downloading.
+
+      1.    Linked PDF option: On the article page, a link offering the PDF             option will be found. The users will have the option to download the             PDF file or have it emailed to them. If the user choose to download             the document they will be prompted to save it.
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                       10
+
+USER SCENARIOS                                               SUBSCRIBER FEATURES - --------------------------------------------------------------------------------
+
+      2.    Adobe instructions for downloading: If the user does not have             Acrobat installed, the download page will explain the need to             install the Acrobat plug-in. A link to Adobe for detailed             instructions on how to install the plug-in will be provided.
+
+            If the user does not wish to download Acrobat at that time, the user             will be prompted to download to their hard drive. They may open the             PDF document after Acrobat has been downloaded at their convenience.
+
+Fax Delivery
+
+            Users who want the benefits of how an article appears in PDF, but             who do not wish to download the article in this format, can request             fax delivery of the article for an additional charge.
+
+      1.    After confirming that the user wishes to purchase an article (or in             the case of subscriptions, displaying the record on screen), the             user selects the method of displaying the article: HTML, PDF, or             "Receive via Fax." Because this is a premium option, the user will             be asked to confirm the additional fees for fax delivery.
+
+      2.    The user then supplies their fax number.
+
+      3.    To keep costs low, the article is relayed to a commercial fax             service, such as FaxNet, which sends the information via Web-based             fax to the user.
+
+- -------------------------------------------------------------------------------- Subscriber Features - --------------------------------------------------------------------------------
+
+User Access to their Custom Page
+
+      Another free feature offered to Blackwell/Munksgaard subscribers is a       custom-designed page which will provide them with information tailored to       their unique areas of interest, as well as accounting of their       subscription plans and other services. The following are highlights of       features that may be offered to subscribers.
+
+      1.    Initial log-in: The user accesses the Blackwell/Munksgaard Journals             home page. From this page there is a login link that requires the             user to enter their user name and password (if they are unable to             remember their user name and password, they may enter their email             address, which will then provide them with the correct login             information via return email). Once the correct information has been             entered, subscribers are brought to their custom page.
+
+      2.    Custom Page features: The custom page will provide the user with:
+
+            a. Subscription information: All subscription information pertaining             to the user's account will be provided, including: names of journal             subscriptions (listed and linked), pricing of each subscription, and             the duration of subscription.
+
+            b. Updates on new content: Each subscriber will be provided with             updates on new content that correlates to their specified area(s) of             interest. This includes new journal articles, correspondence, news,             etc.
+
+            c. Customer Service: Users can choose to change their password,             subscriptions, credit card information, etc. by accessing the             customer service area at any time. Users may also email questions             regarding their subscription in this customer service area.
+
+            d. Searching: The user will have a variety of methods to track and             save searches from the custom page, including:
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                       11
+
+USER SCENARIOS                                                  JOURNAL FEATURES - --------------------------------------------------------------------------------
+
+
+
+
+
+                  i) Entering searches from various journal sets (e.g., searches                   of just Blackwell/Munksgaard journals, or all journals in a                   related subject area.)
+
+                  ii) Saved searches: The user will have the ability to view the                   last five documents reviewed or the last five subject area                   searches conducted.
+
+                  iii) Collaborative filtering: In the future once an article                   has been read, a user may choose to review which related                   articles have been read by other users. A listing of the most                   frequently accessed articles in the topic will be provided.
+
+                  (For a more detailed description of the searching                   capabilities, see the "Searching" category below.)
+
+            e. Promotions and advertising: The user will be notified in the             Custom Page of any promotions that may be of interest (i.e.,             discount rates, product offers, society notices, etc.) In addition,             users will be able to view advertising pertaining to their interests             on this page.
+
+            f. Interactive communication: This area will contain features that             allow users to communicate via email with Blackwell/Munksgaard. This             may be used, for example, to post notices of errata for articles. A             mechanism for acknowledging these notices will also be provided.
+
+- -------------------------------------------------------------------------------- Journal Features - --------------------------------------------------------------------------------
+
+      The following scenarios pertain to organization of the journals and their       various components on the Blackwell/Munksgaard site.
+
+Journal Page
+
+      Users will be able to access information pertaining to subscriptions and       other publisher information directly from the journal pages, which will be       customized for each specific journal. We recommend that these pages follow       a standardized format, including links to the following (where       applicable):
+
+      a)    Publisher's home page: A link will bring the user to the home page             of the appropriate publisher of the journal, either             Blackwell/Munksgaard Science Ltd., Blackwell/Munksgaard Science             Inc., or Munksgaard.
+
+      b)    Society's home page: If the journal is published for a society,             users will be able to directly link to the society's home page
+
+      c)    Journal information: Information regarding publication cycles and             other publication information will be provided via this link.
+
+      d)    Journal subscriptions: If a user wishes to find detailed information             about subscribing to journals, this link will bring them to a page             which will provide pricing information, etc.
+
+      e)    Journal listing by publisher: This link will provide the user with a             complete listing of journals, categorized by publisher
+
+      f)    Listing of available back issues: For users wishing to search             previous journal issues, this link will show a listing of back             issues available
+
+      g)    Current table of contents: Users will be able to quickly access the             most current table of contents from this link
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                       12
+
+USER SCENARIOS                                                  JOURNAL FEATURES - --------------------------------------------------------------------------------
+
+      h)    Submission information: Prospective authors will find author's             guidelines and other submission information at this link
+
+      i)    Letter to the editor via email: Users who wish to contribute             opinions to the journal editor will be able to link to a pop-up             email window, and send correspondence via email. This is optional.
+
+      j)    Email to support: This link will provide users with the opportunity             to ask questions or request information from support staff via email
+
+      k)    Copyright statements: All pertinent copyright information and legal             disclaimers will be provided via this link
+
+Issue Listings
+
+      Issues will be displayed in the following manner:
+
+      a)    Organization of journals: Journals will be organized by volume,             beginning with the most recent publication, and then catalogued in             descending chronological order, grouped by year.
+
+
+
+
+
+      b)    Supplements: Any supplemental issues will be grouped with the             appropriate volume.
+
+      c)    Listing by topic or theme: Each journal listing will also indicate             relevant topics or themes and page ranges where applicable.
+
+      d)    Accessibility: Users will be able to access these journal volumes             from both their custom pages, as well as journal cover pages.
+
+Table of Contents
+
+      Tables of Contents will be displayed in the following format:
+
+      a)    The table of contents list the articles published in the issue by             page number
+
+      b)    Each article listed contains the title (or title abbreviation for             longer titles), primary author(s) as well as page numbers.
+
+      c)    From the article listing there will be links to the abstract, full             text, PDF versions of the article and supplemental information.
+
+      d)    Prices of the full text and PDF versions may also be listed.
+
+Abstract
+
+      All Blackwell/Munksgaard journal abstracts will be displayed in the       following format:
+
+      a)    Title
+
+      b)    Source
+
+      c)    Author
+
+      d)    Abstract
+
+      e)    Address
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                       13
+
+USER SCENARIOS                                                  JOURNAL FEATURES - --------------------------------------------------------------------------------
+
+      f)    Keywords
+
+      g)    Article Type (Case report, review, rapid publication, original             article).
+
+      h)    If applicable, both the MEDLINE Unique Identifier and MeSH terms             will be available
+
+Full Text
+
+      As users read full text documents, they will be able to access the       following feature enhancements:
+
+      a)    Linked references: References cited within the body of the article             will be linked to the bibliographic references (endnotes) for that             article. A link from the bibliographic reference to the abstract             (pulled from secondary databases, reference databases), if             available, is provided. If the corresponding article is available             online in the Blackwell/Munksgaard collection, a link to the             full-text with option to purchase will be provided.
+
+      b)    Publication listing by author: All primary authors of the article             will be listed. The name of each author will be linked so that if             the user selects the author's name, a listing will be provided of             other available articles written this author. Again, these articles             in turn will be linked to their corresponding abstracts. If the             corresponding article is available online in the             Blackwell/Munksgaard collection, a link to the full-text with option             to purchase will be provided.
+
+      c)    Link by keywords: The user will be provided with an option to search             for other related articles by keyword.
+
+      d)    Email option: If a user would like to send a link to the abstract to             a colleague, an email window will be available. The user only needs             to type in the destination email address, and an automatic message             providing the article title and corresponding URL of the abstract             will be sent.
+
+      e)    Supplemental Information: Links to supplemental information related             to the article will be presented if the information is available.
+
+Email version of Table of Contents
+
+      A valuable reminder of newly released publications is the table of       contents email option. If users choose this feature (usually done during       subscription registration and payment), they will be sent the new table of       contents for each journal to which they have subscribed. This feature will       be available to both subscribers as well as non-subscribing users.
+
+
+
+
+
+      This scenario shows what a user can do after receiving an emailed version       of the table of contents. The scenario has two parts: one for text-based       email, the other for HTML enabled email.
+
+Text Email
+
+      1.    Receipt of email announcement: User receives an email message and             opens it in their email reader.
+
+      2.    Table of contents listing: The message contains the table of             contents of the newly published issue of the journal.
+
+      3.    URL linking: The email contains the URL for the Blackwell/Munksgaard             site. This link will be "live" in most email readers, and will bring             the user directly to the online version of the table of contents.
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                       14
+
+USER SCENARIOS                                                         SEARCHING - --------------------------------------------------------------------------------
+
+      4.    Article linking: Once the user accesses the table of contents, s/he             will find that all titles are linked to abstracts and the online             full text article.
+
+HTML Email
+
+      1.    Receipt of email announcement: The user receives an HTML based email             message, and opens it in their HTML enabled mail reader (e.g.,             Outlook Express, Outlook 98, Netscape 3.x and higher).
+
+      2.    Table of contents: The message contains the complete table of             contents, and may be viewed exactly as it would look on the web             site.
+
+      3.    URL linking: The email contains the URL for the Blackwell/Munksgaard             site. This link will be clickable in most email readers, and will             bring the user directly to the online version of the table of             contents.
+
+      4.    Article linking: Once the user accesses the table of contents, s/he             will find that all titles are linked to abstracts and the online             full text article.
+
+- -------------------------------------------------------------------------------- Searching - --------------------------------------------------------------------------------
+
+      The capacity to search using a variety of keywords and subject headings is       of critical importance to users, and is an especially important feature of       the Blackwell/Munksgaard site.
+
+      Users will have the ability to select which set of journals to search.       Some example sets are: All Full Text Journals, All Subscribed Journals,       and Journals by particular Publisher. Searches that return a single       document will forward the user to the abstract or full text if they have       access to the full text.
+
+      The following scenarios outline several ways in which a subscriber may       search for content. In addition to offering different types of searching       mechanisms (i.e., "quick searches" through advanced searches), users will       also be able to access the searching capability from various areas of the       site. The following scenarios outline some of the search possibilities.
+
+Quick Search
+
+      A "Quick Search" enables the user to search on a topic (e.g., insulin       pumps) and obtain a listing of areas where this topic is cited.
+
+      1.    From custom page: From the custom page, users would enter a keyword             or phrase in the quick search box. The user would select the All             Subscribed journal set, and then submit the query.
+
+      2.    Results: The search returns a listing of all articles; each linked             to the full text, PDF, and the abstract where available.
+
+      3.    Save Query: On the results page, the user would have the option of             saving the query. This adds the query to the user's customized page.
+
+Searching Full Text
+
+      Another option is to search the entire full text of a document for       specific terms. The following is a sample of how this search could be       conducted from the user's custom page.
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                       15
+
+USER SCENARIOS                                                     CUSTOMER HELP - --------------------------------------------------------------------------------
+
+
+
+
+
+      1.    Advanced search option: The user selects the advanced search option             from the search box.
+
+      2.    Document choice: The user decides to view only abstracts; s/he             selects this choice from the pull down list of available fields to             search.
+
+      3.    Subject choice: The user chooses the keyword or phrase they wish to             search, (e.g., lispro or Humalog), and enters it into the advanced             search form. This criterion is then added to the query.
+
+      4.    Journal choice: The user then selects the journal set to search, and             selects the "All Full Text Journals" option. The query is then             submitted.
+
+      5.    Results: The results contain a listing of all full text articles             available that match the user's search criteria. Included in this             list is the price of each full text document that references these             keywords, with the option to download. In addition, the entries that             the user has subscription access to would be noted. Results can be             ordered by relevancy, date, author and journal title.
+
+            The user has the ability to save the query.
+
+Finding an Article Cited Elsewhere
+
+      This scenario provides the user with HealthGate's Citation Finder       Technology. It allows a subscriber the ability to quickly locate the       abstract (and the full text if available) from a bibliographic reference.
+
+      1.    Access from custom page: From the registered subscriber's customized             page, s/he selects the Citation Finder option. The Citation Finder             page is pre-loaded and has a field for entry of the citation. The             user can either input the citation information or "copy and paste"             it into the appropriate fields. The Citation Finder does not require             information in all fields to execute a search successfully.
+
+      2.    Search criteria: The user then selects the fields, or information,             which s/he wants to search. Examples of these fields include author,             journal name, year, volume, issue, article title, and all fields.             For this example, the user selects author, article title, and             journal name.
+
+      3.    Results: The user submits the query. If an exact match is found, the             abstract will be provided. If not, the user is presented with a list             of matches from which to select.
+
+- -------------------------------------------------------------------------------- Customer Help - --------------------------------------------------------------------------------
+
+      Blackwell/Munksgaard will have administrative access to these features.       All access will be recorded to monitor any possible abuse.
+
+Forgotten Password
+
+      When a user forgets his/her password, the system provides a mechanism for       the user to look up and find their password without calling customer       service. This scenario shows how that is accomplished:
+
+      1.    On the login page, a user who has forgotten their password selects             the link "forgotten password."
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                       16
+
+USER SCENARIOS                                                     CUSTOMER HELP - --------------------------------------------------------------------------------
+
+      2.    The user is asked to complete a form where the required information             is user name, first name, and last name.
+
+      3.    The system will search the user database to see if there is a match.             If there is a match, the system will send the user's password to the             email address on file. The system will then tell the user that their             password is being sent to them via email.
+
+      4.    If there is not a match, the system will prompt them to try again or             allow them to search for user name and password.
+
+Forgotten User Name and Password
+
+      When a user forgets his/her password, the system provides a mechanism for       the user to look up and find their password without calling customer       service. This scenario shows how that is accomplished:
+
+      1.    On the login page, a user who has forgotten their password selects             the link "forgotten password."
+
+      2.    If they do not remember their user name, the user is prompted to             enter their first name, last name, and email address.
+
+      3.    The system will compare the information supplied by the user against             the user database and email both the user name and password to the
+
+
+
+
+
+            address on file if there is a match.
+
+      4.    If there is not a match, the user is instructed to either try again             or contact customer service.
+
+Changing Password
+
+      Users often want to change their password. The system gives them an easy       way to do so.
+
+      1.    From the user's personal profile page, the user selects the link to             "Modify Profile."
+
+      2.    The Modify Profile page will allow them to go to a change password             form.
+
+      3.    This form will ask the user to type their current password, then             enter a new password. To confirm, the user is asked to type their             new password again.
+
+      4.    Upon correct entry (the old password matched the one on file and the             two new passwords matched), the password will be updated and the             user will be told that the change has been made.
+
+      5.    If the entry is not correct then the user will be prompted to try             again.
+
+Changing Email Address
+
+      Users often want to change their email address. The system gives them an       easy way to do so.
+
+      1.    This feature is available in several places, such as the "Modify             Profile" page and the regularly scheduled email messages sent by the             system to the user.
+
+      2.    From the Modify Profile page, the user would select a link to change             their email address. From an email message, the user selects the             link embedded in the email. When accessing the appropriate page via             the email link, the user will be prompted for user name and             password.
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                       17
+
+USER SCENARIOS                                                CONTENT MANAGEMENT - --------------------------------------------------------------------------------
+
+      3.    A form will ask for the users new email address (actually allowing             them to edit their old email address).
+
+      4.    Upon successful entry, the email address is checked for validity and             an email message is sent the address for confirmation.
+
+Changing Credit Card Number
+
+      Users often want to change their credit card information on file. The       system gives them an easy way to do so. This method of updating the credit       card is also used when the credit card on file has expired. Customers with       expired credit cards are forced to enter a new credit card when they are       about to incur additional charges.
+
+      1.    This feature is available from the "Modify Profile" page.
+
+      2.    The user is connected to the secure server and asked to enter the             new credit card information.
+
+      3.    The credit card is validated with a credit card clearing house.
+
+      4.    If validated, the user is given a confirmation page.
+
+      5.    If the card is not validated, the user is asked to try again.
+
+Changing Other Information
+
+      Users are able to change other information off the "Modify Profile" page       by selecting the appropriate link. Examples of other information that may       be changed are postal address, purchasing new subscriptions, and change       the format in which they received emailed information (HTML verses text).
+
+- -------------------------------------------------------------------------------- Content Management - --------------------------------------------------------------------------------
+
+Journal Setup
+
+      The procedure to setup new journals and their initial entry into the       system must be initiated by Blackwell/Munksgaard. It is possible to setup       a journal manually or electronically. The manual procedure for setting up       a new journal entry is as follows:
+
+      1.    The authorized Blackwell/Munksgaard employee establishes a             connection to the Administration side of the site.
+
+
+
+
+
+      2.    When prompted, the employee enters the appropriate user             name/password and establishes a secure connection.
+
+      3.    The employee selects the option New Journal and enters all             applicable information, such as title, copyright statements,             submissions, subscription, etc.
+
+      4.    The employee enters Society information, if applicable, including             name, links, and board members.
+
+Set Journal Price
+
+      It is possible to setup a journal price manually or electronically. After       setting up the basic journal information, pricing criteria may be entered:
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                       18
+
+USER SCENARIOS                                                CONTENT PUBLISHING - --------------------------------------------------------------------------------
+
+      1.    The authorized Blackwell/Munksgaard employee accesses the             appropriate journal (the journal must be setup using the Journal             Setup before establishing the journal price) and selects the option             "Journal Pricing."
+
+      2.    The employee then assigns the price in multiple currencies, any and             all subscription plans, including rates for print companion,             electronic only, and Society membership.
+
+      3.    The employee then assigns pricing for each of the selected             currencies.
+
+Set Document Price
+
+      1.    The default for all document pricing is established by             Blackwell/Munksgaard. The Blackwell/Munksgaard employee may override             the default and establish a special price for documents from a             specific journal title.
+
+      2.    To override the default document price, the employee accesses the             appropriate journal (the journal must be setup using the Journal             Setup before establishing the document price) and selects the option             "Document Pricing."
+
+      3.    The employee then assigns the revised price in various currencies             for document delivery.
+
+      4.    The price may be revised to the default at any time by accessing the             journal and selecting the option to Restore Default Price.
+
+Template Submission
+
+      Initially, templates will be hand loaded by HealthGate Data Corp. to       insure security and consistency.
+
+      To accomplish this, an FTP location will be provided to allow templates to       be copied over and reviewed (and tested) prior to releasing them.
+
+- -------------------------------------------------------------------------------- Content Publishing - --------------------------------------------------------------------------------
+
+Issue Loading
+
+      1.    Loading upon receipt: All content for a new issue is loaded upon             receipt in a single directory.
+
+      2.    Identification: A form is completed which indicates appropriate             journal, issue, and volume. It is also possible to enter this             information electronically.
+
+      3.    Back-up: Upon submission, the content is copied to the content             repository, before conversion. This allows it to be referenced in             the future.
+
+      4.    Conversion: The content is then converted to our internal Extensible             Markup Language (XML) format.
+
+      5.    Storage: The XML version is then stored in the content repository.
+
+      6.    Parsing: The XML is then parsed to add more information, including             tags to link bibliographic information and related information.
+
+      7.    Storage of parsed content: This parsed XML version is also stored in             the content repository.
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                       19
+
+USER SCENARIOS                                                THIRD PARTY ACCESS - --------------------------------------------------------------------------------
+
+
+
+
+
+      8.    Conversion to HTML: An Extensible Style Language (XSL) template is             used to convert the file to HTML.
+
+      9.    HTML on staging: The HTML version is made available on the staging             server.
+
+Issue Review
+
+      1.    The issue is made available on the staging server
+
+      2.    Email is sent to Blackwell/Munksgaard alerting the appropriate             personnel that the issue is available for review.
+
+      3.    An employee wishing to review the issue would log on to the staging             server, and select the content they wish to review. This is limited             to authorized users only. Authorization is by group of journals.
+
+      4.    The content is presented to them in the same way it is shown to an             end user. However, they also have access to a tool bar (in a frame).             The tool bar allows them to approve the content as well as adjust             some of the properties of the article.
+
+      5.    They can change the price or approve the article for release.
+
+Issue Release
+
+      An issue will be released automatically on the assigned electronic       publication date if all the articles contained in the issue have been       edited and approved for release. Blackwell/Munksgaard will be alerted to       content that has not be reviewed after a predetermined amount of time.
+
+      A Blackwell/Munksgaard employee would access the Journal Publishing       System, a secure area, and go to the System Control area.
+
+      1.    A list of issues that are ready or awaiting publication would be             available. When an issue is selected, the listing of properties for             that issue will be presented.
+
+      2.    The user would be able to adjust any of the properties.
+
+      3.    To publish the issue, the user would set the publication date to the             following day.
+
+- -------------------------------------------------------------------------------- Third Party Access - --------------------------------------------------------------------------------
+
+General
+
+      Creating an abstract-only export: To create an abstract-only export, a       Blackwell/Munksgaard employee will need to determine the list of journal       abstracts to be included for extract, the formatting of the extract, and a       user profile of which third parties will have access to the extract file.
+
+      1.    Criteria: Once the above information has been determined, the             following information will need to be entered:
+
+            a. Frequency of updating abstract information,
+
+            b. Packaging method (tar, zip), push, pull or tape.
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                       20
+
+USER SCENARIOS                                                         REPORTING - --------------------------------------------------------------------------------
+
+      2.    Push extracts: For push extracts (extracts that are sent to someone             either via FTP or email), a user will have to enter the destination             email address, or the FTP server, directory, user name and password             to use.
+
+      3.    Pull extracts: For pull extracts (extracts that require someone to             pull the content off the journal server), a user will have to enter             the user name and password that the third party will use to retrieve             the content.
+
+      4.    Tape based abstracts: Tape based abstracts will be handled similar             to FTP pulls except that they would be loaded to tape and sent via             postal service.
+
+Abstracts Only (Headers)
+
+      Some customers want the abstracts only. This will allow bibliographic       database to receive the information in electronic form rather than having       to re-key the documents. Ideally, all databases would also receive       information pointing them to the full text version of the documents. The       directory structure will also be included with this abstract. It is       possible to create a different directory structure and will have to be       handled on an ad-hoc basis.
+
+      This scenario will be completed upon the supply of the final version of       the Blackwell/Munksgaard DTD.
+
+
+
+
+
+Abstracts and PDF (Headers and PDF)
+
+      This type of export would use the same DTD as the abstracts only, but       would include a reference to the PDF file inside each header. This extract       would obviously also include the PDF files.
+
+Full Text Blackwell/Munksgaard DTD
+
+      This export will take the Blackwell/Munksgaard SGML files in full as well       as graphic files and PDF files.
+
+Full Text in Ovid's DTD
+
+      This export will convert the full text to Ovid's DTD and includes the       graphic files and PDF files.
+
+Delivery Options for Third Parties
+
+      Third parties will have the option to receive information via HTTP, FTP       (either sent to them or picked up), tape (4mm, 8mm, DLT) or CD-ROM.
+
+- -------------------------------------------------------------------------------- Reporting - --------------------------------------------------------------------------------
+
+      This section defines some of the reports available to       Blackwell/Munksgaard. It is expected that customization of reports will       continue to be refined over the duration of the project. This will allow       both HealthGate and Blackwell/Munksgaard to make necessary adjustments. As       a future direction HealthGate will provide direct access to the SQL       database (via ODBC or similar methods).
+
+User
+
+      Each time an authorized user logs on, information regarding their usage,       purchases and transactions will be tracked. From this data, reports may be       compiled to include the following:
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                       21
+
+USER SCENARIOS                                                       INTEGRATION - --------------------------------------------------------------------------------
+
+      o     Last usage: This information indicates when the user last accessed             the system
+
+      o     Number of subscriptions per user: Will list how many subscriptions             and the title of each journal subscription that the user has bought
+
+      o     Number of documents delivered (excluding subscriptions): The number             of documents (such as full text articles, etc.) purchased by the             user will be reported
+
+      o     Number of documents read within a subscription: This will provide a             feature unique to the online medium; for the first time, editors             will be able to track which articles were viewed with the most             interest by their readers within a subscription.
+
+      o     Accounting of all charges: Reports will have the capacity to reflect             accounting of all accrued charges by subscribers, document delivery,             etc.
+
+Content
+
+      Each time an article is accessed by an authorized user, information       regarding usage, purchases and transactions will be tracked. These reports       could be grouped by abstract, article, issue, volume, journal and       publisher. From this data, reports may be compiled to include the       following:
+
+      o     Number of documents read by subscribers: The number of times each             document (full-text article) from a specific issue is accessed by             subscribers
+
+      o     Number of documents read by non-subscribers: The number of times             each document (full-text article) from a specific issue are             purchased by non-subscribers
+
+      o     Advertisements shown per issue: The specific advertisement and             number of times displayed from each issue.
+
+      o     Accounting of all charges: Reports will have the capacity to reflect             accounting of all accrued charges by subscribers, document delivery,             etc. associated with a specific issue
+
+      o     Title and number of subscriptions: The number of subscriptions for             each journal
+
+- -------------------------------------------------------------------------------- Integration - --------------------------------------------------------------------------------
+
+HeathMill or Other Subscription Systems to HealthGate Connection
+
+
+
+
+
+      On a regular basis, the following information will be transferred to the       publishing system. The information will be in a format to be determined.       Each user record can include the following information:
+
+      o     User Information
+
+            o     Update/Add/Delete Flag
+
+            o     HeathMill Account Number
+
+            o     Name (first, middle, surname)
+
+            o     Address Information
+
+            o     Email Address
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                       22
+
+USER SCENARIOS                                                       INTEGRATION - --------------------------------------------------------------------------------
+
+      o     Contracts (Subscriptions)
+
+            o     Account Number
+
+            o     Group, Society, and type of membership
+
+            o     Expiration Date
+
+            o     Start Date
+
+            o     Volume and Issue Start
+
+            o     Volume and Issue End
+
+      o     Journal List
+
+            o     Short Code
+
+            o     Subject Code
+
+            o     ISSN Electronic Version
+
+            o     ISSN Print
+
+            o     Price Band
+
+HealthGate to HeathMill or Other Subscription Systems
+
+      HealthGate will send back to HealthMill the user and subscription       Information from above.
+
+Integration to JPMS
+
+      For integration to JPMS, the Publishing System will send messages each       time an issue completes the following stages:
+
+            o     Received
+
+            o     Loaded
+
+            o     Staging
+
+            o     Review Complete
+
+            o     Live
+
+      These messages will contain the following information:
+
+            o     Message Code (Received, Loaded, Staging, Review, Live,                   Deleted)
+
+            o     ISSN (both electronic and paper)
+
+            o     Journal Short Code
+
+            o     Volume
+
+            o     Issue
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                       23
+
+USER SCENARIOS                                                      FUTURE ITEMS - --------------------------------------------------------------------------------
+
+            o     Date
+
+            o     Scheduled Publication Date
+
+            o     Actual Publication Date (if known)
+
+
+
+
+
+      In the event that an article is withdrawn, a message containing the       following will be sent:
+
+            o     Message Code (Staging, Review, Live, Deleted)
+
+            o     ISSN (both electronic and paper)
+
+            o     Journal Short Code
+
+            o     Volume
+
+            o     Issue
+
+            o     Article
+
+            o     Page range
+
+            o     Date
+
+Integration with Blackwell/Munksgaard Web Site(s)
+
+      The system will provide an interface to access table contents, abstracts       and full text articles programmatically. The interfaces will require the       following information:
+
+            o     ISSN (either electronic or print) or Blackwell/Munksgaard                   Journal Code
+
+            o     Volume
+
+            o     Issue
+
+            o     Page or Article Title (only for abstract and full text)
+
+      The interface will be similar to the following:
+
+      http://servername/abstract?issn=1234-123456&volume=2&issue=3&page=5
+
+- -------------------------------------------------------------------------------- Future Items - --------------------------------------------------------------------------------
+
+      This section contains a list of features, which HealthGate will deliver       outside of the deadlines agreed upon in the contract. Some of these items       may have additional charges due to licensing of software and content.
+
+      In the future HealthGate will provide the following features:
+
+      o     Electronic forums at the Journal Level.
+
+      o     Links to pharmaceutics, company names, people, and software.
+
+      o     Method of linking terms to encyclopedias.
+
+      o     Delivery of equations in a format that Mathematica can use.
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                       24
+
+USER SCENARIOS                                                      FUTURE ITEMS - --------------------------------------------------------------------------------
+
+      o     The system will provide the ability to check whether a user is             concurrently logged on from multiple locations to prevent fraudulent             use.
+
+[INITIALS ILLEGIBLE]                                        [INITIALS ILLEGIBLE]       20.3.98                                                     30.4.98
+
+- -------------------------------------------------------------------------------- BLACKWELL/MUNKSGAARD JOURNAL PUBLISHING                                       25
+
+                                   SCHEDULE 2
+
+Use Fees
+
+HealthGate will charge for Downloads of the material, as follows:
+
+Type of User               Fee per Download    Max. per User/Title/Year - ----------------------------------------------------------------------- Institution:               $0.10               $20.00 Individual:                $0.05               $10.00 Member:                    $0.01               $1.00
+
+Download is defined as retrieval of a full-text article, there will be no charge for searching and browsing of tables of contents and abstracts. These usage charges will be billed on 1 January, 1 April, 1 July, 1 September and 31 December 1999, on payment terms of 60 days.

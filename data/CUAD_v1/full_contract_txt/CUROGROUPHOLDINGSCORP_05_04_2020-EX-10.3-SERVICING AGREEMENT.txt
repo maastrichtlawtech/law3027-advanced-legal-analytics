@@ -1,0 +1,289 @@
+Ex 10.3
+
+SERVICING AGREEMENT
+
+between
+
+CURO RECEIVABLES FINANCE II, LLC, as Owner
+
+and
+
+CURO MANAGEMENT, LLC, as Servicer
+
+Dated as of April 8, 2020
+
+This SERVICING AGREEMENT (this "Agreement") is entered into as of April 8, 2020, by and between CURO RECEIVABLES FINANCE II, LLC, a Delaware limited liability company (the "Owner"), and CURO MANAGEMENT, LLC, a Delaware limited liability company, as servicer (the "Servicer").
+
+Capitalized terms used but not defined herein shall have the meanings set forth in Annex A attached hereto.
+
+W I T N E S S E T H:
+
+WHEREAS, the Owner desires to have the Servicer to master service the Serviced Assets, to perform certain of the duties of the Owner, and to provide such additional services consistent with the terms of this Agreement and the Loan Documents as the Owner may from time to time request; and
+
+WHEREAS, the Servicer has the capacity to provide the respective services required hereby and is willing to perform such services for the Owner on the terms set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, and other good and valuable consideration, the receipt and adequacy of which are hereby acknowledged, the parties agree as follows:
+
+Section 1. Servicing Duties of the Servicer.
+
+(a) The Owner authorizes Curo Management, LLC, to act, and Curo Management, LLC, agrees to act, as an independent contractor, as the Servicer effective upon the date hereof.
+
+(b) From and after the date on which a Receivable or Participation Interest, as applicable, is sold to the Owner, the Servicer shall service and administer each related Serviced Asset for the benefit of the Owner and shall extend, amend or otherwise modify such Serviced Asset, by complying in all material respects with the following (collectively, the "Servicing Standard"): (A) reasonable care, using that degree of skill and attention that the Servicer exercises with respect to comparable receivables that it services for itself or others, and (B) Applicable Law.
+
+(c) The Servicer shall have full power and authority, acting alone or through any party properly designated by it hereunder,
+
+
+
+
+
+including any Sub-Servicer, to do any and all things in connection with such servicing and administration which it may deem necessary or desirable, consistent with the terms of this Servicing Agreement and the Servicing Standard. Without limiting the generality of the foregoing, unless such power is revoked by the Owner on account of the occurrence of a Servicer Default, the Servicer shall have full power and authority (i) to make withdrawals from the applicable servicer collection account permitted by the terms of this Servicing Agreement, the Loan Agreement or any other Loan Document and (ii) to execute and deliver, on behalf of the Owner, any and all instruments of satisfaction or cancellation, or of partial or full release or discharge, and all other comparable instruments, with respect to the Receivables and, after the delinquency of any Receivable and to the extent permitted under and in compliance with applicable Servicing Standard and the Loan Agreement, to commence collection proceedings with respect to such Receivables. The Owner shall furnish the Servicer with any documents reasonably requested by the Servicer, including powers of attorney, as necessary or appropriate to enable the Servicer (or any Sub-Servicer on its behalf) to carry out its servicing and administrative duties hereunder.
+
+(d) The Servicer shall collect and process all collections on the Serviced Assets in accordance with the terms and conditions set forth in Section 2.3 of the Loan Agreement and the Servicing Multi-Party Agreement.
+
+Section 2. Administrative Duties of the Servicer.
+
+(a) The Servicer agrees to perform all of the duties assigned to it in the Loan Agreement, and shall take all appropriate action with respect to the following matters under the Loan Agreement:
+
+(i) upon written request of the Owner, executing and delivering such further instruments and do further acts as may be reasonably necessary or proper to carry out more effectively the purpose of the Loan Agreement;
+
+(ii) preparing officer's certificates with respect to the Loan Agreement;
+
+(iii) preparing, executing and filing any reports or other information which are required to be prepared or filed by the Owner in order to comply with federal, state or foreign securities laws, or exemptions thereunder; and
+
+(iv) any other duties expressly required to be performed by the Servicer under the Loan Agreement or any other Loan Document.
+
+(b) In carrying out the foregoing duties or any of its other obligations under this Agreement, the Servicer may enter into transactions with or otherwise deal with any of its Affiliates; provided, however, that the terms of any such transactions or dealings shall be no less favorable to the Owner than would be available from unaffiliated parties, that Owner shall have no responsibility or liability for any fees payable to such Affiliates to perform such obligations as contemplated by this Agreement and that the Owner shall not be deemed pursuant to this Section 2(b) to enter into any contractual obligations with such Affiliates.
+
+(c) To the fullest extent permitted by law, the Owner shall indemnify, defend and hold harmless the Servicer and its successors, assigns, directors, officers, agents, employees and servants (collectively, the "Servicer Indemnified Parties") from and against, any and all liabilities, obligations, losses, damages, taxes, claims, actions and suits, and any and all reasonable out-of-pocket costs, expenses and disbursements (including reasonable legal fees and expenses) of any kind and nature whatsoever (collectively, "Liabilities") which may at any time be imposed on, incurred by, or asserted against the Servicer or any Servicer Indemnified Party in any way relating to or arising out of this Agreement or any other Loan Document, the Serviced Assets or any action or inaction of the Owner or any other Person; provided, that the Owner shall not be liable for or required to indemnify a Servicer Indemnified Party from and against expenses arising or resulting from such Servicer Indemnified Party's own willful misconduct, bad faith or gross negligence. The indemnities contained in this Section 2(c) shall survive the resignation and removal of the Servicer or the termination of this Agreement.
+
+(d) Subject to Sections 4 and 5, the Servicer shall administer, perform or supervise the performance of such other activities in connection with the Serviced Assets (including the Loan Documents) as are not covered by any of the foregoing provisions and are reasonably within the capability of the Servicer. In no case may Servicer use any identifiable information, including consumers' nonpublic personal information and related account performance and status information, for any purpose other than as provided in this Agreement; provided, however, that Servicer is permitted to use nonidentifiable, aggregated consumer information obtained in connection with its activities undertaken pursuant to this Agreement.
+
+(e) Notwithstanding anything to the contrary in this Agreement, the Servicer shall not be obligated to, and shall not, take any action that the Owner directs the Servicer not to take or which could reasonably be expected to result in a violation or breach of the Owner's covenants, agreements or obligations under any of the Loan Documents.
+
+(f) The Servicer shall maintain appropriate books of account and records relating to services performed hereunder, which books of account and records shall be accessible for inspection by the Owner at any time during normal business hours.
+
+Section 3. Reports and Information.
+
+
+
+
+
+(a) At the times and in the manner required by Section 6.1 of the Loan Agreement, the Servicer shall deliver to the Owner and the Agent the reports described therein.
+
+(b) The Servicer shall furnish in writing to the Owner and the Agent from time to time such additional information regarding the Serviced Assets as the Owner or the Agent shall reasonably request.
+
+Section 4. Independence of the Servicer. For all purposes of this Agreement, the Servicer shall be an independent contractor and shall not be subject to the supervision of the Owner with respect to the manner in which it accomplishes the performance of its obligations hereunder; provided, however, Servicer shall be subject to the Owner's third-party vendor management program. Unless expressly authorized by the Owner in this Agreement or otherwise, the Servicer shall have no authority to act for or represent the Owner in any way and shall not otherwise be deemed an agent of the Owner.
+
+Section 5. No Joint Venture. Nothing contained in this Agreement (i) shall constitute the Servicer and the Owner as members of any partnership, joint venture, association, syndicate, unincorporated business or other separate entity, (ii) shall be construed to impose any liability as such on any of them or (iii) shall be deemed to confer on any of them any express, implied or apparent authority to incur any obligation or liability on behalf of the others.
+
+Section 6. Other Activities of Servicer. Nothing herein shall prevent the Servicer or its respective Affiliates from engaging in other businesses or, in its sole discretion, from acting in a similar capacity for any other person or entity even though such person or entity may engage in business activities similar to those of the Owner.
+
+Section 7. Term of Agreement; Resignation and Removal of Servicer.
+
+(a) This Agreement shall continue in force until the earlier to occur of (i) the Owner no longer owns any Receivables or Participation Interests, and (ii) subject to Section 7(d), the delivery of written notice of termination by the Owner to the Servicer pursuant to Section 7(c), in each case upon which event this Agreement shall automatically terminate unless otherwise agreed in writing between the Servicer and the Owner.
+
+(b) Subject to Section 7(d), the Servicer may resign its duties hereunder by providing the Owner with at least 60 days' prior written notice.
+
+(c) Subject to Section 7(d), and subject to the prior written consent of the Agent so long as the Loan Agreement remains outstanding, the Owner may remove the Servicer immediately upon written notice of termination from the Owner to the Servicer if any of the following events shall occur (each, a "Servicer Termination Right - Owner"):
+
+(i) the Servicer shall default in the performance of any of its duties under this Agreement and, after notice of such default, shall not cure such default within 30 days (or, if such default cannot be cured in such time, shall not give within 30 days such assurance of cure as shall be reasonably satisfactory to the Owner); or
+
+(ii) the Servicer files or consents to the filing of any petition, either voluntary or involuntary, to take advantage of any applicable insolvency, bankruptcy, liquidation or reorganization statute, or makes an assignment for the benefit of creditors; or
+
+(iii) the Servicer fails to maintain, in any material respect, all necessary licenses and approvals in each jurisdiction in which it is performing the primary servicing function for any of the Serviced Assets under this Agreement.
+
+The Servicer agrees that if any of the events specified in clause (ii) of this Section 7(c) shall occur, it shall give written notice thereof to the Owner within seven (7) days after the occurrence of such event.
+
+(d) No termination, resignation or removal of the Servicer pursuant to this Section shall be effective until (i) a successor Servicer shall have been appointed by or on behalf of the Owner with the prior written consent of the Agent so long as the Loan Agreement remains outstanding, and (ii) such successor Servicer shall have agreed in writing to be bound by the terms of this Agreement in the same manner as the Servicer is bound hereunder.
+
+(e) Agent may terminate this Agreement upon the occurrence and continuance of an Event of Default under the Loan Agreement by delivery of written notice of termination from Agent to Owner and Servicer (a "Servicer Termination Right - Agent" and, together with the Servicer Termination Right - Owner, each a "Servicer Termination Right"):
+
+If a successor Servicer does not take office within 60 days after the retiring Servicer resigns or is removed, the resigning or removed Servicer or the Owner may petition any court of competent jurisdiction for the appointment of a successor Servicer.
+
+In the event that the Servicer resigns or is terminated hereunder, the Servicer shall use its commercially reasonable efforts to and shall cooperate with the Owner and take other reasonable steps requested by the Owner to assist in the orderly and efficient transfer of the administration of the Serviced Assets to the successor Servicer.
+
+
+
+
+
+Section 8. Action upon Termination, Resignation or Removal of the Servicer. Promptly upon the effective date of termination of this Agreement or the resignation or removal of the Servicer pursuant to Section 7, the Servicer shall be entitled to be paid all fees and reimbursable expenses, including any reasonable out-of-pocket attorneys' fees, accruing to it to the date of such termination, resignation or removal. The Servicer shall forthwith upon such termination pursuant to Section 7 deliver to the successor Servicer all property and documents of or relating to the Serviced Assets then in the custody of the Servicer, or if this Agreement has been terminated, to the Owner. In the event of the resignation or removal of the Servicer pursuant to Section 7, the Servicer shall cooperate with the Owner and take all reasonable steps requested to assist the Owner in making an orderly transfer of the duties of the Servicer.
+
+Section 9. Compensation. The Servicer will be entitled to receive the Servicing Fee for the performance of the duties and provision of the services called for in this Agreement in accordance with, and subject to, the Loan Agreement. The Servicing Fee shall be payable on each Payment Date for the immediately prior Servicing Period in accordance with Section 2.4 of the Loan Agreement. Any opinion, filing or other services performed by the Servicer hereunder that generates additional costs shall be at the expense of the Owner.
+
+Section 10. Sub-Servicers; Collection Agents.
+
+(a) The Servicer may appoint one or more Persons (including any Affiliate) as a sub-servicer (each a "Sub-Servicer") with respect to some or all of the Serviced Assets to perform any of the Servicer's obligations hereunder from time to time in its sole discretion; provided, however, that such servicing arrangement and the term of the related subservicing agreement (if any) must provide for the servicing of the Serviced Assets in a manner equivalent or greater than the Servicing Standard; provided, further, that the Servicer shall remain obligated and be liable to the Owner for the servicing and administering of the Serviced Assets in accordance with the provisions hereof without diminution of such obligation and liability by virtue of the appointment of such Sub-Servicer and to the same extent and under the same terms and conditions as if the Servicer alone were servicing and administering the Serviced Assets.
+
+(b) The Servicer shall be entitled to terminate the subservicing of the Serviced Assets by any Sub-Servicer so appointed at any time in its sole discretion, provided, that any subservicing agreement entered into by Servicer with any such Sub-Servicer shall terminate by its terms no later than thirty (30) days after the Servicer is terminated as the servicer under this Agreement.
+
+(c) Each Sub-Servicer shall be entitled to compensation for its services as a Sub-Servicer as agreed to by the Servicer and such Sub-Servicer provided that any sub-servicing fees payable to the Sub-Servicer in respect of its servicing activities shall be payable out of the Servicing Fee.
+
+(d) Any subservicing arrangement that may be entered into and any other transactions or services relating to the Serviced Assets involving a Sub-Servicer in its capacity as such shall be deemed to be solely between the Sub-Servicer and the Servicer alone, and the Owner shall not be deemed party thereto and shall have no claims, rights, obligations, duties, or liabilities with respect to the Sub-Servicer in such capacity.
+
+(e) The Owner may, from time to time, enter into Collection Agency Agreements with Collection Agents for the collection of delinquent or defaulted accounts. Any such Collection Agent shall not be deemed a "Sub-Servicer" hereunder and the Servicer shall have no liability with respect to the acts or omissions of any such Collection Agent. Any Collection Fees shall be paid directly by the Owner in accordance with the Loan Agreement. Notwithstanding the foregoing, the Servicer shall cooperate with the Owner and provide such assistance as is reasonably necessary to transfer servicing of applicable Serviced Assets to the related Collection Agent.
+
+Section 11. Representations and Warranties of the Servicer. The Servicer hereunder hereby makes the following representations and warranties as of the date hereof, and as of the date of the delivery of each Monthly Servicing Report, on which representations and warranties the Owner shall be deemed to rely in entering into this Agreement:
+
+(a) Organization. It is an organization validly existing and in good standing under the laws of, and is duly qualified to do business in, the jurisdiction of its incorporation or organization and has, in all material respects, full power and authority to own its properties and conduct its business as presently owned or conducted, and to execute, deliver and perform its obligations under this Agreement and each other Loan Document to which it is a party.
+
+(b) Due Qualification. It is in good standing and duly qualified to do business (or is exempt from such requirements) and (i) the Servicer has obtained all necessary licenses and approvals in each jurisdiction in which it is performing the primary servicing function for any of the Serviced Assets under this Agreement (or has determined that such licenses are not required) or (ii) each Sub-Servicer has represented and warranted to the Servicer that such Sub-Servicer has obtained all necessary licenses and approvals in each jurisdiction in which such Sub-Servicer is performing the primary servicing function for any of the Serviced Assets under this Agreement, except where the failure to so qualify or obtain licenses or approvals would not have a material adverse effect on its ability to execute and deliver, or perform under, this Agreement or any other Loan Document to which it is a party.
+
+
+
+
+
+(c) Due Authorization. The execution, delivery, and performance by it of this Agreement and the other agreements and instruments executed and delivered by it as contemplated hereby, have been duly authorized it by all necessary action on the part of such party.
+
+(d) Binding Obligation. This Agreement and each other Loan Document to which it is a party constitutes a legal, valid and binding obligation of such party, enforceable in accordance with its terms, except as such enforceability may be limited by applicable Debtor Relief Laws or by general principles of equity (whether considered in a proceeding at law or in equity).
+
+(e) No Conflict. The execution and delivery of this Agreement and each Loan Document to which it is a party by it, and the performance by it of the transactions contemplated by this Agreement and the fulfillment by it of the terms hereof and thereof applicable to such party, will not conflict with, violate or result in any breach of any of the terms and provisions of, or constitute (with or without notice or lapse of time or both) a default under, any material indenture, contract, agreement, mortgage, deed of trust or other instrument to which it is a party or by which it or its properties are bound.
+
+(f) No Violation. The execution and delivery by it of this Agreement and each other Loan Document to which it is a party, the performance by it of the transactions contemplated by this Agreement and each other Loan Document to which it is a party and the fulfillment by it of the terms hereof and thereof applicable to such party will not conflict with or violate any Applicable Law applicable to such party.
+
+(g) No Proceedings. Servicer is not a party to any material pending or threatened action, suit, proceeding or investigation related to its respective business, (ii) there is no pending or, to the knowledge of Servicer, threatened action, suit, proceeding or investigation involving Servicer or its respective business that could reasonably be expected to prevent or materially delay the consummation by Servicer of the transactions contemplated herein, (iii) Servicer has not had any reason to believe that any material action, suit, proceeding or investigation may be brought or threatened against its business, (iv) Servicer is not a party or subject to any order, writ, injunction, judgment or decree of any Governmental Authority, (v) there is no action, suit, proceeding or investigation initiated by Servicer currently pending and (vi) Servicer has not had any existing accrued and/or unpaid indebtedness or similar obligations to any Governmental Authority or any other governmental payor.
+
+(h) Compliance with Laws. Servicer (i) is in compliance with all Applicable Law, and (ii) is not in violation of any order of any Governmental Authority or other board or tribunal, except, in the case of both (i) and (ii), where noncompliance or violation could not reasonably be expected to be, have or result in a material adverse effect on its ability to execute and deliver, or perform under, this Agreement or any other Loan Document to which it is a party. Servicer has not received any notice that Servicer is not in material compliance in any respect with any of the requirements of any of the foregoing. Servicer has maintained in all material respects all records required to be maintained by any applicable Governmental Authority.
+
+(i) Foreign Assets Control Regulations and Anti-Money Laundering. Servicer is in compliance in all material respects with all applicable U.S. economic sanctions laws, Executive Orders and implementing regulations as promulgated by the U.S. Department of the Treasury Office of Foreign Assets Control ("OFAC"), and all applicable anti-money laundering and counter-terrorism financing provisions of the Bank Secrecy Act and all regulations issued pursuant to it. Servicer is not (i) a Person designated by the U.S. government on OFAC's list of Specially Designated Nationals and Blocked Persons (the "SDN List"), (ii) a Person who is otherwise the target of U.S. economic sanctions laws such that a U.S. Person cannot deal or otherwise engage in business transactions with such Person or (iii) controlled by (including by virtue of such Person being a director or owning voting shares or interests), or acts, directly or indirectly, for or on behalf of, any Person on the SDN List or a foreign government that is the target of U.S. economic sanctions prohibitions such that the entry into, or performance under, this Agreement or any other Loan Document would be prohibited under U.S. law.
+
+(j) USA PATRIOT Act. Servicer is in compliance in all material respects with (a) the Trading with the Enemy Act, and each of OFAC's foreign assets control regulations and any other enabling legislation or executive order relating thereto, (b) the USA PATRIOT Act and (c) other federal or state laws relating to "know your customer" and anti-money laundering rules and regulations. No part of the proceeds of any Loan (as defined in the Loan Agreement) will be used directly or indirectly for any payments to any government official or employee, political party, official of a political party, candidate for political office, or anyone else acting in an official capacity, in order to obtain, retain or direct business or obtain any improper advantage, in violation of the United States Foreign Corrupt Practices Act of 1977.
+
+Section 12. Notices. Any notice, report or other communication given hereunder shall be in writing, delivered by mail, overnight courier, electronic communication or facsimile and addressed as follows:
+
+(a) if to the Owner, to:
+
+CURO Receivables Finance II, LLC c/o CURO Management LLC 3527 North Ridge Road Wichita, KS 67205 Attention: Don Gayhardt
+
+
+
+
+
+E-Mail: don.gayhardt@curo.com
+
+With a copy to:
+
+CURO Financial Technologies Corp. 3527 North Ridge Road Wichita, KS 67205 Attention: Vin Thomas E-Mail: vinthomas@curo.com
+
+With a copy to the Servicer, at the address provided below.
+
+(b) if to the Servicer, to:
+
+CURO Management LLC 3527 North Ridge Road Wichita, KS 67205 Attention: Don Gayhardt E-Mail: don.gayhardt@curo.com
+
+With a copy to:
+
+CURO Financial Technologies Corp. 3527 North Ridge Road Wichita, KS 67205 Attention: Vin Thomas E-Mail: vinthomas@curo.com
+
+or to such other address as any party shall have provided to the other parties in writing. Any notice required to be delivered hereunder shall be deemed given if such notice is mailed by certified mail, postage prepaid, hand delivered or faxed to the address of such party as provided above.
+
+Section 13. Limitation of Liability; Indemnification.
+
+(a) Except as provided in Section 13(b), neither the Servicer nor any of the directors, officers, partners, members, managers, employees, or agents of the Servicer in its capacity as Servicer shall be under any liability to the Owner or any other Person for any action taken or for refraining from the taking of any action in good faith in its capacity as Servicer in accordance with this Agreement; provided, however, that this provision shall not protect the Servicer or any such Person against contractual liability under this Agreement for any breach of warranties or representations made herein, or any failure to perform any express contractual duties set forth herein, or any liability which would otherwise be imposed by reason of willful misfeasance, bad faith or negligence in the performance of its duties hereunder. The Servicer and any director, officer, employee, partner, member or manager or agent of the Servicer may rely in good faith on any document of any kind prima facie properly executed and submitted by any Person (other than the Servicer) respecting any matters arising hereunder. The Servicer shall not be under any obligation to appear in, prosecute or defend any legal action which is not incidental to its duties as Servicer in accordance with this Agreement and which in its reasonable judgment may involve it in any material expense or liability. In furtherance of its obligations hereunder, the Servicer may, in its sole discretion, undertake any such legal action which it may deem necessary or desirable for the benefit of the Owner with respect to this Agreement and the rights and duties of the parties hereto and the interests of the Owner hereunder.
+
+(b) Subject to Section 13(a), the Servicer shall indemnify and hold harmless the Owner, the Agent, each Lender and their respective directors, officers, employees, partners, members or managers and agents (each, an "Indemnified Person") from and against any and all loss, liability, claim, action, suit, cost, expense, damage or injury, of any kind and nature whatsoever, including any judgment, award, settlement, fines, reasonable attorneys' fees and other costs or expenses incurred in connection with the defense of any action, Proceeding, investigation or claim (any of the foregoing, "Losses") suffered or sustained by any of them by reason of any acts or omissions of the Servicer which are in breach of this Agreement or which arise by reason of willful misfeasance, bad faith or negligence in the Servicer's performance of its duties hereunder; provided that the Servicer shall not be obligated to indemnify any such Indemnified Person for any Losses that arise from the negligence or willful misconduct of such Indemnified Person or its affiliates, directors, officers, employees, partners, members, managers or agents.
+
+Section 14. Amendments. This Agreement may be amended from time to time by a writing signed by the Servicer and the Owner, with the prior written consent of the Agent so long as the Loan Agreement remains outstanding.
+
+Section 15. Successors and Assigns. This Agreement shall be binding on the parties' successors and assigns.
+
+
+
+
+
+Section 16. Governing Law. THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK, WITHOUT REFERENCE TO ITS CONFLICT OF LAW PROVISIONS (OTHER THAN SECTION 5-1401 OF THE GENERAL OBLIGATIONS LAW), AND THE OBLIGATIONS, RIGHTS AND REMEDIES OF THE PARTIES HEREUNDER SHALL BE DETERMINED IN ACCORDANCE WITH SUCH LAWS.
+
+Section 17. Headings. The section headings hereof have been inserted for convenience of reference only and shall not be construed to affect the meaning, construction or effect of this Agreement.
+
+Section 18. Counterparts. This Agreement and any waiver or amendment hereto may be executed in counterparts and by the parties hereto in separate counterparts, each of which when so executed and delivered shall be an original, but all of which shall together constitute one and the same instrument. This Agreement and each of the other Loan Documents may be executed and delivered by facsimile, portable document format (.pdf), or other Electronic Transmission all with the same force and effect as if the same was a fully executed and delivered original manual counterpart. Delivery of an executed electronic signature page of this Agreement and each of the other Loan Documents by facsimile, portable document format (.pdf), or Electronic Transmission shall be as effective as delivery of a manually executed counterpart hereof and each party to this Agreement and each of the other Loan Documents agrees that it will be bound by its own signature and that it accepts the facsimile, portable document format (.pdf), or other electronic signature of each other party to this Agreement and each of the other Loan Documents. For the avoidance of doubt, the authorization under this paragraph may include, without limitation, use or acceptance by the Administrative Agent of a manually signed paper Agreement or any Loan Document which has been converted into electronic form (such as scanned portable format (.pdf)), or an electronically signed Agreement or any Loan Document converted into another format, for transmission, delivery and/or retention. The Administrative Agent may, at its option, create one or more copies of such Agreement in an electronic form ("Electronic Copy"), which shall be deemed created in the ordinary course of the Administrative Agent's business, and destroy the original paper document. Administrative Agent may also require that any such documents and signatures be confirmed by a manually signed original thereof; provided, however, that the failure to request or deliver the same shall not limit the effectiveness of any facsimile, portable document format (.pdf), or other Electronic Transmission document or signature. The words "execution," "executed," "signed," "signature," and words of like import in this paragraph shall be deemed to include electronic signatures or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act.
+
+"Electronic Transmission" means each document, instruction, authorization, file, information and any other communication transmitted, posted or otherwise made or communicated by electronic mail ("e-mail") or E-Fax, or otherwise to or from an electronic system or other equivalent service.
+
+Section 19. Severability. Any provision of this Agreement that is prohibited or unenforceable in any jurisdiction shall be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+Section 20. Non-Petition. Notwithstanding any prior termination of the Owner or this Agreement, the Servicer shall not at any time with respect to the Owner, acquiesce, petition or otherwise invoke or cause the Owner to invoke the process of any court or governmental authority for the purpose of commencing or sustaining a case against the Owner under any federal or state bankruptcy, insolvency or similar law or appointing a receiver, conservator, liquidator, assignee, trustee, custodian, sequestrator or other similar official of the Owner or any substantial part of its property, or ordering the winding up or liquidation of the affairs of the Owner.
+
+Section 21. Third-Party Beneficiary. Notwithstanding anything to the contrary in this Agreement, both the Owner and Servicer agree that the Agent shall be deemed to be a third-party beneficiary of this Agreement and has the authority to enforce the provisions hereof.
+
+[Signature page follows.]
+
+1
+
+123012898v2 123012898v4
+
+
+
+
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be duly executed and delivered as of the day and year first above written.
+
+CURO RECEIVABLES FINANCE II, LLC, a Delaware limited liability company
+
+By: /s/Don Gayhardt Name: Donald F. Gayhardt Jr. Title: President & Chief Executive Officer
+
+CURO MANAGEMENT, LLC, as Servicer
+
+By: /s/Don Gayhardt Name: Donald F. Gayhardt Jr. Title: President & Chief Executive Officer
+
+
+
+
+
+ANNEX A-- DEFINITIONS
+
+"Affiliate" has the meaning set forth in the Loan Agreement.
+
+"Agent" means Midtown Madison Management LLC, as agent under the Loan Agreement.
+
+"Applicable Law" has the meaning set forth in the Loan Agreement.
+
+"Bank Receivable" has the meaning set forth in the Loan Agreement.
+
+"Business Day" has the meaning set forth in the Loan Agreement.
+
+"Collection Agency Agreement" means a written agreement between the Owner and a Collection Agent.
+
+"Collection Agent" means any collection agent retained by the Owner from time to time.
+
+"Collection Fees" means any fees, expenses, reimbursements and other compensation payable to a Collection Agent by the Owner pursuant to a Collection Agency Agreement.
+
+"Collections" has the meaning set forth in the Loan Agreement.
+
+"Governmental Authority" has the meaning set forth in the Loan Agreement.
+
+"Lender" has the meaning set forth in the Loan Agreement.
+
+"Liabilities" is defined in Section 2(c).
+
+"Loan Agreement" means the Loan and Security Agreement, dated as of April 8, 2020, by and among the Owner, the Lenders and the Agent.
+
+"Loan Document" has the meaning set forth in the Loan Agreement.
+
+"Monthly Servicing Report" has the meaning set forth in the Loan Agreement.
+
+"OFAC" is defined in Section 11(i). "Owner" is defined in the preamble of this Agreement. "Participation Interest" has the meaning set forth in the Loan Agreement.
+
+"Payment Date" has the meaning set forth in the Loan Agreement.
+
+"Person" has the meaning set forth in the Loan Agreement.
+
+
+
+
+
+"Proceeding" shall mean any suit in equity, action at law or other judicial or administrative proceeding.
+
+"Receivable" has the meaning set forth in the Loan Agreement.
+
+"SDN" is defined in Section 11(i).
+
+"Serviced Asset" means (a) each Receivable owned by the Borrower, (b) each Participation Interest owned by the Borrower and (c) each Bank Partner Receivable related to a Participation Interest owned by the Borrower.
+
+"Servicer" is defined in the preamble of this Agreement. "Servicer Indemnified Parties" is defined in Section 2(c).
+
+"Servicing Fee" means, for any Servicing Period, an amount equal to the product of (a) 2.00%, (b) the daily average Receivable Balance of all Receivables serviced hereunder during such Servicing Period, and (c) a fraction, the numerator of which is the number of calendar days during such Servicing Period and the denominator of which is 360.
+
+"Servicing Period" means a calendar month.
+
+"Servicing Standard" is defined in Section 1(b).
+
+"Sub-Servicer" is defined in Section 10(a).

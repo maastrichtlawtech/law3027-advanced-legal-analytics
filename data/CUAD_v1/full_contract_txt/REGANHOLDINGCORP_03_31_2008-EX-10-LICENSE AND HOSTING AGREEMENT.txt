@@ -1,0 +1,379 @@
+Exhibit 10(l)
+
+LICENSE AND HOSTING AGREEMENT
+
+THIS LICENSE AND HOSTING AGREEMENT ("Agreement") is made effective as of the 17t h day of October, 2007 ("Effective Date"), by and between Transaction Applications Group, Inc., a Nebraska corporation ("TAG"), and Legacy Marketing Group, Inc., a California corporation ("LMG").
+
+BACKGROUND. This Agreement is the License and Hosting described in  Section 1.5 of the Asset Purchase Agreement between the parties dated the date hereof (the "Purchase Agreement"). It describes the terms and conditions under which TAG will Use and access the LMG Tools, CSC Software and Other Third Party Software until the date that is six (6) months after transition of the TPA Services for the New Customers from LMG's software and systems to TAG's software and systems. ("Conversion Date") or such other date as is specified in Exhibit A. Capitalized terms used but not defined in this Agreement shall have the meaning given them in the Purchase Agreement.
+
+NOW, THEREFORE, in consideration of the mutual benefits to be derived and the representations and warranties, conditions and promises herein contained, and intending to be legally bound hereby, LMG and TAG agree as follows:
+
+ARTICLE I AGREEMENT AND DEFINITIONS
+
+Agreement. The parties agree that the terms and conditions of this Agreement apply to the provision of LMG Tools, CSC Software, Other Third Party Software and LMG Services to TAG by LMG.
+
+Certain Definitions. The following definitions apply to this Agreement:
+
+"Applicable Specifications" means the functional, performance, operational, compatibility, and other specifications or characteristics of the LMG Tools, CSC Software and Other Third Party Software described in the applicable Documentation or necessary for TAG to provide the TPA Services to the New Customers and perform its obligations under the New Customer Contracts.
+
+"CSC Software" means the computer programs identified in  Exhibit A licensed by LMG from Computer Sciences Corporation ("CSC"), including object code (including microcode) and/or where available to LMG source code, that are provided or to be provided by LMG pursuant to this Agreement. The definition of CSC Software also includes any enhancements, translations, modifications, updates, releases, or other changes to CSC Software.
+
+"Documentation" means user guides, operating manuals, education materials, product descriptions and specifications, technical manuals, supporting materials, and other information relating to the LMG Tools, CSC Software and Other Third Party Software or used in conjunction with the TPA Services, whether distributed in print, magnetic, electronic, or video format.
+
+
+
+
+
+"LMG Tools" means the LMG-developed computer programs identified in  Exhibit A, including, where applicable object code (including microcode) and/or source code, that are provided or to be provided by LMG pursuant to this Agreement. The definition of LMG Tools also includes any enhancements, translations, modifications, updates, releases, or other changes to LMG Tools.
+
+"LMG Services" means the support, hosting and other services, functions and responsibilities provided or to be provided by LMG pursuant to this Agreement.
+
+"Other Third Party Software" means the computer programs identified in Exhibit A licensed by LMG from third parties other than CSC, including object code (including microcode) and/or where available to LMG source code, that are provided or to be provided by LMG pursuant to this Agreement. The definition of Other Third Party Software also includes any enhancements, translations, modifications, updates, releases, or other changes to Other Third Party Software.
+
+ARTICLE II LICENSE OF LMG TOOLS
+
+Grant of License. LMG grants TAG a worldwide, nonexclusive, irrevocable, perpetual license to load, execute, access, employ, use, store, or display ("Use") the object code version of the LMG Tools and Documentation (the "License") for the period specified in Exhibit A in accordance with the terms and conditions of this Agreement.
+
+TAG may Use the LMG Tools and Documentation solely to provide TPA Services to or for the New Customers and Terminated Customers, and perform its obligations under the Administrative Services and Teaming Agreement, New Customer Contracts and Subcontracts including performing disaster recovery, disaster testing, and backup as TAG deems necessary.
+
+The License grant includes a license under all current and future patents owned by or licensed to LMG that are applicable to the LMG Tools and Documentation or the provision or receipt of the LMG Services, to the extent necessary to exercise any of the foregoing rights.
+
+LMG acknowledges and agrees that the New Customers may have access to and Use of the LMG Tools and Documentation under the terms of the New Customer Contracts.
+
+The License also includes the right to Use the source code version of LMG Tools in accordance with the terms and conditions of Section 3.7.
+
+Except as specified in this Agreement, the License does not permit TAG to sublicense, rent or allow third parties to Use the LMG Tools or Documentation.
+
+Proprietary Markings and Duplication. TAG shall not remove or destroy any proprietary markings or proprietary legends placed upon or contained within the LMG Tools or Documentation. TAG may duplicate Documentation, at no additional charge, for TAG's Use or for Use by a TAG in connection with the provision of LMG Tools so long as all required proprietary markings are retained on all duplicated copies.
+
+2
+
+
+
+
+
+Ownership of LMG Tools and Modifications. The LMG Tools and Documentation shall be and remain the property of LMG, and TAG shall have no right or interest therein except as set forth in this Agreement. TAG shall be entitled to modify the LMG Tools and Documentation and to develop software derivative of or interfacing with the LMG Tools. All modifications of and software derivative of the LMG Tools and Documentation developed by TAG shall be and remain the property of TAG, and LMG shall have no rights or interests therein.
+
+Protection of LMG Tools. TAG will treat the LMG Tools and Documentation with the same degree of care and confidentiality that TAG provides for similar information belonging to TAG which TAG does not wish disclosed to the public, but not less than reasonable care. This provision shall not apply to LMG Tools or Documentation, or any portion thereof, which is (a) already known by TAG without an obligation of confidentiality, (b) publicly known or becomes publicly known through no unauthorized act of TAG, (c) rightfully received from a third party without obligation of confidentiality, (d) disclosed without similar restrictions by LMG to a third party, (e) approved by LMG for disclosure, or (f) required to be disclosed pursuant to a requirement of a governmental agency or law so long as TAG provides LMG with timely prior written notice of such requirement. It will not be a violation of this Section 2.4 if TAG provides access to and the Use of the LMG Tools or Documentation to any third party contractor so long as TAG secures execution by such third party contractor of a confidentiality agreement as would normally be required by TAG.
+
+ARTICLE III SUPPORT AND HOSTING SERVICES
+
+CSC Software. LMG will maintain, through the Conversion Date, its existing license for the CSC Software and provide TAG access to and an irrevocable "look access only" right and license to use the CSC Software and applicable Documentation. Contemporaneously with the execution of this Agreement, TAG, LMG and CSC shall execute a nondisclosure and non-use agreement granting TAG a license in the CSC Software sufficient for TAG to perform the TPA Services and otherwise satisfy its obligations under the New Customer Contracts, Subcontracts and Administrative Services and Teaming Agreement (the "CSC Agreement"). TAG's use of, and LMG's rights regarding, the CSC Software will be governed by the terms of the CSC Agreement and not the terms of this Agreement. At TAG's request, LMG shall exercise and make available to TAG all rights and benefits available to it under LMG's existing license with CSC including LMG's rights to receive error corrections, support, maintenance and upgrades to or for the CSC Software.
+
+Other Third Party Software. LMG will maintain, through the Conversion Date or such other date as is specified in Exhibit A, its existing licenses for the Other Third Party Software and provide TAG access to and an irrevocable "look access only" right and license to use the Other Third Party Software and applicable Documentation. LMG, with the reasonable cooperation of TAG, will obtain from the applicable third party vendors all licenses, consents, authorizations and approvals that are necessary or appropriate for TAG to so Use the Other Third Party Software for purposes of performing the TPA Services and fulfilling its obligations under the New Customer Contracts, Subcontracts and Administrative Services and Teaming Agreement.  At TAG's request, LMG shall exercise and make available to TAG all rights and benefits available to it under LMG's existing license with the applicable third party vendors including LMG's rights to receive error corrections, support, maintenance and upgrades to or for the Other Third Party Software.
+
+3
+
+
+
+
+
+Support Services. LMG shall provide the following with respect to the LMG Tools, CSC Software, Other Third Party Software and Documentation for the period specified in Exhibit A:
+
+LMG shall provide (or will cause the third party vendor to provide) to TAG all error corrections and all operational and support assistance necessary to cause the LMG Tools, CSC Software and Other Third Party Software to perform in accordance with their Applicable Specifications. LMG shall also provide remedial support designed to provide a by-pass or temporary fix to a defect until the defect can be permanently corrected.
+
+LMG shall provide (or will cause the third party vendor to provide) to TAG all upgrades, modifications, improvements, enhancements, extensions, and other changes to LMG Tools developed by LMG.
+
+LMG shall provide (or will cause the third party vendor to provide) to TAG any revisions to the existing Documentation developed for the LMG Tools, CSC Software and Other Third Party Software or necessary to reflect all corrections, updates, upgrades, modifications, improvements, enhancements, extensions or other changes thereto.
+
+LMG shall provide training to TAG with respect to the use of the LMG Tools, Other Third Party Software and Documentation as reasonably requested by TAG.
+
+Hosting Services. LMG shall host the LMG Tools, CSC Software and Other Third Party Software at its existing data center facility in Petaluma, California for the period specified in Exhibit A. Except for downtime for scheduled maintenance, LMG shall make the LMG Tools, CSC Software and Other Third Party Software available to users between 7:00 a.m. to 9:00 p.m. Eastern Time. Notice of scheduled maintenance shall be provided to TAG via email at least ten (10) days before the scheduled maintenance. LMG shall be financially and operationally responsible for the hosting environment including maintenance, repair, replacement and upgrade, and the performance, availability, reliability, compatibility and interoperability of the LMG Tools, CSC Software, Other Third Party Software and hosting environment. LMG shall provide the hosting services through a dedicated telecommunications connection to TAG. The equipment, connectivity and other items located at LMG's existing data center facility in Petaluma, California that is described in Exhibit C to the Administrative Services and Teaming Agreement are included within the hosting environment and access to be provided by LMG under this Section 3.4.
+
+Retained LMG Personnel. LMG shall exercise commercially reasonable efforts to maintain the employment of the LMG employees identified in Exhibit B ("Retained Employees") for the estimated retention period specified in Exhibit B or such other period as TAG may reasonably request ("Retention Period"). LMG shall cause them to devote the same amount of time and attention to the performance of the services under this Agreement as they presently devote to such services.  In all events, LMG shall retain a sufficient number of qualified personnel to perform the LMG Services. The Retained Employees shall be employees of LMG for all purposes.  LMG shall be solely responsible for funding and distributing benefits under the benefit plans in which the Retained Employees participate and for paying any compensation and remitting any income, disability, withholding and other employment taxes for such Retained Employees. For clarity, the foregoing shall not affect TAG's obligation to reimburse LMG for the costs specifically identified as reimbursable by TAG during the period, and under the terms and conditions, set forth in  Sections 4.1 and  4.2 of this Agreement.
+
+4
+
+
+
+
+
+Reports. LMG shall provide TAG with reports pertaining to the performance of the LMG Services and LMG's other obligations under this Agreement that permit TAG to perform the TPA Services and monitor and manage LMG's performance. Without limitation, TAG may identify reports to be generated by LMG and delivered to TAG on an ad hoc or periodic basis.
+
+Source Code. Upon TAG's request, LMG will promptly provide to TAG one copy of the most current version of the source code for the LMG Tools. Thereafter, LMG will promptly and continuously update and supplement the source code as necessary with all revisions, corrections, enhancements, and other changes that LMG has developed for the LMG Tools.  If LMG breaches this Agreement or no longer provides the LMG Services for the LMG Tools, then LMG or its authorized agent will promptly provide to TAG one copy of the most current version of the source code for the LMG Tools, the License shall include the right to Use the source code version of the LMG Tools received under this Section as necessary to modify, maintain, and update the LMG Tools in accordance with the terms and conditions of this Agreement.
+
+Continued Performance. LMG understand that TAG requires Use of the LMG Tools, CSC Software, Other Third Party Software, Documentation and LMG Services in order to perform the TPA Services for the New Customers. Accordingly, LMG agrees that LMG will perform its obligations under this Article in a manner that does not degrade, diminish or otherwise interfere with the TPA Services or result in any default by, or liability of, TAG under the New Customer Contracts (including any default or liability with respect to service levels or quality of service). Without limitation, LMG shall not under any circumstance, even during a dispute, suspend, terminate, diminish or degrade the performance of the LMG Tools, CSC Software, Other Third Party Software or LMG Services, or attempt or threaten to do the same.
+
+ARTICLE IV CHARGES
+
+Reimbursement Generally.  In consideration of the LMG Services and other obligations to be performed by LMG under this Agreement, TAG will reimburse LMG for the following items.
+
+reasonable actual salary and direct benefits, consistent with past practice, paid to or on behalf of the Retained Employees during their Retention Period; provided that the total amount to be reimbursed under this Section 4.1(a) shall not exceed $783,367 per quarter, pro-rated for the number of days in any partial quarter of the Term,
+
+any retention bonuses, salary increases (including for replacement personnel) or other change agreed to by the parties, and
+
+during the period between the Effective Date and the date specified in Exhibit A, the designated percentage identified in Exhibit A of the reasonable actual out-of-pocket costs for the CSC Software and Other Third Party Software provided that the total amount to be reimbursed under this Sections 4.1(c) and Section 4.2 of the Administrative Services and Teaming Agreement shall not exceed the applicable amount identified in Section 4.2 of the Administrative Services and Teaming Agreement.
+
+5
+
+
+
+
+
+The parties acknowledge that since not all of the Retained Employees will be dedicated solely to the performance of services under this Agreement, TAG will reimburse LMG only for a pro rata portion of the above-described salary and benefits based upon the documented and verifiable percentage of their working hours spent performing services for TAG.
+
+4.2 Conditions of Reimbursement.
+
+TAG shall have the right to approve any changes to the salary, benefits or other compensation of the Retained Employees and any new contracts, extensions or other changes to or for the items for which it is reimbursing LMG.  Such approval shall not be unreasonably withheld. LMG will advise TAG of any significant (i.e., more than ten percent (10%)) increase in any reimbursable costs, and TAG shall have the opportunity to require replacement or substitution of new or different sources for the items intended to achieve an overall lower cost.  LMG shall exercise commercially reasonable efforts to minimize such costs and, as a condition to TAG's reimbursement obligations, shall provide such detail and documentation as TAG may reasonably request.
+
+LMG will invoice TAG monthly for its reasonable estimate of the amount due under Section 4.1 for that month. The first such invoice shall be delivered within five (5) days after the Effective Date and shall cover the period between the Effective Date and October 31, 2007. LMG shall reconcile the actual reimbursable costs incurred by TAG for the applicable month with such estimate in the invoice for the next month.
+
+TAG shall make payment within twenty (20) days after receipt of LMG's invoice. Any amount not paid when due will thereafter bear interest at the rate of one percent (1%) per month.
+
+TAG may contest, in good faith, any portion of an invoice and withhold payment of such contested amount, provided that TAG pays the portion of any invoice that it does not contest and attempts to try to resolve the dispute. Once the matter is resolved, TAG shall pay the agreed-upon amount within five (5) days thereafter.
+
+Except as otherwise agreed by the parties in writing, there are no other or additional charges under this Agreement. LMG shall be responsible for all expenses that it may incur in connection with this Agreement. TAG agrees, however, to reimburse LMG for all reasonable and necessary travel and other out-of-pocket expenses that have been pre-approved by TAG in writing.
+
+Extension of Conversion Date. TAG and LMG expect that the Conversion Date will occur on or before October 31, 2009. TAG may extend the Conversion Date to a date that is six (6) months after transition of the TPA Services for the New Customers from LMG's software and systems to TAG's software and systems; provided that the foregoing shall not be construed as requiring the extension of the license to the CSC Software, which the parties acknowledge expires twenty-seven (27) months after the Effective Date under the terms of the CSC Agreement. TAG shall seek to give LMG at least ninety (90) days (but in no event shall provide less than sixty (60) days) prior notice of any such extension.  If the delay was caused by TAG, the parties shall negotiate and agree upon an equitable adjustment to the reimbursable items and limits thereon based upon LMG's increased costs of performing the LMG Services during the extension.
+
+6
+
+
+
+
+
+ARTICLE V WARRANTIES, INDEMNITIES, AND LIABILITIES
+
+Warranty. LMG represents and warrants that:
+
+The LMG Tools, CSC Software, Other Third Party Software and Documentation are and shall be free and clear of all liens and encumbrances, and TAG shall be entitled to Use them without disturbance;
+
+No portion of the LMG Tools, CSC Software and Other Third Party Software contains, at the time of delivery, any "back door," "time bomb," "Trojan horse," "worm," "drop dead device," "virus," or other computer software routines or hardware components designed to (i) permit access or Use of such software or TAG's computer systems by LMG or a third party not authorized by this Agreement, or (ii) disable, damage or erase the software or data;
+
+The LMG Tools, CSC Software and Other Third Party Software and the design thereof shall not contain preprogrammed preventative routines or similar devices which prevent TAG from exercising the rights granted to TAG under this Agreement or from utilizing the software for the purpose for which they were designed; and
+
+Each item of LMG Tools and, to LMG's knowledge, the CSC Software and Other Third Party Software (i) shall be free from defects and (ii) shall function properly under ordinary Use and operate in conformance with its Applicable Specifications and Documentation.
+
+During the period specified in Exhibit A, LMG will provide warranty service to TAG at no additional charge and will include all LMG Services or replacement software necessary to enable LMG to comply with the warranties set forth in this Agreement.
+
+5.2 LMG Infringement Indemnification
+
+LMG represents and warrants that (i) no LMG Tools, CSC Software, Other Third Party Software or Documentation provided under this Agreement is the subject of any claim, dispute, demand or litigation ("Claim"), and (ii) LMG has all right, title, ownership interest, and/or  rights necessary to provide such software and Documentation to TAG and that the License, the LMG Tools and Documentation and their license and Use hereunder do not and shall not directly or indirectly violate or infringe upon any copyright, patent, trade secret, or other proprietary or intellectual property right of any third party or contribute to such violation or infringement ("Infringement"). LMG shall indemnify and hold TAG, its affiliates and their respective successors, officers, directors, employees, and agents harmless from and against any and all actions, claims, losses, damages, liabilities, awards, costs, and expenses including legal fees ("Losses") resulting from or arising out of any breach or claimed breach of the foregoing warranties, or which is based on a claim of an Infringement and LMG shall defend and settle, at its expense, all suits or proceedings arising therefrom. TAG shall inform LMG of any such Claim against TAG and shall have the right to participate in the defense of any such suit or proceeding at its expense and through counsel of its choosing.
+
+7
+
+
+
+
+
+LMG shall notify TAG of any Claims against LMG based on an alleged Infringement of any party's intellectual property rights in and to the LMG Tools, CSC Software, Other Third Party Software or Documentation. In the event an injunction is sought or obtained against Use thereof or in TAG's opinion is likely to be sought or obtained, LMG shall promptly, at its option and expense, either (i) procure for TAG the right to continue to Use the infringing software or Documentation as set forth in this Agreement, or (ii) replace or modify the infringing software or Documentation to make its Use non-infringing while being capable of performing the same function without degradation of performance.
+
+LMG's indemnification obligations under this Section 5.2 will expire twelve (12) months after the Conversion Date.
+
+Notwithstanding the foregoing, LMG shall have no liability or obligation to any of the TAG ndemnities under this  Section 5.2 to the extent the claim of Infringement is caused by TAG's contributions to, misuse of or unauthorized modification of such item.
+
+5.3 TAG Indemnification
+
+TAG shall indemnify and hold LMG, its affiliates and their respective successors, officers, directors, employees, and agents harmless from and against any and all Losses resulting from or arising out of (i) any Infringement by software provided by TAG or PSC or (ii) TAG's contributions to, misuse of or unauthorized modification of LMG Tools, CSC Software, Other Third Party Software or Documentation provided by LMG under this Agreement; provided, however, that TAG shall have no obligation under this Section to the extent (A) the claim or Infringement was the result of LMG's failure to obtain the required consents or approvals for which it is responsible, (B) LMG failed to provide written notice of the duties, obligations or restrictions to which TAG is subject, or (C) TAG's contributions to, use of, modification or other activities is consistent in all material respects with LMG's activities in the twelve (12) months prior to the Effective Date. TAG shall defend and settle, at its expense, all suits or proceedings arising therefrom. LMG shall inform TAG of any such Claim against LMG and shall have the right to participate in the defense of any such suit or proceeding at its expense and through counsel of its choosing.
+
+TAG shall notify LMG of any Claims against TAG described in Section 5.3(a). In the event an injunction is sought or obtained against Use of software provided by TAG or PSC, or in LMG's opinion is likely to be sought or obtained, TAG shall promptly, at its option and expense, either (i) procure for LMG the right to continue to Use the infringing software, or (ii) replace or modify the infringing software to make its Use non-infringing while being capable of performing the same function without degradation of performance.
+
+TAG's indemnification obligations under this Section 5.3 will expire twelve (12) months after the Conversion Date.
+
+Notwithstanding the foregoing, TAG shall have no liability or obligation to any of the LMG ndemnities under this  Section 5.3 to the extent the claim of Infringement is caused by LMG's contributions to, misuse of or unauthorized modification of such item.
+
+Other Indemnification.  LMG shall indemnify and hold TAG, its affiliates and their respective successors, officers, directors, employees, and agents harmless from and against any and all Losses resulting from or arising out of any Claim by New Customers arising from or relating to a breach of LMG's obligations under this Agreement. Notwithstanding the foregoing, LMG shall not be responsible for the claims based upon breach of new or additional obligations agreed to by TAG and the New Customers after the Effective Date without the prior approval of LMG; provided that
+
+8
+
+
+
+
+
+the service levels in the New Customer Contracts, which are based upon, the service levels being achieved by LMG as of the effective date shall not be considered new or additional obligations.  LMG shall defend and settle, at its expense, all suits or proceedings arising therefrom. TAG shall inform LMG of any such Claim against TAG and shall have the right to participate in the defense of any such suit or proceeding at its expense and through counsel of its choosing.
+
+Limitation of Liability. Neither party shall be liable to the other pursuant to this Agreement for any amounts representing loss of profit, loss of business or indirect, consequential, exemplary, or punitive damages of the other party.  The foregoing shall not limit the indemnification, defense and hold harmless obligations set forth in this Agreement other than those set forth in Section 5.4 and shall not apply with respect to damages or losses arising from the wrongful termination of this Agreement by LMG, willful misconduct, gross negligence or breach of LMG's obligations under Section 3. 8.
+
+5.6 Insurance
+
+During the Term of the Agreement, LMG shall maintain and keep in force, at its own expense, the following minimum insurance coverages and minimum limits:
+
+workers' compensation insurance, with statutory limits as required by the various laws and regulations applicable to the employees of LMG;
+
+employer's liability insurance, for employee bodily injuries and deaths, with a limit of $500,000 each accident;
+
+commercial general liability insurance, covering claims for bodily injury, death and property damage, including premises and operations, LMG's vicarious liability for acts of independent contractors, products, services and completed operations (as applicable to the Services), personal injury, contractual, and broad-form property damage liability coverages, with combined single limit of $1,000,000 per occurrence, and a general aggregate limit of $2,000,000, for bodily injury, death and property damage;
+
+commercial automobile liability insurance, covering owned, non-owned and hired vehicles, with combined single limit of $1,000,000 per occurrence;
+
+umbrella liability insurance, with a minimum limit of $5,000,000 per occurrence and $5,000,000 in the aggregate;
+
+special form property insurance, on a replacement cost basis, covering the real and personal property of LMG which LMG is obligated to insure by the Agreement; such real and personal property may include equipment, furniture, fixtures and supply inventory; and
+
+employee dishonesty insurance covering dishonest acts of employees; such insurance shall include a Joint Loss Endorsement in favor of TAG and be written for limits not less than $500,000.
+
+All such policies of insurance of LMG shall provide that the insurer will give at least thirty (30) days prior written notice of cancellation to TAG. No such cancellation or material modification shall affect LMG's obligation to maintain the insurance coverages required by the Agreement. TAG shall be named as an additional insured on the commercial general liability insurance policies described above. All liability insurance policies shall be written on an "occurrence" policy form except for the policies described in (vii) and (viii) above
+
+9
+
+
+
+
+
+which shall be on a "claims made" basis. TAG shall be named as loss payee as its interest may appear on the property insurance policies of LMG. LMG shall be responsible for payment of any and all deductibles from insured claims under its policies of insurance. All required policies of insurance will be placed with insurers with no less than an A.M. Best rating of A- VII. The coverage afforded under any insurance policy obtained by LMG pursuant to the Agreement shall be primary coverage regardless of whether or not TAG has similar coverage. LMG shall not perform under the Agreement without the prerequisite insurance. Upon TAG's request, LMG shall provide TAG with certificates of such insurance including renewals thereof.
+
+The parties do not intend to shift all risk of loss to insurance. The naming of TAG as additional insured is not intended to be a limitation of LMG's liability and shall in no event be deemed to, or serve to, limit LMG's liability to TAG to available insurance coverages or to the policy limits specified in this Section 5.6 nor to limit TAG's rights to exercise any and all remedies available to TAG under contract, at law or in equity.
+
+Survival of Article V. The provisions of this Article V shall survive the term or termination of this Agreement for any reason.
+
+ARTICLE VI TERMINATION
+
+Term. This Agreement shall become effective as of the Effective Date and, unless terminated under this Article, shall continue in effect until the Conversion Date (the "Term"); provided that, with respect to any LMG Tools identified in Exhibit A as having a license term beyond the Conversion Date, TAG's License to, and LMG's obligation to provide LMG Services for, such LMG Tools shall survive for the period specified in Exhibit A.
+
+Termination for Cause. In the event that either party materially defaults in the performance of its duties or obligations set forth in this Agreement, and such default is not cured within thirty (30) days after written notice is given to the defaulting party specifying the default, then the party not in default may, by giving written notice thereof to the defaulting party, terminate the Agreement as of a date specified in such notice of termination.
+
+10
+
+
+
+
+
+Termination for Insolvency or Bankruptcy. Either party may immediately terminate this Agreement by giving written notice to the other party in the event of (a) the liquidation or insolvency of the other party, (b) the appointment of a receiver or similar officer for the other party, (c) an assignment by the other party for the benefit of all or substantially all of its creditors, (d) entry by the other party into an agreement for the composition, extension, or readjustment of all or substantially all of its obligations, or (e) the filing of a meritorious petition in bankruptcy by or against the other party under any bankruptcy or debtors' law for its relief or reorganization.
+
+Termination Assistance. Commencing upon a notice of termination under Section 6.2 or 6.3 (including notice based upon default by TAG) and continuing for a period, designated by TAG, of up to twelve (12) months thereafter, LMG shall provide to TAG the reasonable termination assistance requested by TAG to allow the LMG Services to continue without interruption or adverse effect and to facilitate the orderly transfer of the LMG Services to TAG or its designee ("Termination Assistance"). Termination Assistance shall include the following:
+
+LMG shall provide all such information and assistance as may be necessary for TAG to transition off using the LMG Tools, CSC Software and Other Third Party Software or to install and implement the same.
+
+LMG shall provide TAG with an extract of the Customer Data, including, without limitation, all policyholder and New Customer data.
+
+TAG shall be permitted to undertake, without interference from LMG, to hire any Retained Employees. LMG shall waive its rights, if any, under contracts with such personnel restricting the ability of such personnel to be recruited or hired by TAG; provided that counter-offers and making available positions posted through LMG's placement system and generally available to other LMG employees shall not be prohibited under this Section.  TAG shall have reasonable access to such personnel for interviews and recruitment.
+
+TAG's License to the LMG Tools and subject to the terms of the applicable third party license, CSC Software and Other Third Party Software and Documentation shall survive the termination for the period specified in Exhibit A, and LMG shall provide copies of all Documentation relevant to such license which is in LMG' possession.
+
+At TAG's request, LMG shall exercise commercially reasonable efforts to assign to TAG its license for the CSC Software and any third party licenses for Other Third Party Software, and TAG shall assume the obligations under such licenses that relate to periods after such date. LMG shall also provide all Documentation relevant to such licenses which is in LMG's possession.
+
+At TAG's request (i) assign to TAG leases and other contracts for some or all of the leased equipment included in the hosting environment or otherwise used to provide the LMG Services, and TAG shall assume the obligations under such leases that relate to periods after such date; and (ii) sell to TAG, at LMG's then current book value, some or all of such items owned by LMG. LMG shall also provide all Documentation relevant to such item which is in LMG's possession.
+
+LMG shall obtain any necessary rights and thereafter make available to TAG, pursuant to reasonable terms and conditions, any third party services then being utilized by LMG in the performance of the LMG Services.
+
+11
+
+
+
+
+
+The Parties contemplate that the activities described in this  Section 6.4 shall be completed before the Conversion Date as contemplated in the Administrative Services and Teaming Agreement (i.e., in the ordinary course of the transition projects described therein). If, however, any activities are not completed before the Conversion Date, then notwithstanding anything to the contrary and regardless of whether there has been notice of termination under Section 6.2 or 6.3, LMG shall complete any such activities that are reasonably requested by TAG before the Conversion Date.  LMG's obligations under the foregoing sentence shall survive the expiration of the Term.
+
+Reimbursement for Termination Assistance.
+
+Except as provided in this  Section 6.5, LMG shall perform or provide the Termination Assistance at no additional cost to TAG; provided that for clarity, the foregoing shall not affect TAG's obligation to reimburse LMG for the applicable costs specifically identified as reimbursable by TAG during the period, and under the terms and conditions, set forth in  Sections 4.1 and  4.2 of this Agreement and Section 4.2 of the Administrative Services and Teaming Agreement.  The Parties anticipate that, to the extent possible, the Termination Assistance requested by TAG will be provided by LMG using LMG personnel already performing the LMG Services. If Termination Assistance requested by TAG cannot be provided by LMG using such personnel (or incur costs that LMG would not otherwise incur in the performance of the LMG Services under this Agreement), LMG shall promptly notify TAG of such fact and advise TAG of the required personnel or costs. TAG, in its sole discretion, may forego or delay any work activities or temporarily or permanently adjust the work to be performed by LMG or the schedules associated therewith to permit the performance of such Termination Assistance using such personnel and without additional cost. To the extent TAG authorizes LMG to use additional LMG personnel or incur additional cost to perform material Termination Assistance activities requested by TAG, TAG shall reimburse LMG for its reasonable actual out-of-pocket costs; provided LMG notifies TAG of such costs in advance and TAG's reimbursement shall be subject to the reporting and other conditions set forth in Sections 4.1 and 4.2 of this Agreement and Section 4.2 of the Administrative Services and Teaming Agreement.
+
+LMG will provide Termination Assistance regardless of the reason for the termination; provided that if the LMG terminates this Agreement under Section 6.2 as a result of TAG's failure to pay amounts due LMG under this Agreement or under Section 6.3 as a result of TAG insolvency, LMG may require TAG to pay monthly, in advance, for any costs specifically identified in this Agreement as reimbursable by TAG during the period of Termination Assistance. To the extent TAG is obligated to pay in advance, LMG shall, prior to each month, provide TAG with a reasonable written estimate of the reimbursable costs for such month and LMG shall reconcile the actual reimbursable costs incurred by TAG with such estimate in the invoice for the next month.
+
+12
+
+
+
+
+
+ARTICLE VII CONFIDENTIALITY
+
+General. Each party (a "Receiving Party") agrees that all Confidential Information provided or otherwise made available under this Agreement by the other party (a "Disclosing Party") will be treated as confidential, regardless of whether marked or described as Confidential Information, and all confidentiality notices on that Confidential Information will be retained. In avoiding unauthorized disclosure or use of the Disclosing Party's Confidential Information, the Receiving Party will use at least the same degree of care, but no less than a reasonable degree of care, as it employs concerning its own Confidential Information of similar importance.
+
+Definition.  "Confidential Information" shall mean, with respect to a party, all non-public written, electronic, and oral proprietary information communicated to the other party (or obtained by such other party while at the party's premises) during the Term in connection with this Agreement including information relating to a party's products, services, designs, methodologies, business plans, finances, marketing plans, customers or prospects  and the terms of this Agreement.  Confidential Information will not include information that (a) was known by the Receiving Party without an obligation of confidentiality before its receipt from the Disclosing Party, (b) is independently developed by the Receiving Party, (c) is or becomes publicly available without a breach by the Receiving Party of this Agreement, or (d) is disclosed to the Receiving Party by a third person who is not required to maintain its confidentiality.
+
+Disclosure. The Receiving Party may disclose Confidential Information only to its own officers, directors, and employees and to its consultants, subcontractors, and advisors who reasonably need to know it for the purposes contemplated by this Agreement. The Receiving Party will be responsible to the Disclosing Party for any violation of the provisions of this Article VII by its officers, directors, employees, consultants, subcontractors or advisors.
+
+Use. The Receiving Party may not use the Disclosing Party's Confidential Information for any purpose not in furtherance of this Agreement, unless it obtains the Disclosing Party's prior written authorization.
+
+Reproduction. Except as otherwise provided in writing between the Parties, the Receiving Party may not print, copy or reproduce in any way, in whole or in part, any documents or other media containing the Disclosing Party's Confidential Information, other than copies for its officers, directors, employees, consultants or advisors who reasonably need to know it for the purposes contemplated by this Agreement, without the prior written consent of the Disclosing Party.
+
+Required Disclosure. If the Receiving Party is requested to disclose any of the Disclosing Party's Confidential Information as part of an administrative or judicial proceeding or pursuant to any government or securities exchange rule or regulation, the Receiving Party will, promptly notify the Disclosing Party of that request and cooperate with the Disclosing Party, at the Disclosing Party's expense, in seeking a protective order or similar confidential treatment for the Confidential Information.  If no protective order or other confidential treatment is obtained, the Receiving Party will (a) disclose only that portion of the Confidential Information that is legally required to be disclosed based on the opinion of its counsel and (b) use reasonable efforts to obtain reliable assurance that confidential treatment will be accorded the Confidential Information so disclosed.
+
+13
+
+
+
+
+
+ARTICLE VIII DATA
+
+Definition. "Customer Data" shall mean any data or information of any New Customer or of TAG created under a New Customer Contract that is provided to or obtained by LMG in connection with the performance of its obligations under this Agreement, including data and information with respect to the businesses, policyholders, customers, operations, products, rates, regulatory compliance and finances of any New Customer. Customer Data shall also include any data or information pertaining to any New Customer created, generated, collected or processed by LMG in the performance of its obligations under this Agreement.
+
+TAG Ownership of Customer Data. Customer Data is and shall remain the property of TAG and/or the applicable New Customers. LMG shall promptly deliver Customer Data (or the portion of such Customer Data specified by TAG) to TAG in the format and on the media in which it exists as of the date of the request or in such other format or media as TAG reasonably requests. Upon TAG's request, LMG shall return, destroy or securely erase, as directed by TAG, all copies of the Customer Data in LMG's possession or under LMG's control within thirty (30) business days. LMG shall not withhold Customer Data under any circumstance including as a means of resolving a dispute. Customer Data shall not be utilized by LMG for any purpose other than the performance of the LMG Services and shall not be sold, assigned, leased, commercially exploited or otherwise provided to third parties by or on behalf of LMG or any LMG Personnel. LMG shall not possess or assert any lien or other right against or to Customer Data.
+
+8.3 Safeguarding Customer Data.
+
+LMG shall establish and maintain procedures and other safeguards against the destruction, loss, unauthorized access or alteration of Customer Data in the possession of LMG which are (i) no less rigorous than those maintained by LMG as of the Effective Date, and (ii) adequate to meet the requirements of the New Customer Contracts and applicable laws.  In the event LMG discovers or is notified of a breach or attempted breach of security relating to Customer Data, LMG shall (A) expeditiously notify TAG of such breach or attempted breach, (B) investigate such breach or attempted breach, (C) remediate the effects of such breach or attempted breach of security, and (D) provide TAG with such assurances as TAG shall request that such breach or attempted breach will not recur.
+
+At TAG's request, LMG shall restore all destroyed, lost or altered Customer Data. Unless TAG has caused the destruction, loss or alteration, LMG shall be responsible for the cost of restoring such data.
+
+File Access. TAG shall have unrestricted access to, and the right to review and retain the entirety of, all computer or other files containing Customer Data, as well as all systems and network logs, system parameters and documentation. At no time shall any of such files or other materials or information be stored or held in a form or manner not immediately accessible to TAG.
+
+14
+
+
+
+
+
+ARTICLE IX DISASTER RECOVERY
+
+LMG shall maintain a disaster recovery plan and a business continuity plan, and the necessary resources and capabilities covering the data center facilities used by LMG to operate all of the LMG Tools, CSC Software and Other Third Party Software, to fully perform the LMG Services under this Agreement in accordance with its terms and the terms of the New Customer Contracts. The plans will be made available to TAG for review upon TAG's request. LMG agrees that it will (a) test the plans at least once every calendar year during the Term hereof, and certify to TAG that such plans are fully operational, and (b) consult with TAG regarding the priority to be given to the LMG Services during any such disaster. When implemented by LMG, the plans shall enable LMG to provide all of the LMG Services within the recovery time objectives required under the New Customer Contracts. The occurrence of a Force Majeure event shall not relieve LMG of its obligation to implement its disaster recovery and business continuity plans and provide disaster recovery and business continuity services.
+
+ARTICLE X MISCELLANEOUS
+
+Binding Nature, Assignment, and Subcontracting. This Agreement shall be binding on the parties and their respective successors in interest and assigns, but neither party shall have the power to assign this Agreement without the prior written consent of the other party. LMG may not subcontract or delegate any of its duties or obligations of performance in this Agreement to any third party without the prior written consent of TAG. If TAG grants such consent, LMG shall remain fully responsible for complete performance of all of LMG's obligations set forth in this Agreement and for any such third party's compliance with the confidentiality and other provisions set forth in this Agreement.
+
+Media Releases. Except for any announcement intended solely for internal distribution by a party or any disclosure required by legal, accounting, or regulatory requirements beyond the reasonable control of the party, all media releases, public announcements, or public disclosures (including, but not limited to, promotional or marketing material) by a party, its affiliates, employees or agents relating to this Agreement or its subject matter, or including the name, trade name, trade mark, or symbol of a party or any affiliate of a party, shall be coordinated with and approved in writing by that party prior to the release thereof.
+
+Notices. All notices which are required to be given pursuant to this Agreement shall be in writing and shall be delivered by first class mail postage prepaid, sent by overnight express or similarly recognized overnight delivery with receipt acknowledged or by facsimile, with a copy thereof sent by one of the other means. Notices shall be deemed to have been given at the time delivered and shall be addressed as follows or to such other address as a party may designate by proper notice hereunder:
+
+if to TAG: with copies to: Transaction Applications Group, Inc. 421 South 9th Street, Suite 222 Lincoln, Nebraska 68508 Attention: President
+
+Perot Systems Corporation 2300 West Plano Parkway Plano, Texas 75075 Attn: Thomas D. Williams     if to LMG: Legacy Marketing Group, Inc. 2090 Marina Avenue Petaluma, CA 94954 Attention: President
+
+with copies to: Stokes Lazarus & Carmichael LLP 80 Peachtree Park Drive N.E. Atlanta, GA 30309 Attention: Michael Ernst, Esquire
+
+15
+
+
+
+
+
+Force Majeure. The term "Force Majeure" shall mean fires or other casualties or accidents, acts of God, severe weather conditions, strikes or labor disputes, war or other violence, or any law, order, proclamation, regulation, ordinance, demand, or requirement of any governmental agency. A party whose performance is prevented, restricted, or interfered with by reason of a Force Majeure condition shall be excused from such performance to the extent of such Force Majeure condition so long as such party provides the other party with prompt written notice describing the Force Majeure condition and takes all reasonable steps to avoid or remove such causes of nonperformance and immediately continues performance whenever and to the extent such causes are removed.
+
+Severability. If, but only to the extent that, any provision of this Agreement is declared or found to be illegal, unenforceable, or void, then both parties shall be relieved of all obligations arising under such provision, it being the intent and agreement of the parties that this Agreement shall be deemed amended by modifying such provision to the extent necessary to make it legal and enforceable while preserving its intent. If that is not possible, another provision that is legal and enforceable and achieves the same objective shall be substituted.  If the remainder of this Agreement is not affected by such declaration or finding and is capable of substantial performance, then the remainder shall be enforced to the extent permitted by law.
+
+Dispute Resolution. In the event of any disagreement regarding performance under or interpretation of this Agreement and prior to the commencement of any formal proceedings, the parties shall continue performance as set forth in this Agreement and shall attempt in good faith to reach a negotiated resolution by designating a representative of appropriate authority to resolve the dispute.
+
+Waiver. Any waiver of this Agreement or of any covenant, condition, or agreement to be performed by a party under this Agreement shall (a) only be valid if the waiver is in writing and signed by an authorized representative of the party against which such waiver is sought to be enforced, and (b) apply only to the specific covenant, condition or agreement to be performed, the specific instance or specific breach thereof and not to any other instance or breach thereof or subsequent instance or breach.
+
+Remedies. All remedies set forth in this Agreement, or available by law or equity shall be cumulative and not alternative, and may be enforced concurrently or from time to time. If LMG breaches its obligations under Section 3.8, TAG will be irreparably harmed. In such a circumstance, TAG may proceed directly to court and, without any additional findings of irreparable injury or other conditions to injunctive relief, LMG shall not oppose the entry of an order compelling performance by LMG and restraining it from any further breaches. In addition to any other remedies available under this Agreement, with respect to any amounts to be paid or reimbursed by TAG or PSC hereunder or under the LMG Documents that are not paid or reimbursed when due, TAG and/ or PSC may, upon ten (10) days prior notice, set off against such amount any amount that LMG is obligated to pay or credit to TAG or PSC hereunder or under the LMG Documents.  For clarity, the foregoing shall not apply to, and TAG and PSC shall not seek to set-off against, commission payments to be paid to LMG producers and agents and other amounts held by TAG in its administrative capacity under the New Customer Contracts and Subcontracts.
+
+Compliance with Laws. In the performance of LMG Services or the provision of LMG Tools and Documentation pursuant to this Agreement, LMG shall comply with the requirements of all applicable laws, ordinances, and regulations of the United States or any state, country, or other governmental entity. LMG shall indemnify, defend, and hold TAG harmless from and against any and all claims, actions, or damages arising from or caused by LMG's failure to comply with the foregoing.
+
+16
+
+
+
+
+
+Survival of Terms. Termination or expiration of this Agreement for any reason shall not release either party from any liabilities or obligations set forth in this Agreement which (a) the parties have expressly agreed shall survive any such termination or expiration, or (b) remain to be performed or by their nature would be intended to be applicable following any such termination or expiration.
+
+GOVERNING LAW. THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS AGREEMENT SHALL NOT BE GOVERNED BY THE PROVISIONS OF THE 1980 UNITED NATIONS CONVENTION ON CONTRACTS FOR THE INTERNATIONAL SALE OF GOODS. RATHER THESE RIGHTS AND OBLIGATIONS SHALL BE GOVERNED BY THE LAWS, OTHER THAN CHOICE OF LAW RULES, OF THE STATE OF GEORGIA.
+
+Unauthorized Representations and Relationship of the Parties.  Neither party shall (a) represent that this Agreement or the relationship created by this Agreement covers more than is specifically agreed to by the parties or (b) without the other party's prior written consent, make any representations or create any warranties, express or implied, concerning such other party or its products or services. This Agreement shall not constitute or create a joint venture, partnership or formal business organization of any kind. The parties shall be independent contractors, and the employees of one shall not be employees or agents of the other.
+
+No Third Party Beneficiaries. The parties do not intend this Agreement to create any rights enforceable by a third party.
+
+Construction. Unless herein otherwise provided, or unless the context shall otherwise require, references to Articles, Sections, and other subdivisions refer to the Articles, Sections, and other subdivisions of this Agreement. The term "or" will not be interpreted as excluding any of the items described. The term "include" or any derivative of such term does not mean that the items following such term are the only types of such items.  Neither this Agreement nor any provision contained in this Agreement will be interpreted in favor of or against any party hereto because such party or its legal counsel drafted this Agreement or such provision.
+
+Entire Agreement. This Agreement constitutes the entire and exclusive statement of the agreement between the parties with respect to its subject matter and there are no oral or written representations, understandings or agreements relating to this Agreement which are not fully expressed in the Agreement. This Agreement shall not be amended except by a written agreement signed by both parties. All exhibits referenced in this Agreement or attached to this Agreement, are an integral part of this Agreement. In the event of any conflict between the terms and conditions of this Agreement and any such exhibit, the terms of this Agreement shall be controlling unless otherwise stated or agreed.
+
+SPACE BELOW INTENTIONALLY BLANK - SIGNATURE PAGE FOLLOWS
+
+17
+
+
+
+
+
+IN WITNESS WHEREOF, LMG and TAG have executed this Agreement as of the Effective Date.
+
+LEGACY MARKETING GROUP, INC. TRANSACTION APPLICATIONS GROUP, INC.
+
+By: /s/ R. Preston Pitts By: /s/ John Vonesh
+
+Printed Name: R. Preston Pitts Printed Name: John Vonesh
+
+Title: President Title: President

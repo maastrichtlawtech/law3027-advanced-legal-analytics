@@ -1,0 +1,145 @@
+Exhibit 10d-2
+
+                               RESELLER AGREEMENT
+
+                                 BY AND BETWEEN
+
+                                PIVX CORPORATION
+
+                                       AND
+
+                               DETTO TECHNOLOGIES
+
+This Reseller Agreement is entered as of this ___ day of _________, 2004 ("Effective Date") by and between PivX Corporation, a California corporation, having its principal place of business at 23 Corporate Plaza Drive, Newport Beach, California, 92661 ("PivX") and Detto Technologies, a Washington corporation, having its principal place of business at 14320 NE 21st Street, Suite 11, Bellevue, Washington, 98007 ("Detto").
+
+NOW THEREFORE, for good and valuable consideration, the parties hereby agree as follows:
+
+1. GRANT OF RIGHTS
+
+1.1 LICENSE. Subject to the terms and conditions of this Agreement, PivX hereby grants to Detto a non-transferable, exclusive license to distribute PivX's Qwik-Fix Pro and any documentation supporting Qwik-Fix Pro provided from time to time by PivX (the "Documentation") within North America, solely to third parties to whom Detto licenses Qwik-Fix Pro ("Third Parties"), and as governed by the terms set forth in Exhibit A (PivX/Detto Reseller Agreement Addendum). PivX also hereby grants to Detto a non-transferable, non-exclusive license to distribute PivX's Qwik-Fix Pro and the Documentation outside of North America, solely to Third Parties and as governed by the terms in Exhibit A. Detto shall have no right to reproduce Qwik-Fix Pro or any part thereof. All copies of Qwik-Fix Pro distributed by Detto shall be distributed pursuant to PivX's current Enterprise License Agreement, as amended by PivX from time to time (the "License"), a copy of which PivX will provide Detto. Detto shall not distribute Qwik-Fix Pro to any Third Party unless the Third Party has accepted the terms of PivX's current License under penalty of perjury and in writing.
+
+1.2 OWNERSHIP. As between PivX and Detto, PivX owns and retains all right, title, and interest in and to Qwik-Fix Pro and Documentation; all trademarks, service marks or trade names associated with Qwik-Fix Pro or Documentation (the "Trademarks"); all copyrights, patents, trade secret rights, and other intellectual property rights therein (collectively, together with Qwik-Fix Pro, Documentation, and Trademarks, the "Property"). Except as expressly granted herein, PivX does not grant to Detto any right or license, either express or implied, in Qwik-Fix Pro, Documentation or Property. Detto shall not reverse engineer, disassemble, decompile, or otherwise attempt to derive source code from Qwik-Fix Pro.
+
+1.3 PIVX CHANNELNET. PivX grants Detto access to PivX ChannelNet as governed by the terms set forth in Exhibit A.
+
+2. DETTO'S OBLIGATIONS
+
+2.1 DETTO'S MARKETING; PUBLIC RELATIONS. Detto obligations for marketing and public relations are governed under the terms in Exhibit A.
+
+2.2 TRADEMARKS; PROPERTY. During the term of this Agreement, Detto shall have the right to use and reproduce the Trademarks in connection with Detto's marketing, advertising, promotion and distribution of Qwik-Fix Pro. Detto's use of the Trademarks shall not create any right, title or interest therein. Detto shall use the Trademarks only in a manner which complies in all material respects with PivX's reasonable policies in effect from time to time, and all
+
+                                       1
+
+such use shall be for PivX's benefit. Detto shall not remove, obscure or alter PivX's copyright notice or the Trademarks from Qwik-Fix Pro or Documentation. If Detto, in the course of distributing Qwik-Fix Pro, acquires any goodwill or reputation in any of the Trademarks, all such goodwill or reputation shall automatically be transferred to and shall vest in PivX when and as, on an on-going basis, such acquisition of goodwill or reputation occurs, as well as at the expiration or termination of this Agreement, without any separate payment or other consideration of any kind to Detto, and Detto agrees to take all such actions necessary to effect such vesting. Detto shall not contest the validity of any of the Property or PivX's exclusive ownership of them. Detto shall not adopt, use, or register, whether as a corporate name, trademark, service mark or other indication of origin, any of the Trademarks, or any word or mark confusingly similar to the Trademarks in any jurisdiction.
+
+2.3 SUPPORT FOR QWIK-FIX PRO. Detto shall provide for all customer support for Qwik-Fix Pro that it resells as governed by the terms set forth in Exhibit A.
+
+2.4 COMPLIANCE WITH APPLICABLE LAWS. Detto shall comply with all laws and regulations applicable to Detto's marketing and distribution of Qwik-Fix Pro hereunder. Without limiting the generality of the foregoing, Detto shall, at its own expense, make, obtain, and maintain in force at all times during the term of this Agreement, all filings, registrations, licenses, permits and authorizations
+
+
+
+
+
+in North America required for Detto to perform its obligations under this Agreement.
+
+2.5 SECURITY ISSUES. Detto shall take all action necessary to ensure that (a) Qwik-Fix Pro and Documentation on Detto's servers or computer systems is appropriately secured so that Qwik-Fix Pro and Documentation can only be viewed, copied, or utilized by licensed Third Parties; and (b) that the object code of the Courseware can only be accessed by employees authorized by PivX and cannot be copied or downloaded by any of Detto's licensees or by any other third party. In addition, Detto shall make its offices and equipment available in person, upon reasonable notice, and to the extent feasible, remotely, to PivX to inspect and test Detto's physical and technical set-up to ensure that Detto is complying with its obligations under this Section. Detto agrees to indemnify and hold PivX harmless in accordance with the provisions of Section 4.4 to the extent that Detto breaches its obligations under this Section 2.5.
+
+2.6 PROTECTION OF PROPRIETARY RIGHTS. Detto shall cooperate without charge (provided that PivX will reimburse out of pocket expenses as agreed in advance in writing), in PivX's efforts to protect PivX's rights in the Property. Detto shall promptly notify PivX of any infringements of PivX's Property Rights that come to Detto's attention. PivX shall have the exclusive right to institute infringement or other appropriate legal action against alleged infringers of its Property Rights. PivX shall incur all expenses in connection therewith and shall retain all monetary recoveries received therefrom.
+
+2.7 NO EXCESS REPRESENTATIONS OR WARRANTIES. Detto covenants that it shall not make any representations or warranties with respect to Qwik-Fix Pro or Documentation in excess of those provided by PivX herein. Detto agrees to indemnify and hold PivX harmless in accordance with the provisions of Section 4.4 to the extent that Detto breaches its covenant under this Section 2.7.
+
+2.8 FULFILLMENT OF DETTO'S OBLIGATIONS. Detto covenants that it will fulfill all of its contractual and legal obligations to its customers. Detto covenants that it will (a) provide its customers with first quality sales and technical support with respect to any copies or licenses of Qwik-Fix Pro sold by Detto, (b) promptly, courteously and appropriately respond to its customers questions, concerns and complaints, and (c) generally deal with its customers in a professional manner that shall add to the good reputation of Detto and PivX. To the extent that Detto fails to fulfill its contractual and legal obligations to its customers, Detto agrees that PivX may elect to fulfill those obligations, or any portion of them, and Detto shall reimburse PivX any costs and expenses so incurred by PivX. Detto agrees to indemnify and hold PivX harmless in accordance with the provisions of Section 4.4 to the extent that it breaches any of its covenants under this Section 2.8.
+
+2.9 U.S. GOVERNMENT - RESTRICTED RIGHTS. Detto covenants to require its customers to accept a click-wrap agreement that, among other things, provides that Qwik-Fix Pro and accompanying documentation are deemed to be "commercial computer Software" and "commercial computer Software documentation,"
+
+                                       2
+
+respectively, pursuant to DFAR Section 227.7202 and FAR Section 12.212, as applicable. Any use, modification, reproduction release, performance, display or disclosure of Qwik-Fix Pro and accompanying documentation by the U.S. Government shall be governed solely by the terms of the Agreement and shall be prohibited except to the extent expressly permitted by the terms of this Agreement.
+
+2.10 BUSINESS DEVELOPMENT. Detto will engage in future business development with PivX as governed by the terms set forth in Exhibit A.
+
+2.11 SALES FORECASTING; SALES METRICS; SALES REPORTING. Detto will provide sales forecasting, sales metrics and sales reporting to PivX as governed by the terms set forth in Exhibit A.
+
+3. PRICE AND PAYMENT; SHIPMENT AND DELIVERY
+
+3.1 SUGGESTED THIRD PARTY PRICES. Third Party prices are governed by the terms set forth in Exhibit A.
+
+3.2 PER COPY FEES. Detto shall pay to PivX for each unit of Qwik-Fix Pro distributed hereunder per copy fees (the "Per Copy Fees") as governed by the terms set forth in Exhibit A. In the event that PivX changes the Third Party prices, Per Copy Fees based on such changed prices shall apply to any order for Qwik-Fix Pro received by PivX after the effective date of the increase. PivX shall provide Detto with at least forty-five (45) days written notice of any increase in the Per Copy Fees.
+
+3.3 PAYMENT. All payments to PivX shall be made within thirty (30) days after the receipt by Detto of the PivX's invoice. Detto shall pay PivX a late charge on outstanding amounts due equal to one and one-half percent (1.50%) per month or the maximum amount allowed by law, whichever is less. All payments shall be made in United States Dollars, free of any withholding tax and of any currency control or other restrictions to PivX. PivX shall have the right, at reasonable times and on reasonable notice, to inspect and audit the books and records of Detto to verify the accuracy of any statements. In the event that such an inspection discloses any error of any amount, the parties shall by appropriate payment promptly adjust for the error. If Detto fails to make payments when due, PivX shall be entitled to, in its sole discretion, to take any one or more of the following: (a) place Detto on credit hold, in which case, PivX may cease to fulfill Detto's orders to any new Third Parties; (b) rescind Detto's right to sell or distribute any additional Qwik-Fix Pro or Documentation hereunder; and (c) to require that Detto direct all future payments, for licenses sold in the past or in the future, from the Third Parties directly to PivX or a lock box or
+
+
+
+
+
+an account designated by PivX for such purpose, to be applied by PivX to the payment default (and interest thereon) until such defaults have been satisfied. All amounts received by PivX hereunder shall be nonrefundable except for any payments received or held under PivX's control pursuant to clause "c" of the last sentence after Detto's payment default has been satisfied.
+
+3.4 TAXES, TARIFFS, FEES. PivX's Suggested Prices and Per Copy Fees do not include any national, state or local sales, use, value added or other taxes, customs duties, or similar tariffs and fees which may be required to be paid or collected upon the delivery of Qwik-Fix Pro or upon collection of the prices for Qwik-Fix Pro or the Per Copy Fees. Should any tax or levy be made, Detto agrees to pay such tax or levy and indemnify PivX against any claim for such amount. Detto represents and warrants to PivX that all Qwik-Fix Pro acquired hereunder is for redistribution in the ordinary course of Detto's business, and Detto agrees to provide PivX with appropriate resale certificate numbers and other documentation satisfactory to the applicable taxing authorities to substantiate any claim of exemption from any such taxes or fees.
+
+3.5 SHIPMENT AND DELIVERY. PivX shall electronically deliver Qwik-Fix Pro to Detto. Detto shall inspect all software delivered to it, upon receipt and shall, within 10 days of receipt, give written notice to PivX of any claim of damage or missing portions. Should Detto fail to give such notice, or fail to obtain an extension of such 10-day period from PivX, the packages shall be deemed to be accepted by Detto. PivX will reasonably accommodate Detto's request to replace its master copy of software that becomes corrupted or damaged. Detto shall contractually require its Third Parties to report any claim of damage or shortages for Qwik-Fix Pro shipped to them within thirty (30) days of the Third Parties receipt of such package (or the time required by applicable law, if longer). PivX shall use commercially reasonable efforts to meet delivery dates requested by Detto, but in no event shall PivX be liable for its failure to meet such dates. In the event that PivX shall be unable to meet Detto's requested ship dates, PivX shall advise Detto of the change in or actual delivery schedule.
+
+                                       3
+
+3.6 SECURITY INTEREST. Detto hereby grants PivX a purchase money security interest in all Qwik-Fix Pro licensed to Detto, all physical media on which Qwik-Fix Pro is located, and all rights licensed to Detto pursuant to this Agreement in the amount of the Total Purchase Price. Detto also grants PivX a security interest in Detto's address list of Third Parties to secure Detto's payment, indemnification, and other obligations hereunder. To secure its rights hereunder, PivX shall have the right to file one or more UCC financing statements and to make such other filings as PivX shall deem appropriate. Detto shall cooperate with PivX with respect to all such filings. Upon PivX's demand, Detto agrees to execute promptly any financing statement, security agreement, chattel mortgage, applications for registration and/or similar documents, and to take any other action deemed necessary for registration or otherwise deemed necessary or desirable by PivX in order to perfect PivX's security interest hereunder. In the event of Detto's default hereunder, PivX may foreclose its security interests and exercise such other rights as provided under the UCC.
+
+4. WARRANTY AND LIABILITY
+
+4.1 PRODUCT WARRANTY. With respect to Qwik-Fix Pro delivered by PivX to Detto on CD-Rom, PivX warrants that for a period of thirty (30) days following delivery to Detto, the media on which Qwik-Fix Pro is furnished to Detto will be free from defects in materials and workmanship during normal use. PivX warrants that Qwik-Fix Pro will substantially conform to the user documentation. EXCEPT AS EXPRESSLY SET FORTH ABOVE, QWIK-FIX PRO AND DOCUMENTATION ARE PROVIDED "AS IS". PIVX HEREBY DISCLAIMS ALL OTHER WARRANTIES, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+4.2 PRODUCT INDEMNITY. PivX will indemnify, defend and hold Detto and its subsidiaries (each, an "Indemnified Party"), harmless from and against any and all claims, losses, costs, liabilities and expenses (including reasonable attorneys' fees), arising as a result of or in connection with any claim that Qwik-Fix Pro or Documentation infringes any intellectual property right of a third party provided: (i) the Indemnified Party promptly gives written notice of any claim to PivX; (ii) the Indemnified Party provides any assistance which PivX may reasonably request for the defense of the claim (with reasonable out of pocket expenses paid by PivX); and (iii) PivX has the right to control of the defense or settlement of the claim, provided, however, that the Indemnified Party shall have the right to participate in, but not control, any litigation for which indemnification is sought with counsel of its own choosing, at its own expense. Additionally, if an injunction or order issues restricting the use or distribution of any of Qwik-Fix Pro or Documentation, or if PivX determines that Qwik-Fix Pro or Documentation are likely to become the subject of a claim of infringement or violation of any proprietary right of any third party, PivX shall in its discretion and, at its option (a) procure the right to continue using, reproducing, and distributing Qwik-Fix Pro and Documentation; (b) replace or modify Qwik-Fix Pro and Documentation so that they become noninfringing, provided such modification or replacement does not materially alter or affect the specifications for or the use or operation of Qwik-Fix Pro; require return of Qwik-Fix Pro to PivX and refund any licensing fees relating to the future use of Qwik-Fix Pro.
+
+4.3 LIMITATION OF LIABILITY. EXCEPT FOR PIVX'S OBLIGATIONS UNDER SECTION 4.2, IN NO EVENT SHALL PIVX'S OR ITS LICENSORS' LIABILITY TO DETTO OR ANY THIRD PARTY ARISING OUT OF THIS AGREEMENT EXCEED THE TOTAL AMOUNT ACTUALLY RECEIVED BY PIVX HEREUNDER DURING THE PREVIOUS SIX (6) MONTHS. IN NO EVENT SHALL ANY PARTY OR PIVX'S LICENSORS BE LIABLE TO ANOTHER PARTY OR ANY THIRD PARTY FOR LOSS OF DATA, COSTS OF PROCUREMENTS OF SUBSTITUTE GOODS OR SERVICES OR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES UNDER ANY CAUSE OF ACTION, EVEN IF
+
+
+
+
+
+SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS LIMITATION SHALL APPLY NOTWITHSTANDING ANY FAILURE OF AN ESSENTIAL PURPOSE OF ANY LIMITED REMEDY PROVIDED HEREIN.
+
+                                       4
+
+4.4 INDEMNIFICATION. Detto shall indemnify and hold PivX harmless from and against any and all damages, liabilities, costs and expenses (including reasonable attorney's fees) which PivX incurs as a result of any claim based on any breach of any representation or warranty, covenant or agreement by Detto under this Agreement or any breach of this Agreement by Detto; provided: (i) that PivX promptly gives written notice of any claim to Detto; (ii) at Detto's expense, PivX provides reasonable assistance which Detto may reasonably request for the defense of the claim; and (iii) Detto has the right to control the defense or settlement of the claim, provided, however, that PivX shall have the right to participate in, but not control, any litigation for which indemnification is sought with counsel of its own choosing, at its own expense.
+
+5. TERM AND TERMINATION
+
+5.1 TERM OF AGREEMENT. The term of this Agreement shall commence on the Effective Date and continue for six (6) months.
+
+5.2 TERMINATION OF AGREEMENT. PivX may terminate this Agreement for convenience by giving at least thirty (30) days written notice of termination to Detto. This Agreement may be terminated by either party in the event of a material breach of this Agreement by the other party that is not cured within thirty (30) days of the other party's receipt of written notice of such breach. If a material breach is cured within a thirty (30) day cure period this Agreement shall remain in effect as if no material breach had occurred. This Agreement shall terminate automatically without notice and without further action by the other party in the event that the other party becomes insolvent, which means it becomes unable to pay its debts in the ordinary course of business as they come due, or makes an assignment of this Agreement for the benefit of creditors.
+
+5.3 EFFECT OF TERMINATION. Upon the expiration or termination of this Agreement:
+
+(a) Detto shall, within thirty (30) days, pay to PivX all amounts due hereunder, return to PivX all products and demonstration copies received from PivX, erase any and all of the foregoing from all computer memories and storage devices within Detto's possession or control and, if requested, provide PivX with a signed written statement that Detto has complied with the foregoing obligations. All rights and licenses granted by PivX hereunder shall terminate, provided such termination shall not result in the termination of Licenses for copies of Qwik-Fix Pro which already have been purchased by Third Parties in accordance with the provisions of this Agreement.
+
+(b) The following shall survive termination of this Agreement: Section 1.2, the last two sentences of Section 2.2, Sections 2.3 through and including 2.9, Section 3.6, Section 4, this Section 5 and Section 6. 5.4 LIMITATION OF LIABILITY UPON TERMINATION. In the event of termination in accordance with Section 5.1, PivX shall not be liable to Detto because of such termination for compensation, reimbursement or damages on account of the loss of prospective profits or anticipated sales or on account of expenditures, inventory, investments, leases or commitments in connection with the business or goodwill of Detto.
+
+6. GENERAL PROVISIONS
+
+6.1 CONFIDENTIALITY. By virtue of this Agreement, each party may have access to information that is confidential to the other ("Confidential Information"). Confidential Information shall include, but not be limited to, software, documentation, formulas, methods, know how, processes, designs, new products, developmental work, marketing requirements, marketing plans, customer names, prospective customer names, the terms and pricing under the Agreement, and any information clearly identified in writing at the time of disclosure as confidential. A party's Confidential Information shall not include information that (a) is or becomes a part of the public domain through no act or omission of the other party; or (b) is independently developed by the other party without
+
+                                       5
+
+use of or reference to the first party's Confidential Information. In the event, Confidential Information is required to be disclosed by law or other governmental authority, a party hereunder shall not be prohibited from disclosing such information by this Section provided that the responding party shall first have given prompt notice to the other party hereto and shall have made a reasonable effort to obtain a protective order restricting or limiting the disclosure of the Confidential Information to the extent possible.
+
+6.2 THIS AGREEMENT CONTROLS; MERGER; AMENDMENT; WAIVER. This Agreement and Exhibit A to this Agreement shall control Detto's distribution of Qwik-Fix Pro and Documentation. All different or additional terms or conditions in any Detto purchase order or similar document shall be null and void. This Agreement, including Exhibit A, constitutes the final, complete, and exclusive agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements. No modification, amendment, or waiver of any provision of this Agreement shall be effective unless in writing signed by both parties. The failure or delay by either party in exercising any right, power or remedy under this Agreement shall not operate as a waiver of any such right, power or remedy.
+
+
+
+
+
+6.3 NOTICES. All notices shall be given in writing and shall be considered effective when (a) personally delivered, (b) upon confirmed receipt if sent by electronic mail or facsimile; or (c) two (2) days after posting if sent by overnight registered private carrier (e.g. DHL, Federal Express, etc.).
+
+6.4 ASSIGNMENT. Detto may not assign any of its rights or delegate any of its obligations hereunder, whether by operation of law or otherwise, without PivX's prior written consent. Subject to the foregoing, this Agreement shall bind and inure to the benefit of the parties, their respective successors and permitted assigns.
+
+6.5 FORCE MAJEURE. PivX will not incur any liability to Detto or any other party on account of any loss or damage resulting from any delay or failure to perform all or any part of this Agreement (except for payment obligations) to the extent such delay or failure is caused, in whole or in part, by events, occurrences, or causes beyond the control, and without the negligence of, the parties. Such events, occurrences, or causes include, without limitation, acts of God, telecommunications outages, Internet outages, power outages, strikes, lockouts, riots, acts of war, floods, earthquakes, fires, and explosions.
+
+6.6 GENERAL. If any provision of this Agreement shall be held by a court of competent jurisdiction to be contrary to law, such provision shall be changed and interpreted so as to best accomplish the objectives of the original provision to the fullest extent allowed by law and the remaining provisions of this Agreement shall remain in full force and effect. Detto is an independent contractor, and nothing herein shall be construed to create an employer-employee, partnership, joint venture, or agency relationship between the parties. Detto shall have no authority, right or power to create any obligation or responsibility on behalf of PivX.
+
+6.7 GOVERNING LAW. This Agreement shall be governed by and construed under the laws of the State of California, excluding conflict of laws provisions and excluding the 1980 United Nations Convention on Contracts for the International Sale of Goods. The parties consent to the personal and exclusive jurisdiction of and venue in the state and federal courts of Orange County, California, U.S.A. for any disputes arising out of this Agreement. This Agreement may be executed simultaneously in two or more counterparts, each one of which shall be deemed an original, but all of which shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF, the following duly authorized representatives have signed this Agreement on behalf of the entities indicated below, as of the date first above written.
+
+DETTO                                     PIVX ----------------------------------------- --------------------------------------
+
+----------------------------------------- -------------------------------------- By:                                       By: ----------------------------------------- -------------------------------------- Title:                                    Title: ----------------------------------------- -------------------------------------- Date:                                     Date: ----------------------------------------- --------------------------------------
+
+                                       6

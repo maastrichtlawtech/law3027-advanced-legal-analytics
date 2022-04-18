@@ -1,0 +1,153 @@
+Exhibit 10.2
+
+STRATEGIC ALLIANCE AGREEMENT
+
+This Strategic Alliance Agreement is entered into as of September 24, 2013 (the "Effective Date") by and between Yaskawa Electric Corporation, a limited company duly organized and existing under the law of Japan, having its address at 2-1 Kurosakishiroishi, Yahatanishi-ku, Kitakyushu, Fukuoka, 806-0004, Japan. (Business Identity Code 2908-01-010767, hereinafter referred to as "YEC") and Argo Medical Technologies Ltd., a private company duly organized and existing under the law of Israel, having its address at Kokhav Yokneam Building, P.O. Box 161, Yokneam Ilit 20692, Israel (Business Identity Code 51-312137-6, hereinafter referred to as "ARGO").
+
+RECITALS:   (A) Argo is a venture company engaged in the business of healthcare robotics, and possesses valuable know-how regarding development, marketing and distribution of bipedal exoskeleton equipment for individuals with spinal cord injuries, multiple sclerosis or cerebral palsy in North America and the European Union.
+
+(B) YEC is a leading company engaged in the business of electrical engineering and robotics, and possesses valuable know-how regarding development, manufacturing, marketing and distribution of various innovative solutions globally.
+
+(C) The parties hereto recognize that the sales volume and demand of customers for healthcare equipment utilizing robotics technologies has increased and may increase further in the future.
+
+(D) The agreements have so far been reached between the parties hereto in regard to the formation and operation of a strategic alliance with the goal of evaluation, development and commercialization of such healthcare products.
+
+NOW, THEREFORE, YEC AND ARGO AGREE AS FOLLOWS:
+
+AGREEMENTS:   1. SCOPE OF STRATEGIC ALLIANCE
+
+The parties acknowledge that the purpose of this agreement shall be to seek and develop possibilities for collaboration in the following areas:
+
+  (a) Marketing, distribution, and commercialization of ARGO's products by YEC, subject to the terms and conditions contained in thisAgreement and a separate Distribution Agreement being entered into concurrently with this Agreement (hereafter "DA").
+
+  (b) Marketing and distribution of future YEC products in the area of healthcare equipment by ARGO within the scope of its salesnetwork.
+
+
+
+
+
+  (c) Improvement of ARGO's products by applying YEC's know-how and expertise in the field of motion control and robotics, especiallyimprovements necessary for YEC to successfully market ARGO's products within the scope agreed to in the DA.
+
+  (d) Quality improvements of ARGO's Products by applying YEC's know-how and expertise in the field of motion control and robotics.
+
+  (e) Definition of the responsibilities and areas of coverage of YEC and ARGO in the future research and development of ARGO'sproducts, as to be defined in detail on a case-by-case basis with separate joint development agreements in the future.
+
+  2. INVESTMENT BY YEC
+
+As part of the implementation and execution of this Agreement, both parties agree to enter into a separate Share Purchase Agreement (hereafter "SPA"), at the same time and subject to the execution of the DA. Upon the terms and subject to the conditions contained in the SPA, YEC has agreed to purchase Series D-1 Convertible Preferred Shares of ARGO, par value NIS 0.01 each. The obligations of ARGO under this Agreement will not become invalid in case that YEC sells part or all of its shares of ARGO to another party.
+
+  3. DISTRIBUTION OF ARGO'S PRODUCTS BY YEC
+
+As part of the implementation and performance of this Agreement, both parties are entering into the DA concurrently with this Agreement. Pursuant to the DA, and subject to its terms, ARGO agreed to appoint YEC as the exclusive distributor of its products in the Territory specified therein, and YEC agreed to market and distribute Argo's products in a professional manner. In case the DA is terminated in accordance with the terms and conditions of the DA, this provision shall be considered void.
+
+  4. JOINT STEERING COMMITTEE
+
+YEC and ARGO agree to pursue further opportunities for collaboration in the areas of research and development, manufacturing, marketing and sales, for the purposes stated in this Agreement. As a platform to discuss such opportunities, YEC and ARGO agree to form a Joint Steering Committee (hereafter "JSC"), which will meet at least four (4) times per year, once in every quarter, for the following purposes:
+
+  (a) Subject to the DA being in effect, to review and share the progress of marketing and sales of ARGO Products by YEC and ARGOworldwide, as defined in the DA.
+
+  (b) Subject to the DA being in effect, to establish sales targets and minimum purchase requirements for ARGO's Products under thedistribution relationship that is defined in the DA.
+
+
+
+
+
+  (c) To discuss the possibilities of sales of YEC's products in the healthcare field using ARGO's sales network.
+
+  (d) To discuss possibilities for improvements of ARGO's Products, especially improvements necessary for YEC to successfully market ARGO's products as defined in the DA, by granting YEC access to cost information and applying YEC's know-how and expertise in the field of motion control and robotics.
+
+  (e) To discuss the responsibilities and areas of coverage of YEC and ARGO in the future research and development of ARGO Products, and to establish rules for proper compensation of the developing party for usage and/or licensing of any invention, know-how and improvement created by such party in the course of joint development.
+
+  (f) To discuss the potential for licensed manufacturing of ARGO's Products by YEC.
+
+  (g) To discuss the potential for quality improvements of ARGO's Products by applying YEC's know-how and expertise in the field ofmotion control and robotics.
+
+  5. TERM
+
+This Agreement will be effective as of the Effective Date. Unless sooner terminated in accordance with the provisions hereof, the initial term of this Agreement ("Initial Term") will be ten (10) years from the Effective Date, provided that at any time following the 7th anniversary of such date, either party may terminate such strategic alliance upon not less than 60 days' prior written notice to the other party. After the Initial Term, this Agreement may only be renewed if authorized officers of ARGO and YEC agree in writing at least thirty (30) days before the expiration of the Initial Term or any renewal term to a renewal, including the period of the renewal term. "Term" means the Initial Term and any such renewal term. The parties may terminate this Agreement during the Term as follows:
+
+
+
+(a) Termination by either party. Either party may terminate this Agreement by giving written notice of termination to the other party, which termination will be effective immediately upon such notice, if the other party defaults in the performance of any of its material obligations provided for in this Agreement and fails to cure such default within sixty (60) days after receipt of notice from the other party of such default, unless a plan for remedying such default has been proposed by the defaulting party and accepted by the non- defaulting party within such period.
+
+  (b) Termination by both parties. ARGO and YEC may terminate this Agreement at any point provided that both parties agree in writingto such a termination.
+
+
+
+
+
+6. COORDINATION
+
+A contact person for each party will coordinate the efforts of that party under this agreement. The initial contact person for each party is as follows:   Yaskawa Electric Corporation   Argo Medical Technologies Ltd.
+
+Kei Shimizu   Larry Jasinski   806-0004   33 Locke Drive, 2nd Floor   2-1 Kurosakishiroishi, Yahatanishi-ku   c/o Argo Medical Technologies, Inc   Kitakyushu, Fukuoka, 806-0004   Marlborough, MA 01752   Tel: +81 93 645 8949   USA   Fax: +81 93 645 8948   Tel: +1 (508)251-1154   E-mail: shimizu@yaskawa.co.jp   Fax: +1 (508)251-2970     E-mail: larry.jasinski@rewalk.com
+
+A party's contact person may be changed at any time by giving notice of the change to the other party. The notice must include the name and contact information for the new contact person. The contact person for each party must be available at reasonable times and on reasonable notice to meet with, converse with, or otherwise communicate with the contact person for the other party regarding issues arising under this agreement.
+
+  7. RELATIONSHIP OF PARTIES
+
+Nothing herein contained shall be construed to imply a joint venture, partnership or principal-agent relationship between YEC and ARGO, and neither party shall have the right, power or authority to obligate or bind the other in any manner whatsoever, except as otherwise agreed in writing. During the performance of any of the collaborative efforts set forth in this Agreement, ARGO's employees will not be considered employees of YEC, and vice versa.
+
+  8. INTELLECTUAL PROPERTY; CO-DEVELOPMENT, IMPROVEMENT, MODIFICATION
+
+This agreement does not give either party any rights, title or interest in the other party's trade name, trademarks, copyrights, patents, trade secrets, know-how, proprietary data, confidential information, or other intellectual property (hereinafter collectively "Intellectual Property"). Except as expressly stipulated in this Agreement, each party shall not without any prior written consent, use, copy, modify or license the other party's Intellectual Properties supplied pursuant to this Agreement. Unless otherwise agreed between the parties or stipulated in a separate related agreement such as the SPA or DA, each party confirms and agrees that any Intellectual Properties are hereby supplied to the other party on an "as is" basis. There are no warranties by either party with respect to such Intellectual Properties, express or implied including the implied warranties of merchantability, fitness for a particular purpose and non-infringement. In the event that the parties mutually agree to explore jointly in any manner, design and/or develop new products or improve or modify ARGO's current products, the parties will negotiate, in good faith, in an attempt to conclude one or more appropriate license agreements prior to either party's use of the Intellectual Property of the other.
+
+
+
+
+
+9. CONFIDENTIAL INFORMATION
+
+On or prior to the execution of this Agreement, both parties shall sign a new Confidentiality and Non-Disclosure Agreement (hereinafter the "New NDA") and both parties shall comply with any terms and conditions stipulated in the New NDA with respect to handling of any confidential information disclosed by the other party hereunder.
+
+  10. NON-SOLICITATION OF PERSONNEL
+
+During the performance of the any of the collaborative efforts set forth in this Agreement, each of ARGO and YEC agrees not to engage in any attempt whatsoever to hire, or to engage as independent contractors, the other's employees or independent contractors during the term of the collaboration and for a period of twelve (12) months following expiration or termination of the collaboration, except as may be mutually agreed in writing.
+
+  11. REMEDIES
+
+Each of the parties agrees that money damages will not be a sufficient remedy for any breach of the above agreement relating to non- solicitation of personnel. Accordingly, a party will be entitled to specific performance and injunctive or other equitable relief as a remedy for any such breach, and the parties each further agree to waive any requirement for the securing or posting of any bond in connection with such remedy.
+
+  12. MISCELLANEOUS PROVISIONS
+
+  12.1. Assignment
+
+Neither this Agreement nor any part of this Agreement may be assigned or transferred by either party without the prior written consent of the other party. Any assignment or transfer without such consent shall be null and void.
+
+  12.2. Notice
+
+All notices or other communications required or desired to be sent to either of the parties will be invalid, unless made in writing and sent by registered or certified mail, postage prepaid, return receipt requested, or sent by recognized international courier service (e.g., Federal Express, DHL, etc.) with charges prepaid, or by facsimile or electronic mail which is subject to confirmation by letter. The address for all notices or other communications required to be sent to ARGO or YEC will be the mailing address stated on the signature page to this Agreement, or such other address as may be provided from one party to the other on at least ten (10) days prior written notice. Any such notice will be effective upon the date of receipt.
+
+
+
+
+
+  12.3. Litigation Expense
+
+If there is a default under this agreement, the defaulting party must reimburse the non-defaulting party for all costs and expenses reasonably incurred by the non-defaulting party in connection with the default, including attorney's fees. Additionally, if a suit or action is filed to enforce this agreement or with respect to this Agreement, the prevailing party is entitled to reimbursement from the other party for all costs and expenses incurred in connection with the suit or action, including reasonable attorney's fees at the trial level and on appeal.
+
+  12.4. Waiver
+
+No waiver of any provision of this Agreement may be deemed, or will constitute, a waiver or any other provision, whether or not similar, not will any waiver constitute a continuing waiver. No waiver will be binding unless executed in writing by the party making the waiver.
+
+  12.5. Applicable Law
+
+This agreement will be governed by and must be construed in accordance with the laws of the State of Israel. All disputes arising pursuant to this Agreement shall be exclusively brought in the courts of competent jurisdiction residing in Tel Aviv, Israel.
+
+  12.6. Entire Agreement
+
+This Agreement constitutes the entire agreement between the parties with regard to the matters contained herein, and may not be amended except in a writing signed by both parties.
+
+  12.7. Severability
+
+Immediately upon the execution by the parties of this Agreement, the Confidentiality and Non-Disclosure Agreement of August 25TH, 2011 by and between the parties and the Letter as of July 5t h, 2013 shall be terminated by mutual consent of the parties hereto, and become null and void. Notwithstanding the foregoing, should this Agreement be terminated or proven to be invalid, such termination or invalidation will in no way affect, impair or invalidate any other related agreement including the SPA, DA and/or the New NDA, which will be in full force and effect. In addition, any amendment, invalidity or termination of the SPA, DA and/or the New NDA respectively or divestiture of Series D-1 Convertible Preferred Shares of ARGO by YEC will not in any way affect, impair or invalidate this Agreement.
+
+  12.8. Counterparts of the Agreement
+
+This Agreement has been executed in two (2) identical copies, one (1) for each party.
+
+
+
+
+
+ARGO MEDICAL TECHNOLOGIES LTD.     YASKAWA ELECTRIC CORPORATION

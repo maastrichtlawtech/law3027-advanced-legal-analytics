@@ -1,0 +1,411 @@
+EXHIBIT 10.8
+
+   [Certain confidential information has been omitted from this Exhibit 10.8                                                                 ------------ pursuant to a confidential treatment request filed with the Securities and Exchange Commission. The omitted information is indicated by the symbol "***" at each place in this Exhibit 10.8 where the omitted information appeared in the                    ------------ original.]
+
+                             CO-BRANDING AGREEMENT                              ---------------------
+
+    This Co-Branding Agreement (this "Agreement") dated March 15, 2000  (the "Effective Date") is entered into between VerticalNet, Inc., a Pennsylvania corporation having a principal place of business at 700 Dresher Road, Suite 100, Horsham, Pennsylvania, 19044 ("VerticalNet"), and LeadersOnline, Inc. a Delaware corporation having a principal place of business at  18401 Von Karman Avenue, Suite 500, Irvine, California, 92612 "(LeadersOnline") (each a "Party" and together the "Parties").
+
+                                   BACKGROUND
+
+   WHEREAS, VerticalNet owns and operates a series of Online Communities (as defined below) that are accessible via the World Wide Web, each of which is designed to be an online gathering place for businesses of a certain type or within a certain industry; and
+
+   WHEREAS, LeadersOnline desires to advertise its job placement services (the "LeadersOnline Services") on certain of VerticalNet's Online Communities through banner ads, newsletters and employer spotlights, to access VerticalNet's proprietary resume bank and to display and maintain a Link (as defined below) from the LeadersOnline Site (as defined below) to a VerticalNet Site (as defined below) to enable users of the LeadersOnline Site to access and utilize the VerticalNet Online Communities; and
+
+   WHEREAS, VerticalNet desires to permit LeadersOnline to advertise the LeadersOnline Services on certain of VerticalNet's Online Communities through banner ads, newsletters and employer spotlights, to allow LeadersOnline access to VerticalNet's proprietary resume bank and to create a Link from the LeadersOnline Site to a VerticalNet Site to enable users of the LeadersOnline Site to access and utilize the VerticalNet Online Communities.
+
+    NOW, THEREFORE, in consideration of the mutual covenants herein, and intending to be legally bound hereby, VerticalNet and LeadersOnline agree as follows:
+
+I.  DEFINITIONS
+
+    1.1.  Affiliate shall mean, when used with reference to a Party, any individual or entity directly or indirectly controlling, controlled by or under common control with such Party.  For purposes of this definition, "control" means the direct or indirect ownership of at least 50% of the outstanding voting power of a Party, or the right to control the policy decisions of such Party.
+
+    1.2.  Banner shall mean a graphical image advertising a Party's Site that is posted on the other Party's Site in an area designated by the Party controlling the Site on which the image is posted, and containing a Link to the Site of the Party which purchased the Banner.
+
+    1.3.  Career Center shall mean that area of the VerticalNet Online Communities designated by VerticalNet in which VerticalNet offers various employment related services to Users of the VerticalNet Sites, including resume posting, career information and Employer Spotlights.
+
+                                       1
+
+    1.4.  Confidential Information shall mean, subject to the provisions of Section 9.2  [Exclusions], all proprietary and confidential information of a Party, including, without limitation, trade secrets, technical information, business information, sales information, customer and potential customer lists and identities, product sales plans, sublicense agreements, inventions, developments, discoveries, software, know-how, methods, techniques, formulae, data, processes and other proprietary ideas, whether or not protectable under patent, trademark, copyright or other areas of law, that the other Party has access to or receives. For purposes of this Agreement, this Agreement shall be considered Confidential Information.
+
+    1.5.  Employer Spotlight shall mean a feature on the VeticialNet Sites containing company listings that  Link to full-page company descriptions of employers actively recruiting candidates to fill open positions within their companies that is framed by VerticalNet Proprietary Features.
+
+    1.6.  Home Page shall mean the first page presented when a User selects a Site or presence on the World Wide Web.
+
+    1.7.  HR Site shall mean the VerticalNet Site located on the World Wide Web at HRHub.com, or any successor Sites thereto.
+
+    1.8.  Intellectual Property shall mean any and all trade secrets, patents, copyrights, trademarks, service marks, URLs, trade dress, brand features, know- how and similar rights of any type under the laws of any applicable governmental authority, including, without limitation, all applications and registrations relating to any of the foregoing.
+
+    1.9.  Intellectual Property Rights shall mean all rights in and to Intellectual Property, including, without limitation, all patent rights, copyrights, trademarks, service marks, know-how and trade secrets.
+
+    1.10.  LeadersOnline Mark shall mean any trademark, service mark, trade name, domain name, design or logo of LeadersOnline or its Affiliates.
+
+    1.11.  LeadersOnline Site shall mean the Site located at
+
+Source: LEADERSONLINE INC, S-1/A, 4/27/2000
+
+
+
+
+
+www.LeadersOnline.com (and any successor Site thereto).
+
+    1.12.  LeadersOnline-VerticalNet Revenue shall mean the total gross fees received by LeadersOnline from VerticalNet-LeadersOnline Clients for the use of LeadersOnline Services, exclusive of taxes and expense reimbursements.
+
+    1.13.  Link shall mean a link, including but not limited to a hyperlink, button or banner, that connects two Sites in a manner so that when a User clicks on the link, the User is transferred directly from one Site to a second Site.
+
+    1.14.  Listing Page shall mean a page on the VerticalNet Site that contains a listing of all currently available VerticalNet Online Communities and Links to each of such Online Communities.
+
+                                       2
+
+    1.15.  Newsletter Ads shall mean an advertising message comprised of text describing LeadersOnline and its services that is placed in an email transmission containing employment related information supplied by VerticalNet that is transmitted to Users of the HR Site who have provided their email addresses to VerticalNet along with permission to transmit such messages to the email address.
+
+    1.16.  Online Community shall mean a VerticalNet Site that acts as a comprehensive source of information, dialogue and commerce for a particular industry or service market.
+
+    1.17.  Proprietary Feature shall mean any name, trademark, service mark, trade name, domain name, navigational element, copyright, or logo which is proprietary to LeadersOnline and/or VerticalNet, as appropriate.
+
+    1.18.  Site shall mean a site located on the World Wide Web portion of the Internet.
+
+    1.19.  Resume Bank shall mean a collection of resumes stored in electronic form that have been posted in Career Centers by Users of the VerticalNet Sites.
+
+    1.20.  Term shall mean the Effective Date through June 15, 2001 and any Renewal Term (as defined in paragraph 7.4 herein.)
+
+    1.21.  URL shall mean a universal resource locator used for the purpose of identifying a Site located on the Internet.
+
+    1.22.  User shall mean a single person who accesses and views a Site whether directly from a web browser or through a Link.
+
+    1.23.  User Data shall mean all data generated by an Internet server that relates to file requests, user identification, transaction logs, session times and other information regarding the Users directed to the LeadersOnline Site through the Banner Links or Employer Spotlight, generated or collected by or through the LeadersOnline Site, but excluding any information that relates or refers to a particular project of such User.
+
+    1.24.  VerticalNet Branded Link shall mean a Link (including but not limited to a hyperlink, button or banner) containing a VerticalNet Mark that will take Users of the LeadersOnline Site to the Listing Page.
+
+    1.25.  VerticalNet Mark shall mean any trademark, service mark, trade name, domain name, design or logo of VerticalNet.
+
+    1.26.  VerticalNet-LeadersOnline Clients shall mean the clients of LeadersOnline that utilize the LeadersOnline Services and pay commissions or other fees to LeadersOnline for the use of its Services, and make initial contact with the LeadersOnline Site through a Link from a VerticalNet Site or through direct access to the LeadersOnline Site if such access was prompted by information presented in a Banner, Newsletter Ad or Employer Spotlight containing information about the LeadersOnline Services.
+
+                                       3
+
+    1.27.  VerticalNet Site shall mean a Site owned and operated by VerticalNet or a portion of such Site designated by VerticalNet.
+
+2. VERTICALNET BRANDED LINK
+
+    2.1.  Hosting and Maintenance.  LeadersOnline shall be responsible for the hosting, display and maintenance of the VerticalNet Branded Link on the LeadersOnline Site.  The VerticalNet Branded Link shall be located on the Home Page of the LeadersOnline Site and on the first page of each section of the Site, including the sections entitled "Becoming a Member", "Why You Should Join", "How it Works", "About LeadersOnline" and "Recruiter Information".  The VerticalNet Branded Link shall be available on each of the foregoing pages as soon as reasonably practicable after the Effective Date, and throughout the Term.  It shall be located in an area of the foregoing pages and in a size mutually agreeable to the Parties.
+
+    2.2.  Mark License. VerticalNet hereby grants LeadersOnline a non-exclusive, nontransferable, royalty-free right and license for the Term of this Agreement to utilize a VerticalNet Mark in a form approved by VerticalNet for the design and display of  the VerticalNet Branded Link.
+
+    2.3.  Link License. VerticalNet hereby grants to LeadersOnline a non- exclusive, non-transferable, royalty-free right and license to link to the VerticalNet Site.  The Link will access the Listing Page of the VerticalNet Site located at www.verticalnet.com.
+
+3. BANNER/NEWSLETTER PURCHASE COMMITMENT.
+
+    3.1.  Purchase Commitment. During the Term of this Agreement, LeadersOnline agrees to purchase from VerticalNet Banners and Newsletter Ads for a total price of at least *** ($***).  All prices for such Banners and Newsletter Ads shall be offered to LeadersOnline at a ***% discount off of VerticalNet's then current prices for similar Banners or Newsletters Ads.  All purchases shall be subject to VerticalNet's standard terms and conditions governing advertising on VerticalNet Sites.
+
+    3.2.  Purchase Requirements.  LeadersOnline agrees to purchase at least *** ($***) of such Banners and Newsletter Ads in each calendar quarter after the
+
+Source: LEADERSONLINE INC, S-1/A, 4/27/2000
+
+
+
+
+
+Effective Date (prorated for any partial quarters) until a total of $*** have been purchased, provided, the total dollar amount purchased by LeadersOnline in any calendar quarter shall not consist of greater than ***% (in dollars) of either Banners or Newsletter Ads until a total of $*** has been purchased.
+
+    3.3.  Advertisement Placement. VerticalNet shall use commercially reasonable efforts to place a Banner purchased in accordance with Section 3.1  [Purchase Commitment] on the HR Site Home Page for a period of 6 months on a rotating, rather than fixed, basis. In addition, as part of the purchase commitment set forth in Section 3.1  [Purchase Commitment], VerticalNet shall provide LeadersOnline up to $*** worth of Banner placements on the Home Page of other VerticalNet Sites of LeadersOnline's choice.  All Banner and Newsletter Ad placements shall be in locations mutually agreeable to the Parties, subject to space limitations and other contractual commitments of VerticalNet.
+
+___________ *** Omitted pursuant to a confidential treatment request filed separately filed     separately.
+
+                                       4
+
+4. EMPLOYER SPOTLIGHTS
+
+    4.1.  Development. VerticalNet shall develop, host, display and maintain Employer Spotlights in each of its Online Communities containing information supplied by LeadersOnline.  Each Employer Spotlight shall contain a LeadersOnline Mark, text information describing LeadersOnline and a hypertext Link to the LeadersOnline Site.
+
+    4.2.  LeadersOnline Information.  Upon execution of this Agreement, LeadersOnline shall supply VerticalNet with a graphical image in electronic form of its LeadersOnline Mark, a text file containing information describing LeadersOnline and the URL to which the hypertext Link shall be directed. VerticalNet shall use commercially reasonable efforts to launch the Employer Spotlights as soon as practicable after the Effective Date of this Agreement. VerticalNet may, in its sole discretion, reject or edit any text or other materials supplied by LeadersOnline for the creation of the LeadersOnline Employer Spotlights; provided that any edits will be subject to the prior approval of LeadersOnline.  The design and appearance of the Employer Spotlights shall be determined by VerticalNet in its sole discretion.
+
+    4.3.  Information License.  LeadersOnline hereby grants VerticalNet a non- exclusive, nontransferable, royalty-free right and license for the Term of this Agreement to use, copy or modify the LeadersOnline Mark, text describing LeadersOnline and the URL address of the LeadersOnline Site for the design and display of the LeadersOnline Employer Spotlights, provided, VerticalNet shall not alter the appearance of the LeadersOnline Mark without the consent of LeadersOnline.
+
+5. RESUME BANK
+
+    5.1.  Access License.  Subject to the limitations set forth in Section 5.2  [Restrictions] hereof, VerticalNet hereby grants to LeadersOnline a non-exclusive, nontransferable right and license to access the Resume Bank.  The foregoing license shall be for the limited purpose of contacting individuals posting resumes on VerticalNet's Career Centers ("Candidates") to inquire about interest in employment opportunities available through the LeadersOnline Services.
+
+    5.2.  Restrictions.  Any information concerning a Candidate contained in a resume included in the Resume Bank shall not be provided to any third party by LeadersOnline, including corporate Affiliates of LeadersOnline, without the written consent of the individual whose information would be disclosed. LeadersOnline shall limit contact with a Candidate to either one phone contact or one e-mail contact per calendar quarter, unless expressly agreed to by the Candidate.  LeadersOnline shall immediately cease all contact upon the request of the Candidate.  All information concerning a Candidate, whether in paper or electronic form, and whether originally contained in the Resume Bank or derived from information contained in the Resume Bank, shall be immediately returned to VerticalNet upon the termination of this Agreement.  All information contained in the Resume Bank shall be handled by LeadersOnline in accordance with VerticalNet's standard Privacy Policy as it may be posted on the VerticalNet Sites from time to time.  The foregoing restrictions shall cease to apply from and after the time that a Candidate registers through an online form or takes other affirmative action to become a member of the LeadersOnline "Candidate Community."
+
+                                       5
+
+6.   THE COMMERCIAL TERMS
+
+    6.1.  Fees. As set forth in Section 6.2  [Payment of Fees], LeadersOnline shall pay to VerticalNet the following:
+
+        6.1.1.  Slotting fees for the Employer Spotlights of $***;
+
+        6.1.2.  Banner and Newsletter Ad sponsorship fees of $*** as provided in Section 3.1  [Purchase Commitment]; and
+
+        6.1.3.  A license fee of $*** for access to the Resume Bank.
+
+    6.2.  Payment of Fees.  LeadersOnline shall pay the fees set forth in Section 6.1  [Fees] to VerticalNet as follows:
+
+        6.2.1.  $*** upon the Effective Date of this Agreement;
+
+        6.2.2.  $*** within 90 days after the Effective Date;
+
+        6.2.3.  $*** within 180 days after the Effective Date;
+
+        6.2.4.  $*** within 270 days after the Effective Date; and
+
+        6.2.5.  $*** within 360 days after the Effective Date.
+
+    6.3.  Revenue Sharing.
+
+        6.3.1.  LeadersOnline shall pay VerticalNet *** percent (***%) of LeadersOnline- VerticalNet Revenue, payable to VerticalNet  on or before the fifteenth day of  the calendar month immediately following the month in which
+
+Source: LEADERSONLINE INC, S-1/A, 4/27/2000
+
+
+
+
+
+such revenue was received by LeadersOnline.  Such payments shall be accompanied by a statement containing reasonable detail of the number of VerticalNet-Leaders Online Clients generated during the month, the type and number of transactions from which the LeadersOnline VerticalNet Revenue was derived, the total LeadersOnline VerticalNet Revenue for such period and the total fees payable to VerticalNet pursuant to this Section 6.3.1  [Revenue Sharing].
+
+        6.3.2.  LeadersOnline shall pay VerticalNet a one time fee for each Candidate who is offered and accepts employment as a result of a contact made by LeadersOnline (each a "Placement"). The fee shall be payable upon receipt by LeadersOnline of its payment for the Placement, and shall be nonrefundable. Fees shall be based upon the annual salary (or hourly rate multiplied by 2080) of the Candidate accepting employment in the Placement in accordance with the following schedule:
+
+            6.3.2.1.  $*** for Placements involving annual salaries of less than $***;
+
+            6.3.2.2.  $*** for Placements involving annual salaries of $*** up to and including $***; and
+
+___________ *** Omitted pursuant to a confidential treatment request filed separately.
+
+                                       6
+
+            6.3.2.3.  $*** for Placements involving annual salaries of $*** or greater.
+
+        6.3.3.  VerticalNet shall institute procedures to track information of Users of the VerticalNet Sites that utilize a Link to access the LeadersOnline Site.  LeadersOnline agrees to add a request in its standard registration form to identify those Users who have accessed the LeadersOnline Site based upon information contained in any promotional materials with respect to LeadersOnline on a VerticalNet Site, including any Banner, Newsletter Ad or Employer Spotlight identifying LeadersOnline, and to maintain such information in a form that can be examined by VerticalNet pursuant to Section 6.6  [Audits].
+
+        6.3.4.  If government regulations prevent LeadersOnline from sharing any revenues associated with LeadersOnline Services, VerticalNet and LeadersOnline shall negotiate in good faith a compensation structure that seeks to provide VerticalNet with compensation equal to that set forth in Sections 6.3.1  [Revenue Sharing]. and 6.3.2.
+
+    6.4.  Taxes.  All payments required under this Agreement are exclusive of federal, state, local and foreign taxes, duties, tariffs, levies and similar assessments.  When applicable, such taxes shall appear as separate items on a Party's invoice or statement to the other Party.  Payment of such taxes or charges shall be the responsibility of the Party whose obligation it is under this Agreement to make the payment in respect of which such taxes are assessed, excluding any taxes based upon the other Party's net income.  In lieu thereof, a Party shall provide the other Party with a tax or levy exemption certificate acceptable to the taxing or levying authority.
+
+    6.5.  Guaranteed Revenues. VerticalNet agrees to guarantee that, during the initial Term of this Agreement, LeadersOnline shall earn LeadersOnline- VerticalNet Revenue of at least *** Dollars ($***) (the "Guaranteed Amount"), subject to the provisions of this Section 6.5  [Guaranteed Revenues]. *** Within thirty (30) days after the end of the initial Term, LeadersOnline shall submit a statement showing a reasonably detailed accounting of the LeadersOnline-VerticalNet Revenue received during the initial Term (or earned during the initial Term and paid within 30 days thereafter) along with payment of all such amounts up to the Guaranteed Amount. In the event this Agreement is terminated in accordance with Section 7.1  [DEFINITIONS], LeadersOnline shall make a payment of all amounts of LeadersOnline- VerticalNet Revenues received through the date of termination, up to the amount of the Guaranteed Amount ***.
+
+    6.6.  Audits.  During the 12 month period following the payment of any amount due under this Article 6, VerticalNet or its representative shall have the right to audit LeadersOnline's financial and other pertinent records relating to such payment in order to verify the amount of the payments owed and/or paid.  If the amount owed by LeadersOnline to VerticalNet was underpaid, the additional amount owed shall be paid to VerticalNet within 15 days of notice of such underpayment to LeadersOnline.  If the amount owed by LeadersOnline to VerticalNet was underpaid in excess of 10% of the amount owed, the fees of such audit shall also be paid to VerticalNet within 15 days of notice of such to LeadersOnline.  If the amount owed by LeadersOnline to
+
+___________ *** Omitted pursuant to a confidential treatment request filed separately.
+
+                                       7
+
+VerticalNet was overpaid, the excess amount paid shall be returned by VerticalNet within 15 days of notice of such overpayment. VerticalNet shall give reasonable advance notice to LeadersOnline of such audit and each audit shall be conducted in a manner that does not cause unreasonable disruption to the conduct of business by LeadersOnline. The results of any such audit shall be deemed to be Confidential Information and may not be disclosed by either Party or its certified public accountants except as may be necessary to enforce such Party's rights. Any dispute as to the amount of an underpayment or overpayment shall be resolved in accordance with Article 8, below.
+
+    6.7. Interest. All payments not paid by the date such payments are due shall bear interest from the due date to the date payments are actually paid at the lower of (a) 1% per month or (b) the maximum rate permitted by law.
+
+7.   TERMINATION AND RENEWAL.
+
+    7.1.  Either Party may terminate this Agreement immediately upon written notice to the other Party in the event of any material breach of a term of this Agreement by such other Party that remains uncured 30 days after notice of such breach was received by such other Party or, if the breach is not reasonably capable of cure within 30 days, such longer period, not to exceed 60 days, so long as the cure is commenced within the 30-day period and thereafter is diligently prosecuted to completion as soon as possible and in any event within 60 days.
+
+Source: LEADERSONLINE INC, S-1/A, 4/27/2000
+
+
+
+
+
+   7.2.  Upon termination or expiration of this Agreement, (i) LeadersOnline shall no longer have the right to use any VerticalNet Mark, (ii) VerticalNet shall no longer have the right to use any LeadersOnline Mark; (iii) all Links between the VerticalNet Sites and the LeadersOnline Site shall be removed; (iv) VerticalNet shall remove all LeadersOnline Employer Spotlights from its Sites; (v) VerticalNet shall cease displaying or transmitting all Banners and Newsletter Ads of LeadersOnline; and (vi) LeadersOnline shall return all information concerning Candidates in accordance with Section 5.2 of this Agreement.
+
+    7.3.  Following expiration or termination of this Agreement, the terms and provisions of Section 6 above shall continue to govern LeadersOnline's payment obligations.  Following termination, LeadersOnline shall provide VerticalNet with a final accounting with respect to this Agreement and tender payment of amounts due under Section 6 at the next scheduled payment date. LeadersOnline shall be obligated to pay VerticalNet the fees set forth in Section 6.3.2  [Revenue Sharing] for any Placement that occurs within six (6) months following termination of this Agreement.
+
+    7.4.  LeadersOnline shall have the option, subject to VerticalNet's approval exercised in its sole  and absolute discretion, to extend the Term of this Agreement for an additional 12 months (a "Renewal Term") on such terms and conditions as may be mutually agreed upon by the Parties. To exercise this option, LeadersOnline must notify VerticalNet in writing of its election no later than 90 days prior to the expiration of the initial Term. Unless VerticalNet notifies LeadersOnline of its intention to extend the initial Term of this Agreement for an additional year within 30 days of receiving such notice the Agreement shall terminate in accordance with the terms hereof.
+
+                                       8
+
+8.   DISPUTE RESOLUTION
+
+    8.1.  Negotiation and Escalation.  If any controversy or claim arises relating to this Agreement, the Parties will attempt in good faith to negotiate a solution to their differences, including progressively escalating any controversy or claim through senior levels of management.  If negotiation does not result in a resolution within 30 days of the date one Party first notifies the other of the controversy or claim, either Party may resort to arbitration under Section 8.2  [Arbitration].
+
+    8.2.  Arbitration.  Any controversy or claim between the Parties concerning any breach or alleged breach of this Agreement or performance or nonperformance of any obligation under this Agreement or otherwise with respect to this Agreement which cannot be resolved by negotiation will be resolved by binding arbitration under this Section 8.2  [Arbitration] and the then-current Commercial Rules and supervision of the American Arbitration Association (the "AAA"). If any part of this Section 8.2  [Arbitration] is held to be unenforceable, it will be severed and will not affect either the duty to arbitrate or any other part of this Section 8.2  [Arbitration].  The arbitration will be held in Philadelphia, Pennsylvania, before a sole disinterested arbitrator who is knowledgeable in business information and the Internet and experienced in handling commercial disputes.  The arbitrator shall be appointed jointly by the Parties hereto within 30 days following the date on which the arbitration is instituted.  If the Parties are unable to agree upon the arbitrator within such 30-day period, the AAA shall be instructed to select such arbitrator within 15 days thereafter.  The arbitrator's award will be final and binding and may be entered in any court having jurisdiction.  The arbitrator will not have the power to award punitive or exemplary damages, or any damages excluded by, or in excess of, any damage limitations expressed in this Agreement.  Issues of arbitrability will be determined in accordance solely with the federal substantive and procedural laws relating to arbitration; in all other respects, the arbitrator will be obligated to apply and follow the substantive law of the Commonwealth of Pennsylvania.
+
+    8.3.  Equitable Relief.  Notwithstanding anything to the contrary in this Agreement, in the event of an alleged violation of Article 9 of this Agreement by either Party, the Party alleging such a violation may seek temporary and permanent injunctive or other appropriate equitable relief from any court of competent jurisdiction pending appointment of an arbitrator.  The Party requesting such relief shall simultaneously file a demand for arbitration of the dispute, and shall request that the AAA proceed under its rules for an expedited hearing.
+
+    8.4.  Costs. Unless the arbitrator, if any, determines otherwise, each Party will bear its own attorneys' fees and other costs associated with the negotiation and arbitration provided for by this Article 8, except that costs and expenses of the arbitrator shall be shared equally. If court proceedings to stay litigation or compel arbitration are necessary, the Party who unsuccessfully initiates or opposes such proceedings will pay all associated costs, expenses and attorneys' fees that are reasonably incurred by the other Party.  To the extent that any claim in arbitration relates to the collection of amounts owed under Article 6, the Party entitled to collect such amounts shall be entitled to recover all reasonable costs of collection, including expenses and attorneys' fees that are reasonably incurred.
+
+    8.5.  Two Year Limitation.  Except for claims under Sections 11.4  [Indemnification by LeadersOnline] and 11.5  [Indemnification by VerticalNet] hereof, neither Party may bring a claim or action regardless of form, arising out of or related to
+
+                                       9
+
+this Agreement, including any claim of fraud or misrepresentation, more than two years after the cause of action accrues or becomes known, whichever is later.
+
+    8.6.  Confidentiality.  In order to facilitate the resolution of controversies or claims between the Parties with respect to each Party hereto, such controversies or claims, including details regarding negotiations, arbitration and settlement terms, shall be treated as Confidential Information of the other Party hereto in accordance with Article 9.
+
+    8.7.  Remedial Measures. In the event of (a) any material remediable breach of this Agreement by the other Party which remains uncured 30 days after notice of such breach (other than a breach of a payment obligation) was received by the other Party or (b) any material breach which cannot be cured, the non-breaching Party may take reasonable remediable measures upon prior written notice and at the cost and expense of the breaching Party without prejudice and in addition to any other rights arising from such breach.  In addition, the non-breaching Party shall take reasonable steps to mitigate damages arising out of such breach.
+
+Source: LEADERSONLINE INC, S-1/A, 4/27/2000
+
+
+
+
+
+9.   CONFIDENTIALITY
+
+    9.1.  Confidentiality Obligations.  Except as permitted elsewhere under this Agreement, each Party agrees to take Reasonable Steps (as defined below) (a) to receive and maintain the Confidential Information of the other Party in confidence and (b) not to disclose such Confidential Information to any third parties, provided, the receiving Party may disclose such Confidential Information to its employees, representatives and agents who have a need to know such information for purposes of carrying out the terms of this Agreement. Neither Party hereto shall use all or any part of the Confidential Information of the other Party for any purpose other than to perform its obligations under this Agreement.  The Parties will take Reasonable Steps (as defined below) to ensure that their employees, representatives and agents comply with this provision.  As used herein, "Reasonable Steps" means at least the same degree of care that the receiving Party uses to protect its own Confidential Information, and, in any event, no less than reasonable care.
+
+    9.2.  Exclusions.  "Confidential Information" does not include information that (a) is or becomes publicly available through no fault of the receiving Party; (b) was already known to the receiving Party at the time it was disclosed to the receiving Party, as evidenced by records of the receiving Party; (c) is independently developed by employees of the receiving Party who had no knowledge of or access to such information, as evidenced by records of the receiving Party; (d) is received from a third party who is under no obligation of confidentiality to the disclosing Party; or (e) must be disclosed pursuant to applicable laws, rules or regulations; provided, however, that the receiving Party first gives the disclosing Party notice and a reasonable opportunity to secure confidential protection of such Confidential Information.
+
+    9.3.  Termination.  Subject to Section 12.12  [Survival], upon termination of this Agreement, all Confidential Information shall be returned to the disclosing Party or, at the request of the disclosing Party, destroyed unless otherwise specified or permitted elsewhere under this Agreement.  The confidentiality obligations contained in this Article 9 shall survive termination of this Agreement for a period of three (3) years.
+
+                                       10
+
+    9.4.  Injunction.  Each Party acknowledges and agrees that the provisions of this Article 9 are reasonable and necessary to protect the other Party's interests in its Confidential Information, that any breach of the provisions of this Article 9 may result in irreparable harm to such other Party, and that the remedy at law for such breach may be inadequate.  Accordingly, in the event of any breach or threatened breach of the provisions of this Article 9 by a Party hereto, the other Party, in addition to any other relief available to it at law, in equity or otherwise, shall be entitled to seek temporary and permanent injunctive relief restraining the breaching Party from engaging in and/or continuing any conduct that would constitute a breach of this Article 9, without posting a bond or other security.
+
+    9.5.  Publicity. Except as may be required by law in which case a party will provide as much advance notice as reasonably possible, neither Party will originate any press release concerning the relationship between the Parties or the transactions described in this Agreement without the prior written consent of the other Party, which consent shall not be unreasonably withheld or delayed. Notwithstanding the foregoing, as soon as reasonably practicable following the Effective Date, VerticalNet and LeadersOnline shall jointly issue a press release with respect to entering into this Agreement.
+
+    9.6.  User Data. LeadersOnline shall provide VerticalNet with User Data on each User that enters the LeadersOnline Site through a Link from a VerticalNet Site and submits information through the LeadersOnline Site by sending an email with such information to an email address designated by VerticalNet at the time the request occurs.  User Data shall be maintained by each Party as Confidential Information of the other Party during the Term and 5 years thereafter, provided such User Data may be disclosed only as part of an aggregation or analysis of all User Data but not as independent data.  Upon termination of the Agreement, VerticalNet and LeadersOnline shall jointly own all User Data. Neither Party shall use the User Data other than in accordance with the VerticalNet privacy policy and all applicable laws during the Term and thereafter.
+
+10. REPRESENTATIONS AND WARRANTIES
+
+    10.1.  Representations and Warranties.  Each Party hereby represents, covenants and warrants that:
+
+             10.1.1.  It has the corporate power to enter into this Agreement      and to grant the rights and licenses granted herein and to otherwise      perform this Agreement;
+
+             10.1.2.  It is not a Party to any agreement or understanding and      knows of no law or regulation that would prohibit it from entering into and      performing this Agreement or that would conflict with this Agreement;
+
+             10.1.3.  When executed and delivered by it, this Agreement will      constitute a legal, valid and binding obligation of it, enforceable against      it in accordance with this Agreement's terms, except as enforcement may be      limited by laws or regulations relating to bankruptcy, insolvency and      creditors rights or by principles of equity; and
+
+             10.1.4.  To the best of its knowledge, its own Site and any      information or materials supplied to the other Party hereunder does not and      will not (i) contain any
+
+                                       11
+
+     known viruses, Trojan Horse, worm or harmful code the purpose of which is      to disable or interrupt the operating of a computer system or destroy,      erase or otherwise harm any data, software or hardware, (ii) contain any      false, misleading, libelous or defamatory statements, (iii) constitute an      invasion of the rights of privacy or publicity of any third party, (iv)      violate any applicable laws, rules and regulations or (v) infringe, violate      or misappropriate any Intellectual Property Rights of any third party.
+
+11. DISCLAIMER OF WARRANTY, LIMITATION OF LIABILITY AND INDEMNIFICATION.
+
+Source: LEADERSONLINE INC, S-1/A, 4/27/2000
+
+
+
+
+
+    11.1.  Disclaimer of Warranties by VerticalNet.  EXCEPT AS EXPRESSELY SET FORTH IN THIS AGREEMENT, VERTICALNET HEREBY DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, WITH RESPECT TO THE VERTICALNET SITES AND ALL MATERIALS CONTAINED THEREIN OR PROVIDED HEREUNDER, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. VERTICALNET EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES AS TO THE USER INTERFACE OR USER EXPERIENCE ASSOCIATED WITH THE VERTICALNET SITES AND RESERVES THE RIGHT, IN ITS SOLE DISCRETION, TO MODIFY THE PLACEMENT OF ALL LINKS, URLS AND PROPRIETARY FEATURES; PROVIDED, HOWEVER, THAT IN THE EVENT VERTICALNET REDESIGNS THE USER INTERFACE, SUCH LINKS, URLS AND PROPRIETARY FEATURES SHALL RECEIVE PLACEMENT SUBSTANTIALLY SIMILAR TO THE ORIGINAL DESIGN.
+
+    11.2  Disclaimer of Warranties by LeadersOnline.  EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, LEADERSONLINE HEREBY DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, WITH RESPECT TO THE LEADERSONLINE SITE AND ALL MATERIALS CONTAINED THEREIN OR PROVIDED HEREUNDER, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. LEADERSONLINE EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES AS TO THE USER INTERFACE OR USER EXPERIENCE ASSOCIATED WITH THE LEADERSONLINE SITE AND RESERVES THE RIGHT, IN ITS SOLE DISCRETION, TO MODIFY THE PLACEMENT OF ALL LINKS, URLS AND PROPRIETARY FEATURES; PROVIDED, HOWEVER, THAT IN THE EVENT LEADERSONLINE REDESIGNS THE USER INTERFACE, SUCH LINKS, URLS AND PROPRIETARY FEATURES SHALL RECEIVE PLACEMENT SUBSTANTIALLY SIMILAR TO THE ORIGINAL DESIGN.
+
+    11.3.  Limitation of Liability.  EXCEPT IN CONNECTION WITH A BREACH BY EITHER PARTY OF ARTICLE 9 OR SECTION 10.1.4  [Representations and Warranties] (v) AND THE INDEMNIFICATION OBLIGATIONS OF LEADERSONLINE UNDER SECTION 11.4(i)(c)  [Indemnification by LeadersOnline] AND THE INDEMNIFICATION OBLIGATIONS OF VERTICALNET UNDER SECTION 11.5(i)(c)  [Indemnification by VerticalNet], NEITHER PARTY WILL BE LIABLE FOR ANY SPECIAL, INDIRECT, CONSEQUENTIAL, EXEMPLARY OR INCIDENTAL DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT, HOWEVER CAUSED AND UNDER ANY THEORY
+
+                                       12
+
+OF LIABILITY (INCLUDING NEGLIGENCE), EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+    11.4.  Indemnification by LeadersOnline.  Subject to Section 11.6  [Procedure], LeadersOnline shall (i) defend at its sole expense VerticalNet and its officers, directors, employees and agents from and against any action, suit, proceeding or investigation brought by a third party and caused by, relating to, based upon, arising out of or in connection with (a) any breach by LeadersOnline of the representations, warranties or agreements made by it under this Agreement, (b) negligence, recklessness or intentional misconduct on the part of LeadersOnline or its officers, directors, employees, agents or consultants, or (c) any claim that any portion of the LeadersOnline Site or any materials provided to VerticalNet pursuant to this Agreement violates, infringes or misappropriates any Intellectual Property Right of any third party and (ii) pay all authorized costs, expenses and disbursements incurred in such defense, and any damages, liabilities, obligations, penalties or judgments awarded in any such action, or any settlement amount agreed to by LeadersOnline.
+
+    11.5.  Indemnification by VerticalNet.  Subject to Section 11.6  [Procedure], VerticalNet shall (i) defend at its sole expense LeadersOnline and its officers, directors, employees and agents from and against any action, suit, proceeding or investigation brought by a third party, caused by, relating to, based upon, arising out of or in connection with (a) any breach by VerticalNet of the representations, warranties or agreements made by it under this Agreement, (b) negligence, recklessness or intentional misconduct on the part of VerticalNet or its officers, directors, employees, agents or consultants, or (c) any claim that any portion of the VerticalNet Site or any materials provided by VerticalNet to LeadersOnline pursuant to this Agreement violates, infringes or misappropriates any Intellectual Property Right of any third party and (ii) pay all authorized costs, expenses and disbursements incurred in such defense, and any damages, liabilities, obligations, penalties or judgments awarded in any such action, or any settlement amount agreed to by VerticalNet.
+
+    11.6.  Procedure. If any action shall be brought against a Party in respect to which indemnity may be sought from the other Party pursuant to the provisions of this Article 11, the Party seeking indemnity (the "Indemnitee") shall follow the procedures in this Section.  If an Indemnitee receives any notice of a claim or other allegation with respect to which the other Party (the "Indemnitor") has an obligation of indemnity hereunder, then the Indemnitee will, as soon as reasonably possible after receipt of such notice, give the Indemnitor written notice of such claim or allegation setting forth in reasonable detail the facts and circumstances surrounding the claim.  The Indemnitee will not make any payment or incur any costs or expenses with respect to such claim, except as requested by the Indemnitor or as necessary to comply with this procedure.  The Indemnitee will not make any admission of liability or take any other action that limits the ability of the Indemnitor to defend the case.  The Indemnitor shall immediately assume the full control of the defense or settlement of such claim or allegation, including the selection and employment of counsel, and shall pay all authorized costs and expenses of such defense.  The Indemnitee will fully cooperate, at the expense of the Indemnitor, in the defense or settlement of the claim.  The Indemnitee shall have the right, at its own expense, to employ separate counsel and participate in the defense or settlement of the claim; provided that the Indemnitor shall have no liability for costs or expenses incurred by the Indemnitee, except to the extent authorized by the Indemnitor pursuant to this procedure.  The
+
+                                       13
+
+Indemnitor will not agree to any settlement that does not include a complete release of the Indemnitee.
+
+    11.7.  Essential Part of Bargain.  The Parties acknowledge that the disclaimers and limitations set forth in this Article 11 are an essential element of this Agreement between the Parties and that the Parties would not have entered into this Agreement without such disclaimers and limitations.
+
+12. MISCELLANEOUS
+
+    12.1.  Intellectual Property.
+
+        12.1.1.  Except for the express rights granted to LeadersOnline under this Agreement, LeadersOnline acknowledges and agrees that the Intellectual Property of VerticalNet is and shall remain the sole property of VerticalNet and nothing in this Agreement shall confer in LeadersOnline any right of ownership or license rights in VerticalNet's Intellectual Property, including all
+
+Source: LEADERSONLINE INC, S-1/A, 4/27/2000
+
+
+
+
+
+Intellectual Property arising from or created as a result of VerticalNet's performance of its obligations under this Agreement.  In addition, LeadersOnline shall not now or in the future contest the validity of VerticalNet's ownership of its Intellectual Property; provided, however, that LeadersOnline may contest the validity of VerticalNet's Intellectual Property in any proceeding brought against LeadersOnline alleging infringement or misappropriation of VerticalNet's Intellectual Property.
+
+        12.1.2.  Except for the express rights granted to VerticalNet under this Agreement, VerticalNet acknowledges and agrees that the Intellectual Property of LeadersOnline is and shall remain the sole property of LeadersOnline and nothing in this Agreement shall confer in VerticalNet any right of ownership or license rights in LeadersOnline's Intellectual Property, including all Intellectual Property arising from or created as a result of LeadersOnline's performance of its obligations under this Agreement.  In addition, VerticalNet shall not now or in the future contest the validity of LeadersOnline's ownership of its Intellectual Property; provided, however, that VerticalNet may contest the validity of LeadersOnline's Intellectual Property in any proceeding brought against VerticalNet alleging infringement or misappropriation of LeadersOnline's Intellectual Property.
+
+    12.2.  Parallel Agreement.  VerticalNet agrees that during the term of this Agreement, it shall not enter into an agreement with Futurestep, Inc. to provide promotional opportunities to Futurestep throughout all of the VerticalNet Online Communities, nor enter into any agreement with Futurestep, Inc. for the joint marketing of each other's Sites or services.
+
+    12.3.  Governing Law.  This Agreement shall be governed by and interpreted under the laws of the Commonwealth of Pennsylvania without regard to its conflicts of law provisions.  Subject to the provisions of Section 8, both Parties consent and submit to the exclusive personal jurisdiction of the United States District Courts and the state courts of the Commonwealth of Pennsylvania in and for Montgomery County, Pennsylvania
+
+    12.4.  No Assignment.  Except as otherwise set forth herein, neither Party shall transfer, assign or cede any rights or delegate any obligations hereunder, in whole or in part, whether voluntarily or by operation of law, without the prior written consent of the other Party,
+
+                                       14
+
+which consent may be withheld at the other Party's reasonable business discretion; provided, however, that VerticalNet may transfer this Agreement without the prior written consent of LeadersOnline to an Affiliate of VerticalNet, or to the surviving Party in a merger or consolidation, or to a purchaser of all or substantially all of its assets.
+
+    12.5.  Good Faith.  The Parties undertake to display to each other the utmost good faith, consistent with their respective rights and obligations set forth in this Agreement.
+
+    12.6.  Independent Contractors. In connection with this Agreement, each Party is an independent contractor. This Agreement does not, and shall not be construed to, create an employer-employee, agency, joint venture or partnership relationship between the Parties.  Neither Party shall have any authority to act for or to bind the other Party in any way, to alter any of the terms or conditions of any of the other Party's standard forms of invoices, sales agreements, warranties or otherwise, or to warrant or to execute agreements on behalf of the other or to represent that it is in any way responsible for the acts, debts, liabilities or omissions of the other Party.
+
+    12.7.  Notices.  All notices, reports, payments and other communications required or permitted to be given under this Agreement (each, a "Notice") shall be in writing and shall be given either by personal delivery against a signed receipt, by express delivery using a nationally recognized overnight courier, or by facsimile. All Notices shall be properly addressed as follows, or to such other addresses as may be specified in a Notice given hereunder:
+
+If to VerticalNet:
+
+Attn: General Counsel or Chief Financial Officer VerticalNet, Inc. 700 Dresher Road, Suite 100 Horsham, Pennsylvania 19044 Tel No.: (215) 315-3200 Fax No.: (215) 784-1960 Email: legal@verticalnet.com
+
+with a copy to:
+
+Michael J. Hagan Executive Vice President VerticalNet, Inc. 700 Dresher Road, Suite 100 Horsham, Pennsylvania 19044 Phone No.: (215) 315-3115 Fax No.:   (215) 784-1960 Email: MHagan@verticalnet.com
+
+If to LeadersOnline:
+
+Michael T. Christy LeadersOnline, Inc.
+
+                                       15
+
+18401 Von Karman Ave. Suite 500 Irvine, California 92612 Phone No.: (949) 752-1000 Fax No.:   (949) 752-1085
+
+with a copy to:
+
+Ronald S. Beard, Esq. Gibson, Dunn & Crutcher LLP Jamboree Center, 4 Park Plaza
+
+Source: LEADERSONLINE INC, S-1/A, 4/27/2000
+
+
+
+
+
+Irvine, CA  92614 Phone No.:  (949) 451-4089 Fax No.:    (949) 475-4730
+
+A Notice shall be deemed to be effective upon personal delivery or, if sent via overnight delivery, upon receipt thereof. A Notice sent via facsimile is deemed effective on the same day (or if such day is not a business day, then on the next succeeding business day) if such facsimile is sent before 3:00 p.m. prevailing Eastern Time and on the next day (or if such day is not a business day, then on the next succeeding business day) if such Notice is sent after 3:00 p.m. prevailing Eastern Time.
+
+    12.8.  Amendment or Modification.  No subsequent amendment, modification or waiver of any of the provisions of this Agreement shall be effective unless in writing and signed by the Parties.
+
+    12.9.  Entire Agreement.  This Agreement sets out the entire agreement between the Parties with respect to the subject matter of this Agreement and supersedes all prior agreements, proposals, arrangements and communications, whether oral or written, with respect to the subject matter hereof.
+
+    12.10.  Severability.  If any term or provision of this Agreement is held by a tribunal of competent jurisdiction to be illegal, invalid, or otherwise unenforceable in any jurisdiction, then to the fullest extent permitted by law (a) the same shall not affect the other terms or provisions of this Agreement, (b) such term or provision shall be deemed modified to the extent necessary in the tribunal's opinion to render such term or provision enforceable, and the rights and obligations of the Parties shall be construed and enforced accordingly, preserving to the fullest extent the intent and agreements of the Parties set forth herein and (c) such finding of invalidity, illegality or unenforceability shall not affect the validity, legality or enforceability of such term or provision in any other jurisdiction.
+
+    12.11.  No Waiver.  Failure to enforce any term of this Agreement is not a waiver of future enforcement of that or any other term.  No term or provision of this Agreement will be deemed waived and no breach excused unless such waiver or excuse is in writing and signed by the Party against whom enforcement of such waiver or excuse is sought.
+
+    12.12.  Survival.  Sections 5.2  [Restrictions], , 6.6, 6.7, 7.2, 7.3, 12.1, 12.3, 12.5, 12.6, 12.7, 12.9, 12.10, 12.11, 12.12, 12.14, 12.16 and 12.17 and Articles 8, 9, 10, 11, any payment obligations of the
+
+                                       16
+
+Parties hereunder accruing prior to the date of termination; and any other provision herein expressly surviving termination or necessary to interpret the rights and obligations of the Parties in connection with the termination of the Term of this Agreement will survive the termination or expiration of this Agreement.
+
+    12.13.  No Third Party Beneficiaries. Nothing in this Agreement is intended to confer benefits, rights or remedies unto any person or entity other than the Parties and their permitted successors and assigns.
+
+    12.14.  Waiver of Jury Trial.  Each Party hereby irrevocably waives all rights a Party may have to a trial by jury in any legal action or proceeding arising out of or in connection with this Agreement or the transactions contemplated hereby.
+
+    12.15.  Titles.  The headings appearing at the beginning of the Sections contained in this Agreement have been inserted for identification and reference purposes only and shall not be used to determine the construction or interpretation of this Agreement.  The nomenclature of the defined terms in this Agreement shall only be used for the construction of this Agreement, and are not to be used for any other purpose, including, but not limited to, interpretation for accounting purposes.
+
+    12.16.  Force Majeure.  Neither Party shall be held to be in breach of this Agreement by reason of a force majeure event, including, but not limited to, act of God, delay in transportation, fire, flood, earthquake, storm, war, act of a public enemy, civil commotion or any law, rule, regulation, order or other action by any public authority or any other matter reasonably beyond a Party's control. To the extent failure to perform is caused by such a force majeure event, such Party shall be excused from performance hereunder so long as such event continues to prevent such performance, and provided the non-performing Party takes all reasonable steps to resume full performance, provided further that if such delay in performance exceeds 60 days, the other Party may terminate this Agreement upon written notice to the non-performing Party.
+
+    12.17.  Compliance with Laws.  Each Party shall comply with all prevailing laws, rules and regulations and obtain all necessary approvals, consents and permits required by the applicable agencies of the government of the jurisdictions that apply to its activities or obligations under this Agreement.
+
+    12.18.  Execution in Counterparts, Facsimiles. This Agreement may be executed in one or more counterparts, each of which when delivered to the other Party shall be deemed an original and all of which together shall constitute one and the same instrument.  This Agreement shall become binding when any one or more counterparts hereof, individually or taken together, bear the signatures of both Parties hereto.  For the purposes hereof, a facsimile copy of this Agreement, including the signature pages hereto, shall be deemed an original.
+
+                                       17
+
+IN WITNESS WHEREOF, the Parties to the Agreement by their duly authorized representatives have executed this Agreement as of the date first written above.
+
+VERTICALNET, INC.                           LeadersOnline, INC.
+
+By: /s/ James W. McKenzie, Jr.              By: /s/ Michael T. Christy     ---------------------------------           --------------------------------
+
+Name: James W. McKenzie, Jr.                Name: MICHAEL T. CHRISTY       -------------------------------             ------------------------------
+
+Source: LEADERSONLINE INC, S-1/A, 4/27/2000
+
+
+
+
+
+Title: Sr. Vice President                   Title: PRESIDENT       -------------------------------             ------------------------------
+
+                                       18
+
+Source: LEADERSONLINE INC, S-1/A, 4/27/2000

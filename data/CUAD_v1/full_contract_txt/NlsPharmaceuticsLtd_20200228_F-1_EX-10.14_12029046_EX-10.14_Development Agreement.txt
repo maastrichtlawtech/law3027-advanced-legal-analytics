@@ -1,0 +1,353 @@
+Exhibit 10.14 License and Development Agreement "Agreement" between NLS-1 Pharma AG Alter Postplatz 2 6370 Stans Switzerland "Licensor" / "NLS" and Eurofarma Laboratórios S.A. Avenida Vereador José Diniz 3465 04603-003 São Paulo Brazil "Licensee" / "Eurofarma" (Licensor and Licensee each a ʺPartyʺ collectively the ʺPartiesʺ) regarding Nolazol® (Mazindol CR) in ADHD - Latin America
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+Table of Content WHEREAS 1 1. Definitions 1 2. Grant of License 4 2.1. Grant of rights 4 2.2. Restrictions 4 3. License Fees and Milestone Payments 5 3.1. Upfront Payment 5 3.2. Milestone payments 5 3.3. Royalties 6 3.4. Reports 6 3.5. Records and Audits 6 3.6. Payment Terms 7 4. Business Plan 7 5. Development Work 8 6. Further Development Work 8 7. Brand Name and Trademarks 9 8. Labelling and Packaging 9 9. Regulatory Obligations and Procedures 10 9.1. Regulatory Obligations and Procedures in General 10 9.2. Notifications 10 9.3. Regulatory Obligations of Licensee 10 9.4. Regulatory Obligations of Licensor 10 9.5. Pharmacovigilance 11 10. Cooperation and Joint Project Steering Committee 11 10.1. Cooperation 11 10.2. Transfer of Know-how 11 10.3. Joint Steering Committee 12 11. Commercialization 12 12. Supply 13 13. Property rights to Intellectual Property 13 14. Prosecution of Infringements of Intellectual Property 13 14.1. Notice 13 14.2. Action 13 14.3. Information 14 15. Representations and Warranties 14 15.1. Licensor Representations and Warranties 14 15.2. Licensee Representations and Warranties 14 15.3. Other Representations and Warranties 15 16. Liability and Limitations 15 17. Indemnities 16 17.1. Indemnities by the Licensor 16 17.2. Indemnities by the Licensee 16 17.3. Third party claims 16 18. Confidentiality 17 18.1. Confidentiality Obligations 17 18.2. Exceptions to Obligations 17 18.3. Survival of Confidentiality Obligations 18
+
+i
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+19. Term and Termination 18 19.1. Term 18 19.2. Termination for Change of Control 18 19.3. Termination for Bankruptcy, Liquidation and similar proceedings 18 19.4. Early Termination for Material Breach 18 19.5. Early Termination by the Licensor 19 19.6. Early Termination by the Licensee 19 19.7. Consequences of Expiration or Termination 20 20. General Provisions 20 20.1. Amendments 20 20.2. Notices 20 20.3. Severability / Good Faith 20 20.4. No Waiver 21 20.5. No Assignment 21 20.6. Appendices 21 20.7. Public Announcements 21 21. Governing Law and Jurisdiction 21 Table of Appendices 23 Appendix A - [Template for Licensee Reports] 24 Appendix B - Preliminary Business Plan 25 Appendix C*- Purpose of the JSC pre and post MA * No such appendix completed by the parties.
+
+ii
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+WHEREAS A. NLS carries on the business of researching, developing and manufacturing certain pharmaceutical products and is the legal and beneficial owner of certain Intellectual Property, including Patents, Know-how and other materials (all words with capital letters are defined below); B. Eurofarma is a pharmaceutical company with expertise in researching, developing, manufacturing, marketing and sales of pharmaceutical products, including products in the Field, and has a distribution network throughout Latin America; C. Eurofarma wishes to receive an exclusive license from NLS to register, import, export, store, handle, commercialize, have commercialized, promote, have promoted, distribute, have distributed, sell and have sold the Licensed Product in the Territory, and NLS wishes to grant a respective license on the terms and conditions set out in this Agreement; D. The Parties acknowledge that further development of the Products will be necessary to develop the required Dossier as defined hereunder for obtaining Marketing Authorisation(s) in the Territory and wish to collaborate on the further development of the Products. NOW, THEREFORE, the Parties agree as follows: 1. Definitions When used in this Agreement in capital letters, the terms and abbreviations set forth below, whether used in the singular or plural, shall have the following meaning: Affiliates means any company, enterprise, corporation or business entity which controls, is controlled by, or is under common control with, either the Licensor or Licensee. For this purpose, "control" shall mean the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of an entity, whether through holding a majority of the voting rights of the entity, by contract or otherwise. Agreement shall mean this Agreement, including all of its Appendices. Appendix shall mean any appendix to this Agreement. Article shall mean an article of this Agreement. Change of Control shall mean any merger, consolidation or acquisition of a Party with, by or into another corporation, entity or person; or any change in the ownership of more than fifty percent (50%) of the voting capital stock or actual control over the voting rights in one or more related transactions. Confidential Information shall have the meaning set forth in Article 18.
+
+Developed Intellectual Property
+
+shall mean any and all changes, additional Know-how, improvements and inventions relating to the Intellectual Property (such as, without limitation, method of use patents) made after the Effective Date of this Agreement.
+
+1
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+Distributor shall mean a company appointed by Licensee and agreed by Licensor in a country of the Territory for the import, selling, promotion and distribution of the Licensed Product in such country of the Territory. Dossier shall mean the registration file for the Licensed Product (which will be developed based on the Know-how and the Intellectual Property Rights) including any data, studies, documents, reports, correspondence with regulatory authorities, approvals and information that is necessary for obtaining and maintaining one or several Marketing Authorizations in the Territory. Effective Date shall be the date of the last signature on the last page of this Agreement.
+
+Field shall mean the diagnosis, prevention, and treatment of DSM-V Attention Deficit and Hyperactivity Disorder (ADHD) in children, adolescents and adult populations. Indemnified Party shall have the meaning set forth in Article 17.3.
+
+Intellectual Property shall mean Intellectual Property Rights and Know-how.
+
+Intellectual Property Rights
+
+shall mean with respect to the Licensed Product (as defined hereunder) any and all patents, copyright (including software), rights under data exclusivity laws, property rights in biological or chemical materials, names, trademarks, extension of the terms of any such rights (including supplementary protection certificates), applications for and the right to apply for any of the foregoing registered property rights, and similar or analogous rights anywhere in the world. Joint Steering Committee / JSC
+
+shall have the meaning set forth in Article 10.3 of this Agreement.
+
+Know-how shall mean with respect to the Licensed Product (as defined hereunder), all materials, laboratory, pre-clinical and clinical data, knowhow, trade secrets and all other scientific, technical, including manufacturing or regulatory information, patentable or otherwise, developed, applied or acquired by NLS which relates to the identification, characterization, expression, synthesis, use, or production of the Licensed Product and which is reasonably useful or necessary to research, develop, use, make, have made, import, distribute, offer for sale, and/or sell the Product. Launch shall mean the first commercial sale of a Licensed Product in a country of the Territory by the Licensee or an Affiliate of the Licensee or by a Distributor engaged by Licensee. Lead Countries Brazil, Mexico and Argentina.
+
+License shall have the meaning set forth in Article 2.1 of this Agreement.
+
+2
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+Licensed Product Any and all products that are manufactured, sold, or otherwise supplied by the Licensee (including any Affiliate or Distributor of the Licensee) and which incorporate, or their development makes use of, any Intellectual Property or Developed Intellectual Property. Licensee Know-how shall mean with respect to the Licensed Product (as defined hereunder) all know-how, trade secrets and scientific, technical, including manufacturing or regulatory information, developed, applied or acquired by Eurofarma which relates to the identification, characterization, expression, synthesis, use, or production of the Licensed Product and which is reasonably useful or necessary to research, develop, use, make, have made, import, distribute, offer for sale, and/or sell the Licensed Product. Losses shall have the meaning set forth in Article 17.1 of this Agreement. Marketing Authorisation / MA
+
+in relation to the Licensed Product, shall mean those approvals necessary from one or more competent authorities in the Territory for manufacturing, importing, marketing, distributing, offering for sale and/or selling the Licensed Product in one or several countries of the Territory. Net Sales means the total of the gross invoice prices of Licensed Products sold or leased by the Licensee, an Affiliate, a Distributor, or any combination thereof, less the sum of the following actual and customary deductions where applicable and separately listed: cash, trade, or quantity discounts; sales, use, tariff, import/export duties or other excise taxes imposed on particular sales (in particular value-added tax); transportation charges; or credits to customers because of rejections or returns. For purposes of calculating Net Sales, transfers to an Affiliate or to a Distributor of Licensed Product under this Agreement for (i) end use (but not resale) by the Affiliate shall be treated as sales by Licensee at the list price of the Licensee in an arm- length transaction, or (ii) resale by an Affiliate shall be treated as sales at the list price of the Affiliate. Patents shall mean Brazilian Patent Application No. BR 11 2018 068143 filed on September 6, 2018, and Mexican Patent Application No. MX/a/2018/010864 filed on September 7, 2018, covering multi-layered formulation of Mazindol, including all provisional applications, continuations, divisions, extensions, re-examinations, certificates, reissues and Supplementary Protection Certificates. Phase III Clinical Trial shall mean a controlled clinical study of mazindol CR that aims to establish the therapeutic benefit and safety of mazindol CR in the Field in a larger patient sample in a manner sufficient to be included in the Dossier and obtain one or several Marketing Authorisations to market such Licensed Product in the Territory.
+
+3
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+Report(s) shall have the meaning set forth in Article 3.4. Royalty / Royalties shall have the meaning set forth in Article 3.3. Territory The countries of Latin America Trademarks shall have the meaning set forth in Article 7. 2. Grant of License 2.1. Grant of rights Subject to the conditions and limitations set forth in this Agreement, the Licensor hereby grants to the Licensee, and the Licensee hereby accepts, (i) an exclusive, fee-bearing, non-transferable distribution right of the Licensed Product in the Territory during the Term (the "Distribution"), (ii) an exclusive, royalty-free, non-transferable license to the Licensor's Patents and Trademarks to register, import, export, store, handle, commercialize, have commercialized, promote, have promoted, distribute, have distributed, sell and have sold the Licensed Product during the Term, without the right to sublicense (the "License"), and (iii) an exclusive, royalty-bearing, non-transferable license to the Intellectual Property (except Patents and Trademarks ) and the Developed Intellectual Property and a right to obtain the technology transfer of the Know-How to manufacture the Licensed Product in the Territory during the Term, pursuant to the conditions set forth in Article 2.3 below and elsewhere in this Agreement (the "Technology Transfer"), all to register, import, export, store, handle, commercialize, have commercialized, promote, have promoted, distribute, have distributed, manufacture, have manufactured, sell and have sold the Licensed Product during the Term, without the right to sublicense. 2.2. Restrictions Licensee may extend the rights granted herein to register, import, export, store, handle, commercialize, promote, distribute and sell to its Affiliates and to its Distributors, provided that Licensee shall first provide to Licensor a written assurance from each of such Affiliate or Distributor to agree to be bound by, and to strictly comply with, all applicable terms, conditions, and obligations in this Agreement towards Licensor. Licensee shall not be entitled to assign the License or any of its rights under this Agreement or to grant any sub-licenses. 2.3. Technology Transfer After Licensor and Licensee have agreed to move forward to the Technology Transfer phase, the Parties will execute a separate Technology Transfer Agreement, which shall be at arms-length basis and pursuant to the conditions herein. For that purpose, Licensor hereby undertakes to transfer to Licensee all Know-how in order to enable Licensee to implement it in its plant to register, import, export, store, handle, commercialize, have commercialized, promote, have promoted, distribute, have distributed, manufacture, have manufactured, sell and have sold the Licensed Product during the Term. Licensee undertake to use the transferred Know-how solely for the purposes and limits provided in this Agreement. For the avoidance of any doubt, the Know-how does not include Licensee Know-how Licensor shall render to Licensee all technical assistance necessary to enable Licensee to fully implement the Technology Transfer phase in Licensee's premises. The royalties provided in this Agreement already includes such technical assistance, unless the Parties otherwise mutually and in good-faith agree. In such case, the Parties will provide in separate agreement the additional conditions for the Technology Transfer, which shall be at arms-length basis.
+
+4
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+3. License Fees and Milestone Payments 3.1. Upfront Payment Upon signature of this Agreement and no later than 20 days following it, Eurofarma shall pay to NLS, for the rights pursuant to Article 2.1(i), the non-refundable and non-deductible sum of USD 2'500'000 (in words: US dollars two and a half million). 3.2. Milestone payments Upon achievement of each of the milestone events set out below, Eurofarma shall pay to NLS the non-refundable and non- deductible amounts set out below next to such milestone event: 3.2.1. Clinical Milestones Upon successful completion by NLS in the US of the Phase III Clinical Trial for the treatment of ADHD in adults (successful completion meaning reaching the primary endpoints of the respective study) USD 500'000 Upon successful completion by NLS in the US of the last Phase III Clinical Trial for the treatment of ADHD in children (successful completion meaning reaching the primary endpoints of the respective study) USD 500'000 3.2.2. Regulatory Milestones Upon price approval of the Licensed Product in Brazil by the relevant agency USD 1'000'000 Upon receipt of a MA by the relevant agency of the Licensed Product in any other country in the Territory USD 1'000'000 3.2.3. Sales Milestones (single payments) Upon reaching annual Net Sales of USD 10 million USD 1'000'000 Upon reaching annual Net Sales of USD 50 million USD 2'000'000 Upon reaching annual Net Sales of USD 75 million USD 4'000'000 Upon reaching annual Net Sales of USD 100 million USD 6'000'000
+
+5
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+3.3. Royalties For the Technology Transfer and as applicable for the License granted by NLS to Eurofarma under article 2.1(iii) hereabove, Eurofarma shall pay to NLS royalty payments (the "Royalties") on the annual Net Sales in the Territory according to the following table:
+
+Annual Net Sales in the Territory in USD:
+
+Royalty in Percent of Net Sales under 10 million 7% 10 million to < 20 million 8% 20 million to < 30 million 9% 30 million and above 10% Royalty payments shall be paid quarterly within thirty (45) days following the close of the calendar quarter. 3.4. Reports After the first commercial sale of a Licensed Product anywhere in the Territory, Eurofarma shall submit to Licensor quarterly reports on or before 15 days after the last business day of the month following each quarter of the year, and this for each year. Each report (the "Reports") shall cover Eurofarma's (and each Affiliate's, unless the Parties agree that such Affiliates shall submit its reports directly to Licensor) and Distributors' last recently completed quarter and shall show: (i) the gross sales and Net Sales during the last recently completed quarterly period and the Royalties, in USD, payable with respect thereto; (ii) the number of the Licensed Products sold in each country of the Territory; (iii) the method used to calculate the Royalties; and (iv) the exchange rates used to convert the country currency to USD, as applicable. The Licensee shall provide the above information using the form as shown in Appendix A and include information on the date of the first commercial sale of the Licensed Product in each country. If no sales of Licensed Product have been made by the Licensee during a reporting period, Licensee shall report such information in the corresponding Report(s). 3.5. Records and Audits The Licensee shall keep, and shall require its Affiliates and Distributors to keep, accurate and correct records of the Licensed Product used and sold under this Agreement. Such records shall be retained by the Licensee for ten (10) years following a given reporting period.
+
+6
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+Subject to a written advance notice of thirty (30) calendar days, all relevant records supporting the preparation of the Reports shall be made available during normal business hours for inspection at the expense of Licensor by Licensor or by a selected representative of Licensor for the sole purpose of verifying the Reports and the accuracy of the payments made or due to Licensor under this Agreement. Such inspector shall not request any other documents or information other than these related to this purpose as determined in its sole discretion and the Licensee shall have no obligation to provide the inspector or Licensor any documents or information not related thereto. In the event that any such inspection shows an underreporting and underpayment by the Licensee to Licensor under the terms of this Agreement in excess of one percent (1%) for any twelve-month (12-month) period, then Licensee shall pay the cost of the audit as well as any additional sum that would have been payable to Licensor had the Licensee reported correctly, plus an interest charge at a rate of ten percent (10%) per year. Such interest shall be calculated from the date the correct payment was due to Licensor up to the date when such payment is actually made by the Licensee. For underpayment not in excess of one percent (1%) for any twelve-month (12-month) period, the Licensee shall pay the difference within thirty (30) days without having to pay for the inspection cost but with interest charge calculated as per the provisions of this Article. 3.6. Payment Terms All payments due to the Licensor according to this Agreement shall be in US dollar, unless the Parties mutually agree otherwise. All payments are exclusive of VAT and other applicable taxes. Royalties earned on Net Sales shall not be reduced by the Licensee for any taxes, fees, or other charges imposed by the government of any country on the payment of royalty income, except that all payments made by Licensee in fulfilment of the Licensors' tax liability in any particular country may be credited against earned Royalties or fees due to the Licensor for that country. The Licensee shall pay all bank charges resulting from the transfer of such Royalty payments. Except for article 3.1 hereabove, payments shall be made by wire transfer to the bank nominated by Licensor, in maximum 45 days after the issuance by NLS of the corresponding invoices, In the event any payment due under this Agreement is not made at the agreed term and/or for the corresponding full amount, a late payment charge of ten percent (10 %) p.a. is due, calculated on a pro-rata basis of the number of days between the date at which the outstanding amount was due for payment to Licensor and the date is actually paid. For the payments under Article 2.1(iii) above, referred to in Article 3.3, Licensor understands that any such payments may only be remitted by Licensee after this (or a corresponding) Agreement has been recorded by the Brazilian Patent and Trademark Office ("INPI") and registered by the Brazilian Central Bank ("Bacen"), as required by Brazilian law. 4. Business Plan Prior to the signing of this Agreement, Eurofarma has prepared and presented to NLS a high-level business plan, focusing on the Lead Countries (the "Preliminary Business Plan" as per Appendix B). Following the signing of this Agreement and prior to the Launch in each of the Lead Countries, and in any other countries of the Territories as applicable, Eurofarma shall present to NLS its business plan in such countries (the "Business Plan") consistent with commercially reasonable efforts to launch and market the Licensed Product in such countries of the Territory and consistent with the Preliminary Business Plan.
+
+7
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+Eurofarma shall use reasonable commercial efforts to comply with the sales set out in the Preliminary Business Plan, and the Business Plan may be updated annually by Eurofarma based on updates on the clinical development timelines, market and economic changes and results from clinical trials, which shall be mutually accepted and agreed between the Parties. Except for critical changes in the assumptions considered in the Preliminary Business Plan, the sales shall not vary substantially. 5. Development Work The Parties acknowledge and agree that development work will need to be carried out in the US in order to seek a Marketing Authorization of mazindol CR for use in the Field in the United States (the "Development Work"). The Development Work will in particular consist of, but not be limited to: a. the design, conduct and execution of pre-clinical studies and Phase I Clinical Trial for the End of Phase II Meeting by NLS as the sponsor (the "US Sponsor") in the US in accordance with the guidance and requests from the US FDA; b. the design, conduct and execution of Phase III Clinical Trials by the US Sponsor in the US in accordance with the guidance and requests from the US FDA; c. the development of the registration dossier which shall be submitted by NLS to the FDA to seek a marketing authorization of Nolazol® (mazindol CR) for the treatment of ADHD in the US (the "FDA Dossier"). The Parties further acknowledge and agree that: i. such Development Work shall be carried out by NLS under its sole responsibility and its sole discretion as the US Sponsor; ii. NLS shall bear the costs of the Development Work it carries out in the US for the purpose of filing an NDA and seeking a marketing authorization in the US; iii. NLS shall share with Eurofarma the final reports of the planned studies in the Development Work as soon as available which shall be only used by Eurofarma for the Dossier and for no other purposes. Such reports constitute Developed Intellectual Property and are the sole property and Confidential Information of Licensor. 6. Further Development Work The Parties acknowledge and agree that further development work on the Licensed Product may have to be carried out in order to seek and obtain MA of the Licensed Product in certain of the countries of the Territory (the "Further Development Work"). The Parties acknowledge and agree that: i) NLS shall have sole responsibility and control of such Further Development Work, irrespective of whether it is carried by NLS as sponsor, or delegated by NLS to Eurofarma in any countries of the Territory or to any other 3rd party at NLS sole discretion ii) Eurofarma shall provide at its own costs timely input to NLS on the specific data and information not planned by NLS to be included in the FDA Dossier which are to be requested by the regulatory authorities of any of the Lead Countries to seek a MA in the Lead Countries (the "US Supplemental Data");
+
+8
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+iii) NLS shall use commercially reasonable efforts to generate the US Supplemental Data at a shared cost between the Parties which shall be made available to Eurofarma for inclusion in the registration dossiers filed by Eurofarma to seek a MA; iv) If the regulatory authorities of any countries of the Territory request specific data to be generated locally in subjects of such countries in order to seek a MA, Eurofarma shall solely bear the respective costs of the studies needed to generate such data (the "Local Supplemental Data"); v) Eurofarma shall be responsible for the preparation and submission of the registration dossiers in the Lead Countries and in the other countries of the Territory seeking to obtain a MA in such countries; vi) Eurofarma shall be the responsible Party for the discussions with the regulatory health authorities or with the other relevant authorities of such countries of the Territory involved in the MA process; vii) any intellectual property, know-how, trade secrets, data, processes whether patentable or not which may arise from the Further Development Work and the Supplemental Data shall be solely owned by NLS and shall fall under NLS Intellectual Property Rights and any other rights as the case maybe, except any information that is or becomes public (non-confidential) other than as a direct or indirect result of a disclosure by Licensee or any of its representatives. Licensee Knowhow shall belong to Licensee; viii) as set forth in Article 10.3 below a Joint Steering Committee shall be set-up. The JSC shall solely have an advisory role to the Parties. NLS shall retain final responsibility for the design, conduct and execution of the Development Work and Further Development Work. 7. Brand Name and Trademarks The brand name for the Licensed Product in the Territory shall be Nolazol® (Brazilian trademark application No. 916475913 and in Mexico and elsewhere in the Territory to be provided by Licensor, collectively referred to as "Trademark") and may be modified by another name chosen and solely owned by the Licensor, subject to such modified name being communicated to Licensee no later than 6 months before the market launch of the License Product in Brazil. The Licensor shall be free to select and register any names and trademarks for the Licensed Product at its sole discretion. Such trademarks and names shall be prepared and owned by the Licensor at its expense. The Licensor shall bear all costs associated with the use of such trademarks and names. During the entire validity of this Agreement, Licensor hereby grants to License an exclusive and royaltyfree right to use the Trademark in the Territory. During any sell-off period the license shall be non-exclusive. 8. Labelling and Packaging Licensee shall at its own expense create the labelling, localized product information and packaging for the Licensed Product. Licensor and Licensee shall cooperate in order to obtain the necessary regulatory and governmental approvals for such labelling and packaging.
+
+9
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+9. Regulatory Obligations and Procedures 9.1. Regulatory Obligations and Procedures in General The Parties acknowledge that Marketing Authorisation(s) for the Licensed Product will have to be obtained for the purpose of this Agreement. The Parties will mutually agree on the regulatory pathway(s) to be used through the Joint Steering Committee. 9.2. Notifications Each of the Parties shall promptly notify the other party in writing of any technical or clinical advances, useful modifications, side effects or new government regulations relating to the Licensed Product that shall come to its knowledge. 9.3. Regulatory Obligations of Licensee (i) Eurofarma shall own the MAs pertaining to the commercialization of the Licensed Product in the Field in the Territory during the term of this Agreement or until its termination prior to its term as set forth in Articles 19.2 to 19.6. Upon expiration or termination, Eurofarma shall i) immediately transfer the MAs to the Licensor or to any other party designated by the Licensor and return all relevant documents prepared or submitted that are related to the MAs, including those documents, data or information generated post MA filings, in maximum 30 days after the notification of termination; if the Licensor does not decide and inform within this period to whom the MAs and documents shall be transferred, then the Licensee shall have no obligation to keep them actives ii) shall forfeit its ownership of the MAs in any and all of the countries of the Territory and with other regulatory agencies, without any form of compensation except for the compensation under the conditions set forth in Article 19.2 below and, iii) shall have no further claims of ownership and nor any other claims related to the MAs. (ii) Eurofarma shall solely bear the costs related to the required regulatory procedures and for the MA and the MA application, grant, maintenance, update, variation, defence and renewal, as the case may be, in the Territory throughout the term of this Agreement. (iii) In advance of their use and/or submission, Eurofarma shall furnish NLS with copies of all material correspondence to be sent to the competent regulatory authorities in the Territory, and all MA applications which are prepared for the Licensed Product. NLS shall have the right to comment and Eurofarma must comply with the requested changes by the NLS, provided that any such comments and/or changes are in compliance with the rules of the local and competent regulatory agencies. (iv) Subject to NLS prior written approval which may be granted at its own discretion and for its own reasons, Eurofarma may conduct certain work pre MA approval or post MA approval and in that case Eurofarma agrees to share with NLS any data from laboratory, preclinical, clinical, chemistry, manufacturing and control studies conducted in support of its regulatory filings for the development, approval, and marketing of the Licensed Product and after its marketing approval as the case may be, should Eurofarma conduct any such work on its own. Any contribution of NLS to the costs of such work (that do not fall under 9.3 (ii)) (including, without limitation, translation of documents) shall be the exclusive responsibility of NLS. 9.4. Regulatory Obligations of Licensor Licensor shall take all reasonable actions and render all reasonable assistance to help Licensee obtain and maintain the MA which are reasonably requested by the Licensee or required by the competent authorities in line with local requirements and/or necessary to avoid the imposition of any restriction or condition under the MA by the competent authorities.
+
+10
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+Licensor shall provide the Licensee the Dossier, any updates and variations to the Dossier (such as monograph, method updates or stability data, new manufacturer or API supplier) without undue delay when such additional data is available to the Licensor. In any event, Licensor understands and agrees that any variations and/or updates shall only be implemented by Licensee once this is permissible according to applicable regulatory provisions. In case the corresponding regulatory agency requests any information on any updates and/or variations requested by NLS, the responsibility to provide such information shall be of NLS, and NLS shall be bound to any deadlines and other requirements posed by the regulatory agency. 9.5. Pharmacovigilance The Parties acknowledge that they may be required to submit adverse drug experience reports and supplemental information to governmental agencies with respect to the Products. Eurofarma shall assume full responsibility for all post MA approval Pharmacovigilance activities in the Territory Each Party has the right to receive in good faith all the safety documents referring to the product filed by the other Party to regulatory authorities including PSURs (Periodic Safety Update Report), PBRER (Periodic Benefit Risk Evaluation Report), RMP (Risk Management plans), but not limited to only these. Further, each Party agrees to report to the other Party any serious and unexpected adverse reaction with the use of mazindol CR in the Field within two business days of the initial receipt of a report or sooner if required for either Party to comply with regulatory requirements; and the Parties agree that the Licensee shall immediately report and notify in writing to NLS any adverse or suspected safety adverse events whether related or not to the Licensed Product (the "SAE's" and the "SUSAR's"). Parties shall then immediately set a Pharmacovigilance meeting or conference call to review such case and decide on course of action, in full compliance with their obligations under relevant laws and guidelines. Prior to the first commercial sale of the Licensed Product in the Territory, the Parties will negotiate and enter into a Safety Data Exchange Agreement further specifying the mutual obligations of the parties related to pharmacovigilance, to the extent that they deem this to be required under GCP's, applicable laws or other regulatory obligations, necessary or useful. 10. Cooperation and Joint Project Steering Committee 10.1. Cooperation The parties agree to cooperate in good faith with regard to all issues pertaining to the development of US Supplemental Data and Local Supplemental Data, to regulatory matters concerning the Licensed Product in any countries of the Territories, and the pre- marketing and commercial activities of the Licensed Products in countries of the Territories, as necessary and applicable. 10.2. Transfer of Know-how Each Party shall, at the other Party's request, transfer to the other Party any and all Know-how relating to each Licensed Product that the other Party reasonably needs in order to perform its obligations or exploit its rights under this Agreement. Each Party shall use such Know-how solely for the purpose of performing its obligations or exploiting its rights under this Agreement.
+
+11
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+10.3. Joint Steering Committee Within 60 business days following the execution of this Agreement, the Parties shall set-up a joint project steering committee (the "Joint Steering Committee" or "JSC"), by each Party designating its initial members to serve on the Joint Steering Committee and notifying the other Party of its dates of availability for the first meeting of the Joint Steering Committee. The Joint Steering Committee shall be composed of senior members or representatives of NLS and Eurofarma with relevant competences in clinical development, regulatory, marketing and commercial matters and shall consist of an equal number of members appointed by each Party. The Parties will discuss und agree on the appropriate number of members. Each Party may change its members from time to time. The purpose of the Joint Steering Committee, by sharing the respective competences and experiences of the Parties shall be to as detailed below: i) facilitate the preparation of the Dossiers, identify data which may be necessary to be generated for the filings of the MA applications by the Licensee, in particular in the Lead Countries ii) agree on respective activities and responsibilities of the Parties pre-MA and post MA, in particular regarding regulatory, safety and clinical development matters pre-MA, label changes and other post MA matters iii) align the Parties on pricing strategy, sales, marketing and communication plans related to the Licensed Product, iv) annually review the performance of the Licensed Product in the Lead Countries, and other countries as applicable, against the Business Plan and propose measures to improve performance as relevant and applicable; The Business Plan shall provide sufficient details to enable an accurate assessment of the Licensed Product performance and of the resources allocated by Licensee to support its commercialization. The Joint Steering Committee shall meet a minimum of four times per calendar year at least once in person and otherwise by video- or telephone conference. The JSC shall solely have an advisory role to the Parties. Notwithstanding the above, in the event of a disagreement between the Parties on pricing strategy or on any other issues deemed material by one Party (the "Dispute"), the Dispute shall be escalated to the respective CEO's of the Parties within 30 days following its written notification by the relevant Party to the other Party. The content of Licensee's public communications on NLS, including its strategies, objectives, plans, management team, board of directors, shareholders, finances, product portfolio, intellectual property rights and patents, on the Licensed Product, its revenue and share potential, data, brand and any forward-looking statements claims shall be pre-approved by NLS. 11. Commercialization Subject to Article 10.3 above, Eurofarma shall be in charge and solely responsible for any pre-marketing, marketing, selling, warehousing, handling, distributing and all other commercial activities in relation to the Licensed Product in the countries of the Territory and these activities shall be determined by Eurofarma at its sole discretion and expenses, provided that Eurofarma shall use commercially reasonable efforts to commercialize the Licensed Product in the Lead Countries as a priority and in the other countries of the Territory.
+
+12
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+The Licensee shall use best commercial efforts to make the first commercial sale of the Licensed Product in the Territory within twelve (12) months after receipt of marketing authorization in a given country of the Territory. 12. Supply NLS will supply Eurofarma with the finished Licensed Product based on its COGS. The Parties will enter in due time into a separate manufacturing and supply agreement concerning the Licensed Product, with the possibility of tech-transfer during the term of the Agreement. 13. Property rights to Intellectual Property Both Parties acknowledge that all Intellectual Property existing at the Effective Date shall be and remain the sole property of the Licensor. All right, title and interest in and to any Developed Intellectual Property shall vest in and belong to the Licensor. The Licensee shall execute and deliver all reasonably necessary signatures and/or documents and take any further steps (or have his employees, agents and officers do the same) to the extent necessary to make any Developed Intellectual Property the sole property of the Licensor. The Licensee shall have right to use the Developed Intellectual Property for exploiting its rights granted in this Agreement until its expiration or termination as set forth in Article 19 hereunder. Licensee Know-how shall belong to the Licensee. The Licensee hereby grants to the Licensor an irrevocable, non-exclusive, royalty-free, perpetual, worldwide license to use of any Licensee Know-how. 14. Prosecution of Infringements of Intellectual Property 14.1. Notice Either Party shall give notice to the other Party of any actual or suspected infringement of the Intellectual Property or the Developed Intellectual Property or any unlicensed activity, misuse or unauthorized disclosure of the same by any third party in the Territory as soon as reasonably practicable following such Party becoming aware of it. 14.2. Action In the event of any actual or suspected third party infringement of the Intellectual Property or the Developed Intellectual Property in the Territory, NLS may take at its sole discretion any steps (including legal action) to prosecute the infringement. Licensee shall on request support NLS in all activities which involve the protection of the Intellectual Property and the Developed Intellectual Property and to prosecute the infringement. From the date of notice of a potential infringement, NLS shall have 5 (five) days to communicate to Eurofarma whether it will take actions against such potential infringements. If NLS resolves not to take any such action, the Licensee shall have the right, but not the obligation, to take all activities and steps to protect the Intellectual Property and the Developed Intellectual Property in the Territory, provided however, that the Licensee shall not accept pay, settle or compromise any such claim or proceedings without the prior written consent of NLS.
+
+13
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+14.3. Information The Party in charge of the respective prosecution and legal action shall keep the other Party promptly and fully informed and documented as to the progress of any action. 15. Representations and Warranties 15.1. Licensor Representations and Warranties Licensor represents and warrants that each of the representations and warranties set out below are true and accurate in all respects: a) Authority and capacity The Licensor has the right to enter into this Agreement and any agreement or document referred to herein and perform its obligations hereunder, including granting the licences under Article 2. b) Financial Situation The Licensor has not committed an act of bankruptcy, proposed a compromise or arrangement to its creditors generally, had any petition in bankruptcy filed against it, filed a petition or undertaken any action proceeding to be declared bankrupt, to liquidate its assets or to be dissolved. c) Intellectual Property To the best of Licensor's knowledge (i) Licensor has good, unrestricted and merchantable title to the Intellectual Property licensed to the Licensee hereunder; (ii) no part of the Intellectual Property licensed to the Licensee hereunder has been unlawfully copied from third party materials; (iii) the use of the Intellectual Property will not infringe any third party intellectual property rights. d) Regulatory Compliance To the best of Licensor's knowledge there is no hearing, investigation or audit of any regulatory authority alleging any regulatory potential or actual non-compliance by Licensor or the Licensed Product under any applicable law or a lack of safety at the Effective Date. 15.2. Licensee Representations and Warranties Licensee represents and warrants that each of the representations and warranties set out below are true and accurate in all respects: a) Authority and Capacity The Licensee has the right to enter into this Agreement and any agreement or document referred to herein and to perform its obligations hereunder.
+
+14
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+b) Financial Situation The Licensee is not insolvent and has not committed an act of bankruptcy, proposed a compromise or arrangement to its creditors generally, had any petition in bankruptcy filed against it, filed a petition or undertaken any action proceeding to be declared bankrupt, to liquidate its assets or to be dissolved. c) Regulatory Compliance The Licensee is able to obtain and hold a MA for the Licensed Product under the laws of each country of the Territory and has (or will own at the time of the Launch in that country) any license required under the applicable law to import, sell and market the Licensed Product in the respective country. d) Intellectual Property The Licensee has made all inspections and investigations of the Intellectual Property deemed necessary and desirable by the Licensee and it has made its own evaluation of the Intellectual Property, except any evaluation on non- infringement or validity of such rights, which is not the responsibility of Licensee. 15.3. Other Representations and Warranties Save of the representations and warranties given in Article 15.1 the Licensor makes no further representation or warranty, either express, implied or statutory, written or oral, and any claims, regardless of their legal basis and nature, are, to the fullest extent permissible by law, hereby excluded (unless such claims arise under the representations and warranties of Licensor) and the Licensee waives any such claim or right other than in respect of the Representations and Warranties of the Licensor. This exclusion or waiver applies in particular to: a) any projection, forecast, other forward-looking statement relating to the Licensed Product; a) any success, profitability, value, commercial marketability or competitiveness of any product at the market or its eligibility for reimbursement by any social security institutions, governmental bodies, statutory health insurances and the like; b) any expectation or statement made that any future application for a MA will be granted; c) the extent, duration and validity of any MA, e.g. that any MA will be granted or that a granted MA will not be varied, suspended, revoked, withdrawn or cancelled or otherwise declared invalid by any competent regulatory authority in the Territory; d) the quality, safety or efficacy of any product and other characteristics of any product; e) the presence or absence of any future deficiencies. Accordingly, save as expressly set out in this Agreement, the Licensee shall not be entitled to terminate this Agreement or exercise any right or remedy which would have a similar effect, or to claim damages from the Licensor. 16. Liability and Limitations Either Party shall only be liable for direct losses incurred by the other Party as a direct consequence of a negligent or intentional breach of this Agreement by such liable Party, and shall not be liable for any punitive or indirect damages, losses caused by business interruptions, loss of revenues, loss of profit, damages and loss of goodwill, or any reputational damages, and both Parties waive any claims to such losses.
+
+15
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+In addition, neither Party shall be liable for any claim under this Agreement which is capable of remedy, unless and until the other Party has given such Party written notice containing full details of the breach and such Party has failed to remedy the breach within sixty (60) days of receipt of the notice. 17. Indemnities 17.1. Indemnities by the Licensor Without prejudice to any other provision of this Agreement, the Licensor shall indemnify, defend and hold harmless the Licensee from and against all liabilities, claims, demands, obligations, fines, penalties, judgements, losses or damages whatsoever (including without limitation, court costs, amounts paid in settlement and any legal, accounting and other expert fees and expenses reasonably incurred) (collectively "Losses") suffered, incurred, sustained by or imposed on the Licensee resulting from or arising out of: a) any breach of the representations and warranties made by the Licensor; b) any non-performance or breach of any of the Licensor's obligations under this Agreement. 17.2. Indemnities by the Licensee Without prejudice to any other provision of this Agreement, Licensee shall indemnify, defend and hold harmless Licensor from and against all Losses suffered, incurred, sustained by or imposed upon Licensor resulting from or arising out of: a) any breach of the representations and warranties made by the Licensee; b) any non-performance or breach of any of the Licensee's obligations under this Agreement. 17.3. Third party claims If any claim is brought against a Party entitled to the benefit of an indemnity set out in this Agreement (the "Indemnified Party") by any third party which is likely to result in a claim against the other Party who has given an indemnity under this Agreement (the "Indemnifying Party"), the Indemnified Party shall a) give notice of such third party claim to the Indemnifying Party as soon as reasonably practicable in reasonable detail, including a reasonable explanation of why the Indemnified Party assumes that it is entitled to indemnification under this Agreement; b) keep the Indemnifying Party promptly and fully informed and documented as to the progress of any such claim; c) subject to the Indemnified Party being entitled to employ its own legal advisors take all reasonable steps as to minimise or resolve such liability or dispute and, upon request by the Indemnifying Party, allow the Indemnifying Party to lead or direct the proceedings; d) cooperate with all reasonable requests of the Indemnifying Party in relation to such claim; and e) not accept, pay, settle or compromise any such claim without the prior written consent of the Indemnifying Party (such consent not to be unreasonably withheld, delayed or conditioned).
+
+16
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+18. Confidentiality 18.1. Confidentiality Obligations a) Confidential Information shall mean any information that (i) is not publicly known (ii) has been imparted in circumstances in which the recipient ought reasonably to have known that the information had been imparted in confidence. This includes especially but not exclusively the information described in the clauses 18.1 b), c) and d). b) Each Party undertakes to maintain confidentiality as regards the execution and terms of this Agreement, and to abstain from disclosing the existence of this Agreement, its contents and all information provided to it by the other Party in connection with the negotiation of this Agreement without prior written approval of the other Party. c) The Licensee shall maintain confidentiality with regard to the Dossier and Know-how and any operations, processes, product information, product formulations, information regarding applications and submissions, know-how, designs, trade secrets, product plans, product development efforts, other commercial and product data, software, prototypes, samples and/or data sets related thereto, and any information or analysis derived from Confidential Information. For the avoidance of any doubt, the confidentiality of the Dossier and Know-how shall only apply to information that at the time of assessment is actually considered to be confidential, and not, under any circumstances, the information that lawfully is or has become available to the public. d) The Licensee shall protect any Know-how and any data as Confidential Information and shall not use the Know-how and data for any purpose except as expressly licensed hereby and in accordance with the provisions of this Agreement. Each Party (the "Receiving Party") undertakes: (i.) to maintain as secret and confidential all Confidential Information obtained directly or indirectly from the other Party (the "Disclosing Party") in the course of this Agreement and to respect the Disclosing Party's rights therein; (ii.) to use such Confidential Information only for the purposes of this Agreement; and (iii.) to disclose such Confidential Information only to those of its employees, contractors, and sub-licensees pursuant to this Agreement (if any) to whom and to the extent that such disclosure is reasonably necessary for the purposes of this Agreement. 18.2. Exceptions to Obligations The provisions of clause 18.1 shall not apply to Confidential Information that the Receiving Party can demonstrate by reasonable, written evidence; (i.) is or has become generally available to the public other than as a direct or indirect result of a disclosure by the Receiving Party or any of its representatives; or (ii.) was, prior to its receipt by the Receiving Party from the Disclosing Party, in the possession of the Receiving Party and at its free disposal; or (iii.) is subsequently disclosed to the Receiving Party without any obligations of confidence by a Third Party who has not derived it directly or indirectly from the Disclosing Party; or (iv.) was or is developed by or on behalf of the Receiving Party independently of the Disclosing Party's Confidential Information; or
+
+17
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+(v.) the Receiving Party is required to disclose to the courts of any competent jurisdiction, or to any government regulatory agency, or financial authority, provided that the Receiving Party shall (i) inform the Disclosing Party as soon as is reasonably practicable, and (ii) at the Disclosing Party's request seek to persuade the court, agency, or authority to have the information treated in a confidential manner, where this is possible under the court, agency, or authority's procedures. 18.3. Survival of Confidentiality Obligations The confidentiality obligations provided in this Article shall survive any termination or expiry of this Agreement for period of ten (10) years. 19. Term and Termination 19.1. Term This Agreement will come into effect on the Effective Date and shall continue in full force for ten (10) years from the Launch (the "Initial Term"), or the date of expiry of the last valid patent of the Licensed Product, whichever comes later, subject to clauses 19.2, 19.3, 19.4 and 19.5 hereunder. By mutual agreement of the Parties, the Initial Term may be extended by successive periods of three (3) years. If any relevant registration is not successfully reached with regards to any extension of the Agreement, the Parties shall cooperate and negotiate on arm's length basis in order to obtain a suitable solution and achieve a proper agreement that enables the Parties to fully comply with the rights, obligations and commitments herein set forth. 19.2. Termination for Change of Control In the event of a Change of Control of the Licensee, the Agreement may be terminated by Licensor with immediate effect without any compensation to Licensee or to any other parties. In the event of a Change of Control of the Licensor, the Agreement may be terminated by Licensee. In case of termination of the Agreement, NLS and Eurofarma shall immediately work on a transition out plan, with activities and timelines agreed by the Parties to ensure a proper handover of the Licensed Product so that its market position and the obligations to prescribers, patients and regulatory authorities are fulfilled in accordance with Eurofarma best practices. 19.3. Termination for Bankruptcy, Liquidation and similar proceedings This Agreement may be terminated by either Party, effective upon notice following the expiry of the cure period described hereafter, upon the filing or institution of any bankruptcy, reorganization, liquidation or receivership proceedings of the other Party, or upon the failure by the other Party for more than ninety (90) days to discharge or obtain the dismissal of any such actions filed against it. Such termination shall be effective upon receipt of notice from the affected Party. 19.4. Early Termination for Material Breach If either of the Parties fails to perform or violates any material term of this Agreement (the "Breaching Party"), then the other Party (the "Other Party") may give written notice of default ("Notice of Default") to the Breaching Party.
+
+18
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+If Licensee is the Breaching Party and fails to cure the default within sixty (60) calendar days upon receipt of the Notice of Default, the Licensor has the right to terminate this Agreement with immediate effect by written notice ("Notice of Termination") to the Breaching Party. If Licensor is the Breaching Party and fails to cure the default within sixty (60) calendar days upon receipt of the Notice of Default, the Licensee has the right to terminate this Agreement with immediate effect by written notice ("Notice of Termination") to the Breaching Party and shall be paid by Licensor an indemnity corresponding to the fair market value of the expected discounted cash flows of Licensee over the remaining lifetime of this Agreement. 19.5. Early Termination by the Licensor The Agreement may be terminated by NLS according to Article 19.4 in case Eurofarma fails to use commercially reasonable efforts to obtain a MA and to commercialize the Licensed Product in the Lead Countries, provided that the Supplemental Data, if any, was provided to Eurofarma. If Eurofarma has not made the first commercial sale within twelve (12) months after receipt of the MA in a Lead Country of the Territory, not for reasons outside of its control, or if Eurofarma has failed to use reasonable commercial efforts to meet the annual objectives of the most updated Business Plan during the Term, which may be amended by Eurofarma from time to time and accepted by NLS, then NLS may, upon sixty (60) days prior written notice to Eurofarma (unless Eurofarma makes such first commercial sale within such sixty-day period), terminate the rights granted to Eurofarma with respect to the Licensed Product in such country. 19.6. Early Termination by the Licensee i) Eurofarma may terminate the Agreement upon ninety (90) days prior written notice to NLS in case the US Supplemental Data to support the Dossier for Brazil is not or cannot be provided by NLS within the time limit agreed by the Parties or cannot be generated as part of the Local Supplemental Data for Brazil. ii) Eurofarma may terminate the Agreement in case the activities conducted by NLS under article 5, paragraphs a), b) and c) do not allow the Licensed Product to be approved by the US FDA. iii) Eurofarma may terminate the Agreement in case the Licensed Product fails to receive a MA from the US FDA or a MA is not granted on the Licensed Product in any of the Lead Countries despite reasonable commercial efforts by Eurofarma to seek and obtain such MA. iv). Eurofarma shall have the right to terminate the Agreement in case of fundamental changes in the market, competitive and economic conditions, outside of the Parties control, at the time of the launch of the Licensed Product in the territory which would make its commercialization not economically viable and provided that the Parties after good faith efforts fail to agree on an alternative plan to address this situation within 3 months following the notification by Eurofarma to NLS of its decision to terminate the Agreement under this clause.
+
+19
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+19.7. Consequences of Expiration or Termination The expiration or termination of the Agreement shall have the following consequences: (i) The Licensee shall cease to use the License and cease to conduct any activities that would require the License, unless explicitly stated otherwise in this Article. (ii) Licensee or Affiliates or Distributors may sell off all previously purchased Licensed Products still in their warehouses within a period of six (6) months of the effective date of such termination (the "Sell-Off Period") provided that the sale of such Licensed Products by Licensee or Affiliates or Distributors of the Licensee shall be subject to the terms of this Agreement, including but not limited to the rendering of reports and payment of royalties required under this Agreement. (iii) Promptly upon the request of Licensor, the Licensee shall, at the Licensor's sole discretion and election for each country of the Territory and each Licensed Product either withdraw or transfer all Marketing Authorizations in the Territory to the Licensor (or to a third party as the Licensor directs). Licensee shall take the required steps without any delay and the withdrawal or transfer shall be completed in maximum 90 days after the notification of the request; if the Licensor does not decide and inform within this period to whom the Marketing Authorizations and documents shall be transferred, then the Licensee shall have no obligation to keep them active. If a Marketing Authorization has been applied for, but not yet been granted in any country of the Territory, the same shall apply to the applicant status. (iv) The Licensee shall hand over to the Licensor any and all documents related to the regulatory status or containing Intellectual Property or Confidential Information of Licensor. (v) Termination shall not relieve either Party of its accrued obligations under this Agreement. (vi) With the exception of termination in case of material breach of its obligations by Licensor according to Article 19.4, upon termination, or early termination by the Licensee according to Article 19.6, Licensee shall pay Licensor any unpaid sums (fees, milestone payments, royalties, etc.) related to the Agreement. 20. General Provisions 20.1. Amendments This Agreement may only be modified or amended by a document duly signed by all Parties. Any provision contained in this Agreement may only be waived by a document duly signed by the Party waiving such provision. 20.2. Notices All notices or other communications to be given under or in connection with this Agreement shall be made in writing and shall be delivered by registered mail or overnight courier service to the address that is mentioned on the cover page of this Agreement or subsequently communicated in writing. All notices shall become effective on the day of their reception by the receiving Party, or if the receiving Party refuses its acceptance or does not collect it from the competent post office or mail service, on the date of the refusal. 20.3. Severability / Good Faith Should any part or provision of this Agreement be held to be invalid by any competent court, governmental or administrative authority having jurisdiction, the other provisions of this Agreement shall nonetheless remain valid. In this case, the Parties shall endeavour to negotiate a substitute provision that best reflects the economic intentions of the Parties without being unenforceable, and shall execute all agreements and documents required in this connection. The same shall apply if and to the extent that this Agreement is found to contain any gaps or omissions.
+
+20
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+20.4. No Waiver The failure of any of the Parties to enforce any of the provisions of this Agreement or any rights with respect thereto shall in no way be considered as a waiver of such provisions or rights or in any way affect the validity of this Agreement. 20.5. No Assignment This Agreement may not be assigned or otherwise transferred, nor may any right or obligations hereunder be assigned or transferred, by either Party without the prior written consent of the other Party; provided, however, that Licensor may, without such consent, assign this Agreement and its rights and obligations hereunder, in whole or in part, to an Affiliate or in connection with the transfer or sale of all or substantially all of its assets related to the Licensed Product or the business relating thereto, or in the event of its merger or consolidation or change in control or similar transaction. Licensor shall however refrain from any such permitted assignment if such permitted assignment is reasonably able to jeopardize Licensee's business of Licensed Product in the Territory. 20.6. Appendices All Appendices form an integral part of this Agreement. 20.7. Public Announcements No press releases or other public announcement concerning this Agreement shall be made by either Party unless the form and text of such announcement shall first have been approved by the other Party, except for any announcements based on reporting duties under applicable laws and regulations or stock exchange regulations. 21. Governing Law and Jurisdiction This Agreement shall be governed by and construed in accordance with the substantive laws of the Netherlands, excluding its rules of conflicts of law and the United Nations Convention on Contracts for the International Sale of Goods dated 11 April 1980 (CISG), as amended from time to time. All disputes arising out of or in connection with the present Agreement, including disputes on its conclusion, binding effect, amendment and termination, shall be finally resolved by binding arbitration in accordance with the Rules of Arbitration of the International Chamber of Commerce ("ICC") by one or more arbitrators appointed in accordance with the said rules and experienced in the pharmaceutical business. The place of Arbitration shall be in The Hague, Netherlands, or in a place otherwise mutually agreeable. The arbitration shall be conducted in English.
+
+21
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be duly executed in two counterparts on the date first written above, whereby each Party shall execute and initialize one counterpart, each of which when so executed and delivered shall be an original but shall not be effective until each Party has executed at least one counterpart, but all counterparts shall together constitute one and the same agreement. NLS-1 Pharma AG /s/ Ronald Hafner /s/ Alex Zwyer Ronald Hafner Alex Zwyer Chairman of the Board CEO & Member of the Board of Directors Date: Eurofarma Laboratórios S.A. /s/ Julíana Mazza Reîs /s/ Martha Penna Name: Julíana Mazza Reîs Name: Martha Penna title: Eurofarma Laboratórios S.A. title: Vice Presîdente Inovaçäo Díretora de Gestào de PortfólÎo e LÎcenças Date: Witnesses: /s/ Bruno C.Z. Baptista /s/ Walker Lahmann Name: Bruno Castagnoli Zilli Baptista Name: Walker Lahmann Id.: Portfolio Management & Licensing Coordinator Id: Executive Director
+
+22
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+Table of Appendices Number Name Appendix A [Template for Licensee Reports] Appendix B Preliminary Business Plan
+
+23
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+Appendix A - [Template for Licensee Reports] - to be provided by NLS to Eurofarma within 60 days following the effective date of signature of the Agreement
+
+24
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020
+
+
+
+
+
+License and Development Agreement
+
+Appendix B - Preliminary Business Plan Sales Forecast Latin America - in units (monthly treatments, considering both adult and pediatric indications) Forecast in Units YEAR 1 YEAR 2 YEAR 3 YEAR 4 YEAR 5 YEAR 6 YEAR 7 YEAR 8 YEAR 9 YEAR 10 TOTAL
+
+BRAZIL 67.435 154.809 232.214 348.321 435.401 522.481 548.605 576.035 587.556 599.307 4.072.162 REST OF LATAM 21.931 71.105 135.482 206.698 259.783 299.791 343.867 327.768 287.040 276.346 2.229.813 TOTA LATAM 89.366 225.914 367.696 555.019 695.184 822.272 892.472 903.803 874.596 875.653 6.301.974
+
+25
+
+Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2020

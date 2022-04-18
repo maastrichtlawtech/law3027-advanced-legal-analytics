@@ -1,0 +1,321 @@
+CONFIDENTIAL TREATMENT REQUEST * Portions denoted with an asterisk have been omitted and filed separately with   the Securities and Exchange Commission pursuant to a request for confidential   treatment.                                                                    EXHIBIT 10.16
+
+                              DISTRIBUTOR AGREEMENT                                      BETWEEN                                   INGRAM MICRO                                        AND                                      NETGEAR
+
+NETGEAR Agreement Number: N115                     Effective Date: March 1, 1996                                                    Term: 1 Year
+
+Ingram Micro, a corporation organized under the laws of the State of California, having a place of business located at 1600 E. St. Andrew Place, Santa Ana, California, USA, ("Distributor") and NETGEAR, Inc. ("NETGEAR"), a wholly owned subsidiary of Bay Networks, Inc., organized under the laws of the State of Delaware, having a place of business at 4401 Great America Parkway, Santa Clara, California, USA, agree that the following terms govern the purchase, sale, and licensing of Products (as defined below) between the parties.
+
+NOTICES:
+
+All notices given under the Agreement are to be in writing and may be sent by mail, telefax, courier service or otherwise delivered to the party to be notified at the following address, or to such other address as may have been substituted by written notice:
+
+         To Distributor:                      To NETGEAR:          1600 E. ST. ANDREWS PL.              4401 Great America Parkway          P.O. BOX 25125                       P.O. Box 58185          SANTA ANA, CA 92799-5125             Santa Clara, CA 95052-8185          (???)                                Patricia Dutra-Gerard
+
+DISTRIBUTOR AND NETGEAR ACKNOWLEDGE THAT EACH HAS READ THIS AGREEMENT TOGETHER WITH THE ATTACHED EXHIBIT, UNDERSTANDS IT AND AGREES TO BE BOUND BY ITS TERMS AND CONDITIONS.
+
+AGREED:                                   AGREED:
+
+Distributor                              NETGEAR, Inc.
+
+By: /s/ Sanat K. Dutta                   By: /s/ Joe Booker    ----------------------                   -----------------------     (authorized signature)                    (authorized signature)
+
+Name: Sanat K. Dutta                     Name:  Joe Booker      ---------------                          ----------------       (type or print)                           (type or print)
+
+Title: Executive vice President          Title: Vice President & General Manager                                                 Commercial Business Unit
+
+Date: October 16, 1996                   Date:  November 5, 1996
+
+Ingram NETGEAR Distributor Agreement                                      083096
+
+1.       APPOINTMENT
+
+Subject to Distributor's performance of its obligations under this Agreement, Distributor is appointed as a NETGEAR Distributor and may purchase certain equipment ("Hardware") and licenses for software including revisions and updates ("Software"), as are listed in NETGEAR's then-current price list (the "Price List") for resale within the Territory (as defined below). During the initial one (1) year term of this Agreement. Distributor shall be the only distributor appointed by NETGEAR in the Territory, subject to Distributor conducting mutually agreed to marketing activities as described in the Marketing Plan to be developed and agreed to by and between the parties and which shall be attached to and made a part of this Agreement as Exhibit 4. For the purposes of this provision, distributor shall mean a company acquiring products directly from NETGEAR for resale or license to dealers or other second tier resellers which in turn resell or license the products to end use customers. The foregoing notwithstanding, during the initial one (1) year term and any subsequent period. NETGEAR reserves the right to sell or license Products in the Territory to customers other than distributors such as, but not limited to resellers who procure Products at centralized locations for resale to end-use customers solely through their wholly or majority owned retail outlets, both store-front and catalog. Following the initial one (1) year term, for any extension or renewal term, Distributor's appointment as Distributor shall be non-exclusive and NETGEAR may appoint other distributors in the Territory at its sole discretion.
+
+2.       TERRITORY
+
+Except as may be otherwise provided by law, Distributor may not distribute or re-export any Products outside of the Territory identified herein as the United States without the specific written consent of NETGEAR. In the event that Distributor wishes to expand the scope of the Territory and is able to
+
+
+
+
+
+adequately sell and support Products within the additional region, then upon the approval of NETGEAR, the parties may choose by written agreement to modify the Territory.
+
+3.       ORDERS
+
+A.       Distributor may purchase Products by placing orders under this Agreement which are accepted by NETGEAR. No order will be effective until accepted by delivery of NETGEAR's order acknowledgment. Distributor agrees that each order placed with NETGEAR for Products shall be governed by this Agreement, regardless of any additional or conflicting term in Distributor's order. Unless otherwise specifically stated in the Order, all Orders accepted by NETGEAR shall be deemed to be for immediate release. Orders may be sent by telefax or other electronic media approved by NETGEAR and must specify:
+
+         (a)      Distributor's Purchase Order number,
+
+         (b)      Product and/or Service number and description for each item                   ordered;
+
+         (c)      Desired quantities;
+
+         (d)      Purchase price for each Product or Service ordered;
+
+         (e)      Tax status, including exemption certificate number if tax                   exempt;
+
+         (f)      Preferred shipping method; and
+
+         (g)      Exact "Bill to" and "Ship to" address.
+
+B.       MINIMUM/STANDARD LOT SIZES. Products must be ordered in the minimum and/or standard lot size quantities specified in the Price Schedule. Orders for less than minimum or non-standard lot size quantities of any Product may, at NETGEAR's discretion, be rejected.
+
+4.       PRICES, PRICE LIST, TAXES AND PAYMENT
+
+INGRAM NETGEAR Distributor Agreement    2                                 083096
+
+A.       PRICES. Prices for Produce are those set out in NETGEAR's Price List, less the applicable discount specified in Exhibit 1. All Product prices are F.O.B. NETGEAR's point of shipment, except as specified in Section 5 D.
+
+B.       CHANGES. NETGEAR may modify the Price List at any time, including changes to the Products or their corresponding list prices, but NETGEAR will provide Distributor with written notice thirty days in advance of the effective date of any price increase or Product deletion. Price decreases will apply to the corresponding Products that art shipped by NETGEAR on or after the effective date of the list price decrease.
+
+C.       INVENTORY PRICE PROTECTION. In the event of a list price decrease on any of the Products, Distributor may apply for a credit on those units of Product: a) which were shipped by NETGEAR to Distributor no more than [*] prior to the effective date of the list price decrease and remain unsold in Distributor's inventory or are being returned under open RMA's or are in the inventories of certain mutually agreed to Distributor retail accounts ("CMD Named Accounts") as listed in Exhibit 3 to this Agreement on the effective date of the list price decrease or b) which were in transit between NETGEAR and Distributor on the effective date of the list price decrease.
+
+The amount of the credit on any unit shall be equal to [*]. The foregoing notwithstanding, in the event any of the Products were acquired under special competitive pricing arrangements, the credit on such Products shall be [*].
+
+In order to receive a credit, Distributor a) must submit to NETGEAR within [*] of the effective date of the list price decrease, a report of inventory eligible for the price credit and must have submitted its regular monthly inventory report on time, according to Section 11, in each of the [*] prior to the effective date of the list price decrease. Upon verification by NETGEAR of the eligible units and credit amounts, NETGEAR will issue a credit to the Distributor's account.
+
+D.       TAXES AND OTHER LEVIES. Prices are exclusive of any tax, value-added tax, fee, duty or governmental charge, however designated (except for NETGEAR's franchise taxes or for taxes on NETGEAR's net income) which may be levied or based on the Products, their sale, importation, use, or possession, or on this Agreement. All such taxes or duties shall be for the account of Distributor and any such taxes or duties required to be paid or collected by NETGEAR shall be paid by Distributor to NETGEAR unless Distributor provides NETGEAR with a valid certificate of exemption acceptable to the appropriate taxing or governmental authority.
+
+E.       PAYMENT. Except as may be specifically authorized in writing by NETGEAR, and subject to NETGEAR's continuing approval of Distributor's credit status and financial condition, Distributor will pay NETGEAR for all Products ordered by Distributor within [*] of the date the corresponding invoice is issued by NETGEAR. The foregoing notwithstanding, the parties agree that payment for the initial order placed by Distributor under this Agreement shall be due and payable within [*] of the date the corresponding invoice is issued by NETGEAR. NETGEAR, in its sole discretion, reserves the right to specify, and to change from time to time, Distributor's credit line and payment terms. All payments are to be made in U.S. dollars. Payment for shipments made outside of the United States shall be made by wire transfer in accordance with wire
+
+
+
+
+
+transfer procedures provided by NETGEAR. If at any time Distributor is delinquent in the payment of any invoice, exceeds the credit line established by NETGEAR, or is otherwise in breach of the Agreement, NETGEAR may, in its discretion, withhold shipment (including partial shipments) of any order or may require Distributor to pay cash on delivery for further shipments. Payment not received by NETGEAR when due may be subject to a late payment
+
+INGRAM NETGEAR Distributor Agreement   3                                  083096
+
+service charge provided NETGEAR has provided 10 days written notice to Distributor of Distributor's failure to pay. The foregoing notwithstanding, Distributor shall not be deemed in default under this provision if Distributor withholds payment of amounts legitimately in dispute on any invoice provided that (1) Distributor promptly pays the undisputed portion of the invoice in accordance with the terms of this Agreement; (2) Distributor provides NETGEAR with written notice of the disputed amount within 10 days of receipt of the invoice; and (3) Distributor works in good faith with NETGEAR to resolve any dispute within a reasonable time period.
+
+5.       SHIPMENT, CANCELLATION, RETURNS, TITLE, RISK OF LOSS, SECURITY INTEREST
+
+A.       SHIPMENT. Unless otherwise instructed by Distributor, NETGEAR will ship Products ordered by Distributor using the method and carrier specified in Distributor's then current Routing Guide, as may be amended from time to time by written notice from Distributor. The version of the Routing Guide which is in force on the Effective Date of this Agreement is attached to and made a part of this Agreement as Exhibit 2. Distributor is responsible for all freight, handling, insurance and other transportation charges, and agrees to pay all such charges if separately identified on NETGEAR's invoice. NETGEAR will ship freight collect, uninsured, if so instructed by Distributor's order.
+
+B.       CANCELLATION AND RESCHEDULING. Distributor may not cancel or reschedule any order, in whole or in part, less than five business days prior to the corresponding shipment date specified in NETGEAR's order acknowledgment.
+
+C.       RETURNS. Products received by Distributor as a result of an error by NETGEAR in shipment may be returned for credit. Such credit will include an amount equal to the purchase price of the Product shipped in error as well as the cost of return freight paid by Distributor to return the Product to NETGEAR. Products with defects covered by the warranty may be returned for remedy under the warranty. Prior to returning any Product, whether for exchange or warranty or non-warranty action, Distributor must obtain a Return Materials Authorization (RMA) number from NETGEAR. Distributor should return the Product to NETGEAR, with shipping charges prepaid. NETGEAR will not accept collect shipments. Any Product returned to NETGEAR, which is not returned in accordance with the terms of this Agreement, may be refused.
+
+D.       TITLE, RISK OF LOSS, SECURITY INTEREST. For all shipments to locations within the United States, title to the Hardware passes to Distributor when presented by NETGEAR or its agent to the carrier, from which point Distributor is responsible for risk of all loss, damage to, or theft of all Products. For shipments to locations outside of the United States, (i) risk of loss of all Products passes from NETGEAR to Distributor upon arrival at the point of entry in the destination country specified in Distributor's order.
+
+6.       SOFTWARE LICENSES
+
+A.       INTERNAL USE BY DISTRIBUTOR. Distributor may purchase for its internal use licenses to Software and accompanying documentation by placing orders under this Agreement. Distributor's right to use the Software is subject to the "shrink-wrap" license agreement with the Software and in its accompanying documentation shipped by NETGEAR to Distributor.
+
+B.       DISTRIBUTION OF SOFTWARE LICENSES TO END-USERS. Distributor may procure and distribute Software and accompanying documentation by placing orders under this Agreement. The terms of the licenses for such Software to which end-users are subject are included as a "shrink-wrap" license agreement with the Software and in its accompanying documentation when shipped by NETGEAR (the
+
+INGRAM NETGEAR Distributor Agreement    4                                 083096
+
+"License Agreement"). Distributor agrees that for each Software product it procures under this Agreement, Distributor will (i) assure the deliver the License Agreement to its customers, and (ii) use reasonable efforts to inform its resale customers of the requirement to deliver the License Agreement to their end-user customers in the form supplied by NETGEAR with the Products.
+
+C.       LIMITATIONS. Distributor may not, nor authorize its resale customers or the end-user to translate, decompile, disassemble, use for any competitive analysis, or reverse engineer the Software or its documentation, in any way, except for the event where the end-user locates Products within the European Union, in which case the Software Directive enacted by the Council of European Communities Directive dated 14 May 1991 will apply to the examination of the Software to facilitate interoperability; in such event Distributor agrees to notify, and cause its end-user to notify NETGEAR of any such intended examination of the Software and procure from NETGEAR its support and assistance. Distributor agrees to not translate, nor allow end-users to translate any portion of the Software or associated documentation into any other format or foreign language without the prior written consent of NETGEAR. In no event will Distributor grant the U.S. Government rights in any Software greater than those set out in subparagraphs (a) through (d) of the Commercial Computer Software- Restricted Rights clause at FAR 52,227-19 and the limitations for civilian
+
+
+
+
+
+agencies set out the License Agreement; and subparagraph (c)(l)(ii) of the Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 for agencies of the Department of Defense.
+
+7.       WARRANTIES
+
+A.       WARRANTY PERIOD. The warranty period for each Product is specified in the Price List that is in effect on the date NETGEAR receives Distributor's order, and shall apply regardless of any extended warranty period which Distributor may choose to provide to its customers. NETGEAR reserves the right to change a warranty period for a specific Product but only for orders placed after the effective date of such change, provided that the minimum warranty period for all Products is ninety days, except for those Products specifically identified in the Price List as provided " AS IS" with no warranties.
+
+B.       HARDWARE WARRANTY. NETGEAR warrants to end-user that each item of Hardware will be free from defects in workmanship and materials for its respective warranty period which begins on the date of purchase by the end user. Should a Product fail within this warranty period, Distributor shall replace such defective Product from Distributor's inventory and accept return of the failed Product from Distributor's customer. At intervals to be mutually agreed upon between NETGEAR and Distributor. Distributor shall contact NETGEAR to receive a Return Material Authorization number for the collected failed Product. Upon receipt of the failed Product, NETGEAR shall issue a credit to Distributor for Distributor's purchase price of the replacement Product issued, less any prior credits or allowances. End-users' exclusive remedy is to receive replacement Product from reseller and NETGEAR's sole obligation and liability under this warranty is to issue an off-setting credit to reseller for Product returned by reseller on behalf of its end-user because of defects in workmanship or material.
+
+C.       SOFTWARE WARRANTY. NETGEAR warrants to the end-user that each item of Software, as delivered or updated by NETGEAR and properly installed and operated on the Hardware or other equipment it is originally licensed for, will function substantially as described in its then-current user documentation during its respective warranty period. If any item of Software fails to so perform during its warranty period, as the sole remedy NETGEAR of NETGEAR's supplier will at its discretion provide a suitable fix, patch or workaround for the problem which may be included in a future revision of the Software. For specific Software which is distributed by NETGEAR as a licensee of third parties, additional warranty terms offered by such third parties to end-users may apply.
+
+INGRAM NETGEAR Distributor Agreement    5                                 083096
+
+D.       DISTRIBUTOR'S INTERNAL USE WARRANTY. For Products ordered under this Agreement for Distributor's internal use, NETGEAR provides Distributor the same warranties as described above for end-users.
+
+E.       LIMITATIONS. NETGEAR does not warrant that any item of Software is error-free or that its use will be uninterrupted. NETGEAR is not obligated to remedy any Software defect which cannot be reproduced with the latest revision of the Software. These warranties do not apply to any Product which has been (i) altered, except by NETGEAR or in accordance with its instructions, or (ii) used in conjunction with another vendor's product resulting in the defect, or (iii) damaged by improper environment, abuse, misuse, accident or negligence. Replacement parts furnished under this warranty may be refurbished or contain refurbished components.
+
+THE FOREGOING WARRANTIES AND LIMITATIONS ARE EXCLUSIVE REMEDIES AND ARE IN LIEU OF ALL OTHER WARRANTIES EXPRESS OR IMPLIED, INCLUDING WITHOUT ANY LIMITATION WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. ANY PRODUCT THAT MAY BE FURNISHED BY NETGEAR WHICH IS NOT LISTED IN THE PRICE LIST, OR WHICH IS IDENTIFIED IN THE PRICE LIST AS AN "AS IS" PRODUCT, IS FURNISHED "AS IS" WITH NO WARRANTIES OF ANY KIND.
+
+8.       PRODUCT RETURNS
+
+Prior to returning any Product, whether for exchange or warranty or non-warranty action, Distributor must obtain a Return Materials Authorization (RMA) number from NETGEAR. Distributor should return the product to NETGEAR, [*]. NETGEAR will not accept collect shipments. Any Product returned to NETGEAR, which is not returned in accordance with the terms of this Agreement, may be rejected.
+
+9.       PRODUCT EXCHANGE PRIVILEGES
+
+A.       Distributor may return previously purchased Products for replacement by an equal or greater value of different Products, under the following conditions:
+
+         a) Distributor may return Products only within the [*] period following [*] of each year.
+
+         b) The total value of the returned Products shall not exceed [*] of the Net Shipments invoiced by NETGEAR for all Products, [*], during the [*] immediately preceding each of the above dates.
+
+         c) The replacement Products are not identical to the returned Products. Distributor shall be invoiced for the replacement Products at prices in effect at the time of return, and credited for the value of the returned products at the prices actually paid by the Distributor less any prior credits.
+
+         d) The returned Products have not been in the Distributor's inventory for more than [*] after shipment from NETGEAR.
+
+         e) The returned Products are in their original shipping containers and
+
+
+
+
+
+have not been altered, damaged or used.
+
+10.      DISTRIBUTOR'S RESPONSIBILITIES
+
+INGRAM NETGEAR Distributor Agreement    6                                 083096
+
+A.       PROMOTION AND SALE. Distributor shall sell or license Products only to resale customers which will in-turn resell or transfer the licenses to those Products to end use customers. Distributor may not sell or license Products directly to end use customers without the express written consent of NETGEAR. Distributor agrees to use commercially reasonable efforts to maximize sales of NETGEAR Products.
+
+B.       SUPPORT. Distributor shall be the sole point of contact for its resale customers and their end-use customers in all support situations. Distributor shall provide first level support for its customers, NETGEAR shall provide second and third level support to Distributor in order to resolve end user technical problems.
+
+C.       TRAINING. Distributor agrees to maintain, and to adequately and thoroughly train on an on-going basis, a sufficient staff of qualified sales, marketing, technical and support personnel familiar with the applications, features, benefits, operation and configuration of the Products so as to effectively promote and support the Products and to assure end-user satisfaction. NETGEAR agrees to provide assistance to Distributor to allow Distributor to comply with the foregoing training responsibility.
+
+D.       RESTRICTION ON APPOINTMENT OF ADDITIONAL DISTRIBUTORS. NETGEAR's agreement not to appoint additional distributors of NETGEAR Products in the Territory during the [*] of this Agreement is predicated upon Distributor performing the mutually agreed upon activities included in the Marketing Plan attached as Exhibit 4. In the event Distributor fails to perform the activities included in the Marketing plan in [*], NETGEAR may appoint additional distributors in the Territory and the provisions of this Agreement appointing Distributor as the only NETGEAR distributor in the Territory shall be deemed deleted.
+
+11.      REPORTS
+
+A.       Each month Distributor shall submit a Point of Sale (POS) shipments report covering the preceding month, broken out by Product. The report may be submitted via BBS and shall include, at a minimum, Distributor's reseller's name, address, part number, quantity shipped and unit cost.
+
+B.       Each month Distributor shall prepare and forward to NETGEAR a weekly report showing Distributor's inventory of the Products purchased and licensed from NETGEAR as of the end of the previous calendar month. The report may be submitted via BBS and shall include, at a minimum the part number and the number of units and purchase value of the inventory remaining by Product.
+
+C.       From time to time, but not more than twice per year, NETGEAR may request access to information about the Distributor's business reasonably required to insure that Distributor is in compliance with the terms of this Agreement and the Distributor will grant the right for a NETGEAR representative to visit the Distributor's place of business during normal business hours at a mutually agreed upon time to examine such information.
+
+12.      PROPRIETARY RIGHTS AND INFORMATION
+
+A.       USE OF PROPRIETARY INFORMATION. "Proprietary information includes, without limitation, diagnostics, the Software, all documentation for Software, other user manuals, as well as electronically and visually transmitted printed materials and information disclosed by Distributor or NETGEAR, such as new product information, financial or technical data, information reported under section II above or other information or data that is marked with a proprietary or confidential legend. Each party agrees to hold the Proprietary Information of the other in confidence and to use the Proprietary Information only for the purposes expressly permitted under this Agreement, and to disclose Proprietary Information only to its employees and contractors as authorized in this Agreement and then only on a need-to-know basis. Each party agrees to maintain adequate internal procedures, including appropriate agreements with employees and authorized third parties, to protect the confidentiality of the
+
+INGRAM NETGEAR Distributor Agreement    7                                 083096
+
+Proprietary Information as required by this Agreement. Each party is entitled to appropriate injunctive relief in the event of any unauthorized disclosure or use of its Proprietary Information by the other party.
+
+B.       LIMITATIONS. Proprietary Information does not include information which (i) is rightfully in the receiving party's possession in a complete and tangible form before it is received from the disclosing party, (ii) is or becomes a matter of public knowledge through no fault of the receiving party, (iii) is rightfully furnished to the receiving party by a third party without restriction on disclosure or use, or (iv) is independently developed by the receiving party without use of or reference to the disclosing party's Proprietary Information.
+
+D.       RESERVATION OF RIGHTS. NETGEAR, on behalf of itself and its suppliers, reserves all proprietary rights in and to (i) all designs, engineering details, and other data pertaining to the Products, (ii) all original works, computer programs, fixes, updates (but not Distributor's or 'end-users' developed programs), discoveries, inventions, patents, know-how and techniques arising out
+
+
+
+
+
+of work done wholly or in part by NETGEAR or its subcontractors in connection with the Agreement, and (iii) any and all products developed as a result of such work. The performance by NETGEAR of professional Services shall not be deemed a work-for-hire but shall instead be subject to this section.
+
+E.       ADMINISTRATIVE PROCEDURES. Distributor and end-users are each responsible for the security of their own proprietary and confidential information and for maintaining adequate procedures apart from the Products to reconstruct lost or altered files, data or programs.
+
+13.      TRADEMARKS AND TRADE NAMES
+
+A.       USE OF TRADEMARKS. In the advertising and promotion of the Products, Distributor agrees to use NETGEAR's and certain of Bay Networks' trade names, logos and trademarks (the "Trademarks") as reasonably instructed by NETGEAR during the term of the Agreement. Solely for this purpose, NETGEAR and Bay Networks grant Distributor a non-exclusive, royalty-free, limited right to use the Trademarks. Distributor will not make or permit the removal or modification of any Trademarks or tags, proprietary notices, labels, or other identifying marks placed by Bay Networks, NETGEAR or their agents on the Products or associated literature.
+
+B.       RIGHTS TO TRADEMARKS. Distributor acknowledges that Bay Networks is the exclusive owner of the Trademarks and the use of the Trademarks by Distributor does not convey to Distributor any right, title or interest in or to the Trademarks. Distributor has no claim or right in the Trademarks, service marks, or trade names owned, used or claimed now or in the future by NETGEAR. Distributor agrees that it will not register, nor attempt to register any Trademark or any mark confusingly similar to any Trademark in any jurisdiction unless expressly approved in writing by Bay Networks in advance.
+
+C.       NOTIFICATION. In order to assure proper use and protection of Trademarks, Distributor agrees to inform NETGEAR in writing if Distributor purchases, or is offered for purchase, any Products with a Trademark or other mark of NETGEAR from a source other than NETGEAR, its subsidiaries, or an authorized NETGEAR Distributor.
+
+14.      CLAIMS OF INFRINGEMENT
+
+A.       INDEMNIFICATION. NETGEAR agrees to defend at its own expense any action brought against Distributor to the extent that it is based on a claim that any Product infringes a United States or Territory patent, copyright, trade mark, trade secret or other valid intellectual property right, and will pay any costs and damages finally awarded against Distributor in any such actions which are attributable to any such claim. NETGEAR shall have no liability for any settlement or compromise made without its prior written consent. NETGEAR shall, at its option and expense, (1) procure the right to continue using the Product.
+
+INGRAM NETGEAR Distributor Agreement   8                                  083096
+
+(2) replace or modify the Product so that it becomes non-infringing or, if (1) or (2) are not reasonably or economically possible. (3) Distributor may return the Product to NETGEAR for a refund of an amount equal to the depreciated value of the equipment, or an amount equal to the Distributor's actual purchase price paid without any depreciation minus any prior credits or allowances if the returned Products are in their original shipping containers and have not been altered, damaged or used.
+
+B.       LIMITATIONS. NETGEAR has no liability to Distributor under this section entitled CLAIMS OF INFRINGEMENT with respect to any claim which is based upon or results from (i) the combination of any Product with any equipment, device, firmware or software not furnished by NETGEAR, or (ii) any modification of any Product by a party other than NETGEAR. (iii) Distributor's failure to install or have installed changes, revisions or updates as instructed by NETGEAR, or (iv) NETGEAR's compliance with Distributor's or end-user's specifications, designs or instructions.
+
+15.      TERM OF AGREEMENT AND TERMINATION
+
+A.       TERM. This Agreement will be in effect for one year from the Effective Date and will automatically renew for successive one (1) year periods unless terminated as provided below.
+
+B.       TERMINATION. This Agreement may be canceled at any time without cause, by either party upon ninety (90) days written notice to the other party. Either party may terminate this Agreement immediately if (i) the other party becomes insolvent, files or has filed against it a petition in bankruptcy, or ceases doing business; or (ii) the other party fails to cure a material breach of the Agreement within thirty (30) days after receipt of written notice of such breach from the party not in default. Upon termination of the Agreement by NETGEAR for Distributor's breach, NETGEAR may cancel all of Distributor's unfulfilled orders without further obligation. This Agreement may be terminated at any time without cause by either party upon ninety (90) days written notice to the other party.
+
+C.       EFFECT OF TERMINATION. Except as otherwise specifically stated in the Agreement, neither party will be liable to the other for damages in any form by reason of the expiration or earlier termination of the Agreement.
+
+D.       CONTINUING EFFECT. Any expiration or earlier termination of the Agreement does not modify or alter any of the obligations of the parties which accrued prior to such expiration or termination. The sections of the Agreement which address taxes; duty; fee; payment; security interest; proprietary rights and information; warranties; foreign reshipment; remedies; limitations; termination and governing law survive any expiration or termination of the
+
+
+
+
+
+Agreement. The section entitled SOFTWARE LICENSES also survives any expiration or termination provided Distributor and end-users continues to comply with the provisions of the applicable software license terms. Except as expressly agreed in writing between the parties, no party is liable to the other for any dollar amounts, costs or damages by reason of the expiration or earlier termination of the Agreement.
+
+16.      LIMITATION OF LIABILITY
+
+A.       NETGEAR agrees to indemnify Distributor against any claim arising out of or resulting from the Products or the Agreement, provided that any such claim (i) is attributable to bodily injury, death, or to injury to or destruction of physical property (other than the Products), and (ii) is caused by the negligent act or omission of NETGEAR or a material defect in the Product. This obligation on the part of NETGEAR is subject to Distributor's obligation to (a) give NETGEAR prompt written notice of any such claim, (b) grant NETGEAR control of the defense and settlement of such claim, and (c) assist fully in the defense provided that NETGEAR reimburses Distributor's out-of pocket costs. NETGEAR has no liability for any settlement or compromise made without its prior written consent. Under no circumstances
+
+INGRAM NETGEAR Distributor AGREEMENT     9                                083096
+
+is NETGEAR liable for any third-party claims except for those described in this section and in the section entitled CLAIMS OF INFRINGEMENT.
+
+B.       NETGEAR, at its expense, agrees to maintain insurance coverage to protect against its liabilities under the Agreement in an amount no less than is reasonable or required by applicable statute. This insurance will include (a) worker's compensation insurance, (b) comprehensive general liability insurance, including coverage for product liability, bodily injury and property damage, and (c) automobile liability insurance. Upon Distributor's written request, NETGEAR will furnish the applicable certificate of insurance.
+
+IN NO EVENT WILL EITHER PARTY OR THEIR RESPECTIVE PARENT CORPORATIONS OR SUPPLIERS BE LIABLE FOR (1) THE COST OF SUBSTITUTE PROCUREMENT, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, OR (2) ANY DAMAGES RESULTING FROM INACCURATE OR LOST DATA OR LOSS OF USE OR PROFITS ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, THE FURNISHING OF SERVICES, OR THE USE OR PERFORMANCE OF PRODUCTS, EVEN IF INFORMED OF SUCH DAMAGES. EXCEPT FOR DAMAGES ARISING UNDER SECTIONS 14.A AND 16.A, IN NO EVENT WILL NETGEAR's OR BAY NETWORKS' TOTAL LIABILITY FOR ANY DAMAGES IN ANY ACTION BASED ON OR ARISING OUT OF OR IN CONNECTION WITH THE AGREEMENT EXCEED THE [*] TO NETGEAR PURSUANT TO THE AGREEMENT. EXCEPT FOR DAMAGES ARISING FROM BREACH OF SECTIONS 6.C AND 12,13 OR 17, IN NO EVENT WELL DISTRIBUTOR's TOTAL LIABILITY FOR ANY DAMAGES IN ANY ACTION BASED ON OR ARISING OUT OF OR IN CONNECTION WITH THE AGREEMENT EXCEED THE [*] TO NETGEAR PURSUANT TO THE AGREEMENT.
+
+17.      FOREIGN RESHIPMENT
+
+This Agreement is made subject to all laws, regulations, orders or other restrictions on the export from the United States of Products and accompanying documentation, or of other technical data and information about such Products, which may be imposed from time to time. Distributor agrees not to export, directly or indirectly, any such Products or information to any country for which an export license or other governmental approval is required at the time of export without first obtaining such license or approval. Distributor is solely responsible, at its own expense, for obtaining all necessary import and re-export permits and certificates and for the payment of any and all taxes and duties imposed upon the movement and delivery of Products.
+
+18.      GENERAL
+
+A.       The relationship of NETGEAR and Distributor is that of independent contractors. There is no relationship of agency, partnership, joint venture, employment or franchise between the parties. Neither party has the authority to bind the other or to incur any obligation on the other's behalf or to represent itself as the other's agent or in any way which might result in confusion as to the fact that the parties are separate and distinct entities.
+
+B.       If any provision of this Agreement is held to be invalid or unenforceable, the remainder of the provisions shall remain in full force and effect.
+
+C.       NETGEAR and Distributor agree to comply with the provisions of all applicable federal, state, county and local laws, ordinances, regulations and codes, domestic and foreign.
+
+INGRAM NETGEAR Distributor Agreement    10                                083096
+
+D.       NETGEAR reserves the right to change the discount schedule, policy or program, whether referred to in the Agreement or set forth in an Exhibit to the Agreement. For changes which, in NETGEAR's opinion, may adversely affect Distributor, NETGEAR will provide thirty (30) days notice, or such longer period as NETGEAR deems appropriate, prior to the effective date of such change.
+
+E.       Distributor will keep suitable records to demonstrate compliance with this Agreement. NETGEAR or its representative, at NETGEAR's cost may review these records during normal business hours for the sole purpose of determining Distributor's compliance with this Agreement.
+
+F.       Any waiver, amendment or modification of any right, remedy or other
+
+
+
+
+
+term under the Agreement will not be effective unless mutually agreed to in writing and signed by authorized representatives of both parties. Neither party shall be bound by typographical or clerical errors.
+
+G.       Neither party is liable for its failure or delay to perform its obligations under the Agreement due to strikes, wars, revolutions, acts of terrorism, fires, floods, explosions, earthquakes, shortages in labor, components or materials, government regulations, or other causes beyond its control.
+
+H.       This Agreement may not be assigned by either party without prior written permission from the other party, which permission shall not be unreasonably withheld or delayed. Any attempt by either party to assign any right, or delegate any duty or obligation which arises under the Agreement without such permission will be voidable.
+
+19.      ENTIRE AGREEMENT, GOVERNING LAW
+
+This Agreement, including its attachment and order acknowledgments under the Agreement, constitutes the entire agreement between Distributor and NETGEAR with respect to the purchase, resale and distribution of the Products and is governed by the laws of the State of California except that body of law dealing with conflicts of law.
+
+INGRAM NETGEAR Distributor Agreement    11                                083096
+
+* Portions denoted with an asterisk have been omitted and filed separately   with the Securities and Exchange Commission pursuant to a request for   confidential treatment.
+
+                                    EXHIBIT 1
+
+                                DISCOUNT SCHEDULE
+
+The initial Discount offered Distributor for purchase or license of NETGEAR Products included on the NETGEAR Price List in effect on the Effective Date of this Agreement is [*] off of the then current NETGEAR list price.
+
+Distributor agrees that the foregoing Discount is only applicable to Products included on the NETGEAR Price List on the Effective Date of this Agreement. NETGEAR reserves the right to add Products to the Price List at its sole discretion and any such additional Products shall be offered to Distributor at discounts to be determined at that time.
+
+INGRAM NETGEAR Distributor Agreement    12                                083096
+
+                                    EXHIBIT 2
+
+                           DISTRIBUTOR'S ROUTING GUIDE
+
+INGRAM NETGEAR Distributor Agreement    13                                083096
+
+CONFIDENTIAL TREATMENT REQUEST
+
+* Portions denoted with an asterisk have been omitted and filed separately with   the Securities and Exchange Commission pursuant to a request for confidential   treatment.
+
+                                    EXHIBIT 3
+
+                               CMD NAMED ACCOUNTS [*]
+
+INGRAM NETGEAR Distributor Agreement    14                                092696
+
+                                    EXHIBIT 4
+
+                                 MARKETING PLAN
+
+INGRAM NETGEAR Distributor Agreement    15                                083096
+
+                         CONFIDENTIAL TREATMENT REQUEST
+
+* Portions denoted with an asterisk have been omitted and filed separately with   the Securities and Exchange Commission pursuant to a request for confidential   treatment.
+
+                                    AMENDMENT                                      TO THE                               DISTRIBUTOR AGREEMENT                                      BETWEEN                                   INGRAM MICRO                                        AND                                      NETGEAR

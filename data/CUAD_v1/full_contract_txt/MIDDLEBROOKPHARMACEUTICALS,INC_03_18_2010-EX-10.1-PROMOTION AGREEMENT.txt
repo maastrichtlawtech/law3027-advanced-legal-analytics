@@ -1,0 +1,439 @@
+EXHIBIT 10.1
+
+PROMOTION AGREEMENT
+
+This Promotion Agreement ("Agreement")  is entered into as of February 3, 2010 ("Effective Date")  by and between  MiddleBrook Pharmaceuticals, Inc. ("MBRK") ,  a Delaware corporation with offices at 7 Village Circle, Suite 100,  Westlake, TX 76262 and DoctorDirectory.com, Inc.  ("DD") ,  a South Carolina Corporation, with offices at One Page  Avenue, Suite 280, Asheville, NC 28801.
+
+WHEREAS DD provides advertising, promotion and marketing services to pharmaceutical companies that seek to  market their products to physicians and other allied medical professionals including nurses, nurse practitioners, and  physician assistants; and
+
+WHEREAS MBRK markets prescription drug products, including its product known as MOXATAG® ("MOXATAG")  to  licensed physicians, nurses, nurse practitioners, and physician assistants in the United States ("US")  whose clinical  practice is consistent with MOXATAG's approved labeling; and
+
+WHEREAS MBRK seeks to have MOXATAG promoted to as many licensed US physicians, nurse practitioners and  physician assistants whose clinical practice is consistent with MOXATAG's approved labeling as is possible and  practical.
+
+THEREFORE, for good and valuable consideration, the sufficiency and receipt of which is hereby acknowledged, the  Parties agree that DD will promote MOXATAG to certain US physicians and others as identified in this Agreement  subject to the terms and conditions as set forth below:
+
+Section 1 — Definitions
+
+The terms as used in this Agreement will have the meanings as follows:
+
+(a)  "Actual DD Target Segment MOXATAG TRx" means the total actual number of MOXATAG prescriptions filled in  the US during the applicable Promotional Measurement Period and written by DD Target Segment Prescribers as  stipulated by the Prescriber Data.    (b)  "Actual DD Target Segment MOXATAG TRx Tablets"  means the average number of tablets contained in all  MOXATAG TRx during the applicable Promotional Measurement Period as stipulated by the Prescriber Data  including the tablet quantities as reported by IMS NPA weekly EUTRx (tablets) data, multiplied by Actual DD Target  Segment MOXATAG TRx.    (c)  "Change of Control" means the change of control of MBRK, as defined by any of the following events: A) any third  party acquires directly or indirectly the beneficial ownership of any voting security of MBRK representing fifty  percent (50%) of the total voting power of the then outstanding voting securities of MBRK; B) the consummation of a  merger, consolidation, recapitalization, or reorganization of MBRK with or by a third party which
+
+
+
+
+
+
+
+    would result in fifty percent (50%) or more of the total voting power of MBRK stock being transferred to a third party;  or C) the stockholders or equity holders of MBRK approve a plan of complete liquidation of MBRK or an agreement for  the sale or disposition of all or substantially all the assets of MBRK.
+
+(d)  "Coupons" means those coupons or vouchers provided by MBRK and distributed through a MBRK designee and  whose redemption is tracked by a MBRK designee, and redeemed by patients filling MOXATAG prescriptions  written by DD Target Segment Prescribers.    (e)  "Cost of Coupon Redemption Amount" means the redemption amount and the costs associated with printing  and processing those Coupons redeemed during the applicable Promotion Measurement period.    (f)   "Cost of Samples Amount" means the cost of manufacturing and delivering (including, without limitation, all  applicable freight, packaging and shipping costs) and costs of any third party vendors used in connection with  manufacturing and fulfillment of MOXATAG samples.    (g)  "Deposit" means that amount which MBRK shall deposit with DD upon the Promotion Commencement Date and as  subject to the adjustment outlined in Section 5.    (h)  "DD Target Segment Prescribers" means the licensed prescribers as defined in EXHIBIT 1.    (i)   "Early Termination Fee" means that amount equal to the most recent month's Promotion Fee prior to  termination, multiplied by the number of unexpired months remaining in the current year of the Agreement.    (j)   "End of Agreement Fee"  means the fee, in addition to any other amounts due, payable to DD (when this  Agreement is terminated as further described in Section 18(f)) that is equal to two (2) times the last month's  Promotional Fee earned by DD during the last month of the Agreement.    (k)  "FDA" means the federal Food and Drug Administration.    (l)   "Gross Margin Per Tablet"  means the Gross Margin calculated in accordance with GAAP and which excludes  those non-recurring and unusual items that the Parties agree are not resulting from activities under this Agreement  ("GM Adjustment Items")  divided by the actual number of MOXATAG tablets (as report by IMS Health Rx data)  during the applicable Promotional Period. By way of example, these GM Adjustment Items where appropriate may  include inventory write-offs, changes to prior period reserve balances or foreign exchange gains or losses. MBRK agrees to provide a summary of any GM Adjustment Items to DD. The calculation of Gross Margin Per Tablet will  be based on U.S. sales of MOXATAG only. For periods after September 30, 2010, if the Gross Margin per Tablet is  less than $3.50, the Parties agree to re-evaluate the viability of the Agreement and if deemed necessary will use  commercially reasonable efforts to re-negotiate an amendment to the Agreement.
+
+
+
+
+
+
+
+(m)  "Gross Margin Per TRx"  means the Gross Margin per MOXATAG Rx as calculated in accordance with GAAP  and which exclude GM Adjustment Items. The calculation of Gross Margin Per TRx will be based on U.S. sales of  MOXATAG only. For the period from the Effective Date through September 30, 2010, the Gross Margin per TRx  shall be $36.50.    (n)   "Intellectual Property Rights"  means any and all patents, copyrights, trade secrets, trademarks, and any and  all other intellectual property rights or interests.    (o)   "Medical Professionals" means licensed nurses, nurse practitioners, and physician assistants.    (p)   "MOXATAG"  means the prescription drug known as MOXATAG® (amoxicillin extended-release) Tablets 775 mg,  approved by the FDA, having NDC numbers 110442-142-03 and 110442-142-02 which is marketed in the US,  including currently and subsequently approved formulations, strengths, concentrations and delivery mechanisms.    (q)   "MOXATAG Labeling" shall mean (a) the FDA-approved full prescribing information for MOXATAG, including any  required patient information, and (b) all labels and other written, printed or graphic matter upon any container,  wrapper or any package insert or outsert utilized with or for MOXATAG.    (r)   "Parties" means DD and MBRK collectively.    (s)   "Prescriber Data" means the prescriber data supplied by a nationally recognized prescription data provider where  permitted under federal and state law, which is currently provided to MBRK by IMS Health.    (t)   "Promotion Commencement Date" means the first day of the month in which DD commences its promotion of  MOXATAG under this Agreement.    (u)   "Promotion Fees" means the Promotion Fees payable to DD by MBRK for the promotion services provided under  this Agreement as is calculated by and stipulated in Section 5, which represent fair market value for such services.    (v)   "Promotional Materials" shall mean all MBRK-approved and available sales representative training materials and  all MBRK-approved and available written, printed, graphic, electronic, audio or video matter, including, but not  limited to, journal advertisements, sales aids, formulary binders, reprints, direct mail, direct-to-consumer advertising, Internet postings, broadcast advertisements and sales reminder aids (for example, scratch pads, pens  and other such items), in each case created by a party or on its behalf and used or intended for use by DD and  MBRK in connection with any promotion of MOXATAG hereunder, or disease state or indication for which  MOXATAG is approved for treatment but excluding MOXATAG Labeling.    (w)   "Promotional Measurement Period"  means that month during which prescription activity for MOXATAG is  measured.    (x)   "Territory" shall mean the US, including all US territories, possessions and protectorates.    (y)   "Up-Front Payment" means the one-time payment of $50,000 to be made by MBRK to DD upon execution of this  Agreement.
+
+
+
+
+
+
+
+Section 2 — Term
+
+This Agreement shall commence as of the Effective Date and shall continue in full force and effect for an initial term of  three (3) years from the Promotion Commencement Date, divided into three one-year periods. Unless terminated in  accordance with the provisions of Section 18, this Agreement shall automatically renew for each subsequent one-year  term.
+
+Section 3 — Obligations of DD
+
+3.1 DD will promote MOXATAG to DD Target Segment Prescribers using its full suite of promotion solutions where DD  and MBRK deem appropriate, including but not limited to DD's a)  eSampling Platform, b) eLearning / eDetailing, c) Educational Email, d) Direct-to-Physician Bulletin Services, e)  Physician Portal Promotions, f) Patient Portal Promotions, g) Direct Mail Advertising, h) Coupon Promotions, i)  Consumer Condition Content, j) Search Engine Marketing and k) Mini Web Site Promotions where appropriate and with  prior written approval from MBRK. MBRK shall have final approval as to the promotion solutions utilized by DD in the  promotion of MOXATAG and DD will not deploy any promotion solution without such approval from MBRK. Such  promotion solutions are as listed in EXHIBIT 4. In the event that the Parties mutually agree on the provision of additional  services beyond those listed in EXHIBIT 4, such additional promotional solutions shall be approved by MBRK and  additional Appendices numbered sequentially (1, 2, 3, 4 etc.) setting forth in detail the additional services shall be duly  signed by authorized representatives of the Parties and attached to EXHIBIT 4 and incorporated herein. The services  contained in EXHIBIT 4 and any related modifications thereto represent those services that are reasonably necessary to  accomplish the promotion of MOXATAG. No services shall be provided by DD, or paid for by MBRK, except as agreed  to in writing by the Parties.
+
+3.2. Notwithstanding any other provision of this Agreement, all Promotional Materials relating to MOXATAG that will be  utilized by DD, as well as the use and placement of such Promotional Materials, are subject to written approval by  MBRK prior to such use. DD agrees to provide draft and final versions of all Promotional Materials to MBRK for MBRK's  review and approval prior to DD's use of such Promotional Materials, provided such materials are developed or modified  by DD. MBRK has the authority to perform the final review of all Promotional Materials developed by DD. All Promotional  Materials are subject to MBRK's legal, medical and regulatory review and approval process. DD agrees to make all the  necessary changes and/or modifications requested by MBRK. DD shall not use Promotional Materials for any purpose  outside of this Agreement without prior written authorization from MBRK.
+
+3.3. Notwithstanding any other provision of this Agreement, all MOXATAG sample request forms (hereinafter "Sample  Request Forms")  utilized by DD to document a prescriber's request for MOXATAG samples are subject to written  approval by MBRK. DD agrees to provide draft and final versions of all Sample Request Forms to MBRK for MBRK's  review and approval prior to DD's use of such Sample Request Forms. MBRK has the authority to perform the final  review of all Sample Request Forms developed by DD or used in conjunct. All Sample Request Forms are subject to  MBRK's legal, medical and regulatory review and approval process. DD agrees to make all the necessary changes  and/or modifications requested by MBRK. DD shall not use Sample Request Forms for any purpose outside of this  Agreement without prior written authorization from MBRK.
+
+
+
+
+
+
+
+3.4. Notwithstanding any other provision of this Agreement, DD shall not offer or provide any item to a DD Target  Segment Prescriber, without prior written approval by MBRK. The provision of any items shall be subject to MBRK's  legal, medical and regulatory review and approval process. In the event that MBRK authorizes the provision of items of  nominal value to a DD Target Segment Prescriber, DD shall track and record the item provided, the associated value,  the date of the transaction, and the recipient DD Target Segment Prescriber, including his or her credentials and the  state in which he or she is licensed, where possible.
+
+3.5 DD shall use commercially reasonable efforts to promote MOXATAG to DD Target Segment Prescribers and agrees  to efficiently perform the services as described in EXHIBIT 4 in compliance with MBRK's policies and procedures, and  all applicable federal and state laws and regulations, including, without limitation, federal and state anti-kickback  statutes, regulations contained in 21 CFR (Code of Federal Regulations) as they pertain to promotional activity of an  FDA-approved pharmaceutical product and the US Department of Health and Human Services Office of Inspector General's ("OIG") Compliance Program Guidance for Pharmaceutical Manufacturers (2003). DD agrees that it shall not  directly or indirectly offer, pay or transfer anything of value, in cash or in-kind, to induce DD Target Segment Prescribers  to purchase, order, or recommend MOXATAG, nor shall DD exert undue influence on the medical decision-making of  DD Target Segment Prescribers.
+
+3.6. Both Parties agree to assign sufficient resources and personnel to discharge their respective responsibilities under  this Agreement in a timely manner and at all times operating using a professional standard of work as consistent with  industry standards.
+
+3.7. DD shall select and shall have full and complete control of and responsibility for all actions of its agents, affiliates,  officers, directors, employees or subcontractors (hereinafter "Representatives") and none of DD's Representatives are, or  shall be deemed to be, the Representatives of MBRK for any purpose whatsoever by virtue of this Agreement. MBRK  has no duty, liability or responsibility of any kind, to or for the acts or omissions of DD or any of DD's Representatives.  DD hereby acknowledges and agrees that DD shall cause each of DD's Representatives who participate in rendering the  services to comply with the terms of this Agreement. DD hereby acknowledges and agrees that DD is responsible for  the failure of any of DD's Representatives to comply with the terms of this Agreement.
+
+3.8. DD shall be responsible for obtaining the necessary contracts and releases with or from all parties whose names,  likenesses, testimonials, scripts, musical compositions or similar materials, assets or rights are used in MBRK's  advertising, promotional, publicity or other materials prepared and produced by DD under this Agreement, except where  MBRK undertakes to be responsible for obtaining the same. Notwithstanding the foregoing, without the prior written  consent of MBRK, DD is not authorized hereunder or otherwise to enter into any contract or agreement in respect of the foregoing with a third party if such contract or agreement, directly or indirectly, imposes any obligations on MBRK.
+
+3.9. All records maintained by DD pertaining to DD's services to MBRK pursuant to this Agreement shall be provided to  MBRK within 48 hours of MBRK's request. DD shall also make its records and other documents relevant to MBRK and  this Agreement available for audit or review by MBRK upon MBRK's request at a mutually agreed upon time. Upon  termination or expiration of this Agreement, if specifically requested by MBRK, DD shall provide originals or copies of  such records to MBRK.
+
+
+
+
+
+
+
+Section 4 — Costs to Deliver DD Promotion
+
+All costs incurred by DD to deploy its services to promote MOXATAG to DD Target Segment Prescribers will be the  responsibility of DD, except as provided in Section 6.
+
+Section 5 — Up-Front Payment, Deposit and Promotion Fees
+
+5.1. MBRK will pay DD an Up-Front Payment of $50,000 upon execution of this Agreement.
+
+5.2. Additionally, MBRK shall pay a Deposit to DD equal to $100,000 upon the Promotion Commencement Date. Each  month the Parties will review the amount of the Deposit and where necessary MBRK will make an additional deposit  payment to DD in order to maintain a total Deposit with DD of at least two (2) times the current month's Promotion  Fees. For example, if in a month Promotion Fees are $105,000, then MBRK will increase the Deposit to two (2) times  $105,000, equal to $210,000. The Parties agree to meet via conference call within five (5) business days of the end of  each month to determine the necessary adjustment, if any, to the Deposit. If it is determined that the Deposit must be  increased, within ten (10) business days of the date upon which the new Deposit is determined, MBRK shall send to  DD the funds necessary to increase the Deposit. Notwithstanding the above, if during years 2 and 3 of this Agreement,  in the event MBRK's then current annual form 10-K filed with the SEC does not contain an audit opinion that expresses  doubt about MBRK's ability to continue as a going concern, then MBRK's requirement to maintain a Deposit is waived.  In all cases the Deposit amount will be used to settle any outstanding amounts due to DD by MBRK at the end of the  Agreement or at the time the Deposit requirement is waived.
+
+5.3. Additionally, on or before the last day of each month, DD will invoice MBRK for the Promotion Fees due for the prior  month. Such Promotion Fees shall be calculated by:
+
+(a) the following formula for the period from the Effective Date through September 30, 2010:
+
+For example: if during the month of March 2010 (a) (A) above was 2,000 TRx and (B) above was $36.50 then MBRK  would be remit $36,500.00 to DD.
+
+OR
+
+(b) the following formula for the period from October 1, 2010 through termination of this Agreement:
+
+  (A)   the Actual DD Target Segment MOXATAG TRx for the Promotional Measurement Period multiplied by:      (B)   the applicable Gross Margin Per TRx multiplied by:      (C)   50%.
+
+  (A)   the Actual DD Target Segment MOXATAG TRx Tablets for the Promotional Measurement Period multiplied by:      (B)   the applicable Gross Margin Per Tablet multiplied by:      (C)   50%.
+
+
+
+
+
+
+
+For example: if during the month of November 2010:
+
+MBRK would remit $89,425.00 to DD:
+
+These Promotion Fees represent fair market value payment for such services rendered.
+
+The Parties recognize that Promotion Fees are to be settled on a monthly basis which requires the use of an estimated  Gross Margin Per Tablet amount until the actual Gross Margin Per Tablet for an applicable quarter can be determined.  Accordingly, to facilitate the calculation and settlement of monthly Promotion Fees for periods after September 2010,  the Parties agree that the Gross Margin Per Tablet used to settle the monthly Promotion Fees will be that as calculated  using the previous calendar quarter's Gross Margin Per Tablet data and current period's Actual DD Target Segment MOXATAG TRx. Such Promotion Fees for the three months in any calendar quarter will be subject to a true-up process  which will occur by the 15th of the second month of the following quarter. By way of example, Promotion Fees for each  of the months of April, May and June will be settled using the Gross Margin Per Tablet amount that has been calculated  for the quarter ended March 31 and will be subject to a true-up process to occur by August 15 with any adjustment to  such Promotion Fees being settled between the parties within 15 days thereafter.
+
+5.4 In the event MBRK shall discontinue detailing prescribers in a territory that is not included in the then current DD  Target Segment Prescribers set forth in EXHIBIT 1 to this Agreement or any amendments thereto ("New DD Target  Segment Prescribers"), the Parties shall negotiate in good faith the Promotion Fee payable to DD should MBRK desire  that DD add those New DD Target Segment Prescribers to the DD Target Segment Prescribers.
+
+5.5. The Promotion Fees shall be paid to DD by MBRK fifteen (15) days after the receipt of an invoice from DD by  MBRK.
+
+5. 6. The basis for determining the Promotion Fees will be the Prescriber Data provided by MBRK to DD.
+
+5.7. DD agrees to submit invoices to MBRK at the following address:
+
+Attn: Accounts Payable  MiddleBrook Pharmaceuticals, Inc.  7 Village Circle, Suite 100  Westlake, TX 76262
+
+  (A)=  Actual DD Target Segment MOXATAG TRx (5,000) x an average tablet amount for the month of (9.8 tablets)=  49,000      (B)=  3.65      (C)=  50%
+
+
+
+
+
+
+
+Section 6 — Obligations of MBRK
+
+6.1. Subject to the terms of confidentiality set forth in Section 10, MBRK agrees to make available to DD to the best of  its ability the items as stipulated in EXHIBIT 2. These items include the relevant portions of its marketing and  communications plan, approved sales promotion materials in electronic format where available, sales and training aids  relevant to MOXATAG and promotional items and packages for appropriate licensed physicians, nurses, nurse  practitioners and physician assistants. Additionally, MBRK or its authorized designee shall be responsible for the provision of MOXATAG samples in response to a prescriber's request as documented on a Sample Request Form and  MBRK or its authorized vendor shall be solely responsible for sample fulfillment in quantities agreed to by MBRK. At no  time shall DD take physical possession of or title to MOXATAG samples.
+
+6.2. Notwithstanding any other provision of this Agreement, MBRK shall have the sole right and authority and in its sole  discretion shall take any actions that it deems appropriate with respect to MOXATAG as would normally be done in  accordance with accepted business practices and federal and state legal requirements to maintain the authorization  and/or ability to market MOXATAG in the US, including, without limitation, the following:
+
+(a)  manufacturing, storage, and distribution of MOXATAG trade and sample product;    (b)  the scope and strategies with respect to the marketing and promotion of MOXATAG, including, without limitation,  any labeling or claims in connection therewith;    (c)  booking sales and distribution of MOXATAG hereunder and performance of related services;    (d)  handling all aspects of order processing, invoicing and collection, inventory and receivables;    (e)  providing customer support, including handling medical queries, and performing other functions consistent with  consumer practice for prescription pharmaceuticals;    (f)   responding to product and medical complaints relating to MOXATAG;    (g)  handling all returns of MOXATAG trade and sample product;    (h)  handling all voluntary recalls and market withdrawals of MOXATAG. In such a situation, DD will make available to  MBRK, upon request, all of DD's pertinent records on MOXATAG. Any and all reasonable and documented costs  and expenses incurred by DD in the conduct of any such recall or market withdrawal of MOXATAG shall be  reimbursed by MBRK, except to the extent such recall or market withdrawal was the direct result of the negligence  or failure of DD to comply with its obligations under this Agreement;    (i)   communicating with any governmental agencies and satisfying their requirements regarding all regulatory approvals  of MOXATAG; including the filing of marketing and promotion materials approved by MBRK under this Agreement  with the FDA in compliance with all FDA pharmaceutical marketing regulations;    (j)   reporting adverse reaction reports to US regulatory authorities as required by applicable US law or regulation;
+
+
+
+
+
+
+
+6.3 Notwithstanding any other provision herein to the contrary, MBRK shall have the sole right and responsibility for  establishing and modifying the terms and conditions with respect to the sale of MOXATAG, including, without limitation,  the price at which MOXATAG will be sold, any discounts attributable to payments on receivables and distribution of  MOXATAG.
+
+6.4. MBRK shall be responsible for the costs of obtaining, tracking, processing, formatting and reporting Prescriber  Data.
+
+6.5. The Cost of Samples Amount and the Cost of Coupon Redemption Amount shall be paid by MBRK.
+
+Section 7 — Independent Contractor
+
+In the performance of DD's obligations under this Agreement, DD shall at all times act as and be deemed an  independent contractor. Nothing in this Agreement shall be construed to render DD or any of its employees, agents, or  officers, an employee, joint venturer, agent, or partner of MBRK. As an independent contractor, DD fees and expenses  are limited to those expressly stated in this Agreement. DD is not authorized to assume or create any obligations or  responsibilities, express or implied, on behalf of or in the name of MBRK, except as specifically defined herein. It is understood that the employees, methods, facilities, and equipment of DD shall at all times be under DD's exclusive  direction and control. DD shall not participate in MBRK's fringe benefit plans or any other compensation or benefit plans  MBRK maintains for its own employees.
+
+Section 8 — Representations and Warranties
+
+8.1. MBRK represents and warrants that it has the rights and authorizations required by federal and state agencies,  including but not limited to the FDA granting it the right to market MOXATAG in the US.
+
+8.2. Each Party represents and warrants that it shall comply in all material respects with any and all applicable federal,  state, and local laws and regulations and industry guidances and standards applicable to the conduct of business and  the execution of any and all marketing and promotional services or activities pursuant to this Agreement, including but  not limited to: the federal anti-kickback statute, 42 U.S.C. § 1320a-7b(b); federal Food, Drug and Cosmetic Act and  relevant regulations; FDA promotional guidelines; FDA's Guidance on Industry-Supported Scientific and Educational  Activities (1997); US Department of Health and Human Services OIG Compliance Program Guidance for Pharmaceutical  Manufacturers (2003); the Pharmaceutical Research and Manufacturers of America ("PhRMA")  Code on Interactions  With Healthcare Professionals; and ethics opinions of the American Medical Association ("AMA").
+
+(k)  reporting significant losses and thefts of MOXATAG to the appropriate state and federal regulatory authorities, as  required. In such a situation, DD will make available to MBRK, upon request, all of DD's pertinent records on  MOXATAG. Any and all reasonable and documented costs and expenses incurred by DD in the conduct of such  activities shall be reimbursed by MBRK, except to the extent such reporting obligations were the direct result of the  negligence or failure of DD to comply with its obligations under this Agreement; and
+
+(l)  negotiating any and all agreements with managed care organizations, payers, wholesalers, group purchasing  organizations, and the like, regarding MOXATAG.
+
+
+
+
+
+
+
+8.3. Each Party represents and warrants that it shall comply with any and all applicable federal, state, and local laws  and regulations related to the request and receipt of MOXATAG samples, including, but not limited to, the Prescription  Drug Marketing Act of 1987 ("PDMA") of 1987, as amended, and the regulations promulgated thereunder.
+
+8.4. Each Party represents and warrants that it shall comply with any and all applicable federal, state, and local laws  and regulations including, but not limited to, health, safety and security rules and regulations and all privacy laws and  regulations, including but not limited to applicable state privacy laws and regulations and the privacy requirements set  forth in the Health Insurance Portability and Accountability Act (HIPAA).
+
+8.5. DD represents and warrants that (i) it shall comply with all applicable MBRK policies and procedures, including  MBRK policies governing interactions with physicians and other Medical Professionals; and (ii) it has the specific  industry knowledge, experience and expertise to perform all of its obligations hereunder in good faith and to industry  standards.
+
+8.6. DD represents and warrants that neither DD nor, to DD's knowledge, any person DD employs in connection with  the services to be performed under this Agreement (i) have been debarred, suspended, proposed for debarment,  declared ineligible or voluntarily excluded from participation in this transaction by any federal or state law, regulation, or  action including, but not limited to, 21 U.S.C. § 335(a) and (b); (ii) have been convicted of a criminal offense related to healthcare; and (iii) have been listed by a federal department or agency as debarred, excluded, or otherwise ineligible for  participation in federal healthcare programs as set forth in 42 U.S.C. § 1320a-7, or any similar state law or regulation.  DD shall notify MBRK in writing immediately if it or any person it employs in connection with this Agreement or any  obligations performed hereunder, including any of its employees or other representatives or member of its senior  management, is debarred, is in the process of being debarred, , or if any action, suit, claim, investigation, or legal or  administrative proceeding is pending or is threatened, relating to the debarment or conviction of DD or any person it  employs in connection with this Agreement or any obligations performed hereunder.
+
+Section 9 — Indemnification
+
+9.1. DD shall indemnify and hold MBRK and its Representatives harmless from and against any and all claims, losses,  demands, causes of action, and any and all related costs and expenses including, but not limited to reasonable  attorneys'  fees, costs, and expenses, incurred by them in connection with any claim, suit or proceeding (hereinafter  "Legal Claims"), arising out of or in connection with: (1) any negligent or willful act or omission or error of DD, or any of  its Representatives, to the extent such Legal Claim does not arise from the negligent or willful act or omission of MBRK  or any of its Representatives; (2) any violation by DD, or any of its Representatives of any law, statute, ordinance or  regulation; (3) any breach by DD of any of its representations, warranties or obligations under this Agreement; or (4)  statements or representations by DD, or its Representatives, that are contrary to the MOXATAG Labeling or the approved Promotional Materials and/or outside the FDA-approved indication(s) for MOXATAG.
+
+
+
+
+
+
+
+9.2. DD warrants that any Promotional Materials developed by DD or its Representatives under this Agreement, do not  infringe, misappropriate or otherwise violate any Intellectual Property Rights of any third party, and agrees to protect,  indemnify and hold harmless MBRK and its Representatives against any and all claims, losses, demands, causes of  action, and any and all related costs and expenses including, but not limited to reasonable attorneys'  fees, costs, and  expenses, incurred by them in connection with any assertion for such infringement, misappropriation or breach.
+
+9.3. DD warrants that any promotional services rendered by DD or its Representatives under this Agreement, do not  infringe, misappropriate or otherwise violate any Intellectual Property Rights of any third party, and agrees to protect,  indemnify and hold harmless MBRK and its Representatives against any and all claims, losses, demands, causes of  action, and any and all related costs and expenses including, but not limited to reasonable attorneys'  fees, costs, and  expenses, incurred by them in connection with any assertion for such infringement, misappropriation or breach.
+
+9.4. MBRK warrants that MOXATAG does not infringe, misappropriate or otherwise violate any Intellectual Property  Rights of any third party, and agrees to indemnify and hold harmless DD and its Representatives against any and all  claims, losses, demands, causes of action, and any and all related costs and expenses including, but not limited to  reasonable attorneys'  fees, costs, and expenses, incurred by them in connection with any assertion for such  infringement, misappropriation or breach.
+
+9.5. MBRK shall indemnify and hold DD harmless from and against any damages, loss or expenses, including  reasonable attorneys'  fees, DD may sustain or incur as the result of any Legal Claims made, brought, or threatened  against DD, arising out of: (1) any negligent or willful act or omission of MBRK, or any of its Representatives, to the  extent that such Legal Claim does not arise from the negligent or willful act or omission of DD, or any of its  Representatives; (2) any adverse events relating to the use of MBRK products; (3) assertions made in Promotional  Materials, provided MBRK approved such Promotional Materials prior to implementation, including those that DD  prepared for MBRK, and there are no deviations in such Promotional Material from the time MBRK provides DD with  approval of such Promotional Material to the time that such Promotional Material is produced, printed and/or distributed  by DD or on behalf of DD or MBRK; or (4) any breach by MBRK of any of its representations, warranties or obligations  under this Agreement.
+
+9.6. A party seeking indemnification hereunder (an "indemnified party")  shall promptly notify the other party (the  "indemnifying party") of any claim for which it intends to seek indemnification pursuant to this Section 9 (an "Indemnified  Claim") ,  upon becoming aware thereof, shall permit the indemnifying party at the indemnifying party's cost to defend  against such Indemnified Claim and to control the defense and disposition (including, without limitation, all decisions to  litigate, settle subject to the settlement conditions set forth below, or appeal) of such Indemnified Claim and shall  cooperate in the defense thereof. The indemnified party may, at its option and expense, have its own counsel participate  in any such proceeding and shall cooperate with the indemnifying party and its insurer in the disposition of any such  matter. Except with the prior consent of the indemnified party, which consent shall not be unreasonably withheld or  delayed, the indemnifying party may not enter into any settlement of any Indemnified Claim unless such settlement  includes an unqualified release of the indemnified party.
+
+9.7. The provisions of this Section 9 shall survive the termination of this Agreement.
+
+
+
+
+
+
+
+9.8. NOTWITHSTANDING THE FOREGOING, NEITHER PARTY SHALL BE LIABLE TO THE OTHER PARTY, UNDER  ANY LEGAL OR EQUITABLE THEORY, FOR ANY INCIDENTAL, SPECIAL OR INDIRECT DAMAGES OF ANY KIND,  SUFFERED BY OR OTHERWISE COMPENSABLE TO SUCH OTHER PARTY, ARISING OUT OF, UNDER OR  RELATING TO THIS AGREEMENT, WHETHER OR NOT ADVISED OF THE POSSIBILITY OF SUCH.
+
+Section 10 —Confidentiality
+
+Both Parties agree to be bound by the Confidentiality Agreement executed by DD and MBRK on December 8, 2009,  and which is incorporated by reference as part of this Agreement.
+
+Section 11 — Intellectual Property
+
+11.1. All materials (including Promotional Materials), documents, information, descriptions and suggestions of every  kind supplied to DD by MBRK or any other affiliate of MBRK in connection with and/or pursuant to this Agreement or  relationship established between DD and MBRK (including, without limitation, any such materials (including Promotional  Materials), documents, information, descriptions and suggestions supplied to DD by MBRK prior to the execution of this  Agreement) shall be the sole and exclusive property of MBRK and MBRK shall have the right to make whatever use it deems desirable of any such materials, documents, information, descriptions and suggestions. Upon termination or  expiration of this Agreement, DD shall promptly return such items, including all copies thereof, to MBRK or dispose of  such items as directed by MBRK.
+
+11.2. DD agrees that any Intellectual Property Rights associated with Promotional Materials developed under this  Agreement shall be the exclusive property of MBRK.
+
+11.3. Prior to presentation to MBRK of any work or work product produced by DD pursuant to this Agreement, DD, at its  own expense, shall insure that all such work or work product does not violate or infringe upon the Intellectual Property  Rights of any third party.
+
+11.4. All trademarks, service marks or logos developed under this Agreement shall be the exclusive property of MBRK.
+
+11.5. DD will not have the right to use the name of MBRK, MOXATAG, or MBRK's trademarks, service marks, logos, or  other similar marks in any manner except with the prior written approval of MBRK; provided that the foregoing shall not  prohibit DD's use of MBRK's names or marks in connection with the performance of the services in a manner consistent  with this Agreement. Nothing in this Agreement shall be construed to assign or license any rights to DD.
+
+Section 12 — Assignment of Work Product
+
+12.1. For good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, DD hereby  sells, assigns and transfers to MBRK and MBRK shall be the exclusive owner, assignee, and transferee of the entire  right, title and interest, including all renewals for the entire world, in and to all work performed and work product  developed or produced under this Agreement, including, but not limited to, materials (including Promotional Materials),  writings, documents or other information conceived or reduced to practice or
+
+
+
+
+
+
+
+authored by DD or any of DD Representative's, either solely or jointly with others, in connection with and/or pursuant to  this Agreement or the relationship established between DD and MBRK or with information, materials (including  Promotional Materials) or facilities of MBRK received or used by DD or DD's Representatives during the period in which  DD is retained by MBRK.
+
+12.2. In the event DD retains the service of a third party to perform any of DD's obligations hereunder DD shall, prior to  commencement of any work by such third party, obtain the third party's written acknowledgement that all work done by  such third party shall be deemed "work made for hire" and that the copyright in such material shall rest and remain with  MBRK, or secure from such third party written assignment of all right, title and interest in and to the copyright in any  material created by such third party.
+
+Section 13 — Governing Law / Choice of Forum
+
+The Parties agree that the venue for any action, injunctive application or dispute determinable by a court of law arising  out of this Agreement and that this Agreement shall be governed by and construed and enforced in accordance with the  laws of the State of North Carolina, without giving effect to choice of law or arbitration provisions, and that the federal  and state courts therein shall have jurisdiction over the subject matter and the Parties.
+
+Section 14 — Survival of Certain Provisions
+
+The terms, provisions, representations, and warranties contained in Sections 3.7, 3.9, 9, 10, 11, 12, and 13 of this  Agreement by their terms are intended to survive the performance thereof by either party or both Parties hereunder shall  so survive the completion of performance, expiration, termination or cancellation of this Agreement.
+
+Section 15 — Entire Agreement / Amendments
+
+This Agreement, together with any exhibits and attachments hereto and any orders issued hereunder, constitutes the  entire agreement between the Parties hereto and shall supersede and take the place of any and all agreements,  documents, minutes of meetings or letters concerning the subject matter hereof that may, prior to the Effective Date, be  in existence. Furthermore, this Agreement shall supersede any and all pre-printed terms on any orders, invoices, and  other related documents and any and all orders issued by DD. This Agreement may only be amended by a statement in  writing to that effect signed by duly authorized representatives of MBRK and DD.
+
+Section 16 — Severability
+
+If any provision of this Agreement is found invalid or unenforceable by a court of competent jurisdiction, the remainder of  this Agreement shall continue in full force and effect. The Parties shall negotiate in good faith to substitute a valid, legal,  and enforceable provision that reflects the intent of such invalid or unenforceable provision.
+
+
+
+
+
+
+
+Section 17 — Non Waiver
+
+Either party's failure to enforce any of the terms or conditions herein or to exercise any right or privilege, or either party's  waiver of any breach under this Agreement shall not be construed to be a waiver of any other terms, conditions, or  privileges, whether of a similar or different type.
+
+Section 18 — Termination and Fees
+
+This Agreement may be terminated as follows:
+
+(a) Either party hereto shall have the right to terminate this Agreement after thirty (30) days written notice to the other in  the event the other is in breach of this Agreement unless the breaching party cures the breach before the expiration of  such period of time. Each such notice shall set forth in reasonable detail the specifics of the breach.
+
+(b) Either party shall have the right to terminate this Agreement effective upon written notice to the other party in the  event the non-notifying party becomes insolvent or makes an assignment for the benefit of creditors, or in the event  bankruptcy or insolvency proceedings are instituted against the non-notifying party or on the non-notifying party's behalf.
+
+(c) Either party shall have the right to terminate this Agreement as per Section 19 below.
+
+(d) MBRK may terminate this Agreement upon 60 days notice for a Change of Control subject to the Fees outlined in  paragraph (f) of this Section 18.
+
+(e) Upon the termination or expiration of this Agreement, all obligations and rights of both MBRK and DD hereunder  shall terminate, except all obligations and rights (i) to make or receive payments becoming due prior to the date of  termination or expiration, (ii) to pay or receive payments for any damages from any breach of the Agreement and (iii)  otherwise provided in Section 14 of this Agreement. In addition to the foregoing, upon termination or expiration of this  Agreement for any reason, each party shall continue to maintain accurate records necessary to demonstrate  compliance with applicable laws, regulations and guidelines, including, without limitation, records relating to MOXATAG  promotion to DD Target Segment Prescribers.
+
+(f) Termination for Change of Control and Fees — If MBRK terminates this Agreement in the first year of the Agreement  for any reason, then MBRK will pay DD a) an Early Termination Fee plus b) the End of Agreement Fee. If MBRK  terminates the Agreement in years 2 or 3 prior to the period 60 days before the anniversary date, then MBRK will pay  DD only the Early Termination Fee. If the Agreement is terminated in years 2 or 3 by MBRK providing notice to DD  within 60 days of the then current anniversary date of its intent not to renew, then MBRK will pay DD the End of  Agreement Fee but no Early Termination Fee.
+
+Section 19 — Force Majeure
+
+Each party shall be excused from liability for the failure or delay in performance of any obligation under this Agreement  by reason of any extraordinary, unexpected and/or unavoidable event, such as acts of God, fire, flood, explosion,  earthquake, or other natural forces, war, civil unrest, accident, destruction or other casualty, any lack or failure of  transportation facilities, any lack or
+
+
+
+
+
+
+
+failure of supply of raw materials, any strike or labor disturbance, or any other event similar to those enumerated above.  Such excuse from liability shall be effective only to the extent and duration of the event(s) causing the failure or delay in  performance and provided that the party has not caused such event(s) to occur. Notice by the failing party of such  party's failure or delay in performance due to force majeure must be given to the other party within ten (10) calendar days after its occurrence. All delivery dates under this Agreement that have been affected by force majeure shall be  tolled for the duration of such force majeure. In no event shall any party be required to prevent or settle any labor  disturbance or dispute. Notwithstanding the foregoing and except as otherwise provided in Section 18 above with  respect to MBRK's right to terminate this Agreement in the event that there is an inability to manufacture MOXATAG  due to force majeure events, should the event(s) of force majeure suffered by a party extend beyond a ninety (90) day period, the other party may then terminate this Agreement by written notice to the non-performing party.
+
+Section 20 — Notices
+
+All notices or other communications, which are required or permitted hereunder shall be in writing and sufficient if  delivered personally, sent by overnight courier with tracking capabilities, sent by first-class, registered or certified mail or  sent by confirmed facsimile transmission.
+
+If notices to DD, to:
+
+Jay Grobowsky  CEO  DoctorDirectory.com, Inc.  One Page Avenue, Suite 280  Asheville, NC 28801  Telephone: 888-796-4491 ext.101 Facsimile: 828-255-0442
+
+If notices to MBRK, to:
+
+John Thievon  CEO  MiddleBrook Pharmaceuticals, Inc.  7 Village Circle — Suite 100  Westlake, TX 76206  Telephone: 817-837-1200 Facsimile: 817-582-0410
+
+With copy to:
+
+Brad Cole  General Counsel  MiddleBrook Pharmaceuticals, Inc.  7 Village Circle — Suite 100  Westlake, TX 76206  Telephone: 817-837-1215 Facsimile: 817-582-0400
+
+
+
+
+
+
+
+Section 21 — Disputes/Arbitration
+
+21.1. In the event of any controversy or claim arising from or relating to any provision of this Agreement, or any term or  condition hereof, or the performance by a party of its obligations hereunder, or its construction or its actual or alleged  breach, the Parties will try to settle their differences amicably between themselves in negotiations between the Parties'  respective Presidents or their executive level designees. If the dispute has not been resolved to the mutual satisfaction  of the Parties within sixty (60) days after delivery of written notice of such dispute, either party may request binding  arbitration.
+
+21.2. Any dispute which is not resolved by executive level negotiations will be settled by final and binding arbitration  before a single arbitrator in Asheville, NC and such arbitration will be conducted pursuant to then current rules of  arbitration of commercial disputes of the American Arbitration Association. Judgment upon the award rendered by the  arbitrator may be entered in any court having jurisdiction thereof. The prevailing party shall be entitled to recover from the losing party reasonable attorney's fees, expenses and costs. In no event will the arbitrator have any right or power to  award punitive or exemplary damages.
+
+Section 22 — Assignment/Change of Control
+
+This Agreement shall bind the Parties hereto and their successors and assigns, provided that neither party shall have  the right to assign this Agreement or any part thereof to a third party without the prior written consent of the other party,  however such consent will not be unreasonably withheld.
+
+[Signature Page to Follow]
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the Parties hereto, each by a duly authorized representative, have executed this Agreement  as of the date first written above.
+
+[Signature Page to Promotion Agreement]
+
+                          DoctorDirectory.com, Inc.    MiddleBrook Pharmaceuticals, Inc.                         By: /s/ Jay Grobowsky   By: /s/ John Thievon
+
+ Name: Jay Grobowsky      Name: John Thievon     Title:  CEO      Title:  President & CEO      Date:  February 3, 2010      Date:  February 3, 2010
+
+
+
+
+
+
+
+EXHIBIT 1
+
+TO AGREEMENT BETWEEN  DOCTORDIRECTORY.COM, INC. AND MBRK PHARMACEUTICALS, INC.  DATED FEBRUARY 3, 2010
+
+DD TARGET SEGMENT PRESCRIBERS
+
+The Parties agree that the list of DD Target Segment Prescribers (hereinafter, "DD Target List") will be provided to  MBRK by DD. MBRK shall have final approval of the DD Target List. MBRK receipt and approval of the DD Target List  shall be documented in writing by the Parties. DD Target Segment Prescribers shall consist of only those licensed  prescribers whose clinical practice is consistent with MOXATAG's approved labeling, uses, and indication.
+
+It is anticipated that the DD Target List may exclude at MBRK's discretion, those prescribers that MBRK includes it its  called upon healthcare practitioners, telemarketing program and as communicated to DD prior to the DD Target List  being approved by MBRK. Any subsequent modifications to the DD Target List will be as approved in writing by the  Parties.
+
+
+
+
+
+
+
+EXHIBIT 2
+
+TO AGREEMENT BETWEEN  DOCTORDIRECTORY.COM, INC. AND MBRK PHARMACEUTICALS, INC.  DATED FEBRUARY 3, 2010
+
+MBRK DELIVERABLES
+
+MBRK agrees to provide DD, to the best of its ability, with the following:
+
+The Cost of Samples Amount and the Cost of Coupon Amount shall be at the expense of MBRK.
+
+  •  Relevant portions of its MOXATAG marketing and communications plan,      •  MBRK-approved MOXATAG sales promotion materials in electronic format where available,      •  MOXATAG sales and training aids, including any eDetailing web site or relevant product materials,      •  All applicable MBRK policies and procedures that MBRK requires DD to comply with, including MBRK  policies governing interactions with physicians and other Medical Professionals,      •  Analysis where available regarding promotion effectiveness of prior promotions,      •  Any available market research concerning MOXATAG,      •  Direct mail collateral pieces as shall be used from time to time by MBRK to promote MOXATAG to DD Target  Segment Prescribers,      •   Timely review and approval of DD provided draft promotion material for use by DD,      •   The availability of MOXATAG Coupons and MOXATAG samples and the related fulfillment services as agreed  to in advance by MBRK,      •  Monthly reporting, detailed by prescriber of redemption of MOXATAG Coupons, and      •  Monthly and quarterly attendance at status meetings, as appropriate, which may be via telephone, web based  meeting/portal or face to face.
+
+
+
+
+
+
+
+EXHIBIT 3
+
+TO AGREEMENT BETWEEN  DOCTORDIRECTORY.COM, INC. AND MBRK PHARMACEUTICALS, INC.  DATED FEBRUARY 3, 2010
+
+PRESCRIBER DATA
+
+For purposes of this Agreement, Prescriber Data will be the prescription data for the activity within the U.S. for the USC  Level 2 #15151 — Aminopenicillins category, in sufficient detail to identify periodic prescribing activity of MOXATAG.  Such prescriber activity will be the basis for DD to calculate the Promotion Fees due as per Section 5 for the applicable  Promotion Measurement Period.
+
+
+
+
+
+
+
+EXHIBIT 4
+
+TO AGREEMENT BETWEEN  DOCTORDIRECTORY.COM, INC. AND MBRK PHARMACEUTICALS, INC.  DATED FEBRUARY 3, 2010
+
+PROMOTION SOLUTIONS
+
+DD will provide promotional solutions to promote MOXATAG to DD Target Segment Prescribers as approved by MBRK.  These services may include the following:
+
+eSampling Platform — DD has created an eSampling platform that provides eligible prescribers with a virtual sample  closet. Eligible prescribers will be determined through an analysis of prescribers selected from the DD Target  Segment. Only those prescribers who possess a valid state license to prescribe MOXATAG and practice in a clinical  area consistent with MOXATAG's approved labeling will be eligible to receive MOXATAG samples. This closet will  provide a vehicle for these prescribers to order MOXATAG samples utilizing business rules created by MBRK. DD will  promote the availability of samples to agreed upon prescribers and all fulfillment of samples will be conducted by  MBRK's designated sample fulfillment provider in accordance with MBRK policies and procedures.
+
+eLearning/eDetailing — DD may create an interactive learning platform that includes content of both an educational  and promotional nature. All content would be consistent with MOXATAG's approved labeling and product positioning.  The use of quizzes and interactive case presentations will be created to educate prescribers and promote interest in  the eLearning platform. DD will link and/or incorporate a MOXATAG eDetail into the learning platform, if available. DD  will attempt to use existing approved content for inclusion into the learning platform to expedite the MBRK approval  process. All content will be as approved by MBRK.
+
+Educational Email — DD's philosophy is to use science to support the promotion of MOXATAG. Therefore, the  promotional program could include a series of educational messages that focus on clinical results and studies. These  messages may be non-branded or partially branded depending on the nature of the content and shall be consistent  with MOXATAG's approved labeling. New educational messages may be created and added as a result of ongoing  understanding of prescribers' attitudes and perceptions. All content shall be approved by MBRK.
+
+Direct-to-Physician Bulletin Services — Promotional emails may be used to communicate the primary, secondary  and tertiary messages to the appropriate DD Target Segment Prescribers. The appropriate interval and frequency of  messaging needed to ensure high response rates and interest level will be determined in consultation with MBRK.
+
+
+
+
+
+
+
+Promotional emails generally include one or more "calls-to-action" such as online sample offers, clinical data reprint  offers, and links to product website, eLearning Platform and/or a product eDetail, if available. Promotional emails shall  comply with the CAN-SPAM Act of 2003 (15 U.S.C. 7701 et. seq.).
+
+Physician Portal Promotions — DD may place MOXATAG-specific promotion in the DD Professional site within  www.DoctorDirectory.com. Prescribers are required to logon or use an existing electronic communication to enter the  site, which allows DD to target specific promotion to those prescribers whose practice area is consistent with  MOXATAG's approved labeling. Promotion is in the form of rotating/flash tile ads and text links within the appropriate disease-state education and MOXATAG sample content areas. All Promotional Materials and their respective  placement shall be approved by MBRK.
+
+Patient Portal Promotions — Where appropriate, DD may place standard banner ads on the DD website  www.DoctorDirectory.com that can be made visible to patients researching physicians. The site can accommodate  static and flash banners and business rules developed in conjunction with MBRK guide the number of ads served  based upon the number of banner ads within the Directory. In addition to the Directory's landing page, banners can be  also served within the appropriate prescriber search and return pages. Such banner ads will be linked only to those prescribers whose practice area is consistent with MOXATAG's approved labeling. All banner ads and their respective  placement shall be approved by MBRK.
+
+Direct Mail Advertising — DD may use print mail to reach selected DD Target Segment Prescribers. Existing mail  creative concepts may be used or if needed, DD may create new mail concepts in concert with and as approved by  MBRK. At MiddleBrook's request, all direct mail advertising will include an opt-out option for recipient prescribers.
+
+Coupon Promotions — DD may deploy a program to promote and distribute Coupons to appropriate targets as  determined by both DD and the MBRK. Coupons can be made available via email promotion, print mail, site  promotion, and within the online sample closet. All coupon promotion will be as approved by MBRK and shall not be  valid for purchases that are reimbursed in whole or in part by Medicare, Medicaid, or similar federal and state  programs), or for residents of Massachusetts if the purchase is reimbursed by a health care insurer.
+
+Consumer Condition Content — DD may create pages of static disease and condition information consistent with  MOXATAG's approved labeling that are appropriate for consumers. Pages may include PDF documents for printing of  approved content such as "take along" pieces for patient office visits. All content will be as approved by MBRK.
+
+Search Engine Marketing — DD may explore the use of specific search terms and phrases that can be used to  promote the product website and/or eLearning platform. Search terms shall be consistent with MOXATAG's approved  labeling. All search terms and "sponsored link" content will be as approved by MBRK.
+
+Web Mini Site Promotion — DD may develop and deploy content rich "mini sites" that consist of static content but  offer additional web properties in which to promote MOXATAG. Such mini sites may also be deployed as part of a  search engine strategy as small content rich sites generally score well within search engine algorithms and place  high within the natural return list. All content will be as approved by MBRK.
+
+DD will not deploy any promotional service relating to MOXATAG without prior written approval from MBRK. All related  Promotional Materials and associated content, as well as the use and placement of such Promotional Materials, are  subject to MBRK's legal, medical and regulatory review and approval process.

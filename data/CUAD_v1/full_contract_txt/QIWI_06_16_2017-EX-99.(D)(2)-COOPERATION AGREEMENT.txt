@@ -1,0 +1,353 @@
+Exhibit 99(d)(2)
+
+COOPERATION AGREEMENT
+
+This Cooperation Agreement, dated as of 02 June, 2015, between Otkritie Investments Cyprus Limited, a company incorporated under the laws of the Republic of Cyprus with registration number HE 301373, whose registered address is at Angelou Vlachou, 4A, 6052, Larnaca, Cyprus ("OICL" and together with its Affiliates, "Otkritie") and QIWI plc, a public company limited by shares incorporated under the laws of the Republic of Cyprus with registration number HE 193010, whose registered office is at Kennedy 12, Kennedy Business Centre, 2nd floor, P.C. 1087, Nicosia, Cyprus ("QIWI", and, together with its Affiliates, "QIWI Group").
+
+RECITALS
+
+(A) On 14 May 2015, OICL, Otkritie Holding JSC and QIWI entered into a deed of subscription (the "Deed of Subscription"), pursuant to which OICL will acquire 5,593,041 class B ordinary shares in QIWI (the "Subscription Shares").
+
+(B) Under the terms of the Deed of Subscription, QIWI will acquire a one hundred (100) percent ownership interest in the charter capital of CIHRUS Limited Liability Company   ("CIHRUS"), a limited liability company duly existing and incorporated under the laws of the Russian Federation.
+
+(C) CIHRUS is the parent company of Rapida Ltd   , a company duly existing and incorporated under the laws of the Russian Federation under registration number 1037700111679, which QIWI will acquire as part of the transactions contemplated under the Deed of Subscription ("NKO Rapida" and, together with its Affiliates that are also being acquired pursuant to the transactions contemplated by the Subscription Agreement, "Rapida").
+
+(D) Following the acquisition of CIHRUS by QIWI and in order to promote their mutual interests, the parties wish to cooperate for their mutual benefit in the fields of their business, including digital payments, and establish a steering committee in order to analyse and develop potential areas of cooperation between the Parties.
+
+NOW THEREFORE, in consideration of the mutual agreements and covenants set forth herein, the parties hereto agree as follows:
+
+  1. Definitions and Interpretation.
+
+1.1 Definitions
+
+"Affiliate" means, with respect to any person, any other person directly or indirectly, through one or more intermediaries, Controlling, Controlled by or under common Control with such person and, in the case of a trust, any trustee or beneficiary (actual or potential) of that trust and, in the case of an individual, any person connected with him; provided that, for the purposes of this Agreement, neither QIWI nor any of its subsidiaries is to be regarded as an Affiliate of Otkritie;
+
+
+
+
+
+"Applicable Law(s)" means all laws, regulations, directives, statutes, subordinate legislation, common law and civil codes of any jurisdiction, all judgments, orders, notices, instructions, decisions and awards of any court or competent authority having jurisdiction over Otkritie or QIWI, as applicable, or tribunal or in an administrative, regulatory or similar proceeding;
+
+"Business Day" means a day other than Saturday, Sunday or public holiday in Moscow (Russia); New York (United States) and Nicosia (Cyprus);
+
+"Committee Member" has the meaning given to it in Clause 3.2;
+
+"Completion 1" has the meaning given to it in the Deed of Subscription;
+
+"Confidential Information" means the existence and contents of this Agreement, the arrangements contemplated by this Agreement and:
+
+ (a) any information of whatever nature concerning the business, finance, assets, liabilities, dealings, transactions, know-how, customers,suppliers, processes or affairs of the other parties and any of their group undertakings from time to time;
+
+ (b) any information which is expressly indicated to be confidential in relation to the party disclosing it (or in relation to any of its groupundertakings) from time to time,
+
+which any party may from time to time receive or obtain (verbally or in writing or in disk or electronic form or by any other means) from any other party as a result of negotiating, entering into, or performing its obligations pursuant to this Agreement;
+
+in each case except to the extent that such information is, has or does become available:
+
+ (i) to a party through the public domain other than pursuant to a breach of an obligation of confidentiality in respect thereof bysuch party or its Representatives; or
+
+ (ii) pursuant to disclosure, in a non-confidential manner, to a party by a source which to the knowledge of such party is notprohibited to disclose the information by reason of any legal, contractual or fiduciary obligation;   2
+
+
+
+
+
+"Control" in relation to an undertaking means the direct or indirect holding or control of: (a) a majority of the voting rights exercisable at general meetings of the members of that undertaking on all, or substantially all, matters; (b) the right to appoint or remove directors having a majority of the voting rights exercisable at meetings of the board of directors of that undertaking on all, or substantially all, matters; or (c) the right (whether pursuant to a contract, understanding or other arrangement) to direct or cause to be directed directly or indirectly a dominant influence over such other undertaking, and (i) where an undertaking is not a company, references above to directors, general meetings and members shall be deemed to refer to the equivalent bodies in such undertaking; and (ii) "Controlled" and "Controlling" shall have a corresponding meaning;
+
+"Dispute" has the meaning given to it in Clause 9.2;
+
+"Effective Time" has the meaning given to it in Clause 6.1;
+
+"LCIA" has the meaning given to it in Clause 9.2;
+
+"LCIA Rules" has the meaning given to it in Clause 9.2;
+
+"NKO Rapida" has the meaning given to it in the Recitals;
+
+"Parties" shall mean OICL and QIWI, together, and each of them a "Party";
+
+"Representatives" has the meaning given to it in Clause 5.2;
+
+"Steering Committee" has the meaning given to it in Clause 3.1;
+
+1.2 In this Agreement unless the context otherwise requires:
+
+ (a) references to a "party" mean a party to this Agreement and includes the successors in title to substantially the whole of itsundertaking;
+
+ (b) references to a "person" include a body corporate, an unincorporated association, a trust and a partnership;
+
+  (c) references to any statutory provision, rule or law shall include references to such statutory provision, rule or law as it may, after the date of this Agreement, from time to time be amended, supplemented or re-enacted and any subordinate legislation made under such statutory provision;   3
+
+
+
+
+
+ (d) references to "Clauses" are to clauses of this Agreement; and
+
+ (e) words denoting the singular shall include the plural and vice versa and words denoting any gender shall include all genders.
+
+1.3 The headings in this Agreement are inserted for convenience only and shall not affect its interpretation or construction.
+
+  2. Joint Cooperation to Further Business.
+
+2.1 Subject to Applicable Law, fiduciary duties and obligations, the best interests of their respective customers, existing contractual agreements, business and market conditions, the protection of confidential or competitively sensitive information and commercial determinations as to appropriate business, product and marketing efforts, each of Otkritie and QIWI Group agree to strategically cooperate with each other in order to carry out certain joint projects related to certain areas of their respective businesses, including by virtue of establishing the Steering Committee described further herein.
+
+  3. Steering Committee.
+
+3.1 The Parties shall form a steering committee (the "Steering Committee"), which shall analyse and develop potential areas of strategic cooperation between the Parties and oversee the Parties' cooperation in these areas.
+
+3.2 The Steering Committee shall consist of three representatives of QIWI Group and three representatives of Otkritie (each, a "Committee Member"). The representatives shall include:
+
+ (a) at least one representative from Otkritie occupying the position of Chief Executive Officer or the Chairman of the Management Board orsimilar within Otkritie Holding JSC, PJSC Khanty-Mansiysk Bank Otkritie or JSC Bank Otkritie Financial Corporation; and
+
+ (b) QIWI's Chief Executive Officer.
+
+Each of Otkritie and QIWI Group shall have the exclusive right to remove and replace any of its designees to the Steering Committee at any time by notice to the other party.
+
+3.3 The Steering Committee shall meet at least once in each month and as otherwise agreed between Committee Member. Such meetings shall take place in Moscow, in a location agreed by Otkritie and QIWI Group or by telephone.   4
+
+
+
+
+
+3.4 The presence of four Committee Members, including two representatives of Otkritie and two representatives of QIWI Group, shall constitute a quorum.
+
+3.5 The Steering Committee shall validly act only at a duly convened meeting with the approval of at least four (4) of the Committee Members present at such meeting. Upon the approval of a proposal by the Steering Committee, the Steering Committee shall present such proposal to the respective governing body of each Otkritie and of QIWI for approval. For the avoidance of doubt, no decision of the Steering Committee shall be binding on the Parties unless, and the Parties are only required to act upon any decision of the Steering Committee if and to the extent that, such decision is properly approved/ratified by the relevant governing bodies of both Otkritie and QIWI.
+
+3.6 The Parties agree that the following items are potential areas of joint cooperation to be discussed, among other matters, at Steering Committee meetings:
+
+ (a) Participation of Otkritie as a privileged party in banking projects established by QIWI where QIWI seeks a banking partner;
+
+ (b) Subject to Applicable Law, commercial terms for QIWI to provide consumer scoring data it has collected to Otkritie;
+
+ (c) Commercial terms for Otkritie to act as settlement bank of NKO Rapida in accordance with Clause 4.1;
+
+ (d) Commercial terms relating to the amounts of deposits to be placed by NKO Rapida in Otkritie;
+
+ (e) Separation of NKO Rapida's digital wallet business from the core business of NKO Rapida;
+
+ (f) Commercial terms of cooperation of the parties in the areas of pre-paid cards and loyalty programs;
+
+ (g) Commercial terms of the use by Otkritie of the NKO Rapida brands owned by QIWI Group; and
+
+ (h) Commercial terms of the potential sale of the NKO Rapida's banking license to Otkritie.
+
+3.7 The Parties agree and acknowledge that no agreement has been reached between the Parties with respect to any of the matters referenced in Clause 3.6, the matters in Clause 3.6 merely reflects potential areas of discussion for the Steering Committee.   5
+
+
+
+
+
+3.8 Notwithstanding anything to the contrary, nothing in this Agreement shall be deemed or construed as QIWI and Otkritie having reached a binding agreement in respect of any items listed in Clause 3.6.
+
+3.9 The Parties agree and acknowledge that the Steering Committee shall not represent an exclusive forum through which any of the matters set forth in Clause 3.6 may be discussed between the Parties and that the Parties may reach agreement with respect to any of the matters set forth in Clause 3.6 or any other matter without Steering Committee approval or action.
+
+  4. Bank Services.
+
+4.1 For two (2) years following the Effective Time, QIWI covenants that at least one half of the total transactions processed by the Contact money transfer system during such two-year period shall be settled through PJSC Khanty-Mansiysk Bank Otkritie, provided that QIWI may terminate its obligation under this Clause 4.1 at any time, in which case it shall pay to Otkritie a fee equal to the demonstrated costs incurred by Otkritie for such period starting from 1 September 2014, until the date of termination of QIWI's obligations under this Clause 4.1 in connection with (i) the transfer of settlement bank function to PJSC Khanty-Mansiysk Bank Otkritie ; and (ii) supporting the settlement bank functionality for the Contact money transfer system, provided further that such fee shall in no event exceed RUB 50 000 000 (fifty million roubles).
+
+  5. Confidential Information.
+
+5.1 Except as provided in clause 5.2, no party shall, and each party shall procure that their Representatives shall not, disclose to any third party, or use or exploit commercially for its or their own purposes, any Confidential Information. The obligations of the parties under this clause 5.1 shall remain in force until the relevant information enters the public domain otherwise than by the default of a party.
+
+5.2 The obligations of confidentiality in clause 5.1 do not apply in respect of the disclosing of Confidential Information in the following circumstances:
+
+ (a) in connection with the performance of each party's obligations hereunder or the enforcement of its rights hereunder;
+
+ (b) to its Affiliates and the directors, officers, employees, agents, and professional advisers or its and/or their Affiliates (the"Representatives") on a need to know basis to the extent reasonably required for purposes connected with this Agreement;   6
+
+
+
+
+
+ (c) pursuant to any listing agreement with or the rules and regulations of any recognised security exchange on which securities of suchParty or any of its Affiliates are listed and/or traded;
+
+ (d) as required by Applicable Law,
+
+provided in each case set out in Clauses 5.2(a) and 5.2(b) above, the Party disclosing the same shall take all reasonable steps to preserve the confidentiality thereof and to ensure that such information shall be used only for the purposes for which it has been disclosed.
+
+5.3 If a Party becomes required, in circumstances contemplated by Clauses 5.2(c) or 5.2(d), to disclose any information, such party shall (save to the extent prohibited by such rules and regulations or Applicable Law) give to the other party such notice as is practical in the circumstances of such disclosure and shall co-operate with the other party, having due regard to the other party's views, and take such steps as the other party may reasonably require in order to enable it to mitigate the effects of, or avoid the requirements for, any such disclosure.
+
+5.4 In the event that any Affiliate of any party who has received Confidential Information is requested in any Litigation to disclose Confidential Information, that party shall give each other party prompt written notice of such request (if permitted by Applicable Law) so that each other party may seek an appropriate protective order. If in the absence of a protective order a party's Affiliate is compelled to disclose Confidential Information, such Representative may disclose such portion of the Confidential Information that in the opinion of the disclosing party's counsel such Affiliate is compelled to disclose without liability under this Agreement; provided, however, that the disclosing party shall give the other party written notice of the Confidential Information to be disclosed as far in advance of its disclosure as is practicable (if permitted by Applicable Law) and shall use reasonable efforts to obtain assurances that confidential treatment will be accorded to such Confidential Information.
+
+In this Clause 5.4, "Litigation" means any action, cause of action, claim, demand, suit, proceeding, citation, summons, subpoena, inquiry or investigation of any nature, civil, criminal, regulatory or otherwise, in law or in equity, pending or threatened, by or before any court, tribunal, arbitrator, expert or other governmental authority.
+
+  6. Effectiveness and Termination.
+
+6.1 This Clause 6 and Clauses 1, 5, 7 through 9 (inclusive) come into force and effect upon the execution of this Agreement by the Parties. The remaining provisions of this Agreement shall be effective only upon Completion 1 (the "Effective Time").   7
+
+
+
+
+
+6.2 Unless otherwise mutual agreed between the Parties, this Agreement shall remain in effect until the earlier of the below events occur:
+
+ (a) The fifth (5t h) anniversary of this Agreement; and
+
+ (b) Otkritie ceasing to own more than 2,237,216 class B shares or American depositary shares of QIWI.
+
+6.3 Notwithstanding Clause 6.2, this Clause 6 and Clauses 1, 5, 7 through 9 (inclusive) shall survive any termination of this Agreement.
+
+  7. Miscellaneous.
+
+7.1 Nothing in this Agreement or in any document referred to in it shall constitute any of the Parties a partner of any other, nor shall the execution, completion and implementation of this Agreement confer on any Party any power to bind or impose any obligations to any third parties on any other Party or to pledge the credit of any other Party.
+
+7.2 If any provision or part of this Agreement is void or unenforceable due to any Applicable Law, it shall be deemed to be deleted and the remaining provisions of this Agreement shall continue in full force and effect. Each party shall use its reasonable endeavours to replace the invalid provision in that respect with a valid and enforceable substitute provision the effect of which is as close (commercially and legally) to its intended effect as possible.
+
+7.3 No variation of this Agreement (or any of the documents referred to in it) shall be valid unless it is in writing (which, for this purpose, does not include email) and signed by or on behalf of each of the parties. The expression "variation" includes any variation, supplement, deletion or replacement however effected.
+
+7.4 This Agreement may be executed in any number of counterparts and by the parties to it on separate counterparts, each of which when executed and delivered shall be an original, but all the counterparts together constitute one instrument.
+
+7.5 No Party shall assign (whether absolutely or by way of security and whether in whole or in part), transfer, mortgage, charge or otherwise dispose in any manner whatsoever of the benefit of this Agreement or sub-contract or delegate in any manner whatsoever its performance under this Agreement.
+
+7.6 No term of this Agreement is enforceable under the Contracts (Rights of Third Parties) Act 1999 or otherwise by a person who is not a Party to this Agreement.   8
+
+
+
+
+
+8. Notices.
+
+8.1 A notice (including any approval, consent or other communication) in connection with this Agreement and the documents referred to in it or with any arbitration under this Agreement:
+
+ (a) must be in writing in English;
+
+ (b) for the avoidance of doubt, must not be sent by electronic mail;
+
+
+
+(c) must be delivered by hand, fax or courier using an internationally recognised courier company to the address specified below in relation to the Party to whom the notice is addressed, and marked for the attention of the person so specified, or to such other address or fax number or marked for the attention of such other person, as the relevant party may from time to time specify by notice given in accordance with this clause.
+
+The relevant details of each party at the date of this Agreement are:   OICL
+
+Address: 2\4 Letnikovskaya street, 115114, Moscow, Russia
+
+Fax number:
+
+Attention: Evgeny Dankevich
+
+Ruben Aganbegyan\Konstantin Olefir
+
+and
+
+QIWI
+
+Address: Kennedy 12, Kennedy Business Centre, 2nd floor, P.C. 1087, Nicosia, Cyprus
+
+Fax number:
+
+Attention: Mr. Philios Yiangou / Mr. Sergey Solonin
+
+8.2 In the absence of evidence of earlier receipt, any notice shall take effect from the time that it is deemed to be received in accordance with Clause 8.3.   9
+
+
+
+
+
+8.3 A notice is deemed to be received:
+
+ (a) in the case of a notice delivered by hand or courier at the address of the addressee given above, upon delivery at that address; and
+
+ (b) in the case of a notice delivered by fax, at the time of transmission (provided that a transmission report from the machine from which thefax was sent is received by the sender which indicates that the fax was sent in its entirety to the fax number of the recipient).
+
+8.4 A notice received, or deemed to be received, on a day which is not a business day in the place of receipt, or after 5pm on any business day in the place of receipt, shall be deemed to have been received on the next following business day in the place of receipt (and for the purposes of this clause, a business day in the place of receipt shall mean a day (other than a Saturday or Sunday) on which banks are open for general business in that place).
+
+8.5 The parties agree that the provisions of this clause shall not apply to the service of any writ, summons, order, judgment or other document relating to or in connection with any legal proceedings and service of any request for arbitration or other document in arbitral proceedings commenced pursuant to this Agreement shall be at the address given in Clause 9.
+
+  9. Governing Law and Dispute Resolution.
+
+9.1 This Agreement and any dispute, controversy or claim arising out of or in connection with it or its subject matter, existence, negotiation, validity, termination, breach or enforceability (including non-contractual disputes or claims) shall be governed by and construed in accordance with the laws of England and Wales.
+
+9.2 Any dispute, controversy or claim arising out of or in connection with this Agreement or its subject matter, including any question regarding its existence, negotiation, termination, breach, validity or enforceability (including any non-contractual disputes or claims) ("Dispute") shall be referred to, and finally resolved by, arbitration under the Rules of Arbitration (the "LCIA Rules") of the London Court of International Arbitration (the "LCIA") which rules are deemed to be incorporated by reference into this Clause 9.2.
+
+9.3 There shall be three (3) arbitrators appointed in accordance with the LCIA Rules. The claimant party and the respondent party shall each nominate one (1) arbitrator. Where either party fails to nominate an arbitrator within the time provided by the LCIA Rules, that arbitrator shall be appointed by the LCIA. The third arbitrator, who shall act as the chairman of the tribunal, shall be nominated by agreement of the first two (2) party-appointed arbitrators within fifteen (15) Business Days of the confirmation of the appointment of the second arbitrator, or   10
+
+
+
+
+
+
+
+in default of such agreement, appointed by the LCIA. Notwithstanding anything to the contrary in the LCIA Rules, in agreeing upon a third arbitrator, the two arbitrators may communicate directly with each other and their respective appointing parties. Each party expressly agrees and consents to this process for nominating and appointing the arbitrators and, in the event that this Clause 9.3 operates to exclude a party's right to choose its own arbitrator, irrevocably and unconditionally waives any right to do so.
+
+9.4 The seat, or legal place, of arbitration shall be London, England.
+
+9.5 The language of the arbitration proceedings shall be English.
+
+9.6 The award of the arbitrators shall be final and binding on the parties, their successors and assigns.
+
+9.7 Nothing in Clauses 9.2 to 9.6 shall limit the rights of the parties to bring proceedings against another party in any court of competent jurisdiction in order to:
+
+ (a) enforce an arbitration award rendered in accordance with Clauses 9.2 to 9.6; or
+
+ (b) make a claim for interim or injunctive relief.
+
+9.8 Each party agrees that if more than one arbitration is commenced under this Agreement or any document related to this Agreement, and any party contends that two or more arbitrations are substantially related and that the issues should be heard in one proceeding, the arbitral tribunal appointed in such proceedings as have been filed with the LCIA first in time shall have the discretion to determine whether, in the interests of justice and efficiency and taking into account the stage of the proceedings and all other relevant circumstances, the proceedings should be consolidated before that arbitral tribunal and any party should be joined to such proceedings.
+
+9.9 Each party agrees that it may be joined as an additional party to an arbitration involving other parties under this Agreement or any document related to this Agreement. Any joined party (even if it chooses not to participate in the arbitral proceedings) shall be bound by any award rendered by the arbitral tribunal.
+
+9.10 The law of this arbitration agreement shall be the law of England and Wales.
+
+9.11 QIWI and OICL hereby irrevocably undertake to at all times maintain an agent with an address in England and Wales for service of process and any other documents in proceedings in England or any other proceedings in connection with   11
+
+
+
+
+
+ this Agreement, and to keep the other party advised of the identity and address of such agent, for so long as it has any obligations under thisAgreement. Any claim form, request for arbitration, judgement or any other notice of legal process whatsoever shall be sufficiently served on:
+
+ (a) QIWI, if delivered to:
+
+ (i) QIWI plc c/o Law Debenture Corporate Services Limited Fifth Floor 100 Wood Street London EC2V 7EX United Kingdom
+
+or
+
+ (ii) if delivered to the last address notified to OICL as an address for service under this Clause 9.
+
+ (b) OICL, if delivered to:
+
+ (i) Otkritie Capital International Limited 12 Floor, 88 Wood Street London EC2V 7RS United Kingdom
+
+(or to any other registered office in England and Wales of Otkritie Capital International Limited from time to time); or
+
+ (ii) if delivered to the last address notified to QIWI as an address for service under this Clause 9.
+
+This Agreement has been duly executed by the parties (or their duly authorised representatives) on the date specified at the beginning of this Agreement.
+
+[Signature page follows]    12
+
+
+
+
+
+EXECUTED and DELIVERED ) as a DEED for and on behalf of ) QIWI PLC )
+
+
+
+Signed in the presence of:
+
+  Witness Signature
+
+  Witness Name
+
+  Witness Occupation
+
+  Witness Address   13
+
+
+
+
+
+EXECUTED and DELIVERED ) as a DEED for and on behalf of ) OTKRITIE INVESTMENTS CYPRUS LIMITED )
+
+
+
+Signed in the presence of:
+
+  Witness Signature
+
+  Witness Name
+
+  Witness Occupation
+
+  Witness Address   14

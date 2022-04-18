@@ -1,0 +1,451 @@
+1                                                                     EXHIBIT 10.5
+
+                                CORIO INC.                           LICENSE AND HOSTING AGREEMENT
+
+     This License and Hosting Agreement (the "AGREEMENT") is made and entered into as of October 29, 1999 ("EFFECTIVE DATE") by and between Corio Inc., a Delaware corporation, having its principal place of business at 700 Bay Road, Suite 210, Redwood City, CA 94063 ("CORIO") and Commerce One, Inc., a Delaware corporation having its principal place of business at 1600 Rivera Avenue, Walnut Creek, CA 94596 ("COMMERCE ONE").
+
+                                BACKGROUND
+
+A.      Commerce One is the owner of certain proprietary software products (the         "SOFTWARE" as further defined below); and
+
+B.      Corio wishes to obtain a license to use and host the Software on the         terms and conditions set forth herein in connection with the hosting         services that Corio will provide to its Customers (as defined below) and         Commerce One wishes to grant Corio such a license on such terms;
+
+C.      The parties further wish to jointly market and promote the other party's         software and/or services as well as provide support and professional         services to Corio and its Customers in accordance with this Agreement.
+
+     NOW, THEREFORE, for good and valuable consideration, the parties hereby         agree as follows:
+
+1.      DEFINITIONS.
+
+The following terms shall have the following meanings:
+
+1.1     "SOFTWARE USER" means a named user of the Corio Services worldwide to         whom a user identification number and password has been assigned, which         permits that user to access and use the Software on a designated Corio         Server. The identification number and password used by a Software User         is reusable and reassignable and may be used and transferred by Corio,         in accordance with the licenses granted below, between Customers as one         Customer discontinues the Corio Services and another Customer         subscribes.
+
+1.2     "ASP" means Application Service Provider.
+
+1.2.5   "APPLICATION MANAGEMENT REVENUE" means net revenue Corio receives from         Customers for Tier One support of the Software and MarketSite Service,         operational support of the Software and MarketSite Service and basic         infrastructure support (hardware, database and operating system) for the         Software and MarketSite Service. Net revenue means all revenue received         by Corio from Customers for the Software and MarketSite Service, less         taxes, freight, insurance, refunds or credits and other non-product         items.
+
+1.3     "CORIO MARKET SEGMENT" means those customers with annual sales revenues         of less than $1,000,000,000. For the purposes of this definition the         sales revenue shall apply to either the
+
+[*] Certain information on this page has been omitted and filed separately with     the Commission. Confidential treatment has been requested with respect to     the omitted portions.
+
+                                     1
+
+2         entire corporate entity or any separately reporting division. Corio         shall have the right to continue to support Corio Customers that have         annual sales revenues greater than $1,000,000,000 by way of either sales         growth or merger or acquisition of the Corio Customer. Corio and         Commerce One further agree that should Corio desire to sell Corio         Services to a parent company of a then current Corio Customer that is         above this sales revenue threshold, each such sales opportunity shall be         discussed as it arises.
+
+1.4     "CORIO SERVERS" means the unlimited number of computer servers owned or         operated by or for Corio which will contain the installed Software (as         defined below) for access by Customers in connection with the Corio         Services.
+
+1.5     "CORIO SERVICES" means the hosting services offered by Corio to its         Customers in which Corio allows Customers to access the Corio Servers.
+
+1.6     "CUSTOMER(S)" means one or more customers of the Corio Services having         its principal executive offices in the Territory who obtains a         sublicense from Corio to use the Software or MarketSite.net Service, in         the Corio Market Segment.
+
+1.7     "DEMONSTRATION SOFTWARE" means copies of the Software which are for         demonstration purposes only and which contain sample data and         transactions.
+
+
+
+
+
+1.8     "DOCUMENTATION" means any on-line help files or written instruction         manuals regarding the use of the Software or MarketSite.net Service.
+
+1.9     "RELATIONSHIP MANAGERS" means the appointed employee of each party, as         set forth on EXHIBIT A attached hereto and made a part hereof, who shall         be the primary contact for implementing and administering the terms and         conditions of this Agreement.
+
+1.10    "SOFTWARE" means Commerce One's proprietary software described in         EXHIBIT A attached hereto and made a part hereof, in object code form         only, and any Updates or Upgrades (as defined below) thereto.
+
+1.11    "TERRITORY" means the area in which the licenses granted herein are         applicable, currently limited to the geographic area of North America.
+
+1.12    "UPDATE(S)" means any error corrections, bug fixes, modifications or         enhancements to the Software, which are indicated by a change in the         numeric identifier to the Software in the digit to the right of the         decimal, or any error corrections, bug fixes, modifications or         enhancements of the Software and MarketSite software used to operate the         MarketSite.net Service.
+
+1.13    "UPGRADE(S)" means a release, function or version of the Software         designated as such by Commerce One which contains new features or         significant functional enhancements to the Software, which are indicated         by a change in the numeric identifier for the Software in the digit to         the left of the decimal, or a new release, function or version of the         MarketSite.net Service, which Upgrade is provided to Commerce One's         installed customer base for the Software and MarketSite software used to         operate the MarketSite.net Service. For the purposes of this Agreement,         "Maintenance and Support" means those services listed in EXHIBIT C and         the provision of Updates and Upgrades as called for by this Agreement
+
+[*] Certain information on this page has been omitted and filed separately with     the Commission. Confidential treatment has been requested with respect to     the omitted portions.
+
+                                     2
+
+3 2.      GRANT OF RIGHTS.
+
+2.1     Hosting Software License. Subject to the terms and conditions of this         Agreement, Commerce One hereby grants to Corio a fee-bearing, perpetual         and irrevocable, nonexclusive, nontransferable (except in accordance         with Section 14.1 of this Agreement), right and license in the Territory         to (i) reproduce the Software in machine executable object code format         only for installation on the Corio Servers; (ii) install multiple copies         of the Software on Corio's Servers which will be made remotely         accessible to Corio's Customers for their subsequent use, (iii) permit         limited access to and use of the Software and MarketSite.net Service by         Customers through Corio Servers; (iv) sublicense an unlimited number of         Customers to access and use the Software and MarketSite.net Service only         through the installation on Corio servers; and (v) use Commerce One's         tools and utilities, subject to any restrictions placed on the Commerce         One by third party software providers, to modify and manage the         Software. Except as specifically authorized by this Agreement, no         license is granted under this Agreement to Corio to distribute the         Software to its Customers or for use other than as part of the Corio         Services.
+
+2.2     Internal Use License. Subject to the terms and conditions of this         Agreement, Commerce One grants to Corio a nonexclusive, nontransferable         (except in accordance with Section 14.1 of this Agreement),         royalty-free, fully paid up, perpetual right and license in the         Territory to reproduce, install and use additional copies of the         Software and Software tools and utilities, subject to any restrictions         placed on the Commerce One by third party software providers, in machine         executable object code for (i) Corio's internal business operations and         (ii) production, testing, development, upgrade, reporting and training.
+
+2.3     Demonstration License. Subject to the terms and conditions of this         Agreement, Commerce One hereby grants to Corio a nonexclusive,         nontransferable (except in accordance with Section 14.1 of this         Agreement) royalty-free, fully paid up right and license in the         Territory, on Corio Servers, to make a reasonable number of copies of         the Demonstration Software solely for demonstration purposes to         potential Customers. Demonstration Software shall be made available to         Corio's sales personnel and the parties agree to cooperate to make the         Commerce One demonstration database available to Corio sales personnel         on an ongoing basis.
+
+2.4     Distribution License: Corio shall have the right to resell licenses for         Commerce One software, including Hosted BuySite, to any Corio Customer         in the Territory, [*]. Subject to the terms and conditions of this         Agreement, Commerce One hereby grants to Corio a nonexclusive,         nontransferable (except in accordance with Section 14.1 of this         Agreement), right and license in the Territory to sell and distribute         such software licenses to Customers pursuant to this Section 2.4. Under         no circumstances shall Commerce One contact Corio Customers regarding a         non-ASP license sale, unless requested to do so by Corio. Further, if a         Corio Customer contacts Commerce One to purchase the Software license
+
+
+
+
+
+     independent of the Corio Services, Commerce One shall immediately refer         that Customer to Corio.
+
+2.5     Software User License Agreements. Corio shall make the Software and the         MarketSite.net Service on the Corio Servers remotely accessible to         Customers under the then current terms of its end user license         agreement. As to each Software User who is provided access to the         Software, Corio
+
+[*] Certain information on this page has been omitted and filed separately with     the Commission. Confidential treatment has been requested with respect to     the omitted portions.
+
+                                    3
+
+4         shall secure the Software User's consent to an end user agreement, which         provides that the Software User may access and/or use the Software and         MarketSite.net Service only under terms and conditions which include, at         a minimum, those set forth on EXHIBIT E ("END USER LICENSE AGREEMENT")         and made a part hereof.
+
+2.6     Access to MarketSite.net Service. For the fee set forth in Exhibit B         attached hereto and made a part hereof, Corio and its Customers shall         have unlimited access to Commerce One's MarketSite electronic catalogue         service, as available to Commerce One customers at the URL:         Marketsite.net, including without limitation, MarketSite.net Business         Transaction Services, MarketPack of Premium Supplier Catalogs, and         MarketSite Community Services ("MarketSite.net Service") in accordance         with Commerce One's standard access procedures for its customers. In         addition, the parties shall share certain revenues related to purchases         made by Customers utilizing Commerce One's MarketSite.net Service, as         set forth in EXHIBIT B hereto.
+
+2.7     Restrictions. Corio may not copy, distribute, reproduce, use or allow         access to the Software or the MarketSite.net Service except as         explicitly permitted under this Agreement, and Corio shall not, nor will         it permit any third party to, modify, adapt, translate, prepare         derivative works from, decompile, reverse engineer, disassemble or         otherwise attempt to derive source code from the Software or any         internal data files generated by the Software except as required by law.
+
+2.8     Ownership. Commerce One hereby retains all of its right, title, and         interest in and to the Software, including all copyrights, patents,         trade secret rights, trademarks and other intellectual property rights         therein. All rights not expressly granted hereunder are reserved to         Commerce One. The Software and all copies thereof are licensed, not         sold, to Corio.
+
+2.9     New Products. Updates and Upgrades to the Software and the         MarketSite.net Service and software are subject to the terms of this         Agreement and are included in the Maintenance and Support fees payable         by Corio. Commerce One agrees to license Corio to use future products         and solutions offered by Commerce One according to the license fees and         other terms and conditions as the parties may agree. These products and         solutions may include, but are not limited to the following: e-commerce,         and marketing and sales force automation solutions.
+
+2.10    Expansion of Geographical Scope. The parties agree Corio may seek         permission to expand the scope of the licenses granted under this         Section 2 worldwide, at no additional cost to Corio, and maintaining the         revenue sharing provisions contained herein, and Commerce One shall not         unreasonably withhold its permission to expand all such licenses         worldwide at no additional cost to Corio. If and when localized versions         of the Software become available, these versions shall be made available         under the maintenance and support provisions of this Agreement.
+
+3.      DELIVERY OF SOFTWARE.
+
+3.1     Delivery and Acceptance. Commerce One shall issue to Corio, via         electronic means of delivery, as soon as practicable, one (1)         machine-readable copy of the Software, along with one (1) copy of the         on-line Documentation. Commerce One will provide Corio with one written         copy of the Documentation at no cost, and any additional written copies         at Commerce One's standard charges. Corio acknowledges that no copy of         the source code of the Software will be provided to
+
+                                     4
+
+5         Corio. Within thirty (30) days of delivery of the Software, but in no         event later than December 1, 1999, Corio shall test the Software for         conformance with the Documentation ("Acceptance Test"). If the Software         performs in substantial accordance with the Documentation, then Corio         shall notify Commerce One in writing of its acceptance of the Software.         In the event Corio finds material errors or defects with the Software,         Corio shall notify Commerce One in writing of such errors or defects and         provide adequate detail to facilitate Commerce One replicating the error         or defect. Upon receipt of written notice, Commerce One shall have         fifteen (15) days to correct the defect, reinstall the Software at the
+
+
+
+
+
+     Corio site and re-perform the Acceptance Test. If Corio does not accept         the Software after the second Acceptance Test, a third Acceptance Test         will be performed. Notwithstanding the foregoing, all Acceptance Testing         shall be complete by December 30, 1999, and Corio shall notify Commerce         One in writing of it's acceptance or rejection of the Software no later         than December 31, 1999. If after the third Acceptance Test Corio does         not accept the Software, Corio may, at its sole option, elect to (i)         repeat the Acceptance Test or (ii) terminate the Agreement and receive a         refund of any fees paid to Commerce One as of such date. Both parties         acknowledge that any professional services provided to Corio subsequent         to the installation and acceptance of the Software are non-essential for         the purpose of the acceptance of the Software.
+
+3.2     New Versions. Commerce One shall provide Corio with any pre-release         versions of relevant Updates or Upgrades of the Software. Commerce One         shall make these versions available to Corio to preview at the earliest         possible date. Commerce One shall provide all such Updates and Upgrades         to Corio free of additional charge and Corio shall, in its sole         discretion determine when, and if, to offer any such Updates and/or         Upgrades to its Customers.
+
+3.3     Additional Materials. Commerce One shall use all commercially reasonable         efforts to promptly provide Corio with, at a minimum, the following: (i)         release notes; (ii) beta releases; (iii) contacts at beta customers,         when requested by Corio and subject to the approval of the Commerce One;         (iv) proactive bug notification; (v) software patches; (vi) release         documentation including technical reference manuals and user guides; and         (vii) all applicable data objects relevant to the Software. These         materials shall be provided at no cost to Corio.
+
+4       FEES.
+
+4.1     License Fees. In consideration for the licenses granted to Corio         pursuant to Section 2 of this Agreement, Corio shall pay the license         fees specified in EXHIBIT B hereto. Payment terms of such license fees         shall be as set forth in EXHIBIT B hereto.
+
+4.2     Software Support and Maintenance Fees. Corio shall pay to Commerce One         an annual Software Maintenance and Support fee for the support services         to be provided by Commerce One specified in Exhibit C attached hereto         and made a part hereof, and Updates and Upgrades, according to the fees         set forth in Exhibit B hereto. Payment terms of annual Software         Maintenance and Support fees shall be as set forth in Exhibit B hereto.         Maintenance and Support shall automatically continue during the term of         this Agreement and thereafter, provided that Corio continues to pay the         annual Maintenance and Support fees contained in Exhibit B, attached         hereto.
+
+4.3     Taxes. All fees are exclusive of any sales taxes, use taxes and any         other taxes and charges of any kind imposed by any federal, state or         local governmental entity for products and services
+
+                                     5
+
+6         provided under this Agreement, and Corio is responsible for payment of         all taxes concerning the Corio Services, excluding taxes based solely         upon Commerce One's income.
+
+4.4     Audit Rights. Corio shall keep true and accurate books of accounts and         records for determining the amounts payable to Commerce One under this         Agreement. Such books and records shall be kept for at least three (3)         years following the end of the calendar month to which they pertain, and         shall be open for inspection by an independent certified public         accountant reasonably acceptable to Corio for the purpose of verifying         the amounts payable to Commerce One under this Agreement. Such         inspections may be made no more than once each calendar year, at         reasonable times and upon reasonable notice. Commerce One shall bear all         costs and expenses of such inspection. If any such inspection discloses         a shortfall or an overpayment, the appropriate party shall promptly pay         the amount of such shortfall or refund such overpayment. In addition, if         any such inspection reveals an underpayment of more than five percent         (5%) for the period under audit, Corio shall reimburse Commerce One for         the reasonable cost of the examination.
+
+5       INSTALLATION SUPPORT, MAINTENANCE AND TRAINING.
+
+5.1     Installation. Commerce One shall provide Corio with access to one (1)         full-time operations consultant for one (1) week at no charge to Corio         as part of the installation project as described in the Corio Statement         of Work - Hosted BuySite ASP, dated October 28, 1999 ("Statement of         Work") incorporated herein by reference.
+
+5.2     Implementation. Commerce One shall provide Corio with sufficient access         to Commerce One's professional services organization during the first         three (3) implementations of the Software conducted by Corio and its         Customers, in accordance with the Statement of Work incorporated herein         by reference, subject to the payment by Corio of the professional         services fee set forth in Exhibit B hereto ("IMPLEMENTATION FEE").         Additionally, during the term of the Agreement the parties shall meet         periodically to discuss Updates and Upgrades to the Software and         MarketSite.net Service to better support Corio's and its Customers'         specific application requirements, to be provided at no charge to Corio.
+
+
+
+
+
+5.3     Support and Maintenance. Commerce One shall provide Corio with support         described in EXHIBIT C hereto, and maintenance in the form of Updates         and Upgrades. Corio shall be responsible for providing its Customers         with routine technical support of the Software and MarketSite.net         Service. Corio shall escalate any technical support questions or         problems it is unable to answer or resolve directly to Commerce One for         Commerce One's immediate attention and resolution under the schedule set         forth in EXHIBIT C hereto. The support described in this Section 5.3 and         EXHIBIT C hereto shall be provided to Corio but Commerce One shall have         no obligation to provide any maintenance or support services to other         third parties. Subject to Corio's payment of the annual support and         maintenance fee, Commerce One's support and maintenance obligation of         the Software and MarketSite.net Service shall continue after termination         or expiration of this Agreement with respect to all Software Users         granted access to the Software and MarketSite.net Service prior to         termination or expiration of this Agreement.
+
+5.4     Product Management Meetings. The parties agree to meet either in person         or via teleconference on no less than a quarterly basis to discuss,         without limitation, engineering, feature-functionality and         architecture-related issues as they pertain to the Software and         MarketSite.net Service. The specific topics of the meetings will be         determined on a meeting-by-meeting basis. Each party
+
+                                     6
+
+7         shall appoint a product manager to coordinate these meetings. Commerce         One shall provide Corio with information relevant to future Software and         MarketSite.net Service development efforts, including product and         service roadmap, rollout strategy, and plans for future development         efforts. The product managers shall be those persons set forth on         EXHIBIT A hereto.
+
+5.5     Training. Commerce One shall provide Corio with training as reasonably         requested by Corio to train Corio's technical and support personnel         regarding implementation, use and operation of the Software and         MarketSite.net Service as part of the Implementation Fee. Thereafter,         throughout the term of the Agreement and at Corio's request, Commerce         One shall provide additional training to Corio subject to payment of         Commerce One's standard training fees at a [*]. Corio shall be         responsible for training its Customers regarding proper use of the         Software and MarketSite.net Service. Further, the parties shall work         together and cooperate to train Corio's sales force and product         consultants on the Software and MarketSite.net Service and the alliance         contemplated by this Agreement, including without limitation, how to         position, sell and demonstrate the Software and MarketSite.net Service         to potential customers.
+
+5.6     Other Services. Upon Corio's request, Commerce One shall provide certain         professional services, including without limitation, consulting         services, to Corio or its Customers, subject to the mutual written         agreement on the scope of such services, pricing and other terms and         conditions.
+
+5.7     Sales and Marketing Efforts. The parties shall engage in joint marketing         and sales activities as set forth in EXHIBIT D attached hereto and made         a part hereof.
+
+6       TRADEMARKS.
+
+6.1     Right to Display. During the term of this Agreement, each party         authorizes the other party to display and use the other's trademarks,         trade names and logos (collectively, the TRADEMARKS) in connection with         that party's sale, advertisement, service and promotion of the Corio         Services or the Software and MarketSite.net Service. Each party shall         indicate in all product, service, publicity and printed materials         relating to the Corio Services or the Software and MarketSite.net         Service that such trademarks are the property of the originating party.         Upon termination of this Agreement, each party shall cease all display,         advertising and use of all Trademarks of the other party and shall not         thereafter use, advertise or display any trademark, trade name or logo         which is, or any part of which is, confusingly similar to any such         designation association with Corio or the Corio Services or Commerce One         or any Commerce One product.
+
+6.2     Promotion Materials and Activities. All representations of the other         party's Trademarks that a party intends to use shall be exact copies of         those used by the other party and shall first be submitted to the         originating party for approval of design, color and other details, which         consent shall not be unreasonably withheld or delayed. To ensure         trademark quality, each party shall fully comply with all written         guidelines provided by the other party concerning the use of the         originating party's Trademarks. Each party agrees to change or correct         any material or activity that the originating party determines to be         inaccurate, objectionable, misleading or a misuse of the originating         party's Trademarks.
+
+[*] Certain information on this page has been omitted and filed separately with     the Commission. Confidential treatment has been requested with respect to     the omitted portions.
+
+                                     7
+
+
+
+
+
+8 7       WARRANTIES AND DISCLAIMER.
+
+7.1     No Conflict. Each party represents and warrants to the other party that         it is under no current obligation or restriction, nor will it knowingly         assume any such obligation or restriction that does or would in any way         interfere or conflict with, or that does or would present a conflict of         interest concerning the performance to be rendered hereunder or the         rights and licenses granted herein.
+
+7.2     Intellectual Property Warranty. Commerce One represents and warrants to         Corio that (a) Commerce One is the sole and exclusive owner of the         Software; (b) Commerce One has full and sufficient right, title and         authority to grant the rights and/or licenses granted to Corio under         this Agreement; (c) the Software does not contain any materials         developed by a third party used by Commerce One except pursuant to a         license agreement; and (d) the Software does not infringe any patent,         copyright, trade secret, trademark or other intellectual property rights         of a third party.
+
+7.3     Product Warranty. Commerce One warrants that the Software and         MarketSite.net Service will perform in substantial accordance with the         Documentation, and the media on which the Software is distributed will         be free from defects in materials and workmanship under normal use, for         a period of sixty (60) days from the Effective Date, but in no event not         later than December 31, 1999 (the "Warranty Period"). In addition,         Commerce One warrants that during the Warranty Period the Software and         MarketSite.net Service is free of any willfully introduced computer         virus, or any other similar harmful, malicious or hidden program or         data, which is designed to disable, erase, or alter the Software, or any         other files, data, or software. If during the Warranty Period the         Software and MarketSite.net Service does not perform in substantial         compliance with the Documentation, Commerce One shall take all         commercially reasonable efforts to correct the Software and         MarketSite.net Service, or if correction of the Software and         MarketSite.net Service is reasonably not possible, replace such Software         and MarketSite.net Service free of charge. Commerce One will replace any         defective media returned to Commerce One during the Warranty Period. In         the event any such breach of warranty can not be reasonably corrected at         Commerce One's sole expense, Corio has the right to terminate this         Agreement and receive a refund of all prepaid fees. The foregoing are         Corio's sole and exclusive remedies for breach of product warranty. The         warranty set forth above is made to and for the benefit of Corio only.         The warranty shall not apply only if:
+
+     (a)     the Software and MarketSite.net Service has been not properly                 installed and used at all times and in accordance with the                 Documentation; and
+
+     (b)     Corio has requested modifications, alterations or additions to                 the Software and MarketSite.net Service that cause it to deviate                 from the Documentation.
+
+7.4     Product Warranty - Year 2000 Compliance. Commerce One warrants that the         Software and MarketSite.net Service, when used in accordance with its         associated documentation, is in all material respects capable upon         installation of accurately processing, providing and/or receiving date         data from, into and between the twentieth and twenty-first centuries,         including the years 1999 and 2000, and leap year calculations; provided         that all licensee and third party equipment, systems, hardware, software         and firmware used in combination with the Software and MarketSite.net         Service properly exchange date data with the Software and MarketSite.net         Service
+
+                                     8
+
+9         OTHERWISE, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF         MERCHANTABILITY, NONINFRINGEMENT AND FITNESS FOR A PARTICULAR PURPOSE.
+
+8       INDEMNIFICATION.
+
+8.1     By Commerce One. Commerce One shall indemnify, defend and hold harmless         Corio and its Customers from any and all damages, liabilities, costs and         expenses (including reasonable attorneys' fees) incurred by Corio or its         Customers arising out of any claim that the Software infringes any         patent, copyright, trademark or trade right secret of a third party;         provided that Corio or its Customer promptly notifies Commerce One in         writing of any such claim and promptly tenders the control and the         defense and settlement of any such claim to Commerce One at Commerce         One's expense and with Commerce One's choice of counsel. Corio or its         Customer shall cooperate with Commerce One, at Commerce One's expense,         in defending or settling such claim and Corio or its Customer may join         in defense with counsel of its choice at its own expense. If the         Software is, or in the opinion of Commerce One may become, the subject         of any claim of infringement or if it is adjudicatively determined that         the Software infringes, then Commerce One may, at its sole option and         expense, either (i) procure for Corio the right from such third party to         use the Software, (ii) replace or modify the Software with other         suitable and substantially equivalent products so that the Software         becomes noninfringing, or if (i) and (ii) are not practicable after         Commerce One has exhausted all diligent efforts, (iii) terminate this
+
+
+
+
+
+     Agreement and refund to Corio a pro-rated portion of the fees paid         hereunder.
+
+8.2     Limitations. Commerce One shall have no liability for any infringement         based on (i) the use of the Software other than as set forth in the         Documentation; or (ii) the modification of the Software by a party other         than Commerce One, when such infringement would not have occurred but         for such modification.
+
+9       LIMITATION OF LIABILITY.
+
+     EXCEPT FOR LIABILITY ARISING UNDER SECTION 8 OF THIS AGREEMENT, IN NO         EVENT SHALL EITHER PARTY'S LIABILITY ARISING OUT OF THIS AGREEMENT OR         THE USE OR PERFORMANCE OF THE SOFTWARE EXCEED THE TOTAL AMOUNT ACTUALLY         PAID BY CORIO HEREUNDER FOR THE TRANSACTION WHICH THE LIABILITY RELATES         TO DURING THE TWELVE (12) MONTHS IMMEDIATELY PRIOR TO THE FILING OF THE         CAUSE OF ACTION TO WHICH THE LIABILITY RELATES. EXCEPT FOR LIABILITY         ARISING UNDER SECTION 8 OF THIS AGREEMENT, IN NO EVENT SHALL EITHER         PARTY HAVE ANY LIABILITY TO THE OTHER PARTY FOR ANY LOST PROFITS OR         COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR FOR ANY         INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES HOWEVER CAUSED AND UNDER ANY         THEORY OF LIABILITY AND WHETHER OR NOT SUCH PARTY HAS BEEN ADVISED OF         THE POSSIBILITY OF SUCH DAMAGE. THE PARTIES AGREE THAT THIS SECTION 9         REPRESENTS A REASONABLE ALLOCATION OF RISK.
+
+                                     9
+
+10         LIABILITY RELATES. EXCEPT FOR LIABILITY ARISING UNDER SECTION 8 OF THIS         AGREEMENT, IN NO EVENT SHALL EITHER PARTY HAVE ANY LIABILITY TO THE         OTHER PARTY FOR ANY LOST PROFITS OR COSTS OF PROCUREMENT OF SUBSTITUTE         GOODS OR SERVICES, OR FOR ANY INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES         HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY AND WHETHER OR NOT SUCH         PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THE PARTIES         AGREE THAT THIS SECTION 9 REPRESENTS A REASONABLE ALLOCATION OF RISK.
+
+10      CONFIDENTIALITY.
+
+     Each party hereby agrees that it shall not use any Confidential         Information received from the other party other than as expressly         permitted under the terms of a non-disclosure agreement to be         concurrently executed with this Agreement.
+
+11      TERM AND TERMINATION.
+
+11.1    Term. The term of this Agreement shall commence on the Effective Date         and shall continue in full force and effect for an initial period of         five (5) years. Thereafter, this Agreement shall automatically renew for         subsequent one (1) year periods unless either party provides the other         party with written notification at least thirty (30) days prior to the         expiration of the initial five (5) year term or any one (1) year renewal         thereof of its intention to terminate this Agreement.
+
+11.2    Termination. If either party materially breaches any term or condition         of this Agreement and fails to cure such breach within-thirty (30) days         after receiving written notice of the breach, the nonbreaching party may         terminate this Agreement on written notice at any time following the end         of such-thirty (30) day period. This Agreement shall terminate         immediately upon notice if either party becomes insolvent (i.e., becomes         unable to pay its debts in the ordinary course of business as they come         due) or makes an assignment for the benefit of creditors. Compliance by         the Software with the Software's specifications after expiration of the         Warranty Period shall be deemed a material condition of this Agreement.
+
+11.3    Effect of Termination. The following Sections shall survive the         termination or expiration of this Agreement for any reason: 4.2, 5.3, 7,         8, 9, 10, 12 and 14. Corio's right to allow its then-existing Customers         and their Software Users to use and access the Software in accordance         with Section 2 of this Agreement and all payment obligations related         thereto shall survive any termination or expiration of this Agreement.         Commerce One's obligation to provide Software support and maintenance to         Corio and its Customers shall survive any termination or expiration of         this Agreement, provided Corio continues to make its annual support and         maintenance payments as specified in this Agreement. Upon termination or         expiration of this Agreement, each party shall otherwise return or         destroy any Confidential Information of the other party provided,         however, Corio may retain any Confidential Information necessary for         Corio to continue supporting it's then-existing Customers.
+
+12      SOURCE CODE ESCROW.
+
+12.1    Escrow Account. Within sixty (60) days of the Effective Date, Commerce         One agrees to execute an escrow agreement by and among Corio, Commerce         One and a mutually acceptable escrow agent (the "ESCROW AGENT"). The         Escrow Agent shall require Commerce One to place in an
+
+                                    10
+
+11         escrow account in California a copy of the source code of the Software
+
+
+
+
+
+     including all Updates and Upgrades thereto, documentation and similar         materials (the SOURCE CODE). The escrow agreement shall contain, at a         minimum, the terms and conditions set forth in this Section 12. Corio         shall bear all fees, expenses and other charges to open and maintain         such escrow account. If a Release Condition (as defined in Section 12.2         of this Agreement) occurs and the Escrow Agent provides the Source Code         to Corio under the escrow agreement, Corio agrees to hold the Source         Code in confidence pursuant to the provisions contained in Section 10 of         this Agreement, and not to use them for any purpose other than those         purposes contemplated under Section 12.3 of this Agreement.
+
+12.2    Release. Corio shall notify Commerce One in writing if it believes that         one of the following events (the "RELEASE CONDITIONS") has occurred and         that it intends to seek release of the Source Code from the escrow         account: (i) Commerce One's dissolution or ceasing to do business in the         normal course, or (ii) Commerce One's repeated and material breach of         its support and maintenance obligations under Section 5 of this         Agreement and such breach is not cured within sixty (60) days of receipt         of written notice thereof from Corio. If Commerce One notifies Corio in         writing that it disputes whether any such event has occurred, officers         of each of the parties shall negotiate for a period of ten (10) business         days to attempt to resolve the dispute. At the end of such ten (10)         business day period, if the parties have not resolved the dispute, the         matter shall be referred to arbitration in the manner provided in         Section 14.3 of this Agreement.
+
+12.3    License. Upon the release of the Source Code to Corio pursuant to         Section 12.2 of this Agreement, Corio shall have a royalty-free,         nonexclusive, nontransferable, right and license in the Territory to use         and modify the Source Code to support and maintain the Software until         the expiration or termination of Corio's Customers' End User License         Agreements. The object code derived from the Source Code so modified         shall be subject to the same rights and restrictions on use,         reproduction and disclosure that are contained in this Agreement with         respect to the Software. Corio shall not distribute, sell or sublicense         the Source Code. Subject to the licenses expressly granted in this         Agreement, Commerce One shall retain all right, title and interest in         and to the Source Code. This license shall be deemed to extend worldwide         in scope if Corio, at the time one or more Release Conditions has         occurred, has been granted worldwide license rights by Commerce One         under Section 2 of this Agreement.
+
+13      SHARED RESOURCES.
+
+13.1    Operations. To the extent not provided for within the Statement of Work         covered by the Implementation Fee, Commerce One shall provide Corio with         access to Commerce One operations personnel as reasonably requested by         Corio, subject to payment by Corio of Commerce One's standard fees [*].         These Commerce One operations personnel shall work together with Corio         personnel to optimize the architecture and performance of the Software         and MarketSite.net Service in a hosted environment. Commerce One shall         only commit personnel with expertise in installations, operating         environments and networking functionality.
+
+13.2    Consulting. To the extent not provided for within the Statement of Work         covered by the Implementation Fee, Commerce One shall provide Corio with         access to Commerce One consulting personnel as reasonably requested by         Corio, subject to payment by Corio of Commerce One's standard fees [*].         These Commerce One
+
+[*] Certain information on this page has been omitted and filed separately with     the Commission. Confidential treatment has been requested with respect to     the omitted portions.
+
+                                    11
+
+12         consulting personnel shall initially work together with Corio personnel         to develop implementation templates. Commerce One may, in its sole but         reasonable discretion, elect to assign resources from a third party         systems integrator subject to advance notification to Corio of such         election.
+
+13.3    Engineering. Commerce One shall provide Corio with reasonable access to         Commerce One engineering personnel at no additional cost to Corio. Joint         engineering work may include product development, including without         limitation, technical and functional application development and         integration.
+
+13.4    Other. All services provided hereunder, in addition to services         subsequently requested by Corio (e.g. customization of the Software)         shall be subject to the terms of a separate agreement between the         parties.
+
+13.5    Ownership. Subject to Commerce One's pre-existing ownership of any         materials or technology provided to Corio, the results of all such         development efforts set forth in this Section 13, including all         intellectual property rights in any software interface coding or         programs created solely by Corio during the term of this Agreement to         enable the Software to operated within the Corio Servers' hosted         environment ("DEVELOPMENTS"), shall be owned by Corio, unless such         Developments are supported on an ongoing basis by Commerce One in which         case Commerce One will retain all ownership rights, including
+
+
+
+
+
+     intellectual property rights in the Developments. To the extent that         Commerce One would otherwise have a claim of ownership in such         Developments, Commerce One hereby assigns all rights in and to such         Developments to Corio. Further, Commerce One represents and warrants         that all Commerce One employees, agents, contractors or consultants that         will be provided to work together with Corio have or will have signed         agreements with customary terms containing confidentiality provisions         and assignment of inventions ("EMPLOYEE NDA/INVENTION AGREEMENT"). Corio         covenants and warrants that it will not disclose to Commerce One or its         officers, directors, employees, agents, contractors or consultants any         proprietary information, including without limitation any technical         information related to Developments created solely by Corio under this         Agreement, except upon the written authorization to do so by a Corporate         Officer of Commerce One. Commerce One covenants that during the term of         this Agreement, it will continue to require all Commerce One employees,         agents, contractors or consultants to sign an Employee NDA/Invention         Agreement and that Commerce One will furnish to Corio copies of such         signed agreements upon Corio's request. Ownership of intellectual         property rights to any enhancements, modifications or derivative works         to the Software itself which may be developed jointly by the parties or         solely by Corio shall be negotiated by the parties prior to the start of         any such development work.
+
+13.6    Independent Development: Covenant not to Sue. Nothing in this Agreement         will be construed to prohibit either parties' right to independently         develop the Developments contemplated above. Each party covenants that         it shall not, under any circumstances, sue the other party (or its         officers, directors, successors and assigns) or any of that parties'         licensees, customers, or distributors ("Protected Entities") for patent         infringment under any future patents or future patent rights relating to         said Developments, that either party owns or controls, so long as that         Protected Entity has a license from Commerce One or Corio to the         Software, or to a product that is a modification of, derivative work         based on, or replacement for the Software. The foregoing covenant is         binding on Corio's permitted successors and assigns, and inures to the         benefit of any
+
+                                    12
+
+13         of Commerce One's successors and assigns, and is binding on Commerce         One's permitted successors and assigns, and inures to the benefit of any         of Corio's successors and assigns.
+
+14      MISCELLANEOUS.
+
+14.1    Assignment. Neither party may assign this Agreement or any rights or         obligations hereunder, whether by operation of law or otherwise, without         the prior written consent of the other party. Notwithstanding the         foregoing, either party shall have the right to assign this Agreement in         connection with the merger or acquisition of such party or the sale of         all or substantially all of its assets related to this Agreement without         such consent, except in the case where such transaction involves a         direct competitor of the other party where consent of the other party         will be required. Subject to the foregoing, this Agreement will bind and         inure to the benefit of the parties, their respective successors and         permitted assigns. Any assignment in violation of this Section 14.1         shall be null and void.
+
+14.2    Waiver and Amendment. No modification, amendment or waiver of any         provision of this Agreement shall be effective unless in writing and         signed by the party to be charged. No failure or delay by either party         in exercising any right, power, or remedy under this Agreement, except         as specifically provided herein, shall operate as a waiver of any such         right, power or remedy.
+
+14.3    Choice of Law; Arbitration; Venue. This Agreement shall be governed by         the laws of the State of California, USA, excluding conflict of laws         provisions and excluding the 1980 United Nations Convention on Contracts         for the International Sale of Goods. Any disputes arising out of this         Agreement shall be resolved by binding arbitration in accordance with         the then-current commercial arbitration rules of the American         Arbitration Association ("RULES"). The arbitration shall be conducted by         one (1) arbitrator appointed in accordance with the Rules in San         Francisco County, California. A judgment upon the award may be entered         in any court having jurisdiction of the parties, including without         limitation the courts in San Francisco, California. The non-prevailing         party in the arbitration shall pay all fees and charges of the American         Arbitration Association; each party, however, shall be responsible for         the payment of all fees and expenses connected with the presentation of         its respective case.
+
+14.4    Notices. All notices, demands or consents required or permitted under         this Agreement shall be in writing. Notice shall be considered delivered         and effective on the earlier of actual receipt or when (a) personally         delivered; (b) the day following transmission if sent by telex, telegram         or facsimile followed by written confirmation by registered overnight         carrier or certified United States mail; or (c) one (1) day after         posting when sent by registered private overnight carrier (e.g., DHL,         Federal Express, etc.); or (d) five (5) days after posting when sent by         certified United States mail. Notice shall be sent to the parties at the         addresses set forth on the first page of this Agreement or at such other         address as shall be specified by either party to the other in writing.
+
+
+
+
+
+14.5    Independent Contractors. The parties are independent contractors with         respect to each other. Each party is not and shall not be deemed to be         an employee, agent, partner or legal representative of the other for any         purpose and shall not have any right, power or authority to create any         obligation or responsibility on behalf of the other.
+
+14.6    Severability. If any provision of this Agreement is held by a court of         competent jurisdiction to be contrary to law, such provision shall be         changed and interpreted so as to best accomplish the
+
+                                    13
+
+14         objectives of the original provision to the fullest extent allowed by         law and the remaining provisions of this Agreement shall remain in full         force and effect.
+
+14.7    Force Majeure. Neither party shall be deemed to be in breach of this         agreement for any failure or delay in performance caused by reasons         beyond its reasonable control, including but not limited to acts of God,         earthquakes, strikes or shortages of materials.
+
+14.8    Subcontract. Commerce One understands and agrees that Corio shall solely         direct the provision of Corio Services and may subcontract certain         portions of the Corio Services to third parties at any time during the         term of the Agreement.
+
+14.9    Bankruptcy. The parties hereto agree that Corio, as a licensee of         Commerce One's intellectual property, shall be afforded all of the         protections afforded to a licensee under Section 365(n) of the United         States Bankruptcy Code, as amended from time to time (the "CODE") so         that the Trustee or Debtor in Possession, as defined in the Code, will         not interfere with Corio's license with respect to the Software as         provided in this Agreement, as set forth in Section 365(n) of the Code.
+
+14.10   Complete Understanding. This Agreement including all Exhibits, and the         Non Disclosure Agreement and the Statement of Work referenced in this         Agreement and incorporated by reference herein, constitutes the final,         complete and exclusive agreement between the parties with respect to the         subject matter hereof, and supersedes any prior or contemporaneous         agreement. IN WITNESS WHEREOF, the parties have executed this Agreement         as of the Effective Date.
+
+CORIO, INC.                              COMMERCE ONE, INC.
+
+By: /s/ Signature Illegible              By: /s/ Signature Illegible                                              -------------------------------- Name: GEORGE KADIFA                      Name: MARK S. BIESTMAN       ---------------------------              ------------------------------
+
+Title: CEO                               Title: V.P. WORLDWIDE SALES        --------------------------              ------------------------------
+
+Date: 11/5/99                            Date:       --------------------------               ------------------------------
+
+                                    14
+
+15                                     EXHIBIT A
+
+                                 SOFTWARE
+
+1.      SOFTWARE.         Hosted BuySite v 6.0
+
+2.      DEMONSTRATION SOFTWARE.         Hosted BuySite v 6.0
+
+3.      RELATIONSHIP MANAGERS. The Corio Relationship Manager shall be:         __________. The Commerce One Relationship Manager shall be: ________.
+
+4.      PRODUCT MANAGERS. For purposes of Section 5.4 of this Agreement, the         Corio product manager shall be: _________.
+
+        The Commerce One product manager shall be: _______________.
+
+                                    15
+
+16                                     EXHIBIT B
+
+                                  PRICING
+
+SOFTWARE: BuySite Hosted Edition version 6.0
+
+
+
+
+
+MarketSite.net Service access
+
+SOFTWARE USERS: BuySite Hosted Edition: Unlimited
+
+LICENSE FEES: BuySite Hosted Edition: [*]
+
+MARKETSITE.NET SERVICE FEES: MarketSite.net Service Access: Year 1                          [*] Year 2-5, and beyond:           [*]
+
+MAINTENANCE AND SUPPORT FEES: Year 1                          [*] Year 2-5, and beyond:           [*]
+
+REVENUE SHARING FEES:
+
+1.      MarketSite Transaction Revenue:         Commerce One to pay Corio [*] of all transaction fees from Corio         Customer transactions on MarketSite.
+
+2.      Corio Customer Application Management Revenue:         Corio to pay Commerce One [*] of all Application Management Revenue from         Corio Customers for use of Commerce One Software or MarketSite.net         Service Access subject to the following limitations.
+
+            A.     No Application Management Revenue shall be due for any                       Corio Customer subscriptions utilizing the initial 3000                       Software User licenses granted herein, subject to a                       minimum limitation of 40 Authorized Software Users per                       Customer
+
+            B.     The Corio invoice amounts used to calculate the revenues                       subject to this revenue share shall not include                       Professional Service fees, or Network access fees.
+
+            C.     These Application Management Revenue fees shall begin                       accruing when the Corio Customer begins live operations.
+
+IMPLEMENTATION FEES: Time and Materials Basis Billed at [*] in accordance with The Statement of Work as agreed between the parties, not to exceed [*].
+
+* Certain information on this page has been omitted and filed   separately with the Commission. Confidential treatment has   been requested with respect to the omitted portions.
+
+                                    16
+
+17 PAYMENT TERMS
+
+License Fees: Due upon Software Acceptance.
+
+Maintenance and Support Fees: Net 30 of Software acceptance anniversary date, and each year thereafter. Revenue Sharing Fees: Quarterly payments shall be due to receiving party, net 30 days after quarter close.
+
+Implementation or Professional Service Fees: Net 30 days from date of Commerce One invoice, which shall be issued only after successful completion of each agreed upon milestone.
+
+MarketSite.net Access Fee: Due upon Software Acceptance, and on each annual anniversary of Software Acceptance thereafter.
+
+                                    17
+
+18                                     EXHIBIT C
+
+                         CUSTOMER SERVICE OUTLINE
+
+1.      CONTACTING SUPPORT:
+
+EMAIL:                     csc@commerceone.com
+
+FAX:                       (925) 941-6060
+
+SUPPORT HOTLINE:           (925) 941-5959
+
+WWW:                       http://commerceone.com/solutions/osupport.htm
+
+Our web access allows you to submit new incidents and be notified in real time by the support team, who will provide suggestions and technical support to resolve your issue. Such support will include clarification of the functions and features of the Software, clarification of the documentation, guidance in the operations of the Software, and error correction analysis and verification to the extent possible remotely.
+
+
+
+
+
+2.      SERVICE HOURS: Staffed Monday - Friday, 7 am to 7 pm PST (except holidays). After hours support available 24x7 for Priority 1 technical issues only.
+
+3.      PRIORITY DEFINITION:
+
+     COMMERCE ONE RESPONSIBILITIES:
+
+             *       Priority 1: The software and/or the hosted physical                         infrastructure is not operational and no workaround                         exists. Customer's production/business is seriously                         affected.
+
+             *       Priority 2: Software and/or the hosted physical                         infrastructure functionality is impaired, does not work                         like proposed, but it is operational
+
+     CORIO RESPONSIBILITIES:
+
+             *       Priority 3: Minor software and/or the hosted physical                         infrastructure problems or functionality questions.
+
+             *       Priority 4: Enhancement request or cosmetic problems.
+
+4.      RESPONSE TIME: (Commitment to customers) Commence One will make every attempt to contact our customers within 30 minutes of the report of a critical incident, and to notify and work with any third party vendors providing ancillary services that may be affected by the incident. However, for providing specific action plans for resolutions, we are committed to the following schedule:
+
+             *       Priority 1 incidents: 2 hours
+
+             *       Priority 2 incidents: 4 hours
+
+For resolution of incidents, we are committed to the following schedule:
+
+             *       Priority 1 incidents: we will respond as provided above                         and continue resolution efforts on a 24 x 7 basis until                         the incident has been resolved
+
+             *       Priority 2 incidents: we will respond as provided above                         and continue resolution efforts during business hours                         until the incident has been resolved
+
+                                    18
+
+19 5.      SUPPORT CONTACTS:
+
+Up to 5 individuals can be designated as "Registered Customers" to contact Commerce One for Support services. Upon written notice, customers may change their designated contacts. [Additional contacts can be purchased at additional cost as mutually agreed. Specify the 5 contacts on the Customer Profile form.
+
+                                    19
+
+20                                     EXHIBIT D
+
+                      SALES AND MARKETING COOPERATION
+
+The parties agree to the following non-binding sales and marketing cooperation efforts:
+
+1.      RELATIONSHIP MANAGERS. The parties' Relationship Managers would attempt         to meet at mutually agreeable times no less than every quarter to review         and coordinate sales efforts and review customer response to the         Software, the MarketSite.net Services and the Corio Services, and         address other topics related to this Agreement.
+
+2.      SALES COMPENSATION. The parties agree to provide their internal and         external sales and marketing personnel sufficient compensation         incentives designed to actively promote and encourage cross-selling of         the Corio Services, and the Software and the MarketSite.net Services,         respectively.
+
+3.      JOINT MARKETING PLANS. During the term of this Agreement the parties         agree to develop, review and submit to each other new and continuing         marketing plans with respect to the Corio Services and the Software and         MarketSite.net Services, respectively.
+
+4.      MARKETING FUND. Within six (6) months after the Effective Date of the         Agreement, Corio and Commerce One each would contribute to a marketing         fund to be jointly managed by the parties to promote the sale and         marketing of the Corio Services, the Software and the MarketSite.net         Services.
+
+5.      PERSONNEL. Each party agrees to assign one (1) existing sales or         marketing employee primarily dedicated to assist in the sales and         marketing promotional activity set forth in this Exhibit D.
+
+
+
+
+
+6.      COOPERATION AND PUBLICITY. Upon mutual agreement, Corio and Commerce One         may engage in the following activities: joint publicity releases, joint         marketing materials, joint marketing calls, joint conference and trade         show efforts, and strategy coordination concerned with promoting the         Software, the MarketSite.net Services and the Corio Services in the         commercial marketplace.
+
+7.      INITIAL CUSTOMERS. Within sixty (60) days after the Effective Date of         the Agreement, Corio agrees to use commercially reasonable efforts to         obtain orders from two (2) Customers for the Corio Services which         include access to the Software and MarketSite.net Services.
+
+                                    20

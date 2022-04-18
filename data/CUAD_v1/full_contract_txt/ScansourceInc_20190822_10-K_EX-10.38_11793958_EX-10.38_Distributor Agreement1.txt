@@ -1,0 +1,745 @@
+Exhibit 10.38
+
+IN ACCORDANCE WITH ITEM 601(b) OF REGULATION S-K, CERTAIN IDENTIFIED INFORMATION (THE "CONFIDENTIAL INFORMATION") HAS BEEN EXCLUDED FROM THIS EXHIBIT BECAUSE IT IS BOTH (I) NOT MATERIAL AND (II) WOULD LIKELY CAUSE COMPETITIVE HARM IF PUBLICLY DISCLOSED. THE CONFIDENTIAL INFORMATION IS DENOTED HEREIN BY [*****].
+
+CISCO SYSTEMS, INC. NONEXCLUSIVE VALUE ADDED DISTRIBUTOR AGREEMENT
+
+This Nonexclusive Value Added Distributor Agreement ("Agreement"), between ScanSource, Inc., a South Carolina corporation, with its principal place of business at 6 Logue Court, Greenville, South Carolina, 29615 ("Distributor"), and Cisco Systems, Inc., a California corporation with its principal place of business at 170 West Tasman Drive, San Jose, California 95134 - 1706, ("Cisco") is entered into as of the date last written below ("the Effective Date").
+
+This Agreement consists of this signature page and the following attachments, each of which is incorporated into this Agreement by reference:
+
+1. Nonexclusive Value Added Distributor Agreement Terms and Conditions 2. EXHIBIT A: Territory 3. EXHIBIT B: Value Added Distributor Support Exhibit 3.1 Appendix 1: Cisco Problem Prioritization and Escalation Guideline 4. EXHIBIT C: Software License Agreement 5. EXHIBIT D: Distributor Freight Policy 6. EXHIBIT E: Affiliate List 7. EXHIBIT F: Software Transfer and Relicensing Policy 8. EXHIBIT G: End of Life Policy
+
+This Agreement is the complete agreement between the parties hereto concerning the subject matter of this Agreement and replaces any prior or contemporaneous oral or written communications between the parties. In the event of conflict between the terms of this Agreement and the terms of an Exhibit hereto, the terms of the Exhibit shall govern. There are no conditions, understandings, agreements, representations or warranties, express or implied, which are not specified herein. This Agreement may only be modified by a written document executed by the parties hereto.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed. Each party warrants and represents that its respective signatories whose signatures appear below have been and are on the date of signature duly authorized to execute this Agreement.
+
+ScanSource,Inc. ("Distributor") Cisco Systems, Inc. ("Cisco") By: /s/ Jeffrey E. Yelton By: /s/ Frank A. Calderon Name: Jeffrey E. Yelton Name: Frank A . Calderon Title: VP Merchandising Title: VP, WW Sales Finance
+
+Date: 1/19/07 Date: January 22, 2007
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+NONEXCLUSIVE VALUE ADDED DISTRIBUTOR AGREEMENT TERMS AND CONDITIONS
+
+1.0 DEFINITIONS.
+
+Affiliate(s) are the entities listed on Exhibit E to this Agreement that are either business units of Distributor (and therefore wholly-owned and a part of Distributor) or are wholly-owned subsidiaries of Distributor, but in either case, only for so long as ownership remains as defined in this provision.
+
+Cisco Quarter shall mean Cisco's fiscal quarters (August 1-October 31; November 1-January 31; February 1-April 30; and May 1-July 31).
+
+Documentation shall mean user manuals, training materials, Product descriptions and specifications, technical manuals, license agreements, supporting materials and other printed information relating to any Product, whether distributed in print, in electronic form, or in CD-ROM or video format.
+
+End User is the final purchaser or licensee who has acquired Products for its own internal use and not for resale, remarketing or redistribution. An entity that performs stocking, sparing or warehousing activities for third parties or procures Cisco Products, Services or Software for delivery to third parties is not an End User.
+
+Global Price List means a complete listing of those Cisco products, services, including products and services which Cisco may make available to Distributor at its sole discretion, and associated prices.
+
+Hardware is the tangible product made available to Distributor.
+
+Major Release or New Release means a release of Software which is designated by Cisco as a change in the ones digit in the Software version number [(x).x.x].
+
+Non-Genuine Products are any and all products: (i) to which a Mark or other Cisco trademark or service mark has been affixed without Cisco's consent; (ii) that have not been manufactured by Cisco or Cisco Technologies, Inc. ("CTI") or by a licensed manufacturer of either Cisco or CTI in accordance with the applicable license; or (iii) are produced with the intent to counterfeit or imitate a genuine Cisco Product
+
+Obsolete Product shall mean any Product that is removed from the then-current Value Added Distributor Price List.
+
+Purchase Order is a written or electronic order from Distributor to Cisco for Hardware, Software or Services to be purchased, licensed or provided under this Agreement.
+
+Product means, individually or collectively as appropriate, Hardware, licensed Software, Documentation, developed products, supplies, accessories, and goods to the foregoing, listed on the then-current published Global Price List.
+
+Reseller means an authorized reseller of Distributor that meets Cisco's then-current requirements for resellers, including, without limitation, the requirements set out in Section 26.0 of this Agreement. In the event Cisco enters into authorization agreements whereby Cisco authorizes particular resellers to purchase Products or Services from Distributor and to resell Products or Services to End User, then "Reseller" shall mean a reseller that is a party to such an authorization agreement.
+
+Services means Cisco's SmartNet family of packaged service offerings, as well as such other service offerings as Cisco makes available for purchase by Distributor on Cisco's Wholesale or Global Price List.
+
+Software is the machine readable (object code) version of the computer programs listed from time to time on the Wholesale or Global Price List and made available by Cisco for license by Distributor, and any copies or Updates thereof. Cisco reserves the right, during the term of this Agreement, to license and distribute items of Software from time to time. Such items of Software may be licensed under additional or different policies and license terms, which will be made available to Distributor. Notwithstanding the use of the term "purchase" to refer to any item of Software comprising or included within a Product, Cisco and Distributor agree that all Software provided by Cisco to Distributor under this Agreement is licensed by Cisco to Distributor rather than purchased by Distributor from Cisco.
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+Territory is comprised of those regions or countries listed in Exhibit A.
+
+Unauthorized Cisco Product means any genuine Cisco Product or Cisco Service that Distributor purchases or acquires from any party other than Cisco and/or an Approved Source. Unauthorized Cisco Products do not include Non-Genuine Products.
+
+Update means a bug fix, error correction, patch or workaround for the Software which is provided by Cisco to Distributor in response to Distributor's request, or at Cisco's option, which Cisco chooses to provide to Distributor.
+
+Value Added Distributor Price List shall mean a portion of the Global Price List containing Products which Cisco makes available to Distributor for stocking and the prices at which Cisco will sell such Products to Distributor.
+
+2.0 SCOPE. This Agreement and the attached Exhibits set forth the terms and conditions for Distributor's purchase of Hardware and license of Software, and redistribution of Products, during the term of this Agreement.
+
+Affiliates of Distributor listed on Exhibit E may purchase Products, solely for redistribution, from Cisco under this Agreement. Distributor hereby guarantees the performance by such Affiliates of the financial and other contractual obligations set forth in this Agreement and represents and warrants that it is empowered to enter into this Agreement on behalf of such Affiliates, and to bind (and does so bind) such Affiliates to the terms and conditions of this Agreement.
+
+Cisco may require certain of the listed Affiliates to execute an agreement with Cisco or an affiliate of Cisco such that the legal relationship shall be between Cisco or Cisco's affiliate and Distributor's Affiliate.
+
+Any breach by Distributor or by an Affiliate of (i) this Agreement, or (ii) any other agreement between Cisco and Distributor or an Affiliate of either party, shall entitle Cisco to terminate this Agreement and/or any such agreement with Affiliate and/or any other Affiliate pursuant to Section 18.
+
+The limit of liability set forth in this Agreement shall be deemed an aggregate limit of liability, not per Affiliate, regardless of whether an Affiliate or Affiliates has executed a separate agreement with Cisco or a Cisco Affiliate permitting such Affiliate to purchase under the terms of this Agreement.
+
+In addition, any reporting requirements hereunder shall be performed solely by Distributor. All reporting information related to Distributor or any Affiliate(s) shall be aggregated and submitted as part of a single report, as required herein.
+
+3.0 APPOINTMENT OF DISTRIBUTOR. 3.1 By this Agreement, Cisco makes, and Distributor accepts, the appointment of Distributor as an authorized, non-exclusive distributor of Products and Services to Resellers located in the Territory. Distributor agrees to use its best efforts to distribute Product solely to Resellers located in the Territory. Those Resellers may resell Product only to End Users who intend to use the Product in the Territory. All Resellers to which Distributor distributes Product must meet Cisco's then-current guidelines for Resellers, as amended from time to time.
+
+3.2 Distributor is authorized to resell only those Products and Services which are listed on the Value Added Distributor Price List. Notwithstanding the foregoing, Cisco may, in its discretion, make available for purchase and resale by Distributor, but not for stocking by Distributor, certain other products and/or services which are listed on the Global Price List. Upon such products or services being made available to Distributor, such products and services will be deemed to be Products and Services as defined herein.
+
+3.3 Products Requirements. For new Products or Services added to the Global or Value Added Distributor Price List, including products or services which become available to Cisco as a result of an acquisition by Cisco of another entity, Cisco may impose certification, installation, or training requirements on Distributor prior to allowing Distributor to purchase, resell, or provide support for such Products or Services.
+
+3.4 Distributor agrees not to solicit orders for Products or Services, or to engage salespeople or establish warehouses or other distribution centers for the redistribution of Products or Services, outside the Territory, except to the extent advertising is placed in a particular advertising medium (except catalogs) which is distributed both inside and outside of the Territory.
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+3.5 Unauthorized Cisco Products. Distributor acknowledges that the purchase and Resale of Non-Genuine or Unauthorized Cisco Products are not within the scope of this Agreement and Integrator is not entitled to the rights granted herein with respect to the resale of such Non-Genuine or Unauthorized Cisco Products. For all Unauthorized Cisco Products, Cisco reserves the right to withhold any warranty or Cisco Support on such products, unless such products pass a Cisco equipment inspection and Cisco receives payment for the applicable equipment inspection and/or software license fees, as required in the then​ current Software Transfer and Licensing Policy. A printed copy of the Software Transfe and Licensing Policy, in effect on the Effective Date of this Agreement and available at http://www.cisco.com/warp/public/csc/refurb_equipment/swpolicy.html, shall accompany this agreement. This policy is subject to change without notice. If Cisco determines that Reseller has Resold and/or redistributed Unauthorized Cisco Products purchased from Unauthorized Sources, then Cisco may, at Cisco's sole discretion: (a) audit Reseller's purchase and resale records of Cisco Product and relevant records pursuant to Section 17.0 (Reports and Records) and/or (b) invoice Reseller for all reasonable costs incurred by Cisco in its performance of the Audit and/or (c) suspend all Product shipments to Reseller.
+
+4.0 ORDERS. 4.1 Upon and subject to credit approval by Cisco at the time of Cisco's receipt of any Purchase Order, Distributor shall purchase or license Products or Services by issuing a Purchase Order, signed, if requested by Cisco, or (in the case of electronic transmission) sent by its authorized representative, indicating specific Products and Services, Cisco Product numbers, quantity, unit price, total purchase price, shipping instructions, requested shipping dates, bill-to and ship-to addresses, tax exempt certifications, if applicable and contract reference, if any. No contingency contained on any Purchase Order shall be binding upon Cisco. The terms of this Agreement shall apply, regardless of any additional or conflicting terms on any Purchase Order or other correspondence or documentation submitted by Distributor to Cisco, and any such additional or conflicting terms are deemed rejected by Cisco.
+
+4.2 Cisco shall use commercially reasonable efforts to provide order acknowledgement information within [*****] business days for all Purchase Orders placed on Cisco.com or within [*****] business days of Purchase Orders faxed or hand delivered to Cisco. Cisco Customer Service will review and accept or decline all Purchase Orders for the Cisco entity that will supply the Products or Services, and no other person is authorized to accept Purchase Orders on behalf of Cisco. Cisco Customer Service may accept a Purchase Order even if some of the information required by Section 4.1 above is missing or incomplete. In relation to Services, Cisco will confirm acceptance of a Purchase Order for Services by issuing a list of Products covered by such Services (the "Equipment List").
+
+4.3 Distributor may defer Product shipment for up to [*****] from the original shipping date scheduled by Cisco, provided written or electronic notice (issued, in either case, by an authorized representative of Distributor) is received by Cisco at least [*****] days before the originally scheduled shipping date. Cancelled Purchase Orders, rescheduled shipments or Product configuration changes requested by Distributor less than [*****] days before the original scheduled shipping date shall be subject to (a) acceptance by Cisco, and (b) a charge of [*****] of the total invoice amount relating to the affected Products. Cisco reserves the right to reschedule shipment in cases of configuration changes requested by Distributor within [*****] days of scheduled shipment. No cancellation shall be accepted by Cisco where Products are purchased with implementation Services, including design, customization or installation Services, except as may be set forth in the agreement or Statement of Work under which the Services are to be rendered.
+
+5.0 SHIPPING AND DELIVERY 5.1 Scheduled shipping dates will be assigned by Cisco as close as practicable to the Distributor's requested date based on Cisco's then-current lead times for the Products. Cisco will communicate scheduled shipping dates in the order acknowledgement or on Cisco.com. Cisco will ship Product in compliance with Distributor Freight Policy set forth in Exhibit D. If no guidance is contained on Exhibit D for any particular shipment, Cisco shall select the carrier.
+
+5.2 For shipments to the United States, shipping terms are [*****], which shall appear on Cisco's order acknowledgement or be accessible via Cisco.com. Title and risk of loss shall pass from Cisco to Distributor [*****]. For orders placed and/or shipments to destinations outside of the United States but within the Territory ("International Orders"), Distributor may need to contract with, and/or order from, a Cisco affiliate. Different shipping terms may apply to International Orders, as Cisco shall specify at the time and as shall be recorded in Distributor's agreement with such Cisco affiliate or otherwise set out on Cisco.com.
+
+5.3 CISCO SHALL NOT BE LIABLE FOR LOSS, DAMAGE OR PENALTY FOR DELAY IN DELIVERY OR FOR FAILURE TO GIVE NOTICE OF ANY DELAY. EXCEPT IN ACCORDANCE WITH THE APPLICABLE DELIVERY TERMS SET FORTH IN THIS AGREEMENT, CISCO SHALL NOT HAVE ANY
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+LIABILITY IN CONNECTION WITH SHIPMENT, NOR SHALL THE CARRIER BE DEEMED TO BE AN AGENT OF CISCO.
+
+6.0 PAYMENT. 6.1 Prices for Products shall be those specified in Cisco's then-current Global or Value Added Distributor Price List. [*****] As provided in sub- section 3.2, in its discretion, Cisco may choose to make products or services which are on the Global Price List but not on the Value Added Distributor Price List available to Distributor. The prices for such products or services will be provided by Cisco to Distributor at the time Cisco makes such products available.
+
+6.2 Upon and subject to credit approval by Cisco, payment terms shall be [*****] days from shipping date. All payments shall be made in the currency in which the Price List is quoted for the applicable Purchase Order [*****].
+
+6.3 The purchase price does not include any federal, state or local taxes, or sales, use, excise, ad valorem, value-add, withholding or other taxes or duties that may be applicable to the purchase of Products. When Cisco has the legal obligation to collect such taxes, the appropriate amount shall be added to Distributor's invoice and paid by Distributor, unless Distributor provides Cisco with a valid tax exemption certificate prior to issuance of a purchase order. Such certificate must be in a form authorized by the appropriate taxing authority.
+
+6.4 Distributor is free to determine its minimum resale prices unilaterally. Distributor understands that neither Cisco nor any employee or representative of Cisco may give any special treatment (favorable or unfavorable) to Distributor as a result of Distributor's selection of minimum resale prices. No employee or representative of Cisco or anyone else has any authority to determine what Distributor's minimum resale prices for the Products must be, or to limit Distributor's pricing discretion with respect to the Products and Services.
+
+6.5 In the event any provisions of this Agreement or any other agreement between Distributor and Cisco require that Cisco grant credits to Distributor's account, Cisco will grant such credit to Distributor's account. [*****]. Cisco will only consider debit memos initially received from Distributor during the time period associated with such request, as set forth herein.
+
+All debit memos Distributor submits to Cisco will be submitted using any method identified in 25.8, or as otherwise agreed between the parties.
+
+6.6 Except as stated in Sections 7 (Price Protection), 12 (Inventory Balance), 13 (Return of Obsolete Product), 18 (Term and Termination) or as otherwise stated herein, for all price adjustment related credits requested by the Distributor to be granted by Cisco, the
+
+6.7 Distributor must make the initial credit request to Cisco, in writing, within [*****] of the underlying point of sale transaction. Any initial credit requests submitted by the Distributor to Cisco greater than [*****] after the underlying point of sale transaction will not be honored by Cisco and Cisco will not grant such credit to Distributor.
+
+7.0 PRICE PROTECTION. 7.1 Definition: For purposes of this Section 7.0, Products "In-Transit" shall be defined as all Products with a particular Cisco part number shipped by Cisco to Distributor in the [*****] day period prior to the date on which Cisco announces a general price decrease for Products with such part number, excluding those Products which Distributor has received into its inventory during such [*****] day period.
+
+7.2 In the event Cisco puts into effect a general price decrease for any Product from the Value Added Distributor Price List, Cisco will provide to Distributor a price credit on any such Product on order, In Transit or in Distributor's inventory as of the effective date of the price decrease, provided that the price credit for such Product in inventory or In Transit shall not exceed the dollar value of shipments of that Product (measured by the appropriate Cisco product number) to Distributor over the preceding [*****]. Cisco will credit Distributor's account with an amount equal to the number of units of such Product in Distributor's inventory and In Transit on the effective date of a price decrease multiplied by the difference between the net price paid and the new net price. Distributor will have [*****] from the effective date of the price change to exercise protection under this program by issuing a request for credit memo with supporting documentation to Cisco. Claims for price protection submitted more than [*****] from the effective date of a price decrease will be rejected. Notwithstanding the foregoing, Product on order will receive an automatic retroactive price credit. The only inventoried Product covered under this price protection clause is Product which has been identified by Distributor to Cisco in the daily inventory reports required in sub-sub-section 17.2.2, excluding any Third-Party
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+Sourced Product. Cisco will use commercially reasonable efforts to notify Distributor within [*****] of all such pricing changes.
+
+8.0 RESERVED
+
+9.0 PROPRIETARY RIGHTS AND SOFTWARE LICENSING. 9.1 Distributor's use of Software is governed by the terms contained in Exhibit C (End User License Agreement ("EULA")). For purposes of this Agreement, all references to "Customer" or "You" therein shall refer to Distributor.
+
+9.2 Distributor shall notify Cisco promptly of any breach or suspected breach of the EULA and further agrees that it will, at Cisco's request, assist Cisco in efforts to preserve Cisco's intellectual property rights including pursuing an action against any breaching third parties.
+
+10. WARRANTY. 10.1 C i s c o  P r o d u c t s  a r e  p r o v i d e d  w i t h  w r i t t e n  l i m i t e d  w a r r a n t i e s ,  a s  s e t  f o r t h  a t  t h e  f o l l o w i n g  U R L : http://www.cisco.com/warp/public/cc/serv/mkt/sup/tsssv/wnty/. Distributor will pass through to Resellers all written limited warranties provided by Cisco with Products purchased by Distributor and Distributor shall contractually require (in whatever manner Distributor deems appropriate) each such Reseller to provide such warranty and other terms to any End User to which the Reseller redistributes the Product.
+
+10.2 In addition to the written limited warranty provided by Cisco with its Products, such warranty statement shall apply to Distributor during the period between when it receives a Product and when it resells or redistributes such Product,
+
+10.3 Notwithstanding any other provision hereof, Cisco's sole and exclusive warranty and obligation with respect to the Products sold hereunder are set forth in Cisco's Limited Warranty Statement delivered with the Product. Distributor SHALL NOT MAKE ANY WARRANTY COMMITMENT, WHETHER WRITTEN OR ORAL, ON CISCO'S BEHALF. Distributor shall indemnify Cisco against any warranties made in addition to Cisco's standard warranty and for any misrepresentation of Cisco's reputation or Cisco's Products.
+
+10.4 DISCLAIMER OF WARRANTY. EXCEPT AS EXPRESSLY PROVIDED IN THIS SECTION 10.0, CISCO HEREBY DISCLAIMS AND DISTRIBUTOR WAIVES ALL REPRESENTATIONS, CONDITIONS AND WARRANTIES (WHETHER EXPRESS, IMPLIED, OR STATUTORY), INCLUDING, WITHOUT LIMITATION, ANY WARRANTY OR CONDITION (A) OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, SATISFACTORY QUALITY, QUIET ENJOYMENT, ACCURACY, OR SYSTEM INTEGRATION, OR (B) ARISING FROM ANY COURSE OF DEALING, COURSE OF PERFORMANCE, OR USAGE IN THE INDUSTRY. TO THE EXTENT AN IMPLIED WARRANTY CANNOT BE DISCLAIMED, SUCH WARRANTY IS LIMITED IN DURATION TO THE APPLICABLE EXPRESS WARRANTY PERIOD.
+
+NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS SECTION 10, CISCO MAKES NO REPRESENTATION OR WARRANTY AS TO OWNERSHIP OF INTELLECTUAL PROPERTY OR OF PROPRIETARY RIGHTS, OR AS TO INFRINGEMENT OR MISAPPROPRIATION THEREOF. DISTRIBUTOR'S SOLE AND EXCLUSIVE REMEDIES IN THE EVENT OF ANY SUCH INFRINGEMENT, MISAPPROPRIATION OR ANY CLAIM THEREOF SHALL BE AS SET FORTH IN SECTION 15 OF THIS AGREEMENT ("PATENT AND COPYRIGHT INFRINGEMENT").
+
+11.0 TRADEMARKS. 11.1 Cisco grants to Distributor the right to use the name, logo, trademarks, and other marks of Cisco (collectively, the "Marks") for all proper purposes in the sale of Cisco Products and Services to End Users and the performance of Distributor's duties hereunder only so long as this Agreement is in effect. Distributor's use of such Marks shall be in accordance with Cisco's policies including, but not limited to trademark usage and advertising policies, and be subject to Cisco's written approval. Distributor further agrees not to affix any Marks to products other than genuine Products. Distributor shall have no claim or right in the Marks, including but not limited to trademarks, service marks, or trade names owned, used or claimed now or which Cisco has authority to grant Distributor the right to use in the future. Distributor agrees that upon notice from Cisco it will immediately terminate its use of a particular Mark.
+
+11.2 Distributor shall not acquire, use, promote or Resell Non-Genuine Products. Additionally, Distributor shall
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+notify Cisco promptly of the existence, or suspected existence, of Non​ Genuine Products in possession of or promoted by third parties, and further agrees that it will, at Cisco's request, assist Cisco to diligently pursue any action against any third party in possession of or promoting Non- Genuine Products.
+
+11.3 If Distributor acquires, uses, promotes or Resells Non-Genuine Products, Cisco may take one or more of the following actions, at Cisco's discretion: (i) invoice Distributor, and the latter further agrees to pay within [*****] of receipt of the invoice, for all reasonable costs associated with any Audit and/or any investigation carried out by Cisco or its independent accountants or investigators, that disclosed a material breach by Distributor of this Section, and/or (ii) require Distributor, [*****] of Cisco's request, to recall and destroy all Non-Genuine Products that Distributor has sold to Resellers and replace such products with legitimate, equivalent Products at Distributor's expense, (iii) require Distributor, within [*****] of receiving Cisco's written request, to provide Cisco with all details related to Distributor's acquisition of all Non-Genuine Products, including without limitation, its suppliers, shipping details and all buyers to whom Distributor resold Non-Genuine Products, and (iv) terminate this Agreement by notice with immediate effect.
+
+12.0 INVENTORY BALANCE. For a [*****] period, beginning on the effective date of this agreement, Distributor has the option to return to Cisco, for credit, up to [*****] of the dollar value of Product listed on the Value Added Distributor Price List and shipped to Distributor in the preceding Cisco Quarter, net of credits issued by Cisco to Distributor. [*****] Cisco shall credit Distributor's account in the amount of the price paid by Distributor for returned Products, less any price protection credits issued to Distributor related to the Product returned (the "Return Credit"). Each of the following requirements must be met by Distributor:
+
+12.1 [*****]
+
+12.2 Distributor may submit the inventory balance claim between the first and [*****] calendar days of the following months: February, May, August, and November.
+
+12.3 [*****]
+
+12.4 Distributor shall bear all shipping and handling charges to the Cisco designated United States site for Product returned for credit;
+
+12.5 Distributor shall obtain an RMA number prior to returning any Product to Cisco. Distributor shall follow Cisco's then-current RMA process; and
+
+12.6 Distributor reports must be provided to Cisco in accordance with the requirements of sub- section 17.2.
+
+[*****]
+
+13.0 RETURN OF OBSOLETE PRODUCT 13.1 Cisco will use commercially reasonable efforts to notify Distributor, including by electronic posting, when a Product becomes an Obsolete Product.
+
+13.2 Provided Distributor provides required reports to Cisco in accordance with Section 17.0 of this Agreement, Distributor shall have the right to return Obsolete Product for full credit under Cisco's then-current RMA Process. [*****]
+
+13.3 Distributor must notify Cisco of the quantity of Obsolete Product to be returned to Cisco within [*****] of notification of obsolescence by Cisco. Such right to return is contingent upon return by Distributor of Obsolete Product within [*****] of such notification by Cisco. Such Product must be in new and unused condition and in factory sealed boxes.
+
+13.4 [*****]
+
+14.0 RESERVED
+
+15.0 PATENT AND COPYRIGHT INFRINGEMENT. 15.1 Cisco will have the obligation and right to defend any claim, action, suit or proceeding ("IPR Claim") brought
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+against Distributor, its officers, directors, employees and agents ("Named Parties") so far as it is based on a claim that any Product supplied under this Agreement infringes Third Party IPR (as defined below). Cisco will indemnify Named Parties and hold harmless against any final judgment entered in respect of such an IPR Claim by a court of competent jurisdiction and against any settlements arising out of such an IPR Claim. Cisco's obligations to defend the IPR Claim and indemnify Distributor are conditional upon:
+
+15.1.1 Distributor notifying Cisco promptly in writing of the IPR Claim or threat thereof; Distributor granting Cisco full and exclusive authority for the conduct of the defense and settlement of the 15.1.2 IPR Claim and any subsequent appeal; and 15.1.3 Distributor providing Cisco all information and assistance reasonably requested by Cisco in connection with the conduct of the defense and settlement of the IPR Claim and any subsequent appeal.
+
+15.2 For the purposes of this Agreement, Third Party IPR means a United States copyright existing as at the Effective Date, a United States patent issued as at the Effective Date, a trademark registered in the United States as at the Effective Date, trade dress existing in the United States as at the Effective Date, or a claim that a Product is manufactured by means of misappropriation of a third party's trade secrets.
+
+15.3 If an IPR Claim has been made, or in Cisco's opinion is likely to be made, Distributor agrees to permit Cisco, at its option and expense, either to: (a) procure for Distributor the right to continue using the Product; (b) replace or modify the Product so that it becomes non-infringing; or (c) immediately terminate both parties' respective rights and obligations under this Agreement with regard to the Product, in which case Distributor will return the Product to Cisco and Cisco will refund to Distributor the price originally paid by Distributor to Cisco for the Product, [*****].
+
+15.4 Notwithstanding the foregoing, Cisco has no liability for, and Distributor will defend and indemnify Cisco against, any IPR Claim arising from:
+
+15.4.1 the combination, operation, or use of a Product supplied under this Agreement with any product, device, or software not supplied by Cisco; 15.4.2 the amount or duration of use which Distributor, a Reseller or an End User makes of the Product, revenue earned by Distributor, a Reseller or an End User from services it provides that use the Product, or services offered by Distributor, a Reseller or an End User to external or internal customers; 15.4.3 the alteration or modification of any Product supplied under this Agreement; 15.4.4 Cisco's compliance with Distributor's designs, specifications, or instructions; or 15.4.5 Distributor's use of the Product after Cisco has informed Distributor of modifications or changes in the Product required to avoid such an IPR Claim if the alleged infringement would have been avoided by implementation of Cisco's recommended modifications or changes.
+
+15.5 This Section states the entire obligation of Cisco and its suppliers, and the exclusive remedy of Distributor, in respect of any infringement or alleged infringement of any intellectual property rights or proprietary rights. THIS INDEMNITY OBLIGATION AND REMEDY ARE GIVEN TO Distributor SOLELY FOR ITS BENEFIT AND IN LIEU OF, AND CISCO DISCLAIMS, ALL WARRANTIES, CONDITIONS AND OTHER TERMS OF NON-INFRINGEMENT OR TITLE WITH RESPECT TO ANY PRODUCT.
+
+15.6 [*****].
+
+16.0 SUPPORT. Support shall be provided in accordance with Exhibit B. Distributor acknowledges that Cisco will not be responsible for warranty service and support except as specifically provided in Exhibit B or a Cisco support program (e.g., SmartNet).
+
+17.0 REPORTS AND RECORDS. 17.1 With regard to both Distributor and Affiliates' activity, Distributor shall keep full, true, and accurate records and accounts, in accordance with generally-accepted accounting principles, of each Product or Service purchased and deployed, Resold, or distributed by serial number, including information regarding compliance with Cisco marketing and sales programs, Software usage, and export or transfer. Distributor shall make these records available for audit by Cisco upon [*****] prior written notice, during regular business hours, at Distributor's principal place of business or such other of Distributor's locations where Distributor may maintain relevant records. [*****].
+
+All reporting and related obligations in this Section 17 apply to not only data regarding Distributor's activities, but also
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+the activities of the Affiliates. All such information shall be compiled into one report unless otherwise directed herein. The report(s) shall identify the specific Distributor entity involved in the subject transaction.
+
+17.2 Reporting. [*****]
+
+17.3 Distributor agrees to use commercially reasonable efforts, commensurate with the manner in which Distributor treats any of its other leading vendors, in order to facilitate Cisco's ability to obtain daily sales information from Distributor via EDI.
+
+17.4 ECCN Numbers. Upon request by Distributor, Cisco agrees to make available to Distributor the Export Control Classification Number (ECCN) for each of Cisco's Product and information as to whether or not any of such Products are classified under the U.S. Munitions license.
+
+17.5 Unauthorized Cisco Product. Distributor will not purchase Products for resale to any Reseller from any person or entity other than Cisco, provided that Distributor may accept returned Product from Resellers if Distributor initially sold the Product to be returned to such Reseller. [*****]
+
+18.0 TERM AND TERMINATION. 18.1 This Agreement shall commence on the Effective Date and continue thereafter for a period of two (2) years, unless extended by written agreement of both parties or sooner terminated as set forth below. Without prejudice to either party's right to terminate this Agreement as set forth in sub​ sections 18.2 to 18.5 below, Cisco may, by written notice to Distributor, given at least thirty (30) days prior to the end of the then-current term of the Agreement, extend the term of the Agreement for the period set forth in such notice, up to a maximum of one (1) year beyond the then- current expiration date. Any extension shall be on the same terms and conditions then in force, except as may be mutually agreed in writing by the parties. In the event the Agreement expires and Cisco intends to not renew the Agreement, Cisco will provide written notice of same to Distributor. Notwithstanding Cisco's right to extend the term of this Agreement, each party acknowledges that this Agreement shall always be interpreted as being limited in duration to a definite term and that the other party has made no commitments whatsoever regarding the duration or renewal of this Agreement beyond those expressly stated herein.
+
+18.2 Termination for Convenience. Either party may terminate this Agreement, without cause, by giving the other party [*****] days prior written notice. Notwithstanding the foregoing, Cisco may terminate this Agreement immediately upon written notice in the event of breach by Distributor of Section 9.0 (Proprietary Rights and Software Licensing), Section 11.0 (Trademarks), Section 19.0 (Confidentiality) or Section 20.0 (Export Restrictions) of this Agreement.
+
+18.3 A party may terminate this Agreement immediately through written notice if (i) the other party ceases to carry on business as a going concern; or (ii) the other party becomes or may become the object of the institution of voluntary or involuntary proceedings in bankruptcy or liquidation; or (iii) a receiver or similar officer is appointed with respect to the whole or a substantial part of the other party's assets; or (iv) an event similar to any of the foregoing occurs under applicable law.
+
+18.4 Cisco may terminate this Agreement upon [*****] days' written notice, in the event it becomes known that (i) Distributor or an Affiliate or Distributor's direct or indirect parent has acquired or intends to acquire a controlling interest in a third party that is a competitor of Cisco, or (ii) Distributor or its direct or indirect parent is to be acquired by a third party, or (iii) a controlling interest in Distributor or its direct or indirect parent is to be transferred to a third party.
+
+18.5 Upon termination or expiration of this Agreement, (a) Cisco reserves the right to cease all further delivery of Product or Services due against any existing Purchase Orders unless Distributor agrees to pay for such deliveries in advance by certified or cashier's check, (b) all outstanding invoices immediately become due and payable by certified or cashier's check, and (c) all rights and licenses of Distributor hereunder shall terminate, subject to the terms of the following sentence. Except for a termination of this Agreement resulting from Distributor's breach of Section 9.0 (Proprietary Rights and Software Licensing) or Section 19.0(Confidential Information), upon termination or expiration of this Agreement, Distributor may continue to use, in accordance with the terms and conditions of this Agreement, Products shipped to it by Cisco prior to the date of termination or expiration.
+
+18.6 Upon termination or expiration of this Agreement, Distributor shall immediately return to Cisco all Confidential Information (including all copies thereof) then in Distributor's possession, custody or control; provided, that except for a termination resulting from Distributor's breach of Section 9.0 (Proprietary Rights and Software Licensing) or Section 19.0 (Confidential Information), Distributor may retain a sufficient amount of such Confidential Information and material
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+to support its installed base of Products.
+
+18.7 [*****].
+
+18.8 In the event of termination by Cisco for convenience, termination by Distributor for Cisco's material breach, or expiration of this Agreement where Cisco has provided Distributor with written notice from an authorized representative of its intention not to renew the Agreement, Cisco agrees to repurchase all Product in Distributor's inventory within [*****] days following the effective date of termination or expiration. Within [*****] days following the effective date of termination or expiration, Distributor shall return to Cisco all Product held in inventory as of the effective date of termination. Distributor shall receive credit for any Product so returned in an amount equal to the original purchase price thereof, less any credits or discounts which have been previously paid or applied to Distributor. Such credits shall be first applied to any uncontested amounts due Cisco. Any remaining balance shall be payable to Distributor as soon as commercially practicable. Cisco shall have the option to select the method of return and shall bear all freight costs associated with returns of Product by Distributor under this Section 18.8.
+
+18.9 In the event of termination by Cisco for Distributor's material breach, or termination by Distributor for convenience, Cisco may, at its option, allow Distributor to return unsold Product, but Cisco is in no way obligated to do so. In the case of authorized return of Product by Cisco under Section 18.9, Distributor will bear all freight costs associated with return of Product to Cisco.
+
+18.10 [*****]
+
+Distributor shall obtain an RMA number prior to returning any Product to Cisco. Distributor shall follow Cisco's then-current RMA process.
+
+18.11 DISTRIBUTOR AGREES THAT, IN THE EVENT OF ANY TERMINATION OF THIS AGREEMENT, IT SHALL HAVE NO RIGHTS TO DAMAGES OR INDEMNIFICATION OF ANY NATURE, SPECIFICALLY INCLUDING COMMERCIAL SEVERANCE PAY, WHETHER BY WAY OF LOSS OF FUTURE PROFITS, EXPENDITURES FOR PROMOTION OF ANY PRODUCT, OR OTHER COMMITMENTS IN CONNECTION WITH THE BUSINESS AND GOOD WILL OF DISTRIBUTOR. DISTRIBUTOR EXPRESSLY WAIVES AND RENOUNCES ANY CLAIM TO COMPENSATION OR INDEMNITIES FOR ANY TERMINATION OF A BUSINESS RELATIONSHIP. EXCEPT AS OTHERWISE EXPRESSLY SET FORTH HEREIN, THIS SECTION SHALL IN NO WAY BE INTERPRETED TO RELEASE EITHER CISCO OR DISTRIBUTOR FROM ANY PAYMENTS OR FINANCIAL OBLIGATION MADE PRIOR TO TERMINATION.
+
+19.0 CONFIDENTIALITY. Distributor acknowledges that, in the course of selling Products and Services and performing its duties under this Agreement, Distributor, its Resellers, and End Users to which Distributor provides access to Cisco technical data (including without limitation Products, Services, and technical data made available on Cisco Connection Online pursuant to Exhibit C), may obtain information relating to Products, Services, or to Cisco, which is of a confidential and proprietary nature ("Proprietary Information"). Such Proprietary Information includes, but is not limited to, trade secrets, know-how, inventions, techniques, processes, programs, schematics, software source documents, data, Customer lists, financial information and sales and marketing plans.
+
+Cisco owns and intends to maintain its ownership of all such Proprietary Information. [*****] Distributor shall appropriately bind each of its employees to whom such disclosure is made, to hold the Proprietary Information in strict confidence and not to disclose such information to any person other than as is necessary in the course of its employment by Distributor and will indemnify Cisco for all damages suffered by Cisco in the event of wrongful disclosure of such Proprietary Information. Neither party shall disclose, advertise, or publish either the existence, the subject matter, any discussions relating to, or any of the terms and conditions, of this Agreement (or any summary of any of the forgoing) to any third party without the prior written consent of the other party. Any press release, publication, advertisement or public disclosure regarding this Agreement is subject to both the prior review and the written approval of both parties.
+
+Cisco acknowledges that, under this Agreement, Distributor may provide Point of Sale ("POS") reports, financial information, sales and marketing plans, Distributor network design information and Distributor lists, of a proprietary and confidential nature ("Distributor Confidential Information"). Such Distributor information, excluding POS reports and Distributor lists, shall be used by Cisco only in connection with this Agreement. [*****] Cisco further agrees to immediately return to Distributor, at Distributor's request, all Distributor Confidential Information in Cisco's possession, custody, or control upon termination of this Agreement at any time and for any reason, except for POS reports or Distributor
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+lists that Cisco may use for internal business or end user support purposes or government-related purposes.
+
+20.0 EXPORT RESTRICTIONS. Certain of the Products supplied by Cisco under the Agreement are subject to export controls under the laws and regulations of the United States (U.S.) and elsewhere. Distributor shall comply with such laws and regulations governing use, export, re-export, and transfer of Products and will obtain all required U.S. and local authorizations, permits, or licenses.
+
+21.0 COMPLIANCE WITH LAWS. 21.1 Distributor shall obtain all licenses, permits and approvals required by any government, including any recycling or take-back programs applicable to packaging or Products, and shall comply with all applicable laws, rules, regulations, policies and procedures and any requirements applicable to the importation, exportation, use, sale, loan, purchase, and distribution of Products under telecommunications, consumer rights related, environmental, labor, tax, and any other laws and regulations, of any government or other competent authority where the Products are to be sold, used or deployed (collectively "Applicable Laws").
+
+21.2 Distributor will indemnify and hold harmless Cisco for any claim arising from or relating to Distributor's violation or alleged violation of any Applicable Laws.
+
+21.3 Distributor hereby represents and warrants that: (a) it shall comply with all Applicable Laws; (b) this Agreement and each of its terms are in full conformance and in compliance with such laws; and (c) it shall not take any action or permit or authorize any action which will render Cisco liable for a violation of the U.S. Foreign Corrupt Practices Act, which prohibits the offering, giving or promising to offer or give, directly or indirectly, money or anything of value to any official of a government, political party or instrumentality thereof in order to assist it or Cisco in obtaining or retaining business and (i) it will not violate or cause Cisco to violate such Act in connection with the sale or distribution of Cisco Products or Services; and (ii) if Distributor is a non-governmental entity, it will notify Cisco in writing if any of its owners, partners, principals, officers, and employees are or become during the term of this Agreement officials, officers or representatives of any government, political party or candidate for political office outside the United States and are responsible for a decision regarding obtaining or retaining business for Cisco Products by such government. Cisco strives to maintain the highest standards of business integrity and, accordingly, if Distributor has any cause for concern regarding any business practices these should be reported to Cisco at [EMAIL ADDRESS] or by Fax to [FAX NUMBER].
+
+21.4 Distributor shall use its best efforts to regularly and continuously inform Cisco of any requirements under any Applicable Laws that directly or indirectly affect this Agreement, the sale, use and distribution of Products, or Cisco's trade name, trademarks or other commercial, industrial or intellectual property interests, including, but not limited to, certification or type approval of the Products from the proper authorities in the Territory.
+
+22.0 LIMITATION OF LIABILITY. NOTWITHSTANDING ANYTHING ELSE IN THIS AGREEMENT TO THE CONTRARY, AND EXCEPT FOR LIABILITY ARISING OUT OF DISTRIBUTOR'S BREACH OF SECTION 9 (PROPRIETARY RIGHTS AND SOFTWARE LICENSING) OR EXHIBIT C (SOFTWARE LICENSE AGREEMENT), OR AMOUNTS DUE FOR PRODUCTS AND SERVICES PURCHASED WITH RESPECT TO THE PAYMENT OF WHICH NO BONA FIDE DISPUTE EXISTS, ALL LIABILITY OF EACH PARTY, INCLUDING EACH PARTY'S AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS AND SUPPLIERS COLLECTIVELY, FOR CLAIMS ARISING UNDER THIS AGREEMENT OR OTHERWISE HOWSOEVER ARISING SHALL BE LIMITED SEPARATELY FOR PRODUCTS AND SERVICES PURCHASES TO THE GREATER OF I) [*****] OR (ll)THE MONEY PAID TO CISCO FOR PRODUCTS OR FOR SERVICES, SEPARATELY AND AS APPLICABLE, UNDER THIS AGREEMENT DURING THE [*****] PERIOD PRECEDING THE EVENT OR CIRCUMSTANCES FIRST GIVING RISE TO SUCH LIABILITY. THESE LIMITATIONS OF LIABILITY FOR PRODUCT AND SERVICES ARE CUMULATIVE AND NOT PER-INCIDENT (I.E., THE EXISTENCE OF TWO OR MORE CLAIMS WILL NOT ENLARGE THIS LIMIT).
+
+23.0 CONSEQUENTIAL DAMAGES WAIVER. EXCEPT FOR LIABILITY ARISING OUT OF OR IN CONNECTION WITH DISTRIBUTOR'S BREACH OF SECTION 9 (PROPRIETARY RIGHTS AND SOFTWARE LICENSING) OR EXHIBIT C (SOFTWARE LICENSE AGREEMENT), IN NO EVENT SHALL EITHER PARTY, ITS RESPECTIVE AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS OR SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL,
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+INDIRECT OR CONSEQUENTIAL DAMAGES, OR LOST REVENUE, LOST PROFITS, OR LOST OR DAMAGED DATA, WHETHER ARISING IN CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, EVEN IF SUCH PARTY HAS BEEN INFORMED OF THE POSSIBILITY THEREOF.
+
+24.0 GENERAL INDEMNIFICATION Each party shall defend, indemnify and hold harmless the other, and their respective officers, directors, employees, and agents from and against any and all claims, losses, liabilities, damages, and expenses (including, without limitation, reasonable attorneys' fees), including without limitation, those based on contract or tort, arising out of or in connection with a claim, suit or proceeding brought by a third party based upon bodily injury (including death) or damage to tangible personal property (not including lost or damaged data) arising from the negligent or intentional acts or omissions of the indemnifying party or its subcontractors, or the officers, directors, employees, agents, successors and assigns of any of them. In the event that the indemnified party's or a third party's negligent or intentional acts or omissions contributed to cause the injury or damage for which a claim of indemnity is being asserted against the indemnifying party hereunder, the damages and expenses (including, without limitation, reasonable attorneys' fees) shall be allocated or reallocated, as the case may be, between the indemnified party, the indemnifying party and any other party bearing responsibility in such proportion as appropriately reflects the relative fault of such parties, or their subcontractors, or the officers, directors, employees, agents, successors and assigns of any of them, and the liability of the indemnifying party shall be proportionately reduced.
+
+The foregoing indemnification obligations are conditioned upon the indemnified party promptly notifying the indemnifying party in writing of the claim, suit or proceeding for which the indemnifying party is obligated under this Section 24, cooperating with, assisting and providing information to, the indemnifying party as reasonably required, and granting the indemnifying party the exclusive right to defend or settle such claim, suit or proceeding.
+
+25.0 INSURANCE (a) Each party shall be responsible for maintaining Worker's Compensation insurance in the statutory amounts required by the applicable state laws.
+
+(b) Each party shall maintain Commercial General Liability insurance with bodily injury and property damage limits of $[*****] per occurrence and $[*****] aggregate. Such insurance shall (a) provide for contractual liability coverage, (b) provide for cross liability coverage, and (c) name the other party and its subcontractors, as well as the directors, officers, employees, agents, successors and assigns of all of them, as additional insureds, but only to the extent of liabilities falling within the indemnity obligations of the other party pursuant to the terms of Section 24 in this Agreement.
+
+26.0 REQUIREMENTS FOR RESELLERS 26.1 [*****]
+
+26.2 [*****]
+
+27.0 GENERAL PROVISIONS. 27.1 Choice of Law. The validity, interpretation, and performance of this Agreement shall be controlled by and construed under the laws of the State of New York, United States of America, as if performed wholly within the state and without giving effect to the principles of conflicts of law, and the state and federal courts of California shall have jurisdiction over any claim arising under this Agreement. The parties specifically disclaim the UN Convention on Contracts for the International Sale of Goods. Notwithstanding the foregoing, either party may seek interim injunctive relief in any court of appropriate jurisdiction with respect to any alleged breach of such party's intellectual property or proprietary rights.
+
+27.2 Force Majeure. Except for the obligation to pay monies due and owing, neither party shall be liable for any delay or failure in performance due to events outside the defaulting party's reasonable control, including without limitation acts of God, earthquakes, labor disputes, industry wide shortages of supplies, actions of governmental entities, riots, war, acts of terrorism, fire, epidemics, or delays of common carriers or other circumstances beyond its reasonable control. The obligations and rights of the defaulting party shall be extended for a period equal to the period during which such event prevented such party's performance.
+
+27.3 No Waiver. The waiver by either party of any right provided under this Agreement shall
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+not constitute a subsequent or continuing waiver of such right or of any other right under this Agreement.
+
+27.4 Assignment. Distributor may not assign or delegate its rights or obligations under this Agreement (other than (i) the right to receive any amount due, which shall be freely assignable, or (ii) to Distributor's parent or majority-owned subsidiary company of sufficient net worth to meet any potential liability under this Agreement) without the prior written consent of Cisco, such consent not to be unreasonably withheld or delayed, provided that any such assignment shall not relieve Distributor of any obligation to pay monies that were owed Cisco prior to the date of the assignment.
+
+27.5 Severability. In the event that one or more terms of this Agreement becomes or is declared to be illegal or otherwise unenforceable by any court of competent jurisdiction, each such term shall be null and void and shall be deemed deleted from this Agreement. All remaining terms of this Agreement shall remain in full force and effect. Notwithstanding the foregoing, if this paragraph is invoked and, as a result, the value of this Agreement is materially impaired for either party, as determined by such party in its sole discretion, then the affected party may terminate this Agreement by written notice with immediate effect to the other.
+
+27.6 Attorneys' Fees. In any suit or proceeding relating to this Agreement the prevailing party will have the right to recover from the other its costs and reasonable fees and expenses of attorneys incurred in connection with the suit or proceeding, including costs, fees and expenses upon appeal, separately from and in addition to any other amount included in such judgment. This provision is intended to be severable from the other provisions of this Agreement, and shall survive expiration or termination and shall not be merged into any such judgment
+
+27.7 No Agency. This Agreement does not create any agency, partnership, joint venture, or franchise relationship. No employee of either party shall be or become, or shall be deemed to be or become, an employee of the other party by virtue of the existence or implementation of this Agreement. Each party hereto is an independent contractor. Neither party has the right or authority to, and shall not, assume or create any obligation of any nature whatsoever on behalf of the other party or bind the other party in any respect whatsoever.
+
+27.8 Notices. All notices required or permitted under this Agreement will be in writing and will be deemed given one (1) day after deposit with a commercial express courier specifying next day delivery (or two (2) days for international courier packages specifying 2-day delivery), with written verification of receipt. All communications will be sent to the addresses set forth on the cover sheet of this Agreement or such other address as may be designated by a party by giving written notice to the other party pursuant to this paragraph. Notwithstanding the foregoing, notices regarding general changes in product status, pricing, policies, financial transactions or programs may also be made by posting on Cisco.com or delivery by e-mail or fax, as applicable. Cisco shall use commercially reasonable efforts to provide Distributor [*****] notice when introducing new Programs or Product or modifying Product pricing. Any notice regarding discontinuation of Product shall be pursuant to Cisco's then-current End of Life Policy, as found at http://www.cisco.com/en/US/products/products end-of-life policy.html. A current copy of this policy, as of the Effective Date of this Agreement, is attached hereto as Exhibit G. [*****].
+
+27.9 Non-exclusive Market and Purchase Rights. It is expressly understood and agreed that this Agreement does not grant to Cisco or Distributor an exclusive right to purchase or sell Products and shall not prevent either party from developing or acquiring or selling competing Products of other vendors or customers.
+
+27.10 Survival. Sections 6.0 (Payment), 10.0 (Limited Warranty), 19.0 (Confidential Information), 15.0 (Patent and Copyright Infringement), 18 (Term and Termination), 17.0 (Reports and Records), 20.0 (Export Restrictions), 22.0 (Limitation of Liability), 23.0 (Consequential Damages Waiver), 27.0 (General) and the license to use the Software set out in Exhibit C (Software License Agreement) (subject to the termination provisions set forth in Section 18.0) shall survive the termination of this Agreement.
+
+27.11 Counterparts. This Agreement may be executed in two counterparts, each of which shall be deemed an original and together which shall constitute one and the same instrument. A validly executed counterpart that is delivered by
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+one party to the other via electronic transmission (a "Counterpart Image") shall be valid and binding to the same extent as one delivered physically, provided that the valid signature is clearly visible in the Counterpart Image. In the event that a party delivers a Counterpart Image in place of an originally-executed counterpart, such party shall retain the originally-executed counterpart in its files for at least the duration of the Term hereof.
+
+27.12 Headings. Headings of sections have been added solely for convenience of reference and shall not be deemed part of this Agreement.
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+EXHIBIT A TERRITORY
+
+Territory: The United States, excluding its territories.
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+EXHIBIT B VALUE ADDED DISTRIBUTOR SUPPORT EXHIBIT
+
+1.0 DEFINITIONS. Capitalized terms used in this Exhibit B have the meanings assigned to those terms in Section 1.0 of the Nonexclusive Value Added Distributor Agreement Terms and Conditions. Additional capitalized terms and the definitions assigned to those terms in this Exhibit B follow:
+
+CCO means Cisco Connection Online, Cisco's online information web server.
+
+Customer means End Users and Resellers.
+
+Standard Business Hours means 6:00 AM to 6:00 PM Pacific Standard Time Monday through Friday, excluding Cisco-observed holidays, in the U.S. and Canada and outside the U.S. and Canada, means 8:00 AM to 6:00 PM Australia's Eastern Standard Time and Central European Time, Monday through Friday, excluding local Cisco-observed holidays.
+
+TAC means Cisco's Technical Assistance Center.
+
+2.0 CISCO RIGHTS AND OBLIGATIONS. For Products purchased under the Agreement, Cisco provides the services described below. [*****]
+
+2.1 CCO Access. Cisco will provide DISTRIBUTOR with partner-level access to CCO.
+
+2.2 Technical Support. [*****].
+
+2.3 Updates. [*****].
+
+2.4 Hardware Support. 2.4.1 Return for Replacement. During the Cisco warranty period, DISTRIBUTOR may return failed Product to Cisco for replacement. Cisco will use commercially reasonable efforts to ship a replacement within [*****] days after receipt of the failed Product from DISTRIBUTOR. After the end of the warranty period, parts will be charged at Cisco's then-current rates.
+
+2.4.2 DISTRIBUTOR may request advance replacement delivery of replacement parts (Cisco will send the part upon DISTRIBUTOR's receipt of an RMA number) at Cisco's then-current Advance Replacement charge.
+
+2.4.3 Product used for replacement may be new or equivalent to new, at Cisco's discretion.
+
+2.5 Cisco Brand Services Option. Cisco will make available for purchase by DISTRIBUTOR, all appropriate Cisco Brand support Products for Distributor's internal use and for resale to Resellers. This option to resell Cisco brand services whereby services are delivered directly by Cisco to the End User is available in accordance with Cisco's then-current packaged service resale program. Availability of Cisco brand services is subject to geographic limitations. Information on w h e r e  s u c h  s e r v i c e s  a r e  a v a i l a b l e  f o r  r e s a l e ,  a s  w e l l  a s  t h e  p r o c e s s  f o r  r e s e l l i n g  C i s c o  b r a n d  s e r v i c e s  i s  l o c a t e d  a t "http://www.cisco.com/warp/cproreg/45/index.html".
+
+3.0 DISTRIBUTOR RIGHTS AND OBLIGATIONS. 3.1 Prioritization and Escalation Guideline. DISTRIBUTOR will escalate problems to Cisco pursuant to the Escalation and Prioritization Guideline (Appendix A).
+
+3.2 Spare Parts. DISTRIBUTOR shall maintain sufficient spare parts inventory to support its Customer base for a one-month period under normal circumstances. DISTRIBUTOR shall maintain adequate manpower and facilities to assure prompt handling of inquiries, orders and shipments for Products.
+
+3.3 Warranty Service. DISTRIBUTOR shall provide to its Resellers, [*****] all warranty service for a minimum
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+of the warranty period set forth in the published Product warranty provided with the original Product. Such warranty shall commence upon shipment to the End User. Warranty service will consist of Software and Hardware replacement service as follows:
+
+3.3.1 Software Service. DISTRIBUTOR will use reasonable efforts to provide work​ around solutions or implement a Cisco-provided patch. DISTRIBUTOR will use reasonable effort to make latest release of all Cisco Software available to its resellers.
+
+3.3.2 Hardware Advance Replacement. DISTRIBUTOR will ship replacement parts and/or Product to its Resellers in accordance with Cisco's then- current published Product warranty applicable to the particular Product.
+
+3.4 Returns Coordination. DISTRIBUTOR will comply with the following: 3.4.1 DISTRIBUTOR shall coordinate the return of all failed parts and/or Product, freight and insurance prepaid, to the Cisco repair center specified by Cisco.
+
+3.4.2 DISTRIBUTOR shall comply with the following RMA procedure: 3.4.2.1 DISTRIBUTOR will ensure all Products are properly packaged prior to being shipped, and will include a written description of the failure and specification of any changes or alterations made to the Product. Product returned to Cisco will conform in quantity and serial number to the RMA request.
+
+3.4.2.2 DISTRIBUTOR shall tag each Product returned with the RMA transaction number and a brief description of the problem.
+
+3.4.2.3 Cisco will not accept any Product returned which is not accompanied by an RMA number.
+
+3.4.3 Title and risk of loss to failed Product and parts transfers to Cisco upon delivery to the Cisco repair center specified by Cisco.
+
+3.5 Reseller Support. DISTRIBUTOR will ensure Reseller has all appropriate support as follows: 3.5.1 DISTRIBUTOR shall provide competent technical support staff to support the Product so as to ensure that the Reseller is able to provide the necessary support to the End User Reseller.
+
+3.5.2 Reseller Frontline Support. DISTRIBUTOR will use best efforts to ensure that its Resellers provide high quality front-line support.
+
+3.5.3 [*****] Cisco is not responsible for any claims arising from failure by Distributor's Resellers to provide this support.
+
+3.5.4 Resale of Cisco Brand Services. Where available, DISTRIBUTOR will offer for purchase by its Resellers, all appropriate Cisco brand support products through its normal products availability process.
+
+4.0 SERVICES NOT COVERED UNDER THIS EXHIBIT. 4.1 New Releases or Major Releases for Software.
+
+4.2 Customization of existing Software for non-standard applications.
+
+4.3 Support or replacement of Product that is altered, modified, mishandled, destroyed or damaged by natural causes or damaged during unauthorized use.
+
+4.4 Software problems resulting from third party equipment or causes beyond Cisco's control.
+
+4.5 Any hardware upgrade of Product required to accept Updates.
+
+5.0 TERMINATION. Upon expiration or termination of the Agreement, (a) all rights and licenses of DISTRIBUTOR under this Support Exhibit shall terminate, (b) DISTRIBUTOR shall immediately discontinue all representations that DISTRIBUTOR
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+provides maintenance services for Cisco Product, and (c) DISTRIBUTOR access to CCO shall terminate.
+
+6.0 SOFTWARE LICENSE. DISTRIBUTOR acknowledges that it may receive Software as a result of services provided under this Agreement. DISTRIBUTOR agrees that it is licensed to distribute such Software only on Product covered under the services and subject to the terms and conditions of this Agreement and the Software license granted with the original acquisition. Except as otherwise specified in this Exhibit, DISTRIBUTOR shall not copy, in whole or in part, Software or documentation; modify the Software, reverse compile or reverse assemble all or any portion of the Software; or rent, lease, distribute, sell, or create derivative works of the Software.
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+APPENDIX 1 CISCO PROBLEM PRIORITIZATION AND ESCALATION GUIDELINE To ensure that all problems are reported in a standard format, Cisco has established the following problem priority definitions. These definitions will assist Cisco in allocating the appropriate resources to resolve problems. Distributor must assign a priority to all problems submitted to Cisco. [*****]
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+EXHIBIT D SCANSOURCE FREIGHT POLICY
+
+TO: All SUPPLIERS SUBJECT: ROUTING INSTRUCTIONS In order to mm1m1ze inbound transportation cost, and to maximize control over transit time, tracing, and expediting, this routing guide has been issued. These instructions supercede all previous shipping instructions and are to be retained for ready reference.
+
+For shipments of Catalyst Telecom and Paracon products: Contact:
+
+Melinda Hamilton, Receiving Supervisor Phone: (800) 854-9570 ext. 8187 Fax: (901) 369-7876 Email: melinda.hamilton@partnerservicesinc.com
+
+Ship to address: ScanSource, Inc. 4020 Quest Way, Ste. 114 Memphis, TN. 38115 Receiving hours: 7:00 am - 2:00 pm
+
+For shipments of ScanSource and ScanSource Security products: Contact:
+
+Deborah Lucas, Receiving Manager
+
+Phone: (800) 854-9570 ext. 8111 Fax: (901) 367-0666 Email: deborah.lucas@partnerservicesinc.com
+
+Ship to address: ScanSource, Inc. 4100 Quest Way Memphis, TN. 38115 Receiving hours 7:00 am - 12:00 pm (noon)
+
+Note: A packing slip/manifest must be included with each shipment. It should include: a) A listing of products and quantities shipped b) Purchase order number (this must also show on the bill of lading) c) Date shipped d) Name of carrier e) Tracking or pro number
+
+Please comply with the following instructions when transportation is our responsibility: 1. All freight charges assigned to ScanSource must be shipped "freight collect". For UPS shipments ship "bill recipient". Please consolidate all of one day's shipments on one bill of lading. Exceptions will be charged back. Cisco may accomplish this by leveraging an order grouping process and setting up internal tools accordingly. OG will only be available for LTL or TL carriers. In order to support OG, ScanSource must include a LTL and TL carriers in their routing config in SRC tool. If combined shipments do not meet the minimum requirement to ship LTL or TL (i.e. number pieces, min weight) then no grouping will be done. 2. Do not insure shipments or declare value for carriage. 3. Each bill of lading must display the total number of cartons in the shipment, i.e. 24 cartons on 1 pallet. Bill of lading must be filled out completely. Please accurately describe products with the appropriate NMFC code. If you do not have the NMFC information available, ask the carrier to identify it for you.
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+4. Indicate our purchase order number and number of boxes on all containers and shipping documents. 5. All pallets must be standard 40" wide X 48" long four way pallets. Primary fork entry from the 40" end. 6. Banding must be plastic, no metal. 7. Stack height on pallets is 48" maximum.
+
+All freight bills are audited, and any premium transportation charges incurred because these instructions have not been followed will be charged to Cisco. The charges will be based on the actual premium paid. ScanSource agrees to provide Cisco with advance notice in the event such a charge becomes necessary. Cisco will have the opportunity to validate any such charge prior to actually incurring same.
+
+If pickup service, via the carrier shown below, is not available in your area or if you have any other questions concerning this guide, please contact the ScanSource Traffic Department at (901) 362-0421, Bob Balsano. Your cooperation in following this program is appreciated.
+
+STANDARD SURFACE TRANSPORTATION
+
+I. Shipments, not individual cartons, weighing less than 250 lbs. and meeting the weight and size restrictions, must be shipped by United Parcel Service. II. Approved motor carriers for all LTL shipments from the States shown below are listed.
+
+CARRIER SERVICING
+
+FedEx Freight East Toll free number for pickups (800) 874-4723 -Alabama -Arkansas -Georgia -Illinois -Indiana -Kentucky -Louisiana -Minnesota -Mississippi -Missouri -New Jersey -North Carolina -Oklahoma -South Carolina -Tennessee -Texas -Virginia -West Virginia -Wisconsin
+
+Con-way: Arizona California Colorado Oregon Washington
+
+ALL REMAINING STATES Yellow Freight Toll free (800) 610-6500
+
+PREMIUM ROUTINGS
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+ScanSource Purchasing or Traffic Department must authorize use of premium freight (air, special truck, truckload) in advance. All premium shipments must state the total number of cartons in the shipment and the correct dimension of each carton.
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+EXHIBIT E
+
+AFFILIATE LIST
+
+The following entities are either business units of Distributor or are wholly-owned subsidiaries of Distributor. For the purposes of this Agreement, and as set forth in Section 1 ("Definitions"), all such entities listed below shall be referred to herein as "Affiliate(s)."
+
+1. ScanSource, Inc. 2. ScanSource, Inc. d/b/a Catalyst Telecom 3. ScanSource, Inc. d/b/a Paracon 4. ScanSource Security Distribution, Inc. 5. T2 Supply, Inc.
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+EXHIBIT F
+
+Software Transfer and Relicensing Policy September 15, 2000 This document sets forth Cisco's policy with respect to the transferability of any Cisco software ("Software"). A transfer occurs when: (1) the original or authorized subsequent licensee tries to convey or reassign its right to use the Software to another entity, or (2) the original lessor of Cisco used hardware (including bundled Software) ("Hardware") tries to reassign the original lessee's right to use the Software to another lessee, or the lessor tries to convey or reassign its right to lease the Hardware and Software bundle to another lessor. A rental would be treated the same as the lease situation as described in item 2 above.
+
+This policy applies to all Software whether Standalone or Embedded. Standalone Software is Software which is not required to operate the Hardware upon which it resides (i.e., ICSG software such as call center, unified messaging, network management software). Embedded Software is Software which is incorporated into the Hardware and is required for its operation (i.e., operating system software, certain features of IOS).
+
+Policy:
+
+Cisco's policy is that Software, whether Standalone or Embedded, is not transferable, except where a listed exception below applies, and except, of course, where Cisco's contract expressly allows it. Any other transfers will require the payment of a new license fee (see Global Price List). For products where there is no separate line item for the Software (i.e. the prices for both the Hardware and Software are bundled), and therefore, a fee cannot be determined, an exception will be made to allow for the transfer without the customer being required to obtain a new license (the customer may be required to pay an inspection fee), if (A) Software to be transferred (i) will be under a support contract provided by either Cisco or a Cisco​‐ authorized support partner or (ii) is still supported by Cisco; or (B) approval from the theatre Sales Controller has been obtained.
+
+Use of the Software will be governed by either the original license terms and conditions in place between Cisco and the original Software licensee or by the new license between Cisco and the new user. Cisco may withhold its consent to any transfer not conforming to this policy.
+
+License Fee:
+
+The License Fee is generally the same amount as the fee charged for a new license or a portion of the fee of a new license, unless otherwise noted on the Global Price List.
+
+It is the obligation of the transferor to obtain Cisco's consent and/or a new license before the transfer occurs.
+
+Exceptions:
+
+Provided the conditions of transfer are met as set forth below, the follow exceptions apply to the prohibition against transfer without written approval and payment of the applicable fee. These exceptions may be overridden by express terms in an applicable licensing agreement governing the transferability of Special License Software (Special License Software is the term now used in our templates to refer to ICSG Product)
+
+Affiliate: An entity may transfer its right to use a certain piece of Software to its Affiliate. An Affiliate is another entity where at least 50.1% of its voting power is owned or controlled by the transferring entity or where as least 50.1% of the transferring entity's voting power is owned or controlled by the transferee.
+
+Merger or Acquisition: An entity may transfer its right to use a certain piece of Software to the purchaser of all or substantially all of the capital stock of the transferor or all or substantially all of the assets of that portion of the transferor's business to which those licenses pertain. Lease: In a leasing situation where the original lessee/customer would like to buy out the equipment from the leasing company during or at the end of the lease term, the original lessee/customer may retain the license without paying a new License Fee, provided leasing company gives Cisco prior written notice. Also, if the original lessee/customer defaults under the lease and the leasing company takes the equipment back before the end of the lease term, the leasing company may transfer the license to the another lessee for the remainder of the original lease term, without paying Cisco a License Fee, upon 30 days' prior written notice to Cisco, or as soon as practicable if the equipment is re-leased before such 30- day period. If the new lease term is in
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+excess of the original lease term, the leasing company is expected to pay Cisco a new License Fee on or before the expiration date of the original lease term. [NOTE: In the situation where a leasing company leases Cisco equipment to Customer A for a specified term and at the end of the lease term, the leasing company desires to lease the same equipment to Customer B, leasing company may not transfer the license without obtaining a new license from Cisco.)].
+
+Outsource: Customer desires to outsource the operation, support and maintenance of its network to a third party (e.g. EDS) ("Third-Party Service Provider"), for the benefit of that customer. As part of the outsourcing, customer transfers all of its rights, title and interest to the assets, including certain Cisco products and software licenses, to the Third-Party Service Provider. Customer may transfer the license to the Third-Party Service Provider solely for the purposes of providing services to Customer upon 30 days' prior written notice to Cisco.
+
+All notices should be sent to sw-license@cisco.com or as indicated in the agreement between Cisco and the customer or transferor, if any.
+
+Conditions of Transfer:
+
+Transfers, in any event, shall only be allowed under the following conditions:
+
+◦ The parties involved in the transfer are not in breach of the agreement governing the use of the Software or any other agreement with Cisco;
+
+◦ Any additional services or charges incurred by Cisco as the result of any transfer shall be borne by the transferor and transferee; and
+
+◦ The parties involved in the transfer shall provide written prior notice of a permitted transfer to Cisco and the transferee shall, in a writing to Cisco, (i) assume all of the obligations of the transferor, and (ii) agree that transferee's use of the Software shall be governed by the terms of the then-current license agreement between Cisco and transferor or, at Cisco's sole discretion, by the terms of Cisco's then-current standard license agreement.
+
+Questions?
+
+Any questions or comments regarding this policy should be sent to sw-license@cisco.com.
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+EXHIBIT G
+
+Cisco End of Life Policy
+
+Products reach the end of their Product Life Cycle for a number of reasons. These reasons may be due to market demands, technology innovation and development driving changes in the product, or the products simply mature over time and are replaced by functionally richer technology. While this is an established part of the overall product life cycle, Cisco Systems recognizes that end-of-life milestones often prompt companies to review the way in which such end-of-sale and end-of-life milestones impact the Cisco products in their networks. With that in mind, we have set out below Cisco's end-of-life policy to help customers better manage their end-of-life transition and to understand the role that Cisco can play in helping to migrate to alternative Cisco platforms and technology.
+
+The End of Life Policy only applies to End of Life and End of Sale announcements made in all Theaters on or after November 30, 2002 for all Cisco product lines. The Policy does not apply to product that is already subject to an End of Life and/or End of Sale announcement. The general policy guidelines are:
+
+1. As a general rule, Cisco will provide 6 months' notice of the affected product's end-of-sale date and/or the last day when the affected product can be ordered. This notice will appear on Cisco.com site (http://www.cisco.com/en/US/products/prod_end_of_life.html) and we encourage you to visit this site regularly as it contains useful information regarding Cisco's end-of-life program. Sign up to receive notification here: http://www.cisco.com/pcgi-bin/Support/FieldNoticeTool/field-notice
+
+2. Access to Cisco's Technical Assistance Center (TAC) will be available 24 hours a day, seven days a week for a period of 5 years from the end-of-sale date for hardware and operating system software issues and for a period of 3 years from the end-of-sale date for application software issues.
+
+3. Spares or replacement parts for hardware will be available for a period of 5 years from the end-of​ sale date. We will provide spares and replacement parts in accordance with our Return Materials Authorization (RMA) process.
+
+4. Software support will be as follows
+
+a. For the first year following the end-of-sale date, we will provide bug fixes, maintenance releases, workarounds, or patches for critical bugs reported via the TAC or Cisco.com Web site.
+
+b. After the first year and for Operating System SW -where available- we will provide bug fixes, maintenance releases, workarounds or patches for a period of 4 years for operating system software. Bear in mind that it may be necessary to use software upgrade release to correct a reported problem.
+
+c. After the first year and for Application SW -where available - we will provide bug fixes, maintenance releases, workarounds or patches for a period of 2 years for application software. Bear in mind that it may be necessary to use software upgrade release to correct a reported problem.
+
+5. You will need to ensure that you have a current and fully paid support contract with Cisco. Please contact your Support Account Manager regarding fees payable during the end-of-life period so that we can support you right through the end-of-life transition period.
+
+6. Below are guidelines that should be followed to ensure that you receive effective support for the affected products within your network:
+
+a. For hardware or software that is not covered under a service contract, customers may add the product(s) to a current contract or purchase a new contract until 12 months after the end-of-sale date.
+
+b. Service contracts that have not been renewed or have lapsed after 12 months of end-of​ sale date are not re-newable.
+
+c. Renewal of your service contract will generally be available until the last year of support, but will not extend
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019
+
+
+
+
+
+Exhibit 10.38
+
+beyond the last date of support.
+
+The end-of-life milestones and Cisco commitments are presented in Table 1.
+
+Table 1. Standard Guideline for End-of-Life Milestones Milestone - 6 mos Day 0 1 Year 2 Year 3 Year 4 year 5 Year
+
+End-of-sale date
+
+End-of-Sale Notice Period
+
+Operating System Software Maintenance Support See 4(a) See 4(b) above
+
+Add or attach new service contracts
+
+Renew service contracts - for HW & Operating System SW
+
+Hardware Repair or Replacement
+
+Customer Service and Support of HW & Operating System SW (TAC access & support)
+
+Application Software maintenance support See 4(a) See 4(c) above
+
+Renew service contracts - for Application SW
+
+Here is an explanation of some of the terms that we have used in this notice: End of Product Life Cycle: A process that guides the final business operations associated with the product life cycle. The end-of-life process consists of a series of technical and business milestones and activities that, once completed, make a product obsolete. Once obsolete, the product is not sold, manufactured, improved, repaired, maintained, or supported.
+
+End-of-sale date: The last date to order the product through Cisco point-of-sale mechanisms. The product is no longer for sale.
+
+Hardware: The physical product and its physical components.
+
+Operating System Software: Cisco operating system software that runs on Cisco hardware Application software: Cisco software that requires the presence of some non-Cisco operating system software.
+
+Software Maintenance support: The time period that Cisco may release any software maintenance releases or bug fixes to the software product. After this date, Cisco Engineering will no longer develop, repair, maintain, or test the product software.
+
+Source: SCANSOURCE, INC., 10-K, 8/22/2019

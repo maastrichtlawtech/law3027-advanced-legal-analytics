@@ -1,0 +1,473 @@
+Exhibit 10.27
+
+                          e-business Hosting Agreement
+
+                                     between
+
+                                  Bluefly, Inc.
+
+                                       and
+
+                   International Business Machines Corporation
+
+                                        1
+
+                          e-business Hosting Agreement
+
+Under this e-business Hosting Agreement ("Agreement") between International Business Machines Corporation ("IBM") and Bluefly, Inc. ("Customer"), IBM will provide Web hosting and related services ("Services") to Customer. The Agreement includes these terms and conditions and the documents referenced herein ("Base Terms"), e-business hosting services order forms accepted by IBM ("Order Forms"), and the following attachments:
+
+a.    Attachment A: Facilities Services;
+
+b.    Service Option Attachment for Facilities Services; and
+
+c.    all other applicable attachments referenced in the Order Forms for       Services options selected by Customer ("Service Option Attachments").
+
+In the event of a conflict between the Base Terms and an attachment, the Base Terms will govern, except where an attachment or a provision contained therein expressly states that it will govern over the Base Terms. The Base Terms and the attachments always govern over any inconsistent provision in an Order Form.
+
+-------------------------------------------------------------------------------- 1.0   Definitions
+
+a.    "Acceptable Use Policy" means the Acceptable Use Policy for IBM e-business       Services, located on the Internet at http://www.ibm.com/services/       e-business/aup.html, as of the Effective Date, and any subsequent       modification in accordance with Section 13.2 below.
+
+b.    "Affiliates" means entities that control, are controlled by, or are under       common control with a party to this Agreement.
+
+c.    "Base Components" means the hardware and software that IBM makes       available, if any, as specified in Order Forms and associated Service       Option Attachments.
+
+d.    "Content" means information, software, and data that Customer provides,       including, without limitation, any hypertext markup language files,       scripts, programs, recordings, sound, music, graphics, images, applets or       servlets that Customer or its Subcontractors or Services Recipients       create, install, upload or transfer in or through the e-business Hosting       Environment and/or Customer Components.
+
+e.    "Content Administrator" means an employee or Subcontractor of Customer who       is authorized by Customer to install, upload and/or maintain Content using       a User Identification.
+
+f.    "Customer Components" means the hardware, software and other products,       data and Content that Customer provides, including those specified in       Service Option Attachments.
+
+g.    "e-business Hosting Environment" means the Base Components and the IBM       provided Internet access bandwidth, collectively.
+
+h.    "Enterprise" means any legal entity and the subsidiaries it owns by more       than 50 percent. The term "Enterprise" applies only to the portion of the       Enterprise physically located within the United States of America.
+
+i.    "IBM e-business Hosting Center" means the facility used by IBM to provide       the Services.
+
+j.    "Internet" means the public worldwide network of TCP/IP-based networks.
+
+k.    "Materials" means literary or other works of authorship (such as programs,       program listings, programming tools, documentation, reports, drawings and       similar works) that IBM may deliver to Customer. "Materials" does not       include licensed program products available under their own license       agreements or Base Components.
+
+l.    "Required Consents" means any consents or approvals required to give IBM       and its Subcontractors the right or license to access, use and/or modify       in electronic form and in other forms, including derivative works, the       Customer Components, without infringing the ownership or intellectual       property rights of the providers, licensors, or owners of such Customer       Components.
+
+m.    "Service Option Ready Date" means the date that IBM has notified Customer       that IBM has completed the implementation activities
+
+
+
+
+
+                                       2
+
+      specified in an applicable Service Option Attachment.
+
+n.    "Services Recipients" means any entities or individuals receiving or using       the Services, or the results or products of the Services.
+
+o.    "Service Option Attachment Start Date" means the day after the date of the       last signature on an Order Form authorizing the Services under an       applicable Service Option Attachment.
+
+p.    "Subcontractor" means a contractor, vendor, agent, or consultant selected       and retained by IBM or Customer, respectively.
+
+q.    "TCP/IP" means Transmission Control Protocol/Internet Protocol.
+
+r.    "User Identification" or "ID" means a string of characters that uniquely       identifies a Content Administrator.
+
+-------------------------------------------------------------------------------- 2.0   IBM Services Responsibilities
+
+IBM will perform the Services described in Attachment A and applicable Service Option Attachments.
+
+-------------------------------------------------------------------------------- 3.0   Term and Termination
+
+3.1   Term
+
+This Agreement will be effective beginning on 12:01 a.m., Eastern Time, on the day after the date of last signature to these Base Terms ("Effective Date") and ending on the expiration and/or termination of all Service Option Attachments, unless the Agreement is terminated earlier in accordance with the terms herein. The term of each Service Option Attachment is as specified on the applicable Order Form.
+
+3.2   Renewal
+
+Each Service Option Attachment will renew automatically for an additional term equal in duration to the previous term of the applicable Service Option Attachment unless either party notifies the other party in writing at least ninety (90) days prior to the end of the then-current term for the applicable Service Option Attachment that it has elected to terminate such Service Option Attachment.
+
+3.3   Termination for Cause
+
+Customer or IBM may terminate this Agreement for material breach of this Agreement by the other upon written notice containing the specific nature and dates of the material breach. The breaching party will have thirty (30) days from receipt of notice to cure such breach, except for nonpayment by Customer, which must be cured within seven (7) business days from receipt of notice. If such breach has not been timely cured, then the non-breaching party may immediately terminate this Agreement upon written notice; provided, however, it is understood that in the event IBM has so breached this Agreement IBM shall not be entitled to recover the early termination charges described in Section 3.4(b) below.
+
+3.4   Termination for Convenience
+
+Customer may terminate this Agreement (including all Service Option Attachments) or any Service Option Attachment (with the exception of any Service Option Attachment that is a prerequisite for the provision of Services under a non-terminated Service Option Attachment) for convenience at the end of any calendar month by:
+
+a.    providing at least one month's prior written notice to IBM; and
+
+b.    paying the applicable early termination charges, if any, specified in       Attachment A and applicable Service Option Attachments.
+
+In the event that Customer exercises its rights under this Section 3.4, IBM shall continue to fulfill all of its duties and obligations following the notice date and until the final termination date.
+
+3.5   Effect of&sbsp;Termination
+
+Upon the date of termination, all Customer payment obligations accrued hereunder through the date of termination will become due and payable. The termination of selected Service Option Attachments will not affect Customer's obligation to pay charges under other Service Option Attachments.
+
+-------------------------------------------------------------------------------- 4.0   Charges and Payment
+
+4.1   Charges
+
+Charges for applicable Services will be specified in Service Option Attachments and Order Forms. Charges can be specified as one-time, installment, recurring, or usage. IBM will invoice such Charges when they begin or are due as set forth in Service Option Attachments.
+
+
+
+
+
+4.2   Payment
+
+IBM invoices will specify the amount due. Payment is due upon receipt and payable as specified in such invoice. Customer agrees to pay accordingly, including any late payment fees. Payment will be made in United States dollars.
+
+4.3   Taxes
+
+                                       3
+
+Customer will pay or provide appropriate exemption documentation for all taxes, duties, levies, and any other fees (except for taxes based upon IBM's net income) related to the Services imposed by any governmental authorities. Charges specified herein (including in an Order Form) are exclusive of any such taxes, duties, levies or fees.
+
+-------------------------------------------------------------------------------- 5.0   Warranties and Disclaimers
+
+5.1   IBM Representations and Warranties
+
+IBM represents and warrants that:
+
+a.    it will perform the Services using reasonable care and skill and in       accordance with the applicable Service Option Attachments (which means the       degree of knowledge, skill and judgment customarily exercised by members       of the applicable profession with respect to work of a similar nature);       and that it will provide Customer with competent, fully trained, fully       qualified and responsible personnel to perform the Services; and
+
+b.    it has the requisite corporate power and authority to execute, deliver and       perform its obligations under this Agreement.
+
+IBM covenants that it will comply with the laws applicable to IBM's business.
+
+5.2   Exclusivity of Warranties
+
+THE WARRANTIES IN SECTION 5.1 ARE THE EXCLUSIVE WARRANTIES FROM IBM. THEY REPLACE ALL OTHER WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, AND FITNESS FOR A PARTICULAR PURPOSE.
+
+5.3   Security
+
+a.    Customer acknowledges that IBM does not control the transfer of data over       telecommunications facilities, including the Internet.
+
+b.    Subject to the other disclaimers contained herein, IBM will implement the       security features specified herein, including the IBM perform security       obligations identified in Section 8.0 of the Facilities Services Service       Option Attachment. However, IBM does not warrant secure operation of the       Services or that it will be able to prevent third party disruptions of the       e-business Hosting Environment or Customer Components.
+
+c.    Customer acknowledges that IBM offers numerous security options, specified       in Service Option Attachments. Customer is responsible for selecting on       Order Forms the set of security options that it determines meet Customer's       needs.
+
+d.    Customer agrees that IBM shall have no liability for any provision of       security-related services or advice that IBM may voluntarily provide       outside the scope of selected Service Option Attachments.
+
+5.4   Other Disclaimers
+
+a.    IBM does not warrant uninterrupted or error-free operation of any Service       or that IBM will correct all defects. open
+
+b.    IBM does not make any representation or warranty as to the capacity,       performance or scalability of the Services, e-business Hosting       Environment, or Customer Components.
+
+c.    IBM PROVIDES ALL MATERIALS AND ALL NON-IBM SERVICES, PRODUCTS, DATA,       APPARATUS AND SOFTWARE "AS IS", WITHOUT WARRANTY OF ANY KIND, INCLUDING,       WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY,       SATISFACTORY QUALITY, AND FITNESS FOR&sbsp;A PARTICULAR PURPOSE. Non-IBM       suppliers may provide their own warranties to you.
+
+-------------------------------------------------------------------------------- 6.0 Confidentiality
+
+All information exchanged between the parties is non-confidential; provided, however if either or both parties require the exchange of confidential information, such information will be exchanged under the terms and conditions of the Agreement for Exchange of Confidential Information executed by IBM on August 3, 2001 (the "AECI") (it being further agreed as follows: (a) the AECI is hereby modified so that any information that is disclosed by a party hereto that a reasonable person would construe, based upon the nature of the information and the circumstances surrounding the disclosure, as intended to be confidential shalll be deemed to be confidential Information under the AECI and shall be accorded all protections of the AECI and (b) after the date hereof the parties hereto shall enter into a modification of the AECI whereby the provisions of (a) immediately above are documented and (c) the parties shall also amend the AECI so as to reflect the following agreement: in the event that a breach or
+
+
+
+
+
+threatened breach of a party's obligations hereunder shall cause irreparable harm wherein a remedy at law would
+
+                                       4
+
+prove inadequate, the aggrieved party shall have the right to seek and obtain an injunction so as to prevent any further disclosure of the confidential Information. With respect to any confidential information contained in or traveling through the e-business Hosting Environment or Customer Components, the provisions of Sections 5, 9, and 10 herein will prevail to the extent of any inconsistent provisions in the confidentiality agreement.
+
+-------------------------------------------------------------------------------- 7.0   Materials
+
+a.    IBM will specify Materials to be delivered to Customer. IBM will identify       them as being "Type I Materials," "Type II Materials," or otherwise as       Customer and IBM agree in writing. If not specified, Materials will be       considered Type II Materials.
+
+b.    Type I Materials are those, created during the Service performance period,       in which Customer will have all right, title, and interest (including       ownership of copyright). IBM will retain one copy of the Materials.       Customer grants to IBM:
+
+      1.    an irrevocable, nonexclusive, worldwide, paid-up license to use,             execute, reproduce, display, perform, distribute (internally and             externally) copies of, and prepare derivative works based on Type I             Materials; and       2.    the right to authorize others to do any of the same.
+
+c.    Type II Materials are those, created during the Service performance period       or otherwise (such as those that preexist the Service), in which IBM or       third parties have all right, title, and interest (including ownership of       copyright). IBM will deliver one copy of the specified Materials to       Customer. IBM grants Customer an irrevocable, nonexclusive, worldwide,       paid-up license to use, execute, reproduce, display, perform, and       distribute, within Customer's Enterprise only, copies of Type II       Materials.
+
+d.    The parties agree to reproduce the copyright notice and any other legend       of ownership on any copies made under the licenses granted in this Section       7.
+
+-------------------------------------------------------------------------------- 8.0   Indemnification
+
+8.1   Indemnification by IBM
+
+If a third party claims or threatens a claim that Materials or Base Components IBM provides to Customer or uses in connection with the performance of the Services infringe that party's patent, trademark, copyright, or trade secret, then IBM will indemnify, defend and hold harmless the Customer, its Enterprise and their respective employees, officers, agents and directors against that claim or threatened claim at IBM's expense and pay all costs, damages, penalties and reasonable attorneys' fees that a court finally awards in connection with that claim (or which IBM&sbsp;agrees in any final settlement) provided that Customer:
+
+a.    promptly notifies IBM in writing of the claim; and
+
+b.    allows IBM to control, and cooperates with IBM in, the defense and any       related settlement negotiations (it being understood and agreed that if       Customer incurs any costs in connection with such cooperation, over and       above nominal costs, IBM shall reimburse Customer therefor, such costs to       potentially include, without limitation, the costs incurred by Customer in       connection with depositions, responses to interrogatories, or testimony at       trial or any similar proceeding, and travel costs in connection therewith;       provided, however, such obligation of IBM as set forth in this       parenthetical is conditioned upon Customer first obtaining IBM's consent       to the incurring of such costs, such consent to be reasonably granted). If       such a claim is made or appears likely to be made, Customer agrees to       permit IBM to enable Customer to continue to use the Materials or Base       Components, or to modify them, or replace them with non-infringing       Materials or Base Components that are at least functionally equivalent. If       IBM determines that none of these alternatives is reasonably available,       Customer agrees to return the Materials or Base Components (if in       Customer's possession) to IBM on IBM's written request. IBM will give       Customer a credit equal to the amount Customer paid IBM for the applicable       Materials or for use of the applicable Base Components up to a maximum of       twelve (12) months of applicable charges. This is IBM's entire obligation       to Customer with regard to any claim of infringement. Notwithstanding the       foregoing, IBM is not responsible for third party claims based on:
+
+      1.    anything Customer provides which is incorporated into the Materials;
+
+      2.    Customer's modification of the Materials;
+
+                                       5
+
+      3.    the combination, operation, or use of the Materials with any             product, data, or apparatus that IBM did not provide; or
+
+
+
+
+
+      4.    non-IBM hardware, software, or data, including those that may be in             the Base Components.
+
+8.2   Indemnification by Customer
+
+a.    Customer will defend IBM and its Enterprise and their employees, officers,       and directors against any third party claim (and pay all damages that a       court of competent jurisdiction awards, or which Customer agrees in any       final settlement to such third party and any reasonable attorneys' fees       and expenses of defense incurred by IBM):
+
+      1.    that Content or Customer's use of the Services violates Customer's             obligation in Section 11.2(b);
+
+      2.    that Customer Components infringe that party's patent or copyright;
+
+      3.    that is brought by a Services Recipient and is related, directly or             indirectly, to the Services; or
+
+      4.    arising out of or related to a mechanics' lien Customer is required             to cancel and discharge pursuant to this Agreement.
+
+b.    For indemnification under this Section 8.2, IBM will:
+
+      1.    promptly notify Customer in writing of the claim; and
+
+      2.    allow Customer to control, and will cooperate with Customer in, the             defense and any related settlement negotiations.
+
+c.    Notwithstanding anything else to the contrary contained herein, Customer       shall be relieved of its indemnification duty or obligation to the extent       that IBM's bad faith, willful misconduct or gross negligence. breach of       its contractual obligations hereunder is a cause of the damages suffered       by the Services Recipient.
+
+-------------------------------------------------------------------------------- 9.0   Limitation of Liability
+
+9.1   IBM's Limitation of Liability
+
+Circumstances may arise where, because of a default on IBM's part or other liability, Customer is entitled to recover damages from IBM. Regardless of the basis on which Customer is entitled to claim damages from IBM (including fundamental breach, negligence, misrepresentation, or other contract or tort claim), IBM is liable for no more than:
+
+a.    indemnification payments as provided in Section 8.1;
+
+b.    damages for bodily injury (including death) and damage to real property       and tangible personal property; and
+
+c.    the amount of any other actual direct damages, up to the greater of       $100,000 or the charges paid by Customer to IBM for the Services in the       twelve (12) months immediately preceding the accrual of the first claim       related to the Services. The foregoing limit also applies to any of IBM's       Affiliates and Subcontractors. It is the cumulative maximum for which IBM       and its Affiliates and Subcontractors are collectively responsible. Under       no circumstances is IBM, its Affiliates or its Subcontractors liable for       any of the following:
+
+      1.    third party claims against Customer for damages (other than those             expressly provided in Subsections 9.1(a) and 9.1(b)); or
+
+      2.    loss of, or damage to, Customer's or any other entity's records or             data.
+
+9.2   Customer's Limitation of Liability
+
+Circumstances may arise where, because of a default on Customer's part or other liability, IBM is entitled to recover damages from Customer. Regardless of the basis on which IBM is entitled to claim damages from Customer (including fundamental breach, negligence, misrepresentation, or other contract or tort claim), Customer is liable for no more than:
+
+a.    Indemnification payments as provided in Section 8.2;
+
+b.    damages for bodily injury (including death) and damage to real property       and tangible personal property; and
+
+(c) the amount of any other actual direct damages, up to the greater of $100,000 or the charges paid by Customer to IBM for the Services in the twelve (12) months immediately preceding the accrual of the first claim related to the Services. The foregoing limit also applies to any of Customer's Affiliates. It is the cumulative maximum for which Customer and its Affiliates are collectively responsible. Under no circumstances is Customer or its Affiliates liable for any third party claims against IBM for damages (other than those
+
+                                       6
+
+expressly provided in Subsections 9.2(a) and 9.2(b)).
+
+-------------------------------------------------------------------------------- 10.0  Disclaimer of Consequential Damages
+
+
+
+
+
+a.    In no event will either party be liable to the other for special,       incidental, or indirect damages or for any consequential damages       (including lost profits or savings), even if they are informed of the       possibility; provided that this Section 10 does not apply to Customer's       failure to pay any amounts owing to IBM under this Agreement (including       amounts owing for Services that would have been rendered but for       Customer's breach of this Agreement).
+
+-------------------------------------------------------------------------------- 11.0  Other Customer Obligations
+
+11.1  Services Support
+
+Customer will comply with its responsibilities to support the Services as specified in Attachment A and in applicable Service Option Attachments. Such obligations are to be performed at no charge to IBM. IBM's obligations are contingent on Customer meeting such support obligations.
+
+11.2 Representations and Warranties
+
+Customer represents and warrants that:
+
+a.    it has the requisite corporate power and authority to execute, deliver and       perform its obligations under this Agreement; Customer has no contractual       or other obligation that (i) restricts or prohibits Customer's execution       or performance of this Agreement, or (ii) Customer will breach in       connection with the execution or performance of this Agreement; and
+
+b.    its use of the Services and all Content will comply with the Acceptable       Use Policy.
+
+11.3  Suspected Violations
+
+IBM reserves the right to investigate potential violations of the representations and warranties in Subsection 11.2(b). If IBM reasonably determines that a breach of any such warranty has occurred, then IBM may, in its sole and reasonable discretion:
+
+a.    restrict Customer's access to the Services;
+
+b.    remove or require removal of any offending Content;
+
+c.    terminate this Agreement for cause; and/or
+
+d.    exercise other rights and remedies, at law or in equity.
+
+Except in an emergency or as may otherwise be required by law, before undertaking the activities in Subsection 11.3(a) or 11.3(b), IBM will attempt to notify Customer by any reasonably practical means under the circumstances, such as, without limitation, by telephone or e-mail.
+
+Customer will promptly notify IBM of any event or circumstance related to this Agreement, Customer's use of the Services, or Content of which Customer becomes aware that could lead to a claim or demand against IBM, and Customer will provide all relevant information relating to such event or circumstance to IBM at IBM's request.
+
+11.4  Required Consents
+
+Customer will promptly obtain and upon request provide to IBM evidence of such Required Consents necessary for IBM to provide the Services. IBM will be relieved of its obligations to the extent that they are affected by Customer's failure to obtain and provide promptly to IBM any Required Consents.
+
+11.5  Capacity Planning
+
+Customer is responsible for determining whether the Base Components, IBM provided Internet access bandwidth, Customer Components and their combination will meet Customer's capacity or performance needs. Customer is responsible for planning for and requesting changes to the Base Components or IBM provided Internet access bandwidth, as determined by Customer, including any additional capacity required to support anticipated peaks in demand that may significantly increase Web site hits, transaction volumes, or otherwise increase system resource utilization.
+
+11.6  Content and Digital Certificates
+
+Customer is solely responsible for:
+
+a.    all Content including, without limitation, its selection, licensing,       accuracy, performance, maintenance, and support; and
+
+b.    the selection, management and use of any public and private keys and       digital certificates it may use with the Services.
+
+-------------------------------------------------------------------------------- 12.0  Base Components
+
+12.1  License
+
+IBM grants Customer a nonexclusive, revocable license to use the Base Components solely in connection with the Services as provided under this Agreement. Customer agrees not to download or otherwise copy, reverse assemble, reverse compile, or otherwise translate the software
+
+
+
+
+
+                                       7
+
+portions of the Base Components, other than to make one copy for backup purposes.
+
+12.2  Maintenance of Base Components
+
+For Base Components provided hereunder, IBM will provide, at no additional cost to Customer, maintenance as reasonably determined by IBM and upon notice to Customer. Unless otherwise specified in an SOA, such maintenance excludes upgrades to Base Components. Call back response times for Base Component failures through issue resolution is designated in the relevant Service Option Attachment.
+
+12.3  No Sale or Lease of Goods
+
+As between Customer and IBM, IBM retains all right, title and interest in the Base Components. No goods are sold or leased by IBM under this Agreement. If Customer desires to purchase or to lease goods from IBM, such purchase or lease will be governed by a separate mutually acceptable written agreement between Customer and IBM or an IBM Affiliate.
+
+12.4  No Lease of Real Property
+
+This Agreement is a services agreement and not a lease of any real property.
+
+-------------------------------------------------------------------------------- 13.0  Changes
+
+13.1  Services
+
+IBM, in its reasonable discretion, may change the terms and conditions of Attachment A and/or Service Option Attachments, upon at least ninety (90) days prior notice to Customer. IBM may change the prices of Service Option Attachments after twelve (12) months following the applicable Service Option Attachment Start Date upon at least ninety (90) days prior written notice to Customer. Any such changes will not apply retroactively. If Customer disagrees with any such changes, Customer may in its sole discretion terminate this Agreement (or some or all of the affected Service Option Attachments) without the payment of termination charges upon notice to IBM at least thirty (30) days prior to the effective date of the applicable change.
+
+13.2 Acceptable Use Policy
+
+IBM, in its reasonable discretion, may modify the Acceptable Use Policy upon thirty (30) days' notice to Customer.
+
+13.3 Amendments
+
+Except for changes pursuant to Sections 13.1 and 13.2, this Agreement may be amended only by a writing signed by authorized representatives of both parties.
+
+-------------------------------------------------------------------------------- 14.0  General
+
+14.1  Headings
+
+The headings of the various sections of this Agreement have been inserted for convenience only and shall not affect the interpretation of this Agreement.
+
+14.2  Survival
+
+Any of these terms and conditions which by their nature extend beyond the Agreement termination or expiration remain in effect until fulfilled, including, without limitation, Sections 3.5, 4, 5, 6, 7, 8, 9, 10, 11.2, 11.3, 11.6, 12.2, 12.3, and 14, and apply to both Customer's and IBM's respective successors and assignees.
+
+14.3  Choice of Law
+
+This Agreement will be governed by the substantive laws of the State of New York, without regard for its conflict of laws provisions.
+
+14.4  Waiver of Jury Trial
+
+The parties waive any right to a jury trial in any proceeding arising out of or related to this Agreement.
+
+14.5  Severability
+
+If any provision of this Agreement shall be held by a court of competent jurisdiction to be invalid, illegal, or unenforceable, the validity, legality, and enforceability of the remaining provisions of this Agreement shall in no way be affected or impaired thereby, so long as the remaining provisions of this Agreement still express the original intent of the parties. If the original intent of the parties can not be preserved, this Agreement shall either be renegotiated or terminated.
+
+14.6  Publicity and Trademarks
+
+Neither party grants the other the right to use its or any of its Affiliates' trademarks, trade names, or other designations in any promotion, publication, or Web site without prior written consent. Except as may be required by law or as may be required by IBM to perform the Services, neither party may disclose to any third party the terms and conditions of this Agreement, without prior
+
+
+
+
+
+written consent.
+
+14.7  No Third-Party Beneficiaries
+
+Except as expressly provided in Section 8, this Agreement does not create any intended third party beneficiary rights.
+
+14.8 Personnel
+
+Each party is responsible for the supervision, direction, and control of its respective personnel. IBM reserves the right to determine the assignment of its personnel. IBM may subcontract portions of
+
+                                       8
+
+the Services to Subcontractors and Affiliates selected by IBM.
+
+14.9  No Agency
+
+This Agreement does not create an agency, joint venture, or partnership between the parties.
+
+14.10 Assignment
+
+Customer will not assign this Agreement or any of its rights hereunder without the prior written consent of IBM, such consent not to be unreasonably withheld. Notwithstanding the foregoing, Customer may assign this Agreement to a successor organization by merger, consolidation or acquisition. Any attempted assignment in violation of the foregoing will be void. In any permitted assignment, Customer will remain liable for its obligations hereunder.
+
+14.11 No Resale
+
+Customer shall not resell the Services, in whole or in part.
+
+14.12 Risk of Loss
+
+Risk of loss for all Base Components shall at all times remain with IBM. Risk of loss for all Customer Components shall at all times remain with Customer.
+
+14.13 Force Majeure
+
+Except for payment obligations hereunder, neither party is responsible to fulfill its obligations to the extent due to causes beyond its control.
+
+14.14 Actions Period
+
+Neither party will bring a legal action related to this Agreement more than two years after the cause of action accrued.
+
+14.15 Waiver
+
+The failure of one party to insist upon strict adherence to any term of this Agreement on any occasion shall not be considered a waiver, nor shall it deprive that party of the right to insist later on adherence thereto. Any waiver must be in writing and signed by an authorized representative of the waiving party.
+
+14.16 Freedom of Action
+
+Each party is free to enter into similar agreements with others.
+
+14.17 Limitation of Licenses
+
+Each of us grants only the licenses expressly specified herein. No other licenses or rights (including licenses or rights under patents) are granted.
+
+14.18 Data Protection
+
+You agree to allow International Business Machines Corporation and entities within its Enterprise to store and use your contact information, including names, phone numbers, and e-mail addresses, anywhere they do business. Such information will be processed and used in connection with our business relationship, and may be provided to contractors, Business Partners, and assignees of IBM Corp. and entities within its Enterprise for uses consistent with their collective business activities, including communicating with you (for example, for processing orders, for promotions, and for marketing research). For personal information processed by IBM on your behalf as part of the Services, IBM will act in accordance with your instructions by following such processing and security obligations as are contained in this Agreement. You also confirm that you are solely responsible for ensuring that any processing and security obligations comply with applicable data protection laws. Your contact information shall not be considered personal information processed on your behalf.
+
+14.19 Geographic Scope
+
+Although it is possible that Services Recipients outside of the United States of America may access Customer's Web site, IBM's delivery of the Services will only occur within the United States of America, and IBM's obligations hereunder are valid only in the United States of America.
+
+14.20 Notices
+
+Any notices required or permitted hereunder will be effective upon receipt and
+
+
+
+
+
+will be personally delivered; mailed via the postal service; sent by reliable overnight courier; or transmitted by confirmed facsimile. Except for notices under Section 11.3, all notices will be in writing and addressed to the applicable party's designated representative at the address specified in this Agreement. Except as to notices permitted or required under Sections 3 or 8, the parties agree that electronic mail messages sent between them using security procedures sufficient to reasonably authenticate them will be deemed writings. In addition, IBM may provide notice under Section 13.2 by a posting to the Web site identified in Section 1.0(a).
+
+                                       9
+
+Customer and IBM agree that this Agreement, including the Base Terms and applicable attachments and Order Forms, is the complete agreement between the parties relating to the subject matter hereof. This Agreement replaces and supersedes any other prior or contemporaneous agreements or communications between the parties related to the subject matter hereof.
+
+Agreed and Accepted:
+
+Bluefly Inc.                                     International Business Machines                                                  Corporation
+
+By: /s/ Patrick C. Barry                         By: /s/ Maura Lynch Gray   -----------------------------                     ----------------------------   Customer Authorized Signature                        Authorized Signature
+
+Patrick C. Barry         1/9/02                  Maura Lynch Gray        1/14/02 -------------------------------                  ------------------------------- Name (type or print)      Date                   Name (type or print)       Date
+
+Chief Financial Officer and Chief Operating Officer                                Business Unit Executive ---------------------------------                ------------------------------- Title                                            Title
+
+Customer number:                                 Agreement number: Customer address: 42 West 39th Street 9th Floor NY,NY 10018
+
+                                                 Engagement number:                                                  IBM contract representative:                                                  IBM Services identifier:  FL
+
+After signing, please return a copy of this Agreement to the following address:
+
+IBM Global Services 3109 W. Dr. M. L. King, Jr. Blvd. Tampa, FL 33607 Attention:  Order Fulfillment Services
+
+                                       10

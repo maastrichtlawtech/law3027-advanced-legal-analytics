@@ -1,0 +1,193 @@
+Exhibit 10.22
+
+MAINTENANCE AGREEMENT
+
+THIS MAINTENANCE AGREEMENT (this "Agreement") is made and entered into as of the 28th day of March 2006 by THAYER EQUITY INVESTORS IV, L.P. (the "Investor"), in favor of U.S. BANK NATIONAL ASSOCIATION, a national banking association in its capacity as administrative agent (in such capacity and together with its successors and assigns in such capacity, the "Agent"), for itself and the lending institutions from time to time party to the Financing Agreement (defined below) (collectively and together with their respective successors and assigns, the "Lenders").
+
+RECITALS:
+
+A. The Agent, Lenders and SUNTRON CORPORATION, a Delaware corporation, K*TEC OPERATING CORP., a Delaware corporation, SUNTRON GCO, L.P., a Texas limited partnership, EFTC OPERATING CORP., a Delaware corporation, SUNTRON-IOWA, INC., a Delaware corporation, CURRENT ELECTRONICS, INC., an Oregon corporation, RM ELECTRONICS, INC., a New Hampshire corporation, and SUNTRON-KANSAS, INC., a Delaware corporation (collectively, the "Borrowers") entered into a certain Financing Agreement bearing event date herewith (as the same may be amended, modified, restated or supplemented from time to time, the "Financing Agreement").
+
+B. As a condition precedent to the effectiveness of the Financing Agreement, the Agent has required that the Investor execute and deliver this Agreement.
+
+D. The Investor is a shareholder of Suntron Corporation and, as such, expects to derive benefits from the Amendment and from the credit accommodations extended to the Borrowers pursuant to the Financing Agreement, and finds it in its best interests to execute and deliver this Agreement to the Agent.
+
+AGREEMENTS:
+
+NOW, THEREFORE, in consideration of the premises herein set forth and for other good and valuable consideration, the nature, receipt and sufficiency of which is hereby acknowledged, the parties hereto hereby agree as follows:
+
+1. Defined Terms. Capitalized terms not otherwise defined in this Agreement shall have the meanings given such terms in the Financing Agreement. For purposes of this Agreement, the following terms shall have the following meanings:
+
+"Required Capital Contributions" means some combination of (a) one or      more unrestricted cash contributions to the capital of one or more of the      Borrowers made by the Investor, and/or (b) one or more Qualified      Subordinated Loans made by the Investor to one or more of the Borrowers, in      each case as required under Section 2 below, in any or all cases, in an      aggregate amount not to exceed $5,000,000 during the term of this      Agreement.
+
+"Qualified Subordinated Loan" shall mean a loan or other financial      accommodation (excluding interest paid in kind) extended by any Person to      one or more of the Borrowers which is subordinated in right of payment and      security to the Obligations pursuant to the terms of a written      subordination agreement (substantially equivalent to the Subordination      Agreement bearing even date herewith executed by the Investor in favor of      the Agent), the proceeds of which loan or other financial accommodation      have been delivered to the applicable Borrower(s) in the form of cash or      cash equivalents.
+
+2. Contributions to Capital. The Investor agrees to make, and the applicable Borrower(s) agree(s) to accept, Required Capital Contributions in respect of the applicable 12 Month Period (or shorter period prior to July 3, 2006, as applicable) in an amount sufficient to cause (via an addition to Adjusted EBITDAR in the amount of such Required Capital Contributions) the Borrowers to comply with Section 2 of Schedule 10.28 to the Financing Agreement as of the last day of each Fiscal Quarter. Notwithstanding the foregoing or any other provision of this Agreement to the contrary, the Agent acknowledges and agrees that the Investor's obligation to make Required Capital Contributions hereunder shall be limited to an aggregate amount of $5,000,000 during the term of this Agreement. The Agent further acknowledges and agrees that, regardless of whether other "Events of Default" (as defined therein) have occurred and are continuing under the Financing Agreement, in no event shall the Investor be obligated to make any Required Capital Contributions hereunder if the Borrowers have fully complied with Section 2 of Schedule 10.28 to the Financing Agreement as of the last day of the applicable Fiscal Quarter for the applicable 12 Month Period (or shorter period prior to July 3, 2006, as applicable).
+
+3. Timing of Required Capital Contributions. The Required Capital Contributions shall be made within forty-five (45) days following the last day of each Fiscal Quarter, unless the last day of such Fiscal Quarter is the same as the fiscal year end, and in such case, ninety (90) days following such fiscal year end.
+
+4. Specific Performance and Liquidated Damages. The Investor acknowledges and agrees that if a Maintenance Event of Default (as defined in Section 10 below) has occurred and is continuing hereunder, the Agent, for itself and on behalf of the Lenders, shall have the non-exclusive right to
+
+
+
+
+
+obtain specific performance of the obligation of the Investor to make the Required Capital Contributions. If specific performance is not a remedy then available to the Agent and the Lenders for any reason, the Agent and the Lenders will suffer damages in an amount which, due to the special nature of the transaction contemplated by this Agreement, will be impracticable or extremely difficult to ascertain. Determination of such damages would necessitate determinations of value which would be based upon speculative determination of the value of assets of the Borrowers and the capacity of assets of the Borrowers to pay the Obligations and other Indebtedness of the Borrowers. Such damages are uncertain and incapable of estimation as of the date of this Agreement and shall remain so to the date of the occurrence of any Maintenance Event of Default hereunder. The Investor, the Agent and the Lenders hereby acknowledge and agree that (a) an amount equal to the lesser of (i) the full amount of each Required Capital Contribution that has not been made by the Investor and (ii) the then-outstanding balance of the Obligations, represents a reasonable estimate of the damages which the Agent and the Lenders will sustain upon the occurrence of an Maintenance Event of Default hereunder, and (b) such lesser amount will be the full, agreed and liquidated damages resulting from the occurrence of any Maintenance Event of Default hereunder. The payment of such amount is intended to constitute liquidated damages to the Agent and the Lenders and shall not be deemed to constitute a forfeiture or penalty. Upon receipt by the Agent, such amount may, in the sole discretion of the Agent, be applied to the Obligations when and as due; provided, however, that such amount, if so applied, may not be reborrowed by any Borrower under the Financing Agreement.
+
+5. Representations and Warranties. The Investor hereby represents and warrants as follows:
+
+(a) The execution, delivery and performance of this Agreement will not      result in any violation of, or be in conflict with or constitute a default      under, any agreement or under any law, statute, regulation or ordinance      applicable to the Investor or result in the creation of any Lien upon any      properties or assets of the Investor.
+
+2
+
+(b) This Agreement has been duly executed and delivered by the      Investor, and constitutes a legal, valid and binding obligation of the      Investor, enforceable against the Investor in accordance with its&bbsp;terms.
+
+(c) No consent or authorization of, filing with or other act by or in      respect of, any governmental authority and no consent of any other Person      (including, without limitation, any creditor of the Investor) is required      in connection with the execution, delivery, performance, validity or      enforceability of this Agreement.
+
+6. Special Account. All Required Capital Contributions shall be made by Investor via wire transfer directly into the Special Account.
+
+7. Unconditional Obligations, Waivers of Defenses. The obligations of the Investor under this Agreement shall be absolute and unconditional under any and all circumstances, and shall not be to any extent or in any way discharged, impaired or otherwise affected except by performance in full. Without limiting the generality of the foregoing, such obligations shall not be affected by: (a) any lack of validity or enforceability of the Financing Agreement or any other Loan Document, (b) any amendment of or addition or supplement to, or any waiver or consent with respect to, the Financing Agreement or any other Loan Document, (c) any exercise or nonexercise of any right, power or remedy under or in respect of the Financing Agreement or any other Loan Document (d) any exchange, release or nonperfection of all or any portion of the Collateral, or any other action or omission to act with respect to all or any portion of the Collateral, or any release or amendment or waiver of or consent to departure from any guaranty for all or any of the Obligations, or any other release, extension, settlement, compromise, indulgence or other action, inaction, change, waiver or omission under or in respect of the Financing Agreement or any other Loan Document, (e) the value of all or any portion of the Collateral regardless of the manner of determining such value, (f) the subordination of the payment of the Obligations or any part thereof to the payment of any other Indebtedness which may at the time be due or owing by the Borrowers (or any of them) to the Agent or the Lenders or to any other Person, (g) any insolvency, bankruptcy, receivership, liquidation, reorganization, readjustment, composition, dissolution or other similar proceeding involving any Borrower or the Investor, (h) any "Event of Default" (as defined therein) under the Financing Agreement whether or not the Obligations shall have become, or been declared, due and payable (i) any claim, abatement, reduction, limitation, impairment, termination, set-off, defense, counterclaim or recoupment whatsoever or any right to any of the foregoing (including, but not limited to, claims, abatements, reductions, limitations, impairments, terminations, set-offs, defenses, counterclaims or recoupment for or on account of any past, present or future Indebtedness of any Borrower to the Investor or which may be asserted by any Borrower against the Agent or the Lenders, whether or not arising under this Agreement and whether or not arising out of any action or nonaction on the part of such Borrower, the Agent or the Lenders, including any disposition of any assets of such Borrower, pursuant to requirements of any governmental authority, actions of judicial receivers or trustees or otherwise, and whether or not arising from willful or negligent acts or omissions), (j) any failure on the part of any Borrower to perform its duties and obligations under this Agreement, (k) any other circumstances which constitutes or might be construed to constitute, an equitable or legal discharge of the Borrowers (or any of them) for the Obligations, or of the Investor under this Agreement, in bankruptcy or in any other instance, (l) any action or thing which might, but for this provision of this Agreement, be deemed a legal or equitable discharge of a surety or guarantor, other than irrevocable making of the Required Capital
+
+
+
+
+
+Contributions or the liquidated damage amount specified in this Agreement, or (m) any other circumstance, happening, condition or event whatsoever, whether or not similar to any of the foregoing; whether or not the Investor shall have notice or knowledge of any of the foregoing or shall have consented to any of the foregoing.
+
+3
+
+8. Waivers. The Investor hereby irrevocably waives, to the extent that it may do so under applicable law: (a) any defense based on the adequacy of a remedy at law which may be asserted as a bar to the remedy of specific performance in any action brought against the Investor for specific performance of this Agreement by Agent, for itself and on behalf of the Lenders, or for the benefit of the Agent and the Lenders by a receiver or trustee appointed for any Borrower or in respect of all or a substantial part of any Borrower's assets under the bankruptcy or insolvency laws of any jurisdiction to which such Borrower is, or its assets are, subject, (b) all statutes of limitations as a defense to any action or proceeding brought against the Investor by the Agent, for itself and on behalf of the Lenders under this Agreement, to the fullest extent permitted by law, (c) any right the Investor may have to require the Agent or the Lenders to proceed against the Borrowers (or any of them), proceed against or exhaust any security held from the Borrowers (or any of them), or pursue any other remedy in the Agent's or the Lenders' power to pursue, (d) any defense based on any claim that the Investor's obligations hereunder exceed or are more burdensome than those of the Borrowers under the Financing Agreement or the other Loan Documents (as defined in the Financing Agreement), (e) any defense based on (i) any legal disability of any Borrower, (ii) any release, discharge, modification, impairment or limitation of the liability of any Borrower to the Agent or the Lenders from any cause, whether consented to by the Agent and/or the Lenders or arising by operation of law or from any bankruptcy or other voluntary or involuntary proceeding, in or out of court, for the adjustment of debtor creditor relationships ("Insolvency Proceeding") and (iii) any rejection or disaffirmance of this Agreement or the obligations hereunder, or the Obligations, or any portion thereof, or any security held therefor, in any such Insolvency Proceeding; (f) any defense based on any action taken or omitted by the Agent or the Lenders in any Insolvency Proceeding involving any Borrower, including any election to have the Agent's claims allowed as being secured, partially secured or unsecured, any extension of credit by the Agent and the Lenders to the Borrowers (or any of them) in any Insolvency Proceeding, and the taking and holding by the Agent and the Lenders of any security for any such extension of credit, (g) all presentments, demands for performance, notices of nonperformance, protests, notices of protest, notices of dishonor, notices of acceptance of this Agreement and of the existence, creation, or incurring of new or additional indebtedness, and demands and notices of every kind, (h) any defense based on or arising out of any defense that the Borrowers (or any of them) may have to the payment or performance of the Obligations or any part of them; and (i) any defense based on or arising out of any action of the Agent or the Lenders under this Agreement, the Financing Agreement or any of the Loan Documents (as defined in the Financing Agreement).
+
+9. Non-Reliance on Agent or Lenders. The Investor hereby warrants and represents to the Agent and the Lenders that: (a) the Investor now has, and will continue to have, independent means of obtaining information concerning the affairs, financial condition and business of each Borrower, (b) the Investor is familiar with the financial condition of each Borrower and has independently evaluated such financial condition, (c) the Investor is not in any way relying on any representations made by the Agent or the Lenders as to any Borrower, the Obligations, the Loan Documents or any collateral security therefore or other guarantors or endorsers, co-singers or sureties thereof or any related matters, and (d) the Investor has had an opportunity to review the Financing Agreement, the Amendment and all of the other Loan Documents. Neither the Agent nor the Lenders shall have any duty or responsibility to provide the Investor with any credit or other information concerning the affairs, financial condition or business of any Borrower which may come into the Agent's or any Lender's possession.
+
+10. Events of Default; Remedies. Any one or more of the following events shall constitute a "Maintenance Event of Default" under this Agreement: (a) if the Investor shall fail to pay, when and as due, any Required Capital Contribution and such failure shall continue for five (5) days; (b) if the Investor shall fail to perform any other of the Investor's obligations in this Agreement, and such failure shall continue for fifteen (15) days, (c) if any warranty or statement made or information provided
+
+4
+
+by the Investor in connection with this Agreement is untrue or misleading in any material respect on the date made; (d) if Investor shall, at any time, fail to have committed capital in an aggregate minimum amount equal to $5,000,000 less the sum of all Required Capital Contributions (if any) actually made by the Investor during the term of this Agreement, as determined based on the most recent information made available by the Investor to the Agent pursuant to Section 20 below; or (e) the Investor shall become insolvent or generally fail to pay, or admit in writing its inability to pay, its debts as they mature or apply for or consent to the appointment of a trustee or other custodian for its properties, or make a general assignment for the benefit of creditors, or any bankruptcy, reorganization, debt arrangement or other proceeding under any bankruptcy or insolvency law, is instituted by or against the Investor. Upon the occurrence of any Maintenance Event of Default hereunder, the Agent, for itself and on behalf of the Lenders, may exercise any of its rights and remedies
+
+
+
+
+
+available at law or in equity (including, without limitation, the rights and remedies described in Section 4 above). The Investor and the Borrowers each expressly acknowledge and agree that the occurrence of any Maintenance Event of Default hereunder shall constitute an "Event of Default" (as defined therein) under the Financing Agreement.
+
+11. Expenses. The Investor agrees to pay or reimburse (or cause the Borrowers to pay or reimburse) the Agent and the Lenders on demand for all out-of-pocket expenses (including in each case all reasonable attorneys' fees and expenses of counsel) incurred by the Agent or the Lenders in connection with enforcement of this Agreement.
+
+12. Consideration and Reliance. The Investor acknowledges that the Agent and the Lenders have relied upon and will continue to rely hereafter upon the Investor's undertakings herein in making or maintaining the advances under the Financing Agreement. The Investor acknowledges that the making or maintenance of such advances by the Agent and the Lenders produces economic benefit to the Investor, and that the Investor will receive consideration as the result of the making or maintaining of such advances.
+
+13. Miscellaneous. This Agreement supersedes and merges into it all prior agreements and understandings between the Investor, the Agent and the Lenders, whether oral or written, with respect to the subject matter of this Agreement. No delay or failure by the Agent or the Lenders in the exercise of any right or remedy shall constitute a waiver thereof and no single or partial exercise by the Agent or the Lenders of any right or remedy shall preclude other or further exercise of any other right or remedy. This Agreement shall be binding upon the Investor and the Investor's successors, transferees and assigns and shall inure to the benefit of, and be enforceable by, the Agent, for itself and on behalf of the Lenders, and its successors, transferees, and assigns. Any invalidity or unenforceability of any provision or application of this Agreement shall not affect other lawful provisions and applications hereof and to this end the provisions of this Agreement are declared to be severable.
+
+14. No Third Party Beneficiaries. The Investor, the Agent and the Lenders have agreed that there are no intended third party beneficiaries of this Agreement, and specifically, that the Borrowers and their respective affiliates, successors and assigns are not third party beneficiaries.
+
+15. GOVERNING LAW. THE VALIDITY, CONSTRUCTION AND ENFORCEABILITY OF THIS AGREEMENT SHALL BE GOVERNED BY THE LAWS OF THE STATE OF MINNESOTA, WITHOUT GIVING EFFECT TO CONFLICT OF LAWS PRINCIPLES THEREOF.
+
+16. CONSENT TO JURISDICTION. AT THE OPTION OF&sbsp;THE AGENT, FOR ITSELF AND ON BEHALF OF THE LENDERS, THIS AGREEMENT MAY BE ENFORCED IN ANY FEDERAL COURT OR MINNESOTA STATE COURT SITTING IN HENNEPIN COUNTY OR
+
+5
+
+RAMSEY COUNTY, MINNESOTA; AND THE INVESTOR, THE AGENT AND THE LENDERS CONSENT TO THE JURISDICTION AND VENUE OF ANY SUCH COURT AND WAIVE ANY ARGUMENT THAT VENUE IN SUCH FORUMS IS NOT CONVENIENT. IN THE EVENT ANY BORROWER OR THE AGENT, FOR ITSELF AND ON BEHALF OF THE LENDERS, COMMENCES ANY ACTION IN ANOTHER JURISDICTION OR VENUE UNDER ANY TORT OR CONTRACT THEORY ARISING DIRECTLY OR INDIRECTLY FROM THE RELATIONSHIP CREATED BY THIS AGREEMENT, THE OTHER PARTY AT ITS OPTION SHALL BE ENTITLED TO HAVE THE CASE TRANSFERRED TO ONE OF THE JURISDICTIONS AND VENUES ABOVE-DESCRIBED, OR IF SUCH TRANSFER CANNOT BE ACCOMPLISHED UNDER APPLICABLE LAW, TO HAVE SUCH CASE DISMISSED WITHOUT PREJUDICE.
+
+17. WAIVER OF TRIAL BY JURY. EACH OF THE INVESTOR, THE AGENT AND THE LENDERS IRREVOCABLY WAIVES ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT.
+
+18. Continuing Agreement; Reinstatement. This Agreement shall in all respects be a continuing agreement and, subject to Section 19 below, shall remain in full force and effect (notwithstanding, without limitation, the dissolution of the undersigned or that at any time or from time to time all of the Obligations may have been paid in full) until such time as (a) all of the Obligations (other than contingent indemnification obligations to the extent no unsatisfied claim giving rise thereto has been asserted) have been paid in full in cash, and (b) any commitment on the part of the Agent and the Lenders to extend further financial accommodations to the Borrowers (or any of them) has been terminated. This Agreement shall continue to be effective, or be reinstated, as the case may be, if at any time any payment, or any part thereof, on account of any of the Obligations is invalidated, declared to be fraudulent or preferential, set aside, rescinded or must otherwise be restored or returned by the Agent or the Lenders upon the insolvency, bankruptcy, liquidation, dissolution or reorganization of any Borrower or upon or as a result of the appointment of a receiver, intervenor or conservator of, or trustee or similar officer for any Borrower, or any substantial part of its property, or otherwise, all as though such payment had not been made.
+
+19. Release of Agreement. The Investor may, at any time after March 31, 2007, and not more than once during any fiscal quarter of the Borrowers, request that the Agent release this Agreement by providing the Agent with written notice of the same (each, a "Release Request"). If such a request is made, the Agent agrees to release this Agreement on or before the Release Date (defined below) provided that all of the following conditions have been satisfied:
+
+(a) Unaudited financial statements of the Borrowers required under      Section 8.5 of the Financing Agreement, for the period of four (4)
+
+
+
+
+
+consecutive Fiscal Quarters ending on, or most recently ended prior to, the      date of such Release Request (or, if the Fiscal Quarter ending on or most      recently ended prior to the date of such Release Request is the last Fiscal      Quarter of any Fiscal Year of the Borrowers, the audited financial      statements for the Borrowers required under Section 8.7 of the Financing      Agreement the Fiscal Year ending on, or most recently ended prior to, the      date of such Release Request) have been received by the Agent, and based on      the information contained in such financial statements, the Adjusted Fixed      Charge Coverage Ratio (as defined in the Financing Agreement) as of last      day of the Fiscal Quarter ending on or most recently ended prior to, the      date of such Release Request, for said period of four (4) consecutive      Fiscal Quarters, is no less than 1.25 to 1.0;
+
+(b) no "Default" or "Event of Default" (as those terms are defined in      the Financing Agreement) shall have occurred and be continuing as of the      date of such Release Request; and
+
+6
+
+(c) the Investor shall have provided the Agent, and shall have caused      the Borrowers to have provided the Agent, with such information as the      Agent may reasonably request to confirm that the conditions set forth in      subsections (a) and (b) above have been satisfied.
+
+For purposes of this Section 19, the term "Release Date" shall mean the date which is five (5) days after the date on which the Agent has received all documentation and other information reasonably necessary to determine that all of the foregoing conditions have been satisfied and has confirmed such satisfaction to the Borrowers in writing.
+
+20. Evidence of Minimum Liquidity. The Investor agrees to deliver to the Agent, from time to time, promptly following Agent's request therefor, a sworn affidavit or other evidence reasonably acceptable to the Agent substantiating that the Investor has committed capital in an aggregate minimum amount equal to $5,000,000 less the sum of all Required Capital Contributions (if any) actually made by the Investor during the term of this Agreement.
+
+21. Termination. This Agreement shall terminate upon the earliest to occur of: (i) the date on which the aggregate Required Capital Contributions paid by the Investor, and received by the Borrowers, in accordance with the terms of this Agreement equal $5,000,000; (ii) the Release Date (as defined in Section 19) or (iii) payment in full, in cash, of all Obligations and the termination of the Financing Agreement; provided, however, that this Agreement shall continue to be effective, or be reinstated, as the case may be, if at any time the aggregate Required Capital Contributions paid by the Investor, and received by the Borrowers, in accordance with the terms of this Agreement is less than $5,000,000 and any payment, or any part thereof, on account of any of the Obligations is invalidated, declared to be fraudulent or preferential, set aside, rescinded or must otherwise be restored or returned by the Agent or the Lenders upon the insolvency, bankruptcy, liquidation, dissolution or reorganization of any Borrower or upon or as a result of the appointment of a receiver, intervenor or conservator of, or trustee or similar officer for any Borrower, or any substantial part of its property, or otherwise, all as though such payment had not been made.
+
+[Remainder of page intentionally left blank;                              Signature page follows]
+
+7
+
+IN WITNESS WHEREOF, this Agreement has been duly executed as of the day and year first above written.
+
+THAYER EQUITY INVESTORS IV, L.P.
+
+By: TC Equity Partners IV, L.L.C.,                                             its general partner
+
+By: Thayer Management Partners, L.L.C.,                                             its managing member
+
+By /s/ Douglas P. McCormick                                            -------------------------------------         &sbsp;                               Its Managing Partner
+
+Address:
+
+c/o Thayer Capital Partners                                         1455 Pennsylvania Avenue, N.W.                                         Washington, D.C. 20004                                         Attention: Rona Kennedy                                         Facsimile No.: (202) 371-0391
+
+Acknowledged and Accepted as of the day and year first written above:
+
+U.S. BANK NATIONAL ASSOCIATION, a national banking association
+
+
+
+
+
+By: /s/ Christopher J. Schaaf     ---------------------------------     Christopher J. Schaaf, Vice     President
+
+8
+
+ACKNOWLEDGMENT OF BORROWERS
+
+The undersigned, SUNTRON CORPORATION, a Delaware corporation, K*TEC OPERATING CORP., a Delaware corporation, SUNTRON GCO, L.P., a Texas limited partnership, EFTC OPERATING CORP., a Delaware corporation, SUNTRON-IOWA, INC., a Delaware corporation, CURRENT ELECTRONICS, INC., an Oregon corporation, RM ELECTRONICS, INC., a New Hampshire corporation, and SUNTRON-KANSAS, INC., a Delaware corporation (collectively, the "Borrowers"), hereby acknowledge receipt of a copy of the foregoing Maintenance Agreement (the "Agreement"). Capitalized terms not otherwise defined herein shall have the meanings specified in the Agreement. Each Borrower hereby waives notice of acceptance of the Agreement by the Agent and the Lenders and agrees to be bound by the terms and provisions thereof, to accept all payments of Required Capital Contributions due from the Investor pursuant to terms and provisions thereof, and to do every other act and thing necessary or reasonably appropriate to carry out such terms and provisions. Each Borrower represents and warrants to the Agent and the Lenders that no shareholder agreement, voting trust or other similar agreement binding upon such Borrower or the holder of any ownership interest in such Borrower will be violated by the payment of Required Capital Contributions by the Investor, or by the acceptance of the same by such Borrower, in each case pursuant to the terms and provisions of the Agreement.
+
+SUNTRON CORPORATION, a Delaware                                         corporation
+
+By: /s/ Thomas B. Sabol                                             ------------------------------------                                         Name: Thomas B. Sabol                                         Title: Chief Financial Officer
+
+K*TEC OPERATING CORP.,                                         a Delaware Corporation
+
+By: /s/ James A. Doran                                             ------------------------------------                                         Name: James A. Doran                                         Title: Vice President
+
+SUNTRON GCO, L.P.,                                         a Texas limited partnership
+
+By: RodniC LLC, a Texas limited                                             liability company, its general                                             partner
+
+By: /s/ James A. Doran                                             ------------------------------------                                         Name: James A. Doran                                         Title: Chief Accounting Officer
+
+9
+
+EFTC OPERATING CORP.,                                         a Delaware corporation
+
+By: /s/ James A. Doran                                             ------------------------------------                                         Name: James A. Doran                                         Title: Vice President
+
+SUNTRON-IOWA, INC.,                                         a Delaware corporation
+
+By: /s/ James A. Doran                                             ------------------------------------                                         Name: James A. Doran                                         Title: Vice President
+
+CURRENT ELECTRONICS, INC.,                                         a Oregon corporation
+
+By: /s/ James A. Doran
+
+
+
+
+
+------------------------------------                                         Name: James A. Doran                                         Title: Vice President
+
+RM ELECTRONICS, INC.,                                         a New Hampshire corporation
+
+By: /s/ James A. Doran                                             ------------------------------------                                         Name: James A. Doran                                         Title: Vice President
+
+SUNTRON -KANSAS, INC.,                                         a Delaware corporation
+
+By: /s/ James A. Doran                                             ------------------------------------                                         Name: James A. Doran                                         Title: Vice President
+
+10

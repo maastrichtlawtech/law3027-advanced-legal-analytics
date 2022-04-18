@@ -1,0 +1,121 @@
+SeattleSoftwareDevelopers
+
+SOFTWARE DEVELOPMENT AGREEMENT
+
+PELICAN DELIVERS iOS APPLICATION  ENHANCEMENTS & WEB APPLICATION  DEVELOPMENT PHASE 1 4 102nd Ave NE Suite 300 Bellevue, WA 98004 (425) 256-2815 julian@seattlesoftwaredevelopers.com www .seattlesoftwaredeveIopers.com
+
+1
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+STATEMENT OF WORK - APPENDIX A This Statement of Work is issued to and made part of that Software Development Agreement executed by and between Developer and Client on the Effective Date (the Agreement). Any word or phrase not otherwise defined in this Appendix will have the meaning ascribed in the Agreement.
+
+1. Project Overview The purpose of this project is to develop additional features for the Pelican Delivers software. This includes POS integration, Google Maps API, payment processing features, ID verification, reporting, driver app improvement and workflow, and a front facing web application for customers to find, order, and receive products via deliver or pickup.
+
+2. Specifications Number of applications included in Phase 1:1 Tech Stack: iOS (Objective - C or Swift), PhP, MySQL, AWS Hosting, jQuery, and JavaScript language: English Design: Custom to client
+
+2
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+3. Delivery Schedule Based on the current requirements and this SOW, Seattle Software Developers estimates that this project will take around six [4] months of development, testing, and deployment. This estimate may change depending on unforeseen circumstances or requirements. We estimate that the website (Customer Portal) will take 3 months to complete because this will be the priority.
+
+4. Fee Payment Schedule Fees: The Fees for the Project shall be $279,000.00 Payment Schedule: Client shall pay Developer: 20% Deposit ($55,800.00) to be paid at the start of the project. 20% ($55,800.00) to be paid upon completion of Milestone #1. 20% ($55,800.00) to be paid upon completion of Milestone #2. 20% ($55,800.00) to be paid upon completion of Milestone #3. 20% ($55,800.00) to be paid upon completion of Milestone #4.
+
+*Milestone Delivery Schedule for Phase 1
+
+Milestone #1 -January 1st, 2019 Milestone #2- February 1st, 2019. Milestone #3 - March 1st, 2019. Milestone #4 - April 1st, 2019.
+
+3
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+5. Statement of Work Website (Customer Portal) Users will be able to go to the Pelican Delivers front-end website and easily search, browse, and order cannabis. Before a user can gain access to the website, they must first verify their birthday (users must be 21 and over to even view the website). · Header o There will be a header with a few basic informal menu items such as Home, How It Works, Features, etc. o To the very right there will be a Login/ Signup button and My Cart · Login / Signup o This will prompt the user to either Login or Signup for a new account o Login will ask the user for their email ID and password § If users have forgotten their password, they can click the "Forgot Password" link which will provide them with a recovery email · New users can select Sign-up and go through the quick and easy sign-up process. The application will ask for the user's: § Email § Password / Confirm Password § First Name § Last Name § Phone Number § Birthday · Profile o After the user logs in they can view their profile which will allow them to: § Edit their profile information § Add and verify their ID § Add delivery addresses § Select current delivery address o Users shall also be able to add their payment information § This is where the application will use Daily Pay and link to the customers bank · My Orders o Users can view their open orders, processing orders, in progress orders, and delivered § Open order - Customer has clicked checkout but has not paid, app is searching for drivers to fulfill the order.
+
+4
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+§ Processing order - A driver has accepted the delivery request and the dispensary has been alerted to prepare the products for pickup. Payment has been successfully submitted by the customer. § In progress order -The driver has purchased the product from the vendor and is now on the way to delivering the product to the customer. § Delivered order -The driver has delivered the product to the customer and the customer has confirmed receipt of the order. o Users can also access their history and re-order the same products from a dispensary. This feature clears their current cart and populates it with the products from the previous order. · Search o The search bar will be powered by Google Maps o Search results will vary depending on the user's current delivery address in their profile or they can search another address in the search field o Results can be viewed in either a "Map View" or a "List View" o The only dispensaries that will be displayed are ones that can delivery to that address and are open. Closed stores will be displayed at the bottom of the screen and be grayed out o Results will have the dispensaries logo, name, address, phone number, and open hours · Selecting Dispensary o When users select a dispensary, they'll be able to search for products, navigate through categories, view products details (farm, THC, CBD, etc.), and change the size of the item o To order a user can hover over the item and click "Add to Cart" o Once a product has been added to cart, the "My Cart" in the header will update o By going to "My Cart" users can check-out and pay · Payment o Users will pay by linking their bank accounts via Evergreen Gateway o Account information will be stored and used for future orders o Once payment is confirmed users may proceed to completing their order · Age / ID Verification o After payment is confirmed users must upload their government issued ID and a selfie o Trulioo will verify if the issued ID is valid and if the selfie matches the ID o Once verification is completed the user will be able to complete the order · Check out o If customer ID has been verified and the customer's cart is confirmed, the application will search for nearby drivers. § If a driver is found, the driver can either accept of decline the order · Drivers will be notified one at a time (queue system), with the river closest to the dispensary being notified first, then the next driver, etc. · Each driver will have a set amount of time (e.g. 10 seconds) to accept or reject the order, or the order will automatically be rejected by time and the lack of response will be recorded for future reference/internal driver ranking in the future. § If the driver accepts, the dispensary will be notified of the order § If the driver declines, the application will look for another drive
+
+5
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+o If no drivers are found, users will not be charged and will have the option to pick up the order in-store or browse for a new dispensary o If an order is accepted the dispensary will begin preparing the product for the driver to pick up o Customers will receive updates on the status of their order via SMS, email, or website Dispensary Portal Before dispensaries can access their account, they must provide the owners first and last n me, email, phone number, OBA, License Number, and upload a picture of their license. This process can be submitted manually or through an online form. Once Pelican verifies all their information, Pelican administrators can authorize the dispensaries account and the dispensary will be given credentials to access the dispensary portal. The application will have a database of business and license information provided by Pelican to help automate the verification process, however Pelican administrators must still manually authorize new dispensaries. · POS System o The application will tie into the dispensaries POS system and pull the inventory, product details, price, and quantity o The application will pull data from the POS system once every 1-2 hours o If a product is low, it will not be displayed on the front-end website or mobile apps § The low quantity can be defined by the dispensary § Ability for dispensary owner to input Username and Password for PO system connection using the Greenbits login to authenticate and connect. · Notifications o The application will notify dispensaries when an order comes through via § Email § Portal Notification § New orders will be listed at the top of the list · Orders o Dispensaries will be able to view the status of an order. New orders will be at the top of the list. The order will either be for pickup or delivery. § If the order is for pick up the dispensary just needs to prepare the order and wait for the customer to arrive § If the order is for delivery the dispensary will prepare the order and view the driver associated to that order § Once the driver comes in to pay and pick-up the order the dispensary ill verify the driver by matching the order ID and having the driver release funds for the purchase § After funds have been released the status of the order will be automatically updated and the dispensary the driver will begin delivering the product to the customer
+
+6
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+o Dispensaries can run basic reports on orders § Products § Dates § Product / Product Details § Quantity § Product Size § Delivery Address I City § Revenue · Products o Products will be populated by pulling inventory from POS system § Script will run every 1-2 hours to update the inventory o Have the ability to associate multiple images to products Admin Portal · Verifications o Admins will manually verify new dispensaries that sign-up by reviewing their uploaded documents § Once verified they can select "Approved" and that will grant the dispensary access to the portal · If accepted, it will send an automated email to the dispensary notifying them § Admins can decline the application. · If declined it will send an automated email to the dispensary notifying them o Driver ID and License verification § Driver applications displayed here with uploaded licenses · Drivers will have to fill out and upload a 1099 or w-9 tax document. · Once all documents are verified a green check mark next to "background check" will appear · Reports Reports will be very basic for phase 1. Seattle Software Developers will try their best to complete the following features in Phase 1 but will not be penalized if they are pushed to Phase 2. o Dispensary orders by history/volume over custom time periods o Order Details broken down by dispensary o Driver transaction history · User management o User creation/management for dispensaries, drivers and customers, including viewing basic profile information and password resets. o Ability to add funds to driver, dispensaries and customers to their Pelican accounts.
+
+7
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+Back-end Development · Evergreen Gateway o Customer payments go into Evergreen Gateway o Payments are distributed from Evergreen Gateway via Daily Pay to drivers and dispensaries · Daily Pay o Customer orders the product and pays Pelican through Evergreen Gateway. o Payment is held in Pelican's escrow account in Evergreen Gateway. o Order goes into a pending / processing status. o When the driver goes to pick up the product, he/she brings up the order and hits "release funds" in the phone after verifying the order. o The money goes to the dispensaries Daily Pay account, and they can withdraw from the Evergreen Gateway accounts through the daily pay application / APL o When the driver delivers the order and customer acknowledges order received, then the driver and Pelican get paid. o Stores and Drivers will both have Daily Pay accounts tied to their bank accounts. o Driver will scan the customers ID using the Trulioo API right before they handle the delivery to the customer. After this last ID check, the transaction will be completed. · Trulioo o Will be used to verify government issued IDs o Compare and match users ID with selfie's o Make sure users are of age · Twilio o Will be used for client to customer communication during an order · Payouts, Subscription fees, flat fees, commissions fees § Commission fees - 25% commission on delivery orders. Admin will have the ability to change the % or fee based on dispensary § Flat fees - $1 in store pickup orders through the app or website § Subscription Fee - $500 a month subscription per store · Top sponsors will pay $750 instead of $500 § Withdrawing Fee - $1 fee added to the existing daily pay fees § Delivery fee - 20% of delivery fee will go to Pelican. 80% will go to driver · Integrating with Dispensaries POS system o Dispensaries menu should be searchable for web. o Spider / crawling SEO o Only working on integrating with Greenbits for phase 1 · State Module - Creating state rules o Legal age to purchase o State is recreational or medical or both o Purchase limits - how much product can a customer purchase at a time
+
+8
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+o If Medical Marijuana State - we will need an upload feature for customers to upload their medical marijuana recommendation (no medical orders will be allowed in phase 1) · Dispensary Sign Up o When new retail shops sign up, they will have a list of available zip codes o Only one dispensary per zip code will be allowed o Once a zip code is claimed it will not be available until that dispensary stops he monthly fee or gets removed from the system Driver Companion App (iOS) The driver companion app will be available on the iOS platform for Phase 1 but will eventually be made available on Android. The companion app will allow drivers to signup, become authenticate and authorized by Pelican, create/link their payment accounts, view orders, choose to confirm orders, navigate to dispensaries/customers, and view order histories. Ability to "Start" and "End" shift. Makes driver active or inactive. · Login / Signup o This will prompt the driver to either Login or Signup for a new account o Login will ask the drivers for their email ID and password § If drivers have forgotten their password, they can click the "Forgot Password" link which will provide them with a recovery email o New drivers can select Sign-up and go through the quick and easy sign-up process. The application will ask for the user's: § Email § Password / Confirm Password § First Name § Last Name § Phone Number § Birthday § Driver's License § Car License Plate # § Car Make/Model and photo § Driver Photo § Upload car insurance paperwork · Profile o After the driver logs in they can view their profile which will allow them to: § Edit their profile information § Change Password § Submit vehicle change information § Set Delivery Radius (open orders within this radius will be shown to the driver) § Drivers can also add their bank account information and withdraw Daily Pay funds
+
+9
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+· Delivery Info o Drivers can view Open Orders within their radius and select them for deliver § Time estimates will come based on Google API § Once a driver has selected an Open Order and the customer has completed the purchase, the Order changes to Processing Order and allows the Driver to navigate to the Dispensary. § After arriving at the dispensary, driver can press "Order Pickup", which signals the driver has purchased the product from the dispensary. § Driver can then navigate to the customer for product delivery, customer can view driver's eta based on their location and Google navigation results. § If the driver has any issues with product pickup or delivery, they can contact the customer via SMS (using Twilio API) § Upon arrival at customer location, driver must verify customer identity by taking a picture of/scanning the customer's ID. Once the customer's ID is verified and the product is delivered, the customer must confirm receipt of the product for the order to be considered complete. · Delivery History o Drivers will be able to view their previous deliveries
+
+10
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020
+
+
+
+
+
+7. Acknowledgement by Client Client agrees to the terms of the Statement of work Appendix A hereto attached and acknowledges receipt of a copy of this Agreement. IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date. Acceptance by Developer SEATTLE SOFTWARE DEVELOPERS, Inc. By: /s/ Julian Valentine Julian Valentine, VP
+
+Acceptance by Client: PELICAN DELIVERS INC. By: /s/ Dave Comeau Dave Comeau, Shareholder
+
+11
+
+Source: PELICAN DELIVERS, INC., S-1, 2/11/2020

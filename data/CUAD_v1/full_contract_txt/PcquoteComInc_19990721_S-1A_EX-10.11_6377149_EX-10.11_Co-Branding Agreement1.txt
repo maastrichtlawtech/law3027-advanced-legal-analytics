@@ -1,0 +1,209 @@
+EXHIBIT 10.11
+
+                                                    CONFIDENTIAL TREATMENT
+
+                                                   Portions indicated by a                                                     [***] have been omitted                                                     and filed separately                                                     with the Commission
+
+PCQUOTE
+
+- ---------------------------------------------------------------------------- CO-BRANDING AGREEMENT
+
+This agreement is made effective   Oct. 11, 1996 by and between PC QUOTE, INC. (hereinafter referred to as "PCQ"), a Delaware Corporation with its principal place of business at 300 South Wacker Drive, Chicago, Illinois 60605 and AB Wately, Inc. (hereinafter referred to as "ABW") with its principal place of business at 33 West 17th Street, New York, NY  10011. This agreement shall apply to said ABW and all of its subsidiaries and related companies.
+
+Definitions:
+
+SOFTWARE
+
+PC QUOTE 6.0-TM- for Windows on the Internet is a software application that displays market data information, provided via the digital Hyperfeed, in the form of quotes, charts, graphs, tables, board views, tickers and other analytical tools.
+
+HYPERFEED
+
+The PC Quote proprietary digital data feed transmitted via satellite, land line, or Internet with advanced compression technology, containing financial market information obtained by PCQ from the institutions and exchanges listed in Section 5 of this Agreement.  This market data includes stock quotes, futures and options trading, commodities, and other related information.
+
+Witnesseth:
+
+NOW, THEREFORE, for good and valuable consideration, and in consideration of the mutual covenants and conditions herein set forth, and with the intent to be legally bound thereby, ABW and PCQ hereby agree to the following:
+
+1.  The Co-Branded Service
+
+    A.  PCQ agrees to allow ABW to co-brand the PCQ SOFTWARE in order to provide a value added service on ABW's World Wide Web site.  The co-branded SOFTWARE will be made available via ABW software housed at the ABW office listed in this Agreement.  The server will be accessed by all ABW subscribers in order to download the SOFTWARE and receive the HYPERFEED.
+
+    B.  PCQ will provide a continuous HYPERFEED to the ABW servers; however, PCQ will control the receipt of the HYPERFEED by ABW clients via a remote access server on PCQ's site that will authorize each new ABW account.  ABW agrees to sign up all new subscribers to the co-branded service, including execution of all applicable service and exchange agreements, will send to PCQ the executed subscriber
+
+agreements before access to the quote servers will be provided to ABW clients by PCQ.  PCQ shall have the sole ability to authorize access to the market data contained in the HYPERFEED by ABW clients.
+
+Source: PCQUOTE COM INC, S-1/A, 7/21/1999
+
+
+
+
+
+    D.  PCQ and Townsend shall retain title and all copyrights or proprietary rights to the SOFTWARE and HYPERFEED provided to ABW and ABW's clients pursuant to the Agreement.  ABW will not provide any unauthorized access to the co-branded service, nor reproduce or redistribute the service in any way.
+
+    E.  ABW agrees to include the following in the co-branded pages displaying quotes:  "All quotes provided by PC Quote, Inc."  ABW also agrees to include the following disclaimer on the access page to the co-branded service:
+
+         "PC Quote is not subject to liability for truth, accuracy, or           completeness of the market data information nor is PC Quote liable           for errors, mistakes or omissions in the data or for any delays or           interruptions in the end user's receipt of the data.  PC Quote does           not warrant that the data provided may be relied upon for trading           purposes."
+
+    2.  Term
+
+    A.  [***]  The effective date for purposes of this Agreement is the contract date as specified on the signature page of this Agreement.  Neither PCQ nor ABW shall terminate or alter this Agreement except as stated herein.
+
+    B.  [***]  Notice expressing a desire to terminate this Agreement will be sent by certified mail to the address indicated above.  Said termination will be effective as of the last day of the month in which this anniversary occurs.
+
+    C.  Notwithstanding the provisions of (A), and (B) above, should a party to this Agreement be in material breach of the Agreement, the other party may terminate the Agreement thirty (30) days after notice of said material breach is received, and only if such material breach is not cured within thirty (30) days of receipt of notice.
+
+    3.  Payment For Service
+
+    A.  Beginning with the date specified on the fee schedule attached hereto as Schedule A, or upon completion of the Installation and testing of all equipment and services, which ever is later.  ABW will commence payment of a monthly fee for the right to permit access by ABW's clients to said SOFTWARE and HYPERFEED.
+
+    B.  The charges for the services set forth in this Agreement shall be invoiced monthly.  ABW agrees to pay said charges within thirty (30) days of the monthly invoice date.  ABW may issue a purchase order for billing purposes.  The invoices must reference that purchase order number and be sent to the "Bill To" address stated on the purchase order.  The terms of this negotiated Agreement shall supercede those contained on that purchase order.
+
+    C.  All payments will be made in US Dollars drawn on a US bank.  ABW will provide a complete list of all clients using the format described in Schedule B with each payment.
+
+    D.  Any payments which have not been received by PCQ within thirty (30) days of the Invoice date shall be subject to a FINANCE CHARGE of 1.0% per month which is a corresponding ANNUAL
+
+PERCENTAGE RATE of 12% on the outstanding balance.
+
+    F.   Any invoice submitted by PCQ shall be deemed correct unless ABW advises PCQ in writing, within thirty (30) days of the receipt of the invoice, that it disagrees with the invoice and specifies the nature of the disagreement.
+
+    G.   Any sales, use, excise, value added and local property taxes will be payable by ABW should such taxes be applicable.
+
+    H.   In the event that any invoice is not paid by ABW within forty-five (45) days after receipt, and when no discrepancy issues have been identified by ABW which are in some stage of resolution, after giving notice to ABW, PCQ may terminate this agreement and ABW's access to and use of SOFTWARE and HYPERFEED provided hereunder unless ABW pays such invoice prior to the termination date
+
+Source: PCQUOTE COM INC, S-1/A, 7/21/1999
+
+
+
+
+
+specified in the Termination Notice.  The remedies contained herein are cumulative and are in addition to all other rights and remedies available to PCQ under this Agreement, by operation of law, or otherwise.
+
+    I.   Upon termination as provided for in this Agreement, ABW will pay all charges for services and fees for the entire month in which that termination becomes effective.
+
+4. Technical Support
+
+    A.   ABW agrees to field all initial customer support requests and assist its clients to the best of its knowledge and ability.  If the support issue is of a complex nature that ABW is unable to solve, ABW may forward the call on to the PCQ technical support staff.
+
+5. Exchange Authorization
+
+    A.   The ABW hereby acknowledges and agrees that the HYPERFEED provided under this Agreement contains market information obtained, selected and consolidated by PCQ under the authority of various agencies, including but not limited to, the New York Stock Exchange, American Stock Exchange, Pacific Stock Exchange, Midwest Stock Exchange, Chicago Board Options Exchange, the Options Price Reporting Authority, the Consolidated Tape Association, Chicago Board of Trade, Chicago Mercantile Exchange/International Monetary Market, Kansas City Board of Trade, Minneapolis Grain Exchange, Commodities Exchange Center, New York Futures Exchange, Mid-America Commodity Exchange, and Consolidated Canadian Group and that the ABW's use of the service for internal or external redistribution of date is authorized and regulated by said agencies.
+
+6. Limitations of Liability, Remedies On Default
+
+    A.   The information and data used in the HYPERFEED and SOFTWARE provided under this Agreement, including option prices, stock prices, commodity prices, dividends, dividend dates, volatilities, deltas and other variables, are obtained by PCQ from the various exchanges and other sources which are believed to be reliable and PCQ agrees to run reasonable control checks thereon to verify that the data transmitted by PCQ is the same as the data received from the various exchanges and other sources.  However, PCQ shall not be subject to liability for truth, accuracy, or completeness of the information received by PCQ from the various exchanges and other sources and conveyed to ABW or for errors, mistakes or omissions therein or for any delays or interruptions of the HYPERFEED or SOFTWARE from whatever cause. This agreement does not violate any agency requirements and PCQ has the right to enter into this agreement from its information providers.
+
+    B.   PCQ shall not be responsible for, nor be in default under this Agreement due to delays or failure of performance resulting from Internet
+
+Service Provider delivery problems or failure, or any communication or delivery problems associated with the Internet in general.  Furthermore, PCQ and ABW shall not be responsible for nor in default due to acts or causes beyond its control, including but not limited to: acts of God, strikes, lockouts, communications line or equipment failures, power failures, earthquakes, or other disasters.  Should such an occurrence render the HYPERFEED or SOFTWARE inoperable or unavailable for a period over ten (10) days, then ABW shall have the right to discount their billing in proportion to the delay.
+
+    C.   LIABILITY UNDER THIS AGREEMENT FROM ANY AND ALL CAUSES, INCLUDING, BUT NOT LIMITED TO, PROGRAM MALFUNCTION OR OPERATIONAL NEGLIGENCE, SHALL BE LIMITED TO GENERAL MONEY DAMAGES IN AN AMOUNT NOT TO EXCEED THE TOTAL CHARGES PAID BY ABW FOR THE SERVICES DURING THE MOST RECENT TWELVE (12) MONTHS OF THE AGREEMENT. SUCH LIMITATION SHALL BE THE EXTENT OF PCQ OR ABW'S LIABILITY REGARDLESS OF THE FORM IN WHICH ANY LEGAL OR EQUITABLE ACTION MAY BE BROUGHT AGAINST PCQ OR ABW, AND THE FOREGOING SHALL CONSTITUTE PCQ'S OR ABW'S SOLE REMEDY.  IN NO EVENT WILL EITHER PARTY BE RESPONSIBLE FOR LOST PROFITS OR SPECIAL INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES WHICH ABW OR PCQ INCUR OR EXPERIENCE ON ACCOUNT OF ENTERING INTO OR RELYING ON THIS AGREEMENT, EVEN IF PCQ OR ABW HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7. Exclusion of Warranties
+
+It is expressly understood and agreed to by the parties hereto that EXCEPT AS
+
+Source: PCQUOTE COM INC, S-1/A, 7/21/1999
+
+
+
+
+
+SPECIFICALLY PROVIDED HEREIN, ALL WARRANTIES, EXPRESSED OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, ARE HEREBY EXCLUDED.
+
+8. Confidentiality of Proprietary Information
+
+    A.   ABW understands and acknowledges the proprietary nature of the HYPERFEED and SOFTWARE provided by PCQ and that said HYPERFEED and SOFTWARE have been developed as a trade secret of PCQ and at its expense.  ABW agrees to hold said information in the same manner as ABW deals with its own proprietary information and trade secrets.  Furthermore, ABW agrees not to attempt any reverse engineering of the HYPERFEED to decode the signals used by PCQ in transmitting the information.
+
+    B.   PCQ understands the proprietary nature of any information belonging to ABW, and recognizes the harm that can be occasioned to user by disclosure of information relative to ABW's activities, PCQ agrees to hold such information in the same manner as PCQ deals with its own proprietary information and trade secrets.
+
+    C.   PCQ acknowledges the confidential nature of ABW's use of the SOFTWARE and HYPERFEED during the initial term of this agreement.  Due to the unannounced platform on which ABW shall make available its electronic service to its client during this initial term, PCQ shall in no way disclose to other parties the substance nor acknowledge the existence of this agreement.  Any advertising or disclosure of the relationship between the parties, use of either's marks, names or reference by the other shall be approved by both parties prior to release.
+
+9. Indemnification
+
+    A.   ABW hereby agrees to defend, indemnify and hold harmless PCQ, its employees, agents, successors and assigns, harmless, including reasonable attorney's fees, from and against any of the following:
+
+    1.   Any and all claims, liabilities, and obligations claimed by any third      party or parties against PCQ and arising directly out of ABW's use of the      Service.
+
+    2.   Any and all claims, liabilities, or obligations resulting from ABW's      misrepresentations, negligence, willful misconduct, breach of warranty or      non-performance of any of the covenants or obligations under this Agreement      or from any misrepresentations or omissions made by ABW to PCQ, including      specifically, but not limited to, any authority required of ABW pursuant to      Section 6 hereof.
+
+    B.   Such indemnification by ABW shall only be effective if the claim, liability or obligation claimed by the third party is in no way related to PCQ's negligence, willful misconduct or failure to perform any of its obligations under this Agreement.
+
+    C.   PCQ hereby agrees to defend, indemnify and hold ABW harmless, including reasonable attorney's fees, from and against any claim that the SOFTWARE or HYPERFEED infringes on the patent, copyright or other proprietary rights of another, including any and all claims, liabilities, or obligations resulting from PCQ's negligence, willful misconduct, misrepresentations, breach of warranty or non-performance of any of the covenants or obligations under this Agreement.
+
+    D.   Such indemnification by PCQ shall only be effective if:
+
+    1.   The claim, liability or obligation claimed by the third party is in no      way related to ASW'S negligence, willful misconduct or failure to perform      any of its obligations under this Agreement.
+
+    2.   ABW notifies PCQ promptly in writing of any claim or threatened claim      against ABW and thereafter cooperates with PCQ so that PCQ will not be      prejudiced in the defense, settlement or other handling thereof and ABW      permits PCQ, at PCQ's option and expense, to control the defense,      settlement or other handling of such claim.
+
+10. Assignment
+
+Source: PCQUOTE COM INC, S-1/A, 7/21/1999
+
+
+
+
+
+    This Agreement or any rights or obligations granted hereunder may not be assigned by ABW without the prior written consent of PCQ.
+
+11. Applicable Law and Venue
+
+    This Agreement shall be interpreted, construed and enforced in all respects in accordance with the laws of the State of Illinois, except with regards to its rules regarding choice of law.  Each party irrevocably consents to the jurisdiction of the courts of the State of Illinois and the federal courts situated in the State of Illinois, in connection with any action to enforce the provisions of this Agreement, to recover damages or other relief for breach or default under this Agreement, or otherwise arising under or by reason of this Agreement.
+
+12. Severability and Survival
+
+    A.   Whenever possible, each provision of this Agreement shall be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Agreement shall be prohibited by or invalid under applicable law, such provision shall be ineffective to the extent of such prohibition or invalidity, without invalidating the remainder of such provision or the remaining provisions of this Agreement.
+
+    B.   The provisions dealing with indemnification and confidentiality and any other section of this Agreement,
+
+unless specifically stated otherwise, which may reasonably be interpreted or construed as surviving the completion, expiration, termination or cancellation of this Agreement, shall survive the completion, expiration, termination or cancellation of this Agreement.
+
+13. Miscellaneous Provisions
+
+    A.   The parties to this Agreement are independent contractors with requisite corporate power and authority to enter into this Agreement and carry out the transactions contemplated hereby.  Neither party is a ABW or representative of the other party.  Neither party shall have any right, power or authority to enter into any agreement for or on behalf of, or incur any obligation or liability of, or to otherwise bind, the other party.  This Agreement shall not be interpreted or construed to create an association, joint venture or partnership between the parties or to impose any partnership obligation or liability upon either party.
+
+    B.   Any notice, approval, request, authorization, direction or other communication under this Agreement shall be given in writing and shall be deemed to have been delivered and given for all purposes, (i) on the delivery date if delivered personally to the party to whom the same is directed, or (ii) three business days after the mailing date, whether or not actually received, if sent by registered U.S. mail postage and charges prepaid, to the address of the party to whom the same is directed as set forth in the introductory paragraph of this Agreement.  Either party may change its address specified above by giving the other party notice of such change in accordance with this Section 13.B.
+
+    All notices delivered to ABW shall be delivered to the address above, attention:
+
+         Harry Simpson           AB Watley
+
+    C.   The failure of either party to insist upon or enforce strict performance by the other party of any provision of this Agreement or to exercise any right under this Agreement shall not be construed as a waiver or relinquishment to any extent of such party's right to assert or rely upon any such provision of right in that or any other instance; rather, the same shall be and remain in full force and effect.
+
+14. Entire Agreement
+
+    A.   As used herein, the term "Agreement" includes any written amendments, modifications or supplements made in accordance herewith.
+
+    B.   ABW and PCQ acknowledge that they have read this Agreement, understand
+
+Source: PCQUOTE COM INC, S-1/A, 7/21/1999
+
+
+
+
+
+it, and agree to be bound by its terms and further acknowledge and agree that it constitutes the entire agreement of the parties hereto and supersedes all other proposals, oral or written, and all other communications between the parties relating to the subject matter hereof and this Agreement may not be modified or terminated orally.  No amendment to this Agreement shall be effective unless it is in writing and signed by duly authorized representatives of both parties.
+
+IN WITNESS WHEREOF, the parties hereto hereby execute this Agreement.
+
+AGREED TO:
+
+PC QUOTE, INC.
+
+By: /s/ Richard F. Chappeto     ----------------------------- Name:   Richard F. Chappeto Title:  Vice President Date:   10-11-96      ----------------------------
+
+A.B. WATLEY, INC.
+
+By: /s/ Steven Malin    ------------------------------ Name:   Steven Malin      ---------------------------- Title:  Director --------------------------- Date:   10-11-96 ----------------------------
+
+SCHEDULE A TO THE CO-BRANDING AGREEMENT BETWEEN PC QUOTE, INC. AND A.B. WATLEY, INC. DATED OCTOBER 11, 1996
+
+SCHEDULE OF SERVICES AND FEES
+
+[***]
+
+By:  PC Quote, Inc. By:  A.B. Watley, Inc.
+
+/s/ Richard F. Chappeto /s/ Steven Malin - -------------------------------- -------------------------------
+
+Source: PCQUOTE COM INC, S-1/A, 7/21/1999

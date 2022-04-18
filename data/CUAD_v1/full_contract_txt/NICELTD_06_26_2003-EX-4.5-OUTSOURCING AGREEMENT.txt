@@ -1,0 +1,819 @@
+EXHIBIT 4.5
+
+                       MANUFACTURING OUTSOURCING AGREEMENT
+
+This Manufacturing Outsourcing Agreement (The "AGREEMENT") is entered into on January 21st, 2002, by and between Nice Systems Ltd., an Israeli registered corporation no. 52-0036872 having its place of business at 8 Hapnina Street, P.O.B 690, Ra'anana 43107, Israel, ("NICE") and Flextronics Israel Ltd., an Israeli registered corporation no. 51-2933045, having its place of business at 1 Hatasiya Str., Ramat Gabriel Industrial Zone, Migdal Haemek 23108, P.O.Box 867, Israel (the "CONTRACTOR"). NICE and Contractor are collectively referred to as the Parties.
+
+RECITALS
+
+WHEREAS NICE issued a request for information ("RFI") version A.2 dated June 17th, 2001 to a number of manufacturers seeking to provide NICE with certain local Manufacturing Outsourcing Services (as defined hereinafter) for the production, testing and delivery in world class quality and capability of NICE' Products, on a turnkey basis, to acquire from NICE inventory related to the operations to be outsourced, and to contract with certain of the contractors performing portions of the remainder of work or to accept assignment of such contracts, all as detailed herein;
+
+WHEREAS the RFI was followed by a request for proposal including a detailed Statement of Work including Exhibits dated 13.8.01 (the "RFP");
+
+WHEREAS the Contractor submitted a proposal in response to the RFI and RFP (together the "PROPOSAL" or the "CONTRACTOR'S PROPOSAL");
+
+WHEREAS the bidding process resulted in the selection of Contractor, which represented that it possessed the necessary skills, staffing, experience, resources, and capabilities to provide those certain Manufacturing Outsourcing Services detailed herein in world class quality, capability and manner as set forth herein;
+
+WHEREAS the Parties have completed the pre-contract due diligence, and now wish to contract for the provision of the Manufacturing Outsourcing Services;
+
+NOW THEREFORE, FOR AND IN CONSIDERATION OF THE AGREEMENTS OF THE PARTIES SET FORTH BELOW, NICE AND CONTRACTOR AGREE AS FOLLOWS:
+
+A.   DEFINITIONS. The following terms shall have the meanings set forth below:
+
+     (i)  "RFI" - shall have the meaning ascribed in the preamble above.
+
+     (ii) "RFP" - shall have the meaning ascribed in the preamble above.
+
+     (iii) "SOW" - Statement of Work document attached to the RFP and forming an            integral part thereof including its Exhibits.
+
+     (iv) "CONTRACTOR'S PROPOSAL" or "PROPOSAL" - shall have the meaning           ascribed in the preamble above. It is clarified that for the purpose           of Contractor's Proposal in response to the RFI, Contractor hereby           declares that such Proposal was valid and correct at the date           submitted in all material aspects which are relevant to NICE' decision           to choose Contractor as the Manufacturing Outsourcing Services           supplier.
+
+     (v)  "PRODUCTS" - Digital recording products as defined in APPENDIX A and           further detailed in the PDM System, and as shall be amended from time           to time by NICE and manufactured by Contractor in accordance herewith.
+
+     (vi) "MANUFACTURING OUTSOURCING SERVICES" - Certain turnkey based           purchasing, manufacturing, testing, configuration and delivery           services for the Products all as detailed in the Agreement and its           Appendices and Exhibits, including but not limited to: purchase of the           Product's components which are not supplied by NICE, assembly and           production of the Products subject to supervision, control and           planning by NICE, execution of Measurements and Procedures, response           times, providing infrastructure and resources, allocation of the           required manpower, use of the Non Generic Equipment, execution of           engineering and integration process, Engineering Changes, integration           of NICE Software, implementation of Control and Planning, Engineering           Changes and Change Order procedures, packaging requirements,           dismantling and disassembly of Products procedure, spare part           mechanism, quality control requirements, logistics management           including inventory management, adjusting and meeting forecasts,           components purchasing procedure, supplies and shipment schedules,           issuing orders procedure, preparing export shipments, all of world           class quality and capability and as provided herein, on a turnkey           basis, and acquisition from NICE of certain inventory related to the           operations to be outsourced, and to contract with certain of the           contractors supplying components and/or performing portions of the           remainder of work or to accept assignment of such contracts, all as           detailed herein.
+
+     (vii) "NICE SOFTWARE" - Dedicated software developed by NICE and/or for           NICE, in which all Intellectual Property (as defined below) is owned
+
+
+
+
+
+          by NICE.
+
+     (viii) "PERSONNEL" - Contractors' employees, subcontractors,           subcontractor's employees and any other person acting on behalf of           Contractor.
+
+     (ix) "AFFILIATE" - A corporation, partnership or other business entity           which controls, is controlled by, or is under common control of a           Party. For the purposes hereof, "CONTROL" shall mean the holding of           more than 50% of the voting rights in the entity in question.
+
+                                       2
+
+     (x)  "CUSTOMER/S" - NICE distributors, resellers, VAR's (value added           resellers), OEM's and similar business partners and/or end-users,           which purchase the Products.
+
+     (xi) "NICE PROPRIETARY INFORMATION" - Any and all data and information           disclosed by NICE to the Contractor during the term of this Agreement           in any form, whether verbally, in writing or in machine readable form           or in magnetic media, relating to the business, manufacturing,           know-how, Products, NICE Software, any other products, items,           components and affairs of NICE including its Affiliates, and including           without limitation - documents, prototypes, samples and the NICE'           plants and equipment, Products, certain proprietary and confidential           information concerning NICE' past, present and future research,           development and business activities and the results therefrom,           including but not limited to digital recording solutions, applications           and services technology. Proprietary Information may also include           information disclosed to NICE by third parties. Proprietary           Information shall not include data and information which: (i) was or           will be, independently of this Agreement, lawfully in the possession           of the Contractor without breach of obligation of secrecy of           Contractor to NICE, and/or (ii) was or will be, independently of this           Agreement, lawfully in the possession of the Contractor without breach           of obligation of secrecy of a third party to NICE, or (iii) was in the           public domain or was common knowledge at the time of receipt by the           Contractor; or (iv) following its disclosure to the Contractor as the           receiving Party, has, through no fault on the part of the Contractor,           subsequently become part of the public domain or is common knowledge;           or (v) is required to be disclosed by the Contractor to comply with           applicable laws or governmental regulations, provided that the           Contractor provides prior written notice of such disclosure to NICE           and takes reasonable and lawful actions, at NICE' expense, to avoid           and/or minimize the extent of such disclosure.
+
+          "CONTRACTOR'S PROPRIETARY INFORMATION" - data and information           disclosed by Contractor to NICE during the term of this Agreement in           any form, whether verbally, in writing or in machine readable form or           in magnetic media, relating to the business, manufacturing methods,           know-how, systems, price lists, suppliers lists and terms of           engagement with suppliers, of Contractor including its Affiliates, and           including without limitation documents, and the Contractor's plants           and equipment, all information disclosed under audits under this           Agreement. Contractor's Proprietary Information may also include           information disclosed to Contractor by third parties. Contractor's           Proprietary Information shall not include data and information which:           (i) was or will be, independently of this Agreement, lawfully in the           possession of NICE
+
+                                       3
+
+          without breach of obligation of secrecy to Contractor, and/or (ii) was           or will be, independently of this Agreement, lawfully in the           possession of NICE without breach of obligation of secrecy of a third           party to Contractor, or (iii) was in the public domain or was common           knowledge at the time of receipt by NICE; or (iv) following its           disclosure to NICE as the receiving Party, has, through no fault on           the part of NICE, subsequently become part of the public domain or is           common knowledge; or (v) is required to be disclosed by NICE to comply           with applicable laws or governmental regulations, provided that NICE           provides prior written notice of such disclosure to Contractor and           takes reasonable and lawful actions, at Contractor's expense, to avoid           and/or minimize the extent of such disclosure.
+
+     (xii) "INTELLECTUAL PROPERTY" - Trademarks, trade names, logos, domain           names, designs, patents, copyrights, inventions, discoveries,           technology, know-how, trade secrets, confidential and proprietary           information and mask works, all registrations and applications for any           and all renewals, reissuances and extensions of, and all goodwill in,           the foregoing.
+
+     (xiii) "PURCHASE ORDER/S" or "PO/'S"- A NICE purchase order ordering           manufacture and supply of the Products, issued in accordance herewith.
+
+     (xiv) "TOTAL LEAD TIME" - The Purchase Lead Time, Sub Assembly Lead Time           and Production Lead Time together.
+
+     (xv) "PURCHASE LEAD TIME" - The maximum agreed time for purchase of           components by Contractor in order to enable production and completion           of a Product until the Due Date, being the total of the time required           for ordering and delivering all relevant components to Contractor from           Contractor's suppliers, subject to the Liability. The initial Purchase           Lead Time for each component (including sub-assembly purchased from
+
+
+
+
+
+          suppliers) will be as detailed in APPENDIX C and shall be reviewed and           updated as necessary by the parties each Quarter during the duration           of this Agreement according to the procedure detailed in this           Agreement. The new Purchase Lead Time shall need to be agreed to by           both parties, and, once agreed, shall be the binding Purchase Lead           Time for the relevant components. The parties will also agree on the           Purchase Lead Time regarding each new component to be included in a           Product.
+
+     (xvi) "SUB ASSEMBLY LEAD TIME" - The maximum agreed time for completion of           sub-assemblies in order to enable production and completion of a           Product until the Due Date, beginning at the end of the Purchase Lead           Time for all relevant components and ending on successful completion           of testing of the relevant sub-assemblies. The initial Sub Assembly           Lead Time for each sub-assembly will be as detailed in APPENDIX C and           shall be reviewed and updated as necessary by the parties each Quarter           during the duration of this Agreement according to the procedure           detailed in this Agreement. The new Sub Assembly Lead Time shall need           to be agreed to by both parties, and, once agreed, shall be the           binding Sub Assembly Lead Time for the relevant Sub Assemblies. The           parties will also agree on the Sub Assembly Lead Time regarding each           new Sub Assembly to be included in a Product.
+
+                                       4
+
+     (xvii) "PRODUCTION LEAD TIME" - The agreed time for completion of a Product           until its Due Date, meaning from commencement of assembly (from           sub-assemblies if applicable) until successful completion of testing,           which shall always be fourteen (14) Days from receipt of the PO.
+
+     (xviii) "ENGINEERING CHANGES" - Engineering change in the Product as           detailed in Sections 3.10 and 3.11 to this Agreement.
+
+     (xix) "ECR" - Engineering Change Request issued by NICE or by Contractor.
+
+     (xx) "ECO" - Engineering Change Order issued by NICE at its discretion           after an ECR, in accordance with Section 3.11 below.
+
+     (xxi) "CHANGE ORDERS" - Change or changes or amendments in a specific order           excluding rescheduling of an order/prices and excluding ECO's, as           further detailed in Section 3.5.
+
+     (xxii) "WARRANTY PERIOD" - Thirteen (13) months from the Shipment Date of           the Product subject matter of the warranty, unless agreed otherwise by           the parties in writing.
+
+     (xxiii) "BACKUP SITE" - Contractor's backup site and/or the third party           site, as detailed in APPENDIX G and in Section 2.9 below, designed to           be operated in the event of force majeure or other event preventing           the performance of the Manufacturing Outsourcing Services at           Contractor's plant and to ensure an alternate facility with equivalent           standards and availability.
+
+     (xxiv) "DUE DATE" - The date of completion of the Product after completion           of all quality and integration tests as detailed for each Product           including in APPENDIX J and its classification as "finished goods"           according to the date detailed in the relevant NICE Purchase Order,           issued in accordance with this Agreement.
+
+     (xxv) "SHIPMENT DATE" - the date of delivery of Products, properly packed           (i.e. in accordance with this Agreement), including all documents           required for the export of Products, to the NICE designated freight           forwarder at Contractor's Location, which may be any time after the           Due Date as determined by NICE, but not to exceed sixty (60) Days from           the Due Date.
+
+     (xxvi) "DAY" or "DAYS" - Calendar days unless specific reference is made to           "Business Days".
+
+                                       5
+
+     (xxvii) "BUSINESS DAYS" - Sunday to Thursday, excluding holidays. Holiday           eves shall be regarded as half a business day.
+
+     (xxviii) "QUARTER" - a calendar quarter.
+
+     (xxix) "EFFECTIVE DATE" - January 21st, 2002
+
+     (xxx) "LIABILITY " - components and sub-assemblies for which Contractor has           an option of cancellation and/or rescheduling without liability, as           detailed in APPENDIX C regarding each component and sub assembly. The           cancellation window for VMI (Vendor Management Inventory) Components           varies between 0 to 35 Days from ordering by Contractor.
+
+     (xxxi) "NON GENERIC EQUIPMENT" - functional testing equipment and any           equipment related thereto.
+
+     (xxxii) "PDM SYSTEM" - NICE' engineering system (PDM) to which Contractor           shall be granted access for the purpose of performance of this           Agreement and whose contents shall be binding and constitute an           integral part of this Agreement, subject to Section 17.1. The contents           of the PDM System as at the date hereof which are not governed by           Section 17.1 may only be changed further to an ECO issued in           accordance herewith.
+
+
+
+
+
+B.   INTERPRETATIONS
+
+     As used in this Agreement:
+
+     (i)  The terms and expressions set out in Section "A" shall have the           meanings ascribed therein.
+
+     (ii) The preamble and Appendices and Schedules form an integral part of           this Agreement.
+
+     (iii) The masculine includes the neuter and the feminine; and the singular           includes and plural and vice versa.
+
+     (iv) A reference to any statute, enactment, order, regulation or other           similar instrument shall be construed as a reference to the statute,           enactment, order, regulation or instrument as amended by any           subsequent statute, enactment, order, regulation or instrument or as           contained in any subsequent re-enactment thereof.
+
+     (v)  Headings are included in this Agreement for ease of reference only and           shall not affect the interpretation or construction of this Agreement.
+
+                                       6
+
+     (vi) References to Sections, Schedules, Appendices and Exhibits are, unless           otherwise provided, references to sections, schedules, appendices and           exhibits to this Agreement.
+
+     (vii) In the event certain provisions incorporated in the Agreement are           contradictory VIS-A-VIS other provisions incorporated in the           Appendices and Schedules, the Agreement shall prevail.
+
+     (viii) In the event certain provisions incorporated in the Appendices and           Schedules are contradictory VIS-A-VIS other provisions incorporated           therein, the specific provisions shall take precedence over the           general provisions.
+
+C.   APPENDICES AND SCHEDULES
+
+     (i)  Appendix A - Products;
+
+     (ii) Appendix B - The Proposal;
+
+     (iii) Appendix C - Prices, Purchase and Sub-Assembly Lead Time,           cancellation windows, rescheduling period, minimum order, package           quantity, labor costs, disassembly fees, Product prices, cancellation           fees, ECR and ECO administrative costs [a new version to be completed           within a month of signature of the Agreement and thereafter updated in           accordance with this Agreement];
+
+     (iv) Appendix D - Insurance Certificate;
+
+     (v)  Appendix E - Non Disclosure Undertaking;
+
+     (vi) Appendix F - NICE Inventory purchased by Contractor for the first           Quarter (NICE Inventory purchased by Contractor for the second Quarter           will be added as an addition to Appendix F at a later date);
+
+     (vii) Appendix G - Back Up Site;
+
+     (viii) Appendix H - Safety, Security & IT Requirements;
+
+     (ix) Appendix I - Spare Parts / Upgrade;
+
+     (x)  Appendix J - Quality Assurance Requirements;
+
+     (xi) Appendix K - NICE Products release policy;
+
+     (xiv) Appendix N - RMA Process.
+
+                                       7
+
+1.   MANUFACTURING OUTSOURCING SERVICES
+
+     1.1. SCOPE OF WORK. During the term of and subject to this Agreement,           Contractor shall perform the Manufacturing Outsourcing Services           including purchase, assemble, manufacture, configure, test and deliver           to NICE' freight forwarder in Contractor's facility, under the terms           set forth below, and NICE shall purchase from Contractor, and           Contractor shall sell to NICE, such quantities of units of the           Products according to NICE' Purchase Orders, from time-to-time as           detailed below, at the quoted prices set forth in Appendix C. This           Agreement or any provision thereof shall not be interpreted as           granting Contractor any exclusive rights in respect of the           Manufacturing Outsourcing Services or any similar services outsourced           by NICE, and shall not prevent NICE, at its sole discretion, from           contracting with any third party for such services, subject to the           provisions of this Agreement. Notwithstanding anything to the contrary           in the Agreement or elsewhere, including NICE' confidentiality           obligations towards Contractor, but without derogating from NICE'           obligations hereunder, this Agreement shall in no way be construed as           preventing NICE from performing the Manufacturing Outsourcing Services           or part thereof by itself and/or through others, whether during the
+
+
+
+
+
+          term of this Agreement or thereafter.
+
+     1.2. Contractor's obligations to execute the Manufacturing Outsourcing           Services pursuant to this Agreement shall commence on the Effective           Date, subject to the following provisions:
+
+     1.2.1. OUTSOURCING TRANSITION - NICE intends to outsource part of its           manufacturing activities to the Contractor, in 3 phases: (1) Training           and Authorization, (2) Relocation and (3) Manufacturing Outsourcing           Services, as described in this Agreement.
+
+               1.2.2. INFRASTRUCTURE. For the execution of this Agreement and                     the Manufacturing Outsourcing Services, Contractor will set                     up and establish specific infrastructure including an                     exclusive area in its production facility as detailed                     herein. Contractor shall assemble its own workstations using                     its generic equipment and the Non Generic Equipment to be                     provided by NICE in good working order. The maintenance of                     the Non Generic Equipment and keeping it in good working                     order, except normal wear and tear, shall be Contractor's                     responsibility, at Contractor's expense. NICE shall have the                     right to object on reasonable grounds to any material change                     of the manufacturing facility for any Product.
+
+               1.2.3. RELOCATION- Contractor will complete the Relocation                     process including preparation of production lines
+
+                                       8
+
+                    that will be able to ensure the production capacity                     according to NICE' forecasts as detailed herein. The                     completion of the Relocation stage shall be on time in order                     to enable compliance with the Forecast submitted to                     Contractor prior to signature of this Agreement and shall be                     subject to the Control of NICE, without relieving Contractor                     from its responsibilities hereunder. Upon NICE' approval                     that the Relocation stage has been completed to its                     satisfaction, which approval shall not be unreasonably                     withheld, the Contractor shall commence the Manufacturing                     Outsourcing Services.
+
+               1.2.4. RESOURCES, PERSONNEL, PROJECT MANAGER. Contractor will be                     responsible for the required resources in order to comply                     with its undertakings hereunder and to deliver the                     Manufacturing Outsourcing Services as detailed hereunder.                     Contractor will perform the Manufacturing Outsourcing                     Services using only skilled, qualified and experienced                     personnel to the extent required for the purpose of                     performing its undertakings pursuant to this Agreement, to                     be trained and authorized, according to NICE' requirements.                     Contractor shall not replace at its initiative key Personnel                     during the duration of this Agreement, to the extent such                     replacement shall materially impair its ability to perform                     in compliance herewith and any such replacement shall take                     place only after consultation with NICE. It is agreed for                     the purpose hereof, that frequent replacement of key                     personnel shall be deemed as materially impairing                     Contractor's ability to perform hereunder. NICE may reject                     on reasonable grounds any such key personnel employed by                     Contractor in the performance of its obligations hereunder,                     and they shall be replaced by Contractor promptly following                     NICE' first reasoned request. Such personnel shall abide by                     all of NICE' security, data protection and safety                     requirements and policies as indicated from time to time by                     NICE in writing according to Section 17.1.
+
+                    TheContractor will appoint a dedicated Project Manager who                     will coordinate with NICE' representative and serve as a                     single point of contact for NICE in all aspects pertaining                     to this Agreement. The project manager will not be replaced                     at Contractor's initiative during the duration of this                     Agreement to the extent such replacement shall
+
+                                       9
+
+                    materially impair Contractors ability to perform in                     compliance herewith and any such replacement shall take                     place only after consultation with NICE. It is agreed for                     the purpose hereof, that frequent replacement of                     Contractor's Project Manager shall be deemed as materially                     impairing Contractor's ability to perform hereunder. The                     project manager will meet with NICE' representative on a                     regular basis.
+
+               1.2.5. CONTROL AND PLANNING. Without derogating from the                     aforesaid, Contractor will provide NICE with control                     capability of the production. NICE shall be entitled to be                     involved in the planning and establishment of the working                     environment for all Product lines at the Contractor's                     premises. Contractor will provide NICE with reports on a                     daily/ weekly/ monthly basis, as follows: the reports will                     present all relevant details regarding the production                     orders, time between phases, disassembled Products,                     schedules, logistics reports, etc. The reports provided will
+
+
+
+
+
+                    present all said data in a clear manner and will include                     graphic presentations. The reports will enable NICE to                     verify that all systems are matched and to verify the                     improvement that is achieved by Contractor. All said reports                     shall need to be agreed in advance by both Parties.
+
+               1.2.6. SUPERVISION AND MONITORING. NICE shall be entitled but not                     obligated, to supervise and monitor the execution of this                     Agreement from time to time as set forth herein. NICE shall                     be entitled, upon prior coordination, to visit any place                     where the Manufacturing Outsourcing Services are being                     performed including Contractor's plant/s and to review                     samples of components and Products. As a result of such                     supervision, NICE may propose improvements and increase in                     efficiency in the Manufacturing Outsourcing Services and the                     Parties will discuss such proposals and their affect on this                     Agreement. Without derogating from the generality of the                     aforementioned, any supervision and monitoring rights                     granted to NICE hereunder are merely intended to secure                     performance of this Agreement according to its terms and                     shall not relieve Contractor from its responsibilities                     hereunder according to this Agreement or impose any                     responsibility or liability upon NICE which is not                     explicitly detailed in this Agreement.
+
+                                       10
+
+               1.2.7. MEASUREMENTS AND PROCEDURES. Contractor will execute all                     the production stages required for a Product according to                     NICE' Production File for the particular Product, included                     in the PDM System.
+
+               1.2.8. QUALITY ASSURANCE REQUIREMENTS. The Manufacturing                     Outsourcing Services performed by Contractor shall be                     executed according to and comply with all quality control                     requirements and specifications described in APPENDIX J.                     Without derogating from Contractor's responsibility as                     aforementioned, NICE reserves the right to execute quality                     assurance inspection on Contractor's premises, all as                     described in APPENDIX J and according to the terms hereof.
+
+               1.2.9. BACK-UP SITE. Contractor will ensure the availability of                     the Back-up Site according to the terms of this Agreement.                     Attached as APPENDIX G to this Agreement is the undertaking                     of Flextronics, Inc., North Carolina for a Back Up Site in                     North Carolina, USA and a transition plan for its operation.
+
+               1.2.10. STEERING COMMITTEE. The Parties will appoint a steering                     committee which shall monitor the execution of this                     Agreement, comprised of Contractor's project manager, NICE'                     representative, and relevant personnel of the Parties.
+
+     2.   COMPONENTS PURCHASING, NICE COMPONENTS AND INVENTORY.
+
+          2.1. COMPONENTS PURCHASING. Upon transition to the third phase -                Production, the Contractor will be responsible for all purchasing                of components and getting equipped with all the materials                necessary for the assembly of the Products (except the Non                Generic Equipment). At NICE' request, and without derogating from                any other provisions of this Agreement, Contractor shall promptly                notify NICE, in writing, who are the suppliers of any specific                components and under what agreements purchase is effected.
+
+          2.2. CONTRACTOR PURCHASE AGREEMENTS. Without derogating from the                aforementioned, NICE may, at its sole discretion, decide to be                involved and to actively or inactively, participate in                negotiations and purchasing agreements of Contractor for                components designated for production hereunder. In such event,                Contractor will comply with NICE' requirements and instructions                and contract accordingly, without imposing any liability on NICE,                provided such instructions
+
+                                       11
+
+               are in accordance with common purchasing practice and in                accordance with this Agreement. NICE may, at its election,                instruct Contractor not to purchase a relevant component from a                specific supplier, provided an alternative supplier exists.                APPENDIX C shall be updated accordingly. At NICE' request,                Contractor shall notify any relevant supplier that it is                purchasing components for NICE Products and shall further furnish                the supplier with information requested by such supplier. In any                event, Contractor shall report to NICE on its purchasing                negotiations and achievements and shall supply NICE, at NICE'                request, with a copy of all relevant existing documentation.
+
+          2.3. FLEXTRONICS, INC. GLOBAL PURCHASE AGREEMENTS. Nevertheless, in                the event that the purchase agreement is signed by Flextronics,                Inc. as a global purchase agreement for the Flextronics group,                and not as a local agreement of Contractor or as an agreement                applying to NICE required components only, then NICE will not                participate in the negotiations and will not be entitled to                receive copies of such agreement/s. The details relevant to the                components purchased under an agreement as above will be included
+
+
+
+
+
+               in APPENDIX C and Contractor hereby declares and undertakes that                the details included in APPENDIX C (as amended from time to time                according to the provisions of this Agreement) shall be the                accurate details from the Flextronics, Inc. global purchase                agreements and components and sub assembly prices in APPENDIX C                shall be net purchase prices of Contractor without any overhead                or uplift. NICE shall be entitled, at its sole discretion, to                object in advance to Contractor using any Flextronics, Inc.                global purchase agreement and in such event, Contractor shall                purchase the components separately, the provisions of Section                2.2. shall apply and APPENDIX C shall be updated accordingly.                Contractor undertakes to comply with NICE' instructions and the                manufacturer license terms regarding the use and duplication of                Microsoft and other third party software supplied by NICE and not                to use such software products for any purpose other than in the                assembly of the Products. Contractor will copy from the master CD                of those software products only the exact number of licenses                designated by NICE in writing and for which a license has been                issued by NICE.
+
+          2.4. NICE DESIGNATED COMPONENTS. NICE may request Contractor to                purchase specific components from specific suppliers, provided                that the terms of such suppliers are in accordance with common                purchasing practices and APPENDIX C shall be updated accordingly.
+
+               When purchasing components for Contractor's other customers,                Contractor may not represent itself to the suppliers as a NICE                outsourcer for the purposes of such purchase.
+
+          2.5. NICE SUPPLIED COMPONENTS. NICE may, at its election, supply to                Contractor software licenses and software or the like for which                NICE has an existing royalty agreement with a third party (except                electrical and mechanical components unless agreed otherwise), in                lieu of Contractor purchasing same ("NICE COMPONENTS"). All
+
+                                       12
+
+               such components will be delivered to Contractor in a mutually                agreed package type, and in an agreed upon time and in agreed                upon quantities. The parties will agree on the inventory level                required by Contractor for each NICE Component and NICE' sole                responsibility shall be to renew the inventory upon request.                Contractor shall be responsible for ordering additional NICE                Components if required above the inventory level and for ensuring                that appropriate physical controls of such components are in                place and properly administered. Contractor will not charge NICE                any charges or overhead for such NICE Components. In the event                Contractor has difficulty in purchasing any components which NICE                can obtain and NICE has granted its consent to supply such                component to Contractor in lieu of Contractor purchasing same,                Contractor will not charge NICE any charges or overhead for such                Components.
+
+          2.6. INVENTORY MANAGEMENT AND USE OF EXISTING INVENTORY. All                purchasing of inventory, use of inventory, and management of                inventory shall be performed by Contractor according to this                Agreement, and APPENDIX C.
+
+          2.7. EXISTING NICE INVENTORY. Furthermore, Contractor will purchase                from NICE its existing inventory of components available for use                in Products for up to six (6) months on a rolling basis, as                detailed in APPENDIX F, all of which will be transferred to                Contractor's facility on the purchase date, all as detailed                hereunder: On the Effective Date Contractor will purchase the                inventory included in part I of APPENDIX F. Regarding the                remainder of the inventory included in part II of APPENDIX F the                following will apply: at the beginning of the first production                Quarter hereunder Contractor will purchase the components                required under the Forecast issued by NICE for that Quarter                regardless of the Total Lead Time for such components; at the                beginning of the second production Quarter hereunder Contractor                will purchase the components required under the Forecast issued                by NICE for that Quarter regardless of the Total Lead Time for                such components; Contractor will purchase any components                remaining in APPENDIX F after two Quarters as aforementioned, on                a current basis as required under the Forecast issued by NICE for                the following Quarters but in compliance with the Total Lead Time                for such components. Contractor will use said NICE' inventory for                the production of the Products rather than purchase such                components from third parties, until full use of all NICE                inventory. Contractor shall pay NICE the purchase price of such                components, as set forth in APPENDIX C hereto, and under payment                terms as set forth in Section 8.4. When sold to NICE as part of                aProduct, the component prices paid by NICE to Contractor                hereunder will be calculated with a reduced overhead of 2%. NICE                will and does hereby provide Contractor with all such warranties                with respect to the components sold thereby as is required from                Contractor under this Agreement with respect to the same                components. Furthermore, without derogating from NICE'                undertakings hereunder, Contractor will use its international                supply chain in order to assist NICE in selling its dead                inventory, which is not included in APPENDIX F, and the proceeds                from such sales will be shared as follows: 10% Contractor, 90%                NICE. Contractor will report to NICE regularly, on such sales.
+
+
+
+
+
+                                       13
+
+          2.8. COMPONENT END OF LIFE. Contractor shall take all necessary                measures in order to receive immediate updates from its suppliers                regarding end of life of any component (i.e types of components                which shall no longer be manufactured). Contractor shall notify                NICE immediately upon becoming aware of the event of end of life                of a component. In such event, NICE shall designate and approve                the replacement components to be used instead and the Parties                will mutually agree on the required changes in APPENDIX C.
+
+          2.9. COMPONENTS FOR NICE INTERNAL REQUIREMENTS. Contractor will                occasionally provide services in order to help NICE to obtain                components for NICE' internal requirements. Contractor will allow                NICE to purchase reasonable quantities from its available                inventory at a price agreed in advance, and will help NICE to                obtain components from manufacturers/suppliers at the lowest                available price (in the case where the components in question are                not in the Contractor's inventory).
+
+          2.10. It is clarified that nothing in this Agreement shall prevent                NICE from contracting directly with Contractor's suppliers and                vendors in any agreement, or from purchasing identical                components, whether during this Agreement or following its                termination or expiration.
+
+     3.   ORDERING AND OTHER MATTERS
+
+          3.1. FORECASTS. NICE shall give Contractor a written forecast of the                Products, by type, quantity and expected Due Date (the                "FORECAST") as follows: A Forecast shall be a rolling forecast                for the current Quarter and the two (2) consecutive Quarters,                detailed by week. Upon the Effective Date, NICE shall deliver a                Forecast for the period commencing on the expected completion of                the Relocation Phase for the first Product, for the current                Quarter and for the next coming two Quarters and so on thereafter                during the term of this Agreement. The Forecast may be updated by                NICE on a weekly basis, or more frequently (at NICE' discretion).
+
+               A Forecast will not be deemed to constitute a binding purchase                order with respect to Products (as opposed to components and                sub-assemblies, as set forth in Sections 3.4, 16 and 17.5 of this                Agreement). Contractor will manufacture the quantities of                Products only according to specific orders and the Production                Lead Time. The
+
+                                       14
+
+               Parties' responsibilities and undertakings arising from NICE'                Forecast shall be according to APPENDIX C as amended from time to                time according to the provisions of this Agreement. Liability                reports will be submitted by Contractor on the 1st of each                calendar month and will need to be approved by NICE. It is                clarified for the avoidance of doubt, that in any event, any and                all purchase obligations of NICE with respect to Products (as                opposed to components and sub-assemblies) are limited in any                given time during the term of this Agreement, to the PO's only.
+
+               Contractor (with NICE' participation) will implement, at its own                expense, a full process of Demand Flow Technology, including: (I)                Product Synchronization; (II) Sequence of Events; (III) Mix                Model; (IV) Demand of Capacity & Take Time; (V) Operations                grouping; (VI) Line Design & Balancing. This process will help to                determine the Sub Assembly Lead Time and the Production Lead                Time. It is clarified that any change in the Production Lead Time                detailed in this Agreement shall require NICE' prior written                approval; any change in the Sub Assembly Lead Time detailed in                this Agreement as a result of which the maximum Sub Assembly Lead                Time for the relevant sub-assembly exceeds 30 Days, shall require                NICE' prior written approval.
+
+          3.2. PURCHASE ORDERS AND ISSUING ORDERS. NICE shall, from                time-to-time, issue to Contractor a Purchase Order, according to                the Forecast, for Products, by type, quantity and Due Date, as                and when it desires to order Products. PO's will be issued at                least two (2) weeks prior to the designated Due Date. Each and                every order will be entered in NICE' logistic system as a Sales                Order. Every Product shall be manufactured according to the                Production Lead Time. Commencement of assembly shall be based on                Production Lead Times (as per Section A (xvii)) and calculated to                meet NICE' delivery requirements. It is clarified that delivery                and shipment of Products and NICE' obligation to pay for Products                shall only be according to a PO.
+
+               Purchase Orders for Products (and Forecasts for Products) may be                delivered to Contractor by any reasonable means, including but                not limited to e-mail, computerized systems, etc., postal                delivery, courier delivery, facsimile transmission, as shall be                notified by NICE in writing and in advance of any relevant PO.                For the removal of doubt, a PO shall not be binding upon                Contractor until Contractor has confirmed in writing receipt of                the PO. Contractor shall, within two Business Days of its receipt                of a Purchase Order, accept or reject such Purchase Order in                writing; provided, however, that Contractor shall be obligated to
+
+
+
+
+
+               accept all Purchase Orders issued in accordance with the terms                hereof for Products with respect to which a price per the                quantity ordered has been mutually agreed by the parties.                Contractor undertakes that in the event of increase in Product                requirements VIS-A-VIS the Forecast (i.e. issuance of PO's                exceeding
+
+                                       15
+
+               the relevant Forecast), Contractor's manufacturing capacity can                be increased, at any time, by thirty percent (30%) beyond the                then current Forecast. In addition, in as much as purchase of                components and purchase of sub assemblies are concerned, NICE may                order Products, which are not included in the Forecast, and                Contractor will make its best reasonable commercial efforts to                accommodate such order in accordance with NICE' request. It is                clarified that in any event Contractor will accept all PO's                exceeding the Forecast, subject to updating the Due Date based                upon the Total Lead Time for obtaining the required components,                which are not available in Contractor's inventory. The Due Date                for such PO's will be determined according to the time of                obtaining the components. For components/Products the prices for                which are not previously agreed under APPENDIX C, the price will                be agreed in writing prior to acceptance of the PO.
+
+          3.3. FORECAST REVIEW. The parties shall hold weekly meetings, in                person, at NICE' facility or by conference phone call, for the                purpose of discussing NICE' existing and contemplated Forecasts                and order requirements and updating the Forecast; provided,                however, only written Forecasts and Purchase Orders, or written                modifications thereto, shall bind NICE and Contractor pursuant to                the terms of this Agreement or otherwise. The parties, as                business requirements dictate, may mutually agree upon the use of                blanket purchase orders for specific sub-assemblies or components                (exceeding the requirements under Forecasts), subject to the                terms of this Agreement and such sub-assemblies or components                purchased shall be deemed Permitted Components.
+
+          3.4. PERMITTED COMPONENTS. Contractor may make purchase commitments to                suppliers and assemble components to sub-assemblies based upon                the Forecasts received from NICE but subject always to the Total                Lead Time, Liability and ABC policies of Contractor (which NICE                will be entitled to review and comment on in advance of the                relevant purchase). Contractor shall maintain inventory of                Permitted Components (as defined below) for use during the                Production Lead Time. NICE shall only be obligated to Contractor                for components and sub-assemblies ordered and assembled by                Contractor, in accordance with the Forecast and in compliance                always with the Total Lead Time as detailed in APPENDIX C (as                amended from time to time according to this Agreement) or                otherwise for inventory of components purchased from NICE under                Sections 2.7 or 3.4(A), or purchased in accordance with POs,                ECO's or Change Orders ("PERMITTED Components"), as detailed                hereunder. It is clarified that any Forecast updated following                the purchase of Permitted Components will not affect their                definition as Permitted Components, and NICE' obligations with                respect thereto, subject to the Liability.
+
+               3.4(A) PURCHASE OF INVENTORY BY NICE.
+
+                                       16
+
+                    NICE will purchase from Contractor inventory of Permitted                     Components not required (in whole or in part) according to                     the Forecast for the Quarter immediately following the time                     at which such inventory is reviewed as detailed below                     (hereinafter: the "FIRST QUARTER") as detailed below. The                     following terms shall have the definitions ascribed thereto:
+
+                    (i)  DEAD INVENTORY - Permitted Components, the entire                          quantity of which is not required for assembly of                          Products in accordance with the Forecast.
+
+                    (ii) SLOW MOVING INVENTORY - Permitted Components, which are                          required for assembly of Products for the two                          consecutive Quarters commencing immediately after the                          First Quarter, in accordance with the Forecast.
+
+                    (iii) EXCESS INVENTORY - Permitted Components, which are                          required for assembly of Products only during the third                          Quarter after the First Quarter or thereafter, in                          accordance with the Forecast.
+
+                    Three (3) days before the beginning of every Quarter,                     Contractor will issue a report of Dead, Slow Moving and                     Excess Inventory, and shall detail the price of each                     Permitted Component included in the report as specified in                     APPENDIX C, which report will need to be verified by NICE                     within 2-3 days. Inthe event that in any Quarter, the Dead                     Inventory, Excess Inventory and Slow Moving Inventory                     together exceed 15% of the Monthly Consideration (as defined                     below), NICE will purchase such inventory exceeding 15% from                     Contractor one day before the beginning of the First                     Quarter, by payment of the price detailed in APPENDIX C
+
+
+
+
+
+                    including a surcharge of 4%. In calculating and determining                     the inventory falling within the said 15% (which shall not                     be purchased by NICE) the following priority shall apply:                     first - all Slow Moving Inventory, second (if not all 15%                     were covered) - all Excess Inventory, third (if not all 15%                     were covered) - Dead Inventory. The "MONTHLY CONSIDERATION"                     for the purpose hereof shall mean the total actual price due                     to Contractor from NICE hereunder for all Products during                     the preceding Quarter, divided by three (3).
+
+                    The foregoing shall apply only as of Q3 2002 - July 1st 2002                     (the first report of inventory as above shall be issued at                     the end of June 2002), and thereafter on a regular basis.
+
+                    In the event NICE has purchased any Permitted Component from                     Contractor as detailed above, Contractor is obligated to                     repurchase such Permitted Component for production of the                     next Forecast which requires such Permitted Component in                     accordance with the relevant procedure of Section 2.7 above                     (Nice Existing Inventory), at the price sold to NICE by                     Contractor excluding the surcharge of 4%.
+
+               No other compensation or components protection will be provided                by NICE except as explicitly detailed above or in Sections 16.7,                16.8 and 17.5 of this Agreement. Upon
+
+                                       17
+
+               payment of the aforementioned compensation for Permitted                Components, such items shall become the property of NICE, and                will be promptly delivered to NICE' facility in Israel, and, at                NICE' election and expense, shall be delivered to another                location in Israel identified to Contractor by NICE or, at NICE'                direction, disposed of by Contractor (in any manner selected by                Contractor). In any event, Contractor will make best reasonable                commercial efforts to decrease levels of inventory of Permitted                Components, by agreeing with its suppliers to decrease Purchase                Lead Times to 1 - 2 weeks at the most.
+
+          3.5. CHANGE ORDERS. Throughout all the assembly phases of a Product                during the Production Lead Time and any time before the Due Date,                NICE may issue Contractor with a Change Order. The issuance of                such Change Order and the execution by Contractor of such Change                Order, shall be in accordance with the provisions hereunder. Upon                issuance of a Change Order, Contractor will immediately execute                it and the Product price shall change in accordance with APPENDIX                C. The sole implication of a Change Order will be payment for                additional direct labor costs as detailed in APPENDIX C. Replaced                components and sub-assemblies will be returned to Contractor's                inventory at no charge to NICE (without derogating from the                specific provisions of this Agreement under which NICE is                obligated to purchase Permitted Components). The Product price                will be as after the implementation of the Change Order. For                Change Orders issued prior to commencement of the Production Lead                Time for any Product no charge will be incurred by NICE. Without                derogating from the aforementioned, Contractor will not charge                NICE for Change Orders during the first three (3) months of                production.
+
+          3.6. RESCHEDULING OF RELEASED ORDERS. NICE may, at its discretion,                reschedule delivery of units of Products for which a PO has                already been issued, by shortening the Due Date, without any                implication. In this respect, Contractor is aware that by the                last three weeks of every calendar Quarter, a high level of                flexibility is required to meet NICE' end of Quarter                requirements. Contractor will perform its best reasonable                commercial efforts to complete such rescheduled Products at the                new requested Due Date. All such rescheduling shall be performed                by sending Contractor a written request for rescheduling.
+
+          3.7. ORDERS ON HOLD. Prior to the Due Date, NICE may, at its                discretion, place Products manufactured according to PO's on hold                for a period not to exceed thirty (30) Days from the Due Date,                without any implications, by giving a written notice to                Contractor. Upon termination of such 30 Day period or earlier if                requested by NICE in writing, the Products on hold will be deemed                as cancelled and the provisions of Section 3.8 below shall apply.
+
+          3.8. CANCELLATION OF PURCHASE ORDERS. NICE may at its discretion, at                any time, cancel, in whole or in part, PO's of Products issued
+
+                                       18
+
+               pursuant to this Agreement subject to the delivery of prior                written notice, before the respective Due Date. Contractor, upon                receipt of such written notice of cancellation, shall stop work                on such units of Products if work has already commenced. Without                derogating from any liability to pay for Permitted Components as                set forth elsewhere in specific provisions this Agreement, NICE                shall have no liability for cancellation of a PO prior to the                Production Lead Time of the Product. For cancellation of a PO                during the Production Lead Time and until the Due Date, NICE'                liability for cancellation shall be limited to the following:
+
+
+
+
+
+               3.8.1. Payment of a fixed cancellation charge for all cancelled                     units of Products as specified in APPENDIX C. The fixed                     cancellation charge will be recalculated at the end of the                     first Quarter, based on the actual average time to                     disassemble a Product, as determined by Contractor and                     agreed to by NICE;
+
+               3.8.2. All the components/sub-assemblies will be returned to                     Contractor's inventory at no charge to NICE subject to and                     in accordance with the terms of this Agreement.
+
+               3.8.3. NICE shall not be responsible and shall not pay, in whole                     or in part, for Products manufactured outside the agreed                     Production Lead Time and/or without a written NICE Purchase                     Order.
+
+          3.9. Contractor shall use its best reasonable commercial efforts to                minimize Change Order charges and cancellation charges by                returning components for credit (with NICE' approval), canceling                components on order and applying components to other Contractor                projects (when possible, at the sole discretion of Contractor)                and minimizing all work-in-process.
+
+          3.10. ENGINEERING CHANGE REQUESTS (ECR'S). NICE shall be entitled, at                its sole discretion, from time to time to request any Engineering                Change Requests for any Product and Contractor is obligated to                propose ECR's to NICE when applicable at Contractor's opinion.                Contractor will respond to all Engineering Change Requests                initiated by NICE, according to the terms hereof. Contractor will                give NICE written notice, within three (3) Business Days of                receiving written notice of such ECR, of the date by which, and                at what cost, such ECR could be implemented based on the pricing                formula in APPENDIX C, and how the ECR effects existing PO's.                Contractor will charge NICE for ECR's in accordance with APPENDIX                C (an administrative cost of $25 per ECR of whatever size).
+
+          3.11. ENGINEERING CHANGE ORDERS (ECO'S). NICE may, at its discretion,                issue ECO's based on Contractor's response to the ECR's or based                on negotiated changes to Contractor's response. The                administrative cost for an ECO shall be $50 per ECO. Engineering                Change Orders effective dates (the date for completion of                implementation
+
+                                       19
+
+               of the ECO) shall be as agreed to by the parties and shall effect                the relevant Lead Times and dates accordingly, as detailed in the                ECO. Contractor shall approve every ECO issued as above within 2                Business Days. An ECO shall become binding on Contractor upon                written confirmation of receipt thereby. Contractor shall not                make any design changes or any other changes in the Products                without the prior written consent of NICE as reflected in an ECO.                The new Product price due to an Engineering Change Order, shall                be determined in accordance with APPENDIX C. Contractor shall                make all reasonable commercial efforts to minimize costs due to                ECO's. Notwithstanding the aforementioned in Sections 3.10. and                3.11., NICE shall not be charged for the first $1,000 due to                Contractor in any one month for ECR's and ECO's.
+
+          3.12. DISASSEMBLY OF PRODUCTS. From time to time, NICE may order                Contractor to disassemble Products after the Due Date. Upon such                request issued to Contractor, it shall promptly comply with the                request. Dismantled components will be consigned to Contractor's                inventory and stored in a special warehouse at Contractor's                facility, at no charge to NICE (the "RETURNED COMPONENTS"). NICE                will pay Contractor the original Product price and also a fixed                fee for dismantling as detailed in APPENDIX C. Thereafter,                Contractor will use the Returned Components first in the assembly                of any Products until no inventory of Returned Components                remains. Contractor will not charge NICE for any surcharge or                overhead for use of Returned Components in a Product.
+
+          3.13. SPARE PART MECHANISM. In addition to producing Products                hereunder, and in addition to Contractor's responsibilities under                its warranty obligation hereunder which are included in the                Product price as provided herein, Contractor will supply Spare                Parts to Customers upon request, as detailed in APPENDIX I                according to the applicable Production Lead Time. The price for                spare parts shall be in accordance with APPENDIX C and shall be                paid by NICE in accordance herewith.
+
+     4.   SCOPE; NEW PRODUCTS
+
+          4.1. The scope of this Agreement refers to the Products currently                detailed in APPENDIX A subject to the provisions of APPENDIX K.                The Manufacturing Outsourcing Services will be performed by                Contractor on a gradual basis as detailed hereinabove, and until                full performance of the Manufacturing Outsourcing Services by                Contractor for all Products.
+
+          4.2. Quotations by Contractor for new Products will be developed by                NICE in coordination with Contractor subject to the mutually                agreed upon pricing model set forth in APPENDIX C hereto. Other                terms applicable to new Products shall be identical to those                applicable to the current Products. Each such quotation requested
+
+
+
+
+
+               by NICE shall be provided to NICE on an expeditious basis.                Contractor shall develop a mutually agreeable quality program for                each new Product. The provisions of APPENDIX K - NICE Systems                Products Release Policy will apply to such new Products subject                to the terms hereof.
+
+5.   DUE DATE
+
+                                       20
+
+          5.1. Contractor shall target 100% on time delivery in compliance with                the Due Date. Contractor's performance regarding the Due Date                shall constitute a material obligation, and is an essential                element in this Agreement.
+
+          5.2. DELAYS. Immediately upon learning of any possible delays,                Contractor will notify NICE as to the cause and extent of such                delay. Contractor shall at once, exercise its best reasonable                commercial measures to minimize the possible delay, at no                additional cost to NICE. Such measures may include, inter alia,                acceleration of payments to Contractor's vendors if necessary.
+
+          5.3. LIQUIDATED DAMAGES. Any delay from the Due Date of a certain                Product in a certain Quarter, not due to a specific written                request by NICE or otherwise deriving from a breach of NICE'                undertakings hereunder and only to the extent deriving from such                breach by NICE, or caused by an event of Force Majeure, and                subject to the terms hereof, shall be considered a material                breach of Contractor's obligations under this Agreement and shall                entitle NICE to the following liquidated damages in addition to                any remedy available to NICE under this Agreement or by law:
+
+               5.3.1. One percent (1%) of the Product Price for a delay of 3 to                     5 Days.
+
+               5.3.2. Three percent (3%) of the Product Price for a delay of up                     to 10 Days.
+
+               5.3.3. Five percent (5%) of the Product Price for a delay of 11                     Days or more.
+
+               5.3.4. For the removal of doubt, when determining the liquidated                     damages due, the applicable sub-section 5.3.1, 5.3.2 OR                     5.3.3 will apply. In any event, the total liquidated damages                     as per this Section shall not exceed 5% of the Product                     Price.
+
+               5.3.5 The "PRODUCT PRICE" for the purpose of this Section 5.3.                     shall mean the total consideration which is due to                     Contractor for the Products being delayed at the relevant                     time.
+
+               5.3.6. In the event that following the delay, Contractor is in                     compliance with the Due Dates for two immediately                     consecutive Quarters and there is no delay whatsoever,                     Contractor will be reimbursed by NICE for liquidated damages                     already paid for delay in the previous Quarter (before the                     said 2 Quarters), if paid, without derogating from the                     previous delay being regarded as a breach hereunder.
+
+               5.3.7 NO RESPONSIBILITY FOR DUE DATE. Notwithstanding the                     aforementioned, Contractor shall be relived from its                     responsibility for the Due Date of any specific Product if                     all the following terms are met:
+
+                    (1)  Contractor notifies Nice promptly in writing of the                          delay and the detailed reasons for the delay;
+
+                    (2)  Contractor proves that such delay was caused by a                          worldwide event of component allocation or a worldwide                          event of Force Majeure (as defined in this Agreement)                          applying to a manufacturer of necessary components                          required for assembly of the Product and such                          components can not be purchased from another                          manufacturer, since the manufacturer with which                          Contractor has contracted (directly or through                          suppliers) is a single source manufacturer worldwide                          or, if there is more than one source - the above                          applies to all of them;
+
+                                       21
+
+                    (3)  Contractor proves, that it has employed all necessary                          measures, both upon contracting with the supplier                          (including but not limited to - contracting other                          suppliers) and after becoming aware of the delay, in                          order to ensure proper timely delivery by such supplier                          and in accordance with the agreed Purchase Lead Time in                          this Agreement;
+
+                    (4)  Contractor takes all required actions in order to                          minimize the effects of such occurrence and solve it.
+
+6.   SHIPMENT DATE, PACKING AND SHIPPING
+
+
+
+
+
+          6.1. PACKING. Contractor shall package each unit of Product according                to the standard NICE packing procedure and specifications in                accordance with the PDM System, or, if not specified by NICE,                according to good commercial standards. Every shipment to a NICE                Customer must include a Packing List issued by the Contractor,                attached to the packed Product. The Packing List is derived from                the Purchase Order and includes all the packed items in the                carton and all software licenses associated with the Product.
+
+          6.2. PREPARATION OF EXPORT SHIPMENTS. Contractor will be responsible                for preparing the shipment of the final Product to the Customer                by arranging the pallets and packing them according to NICE'                instructions as set forth in the PDM System.
+
+          6.3. DELIVERY. Unless agreed otherwise in the future, Contractor will                deliver finished Products to NICE' designated freight forwarder,                at Contractor's premises.
+
+          6.4. SHIPMENT DATES. The following Shipment dates shall apply:                Shipment plans that Contractor receives until 13:00, will be                ready until the end of the same Day (except that on weekend days                prior coordination will be required); Shipment plans that                Contractor receives after 13:00, will be ready until the end of                the next Day (except that on weekend days prior coordination will                be required).
+
+               Contractor's performance regarding the Shipment Date shall                constitute a material obligation, and is an essential element in                this Agreement.
+
+          6.5. INSPECTION. Products will be subject to inspection by NICE, or by                certified NICE' distributors according to the following                provisions, both prior to the Shipment Date while they are in the                finished goods warehouse and after the Shipment Date. During the                inspection, NICE may open cartons and boxes and unpack the                contents for inspection. An inspection will be coordinated if                possible. NICE may inform the Contractor if there is any mismatch                in Product quantities or if any damage was caused to the shipment                prior to delivery to NICE' freight forwarder in Contractor's                facility. In case of a quantity mismatch between the quantity                recorded on the packing documents and the actual quantity                received, NICE will notify Contractor
+
+                                       22
+
+               of the mismatch, and, subject to verification by Contractor,                Contractor will complete the missing quantity. In case where a                shipment is found damaged prior to delivery to NICE' freight                forwarder at Contractor's facility, the Contractor will replace                or repair the Product and deliver it back to such NICE' freight                forwarder at Contractor's facility, at Contractor's expense. If                there was no mismatch in quantities or no damage to the shipment                (as applicable), NICE will bear all risk and costs associated                with the delivery of shipment to Contractor and back.
+
+7.   [DELETED]
+
+8.   PAYMENTS
+
+          8.1. Initial prices as proposed in the Proposal are set out in                APPENDIX C. Within one month from signature of this Agreement,                the parties will amend the initial APPENDIX C according to                components purchase prices and supplier agreements obtained by                Contractor, but in no event will the relevant data exceed the                data included in the initial APPENDIX C, except with respect to                components sold to Contractor by NICE according to APPENDIX F and                Section 2.7, or further to changes in APPENDIX C made pursuant to                NICE' instructions under Sections 2.2, 2.3 or 2.4 of this                Agreement. Contractor will use reasonable commercial efforts to                improve the particulars in APPENDIX C and, amongst others,                shorten Liability. In the event of lack of agreement on the                amended APPENDIX C within one month from the signature date, the                initial Appendix C shall continue to apply until agreed                otherwise. It is clarified that labor prices in APPENDIX C will                not be amended as aforementioned regarding components. Contractor                hereby declares and undertakes that the details included in                APPENDIX C(as amended from time to time according to the                provisions of this Agreement) shall be the accurate details from                all of the relevant purchase agreements of Contractor with its                suppliers and components and sub assembly prices in APPENDIX C                shall be net purchase prices by Contractor without any overhead                or uplift. Thereafter, prices may be decreased or increased                according to the formula and at the timetables detailed herein                below.
+
+          8.2. COST ADJUSTMENTS. Product pricing shall remain firm for Products                for each Quarter, except as follows or as set forth in Sections,                2.2, 2.3, 2.4, 3.5, 3.8, 3.11, 8.1, 8.3, and hereunder in the                various subsections of Section 8.2:
+
+               8.2.1. The quoted cost of all components and sub-assemblies in                     each Product subject to this Agreement is or will be set                     forth in APPENDIX C or an agreed written amendment thereto.
+
+               8.2.2. NICE and Contractor shall continually work to introduce
+
+
+
+
+
+                    new cost reduction methods.
+
+                                       23
+
+                    Contractor shall make its best reasonable commercial efforts                     to reduce the cost of manufacturing Products, by methods                     such as elimination of components, obtaining alternate                     sources of materials, redefinition of specifications, and                     improved assembly or test methods, subject to NICE' written                     approval. Upon implementation of such methods initiated by                     Contractor, Contractor will enjoy one hundred percent (100%)                     of the cost reduction during the first Quarter and                     thereafter will reduce the price accordingly so that NICE                     will enjoy one hundred percent (100%) of the cost reduction.                     NICE will immediately enjoy one hundred percent (100%) of                     the cost reduction upon implementation of such methods                     initiated by NICE.
+
+               8.2.3. In the event there is a decrease in the cost of a                     component or sub-assembly purchased by Contractor for the                     purposes hereof, which affects the purchase price of such                     Product, Contractor shall document such decrease in costs                     and provide such information to NICE in writing, in                     reasonable detail, within three (3) Business Days of                     Contractor becoming aware of such decrease.
+
+               8.2.4. In case of a decrease as aforementioned, the purchase                     prices in APPENDIX C for units of the affected Product shall                     be adjusted accordingly.
+
+               8.2.5. In the event there is an increase in the cost of a                     Permitted Component purchased/to be purchased by Contractor                     for the purposes hereof, which affects the purchase price of                     such Product, Contractor shall provide NICE with copies of                     letters as elaborated below, together with a request for a                     "price increase" within one (1) Business Days of Contractor                     becoming aware of such increase. Contractor shall not                     purchase any such component until NICE approves it in                     writing. NICE shall approve/disapprove on the same Business                     Day it was notified by Contractor provided notice was                     received by 12:00. However, NICE may only reject a price                     increase if it can show that the Permitted Component is                     available at the a lower price. There are two permitted                     types of price increases:
+
+                    (i)  TEMPORARY PRICE INCREASE designated to meet the                          requested Due Date, in the event of receiving a                          Purchase Order/Forecast for which the Purchase Lead                          Time is shorter than the normal Purchase Lead Time of                          the relevant components detailed in APPENDIX C or due                          to an Engineering Change Order which affects the Due                          Date. Contractor shall provide NICE with copies of                          letters of approach to at least 3 suppliers that are                          known in the market and accepted commonly (if 3                          suppliers exist for such component) and their response.                          In such event, NICE will pay Contractor the difference                          between the original price and the actual price for                          those components purchased after the increase.
+
+                                       24
+
+                    (ii) CONSTANT PRICE INCREASE caused by a change in the                          market trend. Market trend increase requests will be                          explained by providing NICE with copies of letters of                          approach to at least 3 suppliers that are known in the                          market and accepted commonly (if 3 suppliers exist),                          and their response. NICE will pay Contractor the                          difference between the original price and the actual                          price for those components purchased after the increase                          within the Quarter, and thereafter APPENDIX C shall be                          updated accordingly.
+
+          8.3. COST REVIEW. During each calendar Quarter, no later than the                third week of the Quarter, the parties will jointly review the                costs, costs reduction, volume performance of Contractor and                NICE, respectively, and other performance parameters to be                mutually agreed upon by the parties. The pricing and other                details referenced in APPENDIX C shall be jointly reviewed by the                parties at an agreed upon frequency and may be modified with the                mutual written agreement of the parties.
+
+          8.4. PAYMENT TERMS.
+
+               8.4.1. Payment by NICE is due current thirty (30) Days from the                     date of receipt of the invoice, on the 2nd or 16th of the                     month, whichever is following the invoice date and may be                     made by check or wire transfer. Purchase Orders, invoices                     and payments will be presented and effected in US dollars.
+
+               8.4.2. Dates of issuance of invoices by Contractor: 1. for                     Products - upon the actual Due Date of Products. 2. for                     inventory of Permitted Components - one day before the                     beginning of the First Quarter as defined in Section 3.4(A).                     3. for amounts outstanding upon termination according to the
+
+
+
+
+
+                    relevant provisions of this Agreement - upon termination. 4.                     for other amounts - upon the date on which the payment                     becomes due under this Agreement.
+
+               8.4.3. Payment by Contractor is due current thirty (30) Days from                     the date of receipt of the invoice, except as set forth in                     Section 8.4.4(2) below, and may be made by check or wire                     transfer. Invoices and payments will be presented and                     effected in US dollars.
+
+                                       25
+
+               8.4.4. Dates of issuance of invoices by NICE: 1. for inventory of                     Permitted Components repurchased - at the end of the month                     in which such components were repurchased by Contractor. 2.                     for NICE existing inventory purchased by Contractor                     according to Section 2.7 - upon commencement of the first                     production Quarter with respect to inventory to be purchased                     on such date, upon the commencement of the second production                     Quarter with respect to inventory to be purchased on such                     date, and the remainder upon the relevant Purchase Lead                     Times for each component. The payment of said invoices will                     be made on a current thirty basis from the date of use of                     such inventory by Contractor based on the most updated                     Forecast. 3. For Permitted Components purchased from                     Contractor according to Section 3.4.(A) - upon the relevant                     Purchase Lead Times for each component. 4. For other amounts                     - upon the date on which the payment becomes due under this                     Agreement.
+
+          8.5. TAXES. Each party shall deduct such taxes from the payments due                to the other party hereunder as required by law including                withholding taxes (unless an exemption is provided), and shall                promptly furnish such other party with appropriate tax receipts.                Each party will be solely responsible for any and all taxes                imposed thereon, including, without limitation, all income taxes,                sales taxes, goods and services taxes. Israel value added tax                shall be added, if applicable, to all amounts payable hereunder                and will be paid against submission of appropriate tax invoices.
+
+          8.6. The consideration detailed in the Agreement is the full and                entire consideration due to Contractor for the services                stipulated hereunder and Contractor shall not be entitled to any                other payment or reimbursement of expenses of any kind with                respect thereto.
+
+9.   REPRESENTATIONS AND WARRANTIES
+
+          9.1. Contractor hereby warrants to NICE that it has the full corporate                power and authority to enter into this Agreement and to perform                its obligations hereunder; that no impediment exists to                Contractor entering into this Agreement, and no other agreement                has been or will be made with any third party which will have a                detrimental effect on Contractor's ability to fulfill its                obligations under this Agreement.
+
+          9.2. Contractor hereby warrants to NICE that it has ascertained the                nature of the Manufacturing Outsourcing Services and its own                ability to perform such Manufacturing Outsourcing Services, and                that all Manufacturing Outsourcing Services provided by                Contractor hereunder will be performed in a professional and                workmanlike manner by a sufficient number of individuals with                appropriate skills and training for the applicable task using                systems and processes which are sufficient to accomplish the                Contractor performance
+
+                                       26
+
+               obligations under this Agreement. In addition, without derogating                from any undertaking, warranty or representation of NICE included                in the Agreement, Contractor acknowledges and agrees that prior                to the entering into this Agreement it has had the ability to                perform a due diligence investigation into the manufacturing,                production, testing and delivery as performed by NICE up to and                including the date hereof, that it has in fact performed such an                investigation and that based upon the outcome thereof, it                believes that it has the professional and other capabilities to                perform the Manufacturing Outsourcing Services as set forth                herein in a professional and workmanlike manner.
+
+          9.3. Contractor further warrants that it is duly licensed, authorized,                or qualified to do business and in good standing in every                jurisdiction in which a license, authorization, or qualification                is required for the ownership or leasing of its assets, of the                transactions of business of the character transacted by it except                where the failure to be so licensed, authorized, or qualified                would not have a material adverse effect on Contractor's ability                to fulfill is obligations under this Agreement.
+
+          9.4. PRODUCT WARRANTY. Contractor warrants to NICE that each of the                Products manufactured, configured or tested by Contractor will                have been manufactured, configured and tested in conformance with                the Specifications therefor as provided by NICE and be free from                defects in workmanship or material for the Warranty Period. It is
+
+
+
+
+
+               clarified for the avoidance of doubt, that the aforesaid warranty                of Contractor for the Products applies to the entire Product,                including components and workmanship, except when the defect or                malfunction results from the design, NICE Software or the Nice                Components supplied by NICE under this Agreement if Contractor                cannot obtain warranty service for same from the supplier (and                Contractor shall notify NICE accordingly), for which NICE shall                be responsible.
+
+          9.5. Contractor shall be responsible for procurement of components as                set forth herein, inspection of components, and safe handling of                the components while in-house at Contractor's premises.
+
+          9.6. RMA. Should a Product fail to be in conformity with the above                warranties during the Warranty Period, NICE shall deliver the                Product to Contractor at its expense, Contractor shall repair or                replace the Product at no charge (as set forth in Section 9.7                below), and will cover all shipment and delivery costs of                therepaired or replaced Product from Contractor's facility to                NICE' Customer location (whether in Israel or abroad). In the                case that the determination according to Section 9.9 below, is                that Contractor's warranty hereunder does not apply, NICE will                bare all shipment and delivery costs of the Product/s and their                return, and of any repair/replacement costs if requested by NICE,                according to APPENDIX C. Detailed procedures to be executed by                Contractor concerning the repair of defective/malfunctioning                Products subject to the warranty hereunder are included in                APPENDIX N - Return Material Authorization ("RMA").
+
+                                       27
+
+          9.7. WARRANTY SERVICE. Contractor shall replace any such Product with                a new Product except when the defect is in the NICE proprietary                boards, in which case Contractor may repair the Product.                Contractor will deliver the repaired or replacement unit to NICE,                within seven (7) Days of Contractor's receipt of such Product or                parts thereof. NICE may require a shorter repair and replacement                time for up to ten percent (10%) of the returned Products for                warranty service, and Contractor shall use its best reasonable                commercial efforts to accommodate same.
+
+               NICE shall provide Contractor a spares forecast for warranty                requirements for the period up and until July 1, 2002. If during                such period, the spare parts required for warranty service alone                exceed the spares forecast provided by NICE, NICE shall sell                Contractor the missing spares at the prices specified in APPENDIX                C. Nevertheless, NICE shall have no liability in the event the                spares forecast exceeds the actual spares used during that                period. As of July 1, 2002 purchasing of spares in order to                comply with the warranty obligations shall be the sole                responsibility of Contractor and no forecast shall be provided.
+
+               On or about July 1, 2002 the parties will review the said 7 days                timetable, and any changes in such timetable shall need to be                agreed in advance in writing, both Parties acting reasonably and                in good faith. Nothing contained in the foregoing shall obligate                NICE to change such warranty timetable since its Customer                obligations are dependent on it.
+
+               The units of Products for which action may be required under this                warranty shall be returned to Contractor's manufacturing                facility, at NICE' expense, with an accompanying Contractor                supplied RMA and correction / replacement time shall commence                upon return of the defective Product to Contractor's facility.                The RMA will include a packing slip only and will not include an                invoice.
+
+          9.8. ADVANCED RMA. From time to time, NICE may request that the                Contractor supply RMA to NICE Customers prior to receipt by                Contractor of the failed Products. In such event, replacement                time shall be 7 Days of receipt of the RMA and NICE will be                responsible for the return of the failed Product or parts                thereof, respectively, to the Contractor within sixty (60) Days                from the delivery of the said RMA. If the failed Product is not                returned within same period, Contractor shall invoice NICE for                the replaced Product supplied.
+
+          9.9. DETERMINING DEFECT SOURCE. NICE and Contractor will use their                best commercial efforts to determine whether a defect in a unit                of Product exists and the reason for such defect. In the event of                dispute
+
+                                       28
+
+               whether the source of a defect is subject to Contractor's                warranty as detailed in Section 9.4, the parties will assign a                joint MRB (Material Review Board) team to determine the source of                defect, whose decisions must be mutually agreed to by both                parties. NICE shall perform any investigation/examination                reasonably requested by Contractor. In the event that the joint                MRB team can not reach a mutually agreed decision, Contractor                shall be deemed responsible for the warranty repair or                replacement, unless Contractor proves otherwise, and NICE shall                supply Contractor with all necessary information to assist in
+
+
+
+
+
+               such determination. It is clarified that in the event of a                dispute as aforementioned regarding the source of a defect,                Contractor shall, nevertheless, continue its warranty obligations                in a timely manner and will not withhold delivery of repaired and                replaced Products, but may demand further investigation by the                MRB team as above.
+
+          9.10. WARRANTIES PROVIDED BY THIRD PARTIES. If and to the extent                warranties provided by third parties for components or                sub-assemblies (forming an integral part of the defective Product                sold to NICE hereunder) that Contractor/anyone on its behalf                purchases under this Agreement, exceed the Warranty Period                hereunder, Contractor shall ensure that NICE will benefit from                such warranties included in agreements with suppliers as detailed                in Section 2.2 above and use its best reasonable commercial                efforts so that NICE may benefit from such warranties included in                agreements with suppliers as detailed in Section 2 above, at                Contractors' expense. Contractor will cooperate with NICE in its                efforts to exercise its rights under such warranties for their                entire duration. The aforementioned shall apply both during and                after the term of this Agreement.
+
+          9.11 POST-WARRANTY RMA. Contractor shall provide post-Warranty RMA                services to NICE in accordance with the procedures in APPENDIX N                and the prices in APPENDIX C.
+
+9A.  NICE REPRESENTATIONS AND WARRANTIES
+
+     9A.1. NICE hereby warrants to Contractor that it has the full corporate           power and authority to enter into this Agreement and to perform its           obligations hereunder; that no impediment exists to NICE entering into           this Agreement, and no other agreement has been or will be made with           any third party which will have a detrimental effect on NICE' ability           to fulfill its obligations under this Agreement.
+
+     9A.2 NICE hereby warrants to Contractor that it has the financial ability           to perform its obligations under this Agreement.
+
+                                       29
+
+10.  AUDIT AND ACCESS
+
+     10.1. REPORTS. Contractor shall provide to NICE periodical reports in the           format acceptable by NICE and agreed by Contractor, which shall be           submitted each week, unless agreed otherwise in writing. In addition,           NICE may request other reports pertaining to the Outsourcing           Manufacturing Services and Contractor will promptly comply with such           requests, to the extent reasonable.
+
+     10.2. GENERAL. NICE shall have the rights to conduct audits of the           Manufacturing Outsourcing Services and related facilities, systems,           and records as set forth in this Section 10 for the purpose of           auditing Contractor's compliance with the provisions of this           Agreement, all subject to the limitations below. The audits shall           include the physical equipment designated for the Manufacturing           Outsourcing Services provided hereunder, the facility at Contractors'           premises designated for the Manufacturing Outsourcing Services           including the finished goods warehouse, the inventory designated for           the Manufacturing Outsourcing Services provided hereunder and any           records, supporting documentation, equipment and information           pertaining solely to NICE and this Agreement, provided that with           regard to records pertaining to inventory/components, in addition to           the particulars detailed in Sections 2.2 and 2.3, NICE will have           access to the ERP system at Contractor's facility only (including for           the avoidance of doubt, the modules of the ERP system dealing with           invoices and invoicing). No documents or data of any kind, or any           copies, may be removed from Contractor's facility and all audits shall           be performed within such facility only.
+
+     10.3. Such audits are expected to occur frequently given the significant           security and business practices concerns inherent in the Manufacturing           Outsourcing Services and NICE shall have the sole discretion, not to           be unreasonably applied, to determine the frequency. NICE agrees to           conduct the audits in a reasonable manner so as not to cause undue           disruption to Contractor's provision of the Manufacturing Outsourcing           Services and such audits shall be conducted during business hours, and           shall be coordinated with Contractor. In the course of such audits           Contractor shall provide, and shall cause its Permitted Subcontractors           to provide, such auditors any reasonable assistance that they may           require. Such reasonable assistance shall be provided as part of the           Manufacturing Outsourcing Services.
+
+     10.4. If any audit by an auditor designated by NICE results in Contractor           being notified that it or its Permitted Subcontractors are not in           compliance with any law or regulation, Contractor shall, and shall           cause its Permitted Subcontractors to, take actions to comply with           such law or regulation, at Contractor's or its Permitted           Subcontractor's expense.
+
+                                       30
+
+     10.5. RESULTS OF AUDITS. If, as a result of an audit, NICE determines that           Contractor has undercharged or overcharged NICE, NICE shall notify           Contractor in writing of the amount of such undercharge or overcharge,
+
+
+
+
+
+          and shall specify the relevant data and the reasoning for its           determination. If Contractor agrees in writing, an appropriate           adjustment shall promptly be paid to NICE or Contractor. In the event           Contractor believes that it has complied with the relevant law,           regulation or this Agreement, and has not overcharged or undercharged           NICE, it shall so notify NICE in writing upon receipt of NICE' audit           results shall specify the relevant data and the reasoning for its           determination and the parties will attempt to determine the issue in           mutual consent.
+
+     10.6. CONTRACTOR RECORD RETENTION AND ACCESS. As part of the Manufacturing           Outsourcing Services, Contractor shall (1) retain records and           supporting documentation detailed in Section 10.2 above if and to the           extent such record retention is required by tax or similar           authorities, and/or exists in the ERP system, and/or is common           practice in the industry, including but not limited to - production           files for the following periods: 7 years for records required by tax           or similar authorities and ERP data, 3 years for production files,           otherwise as required by law or as is the common practice, and (2)           upon notice of no less than five (5) Days from NICE, provide NICE and           its designees with reasonable access to such records and documentation           for the purpose of conducting NICE' business and reporting. Such           access shall only be provided to audit personnel who have signed           towards Contractor a non-disclosure undertaking incorporating terms           which are substantially the same as those in APPENDIX E.
+
+     10.7 All audits of all kind by NICE shall be subject to the confidentiality           obligations of NICE to Contractor detailed in this Agreement.
+
+11.  SAFETY AND SECURITY, FACILITIES, NON-GENERIC EQUIPMENT
+
+     11.1. SAFETY AND SECURITY. Contractor shall maintain and observe, at its           premises, all the safety and security requirements detailed in           APPENDIX H and ascribed by law.
+
+     11.2. SECURITY SERVICES. Contractor shall institute, maintain, and monitor           security services for all Manufacturing Outsourcing Services in           accordance with APPENDIX H.
+
+          Contractor's security procedures shall be subject to audit as set           forth in Section 10.
+
+     11.3. FACILITY. Contractor's facility at which the Manufacturing           Outsourcing Services will be performed shall comply, at a minimum,           with the requirements set forth in APPENDIX H.
+
+                                       31
+
+     11.4. APPROVAL OF LOCATION. NICE shall have the right to approve or           disqualify each location at which Contractor is providing any of its           services hereunder. Contractor agrees that the Manufacturing           Outsourcing Services will be performed in a dedicated space in           Contractor's facility in which no production of competing products           will be conducted. Access to the NICE production lines will be limited           only to Contractor's employees performing the Manufacturing           Outsourcing Services and NICE representatives.
+
+     11.5. NON GENERIC EQUIPMENT. During the term of this Agreement, the Non           Generic Equipment shall be furnished to Contractor (without charge)           and used in Contractor's premises for purposes of performing its           various obligations under this Agreement, according to the terms           hereof. Such Non Generic Equipment shall:
+
+          (1)  Be clearly marked and identified as NICE' property.
+
+          (2)  Be safely stored, adequately maintained and insured against loss                or damage under Contractor's existing policies detailed in                APPENDIX D. In the event such Non Generic Equipment is damaged,                lost or destroyed, Contractor shall be liable towards NICE to                repair or replace such equipment (at Contractor's choice).
+
+          (3)  Remain the sole property of NICE, and therefore shall be kept                free of liens and encumbrances imposed on Contractor's property.
+
+          (4)  Be returned to NICE upon request, or upon termination of this                Agreement, at the same condition as originally furnished to                Contractor except for normal wear and tear. Notwithstanding                anything to contrary, if NICE requests to have the Non Generic                Equipment returned thereto prior to the termination of the                relevant services hereunder, Contractor shall have no liability                or obligation for the performance of any obligations hereunder                for which such Non Generic Equipment is reasonably required.                Contractor shall notify NICE in writing in detail of the                aforementioned, promptly upon NICE' request to receive the Non                Generic Equipment.
+
+          (5)  Be used according to NICE' written instructions and information                concerning such Non Generic Equipment.
+
+          (6)  Shall not be used by Contractor for any other purpose except for                NICE' needs and shall be dedicated for performance of this                Agreement.
+
+          (7)  Nevertheless, NICE may request Contractor to purchase some Non                Generic Equipment by itself and in such event Contractor shall
+
+
+
+
+
+               invoice NICE for the purchase price. Such equipment shall be                deemed for all purposes as part of the "Non Generic Equipment"                and shall be sold to NICE upon termination of this Agreement for                any reason, at a total sale price of 1$.
+
+                                       32
+
+12.  CONFIDENTIAL INFORMATION, INTELLECTUAL PROPERTY AND INTELLECTUAL PROPERTY      INDEMNIFICATION, PUBLICITY
+
+     12.1 OWNERSHIP AND LICENSE RIGHTS. NICE or its customers, partners,           suppliers, and contractors shall be the sole owner of all NICE           Proprietary Information and NICEIntellectual Property (as defined           below) to which Contractor has access in the performance of the           Manufacturing Outsourcing Services including but not limited to - in           connection with the Products. Except for the licenses granted herein,           Contractor or anyone on its behalf shall not acquire any right, title,           or interest to the NICE Proprietary Information and/or NICE           Intellectual Property. Especially, but without limitation, NICE shall           remain the owner of all NICE Proprietary Information and NICE           Intellectual Property in connection with the design of the Products           and the NICE Software. For the purposes hereof, "NICE INTELLECTUAL           PROPERTY" shall mean Intellectual Property conceived, created, reduced           to practice or developed by NICE and/or for NICE by a third party,           and/or for NICE by Contractor (including anyone on its behalf) in           accordance with this Agreement, for the purpose of performing the           Manufacturing Outsourcing Services.
+
+     12.2. CONFIDENTIALITY BY CONTRACTOR. Contractor will provide the           Manufacturing Outsourcing Services in a manner that complies with the           Confidentiality requirements of APPENDIX E. Contractor shall not:           transfer to others, copy or duplicate, sub-license, sell, publish,           display or otherwise make available in any form or disclose, the NICE           Proprietary Information and/or the NICE Software and/or the NICE           Intellectual Property, to any third party, except to           suppliers/manufacturers of components and/or sub assemblies that           require specifications for their supply, in which case they shall be           required by Contractor to execute a Confidentiality Agreement in the           form of APPENDIX E VIS-A-VIS NICE. Contractor shall use the same           degree of care with respect to NICE Proprietary Information as it uses           in protecting its own proprietary information and trade secrets.
+
+          Without derogating from the aforementioned, Contractor shall not, in           any way or manner, directly or indirectly, engineer, reverse engineer,           compile, decompile or reverse assemble the NICE Software, or analyze           or otherwise examine the NICE Software for the purpose of reverse           engineering.
+
+     12.3. In addition, Contractor shall not disclose the NICE Proprietary           Information to any Personnel, except on a need to know basis as           required in order to implement this Agreement. Contractor undertakes           to procure that its Personnel and Permitted Subcontractors engaged in           performance of this Agreement (except subcontractor's employees who do           not have access to the NICE production lines at Contractor's           premises), and reasonably designated by NICE in advance in writing,           have signed a non-disclosure agreement in the form of APPENDIX E,           prior to receipt of any NICE Proprietary Information.
+
+                                       33
+
+          12.3A Notwithstanding anything to the contrary, Contractor shall have                no liability with respect to disclosure of NICE Proprietary                Information if such information came into the possession of the                Contractor independently of this Agreement, through a breach of                obligation of secrecy of a third party to NICE, of which                Contractor was not aware and should not have been aware if                Contractor had exercised due care.
+
+     12.4. CONFIDENTIALITY BY NICE. NICE shall not: transfer to others, copy or           duplicate, sub-license sell, publish, display or otherwise make           available in any form or disclose, the Contractor's Proprietary           Information, to any third party, except for the purpose of performing           this Agreement. NICE shall use the same degree of care with respect to           such Contractor's Proprietary Information as it uses in protecting its           own proprietary information and trade secrets. All rights in           Contractor's Proprietary Information, shall remain solely with           Contractor. Notwithstanding the aforesaid, it is agreed that any           manufacturing methods applied by Contractor, which are Contractor's           Proprietary Information, may be used by NICE itself (including its           Affiliates) (but may not be transferred/disclosed to any third party)           and by signing this Agreement Contractor hereby grants NICE a           personal, non exclusive, non transferable, perpetual license to use           such manufacturing methods.
+
+          12.4A Notwithstanding anything to the contrary, NICE shall have no                liability with respect to disclosure of Contractor Proprietary                Information if such information came into the possession of NICE                independently of this Agreement, through a breach of obligation                of secrecy of a third party to Contractor, of which NICE was not                aware and should not have been aware if NICE had exercised due                care.
+
+     12.5. LEGAL OBLIGATION TO DISCLOSE. In the event a party is required to           disclose Proprietary Information of the other party, by applicable law
+
+
+
+
+
+          or by any government in the exercise of its lawful authority, the           party so required shall (i) promptly notify the other party in           writing, and, at the other party's expense: (ii) use reasonable and           lawful efforts to resist making any disclosure of Proprietary           Information not approved by the other party, (iii) use reasonable and           lawful efforts to limit the amount of Proprietary Information to be           disclosed pursuant to any such disclosure, and (iv) cooperate with the           other party to obtain a protective order or other appropriate relief           to minimize the further dissemination of any Proprietary Information           to be disclosed pursuant to any such disclosure.
+
+     12.6. INTELLECTUAL PROPERTY INDEMNIFICATION BY CONTRACTOR. Contractor shall           indemnify, hold harmless and defend NICE from and against any and all           damages (including all damages awarded to a third party and payable by           NICE), costs, losses, and expenses (including settlement awards and           reasonable attorney's fees) arising from any claim or suit made           against NICE or a third party which NICE is obligated to indemnify, by           a third party based on the allegation that the Products infringe or           violate any Intellectual Property right due to the components and/or           sub assemblies supplied by Contractor hereunder and/or the           manufacturing processes and methods as performed by Contractor           hereunder. Contractor shall include in all its agreements with           suppliers/ manufacturers provisions regarding Intellectual Property           indemnification substantially similar to those included in this           Agreement, providing inter alia that they are freely assignable to           NICE without any modification or consent.
+
+                                       34
+
+          Nevertheless, in the event NICE designates specific components to be           purchased by Contractor hereunder and the manufacturer/supplier of           such NICE designated components refuses to grant Contractor           indemnification for infringement of Intellectual Property rights,           despite Contractor performing its best reasonable commercial efforts           to obtain such indemnification (which Contractor shall prove to NICE           by submission of copies of its correspondence with the manufacturer           including the manufacturer's response), then if NICE approves purchase           of such components, Contractor shall not be responsible for           Intellectual Property indemnification due to those specific           components.
+
+          For the removal of doubt, Contractor shall not be liable for any           infringement of an Intellectual Property right due to any NICE           Proprietary Information, NICE Intellectual Property, NICE Software,           Non Generic Equipment (if used in accordance with the instructions           provided by NICE), and due to performance as is of NICE written           instructions including specifications and design.
+
+               Contractor's indemnification as provided under this Section shall                apply only if: Contractor is notified promptly in writing of any                notice of a claim or of a threatened or actual suit; and is given                control of the defense thereof and all related settlement                negotiations; and, NICE provides, at Contractor's request and                expense, all reasonable cooperation and assistance for the                defense and negotiations of the claim. Nevertheless, in the event                the claim or suit is based on the allegation that the Products                infringe or violate any Intellectual Property right due to the                components and/or sub assemblies supplied by Contractor hereunder                which were designated by Nice as aforementioned, and the supplier                / manufacturer of the infringing component has an indemnity                undertaking as above towards Contractor; (i) which is assignable                to NICE and Contractor promptly assigns to NICE such                indemnification undertaking from its supplier / manufacturer;                (ii) which is unassignable to NICE but Contractor notifies NICE                promptly in writing of any notice of the claim or of a threatened                or actual suit; and gives NICE on behalf of Contractor and NICE'                chosen counsel control of the defense thereof and all related                settlement negotiations; then in both such instances Contractor                shall not be responsible for Intellectual Property                indemnification with respect thereto. In all other events,                Contractor shall conduct the litigation as aforementioned.
+
+     12.7. Following establishment of infringement of Intellectual Property by a           competent authority including at interlocutory proceedings, whether           Contractor is responsible therefor or not, NICE may issue an ECR and           Contractor will handle such ECR and the corresponding ECO promptly in           accordance with Sections 3.10, 3.11.
+
+     12.8. INTELLECTUAL PROPERTY INDEMNIFICATION BY NICE. NICE shall indemnify,
+
+                                       35
+
+          hold harmless and defend Contractor from and against any and all           damages (including all damages awarded to a third party and payable by           Contractor), costs, losses, and expenses (including settlement awards           and reasonable attorney's fees) arising from or in connection with any           claim or suit made against Contractor or a third party which           Contractor is obligated to indemnify, by a third party based on an           allegation that the Products and/or the NICE Software infringe or           violate any Intellectual Property right, including due to the use of           any NICE Proprietary Information, NICE Intellectual Property, NICE           Software, Non Generic Equipment (if used in accordance with the           instructions provided by NICE), or due to performance as is of any           NICE written instructions including specifications and design, but
+
+
+
+
+
+          excluding any allegation that the Products infringe or violate any           Intellectual Property right due to the components and/or sub           assemblies supplied by Contractor hereunder and/or the manufacturing           processes and methods as performed by Contractor hereunder for which           Contractor is liable as per Section 12.6. above.
+
+          NICE' indemnification as provided under this Agreement shall apply           only if: NICE is notified promptly in writing of any notice of a claim           or of a threatened or actual suit; and is given control of the defense           thereof and all related settlement negotiations; and, Contractor           provides, at NICE' request and expense, all reasonable cooperation and           assistance for the defense and negotiations of the claim.
+
+     12.9. EMPLOYEE AND CONTRACTOR INDEMNIFICATION. Each of the parties agrees           that it will indemnify the other party against any and all claims           hereafter brought or asserted by any person against the other party           relating to any alleged or actual action or omission to act by the           indemnifying party arising from, or in connection with, such person's           status as an employee or independent Contractor of the indemnifying           person or the termination of such status.
+
+     12.10. PUBLICITY. Except with the express written consent of NICE,           Contractor shall not make any press announcement or publicize this           Agreement or any matters relating to any of the transactions           contemplated hereby or use NICE' name or trademark in any way           whatsoever, except to the extent required to comply with applicable           laws or governmental regulations, provided that Contractor acts           according to Section 12.5.
+
+13.  INSURANCE
+
+     13.1. Contractor shall be liable for the total or partial loss of or damage           to the components and/or the Products in so far as such loss or damage           has occurred while in Contractor's possession and until delivery of           the Products to NICE' freight forwarder at Contractor's facility.
+
+                                       36
+
+     13.2. Without limiting any of the obligations or liabilities of Contractor,           whether under this Agreement or by law, subject to any limitations           hereunder, Contractor shall maintain, and shall cause any           subcontractors engaged by Contractor to provide services under this           Agreement to maintain, at Contractor's own expense, as long as this           Agreement is in effect, insurance policies of the kind and limits as           set forth in APPENDIX D to this Agreement. The expense of such           insurance shall be borne by Contractor. The Contractor shall keep in           force the policies specified in sections 1 and 3 to the Insurance           Certificate valid as long as Contractor's legal liability EXISTS IN           CONNECTION WITH OPERATIONS ACCORDING TO THE AGREEMENT.
+
+          It is Contractor's responsibility to ensure that the insurance           requirements set forth in APPENDIX D to this Agreement remain in           effect for the term of this Agreement.
+
+     13.3. Within ten (10) Days of the execution of this Agreement, Contractor           shall furnish to NICE certificates of insurance evidencing full           compliance with the insurance requirements as set forth in APPENDIX D           to this Agreement. Certificates of Insurance shall be kept current           throughout the entire term of this Agreement.
+
+     13.4. The carrying of any insurance required hereunder shall not be           interpreted as relieving Contractor of any responsibility and/or           undertaking to NICE according to the provisions of this Agreement or           by law. Contractor shall give prompt notice of all losses or claims of           which Contractor has knowledge which may be in any way related to this           Agreement and Contractor shall assist and cooperate with any insurance           company in the adjustment or litigation of all claims arising under           this Agreement or by law and indemnifiable by Contractor under this           Agreement or by law.
+
+     13.5. NICE shall include in its property policies a waiver of subrogation           clause against the Contractor, its directors and any one on its           behalf, provided that such waiver will not be valid towards a person           which caused malicious damage.
+
+14.  [Deleted]
+
+15.  FUNDAMENTAL BREACH AND REMEDIES
+
+     15.1. Except as provided in Sections 15.2 and 15.3, any breach by any Party           of this Agreement which was not remedied within forty-five (45) Days           from the date of notice, shall be regarded as a fundamental breach.
+
+     15.2. Notwithstanding the aforementioned in Section 15.1, any delay in the           Due Date and/or Shipment Date, which was not remedied within thirty           (30) Days from the date of notice for the first delay, and any           subsequent delay upon notice (i.e. any second delay, even if the first           one was less then 30 days) shall be regarded as a fundamental breach.
+
+                                       37
+
+     15.3. Notwithstanding the aforementioned in Section 15.1, unjust delay in           payment by NICE exceeding sixty (60) Days from the date of notice for           the first delay, exceeding seven (7) Days from the date of notice for
+
+
+
+
+
+          the second delay (i.e. any second delay, even if the first one was           less then 60 days) and exceeding the date of notice for any subsequent           delay (i.e. any subsequent delay, even if the second one was less then           7 days) , shall be regarded as a fundamental breach. Notwithstanding,           any delay in any payment by NICE shall bear a default interest, as of           the first Day of delay, to be compounded daily, at the rate applicable           at Bank Hapoalim B.M. at the relevant time for unauthorized overdrawn           current accounts.
+
+     15.4. Notwithstanding anything to the contrary contained herein or           otherwise, Contractor's liability to NICE for any indirect, special,           incidental, exemplary or consequential damages as a result of any           claim arising under this Agreement or in connection therewith,           regardless of whether Contractor has been advised of the possibility           of such damages, shall not exceed five million US dollars ($5,000,000)           in the aggregate for all claims, except for infringement of           Intellectual Property rights for which Contractor is liable under           Section 12.6. This Section shall not be construed or used in the           construction of this Agreement as imposing on Contractor any liability           for which it is not otherwise liable. Further, this Section shall not           be construed as derogating from any applicable law which cannot be           changed or waived by contract.
+
+     15.5. Notwithstanding anything to the contrary contained herein, NICE'           liability to Contractor for any indirect, special, incidental,           exemplary or consequential damages as a result of any claim arising           under this Agreement or in connection therewith, regardless of whether           NICE has been advised of the possibility of such damages, shall not           exceed five million US dollars ($5,000,000) in the aggregate for all           claims, except for infringement of Intellectual Property rights for           which NICE is liable under Section 12.8. This Section shall not be           construed or used in the construction of this Agreement as imposing on           NICE any liability for which it is not otherwise liable. Further, this           Section shall not be construed as derogating from any applicable law           which cannot be changed or waived by contract.
+
+16.  TERM AND TERMINATION
+
+     16.1. TERM AND TERMINATION. The initial term of this Agreement shall           commence on the Effective Date and extend for three (3) years           thereafter ("INITIAL TERM"), with an automatic renewal for an           indefinite period of time ("EXTENDED TERM"), unless terminated by the           parties according to Sections 16.2. or 16.3. herein.
+
+     16.2. Notwithstanding the aforesaid in Section 16.1. and any possible           implication to the contrary herein or as a result of the course of           conduct of the parties, NICEshall be entitled, at its sole discretion,           to terminate this Agreement, in whole or in part, at any time during           the Initial Term or the Extended Term, with or without cause, upon a           prior written notice of termination to Contractor of not less than           forty-five (45) Days.
+
+                                       38
+
+     16.3. Notwithstanding the aforesaid in Section 16.1. and any possible           implication to the contrary herein or as a result of the course of           conduct of the parties, Contractor shall be entitled, at its sole           discretion, to terminate this Agreement only during the Extended Term,           with or without cause, upon a prior written notice of termination to           NICE of not less than six (6) months.
+
+     16.4. Either party shall be entitled to terminate this Agreement, following           a fundamental breach of this Agreement by the other party.
+
+     16.5. Either party shall be entitled to terminate this Agreement upon the           other party seeking an order for relief under the bankruptcy laws of           the State of Israel or similar laws of any other jurisdiction, a           composition with or assignment for the benefit of creditors, or           dissolution or liquidation. NICE shall be entitled to terminate this           Agreement upon the merger or acquisition of all or substantially all           the business or assets of Contractor (except if within the           Flextronix's group and provided Contractor remains an Israeli entity).
+
+     16.6. EFFECT OF TERMINATION.
+
+          16.6.1. Upon notice of termination of this Agreement for any reason                whatsoever, the parties shall execute rapidly and efficiently the                procedure for termination of the Manufacturing Outsourcing                Services by Contractor and the transfer of production to NICE as                set forth hereunder and agreed between the parties, provided that                Contractor will not be required to incur additional costs for the                purpose of assisting NICE in the case of termination. During the                notice period, Contractor will continue performance of the                Manufacturing Outsourcing Services regarding all PO's received                according to the Forecast and will, simultaneously, assist NICE                and cooperate with it in the transfer of the Manufacturing                Outsourcing Services to NICE or anyone designated by NICE and                NICE will continue in performing all its obligations hereunder.
+
+          16.6.2. Upon termination of this Agreement for any reason whatsoever,                without derogating from the generality of the aforesaid, NICE                shall be entitled to receive from Contractor, at no charge,                subject to the confidentiality obligations hereunder and                Contractor's Proprietary Information, all information, know-how,                samples, documentation and data, in any form or medium, in
+
+
+
+
+
+               connection with the Manufacturing Outsourcing Services, whether                prepared by NICE or by Contractor, and all NICE Proprietary                Information which is in the possession of Contractor or anyone on                its behalf, including its Permitted Subcontractors. Upon                termination of this Agreement, Contractor shall return any such                information to NICE notwithstanding the provisions of Section                10.6. above.
+
+                                       39
+
+          16.6.3. Upon termination of this Agreement for any reason whatsoever,                all Non Generic Equipment and NICE Returned Components as                detailed in Section 3.12. above, will be immediately returned to                NICE.
+
+          16.6.4. It is clarified that upon termination, for any reason                whatsoever, Contractor shall still be obligated to supply                warranty services according to this Agreement to all Products                supplied, this for the duration of the Warranty Period for each                Product and the relevant provisions of this Agreement applying to                warranty shall survive termination.
+
+     16.7. EFFECT OF TERMINATION. Upon termination of this Agreement, except in           the event of termination by NICE due to breach by Contractor, NICE           shall pay Contractor as follows: (i) 100% of the contract price for           all finished Products in Contractor's possession or which have been           delivered/being delivered to NICE, which are subject to a Purchase           Order in accordance with the terms of this Agreement; (ii) 104% of the           cost in APPENDIX C of all inventory of Permitted Components in           Contractor's possession, which are not returnable to the vendor /           supplier according to APPENDIX C or usable for other customers (as           determined by Contractor in its sole discretion), whether in raw form           or work in process; (iii) 104% of the cost in APPENDIX C of all           inventory and inventory on order of Permitted Components which is not           cancelable according to APPENDIX C; (iv) any vendor cancellation           charges incurred with respect to inventory of Permitted Components           accepted for cancellation or return by the vendor, and (v) disassembly           charges and payments as per Section 3.8 (Cancellation of PO) resulting           from the cancellation of PO's due to termination, and (vi) 100% of any           other costs and payments payable by NICE hereunder at the time of           termination under the specific provisions of this Agreement.           Contractor will use reasonable commercial efforts to return unused           inventory and to cancel pending orders for such inventory, and to           otherwise mitigate the amounts payable by NICE hereunder.
+
+     16.8. Upon termination of this Agreement by NICE due to breach by           Contractor, NICE shall be obligated to pay Contractor as follows: (i)           100% of the contract price for all finished Products in Contractor's           possession for which the Due Date has occurred and which have been           supplied to NICE' freight forwarder, which are subject to a Purchase           Order in accordance with the terms of this Agreement; (ii) 100% of the           cost in APPENDIX C of all inventory of Permitted Components in           Contractor's possession, which are not returnable to the vendor /           supplier according to APPENDIX C or usable for other customers (as           determined by Contractor in its sole discretion); provided however           that in the event Contractor fails to supply the Products and/or           Permitted Components to NICE, for any reason whatsoever, within 14           days after receipt of NICE' request, NICE shall be released from the           obligation to pay for the Products and /or Permitted Components as           provided for above. (iii) 100% of the cost in Appendix C of all           inventory and inventory on order of Permitted Components, which is not           cancelable according to Appendix C. Contractor will use reasonable           commercial efforts to return unused inventory and to cancel pending           orders for such inventory, and to otherwise mitigate the amounts           payable by NICE hereunder.
+
+                                       40
+
+     16.9. Neither party shall have any other liability, including payment           obligations, resulting from the termination for convenience of this           Agreement.
+
+17.  MISCELLANEOUS.
+
+     17.1. ENTIRE AGREEMENT. This Agreement, Schedules, Exhibits and Appendices           constitute the entire agreement between the parties in connection with           its subject matter and supersede all prior communications and           agreements between the parties relating to its subject matter.           Notwithstanding anything to the contrary, no documents, procedures,           methods or policies shall bind the Parties unless they are in writing           and signed by both parties, except that all the technical           documentation included in the PDM System may be changed as provided in           Section A (xxxii). Any change in NICE' procedures or policies, shall           bind Contractor after it is notified of same, unless the change is           material, in which case Contractor can object to the change on           reasonable grounds detailed in writing.
+
+     17.2. AMENDMENT. This Agreement may only be amended, varied or modified by           the prior agreement in writing of NICE and Contractor. Any such           amendment, variation or modification shall be binding upon the parties           and upon their successors and assigns. Work procedures and technical           documents may be signed by any representative on behalf of each of the           parties and need not be signed by authorized signatories of the           parties.
+
+
+
+
+
+     17.3. ASSIGNMENT. This Agreement shall be binding upon and inure to the           benefit of the parties and their respective successors and permitted           assigns. Neither party shall in any way sell, transfer, assign,           sub-contract or otherwise dispose of any of the rights, privileges,           duties and obligations granted or imposed upon it under this           Agreement. However, NICE may, at its discretion, transfer and/or           assign any of its rights, privileges, duties and obligations granted           or imposed upon it under this Agreement to any NICE Affiliate,           provided that NICE remains responsible towards Contractor, jointly and           severally with the Affiliate, for all of its obligations hereunder so           assigned, and provided further that the assignee signs this Agreement.
+
+                                       41
+
+          It is further clarified that NICE may choose, by written notice to           Contractor, to enable any NICE Affiliate to act on NICE' behalf and in           its name under this Agreement directly VIS-A-VIS Contractor, without           relieving NICE as the sole contractual party from responsibility for           performance of the Agreement. Notwithstanding the foregoing, Upon           NICE' prior written approval and upon the terms and limitations of           such approval, Contractor may sub-contract some of its obligations           ("PERMITTED SUBCONTRACTORS"), provided, however, that Contractor shall           remain obligated under this Agreement. Contractor shall provide to           NICE material qualifications and identification details of such           Permitted Subcontractors. Contractor shall at all times remain fully           responsible for the performance of all obligations of Contractor           hereunder, jointly and severally with the Permitted Subcontractors. In           selecting subcontractors to assist Contractor in the performance of           this Agreement, Contractor shall comply with all reasonable NICE           vendor screening requirements which are provided to it, and Contractor           shall also comply with its own vendor screening requirements.
+
+     17.4. SEVERABILITY. If any provision of this Agreement is held invalid,           illegal or unenforceable for any reason by any court of competent           jurisdiction, such provision shall be separable from the remainder of           the provisions hereof which shall continue in full force and effect as           if this Agreement had been executed with the invalid provisions           eliminated.
+
+     17.5. FORCE MAJEURE.
+
+          17.5.1. Neither party shall be liable to the other for any delay in                performance or failure to perform, in whole or in part, due to                war or act of war (whether an actual declaration is made or not),                riot, civil commotion, act of public enemy, fire, flood, or other                act of God, act of any governmental authority, or similar causes                beyond the reasonable control of such party which could not have                been foreseen or prevented. If any event of force majeure occurs,                the Party affected by such event shall promptly notify the other                Party of such event in writing and take all reasonable actions to                avoid the effect of such event.
+
+          17.5.2. Nevertheless, if any event of force majeure occurs for a                consecutive period of fourteen (14) Days preventing Contractor                from performing the Manufacturing Outsourcing Services, and                Contractor has not managed to set up the Manufacturing                Outsourcing Services at the Backup Site, NICE may, at its                discretion, elect to perform the Manufacturing Outsourcing                Services or any part thereof by itself and/or through others,                without derogating from its other rights and remedies, if                applicable. In such event: (a) Contractor shall assist NICE by                putting at its use, at NICE' request, Contractor Personnel who                are involved in the performance of this Agreement, to the extent                possible, at a charge to be agreed based on the labor rates in                APPENDIX C; (b) without derogating from any other obligations of                NICE hereunder as at such date to purchase Permitted Components,                NICE shall purchase from Contractor the additional Permitted                Components in Contractor's inventory, which are required, at                NICE' discretion, for manufacturing during the force majeure                period. The price and payment terms for purchase of such                Permitted Components shall be according to the provisions of                Section 3.4(A) above, which shall apply mutatis mutandis.
+
+                                       42
+
+          17.5.3. If the event of force majeure exists for more than 90 days,                each party shall have the right to terminate this Agreement and                the provisions of Sections 16.2. and 16.3. regarding the notice                period required shall apply mutatis mutandis, and thereafter                Section 16 regarding effects of termination shall apply.
+
+     17.6. RELATIONSHIP. NICE and Contractor acknowledge and agree that this           Agreement shall not constitute, create or give effect to a joint           venture, pooling arrangement, principal/agency relationship,           partnership relationship or formal business organization of any kind           and neither Contractor and/or NICE shall have the right to bind the           other without the other's express prior written consent. Contractor           will render the Manufacturing Outsourcing Services as an independent           contractor and no employee - employer relationship shall exist between           Contractor and/or the Personnel and/or anyone on its behalf and NICE.
+
+     17.7. MANAGEMENT CHANGES. Contractor shall notify NICE immediately upon the           occurrence of any material change in the conduct of business of           Contractor or in the composition of its management, which has a
+
+
+
+
+
+          material adverse affect on Contractor's ability to perform this           Agreement.
+
+     17.8. WAIVER. The failure of either party to insist upon strict performance           of any provision of this Agreement, or the failure of either party to           exercise any right or remedy to which it is entitled hereunder, shall           not constitute a waiver thereof and shall not cause a diminution of           the obligations established by this Agreement. A waiver of any default           shall not constitute a waiver of any subsequent default. No waiver of           any of the provisions of this Agreement shall be effective unless it           is expressly stated to be a waiver and communicated to the other party           in writing in accordance with the provisions of this Agreement.
+
+     17.9. DISPUTE RESOLUTION. Any dispute arising out of or relating to this           Agreement or the breach, termination or validity thereof shall be           settled in accordance with one of the following procedures. Contractor           and NICE shall use the procedures in the following order of priority.
+
+                                       43
+
+          17.9.1. In the event of any dispute, controversy or claim of any kind                or nature arising under or in connection with this Agreement                (including but not limited to disputes as to the creation,                validity, interpretation, breach or termination of this                Agreement) (a "DISPUTE"), then upon the written notice of either                Party, the Dispute will be submitted to the project manager on                behalf of each party to be escalated, in case the parties are                unable to resolve such Dispute, to the parties C.E.O.'s
+
+          17.9.2. Any dispute that the parties are unable to resolve pursuant to                Section 17.9.1. within 30 Days, will be submitted exclusively to                the competent courts in the Tel-Aviv-Jaffa District in Israel.
+
+          17.9.3. Without derogating from rights of termination as detailed in                this Agreement, it is clarified that Contractor will continue to                provide the Manufacturing Outsourcing Services and NICE shall                continue to perform its obligations hereunder during any                litigation, mediation or legal proceedings commenced pursuant to                this Section 17.9. above and the existence of a Dispute shall not                enable Contractor to stop work or services or otherwise not                timely perform its obligations or enable NICE to stop payments or                otherwise not timely perform its obligations.
+
+          17.9.4. The foregoing shall not affect the right of the parties to                seek injunctions before the competent Court.
+
+     17.10. Wherever in this Agreement it is provided that the Parties agree to           negotiate/review/change any term hereof (including prices), the           parties will usetheir best commercial efforts and negotiate in good           faith in order to reach such agreement. If the parties fail to agree,           no change will be made to the last agreed terms and they shall           continue to apply, except as otherwise specifically and explicitly           provided herein, and except that the provisions of Section 8.2. and           all its subsections will apply with regard to details included in           APPENDIX C.
+
+     17.11. LAW AND JURISDICTION. This Agreement shall be governed by and           construed in accordance with the laws of the state of Israel, without           giving effect to choice of law rules.
+
+                                       44
+
+     17.12. SCHEDULES AND APPENDICES. Each Schedule and Appendix hereto is           incorporated herein by this reference. The parties may amend any           Schedule and Appendix from time-to-time by entering into a separate           written agreement, referencing such Schedule and Appendix and           specifying the amendment thereto, signed by an authorized           representative of each of the parties.
+
+     17.13. SET-OFF. NICE shall only be entitled to setoff any amount due to           Contractor against any amount due from Contractor to NICE, if the           setoff amount is: (i) due according to this Agreement and is subject           to an invoice lawfully issued hereunder; or (ii) liquidated damages           according to this Agreement. In the event of setoff, Contractor shall           receive, at the same time, a written notice signed by vice president           operations of NICE detailing the setoff. Contractor shall not be           entitled to setoff any amount due to NICE from Contractor hereunder           against any amount due from NICE to Contractor according to this           Agreement. The setoff provisions in this Agreement are in lieu of any           setoff rights under any applicable law but shall not be construed as           derogating from any other right or remedy.
+
+     17.14. LIEN. Each party hereby waives any right of lien it may have under           applicable law.
+
+     17.15. COMMUNICATION AND NOTICES. Except as otherwise expressly provided in           this Agreement, no communication from one party to the other shall           have any validity under this Agreement unless made in writing by or on           behalf of an authorized official of Contractor or, as the case may be,           by or on behalf of an authorized official of NICE. Each party shall,           from time to time, provide the other with a list of personnel           designated as "authorized officials" for the purposes of this Section           17.15. Any notice or other communication which either party hereto is           required or authorized by this Agreement to give or make to the other
+
+
+
+
+
+          shall be given or made either by registered mail, or by courier or by           facsimile transmission confirmed by electronic confirmation, addressed           to the other party to the address referred to in the preamble. Notices           shall be deemed delivered within seven (7) Days of dispatch of the           notice by registered mail, or upon delivery by courier, or one           Business Day after sent if sent by facsimile transmission.
+
+IN WITNESS WHEREOF, the parties have duly executed this Agreement as of the date first above written:
+
+          /s/                                              /s/ ------------------------                        ------------------------     NICE SYSTEMS LTD.                           FLEXTRONICS ISRAEL LTD.
+
+                                       45
+
+    NICE SYSTEMS LTD.                           FLEXTRONICS ISRAEL LTD.
+
+(Nice-Nice Flex Master Manufacturing Outsourcing Agreement Final)
+
+                                       46

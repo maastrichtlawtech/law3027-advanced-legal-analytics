@@ -1,0 +1,345 @@
+EXHIBIT 10.102
+
+[McDATA LOGO]
+
+RESELLER AGREEMENT
+
+AGREEMENT NUMBER: 200-04-634-00
+
+McDATA CORPORATION ("McDATA)          "RESELLER"  MTI TECHNOLOGY CORPORATION
+
+380 INTERLOCKEN CRESCENT              ADDRESS: 14661 FRANKLIN AVE
+
+BROOMFIELD, CO 80021                  ADDRESS: TUSTIN, CA 92780
+
+ADDRESS:
+
+THE EFFECTIVE DATE OF THIS RESELLER AGREEMENT SHALL BE: Sept 29, 2004
+
+The following documents are incorporated herein by reference:
+
+Reseller Agreement
+
+Premier Addendum
+
+This Agreement, and all Addendums and attachments hereto, identified above, and Channel Notification Documents as issued by McDATA from time to time constitute the entire agreement between McDATA and Reseller with respect to the subject matter hereof, and supersedes all prior and contemporaneous oral or written representations or agreements between the parties regarding the subject matter of this Agreement.
+
+ACCEPTED AND AGREED TO BY:            ACCEPTED AND AGREED TO BY:
+
+McDATA CORPORATION(McDATA)            RESELLER MTI TECHNOLOGY CORPORATION
+
+SIGNED: /s/ Bruce Chumley             SIGNED: /s/ Ron Umagat        ---------------------------           ---------------------------------- NAME: Bruce Chumley                   NAME: Ron Umagat
+
+TITLE: VP Channel Sales               TITLE: VP of Operations
+
+DATE: 9/29/04                         DATE: 9/24/04
+
+This Reseller Agreement (the "Agreement") is entered into by and between McDATA and Reseller.
+
+1.    SCOPE
+
+This Agreement establishes the terms and conditions under which Reseller will purchase, market, sell, license or incorporate for resale the McDATA Products and End User Customer Services in the Territory and the non-exclusive terms under which McDATA will provide the Products and End-User Customer Services (as defined below).
+
+2.    DEFINITIONS
+
+2.1 "CHANNEL NOTIFICATION DOCUMENT(S)" means McDATA's standard form, incorporated herein by reference, for notifying Resellers of price changes, new product announcements, discontinued/obsolete product announcements, engineering change notifications, product information, marketing and sales Incentive programs, and any other business matters affecting pricing, products and services.
+
+2.2 "END USER CUSTOMER SERVICES" means the collective reference to warranty and post warranty (maintenance) services, including standard and enhanced warranty services, made available by McDATA and provided directly to End User Customers.
+
+2.3 "PRODUCT(S)" means McDATA hardware, Software, and related features, conversions, and options, as listed in the Addendum and further provided through Channel Notification Documents.
+
+2.4 "SOFTWARE" means the computer software, In machine executable object code format only, that is delivered and licensed by McDATA with the Product.
+
+2.5 "TERRITORY" means the area designated on the first page of the incorporated Addendum to this Agreement in which Reseller may, on a non-exclusive basis, market and sell the Products and End User Customer Services.
+
+3.    APPOINTMENT/TERRITORY
+
+3.1 Subject to the terms and conditions of this Agreement, McDATA hereby authorizes and appoints Reseller and Reseller accepts the appointment, as a non-exclusive reseller to purchase Products from McDATA and to market, sell, or incorporate for resale McDATA Products to End User Customers in the Territory.
+
+3.2 Reseller's authorization from McDATA to resell McDATA Products is limited to the Territory shown on the first page of this Agreement. Additional sales locations must be pre-approved by McDATA. Reseller may request that additional Reseller sales locations are added to this Agreement. Upon Reseller's request, McDATA will provide Reseller with the criteria and process for applying for authorization of additional sales locations. Reseller agrees that any additional
+
+
+
+
+
+McDATA authorized sales locations will be governed by the terms and conditions of this Agreement.
+
+3.3 McDATA reserves the right to revise the list of Products and End User Services at any time during the term of this Agreement. McDATA will notify Reseller of such revisions through a Channel Notification Document(s).
+
+4.    TERM AND TERMINATION
+
+4.1 TERMINATION WITHOUT CAUSE. Either party may terminate this Agreement without cause upon sixty (60) days prior written notice to the other party.
+
+4.2 TERMINATION FOR BREACH. In addition to any other rights or remedies that may be available at law or in equity, either party may terminate this Agreement if the other party is in material breach of this Agreement and has not cured the breach within thirty (30) days of receiving written notice specifying the breach. If the breach is not cured within the thirty (30) day period, termination will become effective on the thirty-first (31st) day following the written notice.
+
+4.3 TERMINATION FOR INSOLVENCY. Either party, upon written notice to the other party, may elect to immediately terminate this Agreement upon the occurrence of any of the following events: (i) a receiver is appointed for either party or its property; (ii) either party makes, or attempts to make, an assignment for the benefit of its creditors; (iii) any proceedings are commenced by or for either party under any bankruptcy, insolvency, or debtor's relief law and such proceedings are not set aside within thirty days following their filing; and/or (iv) either party liquidates or dissolves or makes a good faith attempt to liquidate or dissolve.
+
+4.4 EFFECT OF TERMINATION. Termination of this Agreement shall not limit either party from pursuing any other remedies available to it, Inducing injunctive relief. The termination of this Agreement simultaneously terminates all programs and incentives McDATA offered to Reseller through Channel Notification Documents and voids any unused program account balances. Upon cancellation, termination or expiration of this
+
+McDATA Corporation Standard Terms OF Reseller Agreement JUNE 2004
+
+2
+
+Agreement, Reseller agrees to immediately pay all monies due to McDATA under this Agreement.
+
+The parties' rights and obligations under Sections 8,9 and 10 hereof shall survive termination of this Agreement.
+
+5.    RESELLER OBLIGATIONS/RESPONSIBILITIES
+
+5.1 SALES. Reseller agrees to actively market, promote, demonstrate, sell and provide the Products and End User Customer Services only within the Territory during the term of this Agreement
+
+5.2 REPORTS. For warranty purposes, McDATA may require Reseller to provide McDATA with a written report containing, without limitation, the following information: End User Customer name, Reseller's authorization or location Number, End User Customer information, Product serial numbers, number of units, and level of warranty. McDATA will notify Reseller of reporting requirements, including content and format, in a Channel Notification Document.
+
+5.3 EDUCATIONAL REQUIREMENTS. Reseller agrees to participate in McDATA-speciflad educational courses for purposes of training Reseller's personnel. Educational course requirements will be provided in a Channel Notification Document and must be satisfied by Reseller to maintain its status as a McDATA authorized Reseller McDATA will provide to Reseller without tuition fee, at a McDATA designated training site, the required educational courses identified on the Addendum.
+
+5.4 END USER CUSTOMER TERMS AND CONDITIONS. Reseller will ensure that the terms of its executed agreements with End User Customers am not in conflict with this Agreement
+
+5.5 POINT OF SALE (POS) REPORTS. Beginning on the first month after the Effective Date, in order to qualify for certain McDATA channel partner program benefits, Reseller will provide McDATA with a written monthly point of sale report ("POS Report") listing the Products that Reseller has sold, by model and serial number, together with the names and addresses of all End User Customers. Detailed POS requirements will be communicated through Channel Notification Documents.
+
+5.6 FINANCIAL STATEMENTS. Reseller agrees to provide McDATA with its and its ultimate parent company's most recent financial statements prior to the Effective Date of the Agreement.
+
+6.    McDATA OBLIGATIONS/RESPONSIBILITIES
+
+6.1 END USER CUSTOMER SERVICES
+
+McDATA will make available, for End User Customers, warranty, enhanced warranty, and post warranty services according to the terms and conditions of the applicable manufacturer's warranty and McDATA's then-current maintenance policies, McDATA, or an authorized McDATA service provider, will provide technical support and repairs during the warranty and post warranty periods to End User Customers. McDATA reserves the right to revise its technical support program. McDATA will notify Reseller of changes to McDATA's warranty and
+
+
+
+
+
+technical support and repairs policy through Channel Notification Document(s).
+
+6.2 PRODUCT DISCONTINUATION. McDATA reserves the right to discontinue Products. McDATA will notify Reseller of any Product discontinuance through Channel Notification Document(s).
+
+6.3 PRODUCT AND SERVICE ANNOUNCEMENTS. McDATA will notify Reseller of changes and innovations in performance, serviceability, uses and applications of Products and End User Services through Channel Notification Document(s).
+
+7.    END USER CUSTOMER SOFTWARE LICENSE
+
+Product(s) that embody or include Software will be delivered with a shrink-wrap or click-through software license which shall govern End User Customer's use of the Software. McDATA or its suppliers retain title in and to the Software and all intellectual property rights, and no title to the Software or intellectual property rights is transferred to the End User Customers. Such Software is proprietary to, trade secret of, and copyrighted by McDATA or its suppliers.
+
+8.    CONFIDENTIALITY
+
+8.1 As used herein, "CONFIDENTIAL INFORMATION" will mean any and all technical or business information, including third party information, furnished or disclosed, in whatever form or medium (regardless of whether tangible, Intangible, visual or oral), by one party to the other, including but not limited to information regarding patents and patent applications, trade secrets, works of authorship, software programs, software source documents, software architecture, algorithms, formulae, ideas, techniques, know-how, processes, inventions, apparatuses, equipment, models, information related to current, future and proposed products and services, research, experimental work, development, design details, specifications and engineering information, financial information, procurement, purchasing and manufacturing requirements, potential and actual customer lists, investors, employees, business and contractual relationships, business forecasts, sales and merchandising information, marketing plans; information regarding third parties; and any physical manifestations of Confidential Information (such as notes, reports, memoranda, etc.).
+
+McDATA Corporation Standard Terms of Reseller Agreement June 2004
+
+3
+
+8.2 Information will not be deemed Confidential Information hereunder if the receiving party can demonstrate that such Information: (a) is already known to the receiving party prior to disclosure; (b) is independently developed by the receiving party without the use of the disclosing party's Confidential Information; (c) is or becomes publicly available through no fault of the receiving party; or (d) is obtained by the receiving party from a third party other than one having an obligation to the disclosing party with respect to the Confidential Information disclosed. A party may disclose Confidential Information pursuant to the requirements of a governmental agency or by operation of law, provided that such party gives the other party reasonable prior written notice sufficient to allow the other party time to contest such disclosure.
+
+8.3 Each party agrees that for a period of three (3) years following the disclosure of Confidential Information, it (a) will not use, directly or indirectly, or reproduce the Confidential Information of the other party for any purpose except in accordance with the terms of the Agreement, (b) will not disclose the Confidential Information of the other party to any third parties except as expressly permitted in this Agreement, and (c) will take all reasonable security measures to maintain the confidentiality of all Confidential Information of the other party in its possession or control, which will in no event be less than the measures it uses to maintain the confidentiality of its own information of similar importance.
+
+8.4 Upon the termination or expiration of this Agreement, or upon any request of a party, all Confidential Information, together with any copies of same as may be authorized herein, will (at the election of the disclosing party) either be returned to the disclosing party or certified destroyed by the receiving party. Notwithstanding the termination or expiration of this Agreement, each party agrees the requirements regarding use, confidentiality and non-disclosure set forth herein will survive the termination or expiration of this Agreement for a period of three (3) years from the date of the disclosure of the Confidential Information.
+
+8.5 Each party acknowledges that its breach of this Section will cause irreparable damage and hereby agrees that the other party shall be entitled to seek injunctive relief under this Agreement, as well as such further relief as may be granted by a court of competent jurisdiction.
+
+9.    TRADEMARKS.
+
+Subject to McDATA's prior written approval, McDATA grants Reseller a limited, nonexclusive, non-transferable, revocable license to use McDATA's Trademarks (defined as McDATA's name or any abbreviation thereof, its acronym, logotype or any other trademarks or trade names of McDATA) for the sole purpose of marketing and selling Products and End User Customer Services in the Territory during the term of this Agreement Reseller agrees to comply with McDATA's Logo Usage Guide, which is found at McDATA's web site, www.mcdata.com. By using McDATA's Trademarks, Reseller does not acquire any proprietary rights to such Trademarks, and Reseller agrees not to obtain or attempt to obtain, by any method, any rights, title or interest in or to any of the Trademarks. Additional provisions relating to the proper usage of the Trademarks are sat forth in Channel
+
+
+
+
+
+Notification Documents.
+
+10.   LIMITATION OF LIABILITY AND DISCLAIMER OF WARRANTY
+
+10.1 EXCEPT FOR A BREACH OF SECTION 8 (CONFIDENTIALITY), IN NO EVENT WILL EITHER PARTY BE LIABLE FOR ANY INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, NOR FOR ANY DAMAGES RELATING TO LOST DATA, LOST PROFITS, ADVERTISING OR PROMOTIONAL COSTS, TERMINATION OF EMPLOYEES, SALARIES OF EMPLOYEES OR SEVERANCE PAYMENTS, CREATION OF CUSTOMER BASE, OR FUTURE EXPECTATIONS OR OTHER ECONOMIC ADVANTAGE, HOWSOEVER ARISING AND REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, WARRANTY OR TORT (INCLUDING NEGLIGENCE) OR UNDER ANY OTHER THEORY OF LIABILITY IN LAW OR IN EQUITY, EVEN IF SUCH PARTY HAS BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+10.2 Notwithstanding any provision herein to the contrary, McDATA's entire liability in any given instance from any cause whatsoever, and regardless of the form of action, whether in contract, warranty or tort (including negligence) or any other theory of liability in law or in equity, will in no event exceed the lease, of (i) the purchase price for the specific Product that is the subject matter of or is directly relative the cause of action; or (ii) Five Hundred Thousand Dollars ($500,000).
+
+10.3 The foregoing limitations will not apply (i) to claims by either party for personal injury or damage to personal property, or (ii) claims by McDATA for negligent or misuse or unauthorized use by Reseller of any of McDATA's proprietary rights, including Trademarks and Software.
+
+10.4 THE WARRANTIES, IF ANY, PROVIDED IN THIS AGREEMENT (INCLUDING THE APPENDICES AND CHANNEL NOTIFICATION DOCUMENTS) OR AS PROVIDED WITH THE PRODUCTS ARE GIVEN IN LIEU OF ALL OTHER
+
+McDATA Corporation Standard Terms of Reseller Agreement June 2004
+
+4
+
+WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, NONINFRINGEMENT OR FITNESS FOR A PARTICULAR PURPOSE, ALL OF WHICH ARE HEREBY EXPRESSLY DISCLAIMED AND EXCLUDED.
+
+11. MARKETING
+
+McDATA and Reseller may publicly refer to the existence, but not the content, of this Agreement and may reference their business relationship by creating a hyper-link from one party's web site to the other party's web site. Reseller grants McDATA a license to use Reseller's trademarks and corporate logos solely for such marketing and reference purposes. Copies of each party's logo and authorized trademark(s) can be obtained from their respective marketing departments and may not be altered or changed by either party, its employees or agents, without prior written permission from an authorized representative of the other.
+
+12. GENERAL
+
+12.1 NO AMENDMENT OR WAIVER. No provision of this Agreement will be deemed waived, amended or modified by either party, unless such waiver, amendment or modification is made in writing and signed by authorized representatives of both parties. No waiver of rights under this Agreement by either party shall constitute a subsequent waiver of&sbsp;such rights or any other rights under this Agreement. Notwithstanding the foregoing, the parties agree to the use of Channel Notification Documents as set forth in this Agreement.
+
+12.2 SEVERABILITY. If any provision of this Agreement is held to be invalid or unenforceable by a proper authority having jurisdiction over this Agreement, the remaining provisions of this Agreement will remain in full force and effect.
+
+12.3 NO AGENCY CREATED. Nothing in this Agreement shall be construed to create a partnership, joint venture, or agency relationship between the parties. Neither party is granted the tight or authority to assume or create any obligation or responsibility, express or implied, on behalf of, or in the name of the other party, or to bind such other party in any manner to anything whatsoever.
+
+12.4 NO THIRD PARTY BENEFICIARIES. The parties agree that there shall be no third party beneficiaries to this Agreement, including but not limited to Reseller's End User Customers.
+
+12.5 ASSIGNMENT. Neither party will assign this Agreement or any rights hereunder without the prior written consent of the other party, which consent will not be unreasonably withheld. Notwithstanding the foregoing sentence, McDATA may assign this Agreement to any entity controlled by, controlling, or under common control with McDATA or to any successor by merger, divestiture, consolidation or reorganization, or to any purchasers of all or substantially all of the assets of the business of McDATA without consent of Reseller.
+
+12.6 GOVERNING LAWS. This Agreement shall be governed by and construed in accordance with the laws of the State of Colorado excluding its choice of law provisions. The United Nations Convention on Contracts for the International Sale of Goods (CISG) is specifically excluded and shall not be applicable to any transaction contemplated herein.
+
+12.7 DISPUTE RESOLUTION PROCESS. In case of any dispute between the parties relating to this Agreement, such dispute shall be finally resolved in Denver, Colorado (USA) by arbitration under the Commercial Rules of Arbitration of the American Arbitration Association, using three arbitrators, one selected by each of McDATA and Reseller and the third selected in accordance with such Rules. The
+
+
+
+
+
+arbitrators will decide the issues presented to them applying the substantive laws of the Sate of Colorado (USA). The award of the arbitrators may be granted notwithstanding the absence of any party and such award shall be in writing and shall be final and binding upon the parties and shall not be appealed from or contested in any court or tribunal. Any award rendered hereunder may be entered for enforcement, if necessary, in any court of competent jurisdiction.
+
+12.8 INJUNCTIVE RELIEF. Notwithstanding the above provisions relating to arbitration, the parties agree that in respect of any violation of any provision of this Agreement, including without limitation violation of any proprietary or confidential information, for which an award of damages is an inadequate remedy to project the injured party, the injured party is entitled to seek injunctive relief, including a preliminary injunction, in a court of competent jurisdiction, in addition to any other relief available to it under the arbitration procedures specified above in Section 12.7.
+
+12.9 OFFICIAL LANGUAGE. The official language of this Agreement and all transactions conducted under this Agreement is English.
+
+12.10 FORCE MAJEURE. Neither party will be liable for any failure or delay in its performance under this Agreement due to any cause beyond its reasonable control, including but not limited to acts of God, war, riot, embargoes, acts of civil or military authorities, fire, floods, accidents, strikes, delays by suppliers or shortages of transportation, facilities, fuel, energy, labor, or materials.
+
+McDATA Corporation Standard Terms of Reseller Agreement June 2004
+
+5
+
+12.11 COMPLIANCE WITH LAWS. McDATA and Reseller each agree to comply with all applicable laws and each understand and agree that the continuing rights and obligations of the parties hereunder are specifically conditioned upon compliance with such laws. These laws include, without limitation, the following: (i) the U.S. anti-boycott regulations, (ii) the U.S. Foreign Corrupt Practices Act ("FCPA"), (iii) the export control laws of the United States of America, (iv) the prevailing regulations which may be issued from time to time by the U.S. Department of Commerce and the Office of Munitions Control and the U.S. Department of State, and (v) any export or import laws of the agencies of the Territory or of any countries into or through which the Products purchased under this Agreement may be transported.
+
+12.12 NOTICES. Notices required hereunder will be in writing and will be deemed given when transmitted by facsimile (provided such facsimile is subsequently confirmed in writing within five (5) days of the facsimile date) or deposited with an express delivery service with guaranteed third-day delivery, prepaid, addressed as follows:
+
+NOTICES TO: McDATA CORPORATION:         McDATA Corporation         380 Interlocken Crescent         Broomfield, CO 80021         Attn: VP of Sales         With a copy to: VP and General Counsel         Fax:720-558-3235
+
+NOTICES TO: RESELLER             MTI Technology Corp             14661 Franklin Ave             Tustin,CA 92780             Attn: CFO             Fax : 714-481-4136
+
+12.13 ENTIRE AGREEMENT. This Agreement, together with any and all attachments hereto and applicable Appendices, Addendums and Channel Notification Documents as issued from time to time by McDATA constitutes the entire agreement between McDATA and Reseller with respect to the subject matter hereof, and supersedes all prior and contemporaneous oral or written representations or agreements between the parties regarding the subject matter of this Agreement.
+
+12.14 COUNTERPARTS. This Agreement may be executed in counterparts or by facsimile, each of which shall be an original, and all of which together shall constitute one and the same instrument.
+
+12.15 NUCLEAR, AVIATION OR LIFE SUPPORT APPLICATION. McDATA specifically disclaims liability for use of McDATA Software in connection with the design, construction, maintenance, and/or operation of any (i) nuclear facility, (ii) aircraft, aircraft communication or aircraft ground support system, or (iii) life support system by Reseller or its End User Customers. Such use is entirely at the user's risk. McDATA shall not be liable to Reseller or its End User Customers, in whole or in part, for any claims arising out of such use. Reseller agrees to defend, indemnify, and hold McDATA harmless from and against any and all claims arising out of use of the Software in such applications by Reseller or its End User Customers.
+
+McDATA Corporation Standard Terms of Reseller Agreement June 2004
+
+6
+
+PREMIER RESELLER ADDENDUM
+
+RESELLER AGREEMENT
+
+
+
+
+
+This addendum applies to a Reseller that will purchase, market, sell license or incorporate Product to any commercial non-United States government entity, instrumentality or agency.
+
+TERRITORY: NORTH AMERICA
+
+1. SCOPE
+
+1.1 Sales to the US Government are not authorized under this Agreement.
+
+1.2 Reseller is authorized to procure McDATA Products and End User Customer Services through the source defined in Paragraph 2.3, "Product Provider." Reseller procurement of Product and End User Customer Services from sources other than the Product Provider is a material breach of this Agreement and may result in termination of this Agreement. In the event Reseller procures Product or End User Customer Services from sources other than its Product Provider, such procurements will not be included in any McDATA marketing and promotional programs made available to Reseller by McDATA. McDATA, at its sole discretion, may change this policy through a Channel Notification Document.
+
+2. DEFINITIONS
+
+2.1 "DISTRIBUTOR" means a business entity which is authorized by McDATA through a fully executed distributor agreement to market and sell, or incorporate for resale, the McDATA Products and End User Customer Services to McDATA authorized Resellers in its Territory.
+
+2.2 "END USER CUSTOMER" means any entity which, for its own use and not for resale, (i) purchase McDATA-manufactured Products; and/or (ii) licenses Software associated therewith from McDATA; and/or (iii) receives End User Customer Services from McDATA.
+
+2.3 "PRODUCT PROVIDER" means either a McDATA-authorized OEM and/or Distributor who provides Product(s) to the Reseller, as set forth in Appendix 1.
+
+2.4 "RESELLER" means a business entity which is authorized by McDATA through a fully executed Reseller Agreement to (i) market and resell Products; (ii) purchase McDATA-manufactured Products from a Product Provider, without the intention of purchasing such Products for its own use; and/or (iii) resell End User Customer Services from McDATA.
+
+3. TERM
+
+The initial term of this Agreement shall be for a period of one (1) year from the Effective Date unless sooner terminated pursuant to the termination provisions herein. Thereafter, this Agreement automatically renews for successive terms of one (1) year.
+
+4. RESELLER OBLIGATIONS/RESPONSIBILITIES
+
+For enhanced warranty and post warranty services, Reseller shall refer to McDATA's Product Offerings on its website. McDATA will notify Reseller of changes to the Product Offerings through its Channel Notification Documents.
+
+5. END USER CUSTOMER SOFTWARE LICENSE
+
+Product(s) that embody or include Software will be delivered with a shrink-wrap or click-through software license which shall govern End User Customer's use of the Software. Such Software is proprietary to, trade secret of, and copyrighted by McDATA or its suppliers. McDATA or its suppliers retain title in and to the Software and all intellectual property rights, and no title to the Software or intellectual property rights is transferred to the End User Customers.
+
+6. MARKETING
+
+Reseller agrees not to publish or advertise any price below Manufacturer's Suggested List Price on its web site or by means of any online communications or any other mass communications, including without limitation, catalogues, fax blasts, direct mail pieces, or e-mail blasts.
+
+7. GOVERNMENT FLOWDOWN PROVISIONS.
+
+Reseller agrees that flowdown provisions, including, but not limited to United States Government Federal Acquisition Regulations ("FARs"), Defense FARs or NASA FARs, shall not apply to McDATA and McDATA does not accept such provisions notwithstanding the existence of such provisions. In addition, McDATA is not responsible for fulfilling any contract obligations under any schedule contracts including those obligations under the United States Government General Service Administration ("GSA") contract and the California Multiple Award Schedule ("CMAS") contract.
+
+McDATA Corporation Standard Terms of Reseller Agreement June 2004
+
+7
+
+APPENDIX I                                RESELLER AGREEMENT                                  PREMIER PARTNER                  PRODUCTS, PRODUCT PROVIDER AND REVENUE TARGETS
+
+PRODUCTS:
+
+Reseller is eligible to sell the McDATA Products listed below. McDATA will provide Product information including pricing, availability, features,
+
+
+
+
+
+accessories, services and support in the Channel Notification Documents. McDATA will update the Product listing from time-to-time through the Channel Notification Documents.
+
+- Fibre Channel Directors
+
+- Switches
+
+- Software
+
+- Fabricenter(TM) Cabinet
+
+004 ANNUALIZED REVENUE TARGET: $500,000
+
+The 2004 Annualized Revenue Target to qualify as a Premier Reseller is $500,000. Reseller is eligible for Premier Reseller program benefits and responsible for the obligations as defined in the Channel Notification Documents.
+
+INITIAL EDUCATION REQUIREMENTS:
+
+Reseller must successfully complete both Sales and Technical Foundation training, for each McDATA authorized sales location, as follows, within ninety (90) days of the effective date of this Agreement.
+
+Sales:      All Sales Reps/sales location     McDATA Solution (web-based) Technical:  3 individuals                     Certified Professional Accelerated                                               Track (CPAT)
+
+McDATA will waive the charges associated with the above listed required technical courses for three (3) individuals at Reseller's organization. McDATA may, at its sole discretion, provide additional education incentives to Reseller based upon sales performance. These incentives, if made available, will be communicated via Channel Notification Documents.
+
+McDATA Corporation Reseller Agreement Premier Partner Addendum June 2004
+
+8
+
+PRODUCT PROVIDER:
+
+Reseller will purchase Products directly from one of the Distributors listed on the next page below. Terms and conditions for purchase of Products from the Distributor are as agreed between Distributor and Reseller.
+
+Reseller may elect a new distributor annually by notifying McDATA thirty (30) days prior to renewal of the Agreement. If McDATA does not receive notice of a new distributor election and the Agreement is renewed, Reseller agrees that it will continue to purchase Products through the currently designated distributor.
+
+Under limited circumstances as approved by McDATA in writing, Reseller may purchase from another Product Provider as directed by McDATA. This may include a) critical customer need where Product is not available from Product Provider in the time frame required by End User, but available through another Authorized McDATA Product Provider or b) repeated, documented dissatisfaction with specified Product Provider during the term of the Agreement.
+
+PLEASE INDICATE WHICH ONE OF THE FOLLOWING DISTRIBUTORS YOU CHOOSE TO BUY FROM FOR THE FIRST YEAR OF YOUR AGREEMENT WITH McDATA:
+
+[ ] AVNET
+
+East Coast Sates - Elsa Neves      Phone:   877-286-3879 X5815                                    Fax:     480-794-9324                                    Email:   elsa.neves@avnet.com West Coast Sates - Jan Johnson     Phone:   877-967-3664                                    Fax:     480-794-9324                                    Email:   jan.johnson@avnet.com
+
+[ ] ARROW ESS
+
+Cindie Snell                       Phone:     303-824-3651                                    Fax:       303-824.3646                                    Email:     csnell@arrow.com
+
+[ ] BELL MICROPRODUCTS,INC
+
+Lyle Freemen                       Phone:     952-345-7942 1941 Ringwood Ave                  Email:     lfreerman@bellmicro.com San Jose, California 95131 -1721
+
+[ ] MOCA
+
+
+
+
+
+
+
+Adrienne Hargrove                         Phone:     1 -800-786-3425 5230 Pacific Concourse Dr, 4th Flr,       Fax: Los Angeles, CA 80045                     Email:
+
+[X] TIDAL WIRE
+
+Cherie Vallone                     Phone:     781-332-1104                                    Email:     cvallone@tidalwire.com
+
+McDATA reserves the right to change the Premier Partner criteria each January or upon sixty (60) days advanced notice through a Channel Notification Document. If Reseller fails to comply with any of the above requirements, McDATA reserves the right to change the Reseller Designation and Reseller will become eligible for only those programs applicable to the new Reseller Designation.
+
+McDATA Corporation Reseller Agreement Premier Partner Addendum June 2004
+
+9

@@ -1,0 +1,989 @@
+Exhibit 10.22
+
+TRANSITION SERVICES AGREEMENT
+
+TRANSITION SERVICES AGREEMENT (the "Agreement") dated as of [•], 2020, between Reynolds Group Holdings Inc., a Delaware corporation ("RGHI"), and Reynolds Consumer Products Inc., a Delaware corporation, (the "Company" or "RCP"). Each Party or any of its Affiliates providing services hereunder shall be a "Provider," and each Party or any of its Affiliates receiving services hereunder shall be a "Recipient."
+
+PRELIMINARY STATEMENT
+
+A. Prior to the Commencement Date, RGHI and the Company were wholly owned subsidiaries of Reynolds Group Holdings Limited, a company organized under the laws of New Zealand ("RGHL"). Effective February 4, 2020 (the "Commencement Date"), RCP is undertaking an initial public offering of shares of common stock and thereafter the Company will no longer be a subsidiary of RGHL.
+
+B. In order to facilitate the separation of the Company and its Affiliates from RGHI and its Affiliates, (i) RGHI will provide, or cause its Affiliates to provide, certain services to the Company and its Affiliates, and (ii) the Company will provide, or cause its Affiliates to provide, certain services to RGHI and its Affiliates, all on the terms and conditions set forth herein.
+
+NOW, THEREFORE, the Parties agree as follows:
+
+ARTICLE I DEFINITIONS
+
+Section 1.1 Definitions. The following terms shall have the respective meanings set forth below throughout this Agreement:
+
+"Affiliate" means, with respect to any person, any other person who directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, such person. The term "control" means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of voting securities, by contract or otherwise, and the terms "controlled" and "controlling" have meanings correlative thereto. For the avoidance of doubt, for the purposes of this Agreement and all exhibits thereto, the term Affiliate shall not apply to the relationship between RGHI or RGHL or either of their respective Affiliates on the one hand and RCP and its direct and indirect subsidiaries on the other hand.
+
+"Applicable Rate" means the average of the daily "prime rate" (expressed rate per annum) published in The Wall Street Journal for each of the days in the applicable period, plus two percent (2%).
+
+"Business" means the manufacture and sale of consumer products including cooking products, waste & storage products, and tableware by the Company and activities ancillary thereto.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+"Business Day" means any day that is not (a) a Saturday, (b) a Sunday, or (c) any other day on which commercial banks are authorized or required by law to be closed in the City of New York.
+
+"Change" has the meaning set forth in Section 3.1(c).
+
+"Commencement Date" has the meaning set forth in the preamble.
+
+"Confidential Information" means any information of a Party, its Affiliates, members, licensors, consultants, service providers, advisors or agents that is confidential or proprietary, however recorded or preserved, whether written or oral. Confidential Information includes trade secrets, pricing data, employee information, customer information, cost information, supplier information, financial and tax matters, third-party contract terms, inventions, know-how, processes, methods, models, technical information, schedules, code, ideas, concepts, data, software and business plans (regardless of whether such information is identified as confidential).
+
+"Dispute Negotiations" has the meaning set forth in Section 3.3(b).
+
+"Fees" has the meaning set forth in Section 5.1.
+
+"Force Majeure Event" has the meaning set forth in Section 10.1.
+
+"Governmental Authority" means governmental or quasi-governmental entity of any nature (including any governmental agency, branch, department, official, or entity and any court or other tribunal) or (iii) body exercising, or entitled to exercise any administrative, executive, judicial, legislative, police, regulatory or taxing authority or power of any nature, including any arbitral tribunal.
+
+"Indemnified Parties" has the meaning set forth in Section 9.1.
+
+"Indemnifying Party" has the meaning set forth in Section 9.1.
+
+"Law" means a law, statute, order, ordinance, rule, regulation, judgment, injunction, order, or decree.
+
+"Litigation" means any action, cease and desist letter, demand, suit, arbitration proceeding, administrative or regulatory proceeding, citation, summons or subpoena of any nature, civil, criminal, regulatory or otherwise, in law or in equity.
+
+"Losses" means any and all damages, liabilities, losses, obligations, claims of any kind, interest and expenses (including reasonable fees and expenses of attorneys).
+
+"Migration Plan" has the meaning set forth in Section 2.1(c).
+
+"Migration Services" has the meaning set forth in Section 2.1(c).
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+"Multi-party Contract" means a contract with a customer or supplier pursuant to which both RCP and RGHI or any of its Affiliates provides a benefit to or receives a benefit from a third party.
+
+"Party" means RGHI or Company, as applicable (collectively, the "Parties").
+
+"Personnel" means, with respect to any Party, (i) the employees, officers and directors of such Party or its Affiliates or (ii) agents, accountants, attorneys, independent contractors and other third parties engaged by such Party or its Affiliates.
+
+"Provider" has the meaning set forth in the preamble.
+
+"RCP Names" means the registered and unregistered trademarks and corporate names used by RCP, RGHI and its respective Affiliates immediately prior to the Commencement Date which include the word "Reynolds" and any derivatives thereof.
+
+"Recipient" has the meaning set forth in the preamble
+
+"Reverse Transition Services" has the meaning set forth in Section 2.1(b).
+
+"RGHI Letters of Credit" means all letters of credit, performance bonds or other surety agreements that RGHL or RGHI or its Affiliates have in place with respect to the Company.
+
+"RGHI Guarantees" means all guarantees extended by RGHI or RGHL or its Affiliates on behalf of the Company.
+
+"Sale and Services Taxes" has the meaning set forth in Section 5.5.
+
+"Security Incident" has the meaning set forth in Section 4.1.
+
+"Security Regulations" means a Party's and its Affiliates' system security policies, procedures and requirements, as amended from time to time.
+
+"Service Coordinator" has the meaning set forth in Section 3.3(a).
+
+"Service Standard" has the meaning set forth in Section 3.1(a).
+
+"Services" means the Transition Services and the Reverse Transition Services, unless the context requires otherwise.
+
+"Systems" has the meaning set forth in Section 3.5.
+
+"Tax" means any federal, state, local or foreign income, alternative, minimum, accumulated earnings, personal holding company, franchise, capital stock, profits, windfall profits, gross receipts, sales, use, value added, transfer, registration, stamp, premium, excise, customs duties, severance, environmental (including taxes under section 59A of the Code), real property, personal property, ad valorem, occupancy, license, occupation, employment, payroll, social security, disability, unemployment, workers' compensation, withholding, estimated or other similar tax, duty, fee, assessment or other governmental charge or deficiencies thereof (including all interest and penalties thereon and additions thereto).
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+"Terminating Party" has the meaning set forth in Section 6.3.
+
+"Term" has the meaning set forth in Section 6.1.
+
+"Termination Date" has the meaning set forth in Section 6.1.
+
+"Transition Services" has the meaning set forth in Section 2.1(a).
+
+"TSA Records" has the meaning set forth in Section 7.1(a).
+
+ARTICLE II SERVICES AND INTERNAL CONTROLS
+
+Section 2.1 Services.
+
+(a) During the applicable Term of any Service, and in accordance with the terms and conditions of this Agreement, RGHI shall provide, or shall cause its Affiliates or, subject to Section 2.2, third parties to provide, to the Company or one or more of its Affiliates (in connection with the conduct of the Business) the services described on Exhibit A hereto (the "Transition Services"). Notwithstanding the content of Exhibit A, RGHI agrees to consider in good faith any reasonable request by the Company for access to any additional service that is necessary for the operation of the Business, at fees to be agreed upon after good faith negotiation between the parties. RGHI will not be in in breach of this Agreement if RGHI declines to provide a requested additional service for any good faith reason, including the failure of the Parties to agree to the scope, term, and fee for the additional service. Any such additional services so provided by RGHI shall constitute Services hereunder and be subject in all respects to the provisions of this Agreement as if fully set forth on Exhibit A as of the date hereof.
+
+(b) During the applicable Term of any Service, and in accordance with the terms and conditions of this Agreement, Company shall provide, or shall cause its Affiliates or, subject to Section 2.2, third parties to provide, to RGHI or one or more of its Affiliates, the services described on Exhibit B hereto (the "Reverse Transition Services").
+
+(c) In addition to the Services described on Exhibit A hereto, RGHI shall, and shall cause its Affiliates to undertake the segregation and extraction required to separate the IT systems, data, records and processes of the Company, or thereafter created in the conduct of the Business from RGHI's IT environment or infrastructure, and migrate them to RCP's, or any of its Affiliates', IT environment or infrastructure (collectively, the "Migration Services"). For the avoidance of doubt, Migration Services apply to services only and do not include the acquisition or supply of any hardware, software, license (except where RGHI, at the request of RCP, acquires such hardware, software, or license at RCP's cost), or ongoing operational support service for the operating environment(s) (except as otherwise contemplated by Exhibit A). The costs of such Migration Services
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+shall be paid by RCP, including any out-of-pocket costs incurred by RGHI or its Affiliates in connection with such Migration Services and for the time spent by RGHI, its Affiliates or their Personnel, as applicable, in providing such Migration Services. RGHI will also provide to RCP any available reasonable documentation around the systems implementation, configuration documents, process maps, or any other documentation related to the systems that are part of the separation. RGHI and RCP shall work together in good faith to develop a detailed plan for migrating RCP's IT systems, data, records and processes to its IT environment or infrastructure (the "Migration Plan").
+
+Section 2.2 Performance by Affiliates or Subcontractors. Either Party may, in its sole discretion, engage, or cause one of their Affiliates to engage, one or more parties (including other third parties or Affiliates) to provide some or all of the Services; provided, (i) such Party is using such Affiliate or third party to perform the same Services for itself and its Affiliates (to the extent applicable), (ii) such arrangement would not increase the cost to Recipient for such Services, and (iii) if such third party is not already engaged with respect to such Service as of the date hereof, Provider shall obtain the prior written consent of Recipient (not to be unreasonably withheld). Provider shall (x) be responsible for the performance or non-performance of any such parties and (y) in all cases remain responsible for ensuring that obligations with respect to the standards of Services set forth in Article III of this Agreement are satisfied with respect to any Services provided by such Affiliate or third party.
+
+Section 2.3 Scope of Services. Other than as expressly set forth on Exhibit A, Section 2.1, Exhibit B, or as agreed by the Parties in writing, in no event shall Provider be obligated to provide any Service to the Recipient for any purpose other than to facilitate, on a transitional basis, the Recipient's ability to conduct business as conducted immediately preceding the date hereof.
+
+Section 2.4 Internal Controls and Procedures. In addition to the requirements of Article III and Article VII herein, with respect to the Services provided by RGHI and its Affiliates providing Services hereunder, certain of the Services may involve processes that directly or indirectly support financial information that the Company includes within its consolidated financial reports. The Company has an obligation to ensure that it has internal controls over financial reporting that comply with the Sarbanes-Oxley Act of 2002 and must also ensure that its external auditors can complete their necessary evaluation of the Company's internal controls over financial reporting in accordance with auditing standards issued by the U.S. Public Company Accounting Oversight Board. The Company and RGHI and such Affiliates shall use reasonable commercial efforts to agree (i) what key controls over financial reporting will be performed by RGHI and such Affiliates within the processes that directly or indirectly support financial information that the Company includes within its consolidated financial reports; (ii) the frequency as to the performance of the agreed key controls; and (iii) the form of documentation required to evidence the effective performance of the agreed key controls. RGHI and such Affiliates will perform the agreed key controls and evidence such performance in the agreed format. Company shall have the right, in a manner to avoid unreasonable interruption to RGHI's or its Affiliates' business, to (1) evaluate the effectiveness of the key controls; and (2) upon at least thirty (30) days' written notice to RGHI, perform (through its external auditor) audit procedures over RGHI's internal controls and procedures for the Services provided under this Agreement; provided that such right to audit shall exist solely to the extent reasonably required by Company's external auditors to ensure Company's compliance with the Sarbanes-Oxley Act of 2002. Company shall pay or reimburse all of RGHI's expenses and costs arising from such audit. The performance of the agreed key controls, preparation of documentation, providing access to the Company or its delegate and the Company's auditors will be billed at the agreed rates as set forth on Exhibit A.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+ARTICLE III SERVICE LEVELS; SERVICE COORDINATORS; TSA COMMITTEE
+
+Section 3.1 Quality of Services.
+
+(a) Provider shall perform the Services (i) at a level of quality substantially similar in all material respects to that at which such Services were performed or enjoyed during the twelve (12) month period prior to the date hereof and (ii) in accordance with applicable Law (collectively, (i) and (ii), the "Service Standard"). Subject to Section 3.1(c), internal controls of Provider and its Affiliates with respect to the Service Standard shall remain materially the same in effect throughout the term of this Agreement. Each Party acknowledges that the other Party and their Affiliates are not professional service providers of the Services.
+
+(b) In the event of any material failure of a Provider to perform the Services, as applicable, in accordance with the Service Standards, Recipient shall provide Provider with written notice of such material failure, and Provider will use commercially reasonable efforts to remedy such failure as soon as reasonably possible and in the same manner that Provider would remedy such a failure for their other businesses undergoing such a material failure.
+
+(c) A Provider may, from time to time: (i) reasonably supplement, modify, upgrade, substitute or otherwise alter ("Change") any Service in a manner consistent with Changes made with respect to similar services provided by Provider on their own behalf or to their Affiliates, including taking any physical or information security measures with respect to such Service, in a manner that does not (x) adversely affect in any material respect the quality or availability of such Service or (y) materially increase the fees payable in connection with such Changed Service; provided that to the extent that any such Change is reasonably likely to modify, substitute or otherwise alter the receipt or use of such Service, Provider shall provide Recipient with reasonable advance written notice of the implementation of the Change to the extent practicable under the circumstances; provided, further, that the Service Standard shall continue to apply to such Service following any Change. If a Change is required by applicable Law or is in response to a threatened Security Incident, Provider may make any and all changes to the Service necessary to comply with applicable Law and any changes thereto or to respond to such threatened Security Incident in a manner consistent with responses made by Provider on its own behalf or in respect of their Affiliates; provided that Provider shall provide Recipient such reasonable advance written notice of the implementation of any such Change as may be practicable under the circumstances; and (ii) with reasonable advance written notice to Recipient, temporarily suspend the provision of a Service as necessary to conduct Systems maintenance or patching without such suspension constituting a breach of the Service Standard.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+(d) A Provider need not provide any Service if it is not permitted to do so by applicable Law. To the extent that any Service is not permitted pursuant to applicable Law, the Parties will cooperate in good faith to enter into arrangements reasonably acceptable to each of the Parties under which the Recipient would obtain the benefit of such Service to the same extent (or as nearly as practicable) as if such Service were permitted by applicable Law.
+
+Section 3.2 Policies. Each Party shall, and shall cause any of its Affiliates or third parties providing or receiving Services (as the case may be) to, follow the reasonable policies, procedures and practices of the other Party and its Affiliates applicable to the Services that are known or made known to such Party. A failure of a Recipient to act in accordance with this Section 3.2 that prevents a Provider from providing a Service hereunder shall, upon reasonable advance written notice to the Recipient (where practicable), relieves Provider of its obligations under the Service until such time as the failure has been cured.
+
+Section 3.3 Service Coordinators and Dispute Resolution.
+
+(a) RGHI and Company shall each nominate a representative to act as the primary contact person with respect to the performance of the Services (each, a "Service Coordinator"). Unless otherwise agreed upon by the Parties, the Parties shall direct all initial communications relating to this Agreement and the Services to the Service Coordinators. The initial Service Coordinators for RGHI and Company, including their contact information, are set forth on Exhibit C. Either Party may replace its Service Coordinator at any time by providing notice and contact information for the newly designated Service Coordinator in accordance with Section 10.5. The Service Coordinators shall oversee the implementation and ongoing operation of this Agreement. The Parties shall ensure that their respective Service Coordinators shall meet in person or telephonically at such times as are reasonably requested by RGHI or Company to review and discuss the status of, and any issues arising in connection with, the Services or this Agreement.
+
+(b) In the event a dispute arises between the Parties under this Agreement, telephonic negotiations shall be conducted between the Parties' respective Service Coordinators within ten (10) days following a written request from any Party ("Dispute Negotiations"). If the Service Coordinators are unable to resolve the dispute within ten (10) days after the Parties have commenced Dispute Negotiations, then either RGHI or the Company, by written request to the other Party, may request that such dispute be referred for resolution to the respective presidents (or similar position) of the divisions implicated by the matter for the Parties, or more senior executive of a Party if such Party so designates, which presidents (or other executives) will have fifteen (15) days to resolve such dispute. If the presidents of the relevant divisions (or other executives) for each Party do not agree to a resolution of such dispute within fifteen (15) days after the reference of the matter to them, or if the dispute is not otherwise resolved in a friendly manner as set forth in this Section 3.3, then any unresolved dispute may be resolved pursuant to Section 10.8.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Section 3.4 Limitation of Services Provided. Except to the extent required to meet the Service Standards, in providing the Services, the Parties are not obligated to: (i) hire any additional employees; (ii) maintain the employment of any specific employee; (iii) purchase, lease or license any additional equipment or software; or (iv) make any capital investment to provide or continue providing the Services. The Parties have no responsibility to verify the correctness of any information given to them on behalf of the other Party for the purposes of providing the Services.
+
+Section 3.5 Third Party Licenses and Consents. The Parties will cooperate and assist each other, and use commercially reasonable efforts, to obtain, or direct its Affiliates to obtain, any third party consents required under the terms of any agreement between a Party or any of its Affiliates, on the one hand, and a third party, on the other hand, in order for a Party or its Affiliates to provide the Services during the Term. Notwithstanding the foregoing, if the provision of any Service as contemplated by this Agreement requires the consent, license or approval of any third party not previously obtained, the Parties shall use commercially reasonable efforts, to obtain as promptly as possible after the Commencement Date, any third party consents, permits, licenses and approvals required under the terms of any third party agreement in order for Provider to provide the Services hereunder. The cost of obtaining any consent, permit, license or approval with respect to any Service shall be borne by the Recipient of the relevant Services. If any such consent, permit, license or approval is not obtained, the Parties will cooperate in good faith to enter into reasonably acceptable arrangements under which Recipient would obtain the benefit of such Service to the same extent (or as nearly as practicable) as if such consent were obtained (at Recipient's cost), and each Party will continue to use commercially reasonable efforts to obtain any such required consent or amendment. The Parties acknowledge that it may not be practical to try to anticipate and identify every possible legal, regulatory, and logistical impediment to the provision of Services hereunder. Accordingly, each Party will promptly notify the other Party if it reasonably determines that there is a legal, regulatory, or logistical impediment to the provision of any Service, and the Parties shall each use commercially reasonable efforts to overcome such impediments so that the Services may be provided otherwise in accordance with the terms of this Agreement. All computer systems or software ("Systems"), data, facilities and other resources owned by a Party, its Affiliates or third parties used in connection with the provision or receipt of the Services, as applicable, shall remain the property of such Party, its Affiliates or third parties.
+
+ARTICLE IV SECURITY; SYSTEMS
+
+Section 4.1 Security Breaches. If any Party discovers (a) any material breach of the Security Regulations or of the systems used to provide the Services or (b) any breach or threatened breach of the Security Regulations that involves or may reasonably be expected to involve unauthorized access, disclosure or use of the other Party's or its Affiliates' Confidential Information (each of (a) and (b), a "Security Incident"), such Party shall, at the cost of the Party responsible for the Security Incident, (i) promptly (both orally, if practicable, and in any event in writing) notify the other Party of the Security Incident and (ii) reasonably cooperate with the other Party (1) to take commercially reasonable measures necessary to control and contain the security of such Confidential Information, (2) to remedy any such Security Incident, including using commercially reasonable efforts to identify and address any root causes for such Security Incident, (3) to furnish full details of the Security Incident to the other Party and keep such other Party advised of all material measures taken and other developments with respect to such Security Incident, (4) in any litigation or formal action with third parties or in connection with any regulatory, investigatory or other action of any Governmental Authority and (5) in notifying the other Party's or its Affiliates' customers and Personnel and other persons of the Security Incident to the extent reasonably requested by the other Party.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Section 4.2 Systems Security.
+
+(a) If RGHI, Company, their Affiliates or their respective Personnel receive access to any of RGHI's, Company's, or their respective Affiliates', as applicable, Systems in connection with the Services, the accessing Party or its Personnel, as the case may be, shall comply with all of such other Party's and its Affiliates' reasonable Security Regulations known to such accessing Party or its Personnel or made known to such accessing Party or its Personnel in writing, and will not tamper with, compromise or circumvent any security, Security Regulations or audit measures employed by such other Party or its relevant Affiliate.
+
+(b) Each Party shall, and shall cause its Affiliates to, as required by applicable Law, (i) ensure that only those of its Personnel who are specifically authorized to have access to the Systems of the other Party or its Affiliates gain such access and (ii) prevent unauthorized access, use, destruction, alteration or loss of information contained therein, including by notifying its Personnel regarding the restrictions set forth in this Agreement and establishing appropriate policies designed to effectively enforce such restrictions.
+
+(c) Each Party shall, and shall cause their respective Affiliates to, access and use only those Systems of the other Party and its Affiliates, and only such data and information within such Systems, to which they have been granted the right to access and use. Any Party and its Affiliates shall have the right to deny the Personnel of the other Party or its Affiliates access to such first Party's or its Affiliates' Systems, after prior written notice and consultation with the other Party, in the event the Party reasonably believes that such Personnel pose a security concern.
+
+Section 4.3 Viruses. Provider and Recipient shall each use its commercially reasonable efforts consistent with its past practices to prevent the introduction or coding of viruses or similar items into the Systems of the other Party. Without limiting the rights and remedies of any party hereunder, in the event a virus or similar item is introduced into the Systems of a Party, whether or not such introduction is attributable to the other Party (including such other Party's failure to perform its obligations under this Agreement), the other Party shall, as soon as practicable, use its commercially reasonable efforts to assist such Party in reducing the effects of the virus or similar item, and if the virus or similar item causes a loss of operational efficiency or loss of data, upon such Party's request, work as soon as practicable to contain and remedy the problem and to restore lost data resulting from such introduction.
+
+Section 4.4 Providers' Software. Except as authorized by this Agreement or by Provider's express written consent, Recipient shall not, and shall cause its Affiliates not to, copy, modify, reverse engineer, decompile or in any way alter any software of Provider or any of its Affiliates.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Section 4.5 System Upgrades. No Provider shall be required to purchase, upgrade, enhance or otherwise modify any Systems used by any Recipient as of the date hereof in connection with the business of any Party, or to provide any support or maintenance services for any Systems that have been upgraded, enhanced or otherwise modified from the Systems that are used in connection with the business of any Party as of the date hereof.
+
+ARTICLE V FEES
+
+Section 5.1 Fees. Recipient shall pay Provider (i) the fee for each Service set forth on Exhibit A or Exhibit B, (ii) Providers' and their Affiliates' reasonable and documented out-of-pocket expenses incurred in providing the Services, including the third-party fees and expenses that are charged to Recipient or their Affiliates in connection with provision of the Services (including any fees and expenses charged by subcontractors permitted to provide the Services under Section 2.2) but excluding payments made to employees of Provider or any of their Affiliates pursuant to Section 5.2, and (iii) any other fees as agreed to by the Parties in writing (collectively, the "Fees").
+
+Section 5.2 Responsibility for Wages and Fees. Any employees of Provider or any of their Affiliates providing Services to Recipient under this Agreement will remain employees of Provider or such Affiliate and shall not be deemed to be employees of Recipient for any purpose. Provider or such Affiliate shall be solely responsible for the payment and provision of all wages, bonuses and commissions, employee benefits, including severance and worker's compensation, and the withholding and payment of applicable Taxes relating to such employment.
+
+Section 5.3 Invoices. Provider shall submit or cause to be submitted to Recipient in writing, within 15 days after the end of each month, an invoice setting forth the Fees for the Services provided to Recipient during such month in reasonable detail, as applicable, due under such invoice.
+
+Section 5.4 Payment. Recipient shall pay, or cause to be paid, the Fees shown on an invoice no later than the last business day of the month Recipient received such invoice unless disputed in accordance with Section 5.7. Any amount not received from the invoiced Party within such period shall bear interest at the Applicable Rate, from and including the last date of such period to, but excluding, the date of payment.
+
+Section 5.5 Sales Tax, Etc. Provider shall be entitled to invoice and collect from Recipient any additional amounts required for state, local and foreign sales Tax, value added Tax, goods and services Tax or similar Tax with respect to the provision of the Services hereunder, as applicable ("Sale and Services Taxes"). Notwithstanding the previous sentence, if the Recipient is exempt from liability for such Sale and Services Taxes, it shall provide Provider with a certificate (or other proof) evidencing an exemption from liability for such Sale and Services Taxes. Provider shall be responsible for any losses (including any deficiency, interest and penalties) imposed as a result of a failure to timely remit such Sale and Services Taxes to the applicable tax authority to the extent the Recipient timely remits such Sale and Services Taxes to Provider or Provider's failure to do so results from Provider's failure to timely charge or invoice such Sale and Services Taxes. The Recipient shall be entitled to any refund of any such Sale and Services Taxes paid in excess of liability as determined at a later date. Provider shall promptly notify the Recipient of any deficiency claim or similar notice by a tax authority with respect to Sale and Services Taxes payable hereunder, and of any pending audit or other proceeding that could lead to the imposition of Sales and Services Taxes payable hereunder.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Section 5.6 No Offset. Recipient shall not withhold any payments due under this Agreement in order to offset payments due (or to become due) to Recipient pursuant to this Agreement unless such withholding is mutually agreed to by the Parties in writing or is provided for in the final ruling of a court. Any required adjustment to payments due hereunder will be made as a subsequent invoice.
+
+Section 5.7 Invoice Disputes. In the event of an invoice dispute, the disputing Party shall deliver a written statement to the other Party no later than the date payment is due on the disputed invoice listing all disputed items and providing a reasonably detailed description of each disputed item. Amounts not so disputed shall be deemed accepted and shall be paid, notwithstanding disputes on other items, within the period set forth in Section 5.4. The Parties shall seek to resolve all such disputes expeditiously and in good faith. Provider shall continue performing the Services in accordance with this Agreement pending resolution of any dispute.
+
+Section 5.8 Audit. At the request of Recipient, Provider shall provide to Recipient and its Affiliates reasonable access to Provider's applicable Personnel and records with respect to the amount charged in connection with any Service so that Recipient may confirm that the pass through costs incurred by Provider or, to the extent such Service is provided on an hourly basis, information related to hours worked in connection with such Service, are commensurate with the amount charged to Recipient for such Service. In the event that Recipient believes that the amount charged to Recipient materially exceeds the pass through costs actually incurred by Provider or hours charged in connection with such Service, the Parties shall review such matter in good faith.
+
+ARTICLE VI TERM AND TERMINATION
+
+Section 6.1 Term of Services. With respect to each of the Services, the term thereof will be for a period commencing as of the date hereof, unless a different date is specified as the commencement date for any applicable Service on Exhibit A or Exhibit B (either, a "Commencement Date"), and shall continue until 12 months following the Commencement Date unless (i) such other date as is specified as the termination date for any applicable Service in this Agreement or on Exhibit A or Exhibit B, as applicable (the "Term") or (ii) earlier terminated pursuant to this Agreement (a "Termination Date").
+
+Section 6.2 Termination of Services. Except as agreed by the Parties in writing or as otherwise stated in the Exhibits, Company may terminate for convenience any Transition Service, and RGHI may terminate for convenience any Reverse Transition Service, upon 30 days' prior written notice of such termination; provided, (a) that, with respect to the Services described in Section G1 of Exhibit A, unless otherwise indicated therein, those Services may not be terminated independently except in accordance with an agreed Migration Plan and, (b) any unamortized costs associated with Provider's purchase of any license or other costs incurred specifically for the purpose of providing the Services hereunder will be passed through to the Terminating Party. Upon termination of any Service pursuant to this Section 6.2, the Terminating Party's obligation
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+to pay for such Service will cease except any sums accrued or due as of the date of such early termination for Services rendered (which shall include (i) any amounts contemplated by 6.2(b), plus (ii) a pro rata portion of any fees applicable to the current period in which such Services are being performed if the applicable fee is determined on a period by period basis as set forth on Exhibit A or Exhibit B, as applicable). The provisions of this Section 6.2 shall apply mutatis mutandis with respect to any assignment of this Agreement subject to Section 10.10(b) and the Parties will negotiate in good faith regarding fee allocations and, if necessary, early termination or partial termination of any Services.
+
+Section 6.3 Termination of Agreement. This Agreement shall terminate when the Termination Date has occurred for all Services. In addition, this Agreement may be terminated by either Party (the "Terminating Party") upon written notice to the other Party (which notice, in case of material breach, shall specify the basis for such claim for breach), if:
+
+(a) the other Party or its Affiliates materially breaches this Agreement and such breach is not cured, to the reasonable satisfaction of the Terminating Party, within thirty (30) days of written notice thereof, it being understood that a good-faith dispute over an invoice or Service shall not constitute a material breach of this Agreement; or
+
+(b) the other Party files for bankruptcy or similar proceeding, is the subject of an involuntary filing for bankruptcy or similar proceeding (not dismissed within sixty (60) days), makes a general assignment of all or substantially all of its assets for the benefit of creditors, becomes or is declared insolvent, becomes the subject of any proceedings (not dismissed within sixty (60) days) related to its liquidation, insolvency, bankruptcy or the appointment of a trustee or a receiver, takes any corporate action for its winding up or dissolution, or a court approves reorganization proceedings on such Party.
+
+Section 6.4 Effect of Termination. Upon any termination or expiration of this Agreement or any Service provided hereunder:
+
+(a) each Party shall, and shall cause its Affiliates to, as soon as practicable, return to the other Party any equipment, books, records, files and other property, not including current or archived copies of computer files, of the other Party, its Affiliates and their respective third-party service providers, that is in the Party's or its Affiliates' possession or control (and, in case of termination of one or more specific Services, only the equipment, books, records, files and other property, not including current or archived copies of computer files, that are used in connection with the provision or receipt solely of such Services and of no other Services); and
+
+(b) the intellectual property license granted by Section 8.2 shall terminate; provided, however, that in the case of termination of a specific Service, such license shall terminate only to the extent such license was necessary for the provision or receipt of such Service and is not necessary for any other Service that has not yet terminated.
+
+Section 6.5 Survival. The following Articles and Sections shall survive the termination or expiration of this Agreement, including the rights and obligations of each Party thereunder: Article I; Article V; this Article VI; Article VII; Article IX; and Article X.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+ARTICLE VII BOOKS AND RECORDS
+
+Section 7.1 TSA Books and Records.
+
+(a) The Parties shall, and shall cause each of their respective Affiliates to, take reasonable steps to maintain books and records of all material transactions pertaining to, and all data used by it, in the performance of the Services (the "TSA Records"). The TSA Records shall be maintained (a) in a format substantially similar to the format such books and records are maintained as of the date hereof, (b) in accordance with any and all applicable Laws and (c) in accordance with the maintaining Party's business record retention policies.
+
+(b) Each Party shall make the TSA Records it maintains available to the other Party and its Affiliates and their respective auditors or other representatives, and in any event to any Governmental Authority, during normal business hours on reasonable prior notice (it being understood that TSA Records that are not stored on a Party's regular business premises will require additional time to retrieve), for review, inspection, examination and, at the reviewing Party's reasonable expense, reproduction. Access to such TSA Records shall be exercised by a Party and its Affiliates and their authorized representatives in a manner that shall not interfere unreasonably with the normal operations of the Party maintaining the TSA Records. In connection with such review of TSA Records, and upon reasonable prior notice, a reviewing Party and its Affiliates shall have the right to discuss matters relating to the TSA Records with the employees of the Party or its Affiliates who are maintaining the relevant TSA Records and providing the Services, as applicable, during regular business hours and without undue disruption of the normal operations of such maintaining and providing Party or its Affiliates. Neither Party shall have access to any TSA Records, and neither Party shall be required to provide access or disclose information, when such access or disclosure would jeopardize any attorney-client privilege or violate any applicable Law (provided that such party shall use commercially reasonable efforts to provide such access or share such information in a manner that would not jeopardize any such privilege or violate any such Law). Each Party's rights under this Section 7.1(b) shall continue for so long as TSA Records are required to be maintained by the other Party under Section 7.1(a).
+
+Section 7.2 Access to Information; Books and Records.
+
+(a) On and after the Commencement Date, RGHI shall, and shall cause its Affiliates to, until the 6th anniversary of the Commencement Date, afford to RCP and its employees and authorized representatives during normal business hours reasonable access to their books of account, financial and other records (including accountant's work papers), information, employees and auditors at the Company's expense to the extent necessary or useful for the Company in connection with any audit, investigation, or dispute or Litigation (other than any Litigation involving a dispute between the Parties) or any other reasonable business purpose relating to the Business; provided that any such access by RCP shall not unreasonably interfere with the conduct of the business of RGHI and its Affiliates.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+(b) After the Commencement Date, RCP shall, and shall cause its Affiliates to, until the 7th anniversary of the date on which RGHL or its Affiliates owns less than 10% of the capital stock in RCP, afford to RGHI and its employees and authorized representatives reasonable access to RCP's employees and auditors, retain all books, records (including accountant's work papers), and other information and documents pertaining to the Business in existence on the Commencement Date and make available for inspection and copying by RGHI (at RGHI's expense) during normal business hours, in each case so as not to unreasonably interfere with the conduct of the business of RCP and its Affiliates, such information (A) as may be required by any Governmental Authority, including pursuant to any applicable Law or regulatory request or to prepare or file any Tax related documentation, (B) as may be necessary for RGHI or its Affiliates in connection with their ongoing financial reporting, accounting or other purpose related to RGHI and Company's affiliation immediately prior to the Commencement Date, or (C) as may be necessary for RGHI or its Affiliates to perform their respective obligations pursuant to this Agreement or in connection with any Litigation (other than any Litigation involving a dispute between the parties), in each case subject to compliance with all applicable privacy Laws.
+
+(c) Notwithstanding anything to the contrary in this Section 7.2, the Party granting access under Section 7.2(a) or Section 7.2(b) may withhold any document (or portions thereof) or information (i) that is subject to the terms of a non-disclosure agreement with a third party (provided that such party shall use commercially reasonable efforts to share such information in a manner that would not violate any such obligation), (ii) that may constitute privileged attorney-client communications or attorney work product and the transfer of which, or the provision of access to which, as reasonably determined by such Party's counsel, constitutes a waiver of any such privilege (provided that such party shall use commercially reasonable efforts to share such information in a manner that would not jeopardize any such privilege), or (iii) if the provision of access to such document (or portion thereof) or information, as determined by such Party's counsel, would reasonably be expected to conflict with applicable Laws.
+
+Section 7.3 Non-Disclosure Agreements. To the extent that any third-party proprietor of information or software to be disclosed or made available to a Recipient in connection with performance of the Services requires a specific form of non-disclosure agreement as a condition of such third party's consent to use the same for the benefit of Recipient or to permit the Recipient access to such information or software, each Party shall, or shall cause its relevant Affiliate to, as a condition to the receipt of such portion of the Services, execute (and shall cause its Personnel to execute, if reasonably required) any such form.
+
+Section 7.4 Confidential Information.
+
+(a) Each Party agrees to take the necessary steps to protect any Confidential Information of the other Party with at least the same degree of care that the receiving Party uses to protect its own confidential or proprietary information of like kind, but not less than reasonable care. Neither Party shall use the other Party's Confidential Information other than to perform Services pursuant to this Agreement or pursuant to Section 7.2 herein. The obligation of confidentiality hereunder shall not apply to information that (i) was already
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+in the possession of the receiving Party without restriction on its use or disclosure prior to the receipt of the information from the disclosing Party, (ii) is or becomes available to the general public through no act or fault of the receiving Party, (iii) is rightfully disclosed to the receiving Party by a third party without restriction on its use or disclosure, (iv) is independently developed by employees and/or consultants of the receiving Party who have not had access to the disclosing Party's Confidential Information, (v) is disclosed to the receiving Party after the receiving Party properly gave notice to the disclosing Party that the receiving Party no longer desired to receive any additional Confidential Information from the disclosing Party, or (vi) is required to be disclosed pursuant to judicial or governmental decree or order, provided that the disclosing Party is, where permitted, given prompt written notice of and the opportunity to defend against disclosure pursuant to such decree or order.
+
+(b) Upon any termination or expiration of this Agreement, at the written request of the other Party, each Party shall, and shall cause any of its Affiliates or third-party vendors used in connection with the provision or receipt of the Services to, deliver to the other Party (i) all records and data (including backup tapes, records and related information) received, computed, developed, processed and stored by it hereunder in a readable format reasonably acceptable to the other Party, and (ii) all other Confidential Information of such other Party, but excluding, in each case, (1) any information stored electronically in a back-up file pursuant to the receiving Party's customary electronic back-up practices which may be retained by such Party solely for archival purposes and subject to the continuing confidentiality obligations set forth in herein, and (2) any information obtained pursuant to Section 7.2 herein; provided that, in lieu of delivering all of the foregoing to the other Party, the relevant delivering Party may confirm in writing that it has destroyed, or has caused RGHI or Company, as the case may be, to destroy, all of the foregoing.
+
+ARTICLE VIII INTELLECTUAL PROPERTY
+
+Section 8.1 Ownership of Intellectual Property. Any intellectual property owned by a Party, its Affiliates or third-party vendors and used in connection with the provision or receipt of the Services, as applicable, shall remain the property of such Party, its Affiliates, or third-party vendors.
+
+Section 8.2 License. Each Party grants, and shall cause its Affiliates to grant, to the other Party and its Affiliates, a royalty-free, non-exclusive, non- transferable, worldwide license, during the Term, to use the intellectual property owned by such Party or its Affiliates (but excluding any trademarks) only to the extent necessary for the other Party and its Affiliates to provide or receive the Services, as applicable. Other than the license granted to a Party and its Affiliates pursuant to the preceding sentence, neither Party nor its Affiliates shall have any right, title or interest in the intellectual property owned by the other Party or its Affiliates.
+
+Section 8.3 Use of RCP Names. By the third anniversary of the Commencement Date, RGHI and its Affiliates will change its corporate names to remove RCP Names and will cease use of RCP Names as trademarks unless such use is pursuant to a separate license agreement with RCP.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+ARTICLE IX REMEDIES
+
+Section 9.1 Indemnification. Subject to the limitations set forth in this Article IX, each Party (the "Indemnifying Party") agrees to indemnify, defend and hold harmless the other Party and its Affiliates and its and their respective directors, officers, employees, agents, representatives, successors and permitted assigns (collectively, the "Indemnified Parties") from and against all Losses imposed upon or incurred by an Indemnified Party to the extent arising out of or resulting from the Indemnifying Party's or its Affiliates' material breach of this Agreement, except to the extent that such Losses are primarily caused by the Indemnified Party.
+
+Section 9.2 Exclusive Remedy. The indemnities provided for in Section 9.1 shall be the sole and exclusive monetary remedy of the Parties hereto and their Affiliates and their respective officers, directors, employees, agents, representatives, successors and permitted assigns for any breach of or inaccuracy in any representation or warranty or any breach, nonfulfillment or default in the performance of any of the covenants or agreements contained in this Agreement, and the Parties shall not be entitled to a rescission of this Agreement or to any further indemnification rights or claims of any nature whatsoever in respect thereof (including any common law rights of contribution), all of which the Parties hereto hereby waive.
+
+Section 9.3 Disclaimer. EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, (A) NO PARTY MAKES ANY REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, WITH RESPECT TO THE MATERIALS AND SERVICES, AS APPLICABLE, PROVIDED HEREUNDER, AND ALL SUCH MATERIALS AND SERVICES, AS APPLICABLE, ARE PROVIDED ON AN "AS IS" BASIS AND (B) EACH PARTY DISCLAIMS ANY AND ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, NON- INFRINGEMENT OR FITNESS FOR A PARTICULAR PURPOSE.
+
+Section 9.4 Limitations.
+
+(a) IN NO EVENT SHALL ANY PARTY BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, SPECIAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES, OR LOST PROFITS OR LOST REVENUES THAT THE OTHER PARTY MAY INCUR BY REASON OF ITS HAVING ENTERED INTO OR RELIED UPON THIS AGREEMENT, OR IN CONNECTION WITH ANY OF THE SERVICES PROVIDED HEREUNDER OR THE FAILURE THEREOF, REGARDLESS OF THE FORM OF ACTION IN WHICH SUCH DAMAGES ARE ASSERTED, WHETHER IN CONTRACT OR TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY OF THE SAME OTHER THAN TO THE EXTENT AWARDED IN A THIRD PARTY CLAIM.
+
+(b) EXCEPT WITH RESPECT TO A MATERIAL BREACH CONSTITUTING WILLFUL MISCONDUCT BY A PROVIDER, REPEAT PERFORMANCE OF A SERVICE BY THE PROVIDER OR REFUND OF THE FEES PAID FOR A SERVICE SHALL BE THE SOLE AND EXCLUSIVE REMEDY FOR BREACH OF THE SERVICES STANDARD FOR SUCH SERVICE.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+(c) IN NO EVENT SHALL A PARTY'S LIABILITY IN RELATION TO SERVICES PROVIDED UNDER THIS AGREEMENT EXCEED THE FEES PAID TO IT UNDER THIS AGREEMENT FOR THE SPECIFIC SERVICE THAT RESULTED IN THE LOSS.
+
+Section 9.5 Insurance. Each Party shall obtain and maintain, for the Term (i) commercial general liability insurance with a single combined liability limit of at least $5,000,000 per occurrence, (ii) workers compensation/employer's liability insurance with a liability limit of at least $1,000,000 per occurrence or, if greater, the statutory minimum, and (iii) "all risk" property insurance on a replacement cost basis adequate to cover all assets and business interruption Losses that a Party may suffer in connection with or arising out of this Agreement, subject to policy limits, and in the case of the policies described in clause (i) above, naming the other Party as an additional insured thereunder. Upon request, each Party shall provide the other Party a certificate of insurance as proof of insurance coverage.
+
+ARTICLE X MISCELLANEOUS
+
+Section 10.1 Force Majeure. In the event that a Party is wholly or partially prevented from, or delayed in, providing one or more Services, or one or more Services are interrupted or suspended, by reason of events beyond their reasonable control, which by their nature were not foreseen, or, if it was foreseen, was not reasonably avoidable, including acts of God, act of Governmental Authority, act of the public enemy or due to fire, explosion, accident, floods, embargoes, epidemics, war, acts of terrorism, nuclear disaster, civil unrest or riots, civil commotion, insurrection, severe or adverse weather conditions, lack of or shortage of adequate electrical power, malfunctions of equipment or software (each, a "Force Majeure Event"), such Party shall promptly give notice of any such Force Majeure Event to Company and shall indicate in such notice the effect of such event on their ability to perform hereunder and the anticipated duration of such event. The Party whose performance is affected by the Force Majeure Event shall not be obligated to deliver or cause to be delivered the affected Services during such period, and the applicable Party shall not be obligated to pay during such period for any affected Services not delivered. During the duration of a Force Majeure Event, the Party whose performance is affected by the Force Majeure Event shall, and shall cause their relevant Affiliates to, minimize to the extent practicable the effect of the Force Majeure Event on their obligations hereunder and use commercially reasonable efforts to avoid or remove such Force Majeure Event and to resume delivery of the affected Services with the least delay practicable.
+
+Section 10.2 Authority. A Provider shall not be permitted to bind a Recipient or any of its Affiliates or enter into any agreements (oral or written), contracts, leases, licenses or other documents (including the signing of checks, notes, bills of exchange or any other document, or accessing any funds from any bank accounts of Recipient or any of its Affiliates) on behalf of Recipient or any of its Affiliates except with the express prior written consent of Recipient, which consent may be given from time to time as the need arises and for such limited purposes as expressed therein.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Section 10.3 Specific Performance. The Parties shall be entitled to seek an injunction to prevent actual or threatened breaches of this Agreement and to enforce specifically the terms and provisions of this Agreement, this being in addition to any other remedy to which they are entitled at law or in equity. For the avoidance of doubt, nothing contained herein shall prevent a Party from seeking damages (to the extent permitted herein) in the event that specific performance is not available.
+
+Section 10.4 Status of Parties. This Agreement is not intended to create, nor will it be deemed or construed to create, any relationship between RGHI and its Affiliates, on the one hand, and Company and its respective Affiliates, on the other hand, other than that of independent entities contracting with each other solely for the purpose of effecting the provisions of this Agreement. Neither RGHI and its Affiliates, on the one hand, nor Company and its Affiliates, on the other hand, shall be construed to be the agent of the other.
+
+Section 10.5 Notices. All notices, requests, claims, demands and other communications hereunder shall be in writing and shall be given by delivery in person, by facsimile (followed by overnight courier), Email (followed by overnight courier), or by registered or certified mail (postage prepaid, return receipt requested) to the other Party hereto as follows:
+
+if to Company, Reynolds Consumer Products Inc. 1900 W. Field Court Lake Forest, IL 60045 Attention: David Watson Email: David.Watson@reynoldsbrands.com
+
+if to RGHI, Reynolds Group Holdings Inc. 1900 W. Field Court Lake Forest, IL 60045 Attention: Joseph Doyle Email: Joseph.Doyle@RankNA.com
+
+with a copy (which shall not constitute notice) to: Reynolds Group Holdings Limited Level Nine 148 Quay Street P.O. Box 3515 Auckland, New Zealand Attention: Helen Golding Email: helen.golding@rankgroup.co.nz
+
+or such other address, Email or facsimile number as such party may hereafter specify for the purpose by notice to the other Party hereto. All such notices, requests and other communications shall be deemed received on the date of receipt by the recipient thereof if received prior to 5:00 p.m. on a Business Day in the place of receipt. Otherwise, any such notice, request or
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+communication shall be deemed to have been received on the next succeeding Business Day in the place of receipt. Notwithstanding the forgoing, normal business communications with respect to the Services may be given by the Parties by whatever means are usual and appropriate for such types of communications.
+
+Section 10.6 Entire Agreement. This Agreement, including all Exhibits, constitute the sole and entire agreement and supersede all prior agreements, understandings and representations, both written and oral, between the Parties with respect to the subject matter hereof provided, however, nothing in this Agreement shall supersede any other agreement or understanding entered into in connection with the initial public offering of the Company.
+
+Section 10.7 Waivers and Amendments; Non-Contractual Remedies; Preservation of Remedies. No amendment, modification or discharge of this Agreement, and no waiver hereunder, shall be valid or binding unless set forth in writing and duly executed by the Party against whom enforcement of the amendment, modification, discharge or waiver is sought. Any such waiver shall constitute a waiver only with respect to the specific matter described in such writing and shall in no way impair the rights of the Party granting such waiver in any other respect or at any other time. Neither the waiver by any of the Parties hereto of a breach of or a default under any of the provisions of this Agreement, nor the failure by any of the Parties, on one or more occasions, to enforce any of the provisions of this Agreement or to exercise any right or privilege hereunder, shall be construed as a waiver of any other breach or default of a similar nature, or as a waiver of any of such provisions, rights or privileges hereunder. The rights and remedies herein provided are cumulative and none is exclusive of any other, or of any rights or remedies that any Party may otherwise have at law or in equity.
+
+Section 10.8 Governing Law, etc.
+
+(a) This Agreement shall be governed in all respects, including as to validity, interpretation and effect, by the Laws of the State of Illinois, without giving effect to its principles or rules of conflict of laws, to the extent such principles or rules are not mandatorily applicable by statute and would permit or require the application of the Laws of another jurisdiction. Each of the Parties hereto submits to the jurisdiction of any state or federal court sitting in Lake County, Illinois, in any action or proceeding arising out of or relating to this Agreement, agrees to bring all claims under any theory of liability in respect of such action or proceeding exclusively in any such court and agrees not to bring any action or proceeding arising out of or relating to this Agreement in any other court. Each of the Parties hereto waives any defense of inconvenient forum to the maintenance of any action or proceeding so brought and waives any bond, surety or other security that might be required of any other party with respect thereto. Each Party hereto agrees that service of summons and complaint or any other process that might be served in any action or proceeding may be made on such Party by sending or delivering a copy of the process to the Party to be served at the address of the Party and in the manner provided for the giving of notices in Section 10.5. Nothing in this Section 10.8, however, shall affect the right of any Party to serve legal process in any other manner permitted by Law. Each Party hereto agrees that a final, non-appealable judgment in any action or proceeding so brought shall be conclusive and may be enforced by suit on the judgment or in any other manner provided by Law.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+(b) The Parties each hereby waive, to the fullest extent permitted by Law, any right to trial by jury of any claim, demand, action, or cause of action (i) arising under this Agreement or (ii) in any way connected with or related or incidental to the dealings of the Parties hereto in respect of this Agreement or any of the transactions related hereto, in each case whether now existing or hereafter arising, and whether in contract, tort, equity, or otherwise. The Parties to this Agreement each hereby agree and consent that any such claim, demand, action, or cause of action shall be decided by court trial without a jury and that the parties to this Agreement may file an original counterpart of a copy of this Agreement with any court as written evidence of the consent of the Parties hereto to the waiver of their right to trial by jury.
+
+Section 10.9 Further Assurances. Each Party covenants and agrees that, without any additional consideration, it shall execute and deliver, or shall cause its Affiliates to execute and deliver, such documents and other papers and shall take, or shall cause its Affiliates to take, such further actions as may be reasonably required to carry out the provisions of this Agreement and give effect to the transactions contemplated by this Agreement.
+
+Section 10.10 Assignment. No Party may assign this Agreement, or any of its rights or obligations under this Agreement (whether by operation of Law or otherwise), without the prior written consent of the other Party; provided, that notwithstanding the foregoing, any Party may assign any or all of its rights or obligations under this Agreement without the consent of the other Party to: (a) its Affiliates, (b) a purchaser of: (i) one or more of its Affiliates that is a Provider or Recipient under this Agreement; (ii) all or substantially all of the business or assets of one or more of its Affiliates that is a Provider or Recipient under this Agreement; or (iii) all or substantially all of such Party's business or assets, or (c) its financing sources solely for collateral purposes, in each case so long as the assignee agrees to be bound by the terms of this Agreement. Any permitted assignment shall be binding upon and inure to the benefit of the Parties and their respective heirs, successors and permitted assigns. Any attempted assignment of this Agreement, or the rights or obligations herein, not in accordance with the terms of this Section 10.10 shall be void. If an RGHI Affiliate Provider is no longer affiliated with RGHI due to the sale of all or substantially all of the business or assets of such Affiliate to a third party, RGHI shall cause such Affiliate to agree to continue providing the Services that it is providing at the time of such transaction consistent with the terms of this Agreement for the remaining Term.
+
+Section 10.11 Multi-party Contracts. The Company and RGHI will use all commercially reasonable efforts to obtain within 24 months following the Commencement Date, from the counterparty to each Multi-party Contract any needed consent to separate the portion of such contract that relates to the goods or services purchased from or supplied to the Business under such Multi-party Contract (including but not limited to assignment or partial assignment of such contracts to the Company or RGHI or its Affiliates). The contract constituting the separated portion of any Multi-party Contract that relates to the Business as described in the preceding sentence shall be assumed by and become the responsibility of the Company. Each Party making purchases or receiving services under any Multi-party Contract shall indemnify and hold harmless the other Party and its Affiliates for any claims, damages, etc. arising out of such purchases or receipt of services.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Section 10.12 Letters of Credit and Guarantees. RGHI and the Company shall use commercially reasonable efforts to cause all RGHI Letters of Credit and RGHI Guarantees, in each case with respect to the Company, to be canceled or terminated, as of the Commencement Date such that RGHI and its Affiliates shall be released and have no further obligation or liability (contingent or otherwise) under such RGHI Letters of Credit or RGHI Guarantees (to the extent applicable to the Company) from and after the Commencement Date. With respect to any RGHI Letters of Credit or RGHI Guarantees not terminated at the Commencement Date, RCP shall use commercially reasonable efforts to replace, cash collateralize or otherwise "backstop" such RGHI Letters of Credit and RGHI Guarantees at or prior to the Commencement Date. Following the Commencement Date, RCP shall indemnify RGHI and its Affiliates against any and all losses suffered or incurred in connection with the Company under the RGHI Guarantees or RGHI Letters of Credit.
+
+Section 10.13 Severability. If any term or other provision of this Agreement is determined by a court of competent jurisdiction to be invalid, illegal or unenforceable, all other provisions of this Agreement shall remain in full force and effect so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner materially adverse to any Party. Upon any such determination, the Parties shall negotiate in good faith to modify this Agreement so as to effect the original intent of the Parties as closely as possible in an acceptable manner in order that the transactions contemplated hereby be consummated as originally contemplated to the fullest extent possible.
+
+Section 10.14 Interpretation.
+
+(a) The Parties acknowledge and agree that, except as specifically provided herein, they may pursue judicial remedies at law or equity in the event of a dispute with respect to the interpretation or construction of this Agreement.
+
+(b) This Agreement shall be interpreted and enforced in accordance with the provisions hereof without the aid of any canon, custom or rule of law requiring or suggesting constitution against the Party causing the drafting of the provision in question.
+
+Section 10.15 No Third-Party Beneficiaries. Other than the rights granted to the Indemnified Parties under Section 9.1, nothing in this Agreement is intended or shall be construed to give any person, other than the Parties hereto, their successors and permitted novates, transferees and assigns, any legal or equitable right, remedy or claim under or in respect of this Agreement or any provision contained herein.
+
+Section 10.16 Counterparts. This Agreement may be executed in several counterparts, each of which shall be deemed an original and all of which shall together constitute one and the same instrument. Delivery of an executed counterpart of a signature page to this Agreement by facsimile or scanned pages shall be effective as delivery of a manually executed counterpart to this Agreement.
+
+Section 10.17 Headings. The headings in this Agreement are for reference only and shall not affect the interpretation of this Agreement.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Section 10.18 Order of Precedence. In the event of any conflict between the provisions of any Exhibit and the other provisions of this Agreement, the other provisions of this Agreement shall govern, except to the extent that the relevant provision of the Exhibit expressly identifies the provision of this Agreement it supersedes and expressly indicates that such provision is being superseded or this Agreement expressly indicates that the Exhibit governs.
+
+[Signature page follows]
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first written above. Reynolds Group Holdings Inc.
+
+By: Name: Title:
+
+Reynolds Consumer Products Inc.
+
+By: Name: Title:
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+EXHIBIT A
+
+Transition Services
+
+Section G1: IT Services12
+
+Service Name Description of Service Term
+
+Monthly Fee (USD) - Commencement Date - 2020
+
+Monthly Fee (USD) - 2021 G1.1 IT Service Category: Major Applications - Hosting and Infrastructure Support
+
+Hosting - shared and dedicated environments
+
+Provision of infrastructure and hosting services at RGHI's data center for shared hardware and hardware dedicated to RCP's systems. Services include: •   Access to and use of the noted applications groups •   Disaster Recovery •   Administration •   Security management •   Help Desk services •   Backup/restore management Service also includes provision of equivalent access to this set of RCP applications in alternative data center(s) upon migration to RCP's new operating environment(s), and/or equivalent services from alternative providers, managed under this Agreement by RGHI.
+
+All services in group 24 months from the Commencement Date Termination can only be as per an agreed Migration Plan
+
+G1.1.1 Autosys Job Scheduling and Monitoring System. $10,109 TBD 1 Where reference is made to RGHI's data center, this means either (1) the Lincolnshire facility at 605 Heathrow Drive, (2) the Lake Forest backup data center at 1900 West Field Court, or (3) the Cloud Service provider selected to house certain infrastructure operations from time to time during the Term and migration. 2 Fees for 2021 are not yet finalized, and will be negotiated in good faith by RGHI and RCP during the course of 2020.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Service Name Description of Service Term
+
+Monthly Fee (USD) - Commencement Date - 2020
+
+Monthly Fee (USD) - 2021 G1.1.2 Citrix/Virtual Desktops VDI environment for remote application routing and access. $5,834 TBD
+
+G1.1.3 Collaboration - Email, Instant Messaging & Teams
+
+MS Exchange email Service, Outlook integration, MS teams, and Skype for Business Instant Messaging/Collaboration. $32,155 TBD
+
+G1.1.4 CRM RCP's instance of the MS Dynamics Customer Relationship Management System. $2,014 TBD
+
+G1.1.5 Easy Software Easy payments software suite for Accounts Payable management. $5,073 TBD
+
+G1.1.6 EDI Infrastructure Electronic data Interchange services for transactional interfacing with vendors and suppliers. $4,094 TBD
+
+G1.1.7 HP Dazel SAP printing control subsystem. $5,918 TBD
+
+G1.1.8 Hyperion/HFM Hyperion Financial Management system for consolidation and reporting. $4,028 TBD
+
+G1.1.9 JDA JDA suite of applications for planning and transportation management. $4,815 TBD
+
+G1.1.10 RightFax Electronic fax messaging system. $2,292 TBD
+
+G1.1.11 RPA/AA Automation Anywhere ecosystem for Robotic Process Automation. $11,861 TBD
+
+G1.1.12 Sabrix Thomson Reuters Sales and Use Tax calculation Engine. $7,597 TBD
+
+G1.1.13 SharePoint MS SharePoint environment for collaboration, file-sharing and intranet delivery. $9,649 TBD
+
+G1.1.14 Maintenance Connect Plant Maintenance system. $4,316 TBD
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Service Name Description of Service Term
+
+Monthly Fee (USD) - Commencement Date - 2020
+
+Monthly Fee (USD) - 2021 G1.2 IT Service Category: Support Services
+
+General support services Overall services associated with delivery of general support from RGHI to RCP, including components such as: •   Administration of vendors •   Procurement •   Network management •   Infrastructure administration and management
+
+All services in group 24 months from the Commencement Date Termination can only be as per an agreed Migration Plan
+
+G1.2.1 Site Security Application Services Management of various site security systems, badge processing, video surveillance. $1,583 TBD
+
+G1.2.2 Desktop & Site Management Centralized management services for facility environments: patching, backup, package delivery, imaging, RF device support. $39,079 TBD
+
+G1.2.3 IT Security Provisioning Management of security provisioning for all applications and access, including SSO and AD. $18,479 TBD
+
+G1.2.4 IT Procurement Handling of procurement activities for existing and new vendors, including contract management, SOW completion, PR and PO processing. $9,233 TBD
+
+G1.2.5 IT Finance Payments, allocation processing, invoicing & reporting, and budgeting for existing and new vendors. $11,113 TBD
+
+G1.2.6 Voice and Cellular Phone Support General provisioning and management of VOIP services and CRU mobility with vendors. $12,137 TBD
+
+G1.2.7 Microsoft Tenant Management Interaction with the MS cloud services agency for MS tenancy management and administration in Azure. $15,637 TBD
+
+G1.2.8 AWS Tenant Management Interaction with the AWS cloud services agency and LemonGrass for AWS tenancy management and administration in Amazon. $36,835 TBD
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Service Name Description of Service Term
+
+Monthly Fee (USD) - Commencement Date - 2020
+
+Monthly Fee (USD) - 2021 G1.2.9 LAN & WAN Management Provisioning, monitoring, troubleshooting and administration of all long distance and local network facilities, including AT&T (and other) MPLS, DMVPN, Routers and Switches, and Wi-Fi APs. $97,353 TBD
+
+G1.2.10 Governance Overall management of services delivered under this Agreement. $41,820 TBD
+
+G1.2.11 SAP Basis Support for SAP technical environment, configuration, and database management. $61,082 TBD
+
+G1.2.12 SQL Management Management of environments for miscellaneous MS SQL databases/systems. $32,720 TBD
+
+G1.2.13 Base Infrastructure All management and administration of core datacenter environments in support of all centralized applications and utility delivery, including all services associated with the Lincolnshire Data Center, Cloud Hosting environments, third party administration and support services. $220,775 TBD
+
+G1.3 IT Service Category: General Pass-thru / Variable Costs
+
+Variable and Pass-thru costs Service fees for consumption or license maintenance as levied by vendors to RGHI based on RCP utilization of such services or licenses.
+
+All services in group 24 months from the Commencement Date Termination will occur as services are contracted directly with RCP
+
+All services costs are pass- through of actual third- party costs incurred in providing the service
+
+G1.3.1 WAN Services - Site Network Vendor (AT&T and other) costs for usage of MPLS and ISP services. G1.3.2 Voice and Cellular Phone Service Local, Long Distance, & Mobile usage costs.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Service Name Description of Service Term
+
+Monthly Fee (USD) - Commencement Date - 2020
+
+Monthly Fee (USD) - 2021 G1.3.3 Multi-function device (MFD) Services Lexmark usage and consumables costs.
+
+G1.3.4 Hosting - Microsoft O365 - Microsoft usage
+
+G1.3.5 Licensing—Microsoft Microsoft license maintenance (SA) and subscriptions.
+
+G1.3.6 Licensing - SAP SAP license maintenance - R/3
+
+G1.3.7 Licensing—SAP BI/MII SAP license maintenance - BI (Hana), MII (IFP)
+
+G1.3.8 Licensing— Oracle/HFM Oracle license maintenance for Hyperion Financial Manager.
+
+G1.3.9 Licensing - JDA JDA Transportation and Planning license maintenance fees.
+
+G1.3.10 Licensing - GEP GE Procurement system license fees.
+
+G1.3.11 Licensing - Novatus Novatus contract management system license fees.
+
+G1.3.12 Licensing - Thingworxs Thingworks (PTC) license fees (IFP).
+
+G1.3.13 Licensing - Winshuttle Winshuttle (MDM management) license fees.
+
+G1.3.14 Licensing - SpecRight Specright license fees.
+
+G1.3.15 Domain Names Domain name annual registration fees.
+
+G1.3.16 IT Procurement - Fees Hardware/Software/Services procured on behalf of RCP.
+
+G1.3.17 Licensing - Other Kronos, Minitab, & KnowBe4, plus other miscellaneous minor licenses maintenance fees.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Service Name Description of Service Term Monthly Fee (USD) - Commencement Date - 2020 Monthly Fee (USD) - 2021 G1.4 IT Service Category: Project Management / IT Consulting3
+
+G1.4.1 Discretionary Enhancements Any system changes or enhancements to the technical operating environment (excluding, for the avoidance of doubt, Migration Services described in G1.4.4) requested by RCP during the Term require agreement between RGHI and RCP. Provision of this Service is subject to the availability of internal resource within RGHI and agreement between the Parties regarding the scope of the changes/enhancements. Where this Service is used, the rates will be as follows: •   Project Manager at $150 / hour •   Senior Engineer at $200 / hour •   Junior Engineer at $150 / hour
+
+24 months from the Commencement Date
+
+Quoted hourly rate with respect to the particular service to be provided Plus the pass-through of actual third-party costs incurred in providing the service
+
+Quoted hourly rate with respect to the particular service to be provided Plus the pass- through of actual third- party costs incurred in providing the service
+
+G1.4.2 IT Consulting Services Provision of advice, guidance and recommendations on new services (excluding, for the avoidance of doubt, Migration Services described in G1.4.4), new technical solutions related to applications and infrastructure, etc. Provision of this Service is subject to availability of internal resource within RGHI and agreement between the Parties. Where this Service is used, the rates will be as follows: •   IT Consulting Services at $200 / hour
+
+24 months from the Commencement Date
+
+Quoted hourly rate with respect to the particular service to be provided Plus the pass-through of actual third-party costs incurred in providing the service
+
+Quoted hourly rate with respect to the particular service to be provided Plus the pass- through of actual third- party costs incurred in providing the service 3 RGHI shall provide the first 3,500 hours of internal labor pursuant to G1.4.1, G1.4.2, G1.4.3, and G1.4.4 at no charge; thereafter, the stated rates shall apply.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Service Name Description of Service Term Monthly Fee (USD) - Commencement Date - 2020 Monthly Fee (USD) - 2021 G1.4.3 Project Management Services Provision of Project Management services and resources and technical resources required to deliver projects agreed between RGHI and RCP (excluding, for the avoidance of doubt, Migration Services described in G1.4.4). Provision of this Service is subject to availability of internal resource within RGHI and agreement between the Parties. Where this Service is used, the rates will be as follows: •   Project Manager at $150 / hour •   Senior Engineer at $200 / hour •   Junior Engineer at $150 / hour Any costs for engaging external resources will be passed through to RCP.
+
+24 months from the Commencement Date
+
+Quoted hourly rate with respect to the particular service to be provided Plus the pass-through of actual third-party costs incurred in providing the service
+
+Quoted hourly rate with respect to the particular service to be provided Plus the pass- through of actual third- party costs incurred in providing the service
+
+G1.4.4 Migration Services Project services to manage and execute the extraction of IT operations from the RLS managed environment(s) and enable RCP to exit this TSA, as defined in the TSA Migration Services in Section 2.1.(c). For the avoidance of doubt, this service includes all internal RGHI labor and third-party costs associated with project management and execution of all separation activities, and any license or technology acquisitions required to facilitate the establishment of RCP's new, stand-alone IT environment and the handover of same to RCP for future management. This Service cannot be terminated until such time as separation has concluded to the satisfaction of RGHI and RCP.
+
+24 months from the Commencement Date
+
+Quoted hourly rate with respect to the particular service to be provided Plus the pass-through of actual third-party costs incurred in providing the service
+
+Quoted hourly rate with respect to the particular service to be provided Plus the pass- through of actual third- party costs incurred in providing the service
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Service Name Description of Service Term
+
+Monthly Fee (USD) - Commencement Date - 2020 Monthly Fee (USD) -2021 G1.4.5 Crossover Services Provision of desktop support and core applications services for scenarios where people not transferred are required to temporarily assist in RCP to augment transferred peoples' expertise or capacity, notwithstanding both parties' intentions to have these areas of support self-sufficient inside RCP by commencement date.
+
+12 months from the Commencement Date
+
+No fee No fee
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Section G2: HR Services Service Name Description of Service Term Fee (USD) G2.1 General HR - Ancillary Services RGHI will be available to provide transition of support and agreements and provide support for meetings to share information and answer any questions with current vendors regarding current practices, including but not limited to support for separation of 401(K), H&W, and pension plans. The parties shall cooperate in good faith regarding preparation of 5500s and ACA reporting for plan year 2019, with responsibility for filings as follows: •   401(K) 5500s •   RGHI shall file for existing Employee Savings Plan (non-bargaining) and Employee Savings Plan for Pactiv Bargaining •   RCP shall file for Employee Savings Plan for Reynolds Bargaining and any new Company savings plans established as of the Commencement Date •   Pension and H&W 5500s •   RGHI shall file for Reynolds Services Inc. Group Benefit Plan, Pactiv Retirement Plan, Reynolds Services Inc. Group Benefit Plan for Bargaining Unit Employees, Pactiv Retiree Health & Welfare Plan, Reynolds Group Pension Plan, Evergreen Packaging Pension Plan •   RCP shall file for new Company plans established as of the Commencement Date •   ACA Reporting •   RCP shall coordinate filing
+
+12 months from the Commencement Date No fee
+
+G2.2 General HR - Administrative Services Administrative Assistant, HR Benefits will be available (50%) to provide services to RCP under a Secondment Agreement. Services will includes all as currently provided, including: preparation of informational bulletins related to benefits, vendor billing administration, tracking vendor performance guarantees, and general administrative duties.
+
+The earlier of (i) December 31, 2020 or (ii) the cessation of current Administrative Assistant's employment
+
+$3,300 per month Plus pass- through of actual third- party costs incurred in providing the service
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Service Name Description of Service Term Fee (USD) G2.3 Payroll Services - Systems and Support Provision of payroll services comprising: •   Management of the relationship and contract with ADP and Kronos •   Software and hosting access to Kronos •   Ongoing support of interface files with ADP and third-party vendors consistent with current practices, including management and oversight of existing vendor feeds •   Access to ADP and Kronos so that RCP may undertake: •   Processing salaried and hourly payrolls •   New hire reporting •   Year-end tax reporting and preparation for employees (if applicable) •   Payroll tax return preparation •   Access to HRIS reporting capabilities (where applicable and with existing vendors/feeds) RCP will be responsible for generating their own reports from the payroll systems. RGHI and its Affiliates will not permit the payroll provider to create any additional programmed reports that are not part of the menu of standard reports available to RGHI.
+
+December 31, 2020 $11,000 per month $29,150 per month for ADP $3,700 per month for Kronos software (hosting fees included in Section G1) Plus pass- through of actual third- party costs incurred in providing the service
+
+G2.4 Payroll Services - Consulting/Project Management Services
+
+Provision of access to RGHI Director of Payroll & HRIS and Senior HRIS Payroll Analyst in relation to carve-out efforts to establish RCP instance of ADP.
+
+December 31, 2020 $100 per person / per hour Plus pass- through of actual third- party costs incurred in providing the service
+
+G2.5 General HR -Employment Services Employment of current Director, Supplier Product and Process Quality - Europe & Asia, including, without limitation, provision of human resources support, payroll processing, and benefits coverage.
+
+The earlier of (i) the transfer of Director, Supplier Product and Process Quality - Europe & Asia to RCP or (ii) March 31, 2020
+
+Pass-through of actual costs and third-party costs incurred in providing the service
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Section G3: Financial Services Service Name Description of Service Term Fee (USD) G3.1 Financial Services - Technical Accounting Provision of support and handover services for technical accounting including: •   Assistance with accounting guidance in relation to specific transactions (i.e. lease review, casualty loss, customer contract review, restructures, etc.), including research (consistent with past practices) for review by RCP management and auditors
+
+12 months from the Commencement Date $125 per person / per hour Plus pass-through of actual third-party costs incurred in providing the service
+
+G3.2 Financial Services - Lease Administration Provision of support and handover services for lease administration including: •   Lease accounting and lease administration services consistent with current practices and procedures, including but not limited to: •   Mass data uploads leveraging ETL templates into Costar system (10+ lease records) •   Upload of discount rates (as prepared by RCP) •   Preparation of monthly and quarterly reports •   System controls in relation to RGHI instance of Costar, backup, exchange rates review, facilitation of user security review, cost center/hierarchy maintenance, etc. •   Assistance with system issue resolution •   Copies of all records, standard reports, and schedules, etc. from the Costar system for purposes of adoption of the lease accounting standard
+
+The earlier of (i) 12 months from the Commencement Date or (ii) the date RCP obtains its own instance of Costar
+
+$125 per person / per hour $1,235 per month for Costar Plus pass-through of actual third-party costs incurred in providing the service
+
+G3.3 Financial Services - Benefits Reporting Support4
+
+Administration, execution, and handover of financial reporting and accounting services for reports required for financial reporting related to medical and benefits costs including vendor cost tracking, and other HR/benefits related accounting matters consistent with past practices.
+
+18 months from the Commencement Date $3,365 per month Plus pass-through of actual third-party costs incurred in providing the service 4 Process RE quarterly true-ups will change during the Term from reconciling claims by headcount to where incurred and will reconcile back to the Commencement Date.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Service Name Description of Service Term Fee (USD) G3.4 Financial Services - Treasury Administration Handover Services
+
+Reasonable provision of treasury administration handover services, including: •   Assistance with transitioning signatories, online access and other bank account transition considerations if required (including but not limited to establishment of new banking platforms)* •   Assistance with transition of administration of letters of credit and any other assumed indebtedness* •   Assistance with transition of corporate credit card programs administration •   Assistance with completion of development of the structure and documentation of intercompany loan agreements that are in process at the time of the Commencement Date •   Models and historical cash management reports/materials •   Assistance with cash settlements, movements related to trade balances, intercompany loans, dividends, cash forecasting, and banking platforms •   Assistance with development of daily cash report preparation processes •   Assistance with development of escheatment reporting and filing processes •   Training on review of bank-generated reports •   Assistance with transition of wire transfer administration (i.e. authorization for tokens) •   Backup assistance with wire transfer administration and approvals •   Support for day to day cash management activities consistent with past practices RGHI and RCP shall work together in good faith to finalize transition of the services denoted with an asterisk (*) above within 3 months from the Commencement Date.
+
+12 months from the Commencement Date $95 per person / per hour Plus pass-through of actual third-party costs incurred in providing the service
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Service Name Description of Service Term Fee (USD) G3.5 Financial Services - Reporting Applications Support Services
+
+Provision of access to and/or application support services for FIS Integrity. Service is subject to ability to apply security so RCP cannot view or access RGHI data in those systems.
+
+12 months from the Commencement Date $10,100 per month Plus pass-through of actual third-party costs incurred in providing the service
+
+G3.6 Financial Services - External Reporting5 RGHI External Reporting team will be available to provide background support and consulting services related to RCP's external reporting requirements.
+
+18 months from the Commencement Date $$22,500 per month Plus pass-through of actual third-party costs incurred in providing the service
+
+G3.7 Financial Services - Compliance Advisory Services
+
+Provision of support services of RGHI Senior Compliance Manager related to SAP access and security risks (SOX 404). The earlier of (i) 12 months from the Commencement Date or (ii) the cessation of current Senior Compliance Manager's employment
+
+$8,000 per month Plus pass-through of actual third-party costs incurred in providing the service
+
+G3.8 Financial Services - SOX Compliance In connection with RCP's obligation to comply with the Sarbanes-Oxley Act of 2002, provision of reasonable support and performance of key controls related to financial reporting as agreed between the Parties.
+
+24 months from the Commencement Date $200 per person / per hour Plus pass-through of actual third-party costs incurred in providing the service 5 RCP needs to obtain its own instance of Wdesk (or similar system) to prepare and file annual and quarterly filings as of the Commencement Date.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Service Name Description of Service Term Fee (USD) G3.9 Treasury Services - FBAR Reporting Provision of Foreign Bank and Financial Accounts ("FBAR") reporting services. 12 months from the Commencement Date $80 per person / per hour Plus pass-through of actual third-party costs incurred in providing the service
+
+G3.10 Treasury Services - Hedging Provision of support and handover services related to commodity hedging activities, including: •   Determining hedge quantities and timing •   Execution of hedging trades in Kiodex •   Tracking open hedge positions •   Facilitate provision of month-end journal entries
+
+12 months from the Commencement Date $105 per person / per hour $8,500 per month for Kiodex Plus pass-through of actual third-party costs incurred in providing the service
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Section G4: Internal Audit and Tax Services Service Name Description of Service Term Fee (USD) G4.1 Audit and IT Audit Handover Services Provision of audit handover services, including information relating to IT internal audit processes and procedures of RCP. Reasonable provision of: •   Training of new RCP staff and existing documentation for all relevant processes •   Assistance, related to the services included in this section •   Transition handover support as required
+
+12 months from the Commencement Date $175 per person / per hour Plus pass- through of actual third-party costs incurred in providing the service
+
+G4.2 Tax Services - Direct (US and Canada) Provision of support services for tax accounting and direct tax filings, including preparation and filing of federal and state tax returns. For the avoidance of doubt, preparation and filing of returns may be completed by a third-party service provider consistent with current practice. Reasonable handover tax services, including: •   The transfer by Sellers of any and all historical information and explanations necessary for Transferred Entities to completely and accurately prepare and file the tax returns related to post-Closing period. •   Identification of all information sources, including information gathering formats, for the collection of information required for Transferred Entities to prepare and file the tax returns related to post-Closing periods. •   Providing continued support in providing historical documentation and explanations in relation to tax audits currently in process. •   Providing working papers and support related to accounting for income taxes. •   Providing historical transfer pricing studies and working papers. •   Assistance with registrations and/or electronic payment registrations as needed.
+
+24 months from the Commencement Date $100,275 per month Pass-through of actual third-party costs incurred in providing the service
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Service Name Description of Service Term Fee (USD) G4.3 Tax Services - Indirect (US and Canada) Provision of support services for indirect tax filings, including preparation and filing of Sales and Use, VAT, Personal, and Property tax returns. For the avoidance of doubt, preparation and filing of returns may be completed by a third-party service provider consistent with current practice. Reasonable handover services, including: •   Providing copies of all existing documentation required for Property tax and Sales and Use tax compliance, including resale and manufacturer's exemption certificates as well as continued services in support of processes to obtain, review, and maintain necessary documentation. •   Facilitating and assisting in the creating of documentation required for tax compliance. •   The transfer by Sellers of any and all historical information and explanations necessary for Transferred Entities to completely and accurately prepare and file the tax returns related to post-Closing period. •   Identification of all information sources, including information gathering formats, for the collection of information required for Transferred Entities to prepare and file the tax returns related to post-Closing periods. •   Providing continued support in providing historical documentation and explanations in relation to tax audits currently in process. •   Assistance with registrations and/or electronic payment registrations as needed. Providing working papers to support calculations related to the accounting for income taxes.
+
+24 months from the Commencement Date $13,285 per month Plus pass- through of actual third-party costs incurred in providing the service
+
+G4.4 Tax Services - China Provision of handover services related to returns and filings with retained third-party service provider. 12 months from the Commencement Date $140 per person / per hour Plus pass- through of actual third-party costs incurred in providing the service
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Service Name Description of Service Term Fee (USD) G4.5 Tax Services - Audit Support Provision of support for state and federal income tax audits, including: •   Providing documentation and explanations to the examiners •   Preparing necessary paperwork related to any filings or settlements
+
+24 months from the Commencement Date $175 per person / per hour Plus pass- through of actual third-party costs incurred in providing the service
+
+G4.6 Tax Services - Transfer Pricing Consulting Services
+
+Provision of support and handover services for transfer pricing compliance and other matters related to RCP Canada/US transactions and sales services. Transfer Pricing support in connection with audits and Country by Country (CbC) and customs reporting will be available on an ad hoc basis and charged at an hourly rate.
+
+The earlier of (i) 24 months from the Commencement Date or (ii) the cessation of current Director of Transfer Pricing's employment
+
+$1,500 per month $140 per person / per hour for ad hoc support Plus pass- through of actual third-party costs incurred in providing the service
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Section G5: Procurement Services Service Name Description of Service Term Fee (USD) G5.1 Procurement - Support and Handover Services Provision of support and handover services to assist RCP (consistent with past practices) in obtaining supply and or service agreements, including assisting with negotiations (which shall not include legal advice, except to the extent included pursuant to the legal transition services schedule) in relation to: •   Small parcel freight (UPS, FedEx) •   Energy (i.e. natural gas, electricity, etc.) •   ISN •   IT multifunction devices (printers, etc.) •   Raw materials - Poly (i.e. $110M+ PS, $50M+ PP, $40M+ PET, $20M Master Batch and Fillers) •   Raw materials - Packaging (corrugate, pallets, poly bags, molded fiber and related chemicals) •   MRO •   IT procurement •   Vendor mall administration (i.e. support of Ariba Catalogues) •   GEP IT extract
+
+12 months from the Commencement Date $100 per person / per hour Plus the pass- through of actual third-party costs incurred in providing the service
+
+G5.2 Procurement - Freight Procurement Services Provision of freight procurement services to arrange shipments from RCP vendors to RCP facilities (consistent with current practices) in accordance with the processes and procedures set forth in the Warehousing and Freight Services Agreement between Pactiv LLC and Reynolds Consumer Products LLC effective November 1, 2019.
+
+12 months form the Commencement Date Services billed through the Warehousing and Freight Services Agreement dated November 1, 2019
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Section G6: Travel and Expense Services Service Name Description of Service Term Fee (USD) G6.1 Travel and Expense Services - Concur & Travel Booking Assistance
+
+Provision of: •   Access to discounted airline, hotel, and rental car rates •   Services relating to travel booking assistance and ticket issuance by World Travel •   Access to the Concur system for travel booking, filing expense reports, processing and payment of expense reports, and reimbursement for cash expenses
+
+12 months from the Commencement Date
+
+Monthly Fee: $19,000 Plus pass-through of actual third-party costs incurred in providing the service
+
+G6.2 Travel and Expense Services - Corporate Travel Card Administration of corporate travel credit card program and purchasing "ProCard" credit card program for cards provided by HSBC and used by RCP employees solely for business travel and business expenses. Services include: •   Procurement of new cards and cancellation of existing cards •   Facilitating changes to credit limits •   Audits of employee expense reports for compliance with RCP's policies using current audit tools and practices •   Other services consistent with current practices RCP employees may continue to use their current HSBC credit cards under existing rules and limits. At or before the end of the Term, all cards must either be transferred to accounts established by RCP with HSBC or cancelled.
+
+12 months from the Commencement Date
+
+Monthly Fee: $7,000 Plus pass-through of actual third-party costs incurred in providing the service (including, for the avoidance of doubt, all charges incurred on the credit cards)
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Section G7: Trade Compliance Service Name Description of Service Term Fee (USD) G7.1 Trade Compliance Handover Services Provision of access to RGHI's and its Affiliates' trade compliance team who will provide ongoing support, background information and handover support services for the current trade compliance function, including: •   Assistance in data handover of historical import and export transactions and classification databases •   Familiarization with trade compliance procedures, in particular: •   Export controls •   Transition supplier communication regarding Importer Security Filings •   Reporting and filing services, but will not require Sellers to carry out reporting or filing on behalf of the Transferred Entities •   Understanding of current issues, including routine filings, prior disclosures, protests, remediations and assistance declarations •   Coordination of shipments with brokers (import and export) •   Classifications •   Preparation of customs documentation •   Denied party screening •   Monthly import and export reports •   FTA support
+
+12 months from the Commencement Date
+
+No fee Plus pass- through of actual third-party costs incurred in providing the service
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Section G8: Legal and Other Regulatory Support Services Service Name Description of Service Term Fee (USD) G8.1 General Services - Legal Support Provision of support and handover services with respect to all legal services provided by RGHI and its Affiliates', including: •  Information, relevant documents and knowledge transfer related to the legal matters and legal functions, including: •  in-house legal services, including advisory, regulatory, reporting and filing services •  employment and labor relations •  Review of contracts relating to Information Technology, real estate, general procurement, and advertising and intellectual property matters •  Ongoing information and assistance in connection with all other matters for which employees of RGHI or its Affiliates were providing legal services prior to the Commencement Date •  Access to contract management database (Conga Novatus)
+
+24 months from the Commencement Date $190 per person / per hour for lawyers and $70 per person / per hour for paralegals Plus pass-through of actual third-party costs incurred in providing the service (i.e. external legal firm fees to compile data for RCP)
+
+G8.2 General Services - Intellectual Property Provision of handover and support services related to RCP's intellectual property portfolio, including: •  Facilitation of ongoing portfolio maintenance (i.e. renewal decisions and required filings) •  Management and oversight of patent and trademark prosecution activities (i.e. office action responses) •  Filing new registrations and applications consistent with past practices •  Assistance, information and knowledge transfer related to the legal matters and legal functions of RCP, including transferring to RCP, in such electronic or hard copy format as reasonably requested by RCP, any and all documentation in the possession of RGHI, its Affiliates or their outside legal counsel, relating to the prosecution, enforcement, registration and application of any owned intellectual property, including all information in any intellectual property docket maintained by RGHI, its Affiliates or their outside legal counsel
+
+The earlier of (i) 24 months from the Commencement Date or (ii) the cessation of current Administrator of IP Operations/Paralegal's employment
+
+$190 per person / per hour for lawyers and $70 per person / per hour for paralegals Plus pass-through of actual third-party costs incurred in providing the service (i.e. external legal firm fees to compile data for RCP)
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Service Name Description of Service Term Fee (USD) G8.3 General Services - Corporate Secretarial Provision of corporate secretarial duties and government filing assistance. To the earlier of (i) 24 months from the Commencement Date or (ii) the cessation of current Corporate Governance Paralegal's employment
+
+$190 per person / per hour for lawyers, $45 per hour for Corporate Governance Paralegal Plus pass-through of actual third-party costs incurred in providing the service (i.e. external Co-Sec/legal firm fees)
+
+G8.4 General Services - SEC Reporting and Compliance
+
+RGHI Legal Counsel will be available to provide assistance and support related to reporting and filing requirements with the U.S. Securities and Exchange Commission and corporate governance matters.
+
+24 months from the Commencement Date $10,000 per month Plus pass-through of actual third-party costs incurred in providing the service
+
+G8.5 General Services - Regulatory Provision of handover services and support related to compliance with FDA regulations, food-contact product rules, product compliance, and other regulatory and compliance schemes.
+
+12 months from the Commencement Date No fee
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Service Name Description of Service Term Fee (USD) G8.6 General Services - Real Estate Provision of support and handover services related to real estate administration (consistent with past practices), including but not limited to: •  Coordination of insurance, environmental, and legal functions to review leases, prepare annual reports, etc. •  Reconciliation of annual lease expenses •  Assistance with resolution of facility issues (i.e. repairs, etc.) •  Review and monitoring of tenant improvement allowances •  Assistance with establishing new facilities or closing existing facilities •  Support for year-end reporting
+
+12 months from the Commencement Date $1,630 per month Plus pass-through of actual third-party costs incurred in providing the service
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+EXHIBIT B
+
+Reverse Transition Services
+
+Section GR1: IT Service Name Description of Service Term Fee (USD) GR1.1 IT - Crossover Services Provision of desktop support and core applications services for scenarios where people transferred are required to temporarily assist in RGHI to augment non-transferred peoples' expertise or capacity, notwithstanding both parties' intentions to have these areas of support self-sufficient inside RGHI by commencement date.
+
+12 months from the Commencement Date No fee
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Section GR2: HR Service Name Description of Service Term Fee (USD) GR2.1 General HR - Ancillary Services RCP will be available to provide transition of support and agreements and provide support for meetings to share information and answer any question with current vendors regarding current practices, including but not limited to support for separation of 401(K), H&W, and pension plans. The parties shall cooperate in good faith regarding preparation of 5500s and ACA reporting for plan year 2019, with responsibility for filings as follows: •  401(K) 5500s •  RGHI shall file for existing Employee Savings Plan (non-bargaining) and Employee Savings Plan for Pactiv Bargaining •  RCP shall file for Employee Savings Plan for Reynolds Bargaining and any new Company savings plans established as of the Commencement Date •  Pension and H&W 5500s •  RGHI shall file for Reynolds Services Inc. Group Benefit Plan, Pactiv Retirement Plan, Reynolds Services Inc. Group Benefit Plan for Bargaining Unit Employees, Pactiv Retiree Health & Welfare Plan, Reynolds Group Pension Plan, Evergreen Packaging Pension Plan •  RCP shall file for new Company plans established as of the Commencement Date •  ACA Reporting •  RCP shall coordinate filing for 2019 plan year
+
+12 months from the Commencement Date No fee
+
+GR2.2 General HR - ACA and HSA Training Provision of handover and support services related to ACA reporting and HSA funding and reporting. 12 months from the Commencement Date No fee Plus pass-through of actual third-party costs incurred in providing the service
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Section GR3: Regulatory Service Name Description of Service Term Fee (USD) G3.1 General Services - Regulatory Provision of handover services and support related to compliance with FDA regulations, food-contact product rules, product compliance, and other regulatory and compliance schemes.
+
+12 months from the Commencement Date No fee
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Section GR4: Procurement Service Name Description of Service Term Fee (USD) GR4.1 Procurement Handover Services Provision of handover services to assist RGHI in establishing relationships with vendors for the following services: •  Fleet program •  Office supplies •  T&E (including rental car, airline, World Travel, and Concur) Provision of purchasing support and handover services for poly bags.
+
+12 months from the Commencement Date $100 per person / per hour Plus pass-through of actual third-party costs incurred in providing the service
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+Section GR5: Trade Compliance Service Name Description of Service Term Fee (USD) GR5.1 Trade Compliance Handover Services Provision of access to RCP's and its Affiliates' trade compliance team who will provide ongoing support, background information and handover support services for the current trade compliance function, including: •  Assistance in data handover of historical import and export transactions and classification databases •  Familiarization with trade compliance procedures, in particular: o   Export controls o   Transition supplier communication regarding Importer Security Filings o   Reporting and filing services, but will not require Sellers to carry out reporting or filing on behalf of the Transferred Entities o   Understanding of current issues, including routine filings, prior disclosures, protests, remediations and assistance declarations •  Coordination of shipments with brokers (import and export) •  Classifications •  Preparation of customs documentation •  Denied party screening •  Monthly import and export reports •  FTA support
+
+12 months from the Commencement Date No fee Plus pass-through of actual third-party costs incurred in providing the service
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020
+
+
+
+
+
+EXHIBIT C
+
+Service Coordinators
+
+To be designated in writing from time to time by each party.
+
+Source: REYNOLDS CONSUMER PRODUCTS INC., S-1/A, 1/21/2020

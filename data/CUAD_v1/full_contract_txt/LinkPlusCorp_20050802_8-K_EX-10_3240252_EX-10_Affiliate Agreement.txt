@@ -1,0 +1,207 @@
+EXHIBIT 10.1
+
+                     AFFLIATE AGREEMENT DATED JULY 15, 2005
+
+                               AFFILIATE AGREEMENT
+
+         This Agreement entered into as of the Effective Date by and between Link Plus Corporation and Axiometric, LLC.
+
+                                    RECITALS
+
+         WHEREAS, Axiometric has developed certain computer software including wireless mesh networking technology and AMR devices and systems;
+
+         WHEREAS, LKPL has developed certain radio devices and systems along with hardware manufacturing capacities and plans to develop AMR devices and systems;
+
+         WHEREAS, LKPL and Axiometric believe it will be in their mutual best interests to cooperate in further developing AMR product suites by creating a preferred provider relationship between themselves;
+
+         WHEREAS, LKPL and Axiometric entered into a Letter of Intent dated May 3, 2005, and now desire to further describe their relationship as initially set forth in the non-binding portions of that Letter of Intent.
+
+         NOW, THEREFORE, in consideration of the mutual promises contained herein, the fees to be paid in connection therewith, and other good and valuable consideration, the sufficiency of which is hereby acknowledged, the parties intending to be legally bound, hereby agree as follows:
+
+1.       DEFINITIONS
+
+         1.1      Throughout this Agreement, and unless the context otherwise                   requires, the terms shown on Exhibit A (whether or not                   capitalized) shall have the meanings there specified. If other                   terms are defined in the text of this Agreement, then                   throughout this Agreement, those terms shall have the meanings                   respectively ascribed to them.
+
+2.       OFFICE SPACE
+
+         2.1      During the term of this Agreement, LKPL will provide                   Axiometric with a license to use office space in LKPL's                   corporate facility in Columbia, Maryland, free of charge.
+
+         2.2      LKPL will allow Axiometric to use enough office space for two                   individuals and associated equipment in locations convenient                   for LKPL's purposes for as long as that space is available and                   not needed by LKPL for its own purposes. Axiometric will have                   access to LKPL's telephone system, internet connections,                   conference room, and printers.
+
+         2.3      If LKPL requires space used by Axiometric for LKPL's own                   purposes, then LKPL will attempt in good faith but without                   having any obligation to continue to provide Axiometric with                   comparable space. If LKPL deems itself unable to continue to                   provide Axiometric work space without expanding LKPL's                   facilities, and if LKPL determines it will be in its own best                   interests to expand its facilities, then LKPL will afford                   Axiometric the opportunity to lease space in the new                   facilities under a mutually acceptable separate commercial                   rental agreement. If Axiometric does not then wish to rent                   office space from LKPL, then LKPL may terminate Axiometric's                   license to use work space in LKPL's facility upon 60 days                   notice.
+
+Source: LINK PLUS CORP, 8-K, 8/2/2005
+
+
+
+
+
+         2.4      Axiometric shall be solely responsible for providing all                   equipment, furniture, supplies and other personal property                   that Axiometric deems appropriate to operate its business.                   LKPL will have no obligation to provide any special facilities                   or infrastructure unless otherwise negotiated.
+
+         2.5      LKPL will have no liability whatsoever for any of Axiometric's                   equipment, furniture, supplies or other personal property;                   Axiometric will use the space at its sole risk.
+
+         2.6      Axiometric will have the right to terminate the license to use                   the office space and to move out of the office space at any                   time upon two weeks notice.
+
+         2.7      Axiometric must at all times use the office space strictly in                   accordance with terms and conditions stated in LKPL's lease                   for the space.
+
+         2.8      Axiometric must indemnify and hold LKPL and its officers,                   directors, stockholders, agents, contractors, employees and                   guests (collectively, the "Indemnified Parties") harmless from                   and against any and all Loss that the Indemnified Parties may                   incur arising from or relating to Axiometric use of the office                   space, including but not limited to any Loss suffered by the                   Indemnified Parties as a result of any negligent acts or                   omissions of Axiometric, its employees, agents, contractors                   and representatives, or anyone else working under Axiometric                   or in the office with the permission of Axiometric.
+
+3.       AUTOMATIC METER READING
+
+         Axiometric and LKPL agree to jointly pursue accessing and commercially          penetrating the AMR market by developing a suite of qualified and          commercially marketable product suites for that market, marketing and          selling that suite of products. The following shall be the general          roles and responsibilities of the two companies with respect to AMR          efforts:
+
+         3.1      AMR Products
+
+                  3.1.1    Water Meter Development: Axiometric and LKPL are                            jointly developing an AMR product for remote reading                            of residential water utility meters (hereafter the                            Water Meter). The Water Meter is a hardware device                            with integral software. The software includes, under                            license, the Axiometric wireless mesh networking                            intellectual property. The Water Meter is capable of                            interfacing with a variety of water meter registers,                            recording water usage, logging various exceptional                            conditions, and reporting them via a radio link. The                            Water Meter is also capable of forming a mesh network                            with other Water Meters to extend the radio reporting                            range using the aforementioned Axiometric mesh                            networking intellectual property. The Water Meter                            software and hardware are based on existing                            Axiometric electric meter AMR hardware and software                            products; joint ownership of the Water Meter does not                            convey joint ownership of those existing products or                            of the mesh networking intellectual property.
+
+                           New software and hardware designs and intellectual                            property developed in the course of the Water Meter                            development are jointly owned; specifically, the                            algorithms used to collect data directly from a Water                            Meter using a point-to-point link (drive-by data                            collection), the specific hardware designs related to                            water register interface, battery power management,                            and other intellectual property specifically
+
+Source: LINK PLUS CORP, 8-K, 8/2/2005
+
+
+
+
+
+                           described and mutually agreed in writing as                            amendments to this Agreement. Joint ownership conveys                            to each party individually the right to use, sell,                            modify, and create derived works from said                            intellectual property, as well as the right to                            sub-license these rights to others.
+
+                  3.1.2    Energy AMR Product Suite: Axiometric has developed an                            AMR product suite for use in energy (electric)                            metering consisting of a meter insert for interfacing                            to energy meters, recording usage and exceptional                            conditions, and transmitting the information via                            radio to a central collector. Axiometric has also                            developed mesh networking intellectual property to                            allow the meter inserts to relay information from                            insert to insert thus extending the range and                            reliability of such information transmissions.                            Axiometric has also developed a central collection                            unit (hereafter Mesh Controller or Gateway) capable                            of collecting usage and other information from a                            large number of meter inserts and relaying that                            information onto another communications medium                            (radio, GSM, etc.) for delivery to a processing                            system. Axiometric has also developed processing                            software for recording the collected data to a                            database, presenting
+
+                           and managing that information, and exporting the data                            to other processing systems.  This collection of                            products forms an energy metering (electric) AMR                            Product Suite that is owned by Axiometric.
+
+                  3.1.3    Axiometric and LKPL may develop other AMR Product                            Suites (e.g. for gas metering) and ownership of those                            AMR Product Suites will be held individually by the                            developer of the suite or jointly if mutually agreed                            to in writing.
+
+         3.2      Marketing and Sales: Regardless of ownership and in order to                   coordinate marketing and prevent overlap and confusion by                   customers and potential customers, all sales and marketing                   shall be conducted as follows:
+
+                  3.2.1    Axiometric shall have the exclusive right to market                            and sell AMR Product Suites to entities whose                            corporate headquarters are physically located in the                            United States and U.S. territories with the exception                            of Datamatic as defined in 3.3.1 and 3.3.2 below
+
+                  3.2.2    LKPL shall have the exclusive right to market and                            sell AMR Product Suites to Datamatic LTD, a Plano TX                            corporation (hereafter Datamatic).
+
+                  3.2.3    LKPL shall have the exclusive right to market and                            sell AMR Product Suites to entities whose corporate                            headquarters are physically located outside the                            United States and its territories.
+
+                  3.2.4    The proceeds of all sales shall be distributed                            pursuant to the terms of this Agreement as set forth                            in Section 3.3  [Proceeds] below.
+
+         3.3      Proceeds: As a result of the different ownership interests,                   marketing relationships, and this Agreement, the proceeds of                   sales of AMR Product Suites shall be as follows unless                   otherwise mutually agreed in writing:
+
+                  3.3.1    For sales of Water Meter AMR Product Suites to                            Datamatic, LKPL shall set the price of Water Meter                            AMR Product Suite sales to Datamatic. LKPL shall pay
+
+Source: LINK PLUS CORP, 8-K, 8/2/2005
+
+
+
+
+
+                           Axiometric the higher of a) five-percent (5%) of the                            Gross Proceeds or b) twenty-five-percent (25%) of the                            Net Proceeds of all Water Meter AMR Product Suite                            sales.
+
+                  3.3.2    For sales of Electric Meter AMR Product Suites to                            Datamatic, Axiometric shall set the price of Electric                            Meter AMR Product Suite sales to Datamatic. LKPL                            shall pay Axiometric Net Proceeds less the higher of                            a) five-percent (5%) of the Gross Proceeds or b)                            twenty-five-percent (25%) of the Net Proceeds.
+
+                  3.3.3    For sales of AMR Product Suites by LKPL, other than                            sales to Datamatic as defined above: LKPL shall pay                            Axiometric the higher of:
+
+                           a) five-percent (5%) of the Gross Proceeds OR                            b) twenty-percent (25%) of the Net Proceeds
+
+                  3.3.4    For sales of AMR Product Suites by Axiometric, other                            than sales to Datamatic as defined above, and other                            than AMR product suites for use in electric/energy                            metering: Axiometric shall pay LKPL the higher of:
+
+                           a) five-percent (5%) of the Gross Proceeds OR                            b) twenty-percent (25%) of the Net Proceeds
+
+                  3.3.5    Payments to Axiometric for sales of the AMR Product                            Suite shall be in lieu of any licensed IP Royalty                            payments for those products.
+
+         3.4      Manufacturing: During the term of this Agreement, Axiometric                   shall issue a Request for Manufacture (RFM) for any AMR                   hardware to be sold by Axiometric under the terms of this                   Agreement. The RFM shall specify delivered product cost,                   credit requirements, delivery schedules, warranty service,                   quality using industry standard terms, and other industry                   standard manufacturing requirements. As the preferred                   manufacturer, LKPL shall have first right of refusal on all                   such RFMs. If LKPL does not respond to an RFM within thirty                   (30) days, or cannot provide competitive terms (such as cost,                   credit, quality, schedule), Axiometric will be free to award                   the manufacturing contract to an alternate manufacturer.
+
+         3.5      Payments: As defined in section 3.3 above, selling parties may                   owe the other party some portion of the Proceeds. The payment                   of amounts owed shall be performed as follows:
+
+                  3.5.1    Payments due shall be made within 45 days of the                            close of each calendar quarter.
+
+                  3.5.2    Payments that are not received within thirty (30)                            days after their due date will bear interest at the                            rate of twelve percent (12.0%) per annum compounded                            monthly from the due date until such payment is                            received.
+
+                  3.5.3    Payments not received within sixty (60) days after                            their due date will be considered a material breach                            of this Agreement and the party due payment may                            pursue any and all legal action to recover the                            payment and reasonable legal fees incurred in the                            pursuit of said payment.
+
+Source: LINK PLUS CORP, 8-K, 8/2/2005
+
+
+
+
+
+                  3.5.4    Both parties are entitled to reports of sales and to                            conduct periodic audits to ensure accuracy of                            Payments as follows:
+
+                           a.       Each party will provide to the other a                                     quarterly report (in hard copy and                                     electronic copy (if applicable)) showing the                                     AMR Product Suite sales including the Gross                                     Proceeds and the Production Costs.
+
+                           b.       Each party shall have the right to conduct                                     an audit after the end of each calendar year                                     to verify the accuracy of the other party's                                     quarterly reports for that year, provided                                     the audit must be initiated no later than                                     June 30th of each year, and that if no such                                     audit is conducted, then the quarterly                                     reports for that year will be deemed                                     accurate.
+
+                           c.       In the event a Payee's audit shows that the                                     Gross Proceeds or Production Costs of the                                     Payor resulted in an under-payment to the                                     Payee, then the Payor shall have the right,                                     at the Payor's cost, to have its own auditor                                     verify the Payee's audit. If the Payor audit                                     confirms the report of the Payee's auditor,                                     then the Payor will pay the deficiency                                     within fifteen (15) days from the time Payee                                     invoices for the deficiency.
+
+                           d.       In the event a Payee's audit shows that the                                     Gross Proceeds or Production Costs of the                                     Payor resulted in an under-payment of more                                     than three percent (3.0%) to the Payee, then                                     the Payor shall have the right, at the                                     Payor's cost, to have its own auditor verify                                     the audit. If the Payor audit confirms the                                     report of the Payee's auditor, then the                                     Payor will pay the deficiency and the cost                                     of the Payee's audit within fifteen (15)                                     days from the time Payee invoices for those                                     fees and provides standard proof of the time                                     and expenses incurred.
+
+4.       RELATIONSHIP OF THE PARTIES
+
+         4.1      The parties will be joint venturers only as to those                   activities that they jointly undertake for the AMR market as                   described in section 3 above; otherwise they shall be                   independent of each other, with full control over their                   respective activities without the need to account to the                   other, and independent contractors as to all work performed                   under separate agreements. Even though the parties will be                   joint ventureres as to the AMR market, neither party will have                   the right to bind the other in any way without the other                   party's express consent, and this Agreement shall not                   otherwise be construed to make any party the agent, assignee,                   employee,
+
+                  fiduciary, investor, joint venturer, partner, or                   representative of any other party.
+
+5.       TERM
+
+         This Agreement will remain in force for perpetuity or until and unless          otherwise mutually agreed or amended in writing by both parties.
+
+6.       NOTICES
+
+Source: LINK PLUS CORP, 8-K, 8/2/2005
+
+
+
+
+
+         All notices and communications required or permitted to be given under          this Agreement will be deemed given after receipt when sent by United          States Postal Service as registered or certified mail, postage prepaid,          and addressed to the other party at the notice addresses set forth on          the signature page (unless by such notice a different person or address          shall have been designated)
+
+7.       ADDITIONAL PROVISIONS.
+
+         7.1      This Agreement may not be assigned in whole or in part by                   either party without prior written consent of the other.
+
+         7.2      All actions, cases, suits and proceedings in connection with                   this Agreement shall be brought in Maryland. All persons                   affected by this Agreement specifically consent to the                   personal jurisdiction of and venue in said courts. No action,                   case, suit or proceeding, regardless of form, arising out of                   or related to this Agreement, may be brought by either party                   more than one (1) year after the cause of action has arisen,                   or in the case of nonpayment, more than two (2) years from the                   date of the last payment. ALL ACTIONS, CASES, SUITS AND                   PROCEEDINGS SHALL BE HEARD WITHOUT A JURY. ALL PERSONS                   AFFECTED BY THIS AGREEMENT SPECIFICALLY WAIVE ALL RIGHT TO A                   TRIAL BY JURY AND SPECIFICALLY CONSENT TO THE PERSONAL                   JURISDICTION OF AND VENUE IN SAID COURTS.
+
+         7.3      If suit or action is instituted to enforce any of the terms of                   this Agreement, then the prevailing party shall be entitled to                   recover from the other party such sums as the Court may                   adjudge reasonable as attorney's fees at trial on or appeal of                   such suit or action, in addition to all other sums provided by                   law.
+
+         7.4      This Agreement shall be construed and governed in accordance                   with the laws of the State of Maryland regardless of the place                   or places of its physical execution and performance.
+
+         7.5      This Agreement includes all Recitals, attachments, exhibits,                   schedules, the Software License Agreement, and contains the                   entire agreement of
+
+                  the parties. It may not be changed orally but only by                   agreement in writing signed by the party against whom                   enforcement of any amendment, waiver, change, modification,                   extension or discharge is sought.
+
+IN WITNESS WHEREOF, LKPL and Axiometric have executed this Agreement below.
+
+LINK PLUS CORPORATION                       AXIOMETRIC, LLC
+
+By:                                         By:    ---------------------------                 --------------------------------     Robert L. Jones, Jr.                          Frank Moody     Chairman, CEO                                 Managing Director
+
+Notice Addresses:
+
+Link Plus Corporation 6996 Columbia Gateway Drive, Suite 104 Columbia, MD 21046 Attention: Chief Operating Officer
+
+Axiometric, LLC 10718 Vista Road Columbia, MD 21044
+
+Source: LINK PLUS CORP, 8-K, 8/2/2005
+
+
+
+
+
+                        EXHIBIT A - SELECTED DEFINITIONS
+
+"Axiometric" means Axiometric, LLC. a Maryland limited liability company, having a principal place of business at 10718 Vista Road, Columbia, Maryland 21044.
+
+"Effective Date" means July 15, 2005.
+
+"Inventions" include creations, discoveries, hardware, inventions, prototypes, product suites, software, works of original authorship, and other intellectual property.
+
+"AMR Product Suite" is a collection of hardware and software products that together allow a utility to record, transmit, collect, and process utility (e.g. gas, water, electric) customer usage data and exceptional conditions.
+
+"LKPL" means Link Plus Corporation, a Delaware corporation having a principal place of business at 6996 Columbia Gateway Drive, Columbia, Maryland, 21046
+
+"Loss" includes actions, claims, costs, debts, demands, encumbrances, expenses (including all reasonable attorneys fees, costs and litigation expenses), fines, liens, liabilities and obligations.
+
+"Gross Proceeds" means the actual sums collected for the sale of any and all products in an AMR Product Suite.
+
+"Net Proceeds" means the Gross Proceeds less the Production Cost (as defined below).
+
+"Production Cost" means actual cost (including reasonable and competitive allowances for: materials, labor, overhead, other fixed costs, delivery, profit, taxes and duties) incurred in manufacturing and delivering AMR products. Reasonable and competitive is defined as being at or below the costs of competing manufacturers with similar capabilities manufactured under similar terms.
+
+"Royalty" means the royalty payable by LKPL to Axiometric under the Software License Agreement between the parties.
+
+Source: LINK PLUS CORP, 8-K, 8/2/2005

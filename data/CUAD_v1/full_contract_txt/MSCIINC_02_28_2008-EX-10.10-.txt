@@ -1,0 +1,145 @@
+Exhibit 10.10
+
+EXECUTION VERSION
+
+INTELLECTUAL PROPERTY AGREEMENT
+
+This Intellectual Property Agreement (the "Agreement"), is entered into as of November 20, 2007 (the "Effective Date"), by and between Morgan Stanley & Co. Incorporated, a Delaware corporation ("MS") and MSCI Inc., a Delaware corporation ("MSCI"). (MS and MSCI individually referred to as a "Party" and collectively as the "Parties").   1. DEFINITIONS
+
+  1.1 Certain Definitions.
+
+As used in this Agreement:
+
+  (a) "Including" and its derivatives, each whether or not capitalized in this Agreement, means "including but not limited to".
+
+  (b) "Licensed Materials" means, as applicable, the MS Licensed Materials and the MSCI Licensed Materials.
+
+
+
+(c) "MS Licensed Materials" means collectively, to the extent owned by a member of the MS Provider Group, any hardware settings and configurations, generic software libraries and routines, and generic document templates not separately commercialized by the MS Provider Group (as defined below) and used by MSCI prior to the Trigger Date. For the avoidance of doubt, the MS Licensed Materials does not include (i) any patent, trademark or service mark of the MS Provider Group, or (ii) any infrastructure hardware or software (e.g., monitoring software and systems, customized operating systems (and components such as AFS, DNS, AD, etc.), and middleware). For the avoidance of doubt, the document templates do not include any references to members of the MS Provider Group or its personnel.
+
+
+
+(d) "MSCI Licensed Materials" means collectively, to the extent owned by a member of the MSCI Provider Group, any hardware settings and configurations, generic software libraries and routines, and generic document templates not separately commercialized by the MSCI Provider Group (as defined below) and used by MS prior to the Trigger Date. For the avoidance of doubt, the MSCI Licensed Materials does not include (i) any patent, trademark or service mark of the MSCI Provider Group, (ii) any infrastructure hardware or software (e.g., monitoring software and systems, customized operating systems and middleware), or (iii) any software or data separately licensed to MS by the MSCI Provider Group (such as the Barra Aegis software or the MSCI indices). For the avoidance of doubt, the document templates do not include any references to members of the MSCI Provider Group or its personnel.
+
+  (e) "Trigger Date" means the date upon which Morgan Stanley shall cease to own more than 50% of the issued and outstanding shares of MSCI common stock.     1.2 Other Terms.
+
+Other terms used in this Agreement are defined in the context in which they are used and shall have the meanings there indicated.
+
+
+
+
+
+2. GRANT OF LICENSE
+
+  2.1 MS Grant.
+
+MS hereby grants (subject to any existing third party contractual obligations) to MSCI a non-exclusive, perpetual, irrevocable, world- wide, royalty-free license for MSCI to use, modify, copy, create derivative works of and sublicense, for any business purpose, the MS Licensed Materials.     2.2 MSCI Grant.
+
+MSCI hereby grants (subject to any existing third party contractual obligations) to MS a non-exclusive, perpetual, irrevocable, world- wide, royalty-free license for MS to use, modify, copy, create derivative works of and sublicense, for any business purpose, the MSCI Licensed Materials.     2.3 Internet and Subnet Addresses.
+
+For the avoidance of doubt, this Agreement does not address or affect any rights of the Parties in or to internet or subnet addresses.   3. DELIVERY
+
+  3.1 No Support or Maintenance or Obligation to Deliver.
+
+The Parties shall have no obligation to provide support or maintenance for the Licensed Materials, including any obligation to update or correct such Licensed Materials. The Parties shall have no obligation to provide copies of the Licensed Materials (including in the case of software, any source code and object code).   4. NO WARRANTIES
+
+THE LICENSE GRANTS HEREUNDER ARE PROVIDED "AS-IS" WITH NO WARRANTIES, AND THE PARTIES EXPRESSLY EXCLUDE AND DISCLAIM ANY WARRANTIES UNDER OR ARISING AS A RESULT OF THIS AGREEMENT, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT OR ANY OTHER WARRANTY WHATSOEVER.   5. LIMITATIONS OF LIABILITY
+
+
+
+(a) MSCI agrees that neither MS nor its affiliates or subsidiaries (other than MSCI) (collectively, the "MS Provider Group") and the respective directors, officers, agents, and employees of the MS Provider Group shall have any liability, whether direct or indirect, in contract or tort or otherwise, to MSCI for or in connection with this Agreement or the transactions contemplated hereby or any actions or inactions by or on behalf of the MS Provider Group in connection with this Agreement and such transactions.
+
+  (b) MS agrees that neither MSCI nor its subsidiaries (collectively, the "MSCI Provider Group") and the respective directors, officers, agents, and employees of the MSCI Provider Group shall have any liability, whether direct or indirect, in contract or tort or   2
+
+
+
+
+
+  otherwise, to MS for or in connection with this Agreement or the transactions contemplated hereby or any actions or inactions by or on behalf of the MSCI Provider Group in connection with this Agreement and such transactions.
+
+
+
+(c) Notwithstanding the provisions of Section 5(a) and (b), none of the members of the MS Provider Group and the MSCI Provider Group shall be liable for any special, indirect, incidental, consequential or punitive damages of any kind whatsoever in any way due to, resulting from or arising in connection with the performance of or failure to perform MS's or MSCI's obligations under this Agreement. This disclaimer applies without limitation (i) to claims for lost profits, (ii) regardless of the form of action, whether in contract, tort (including negligence), strict liability, or otherwise, and (iii) regardless of whether such damages are foreseeable or whether any member of the MS Provider Group or the MSCI Provider Group has been advised of the possibility of such damages.
+
+  (d) In addition to the foregoing, each Party agrees that it shall, in all circumstances, use commercially reasonable efforts to mitigate and otherwise minimize its damages, whether direct or indirect, due to, resulting from or arising in connection with any failure by the other Party to comply fully with its obligations under this Agreement.   6. MISCELLANEOUS
+
+  6.1 Governing Law; Jurisdiction; Dispute Resolution.
+
+  (a) This Agreement shall be construed in accordance with and governed by the substantive internal laws of the State of New York. MSCI Inc. is registered to do business in New York under the name NY MSCI.
+
+
+
+(b) Any action seeking to enforce any provision of, or based on any matter arising out of or in connection with, this Agreement or the transactions contemplated hereby shall be brought in the United States District Court for the Southern District of New York or any other New York State court sitting in New York County, and each of the parties hereby consents to the jurisdiction of such courts (and of the appropriate appellate courts therefrom) in any such suit, action or proceeding and irrevocably waives, to the fullest extent permitted by law, any objection which it may now or hereafter have to the laying of the venue of any such suit, action or proceeding in any such court or that any such suit, action or proceeding which is brought in any such court has been brought in an inconvenient forum. Process in any such suit, action or proceeding may be served on any party anywhere in the world, whether within or without the jurisdiction of any such court.
+
+  (c) THE PARTIES HERETO HEREBY IRREVOCABLY WAIVE ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.     6.2 Severability.
+
+If any provision of this Agreement shall be invalid or unenforceable, such invalidity or unenforceability shall not render the entire Agreement invalid. Rather, the Agreement shall be construed as if not containing the particular invalid or unenforceable provision, and the rights and obligations of each party shall be construed and enforced accordingly.   3
+
+
+
+
+
+  6.3 Notices.
+
+Any notice, instruction, direction or demand under the terms of this Agreement required to be in writing shall be duly given upon delivery, if delivered by hand, facsimile transmission, or mail, to the following addresses:
+
+To Morgan Stanley & Co. Incorporated:
+
+Morgan Stanley 1585 Broadway New York, NY 10036 Attn: Martin M. Cohen, Director of Company Law Facsimile: (212) 507-3334
+
+To MSCI:
+
+MSCl Inc. 88 Pine Street New York, New York 10005 Attn: General Counsel Facsimile: (212) 804-2906
+
+or to such other addresses or telecopy numbers as may be specified by like notice to the other party. All such notices, requests and other communications shall be deemed given, (a) when delivered in person or by courier or a courier services, (b) if sent by facsimile transmission (receipt confirmed) on a business day prior to 5 p.m. in the place of receipt, on the date of transmission (or, if sent after 5 p.m., on the following business day) or (c) if mailed by certified mail (return receipt requested), on the date specified on the return receipt.     6.4 Entire Agreement.
+
+This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersede all prior agreements, understandings and negotiations, both written and oral, between the parties with respect to the subject matter hereof.     6.5 Third Party Beneficiaries.
+
+This Agreement is not intended to confer upon any person or entity other than the parties hereto any rights or remedies hereunder.     6.6 Amendments and Waiver.
+
+  (a) Any provision of this Agreement may be amended or waived if, but only if, such amendment or waiver is in writing and is signed, in the case of an amendment, by each party to this Agreement, or in the case of a waiver, by the party against whom the waiver is to be effective.
+
+
+
+(b) No failure or delay by any party in exercising any right, power or privilege hereunder shall operate as a waiver thereof nor shall any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any other right, power or privilege. The rights and remedies herein provided shall be cumulative and not exclusive of any rights or remedies provided by law.   4
+
+
+
+
+
+  6.7 Construction.
+
+References to a "Section" shall be references to the sections of this Agreement, unless otherwise specifically stated. The Section headings in this Agreement are intended to be for reference purposes only and shall in no way be construed to modify or restrict any of the terms or provisions of this Agreement.     6.8 Counterparts.
+
+This Agreement may be executed in separate counterparts, each of which shall be deemed an original and all of which, when taken together, shall constitute one agreement.
+
+[Remainder of this page is intentionally left blank]   5
+
+
+
+
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.   MORGAN STANLEY & CO. INCORPORATED
+
+By:  /s/ MARTIN M. COHEN Name:  MARTIN M. COHEN Title:  MANAGING DIRECTOR
+
+MSCI INC.
+
+By:    Name:   Title:
+
+Signature Page to the Intellectual Property Agreement
+
+
+
+
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.   MORGAN STANLEY & CO. INCORPORATED
+
+By:    Name:   Title:
+
+MSCI INC.
+
+By:  /s/ Henry Fernandez Name:  Henry Fernandez Title:  CEO & President
+
+Signature Page to the Intellectual Property Agreement

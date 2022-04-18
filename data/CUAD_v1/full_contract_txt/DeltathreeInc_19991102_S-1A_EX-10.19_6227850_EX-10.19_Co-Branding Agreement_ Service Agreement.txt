@@ -1,0 +1,221 @@
+Execution Copy
+
+                       CO-BRANDING AND SERVICES AGREEMENT
+
+         Co-Branding and Services Agreement, effective as of October 1, 1999 (this "Agreement"), between RSL COM PrimeCall, Inc., a Delaware corporation ("PrimeCall"), and deltathree.com, Inc. (formerly known as Delta Three, Inc.), a Delaware corporation ("DeltaThree").
+
+                              W I T N E S S E T H :
+
+         WHEREAS, PrimeCall is a leading provider and distributor of prepaid calling cards;
+
+         WHEREAS, DeltaThree is a leading on-line provider of Internet Protocol (IP) communications services and utilizes the Internet and networks based on IP to provide telecommunications products and services;
+
+         WHEREAS, each of PrimeCall and DeltaThree desires to co-brand a DeltaThree prepaid IP telephony calling card (the "Calling Card");
+
+         WHEREAS, PrimeCall desires to begin selling and advertising its prepaid calling products on-line utilizing the Internet;
+
+         WHEREAS, PrimeCall has agreed to provide to DeltaThree certain services in connection with the Calling Card and DeltaThree has agreed to provide certain services in connection with the development of an on-line business to PrimeCall.
+
+         NOW, THEREFORE, in consideration of the foregoing premises and of the mutual covenants hereinafter contained, the parties hereto hereby agree as follows:
+
+                                    ARTICLE I  [Term]
+
+                                      Term
+
+         Section 1.01. Term. The term of this Agreement shall be effective as of the date first stated above and shall continue for a term of three (3) years, unless terminated earlier in accordance with the provisions of this Agreement (the "Term"); provided, however, that PrimeCall may elect to terminate this Agreement, upon thirty (30) days' written notice, at any time from and after the time that collectively RSL Communications, Ltd. and/or its Affiliates holds less than fifty percent (50%) of the voting control of DeltaThree's outstanding shares. "Affiliate" as used in this Agreement shall mean any person directly or indirectly controlling or controlled by or under direct or indirect common control with such person.
+
+                                   ARTICLE II  [Co-Branding of Calling Card and Joint Marketing]
+
+                 Co-Branding of Calling Card and Joint Marketing
+
+         Section 2.01  [Calling Card]. Calling Card. PrimeCall and DeltaThree shall jointly develop a DeltaThree prepaid calling card product (or modify and improve an existing PrimeCall product) which bears the logos of each of DeltaThree and PrimeCall. In order to lower the cost structure and increase the competitiveness of the Calling Card, DeltaThree and PrimeCall shall each use their reasonable best efforts to increase the percentage of the traffic derived from the use of the Calling Card which will be carried via the DeltaThree Network. For purposes of this Agreement, the "DeltaThree Network" shall mean Internet Protocol (IP) communications services, which utilize the Internet and networks, based on IP to provide telecommunications products and services. It is fully understood that the Calling Card is a DeltaThree product and accordingly all revenues derived therefrom will inure to the benefit of DeltaThree.
+
+         Section 2.02  [On-Line Marketing]. On-Line Marketing. Each of PrimeCall and DeltaThree agree to place, in a prominent location, a link on its home page website to the other's home page website.
+
+         Section 2.03  [Limited License]. Limited License. Throughout the Term of this Agreement, the parties hereby agree to grant to each other a limited license to use each other's proprietary marks solely in connection with the sale, distribution, marketing and promotion of each party's calling cards by the other party. Both parties hereto shall exercise such license in compliance with the quality and other standards established by the party owning such marks. Except as set forth herein, neither party shall use the other party's proprietary marks without the prior, express, written consent of the other party. All rights to either party's proprietary marks shall remain with the owner of the marks.
+
+                                   ARTICLE III  [Services Provided by PrimeCall]
+
+                         Services Provided by PrimeCall
+
+         Section 3.01  [Printing of Calling Cards]. Printing of Calling Cards. PrimeCall shall negotiate and
+
+Source: DELTATHREE INC, S-1/A, 11/2/1999
+
+
+
+
+
+contract on behalf of DeltaThree for the printing of the Calling Cards. PrimeCall will afford DeltaThree with the benefit of any discount pricing it receives with respect to the printing of its own calling cards. All agreements with respect to the printing of the Calling Cards shall be approved in advance by DeltaThree. DeltaThree shall reimburse PrimeCall for all costs incurred by PrimeCall in connection with the manufacturing and printing of the Calling Cards.
+
+         Section 3.02  [Toll-Free Access Number]. Toll-Free Access Number. PrimeCall shall procure on behalf of DeltaThree a unique toll-free "800" access number for users of the Calling Card. DeltaThree shall be responsible for all costs in connection therewith.
+
+         Section 3.03  [Pricing and Marketing]. Pricing and Marketing. PrimeCall shall provide DeltaThree with pricing and marketing services in connection with the Calling Card, including without limitation, developing a cost structure for the sale of the Calling Cards, pricing specific routes and determining discount rates. DeltaThree shall be responsible for all costs in connection therewith.
+
+                                       2
+
+         Section 3.04  [Sales and Distribution]. Sales and Distribution. PrimeCall's sales force shall assist in selling the Calling Card and PrimeCall shall handle all aspects of the distribution of the Calling Card, including without limitation, the negotiation of agreements with distributors, inventory control, billing and collections. All such agreements shall be approved in advance by DeltaThree. DeltaThree shall be responsible for all costs in connection with such sales and distribution efforts.
+
+         Section 3.05  [Customer Service]. Customer Service. PrimeCall shall negotiate and contract on behalf of DeltaThree to out-source customer service for users of the Calling Card. DeltaThree shall reimburse PrimeCall for all customer service expenses directly related to users of the Calling Card. Notwithstanding the foregoing, the level of customer service shall be subject to the approval of DeltaThree.
+
+         Section 3.06  [Reporting]. Reporting. On or before the tenth day of each calendar month, PrimeCall shall prepare for DeltaThree a report detailing the total revenues and expenses associated with the sale and use of the Calling Cards in the previous month. In the event that DeltaThree disputes any amounts set forth on the report, DeltaThree shall provide PrimeCall with written notice of such dispute, which notice shall detail the reasons for the dispute, within seven (7) days of its receipt thereof. The parties shall negotiate in good faith to resolve any such disputes.
+
+         Section 3.07  [Procedures]. Procedures. The services to be provided by PrimeCall in accordance with this Article III  [Services Provided by PrimeCall] shall be provided to DeltaThree in accordance with reasonable procedures for operation and may be changed from time to time if agreed upon by each of PrimeCall and DeltaThree.
+
+                                   ARTICLE IV  [Services Provided by DeltaThree]
+
+                         Services Provided by DeltaThree
+
+         Section 4.01  [Web Site Development and Services]. Web Site Development and Services. Within three (3) months of the date hereof, DeltaThree shall establish and administrate a PrimeCall web site (the "PrimeCall Web Site") in consultation with PrimeCall which will enable PrimeCall to market and sell its calling cards via the World Wide Web and provide on-line support for such sales. The PrimeCall Web Site shall be a fully functional e-commerce site, with all ordering and billing performed on-line. DeltaThree shall provide ongoing upgrades to the PrimeCall Web Site, shall develop a database for the PrimeCall Web Site, and shall oversee all billing, collections and fulfillment for on-line orders. PrimeCall shall establish its own merchant account with Citibank or another accredited United States banking institution and provide DeltaThree with all information pertaining to such account to enable DeltaThree to process all on-line credit card transactions for PrimeCall. PrimeCall shall be fully liable for all charge-backs, refunds and commission payments associated with the processing of PrimeCall's on-line credit card transactions by DeltaThree. DeltaThree shall establish for PrimeCall an on-line interactive center whereby PrimeCall shall be able to monitor the on-line sales of its calling cards. All calling card and pricing information shall be
+
+                                       3
+
+provided by PrimeCall. DeltaThree shall be responsible for all costs and expenses in connection with the operation and maintenance of the PrimeCall Web Site and the services provided pursuant to this Section 4.01  [Web Site Development and Services] shall be provided at no additional cost to PrimeCall; provided, however, that PrimeCall shall be fully responsible for all costs associated with the purchase of hardware, software and domain names related to the PrimeCall website. PrimeCall agrees to cooperate and provide necessary support to assist DeltaThree in providing the services under this Section 4.01  [Web Site Development and Services] and shall be responsible for supplying DeltaThree with the content and graphics (look and feel) of the PrimeCall website. In addition, upon the execution of this Agreement, each party shall appoint an account manager to work directly on the implementation of this Agreement.
+
+         Section 4.02  [Reporting]. Reporting. On or before the tenth day of each calendar month, DeltaThree shall prepare for PrimeCall a report detailing the total
+
+Source: DELTATHREE INC, S-1/A, 11/2/1999
+
+
+
+
+
+revenues and expenses associated with the sale of PrimeCall's calling cards via the World Wide Web in the previous month. In the event that PrimeCall disputes any amounts set forth on the report, PrimeCall shall provide DeltaThree with written notice of such dispute, which notice shall detail the reasons for the dispute, within seven (7) days of its receipt thereof. The parties shall negotiate in good faith to resolve any such disputes.
+
+         Section 4.03  [Advertising and Promotion]. Advertising and Promotion. In addition to the link provided pursuant to Section 2.02  [On-Line Marketing] hereof, DeltaThree shall develop internet advertisements for PrimeCall and shall provide 500,000 advertising impressions on the DeltaThree home page during each month of the Term of this Agreement in the form of banners, box ads, or the equivalent. DeltaThree shall also conduct certain mutually agreed to targeted e-mail promotions upon the request of PrimeCall. The services provided pursuant to this Section 4.03  [Advertising and Promotion] shall be provided at no additional cost to PrimeCall.
+
+                                  ARTICLE V  [Payments]
+
+                                   Payments
+
+         Section 5.01. Payment Terms. Any amounts due hereunder shall be calculated and paid in U.S. dollars on a monthly basis within twenty-five (25) business days following the receipt of the reports detailed in Sections 3.06  [Reporting] and 4.02  [Reporting] hereof or any other invoices provided for herein. All payments shall be made via wire transfer in accordance with written instructions from the parties.
+
+                                   ARTICLE VI  [Termination]
+
+                                   Termination
+
+         Section 6.01  [Termination for Cause]. Termination for Cause. In the event that either PrimeCall or DeltaThree materially breaches any of its duties or obligations hereunder, which breach shall not be cured within thirty (30) days after written notice is given to the breaching party specifying the breach, then either PrimeCall or DeltaThree, as the case may be, may, by giving written notice thereof to the other, terminate this Agreement as of a date specified in such notice of termination, which
+
+                                       4
+
+date shall be no earlier than ten (10) days after the date of such notice.
+
+         Section 6.02  [Termination for Bankruptcy]. Termination for Bankruptcy. In the event of the Bankruptcy (as hereinafter defined) of either PrimeCall or DeltaThree, then the non-bankrupt party may, by written notice thereof to the party in Bankruptcy, terminate this Agreement as of a date specified in such notice of termination, which date shall be no earlier than ten (10) days after the date of such notice. For the purposes of this Agreement, "Bankruptcy" shall mean the happening of any of the following: (i) the filing of an application for, or a consent to, the appointment of a trustee for all or substantially all of the relevant party's assets, (ii) the filing of a voluntary petition in bankruptcy, or the filing of a pleading in any court of record admitting in writing the relevant party's inability to pay its debts generally as they come due, (iii) the making of a general assignment for the benefit of creditors, (iv) the entry of an order, judgment or decree by any court of competent jurisdiction adjudicating the relevant party a bankrupt, or appointing a trustee of all or substantially all of such party's assets unless such order, judgment or decree is vacated or stayed on appeal within thirty (30) days or (v) the filing of an involuntary case or other proceeding against the relevant party seeking liquidation, reorganization or other relief under any bankruptcy, insolvency or other similar law, which case or proceeding shall not have been dismissed within sixty days after filing.
+
+         Section 6.03  [Effect of Termination]. Effect of Termination. In the event of the termination of this Agreement, all rights and obligations of PrimeCall and DeltaThree shall terminate as of the effective date of such termination, except that (i) such termination shall not constitute a waiver of any rights that either PrimeCall or DeltaThree may have by reason of a breach of this Agreement, (ii) such termination shall not constitute a waiver of any right to receive payments that are due and owing pursuant to this Agreement and (iii) the provisions of Article VII  [Limited Warranty] shall continue in full force and effect.
+
+                                   ARTICLE VII  [Limited Warranty]
+
+                                Limited Warranty
+
+         Section 7.01  [Disclaimer of General Warranty by PrimeCall]. Disclaimer of General Warranty by PrimeCall. PRIMECALL MAKES NO REPRESENTATION OR WARRANTY, EXPRESS OR IMPLIED, CONCERNING THE SERVICES PROVIDED HEREUNDER, INCLUDING ANY IMPLIED WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY OR OTHERWISE. IN NO EVENT SHALL PRIMECALL BE LIABLE TO DELTATHREE FOR ANY SPECIAL, INCIDENTIAL OR CONSEQUENTIAL DAMAGES, INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS, REVENUES OR DATA WHETHER BASED ON BREACH OF CONTRACT, TORT OR OTHERWISE, WHETHER OR NOT DELTATHREE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THE LIABILITY OF PRIMECALL FOR DAMAGES OR ALLEGED DAMAGES HEREUNDER, WHETHER IN CONTRACT, TORT OR ANY OTHER LEGAL THEORY, IS LIMITED TO, AND WILL NOT EXCEED, DELTATHREE'S DIRECT DAMAGES.
+
+                                       5
+
+Source: DELTATHREE INC, S-1/A, 11/2/1999
+
+
+
+
+
+         Section 7.02  [Disclaimer of General Warranty by DeltaThree]. Disclaimer of General Warranty by DeltaThree. DELTATHREE MAKES NO REPRESENTATION OR WARRANTY, EXPRESS OR IMPLIED, CONCERNING THE SERVICES PROVIDED HEREUNDER, INCLUDING ANY IMPLIED WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY OR OTHERWISE. IN NO EVENT SHALL DELTATHREE BE LIABLE TO PRIMECALL FOR ANY SPECIAL, INCIDENTIAL OR CONSEQUENTIAL DAMAGES, INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS, REVENUES OR DATA WHETHER BASED ON BREACH OF CONTRACT, TORT OR OTHERWISE, WHETHER OR NOT PRIMECALL HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THE LIABILITY OF DELTATHREE FOR DAMAGES OR ALLEGED DAMAGES HEREUNDER, WHETHER IN CONTRACT, TORT OR ANY OTHER LEGAL THEORY, IS LIMITED TO, AND WILL NOT EXCEED, PRIMECALL'S DIRECT DAMAGES.
+
+         Section 7.03  [General Network Disclaimer] General Network Disclaimer. NEITHER PARTY REPRESENTS OR WARRANTS THAT ITS NETWORK, GATEWAYS OR, THE SERVICES PROVIDED HEREUNDER ARE COMPLETELY ERROR FREE OR WILL OPERATE WITHOUT PACKET LOSS OR INTERRUPTION NOR DO THEY WARRANT ANY CONNECTION TO OR ANY TRANSMISSION OVER THE INTERNET.
+
+                                  ARTICLE VIII  [Confidentiality]
+
+                                 Confidentiality
+
+         Section 8.01  [Confidentiality]. Confidentiality. PrimeCall and DeltaThree each agree that for the longest period permitted by law each shall hold in strictest confidence and, without the prior written approval of the other party hereto, not to use for their own benefit or the benefit of any party other than the other party hereto, or disclose to any person, firm or corporation other than such party (other than as required by law) any confidential proprietary information concerning the business and affairs of the other party hereto; provided, however, that the foregoing limitations and restrictions shall not apply to information that (i) is or becomes generally available to the public other than as a result of a disclosure by the directors, officers, shareholders, partners, affiliates, employees, agents or advisors of PrimeCall or DeltaThree, as the case may be, or (ii) is or becomes available to PrimeCall or DeltaThree on a non-confidential basis from a source other than the other party hereto or any of its advisors, agents or affiliates, provided that such source is not known by PrimeCall or DeltaThree, as the case may be, to be bound by a confidentiality agreement with or other obligation of secrecy to the other party hereto. Each of PrimeCall and DeltaThree recognize that the absence of a time limitation in this Section 8.01  [Confidentiality] is reasonable and properly required for the protection of the other party hereto and in the event that the absence of such limitation is deemed to be unreasonable by a court of competent jurisdiction, PrimeCall and DeltaThree each agree and submit to the imposition of such a limitation as said court shall deem reasonable.
+
+         Section 8.02  [Confidentiality]. Equitable Remedies PrimeCall and DeltaThree each specifically recognize that any breach of Section 8.01  [Confidentiality] will cause irreparable injury to the other party hereto and that actual damages may be difficult to ascertain, and in any event, may be inadequate. Accordingly
+
+                                       6
+
+(and without limiting the availability of legal or equitable, including injunctive, remedies under any other provisions of this Agreement), each of PrimeCall and DeltaThree agrees that in the event of any such breach, the other party hereto shall be entitled to injunctive relief in addition to such other legal and equitable remedies that may be available. In addition, PrimeCall and DeltaThree each agree that the provisions of Section 8.01  [Confidentiality] shall be considered separate and apart from the remaining provisions of this Agreement and shall be enforced as such.
+
+                                   ARTICLE IX  [Miscellaneous]
+
+                                  Miscellaneous
+
+         Section 9.01  [Further Assurances]. Further Assurances. Each party will, at any time and from time to time after the date hereof, upon the request of the other, do, execute, acknowledge and deliver, or shall cause to be done, executed, acknowledged and delivered, all such other instruments as may be reasonably required in connection with the performance of this Agreement and each shall take all such further actions as may be reasonably required to carry out or further effect the transactions contemplated by this Agreement. Upon request, DeltaThree and PrimeCall will cooperate, and will use their respective best efforts to have their respective officers, directors and other employees cooperate, at the requesting parties' expense, during and after the Term in furnishing information, evidence, testimony and other assistance in connection with any actions, proceedings, arrangements or disputes involving DeltaThree and/or PrimeCall.
+
+         Section 9.02  [Survival of Representations]. Survival of Representations. All statements, certifications, indemnifications, representations and warranties made by the parties to this Agreement in this Agreement or in any certificate or list delivered pursuant hereto, and their respective obligations to be performed pursuant to the terms hereof and thereof, shall survive the Term notwithstanding (a) any examination or audit by or on behalf of any party hereto and (b) any notice of a breach or of a failure to perform not waived in writing.
+
+         Section 9.03  [Notices]. Notices. All notices or other communications required or permitted hereunder shall be in writing and shall be deemed given or delivered (i) when delivered personally or by private courier, (ii) when actually
+
+Source: DELTATHREE INC, S-1/A, 11/2/1999
+
+
+
+
+
+delivered by registered or certified United States mail, return receipt requested and postage prepaid or (iii) when sent by telecopy (provided, that, it is simultaneously electronically confirmed), addressed as follows:
+
+         If to DeltaThree:
+
+                           430 Park Avenue, 5th Floor                            New York, NY 10022                            Fax No.: 212-588-3674                            Attention: Chief Financial Officer
+
+         With a copy to:
+
+                                       7
+
+                           430 Park Avenue, 5th Floor                            New York, NY 10022                            Fax No.: 212-588-3674                            Attention: General Counsel
+
+         If to PrimeCall:
+
+                           430 Park Avenue, 5th Floor                            New York, NY  10022                            Fax No.: (212) 588-3601                            Attention:  President
+
+         With a copy to:
+
+                           430 Park Avenue, 5th Floor                            New York, NY 10022                            Fax No.: 212-588-3601                            Attention: General Counsel
+
+or to such other address as such party may indicate by a notice delivered to the other party hereto pursuant to the terms hereof.
+
+         Section 9.04  [Independent Contractors]. Independent Contractors. At all times the parties hereto shall be considered independent contractors and this Agreement shall not create any agency, partnership or employment relationship between the parties. Except as specifically set forth herein, neither party shall have the right to act for or on behalf of or in the name of the other party.
+
+         Section 9.05  [No Modification Except in Writing]. No Modification Except in Writing. This Agreement shall not be changed, modified, or amended except by a writing signed by the party to be charged and this Agreement may not be discharged except by performance in accordance with its terms or by a writing signed by the party to be charged.
+
+         Section 9.06  [Waivers]. Waivers. The waiver, express or implied, by a party hereto of any rights hereunder or of any failure to perform or breach hereof by the other party shall not constitute or be deemed a waiver of any other right hereunder or any other failure to perform or breach hereof by the other party, whether of a similar or dissimilar nature.
+
+         Section 9.07  [Entire Agreement]. Entire Agreement. This Agreement and all other documents to be delivered in connection herewith set forth the entire agreement and understanding between the parties as to the subject matter hereof and merges and supersedes all prior discussions, agreements and understandings of every kind and nature between them.
+
+         Section 9.08  [Severability]. Severability. If any provision of this Agreement or the application of any provision hereof to any person or circumstances is held invalid, the remainder of this Agreement and the application of such provision to other persons or circumstances shall not be affected unless the provision held invalid shall substantially impair the benefits of the remaining portions of this Agreement.
+
+                                       8
+
+         Section 9.09  [Assignment]. Assignment. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and permitted assigns. This Agreement may not be assigned by DeltaThree without the prior written consent of PrimeCall. PrimeCall may assign this Agreement to any affiliate of PrimeCall or in connection with a merger or consolidation of PrimeCall or a sale of all or substantially all of PrimeCall's business. Except as provided in the preceding sentence, this Agreement may not be assigned by PrimeCall without the prior written consent of DeltaThree.
+
+         Section 9.10  [Publicity; Announcements]. Publicity; Announcements. Except to the extent required by law, all publicity related to the transactions contemplated hereby shall be subject to the mutual approval of the parties hereto and, except as otherwise may be required by law, no public announcement of any of the transactions contemplated hereby will be made by either party hereto without the prior written consent of the other party hereto, which consent shall not be unreasonably withheld.
+
+         Section 9.11  [Governing Law]. Governing Law. This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York, without giving effect to the conflict of laws principles thereof. For purposes of this
+
+Source: DELTATHREE INC, S-1/A, 11/2/1999
+
+
+
+
+
+Agreement, each party hereby irrevocably submits to the nonexclusive jurisdiction of the courts of the State of New York, sitting in New York County, and the courts of the United States for the Southern District of New York. Each party irrevocably waives, to the fullest extent permitted by law, any objection which it may now or hereafter have to the laying of the venue of any such suit, action or proceeding brought in any such court, any claim that any such suit, action or proceeding brought in such a court has been brought in an inconvenient forum and the right to object, with respect to any such suit, action or proceeding brought in any such court, that such court does not have jurisdiction over such party. In any such suit, action or proceeding, each party waives, to the fullest extent it may effectively do so, personal service of any summons, complaint or other process and agrees that the service thereof may be made by certified or registered mail, addressed to such party at its address set forth in Section 9.03  [Notices]. Each party agrees that a final non-appealable judgment in any such suit, action or proceeding brought in such a court shall be conclusive and binding.
+
+         Section 9.12  [Captions]. Captions. The captions appearing in this Agreement are inserted only as a matter of convenience and for reference and in no way define, limit or describe the scope and intent of this Agreement or any of the provisions hereof.
+
+         Section 9.13  [Third Parties]. Third Parties. There are no intended third party beneficiaries to this Agreement.
+
+         Section 9.14  [Counterparts]. Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original.
+
+                                       9
+
+         IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first above written.
+
+                                RSL COM PRIMECALL, INC.
+
+                                By                                   ---------------------------------                                   Name:  Arnold Goodstein                                   Title:  President and CEO
+
+                                DELTATHREE.COM, INC.
+
+                                By                                   ---------------------------------                                   Name: Amos Sela                                   Title:  President and CEO
+
+                                       10
+
+Source: DELTATHREE INC, S-1/A, 11/2/1999

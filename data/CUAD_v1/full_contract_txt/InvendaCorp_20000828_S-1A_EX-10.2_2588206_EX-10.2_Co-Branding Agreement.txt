@@ -1,0 +1,1053 @@
+1 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+                                                                 Exhibit 10.2
+
+              E-CENTIVES - EXCITE@HOME CO-BRANDING AGREEMENT
+
+This agreement ("Agreement") is entered into as of the 16th day of February, 2000 ("Effective Date"), by and between the At Home Corporation ("Excite@Home" or "Excite"), located at 450 Broadway, Redwood City, California 94063, and e-centives, Inc., ("Application Provider" or "e-centives"), a Delaware corporation, located at 6903 Rockledge Drive, Suite 1200, Bethesda, MD 20817.
+
+                                 RECITALS
+
+A.   Excite@Home provides the @Home Service, maintains sites on the Internet,      including http://www.excite.com, and owns and/or manages or labels related      Web sites worldwide (collectively, the "Excite Network") which, among other      things, allow its users to search for and access content and other sites on      the Internet.
+
+B.   Excite@Home also maintains and/or manages certain Web pages which may be      delivered to users worldwide via email, desktop "channels" or Internet      "push" technologies (collectively, "Broadcast Pages") and which may      incorporate content supplied to Excite@Home by third parties for the      purpose of providing value to Excite@Home users and providing access to the      content, products and/or services of such third parties.
+
+C.   Application Provider owns or has the right to distribute certain content      consisting principally of coupons and offers for products and services, and      maintains a related site on the Internet at http://www.ecentives.com (the      "Application Provider Site").
+
+D.   Excite@Home and Application Provider wish to distribute Application      Provider's content through the Excite Network and/or Broadcast Pages,      establish and maintain related co-branded pages on the Application Provider      Site, establish links between the Excite Network and the co-branded pages      on the Application Provider Site, and promote the Application Provider on      the Excite Network.
+
+Therefore, the parties agree as follows:
+
+1.   DEFINITIONS
+
+  a)   "Co-Branded Application" shall mean an Internet application designed,           hosted, and managed by Application Provider whose purpose is to allow           for the customer-specific selection, provision, and dissemination of           offers (both targeted and untargeted, as hereinafter defined in           EXHIBIT A) and coupons for products and services offered by           Application Provider's merchant partners.
+
+  b)   "Excite Content" shall mean all content, information and functionality           provided by Excite to e-centives, including but not limited to, links           to
+
+                                    1
+
+2 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+       Community Products, Excite controlled advertising and Excite sourced           offers, as further defined herein.
+
+  c)   "e-centives Content" shall mean all content, information and           functionality provided by e-centives through the Co-Branded           Application, including but not limited to, e-centives controlled           advertising and e-centives sourced offers, as further defined herein.
+
+  d)   "User(s)" shall mean an end-user customer of the Excite@Home Network           of web-sites and services.
+
+  e)   "Excite@Home Member(s)" shall mean a User who has registered as a           member of the Excite@Home Network, regardless of that User's stated           preference regarding allowing their registration information to be           shared with third parties.
+
+  f)   "Program Member(s)" shall mean an Excite@Home Member who has:
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+       i)   Been provided access to the Co-Branded Application, and
+
+       ii)  Has opted-in to allow all his or her registration information to                be shared with Application Provider and/or unspecified third                parties.
+
+       iii) Each Program Member shall be further classified into one of two                mutually exclusive categories, General Program Member or                Qualified Program Member, as defined below:
+
+            (1)  "General Program Member(s)" shall mean a Program Member who                     has not provided "Shopping Category Data" about him or                     herself, as defined below, and whose URS Data has been                     provided to e-centives no later than 5 days after the                     original date the User became an Excite@Home Member.
+
+            (2)  "Qualified Program Member(s)" shall mean a Program Member                     who has provided "Shopping Category Data" about him or                     herself, as defined below.
+
+  g)   "User Data" shall mean all information regarding an individual Program           Member, as further broken into these distinct categories:
+
+       i)   "URS User Data" shall mean those data elements that are captured                in the Excite@Home primary registration system via the                Excite@Home Member registration form that is most commonly                provided to new Excite@Home Members. URS User Data shall at a                minimum include user-supplied ZIP Code, gender, date of birth,                deliverable email address, and original Excite@Home registration                date.
+
+                                    2    3 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+       ii)  "Superset Data" shall mean those data elements, independent of                any specific purchase transaction, which are requested from all                Qualified Program Members, irrespective of whether or not this                information shall be collected in the Co-Branded Application.                Solely for purposes of illustration, such data might or might not                include categorical data elements such as Marital Status,                Income, and Presence of Children in the Household.
+
+       iii) "Shopping Category Data" shall mean the list of specific shopping                categories that a Qualified Program Member has indicated interest                in. Shopping Category Data shall be binary in nature (e.g. Yes/No                selections) and shall be mutually agreed upon. Solely for                purposes of illustration, such data might or might not include                categories such as Automobiles, Electronics, or Clothing.
+
+       iv)  "Transactional Data" shall mean data elements descriptive of a                specific purchase or purchase intent event which is enabled by                the Co-Branded Application, such as purchase amount, payment                method, items purchased, items selected but ultimately not                purchased, etc.
+
+  h)   "Payment-Eligible User Data" shall mean URS User Data from both           General Program Members and Qualified Program Members, and Shopping           Category Data and, where available, Superset Data, from Qualified           Program Members:
+
+       i)   Whose Excite@Home registration data is sent to e-centives for                account creation,
+
+       ii)  Who do not have an existing account with e-centives (as                determined by email address) as of the Effective Date, and
+
+       iii) Who, in the case of Qualified Program Members, have provided                shopping interest category, which data the Co-Branded Application                shall use to allow or restrict access to Targeted Offers, and                Co-Branded Application email opt-in selection during either (a)                Excite@Home Member registration or Excite@Home login or (b) offer                detail presentment by e-centives, or (c) other registration                process by e-centives.
+
+2.   CO-BRANDED APPLICATION
+
+  a)   Application Provider will, at its sole expense, develop, host and           maintain the Co-Branded Application for Excite@Home. The primary           function of the Co-Branded Application will be to present Users with           coupons or other offers (both targeted and untargeted, as hereinafter           defined in EXHIBIT A) for products and services provided by
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+       Application Provider's merchant partners with the intent of converting           said Users into Program
+
+                                    3    4 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+     Members. The Co-Branded Application will include offers and other         content and functionality (Excite Content and e-centives Content,         collectively "Application Content") as further described in EXHIBIT B.
+
+  b) Application Provider will design and create web pages containing the         Application Content ("Application Pages"). The Application Pages will be         presented in accordance with guidelines that Excite@Home will provide         Application Provider, which include, but are not limited to, page         performance standards and header and other design/user interface         standards. The Application Pages will prominently feature Excite@Home         branding and will be presented in a "look and feel" consistent with the         "look and feel" of the Excite Network. Excite@Home will have final         approval over all Application Pages. The Application Pages shall be         developed in accordance, in all material respects, with the requirements         established by EXHIBIT B.
+
+  c) Application Provider will develop its category/directory structures to         be similar to those found on the Excite@Home Network and in accordance         with the requirements established by EXHIBIT B, SECTION 4.
+
+  d) Application Provider will host the Co-Branded Application on its         Internet servers, but will serve the Co-Branded Application from an         "excite.com" masked domain name (or such other domain as Excite@Home may         elect at its sole option) so that Excite@Home can receive the reach and         page view credit. Application Provider will have sole responsibility for         providing and maintaining, at its expense, the Application Provider         Site, the Co-Branded Application, the Application Content (excluding the         provision of Excite Content), and any updates thereto.
+
+  e) Each Co-Branded Page will include one or more links to the Excite         Network, as set forth in Section 3(d)  [INTEGRATION WITH EXCITE@HOME SERVICES]. Excite@Home will supply         Application Provider with the URLs for these links.
+
+  f) Other than updates to the Application Content and to advertising         displayed on the Application Pages, Application Provider will not change         the Co-Branded Application without Excite@Home's prior consent, which         consent will not be unreasonably withheld. Excite@Home will respond to         change requests within seven (7) days of receipt, and any failure to so         respond shall be deemed an approval.
+
+  g) Excite@Home may, upon fifteen (15) days prior notice to Application         Provider, request reasonable revisions to the Co-Branded Application as         needed to reflect changes that will not adversely affect Application         Provider, such as changes to Excite@Home's name and/or brand or changes         to the URLs for the links to the Excite Network. Application Provider         will use reasonable efforts to accommodate Excite@Home's requested         changes within the fifteen (15) day period.
+
+5 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+  h)   Excite@Home will have editorial control over all email or other           similar communication with Excite@Home Members. Correspondence solely           regarding the Co-Branded Application will only be presented to Program           Members; communication with all other Excite@Home Members will be tied           to regular Excite@Home email schedules, which may or may not be           integrated with other email content at Excite@Home's sole option.           Correspondence specific to the Co-Branded Application may be mailed on           a schedule independent of other Excite@Home member mailings for those           Qualified Program Members that specify a frequency of contact. Until           an individual General Program Member specifies a frequency of email           contact, he or she will by default receive email pursuant to the           Co-branded Application's every-other-week email option setting. Any           mailings to such General Program Members who have not specified a           frequency of email contact will be mailed on a schedule that           coordinates contact with other Excite@Home newsletter and promotional           contacts, but at least with the frequency of every-other-week.           Communications with Excite@Home Members shall further be subject to           the requirements of EXHIBIT D.
+
+3.   INTEGRATION WITH EXCITE@HOME SERVICES
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+  a)   Application Provider will integrate the Co-Branded Application with           Excite@Home's Universal Registration System ("URS") according to           Excite@Home's technical and operational specifications. Each party           will incur their own costs related to the integration.
+
+  b)   Information collected through the Co-Branded Application will include,           but not be limited to,
+
+       i)   URS User Data, whose categories may be modified from time to time                at Excite@Home's sole option;
+
+       ii)  Superset Data, whose categories shall be determined by mutual                agreement but subject to Excite@Home's final approval;
+
+       iii) Shopping Category Data, whose contents shall be determined by                mutual agreement but subject to Excite@Home's final approval.
+
+  c)   All Information collected under this Agreement will be transmitted           between the parties in a manner to be mutually agreed upon.
+
+  d)   The Co-Branded Application will include content with links that direct           Users to other Excite@Home content, including but not limited to           community products, which include message boards, chat, clubs, home           pages, instant messaging, calendar, address book, email, photos and           any other community products which Excite@Home may develop during the           term of this Agreement ("Community Products"). The number of links to           other Excite@Home content shall be consistent with the general           quantity of links implemented on comparable portions of the Excite           Network.    6 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+     Application Provider will not feature non-Excite@Home Community Products         on the Co-Branded Application without the written permission of         Excite@Home.
+
+  e) Application Provider will publish to Excite@Home subsets of its content         in a mutually-agreed XML or pre-defined text format (e.g. URL's         captions, brief two-sentence descriptions, news headlines, pointers into         longer descriptions, and abstracts) in order for Excite@Home to         integrate, at its option, portions of the content into its search         results, directory results and other areas of Excite@Home in order to         drive traffic to the Co-Branded Application, as deemed appropriate by         Excite@Home in its sole discretion. Neither party will export to the         other party any licensed third-party data for which the providing party         does not have redistribution rights.
+
+  f) Application Provider will provide and regularly update database mappings         necessary to maximize search and directory integration for the         Co-Branded Application into Excite@Home's services.
+
+  g) Application Provider will provide Excite@Home with a regularly updated         data feed of product information for integration into Excite@Home's         commerce services. The data feed will be provided according to         Excite@Home's then-applicable standard product data import         specifications, which specifications shall be substantially similar to         those required by similar service providers in the industry.
+
+  h) Excite@Home will provide Application Provider with a regularly updated         data feed of product information for integration into the Co-Branded         Application. The data feed will be provided according to Excite@Home's         standard product data export specifications, which specifications shall         be substantially similar to those required by similar service providers         in the industry.
+
+  i) Excite@Home shall not offer any Excite-branded or Excite-co-branded         service during the Term of this Agreement that is substantially similar         in functionally to the Co-Branded Application.
+
+4.   ADVERTISING ON THE CO-BRANDED APPLICATION
+
+  a) Excite@Home will have the right to sell and serve Excite banner,         sponsorship, and text link advertising on the Co-Branded Application, as         limited by the terms of this Section. Excite@Home will have the right to         sell and serve such advertising on all pages within the Co-Branded         Application. Revenues from such advertising shall accrue wholly to         Excite@Home. Application Provider will enable the ad-serving and         accommodate Excite@Home's technical requirements, which shall be
+
+                                    6    7 *****Confidential Treatment has been requested for portions of this agreement.
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+  consistent with those of Excite's other partners and the standards      generally used in the industry, at its own expense.
+
+b)   Banner advertising shall be limited to one standard-size banner below      the Co-Branded Application's content area, as described in Section 2.
+
+c)   Sponsorship modules will be present on the Co-Branded Application in a      quantity consistent with the overall quantity within other shopping      content areas of Excite. Each party shall have the right to sell and      serve advertisements on 50% of the sponsorship tiles within the Co-Branded      Application. As of the Effective Date of this Agreement, pages within      Excite@Home's shopping service contain four sponsorship tiles arranged      vertically on the right hand side of each page, though over time this may      change at Excite@Home's sole option, but such changes shall not conflict      with Application Provider's contractual obligations. Within this      framework, Application Provider will have access to the first and third      tiles from the top; Excite@Home will have access to the second and fourth      tiles. Should additional tiles be added during the term of this Agreement,      the first incremental tile shall be allocated to Application Provider, the      following to Excite@Home, and so forth. Revenue generated by the parties      from such activities shall not be shared but rather shall be retained by      the respective party to whom the Sponsorship tile(s) are allocated.
+
+d)   Excite@Home will not serve advertising on the Co-Branded Application for      any "Application Provider Named Competitor," as specified in EXHIBIT E.      Application Provider may designate no more than 10 companies as Named      Competitors. Not more than once per quarter, Application Provider may      update the list of Application Provider Named Competitors, but may not add      to the list any company with which Excite@Home has a material existing      relationship as of the Effective Date of this Agreement. Within three      business days of receiving Application Provider's written update,      Excite@Home will remove any advertising from Application Provider's listed      competitors displayed on the Co-Branded Pages.
+
+e)   Application Provider will not serve advertising on the Co-Branded      Application for any "Excite@Home Named Competitor," as specified in      EXHIBIT E. Excite@Home may designate no more than 10 companies as Named      Competitors. Not more than once per quarter, Excite@Home may update the      list of Excite@Home Named Competitors, but may not add to the list any      company with which e-centives has a material existing relationship as of      the Effective Date of this Agreement. Within three business days of      receiving Excite@Home's written update, Application Provider will remove      any advertising from Excite@Home's listed competitors displayed on the      Co-Branded Pages.
+
+                                    7    8 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+  f)   Application Provider will not serve advertising on the Co-Branded           Application that (i) violates any law, rule, or regulation, (ii)           relates to pornography, gaming, tobacco, or alcohol, (iii) is the           subject of a claim to trademark, trade name, service mark, or other           proprietary rights, or Excite@Home may request removal of any such           advertising from the Co-Branded Application, and Application Provider           shall remove any such advertising within twenty-four (24) hours of           receipt of any such written request.
+
+5.   PROMOTION OF THE CO-BRANDED APPLICATION
+
+  a)   Excite@Home will provide promotion for the Co-Branded Application as           described in EXHIBIT F. Excite@Home may provide additional links to,           or other promotion for, the Co-Branded Application from elsewhere on           or off the Excite Network at its sole discretion.
+
+6.   USER DATA OWNERSHIP
+
+  a)   Ownership
+
+       i)   The operation of the Co-Branded Application will permit the                collection of Payment-Eligible User Data.
+
+       ii)  Payment-Eligible URS User Data, Superset Data, and Shopping                Category Data collected through the operation of the Co-Branded                Application will be jointly owned by the parties. The parties'                respective ownership shall be subject to the restrictions set                forth in this Agreement.
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+       iii) Transactional Data, when available, shall be jointly owned by                the parties, except in those cases where Application Provider's                contractual agreement(s) with its merchant partner(s) prevent                the sharing of said Transactional Data with third parties. In                all cases Application Provider shall use commercially reasonable                efforts to ensure that Transactional Data may be shared with and                co-owned by Excite@Home. The parties' respective ownership                rights shall be subject to the restrictions set forth in this                Agreement.
+
+  b)   Restrictions
+
+       i)   During the Term of this Agreement, Application Provider shall                own Payment-Eligible User Data solely for the purpose of                providing the services of the Co-Branded Application.                Application Provider may not use Payment-Eligible User Data to                solicit User traffic to www.e-centives.com or any other                co-branded version of www.e-centives.com with the intent of                driving such Users away from using the Co-Branded Application.                Notwithstanding the foregoing, solely for the period from the                Effective Date of this
+
+                                    8    9 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+         Agreement to the Launch Date for the Co-Branded Application, as             hereinafter defined, Application Provider may use Payment Eligible             User Data to solicit User traffic to the co-branded area currently             in place at http://coupons.excite.com pursuant to the Sponsorship             Agreement effective March 5, 1999 in force between the parties.
+
+   ii)   Application Provider may not sell, disclose, transfer, rent, or             license Payment-Eligible User Data in a form identifiable to any             particular user to any third party. Notwithstanding the foregoing,             Application Provider may disclose User Data if it is aggregated in a             non-associatable way with data from multiple online properties or in             an anonymous format on a per user basis.
+
+   iii)  In no event may either party sell, disclose, transfer, rent, or             license Payment-Eligible User Data to the other party's Named             Competitors as listed in EXHIBIT E. Furthermore, Excite@Home may not             sell, disclose, transfer, rent, or license Shopping Category Data or             Superset Data to Data Restricted Named Companies as specified in             EXHIBIT I. Not more than once per quarter, Application Provider may             update the list of Application Provider Data Restricted Named             Companies shown in EXHIBIT I, so long as such list shall not exceed             twenty-five (25) companies.
+
+   iv)   Excite@Home may not sell, disclose, transfer, rent or license any             Transactional Data regardless of Program Member preferences.
+
+   v)    The collection, storage, and usage of all classes of             Payment-Eligible User Data shall comply with Excite@Home's             then-current security and privacy guidelines.
+
+   vi)   Application Provider will not solicit any Excite@Home Member on             behalf of any Excite@Home Named Competitor during the Term of this             Agreement or thereafter. The list of Excite@Home Named Competitors             is defined in EXHIBIT E.
+
+c)    Effect of Termination or Expiration
+
+   i)    In the event that the Agreement is terminated pursuant to Section             16.a.v due to e-centives' acquisition by an Excite@Home Named             Competitor, or by an entity controlling or controlled by an             Excite@Home Named Competitor, e-centives shall transfer all of its             right, title and interest in and to the Payment-Eligible User Data             to Excite. Notwithstanding the foregoing, Payment-Eligible User Data             that relates to users who have opted out in accordance with Section             5(a) of EXHIBIT D shall continue to be jointly owned by the parties.
+
+                                    9    10 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+       ii)  In the event that the Agreement expires or is terminated for any
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+            reason other than termination pursuant to Section 16.a.v, the                parties shall continue to jointly own Payment-Eligible User Data                in accordance with Section 6.a. The restrictions of Section 6.b                shall continue to apply, with the exception of subsections 6.b.i                and 6.b.v.
+
+7.   PAYMENTS AND DELIVERY OF USER DATA
+
+  a)   Payments and delivery for General Program Member User Data records:
+
+       i)   Excite@Home will supply to Application Provider a minimum of                ***** Payment-Eligible User Data records for General Program                Members containing all available information set forth in Section                1(h)  [DEFINITIONS] in each quarter during the Term of this Agreement, beginning                with the quarter in which the Launch Date (as hereinafter                defined) falls, for a minimum of ***** of these General                Program Member User Data records during the Term of this                Agreement.
+
+       ii)  Excite@Home shall provide in excess of ***** such General                Program Member User Data records, to the extent such records are                available.
+
+       iii) The General Program Member User Data records supplied by                Excite@Home to Application Provider shall consist solely of URS                User Data.
+
+       iv)  e-centives will pay for these General Program Member User Data                records to Excite@Home at a rate of $***** per unique User Data                record. This rate will apply only to the first ***** records.                e-centives will pay Excite@Home $***** in payments for these                General Program Member User Data records over the Term of                this Agreement, in accordance with the schedule set out in                Section 7.d. In the event that more than ***** such General                Program Member User Data records are supplied, payments for such                additional records shall be governed by Section 7.e.
+
+       v)   The failure of Excite@Home to deliver at least ***** of these                General Program Member User Data records shall not be deemed a                breach of this Agreement. To the extent that Excite@Home fails to                deliver at least ***** General Program Member User Data                records, however, e-centives' total payment obligations under                Section 7.a.iv shall be correspondingly reduced at the rate of                $***** per record for any shortfall. In no event will any failure                to deliver at least ***** General Program Member User Data                records constitute cause to extend the Term of this Agreement.
+
+                                    10    11 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+b)   Payments and delivery for Qualified Program Member User Data records:
+
+  i)   Excite@Home will supply to e-centives a minimum of *****           Payment-Eligible User Data records for Qualified Program Members           containing all available information set forth in Section 1(h)  [DEFINITIONS] in each           quarter during the Term of this Agreement, beginning with the quarter           in which the Launch Date (as hereinafter defined) falls, for a minimum           of ***** of these Qualified Program Member User Data records           during the Term of this Agreement.
+
+  ii)  Excite@Home shall provide in excess of ***** such Qualified           Program Member User Data records, to the extent such records are           available.
+
+  iii) The Qualified Program Member User Data records supplied by Excite@Home           to e-centives shall consist of URS User Data and Shopping Category           Data and, if available, Superset Data.
+
+  iv)  e-centives will pay for these Qualified Program Member User Data           records to Excite@Home at a rate of $***** per unique User Data           record. This rate will apply only to the first ***** records.           e-centives will pay Excite@Home $***** in payments for these           Qualified Program Member User Data records over the Term of this           Agreement, in accordance with the schedule set out in Section 7.d.           In the event that more than ***** Qualified Program Member User           Data records are supplied, payments for such additional records shall           be governed by Section 7.e.
+
+  v)   The failure of Excite@Home to deliver at least ***** such           Qualified Program Member User Data records shall not be deemed a           breach of this Agreement. To the extent that Excite@Home fails to
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+       deliver at least ***** Qualified Program Member User Data records,           however, e-centives' total payment obligations under Section 7.b.iv           shall be correspondingly reduced at the rate of $***** per record for           any shortfall. In no event will any failure to deliver at least *****           Qualified Program Member User Data records constitute cause to           extend the Term of this Agreement.
+
+c)   Conversion of General Program Members to Qualified Program Members
+
+  i)   It is anticipated that a substantial number of Program Members who           started as General Program Members will subsequently become Qualified           Program Members. Both parties stipulate that it is in their interests           for this to occur.
+
+  ii)  If Excite@Home supplies e-centives with a Qualified Program Member           User Data record for a Program Member for whom it has
+
+                                    11
+
+12 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+       previously submitted a General Program Member User Data record, the           record shall be accounted for as follows:
+
+       (1)  If the Qualified Program Member User Data record is supplied in                the same quarter in which the General Program Member User Data                record was originally supplied to e-centives, the Program Member                record shall be treated as always having been a Qualified Program                Member record for purposes of both volume and payments.
+
+       (2)  If the Qualified Program Member User Data record is supplied in a                quarter different from the one in which the General Program                Member User Data record was originally supplied to e-centives,                the Program Member record shall be treated as a Qualified Program                Member record for purposes of both volume and payments, but a                credit shall be applied against the General Program Member volume                and payment guarantees.
+
+       (3)  Payments shall be based upon the total number of records                delivered for each Program Member category. For payment purposes,                Excite@Home shall be obligated to track only total records per                category and shall not be obligated to track individual records.
+
+d)   Payment Schedule
+
+  i)   Within ten (10) days of the Effective Date of this Agreement,           e-centives shall make a non-refundable payment to Excite@Home of           $***** as pre-payment for Payment-Eligible User Data records:
+
+       (1)  e-centives will pay Excite@Home $***** in pre-payments for                ***** General Program Member User Data records.
+
+       (2)  e-centives will pay Excite@Home $***** in pre-payments for                ***** Qualified Program Member User Data records.
+
+  ii)  During the Term of this Agreement, on the first day of each quarter           following the quarter in which the Launch Date falls, e-centives shall           make additional non-refundable payments for the Payment-Eligible User           Data records. In the event that the Launch Date is delayed beyond           March 31, 2000, the April 1, 2000, payment pursuant to this subsection           shall be postponed and shall instead be made within (10) days of the           Launch Date. Payments under this subsection shall be calculated as           follows:
+
+                                    12
+
+13 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+            (1)  General Program Member User Data: $*****, plus $*****                     times the total number of records previously delivered, less                     all amounts previously paid on account of General Program                     Member User Data.
+
+            (2)  Qualified Program Member User Data: $*****, plus $*****
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+                 times the total number of records previously delivered, less                     all amounts previously paid on account of General Program                     Member User Data.
+
+       iii) The amounts paid pursuant to subsection 7.d.ii shall be further                subject to the following cap: at no point shall e-centives' total                payments exceed an average of $***** per quarter. In the                event that the payment amount dictated by the formulas in                subsections 7.d.ii.(1) and (2) would raise e-centives' total                payments to an average in excess of $***** per quarter,                e-centives shall instead pay only that amount necessary to                maintain an average quarterly payment of $*****.
+
+       iv)  A sample hypothetical payment schedule showing the effect of this                provision is included solely for purposes of illustration in                EXHIBIT G.
+
+  e)   In the event that Excite@Home delivers more than *****           Payment-Eligible General Program Member User Data records and/or more           than ***** Payment-Eligible Qualified Program Member User Data           records during the Term of the Agreement, e-centives will pay           Excite@Home, on a quarterly basis, *****% of net revenue (gross           revenue less direct third party commissions) generated from the           delivery of offers to any such excess Program Members. This provision           shall apply to net revenue generated during the year following the           end of the calendar quarter in which the names were supplied,           irrespective of the Term of this Agreement.
+
+8.   USER DATA DELIVERY PERFORMANCE MEETINGS
+
+  The parties will meet on a quarterly basis to review Program Member User      Data record delivery goals and performance and adjust marketing plans and      member signup goals as mutually agreed.
+
+9.   EXCITE@HOME PURCHASES FROM E-CENTIVES
+
+  a)   Excite@Home will purchase in bulk a minimum of $3.75 million in           e-centive packages from e-centives at the rate of $***** per e-centive           delivered for the purpose of resale to Excite@Home's advertisers and           partners. Within 5 days of Launch Date Excite@Home will pay e-centives           a non-refundable minimum of $***** and will continue to pay a           minimum of $***** each quarter, payable at the beginning of the           quarter, during the Term of this Agreement for such packages. Unless
+
+                                    13
+
+14 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+       sold by Excite within 6 months of purchase, such purchased e-centives           packages shall expire and no longer be available for resale by           Excite@Home. Any purchases beyond the minimum shall be at           Excite@Home's sole discretion. Such e-centive packages shall be           governed by e-centives' standard terms and conditions. To the extent           that Excite@Home elects in its sole discretion to purchase in excess           of $***** in e-centive packages during any quarter, any such excess           purchases shall constitute a credit which Excite@Home may apply           against its minimum purchase obligations in any subsequent quarter(s).
+
+  b)   Excite@Home will determine, at its sole discretion, the size and           nature of each e-centive package bought under these terms.           Excite@Home shall not be limited to a standard package size.
+
+  c)   Excite@Home will pay e-centives *****% of net revenue (gross revenue           less $***** purchase price and cost of sales not to exceed *****% of           gross revenues) generated from sales of the e-centives packages.
+
+  d)   e-centives may not extend exclusive offers developed for Excite@Home           by its advertisers to non-Excite@Home users of the e-centives service           for a period of 30 days following the day on which the offer is first           made available through Excite@Home.
+
+10.  USAGE REPORTS
+
+  a)   Application Provider will provide usage reports to Excite@Home on a           weekly basis in a mutually agreed upon format. At a minimum, usage           reports will include:
+
+       i)    Transactional Data on all Excite@Home Members who transact                 through the Co-Branded Application (where available and as                 limited by Section 6.a.iii);
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+       ii)   Individual Program Member data, including such information as                 user preferences, usage, and response rates;
+
+       iii)  Daily page views by category; and
+
+       iv)   Aggregate information on response rates.
+
+  b)   The usage reports will be co-owned by the parties.
+
+11.  TRADEMARK OWNERSHIP AND LICENSE
+
+  a)   Application Provider will retain all right, title and interest in and           to its trademarks, service marks and trade names worldwide, subject           to the limited license granted to Excite@Home in Section 11(c)  [TRADEMARK OWNERSHIP AND LICENSE] below.
+
+                                    14    15 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+  b)   Excite@Home will retain all right, title and interest in and to its           trademarks, service marks and trade names worldwide, subject to the           limited license granted to Application Provider in Section 11(c)  [TRADEMARK OWNERSHIP AND LICENSE]           below.
+
+  c)   Each party hereby grants to the other a non-exclusive, limited license           to use its trademarks, service marks or trade names only as           specifically described in this Agreement. All such use shall be in           accordance with each party's reasonable policies regarding advertising           and trademark usage as established from time to time.
+
+  d)   Upon the expiration or termination of this Agreement, each party will           cease using the trademarks, service marks and/or trade names of the           other except:
+
+       i)   As the parties may agree in writing; or
+
+       ii)  To the extent permitted by applicable law.
+
+12   CONTENT OWNERSHIP AND LICENSE
+
+  a)   Application Provider will retain all right, title and interest in and           to the e-centives Content worldwide (including, but not limited to,           ownership of all copyrights and other intellectual property rights           therein). Subject to the terms and conditions of this Agreement,           Application Provider hereby grants to Excite@Home a royalty-free,           non-exclusive, worldwide license to use, reproduce, distribute,           transmit and publicly display the e-centives Content in accordance           with this Agreement and to sub-license the Application Content to           Excite@Home's wholly-owned subsidiaries or to joint ventures in which           Excite@Home participates for the sole purpose of using, reproducing,           distributing, transmitting and publicly displaying the e-centives           Content in accordance with this Agreement, provided that no such           sublicensing shall be to Application Provider Named Competitors.
+
+  b)   Excite@Home will retain all right, title, and interest in and to the           Excite Network worldwide (including, but not limited to, ownership of           all copyrights, look and feel and other intellectual property rights           therein).
+
+13.  MAINTENANCE, CUSTOMER SUPPORT AND PERFORMANCE OBLIGATIONS
+
+  a)   Application Provider shall be responsible for providing all           maintenance and technical support for all Co-Branded Application users           as set forth in EXHIBIT H.
+
+  b)   Application Provider shall be responsible for meeting the performance           and uptime guarantees for the Co-Branded Application as set forth in           EXHIBIT H.
+
+                                    15    16 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+been filed separately with the Securities and Exchange Commission.
+
+14.  PUBLICITY
+
+  It is the intention of both parties to publicly disclose the nature (but      not the terms) of the relationship following the completion of the      Agreement and other related documents. It is the intention of both parties      to support public releases, whereby an authorized senior executive of both      companies is quoted within the release. Both parties will provide      reasonable and timely support of such releases. Neither party shall make      any publication or issue any press release concerning this document or the      arrangements contemplated without the other party's written approval prior      to release. Notwithstanding the foregoing, Excite@Home agrees to allow      reference to its name and disclosure of the terms of the relationship      between the parties to potential investors and relevant regulatory      authorities for purposes of funding activities by e-centives, which may      include an initial public offering.
+
+15.  TERM
+
+  The term of this Agreement will begin on the Effective Date and will end      three (3) years from the date the Co-Branded Application becomes      accessible to Excite@Home Members ("Launch Date").
+
+16.  TERMINATION
+
+  a)   Basis for Termination:
+
+       i)   Either party  may terminate if the other party breaches the                Agreement and the breach remains uncured for thirty (30) days                following receipt of written notice of intention to terminate                from the other party.
+
+       ii)  Excite@Home may terminate the Agreement with thirty (30) days                written notice if Application Provider does not meet the content                and launch guidelines described in EXHIBIT B.
+
+       iii) Excite@Home may terminate the Agreement if the Co-Branded                Application is not at least comparable to any other source of                Application Content on the Internet in accordance with the                following provisions:
+
+            (1)  At any time during the Term of this Agreement, Excite@Home                     may determine, in its reasonable judgment, that the                     Co-Branded Application is not at least comparable to other                     sources of Application Content generally available on the                     Internet in terms of the following factors:
+
+                 (i)  Breadth and depth of content;
+
+                 (ii) Tools and functionality;
+
+                                    16    17 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+       (iii) Personalization; and
+
+       (iv)  User interface and ease of use.
+
+  (2)  If Excite@Home determines that the Co-Branded Application is not at           least comparable to other sources of Application Content generally           available on the Internet in terms of at least two of the four factors           in Section 16.a.iii.1, Excite@Home may notify Application Provider in           writing of said deficiency, which shall initiate a 28-day "Cure           Period." If at the end of the Cure Period Excite@Home, in its           reasonable judgment, determines that the deficiency still exists, then           Excite@Home may terminate the Agreement without further delay.
+
+iv)  Either party may terminate the Agreement without penalty upon thirty (30)      days' written notice if regulations or applicable laws applied at the US      federal level regarding privacy or User Data purchase and/or usage impede      or prohibit said party from performing its services as contemplated by this      Agreement or thereafter.
+
+v)   In the event that a majority of Application Provider's assets are merged,      acquired or sold to an Excite@Home Named Competitor, or to an entity      controlling or controlled by an Excite@Home Named Competitor, then      Excite@Home may terminate this Agreement by providing thirty (30) days      written notice. This option to terminate this Agreement may only be      exercised by providing written notice within ninety (90) days of      Excite@Home's receiving notice of such transaction. Application Provider
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+  shall provide such notice at least twenty-four (24) hours before the public      announcement of any such transaction.
+
+vi)  The parties acknowledge that, due to the continually evolving nature of the      Internet, substantive changes to the product plan and integration      contemplated in the Agreement will likely be necessary during the Term.      From time to time, Excite@Home may require that Application Provider      provide extensions, incremental services and/or integration of the      Co-Branded Application (collectively, "Modifications"). In the event that      Application Provider is unable and/or unwilling to deliver such additions,      or in the event that the parties disagree on the direction of the      Co-Branded Application or its integration, Excite@Home may terminate the      Agreement with no penalty by providing ninety (90) days written notice.      Notwithstanding the foregoing, Excite shall not be entitled to terminate      this Agreement in the event that the requested
+
+                                    17
+
+18 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+       Modifications exceed or are outside the scope of technology and/or           service levels generally available on the Internet.
+
+b)   Effects of Termination
+
+  i)   Each Party will promptly return all Confidential Information of the           other party.
+
+  ii)  Each Party will pay all earned and undisputed outstanding amounts owed           to the other Party under this Agreement within thirty (30) days after           the effective date of such termination. Notwithstanding the foregoing,           all payments for User Data records shall be due and accrue in           accordance with terms of this Agreement.
+
+  iii) For a period of up to sixty (60) days, Application Provider will           provide consulting services to Excite@Home, as Excite@Home may           reasonably request and for reasonable fees to be paid to Application           Provider, such fees to be agreed upon in writing by the Parties, to           assist Excite@Home in providing a seamless transition to Program           Members. Application Provider will have no obligation to provide such           services to Excite@Home to the extent that Application Provider's           personnel and resources are unavailable in the amounts requested by           Excite@Home or if the Parties are unable in good faith to agree on the           reasonable fees to be paid to Application Provider for such services.           Application Provider will not be required, in the course of providing           such consulting services to Excite@Home, to disclose or transfer to           Excite@Home any proprietary information, software, or Intellectual           Property of Application Provider or any of its merchant partners.
+
+  iv)  To further ensure a seamless transition for Program Members, in the           event of a termination based upon a material breach by e-centives or           an acquisition pursuant to Section 16.a.v. only, Application Provider           shall continue to host and maintain the Co-Branded Application for a           period of one hundred twenty (120) days following either receipt or           issuance of notice of intention to terminate this Agreement. Such           hosting and maintenance of the Co-Branded Application shall be           provided by Application Provider at such reasonable rates as are           mutually agreed upon by the parties.
+
+  v)   The provisions of this Section (Termination), Section 17           (Post-Termination Communications), Section 18 (Confidentiality),           Section 19 (Warranties and Indemnities), Section 20 (Limitation of           Liability), and Section 21 (Dispute Resolution) shall survive any           termination or expiration of this Agreement.    19 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+17.  POST-TERMINATION COMMUNICATIONS
+
+  a)   Upon termination of this Agreement for reasons other than a           relationship with an Excite@Home Named Competitor under Section           16.a.v., the parties will communicate with Program Members as follows:
+
+       i)   Excite@Home will email Program Members on e-centives' behalf up                to a maximum of two times. Consistent with other communications                envisioned during the Term of the Agreement, such mailings will                be branded Excite@Home but will alert Program Members that this                Agreement is to be terminated, the Co-Branded Application will
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+            continue with e-centives branding, and Program Members will                continue as a participant in the e-centives service unless they                explicitly opt out.  The content and copy of such emails shall be                mutually agreed upon.
+
+       ii)  The first email will be exclusive to e-centives (i.e., it will                not mention similar services from Excite@Home or other third                parties) and will alert Program Members of the continuation of                the e-centives service directly from e-centives. Program Members                shall be further alerted that their membership in the e-centives                service shall continue unless they explicitly opt-out.                Excite@Home shall not promote competing services in such contact                or otherwise discourage Program Members from continuing to use                the e-centives service as provided directly by e-centives.
+
+       iii) The second email will not be exclusive to e-centives. It will                include the same e-centives alerts as in the first email, but may                offer a replacement Excite@Home service and a notification that                the Program Member will remain in such an Excite@Home-provided                service unless they specifically opt-out. Excite@Home shall not                discourage Program Members from continuing to use the e-centives                service directly from e-centives, but may offer an additional                choice. It is conceivable that any one end user customer could                use both services.
+
+       iv)  Any such communications will be subject to Excite@Home's                then-current privacy policy.
+
+  b)   In the event that the Agreement is terminated pursuant to Section           16.a.v. due to e-centives' acquisition by an Excite@Home Named           Competitor, or by an entity controlling or controlled by an           Excite@Home Named Competitor, e-centives or its assigns or designates           may not contact any Users for whom User Data has been provided           pursuant to this Agreement, excluding those that have opted out in           accordance with Section 5(a) of Exhibit D. In the event of such           termination, e-centives will not be eligible for any refund of           pre-termination payments made to Excite@Home.
+
+                                    19
+
+20 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+18.  CONFIDENTIALITY
+
+  a)   For the purposes of this Agreement, "Confidential Information" means           information about the disclosing party's (or its suppliers') business           or activities that is proprietary and confidential, which shall           include all business, financial, technical and other information of a           party marked or designated by such party as "confidential" or           "proprietary"; or information which, by the nature of the           circumstances surrounding the disclosure, ought in good faith to be           treated as confidential.
+
+  b)   Confidential Information will not include information that (i) is in           or enters the public domain without breach of this Agreement, (ii) the           receiving party lawfully receives from a third party without           restriction on disclosure and without breach of a nondisclosure           obligation or (iii) the receiving party knew prior to receiving such           information from the disclosing party or develops independently.
+
+  c)   Each party agrees (i) that it will not disclose to any third party or           use any Confidential Information disclosed to it by the other except           as expressly permitted in this Agreement and (ii) that it will take           all reasonable measures to maintain the confidentiality of all           Confidential Information of the other party in its possession or           control, which will in no event be less than the measures it uses to           maintain the confidentiality of its own information of similar           importance.
+
+  d)   Notwithstanding the foregoing, each party may disclose Confidential           Information (i) to the extent required by a court of competent           jurisdiction or other governmental authority or otherwise as required           by law or (ii) on a "need-to-know" basis under an obligation of           confidentiality to its legal counsel, accountants, banks and other           financing sources and their advisors.
+
+  e)   The information contained in the Usage Reports provided hereunder will           be deemed to be the Confidential Information of each party and will           not be disclosed without the written consent of the other party.
+
+  f)   The terms and conditions of this Agreement will be deemed to be the
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+       Confidential Information of each party and will not be disclosed           without the written consent of the other party.
+
+19.  WARRANTIES AND INDEMNITIES
+
+  a)   Application Provider's warranties and indemnities:
+
+       i)   Application Provider warrants that it owns, or has obtained the                right to distribute and make available, as specified in this                Agreement, any and all content provided to Excite@Home or made                available to third parties (excluding the Excite Content) in                connection with this Agreement.
+
+                                    20    21 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+       ii)  Application Provider warrants that the e-centives Content will                comply, in all material respects, with the description and                technical specifications contained in EXHIBITS A AND B.
+
+       iii) Application Provider will indemnify, defend and hold harmless                Excite@Home, its affiliates, officers, directors, employees,                consultants and agents from any and all third party claims,                liability, damages and/or costs (including, but not limited to,                attorneys fees) arising from:
+
+            (1)  Its breach of any warranty, representation or covenant in                     this Agreement; or
+
+            (2)  Any claim (including, without limitation, claims for                     infringement of third party intellectual property,                     publicity, or privacy rights) arising from the e-centives                     Content, including, without limitation, e-centives'                     trademarks, but excluding claims based upon the Excite                     Content or any other materials provided by Excite in the                     form originally provided by Excite; or
+
+            (3)  Any claims (including, without limitation, claims for                     infringement of third party intellectual property,                     publicity, or privacy rights), by third parties arising out                     of or based upon e-centives' services and/or any other                     service provided by e-centives, but excluding claims based                     upon the Excite Content or any other information or                     materials provided by Excite in the form originally provided                     by Excite.
+
+       iv)  Application Provider's obligation to indemnify Excite@Home is                conditioned upon Excite@Home promptly notifying Application                Provider of any and all such claims. Notwithstanding the                foregoing, Application Provider shall only be relieved of its                obligation to indemnify Excite@Home to the extent that any such                failure to notify materially and adversely affects Application                Provider's defense. Excite@Home will reasonably cooperate with                Application Provider in the defense and/or settlement thereof;                provided that, if any settlement requires an affirmative                obligation of, results in any ongoing liability to, or prejudices                or detrimentally impacts Excite@Home in any way, and such                obligation, liability, prejudice or impact can reasonably be                expected to be material, then such settlement shall require                Excite@Home's written consent (not to be unreasonably withheld or                delayed), and Excite@Home may have its own counsel in attendance                at all official proceedings and substantive negotiations relating                to such claim at Excite@Home's sole cost and expense.
+
+                                    21    22 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+b)   Excite@Home's warranties and indemnities:
+
+  i)   Excite warrants that it has the right to distribute and make           available, as specified in this Agreement, any and all content and           User Data provided to e-centives or made available to third parties           (excluding the e-centives Content) in connection with this Agreement.
+
+  ii)  Excite warrants that the Excite Content will comply, in all material           respects, with the description and technical specifications contained           in EXHIBITS A AND B.
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+  iii) Excite@Home will indemnify, defend and hold harmless Application           Provider, its affiliates, officers, directors, employees, consultants           and agents from any and all third party claims, liability, damages           and/or costs (including, but not limited to, attorneys fees) arising           from:
+
+       (1)  Its breach of any warranty, representation or covenant in this                Agreement;
+
+       (2)  Any claim (including, without limitation, claims for infringement                of third party intellectual property rights) arising from the                Excite Content, including, without limitation, Excite's                trademarks, but excluding claims based upon the e-centives                Content or any other materials provided by e-centives in the form                originally provided by e-centives; or
+
+       (3)  Any claims (including, without limitation, claims for                infringement of third party intellectual property rights), by                third parties arising out of or based upon Excite@Home's services                and/or any other service provided by Excite, but excluding claims                based upon the e-centives Content or any other information or                materials provided by e-centives in the form originally provided                by e-centives.
+
+  iv)  Excite@Home's obligation to indemnify Application Provider is           conditioned upon Application Provider promptly notifying Excite@Home           of any and all such claims. Notwithstanding the foregoing, Excite           shall only be relieved of its obligation to indemnify e-centives to           the extent that any such failure to notify materially and adversely           affects Excite@Home's defense. Application Provider will reasonably           cooperate with Excite@Home in the defense and/or settlement thereof;           provided that, if any settlement requires an affirmative obligation           of, results in any ongoing liability to, or prejudices or           detrimentally impacts
+
+                                    22    23 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+            Application Provider in any way, and such obligation, liability,                prejudice or impact can reasonably be expected to be material,                then such settlement shall require Application Provider's written                consent (not to be unreasonably withheld or delayed), and                Application Provider may have its own counsel in attendance at                all proceedings and substantive negotiations relating to such                claim at Application Provider's sole cost and expense.
+
+  c)   Except as specified in this Section, neither party makes any warranty           in connection with the subject matter of this Agreement and hereby           disclaims any and all implied warranties, including all implied           warranties of merchantability and fitness for a particular purpose           regarding such subject matter.
+
+20.  LIMITATION OF LIABILITY
+
+  Except as provided by Sections 19(a)(iii)(2), (a)(iii)(3), (b)(iii)(2) and      (b)(iii)(3):
+
+  a)   Neither party will have liability for any damages other than direct           damages. In no event will either party be liable to the other for any           special, incidental or consequential damages, whether based on breach           of contract, tort (including negligence) or otherwise, whether or not           that party has been advised of the possibility of such damage.
+
+  b)   Either party's liability for damages shall be limited to the amounts           actually paid by the other party.
+
+21.  DISPUTE RESOLUTION
+
+  a)   The parties agree that any breach of either of the parties'           obligations regarding trademarks, service marks or trade names and/or           confidentiality would result in irreparable injury for which there is           no adequate remedy at law. Therefore, in the event of any breach or           threatened breach of a party's obligations regarding trademarks,           service marks or trade names or confidentiality, the aggrieved party           will be entitled to seek equitable relief in addition to its other           available legal remedies in a court of competent jurisdiction. For the           purposes of this Section only, the parties consent to venue in either           the state courts of the county in which Excite@Home has its principal           place of business or the United States District Court for the Northern           District of California.
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+  b)   In the event of disputes between the parties arising from or           concerning in any manner the subject matter of this Agreement, other           than disputes arising from or concerning trademarks, service marks or           trade names and/or confidentiality, the parties will first attempt to           resolve the dispute(s) through good faith negotiation. In the event           that the dispute(s) cannot be resolved through good faith negotiation,           the parties will refer the
+
+                                    23    24 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+     dispute(s) to a mutually acceptable mediator for hearing in the county         in which Excite@Home has its principal place of business.
+
+  c) In the event that disputes between the parties arising from or         concerning in any manner the subject matter of this Agreement, other         than disputes arising from or concerning trademarks, service marks or         trade names and/or confidentiality, cannot be resolved through good         faith negotiation and mediation, the parties will refer the dispute(s)         to the American Arbitration Association for resolution through binding         arbitration by a single arbitrator pursuant to the American Arbitration         Association's rules applicable to commercial disputes. The arbitration         will be held in the county in which Excite@Home has its principal place         of business.
+
+22.  GENERAL
+
+  a) Governing Law. The Agreement will be governed by and construed in         accordance with the laws of the State of California, notwithstanding the         actual state or country of residence or incorporation of Application         Provider.
+
+  b) Assignment. Neither party may assign this Agreement, in whole or in         part, without the other party's written consent (which will not be         unreasonably withheld), except that no such consent will be required in         connection with a merger, reorganization or sale of all, or         substantially all, of such party's assets or capital stock. Any attempt         to assign this Agreement other than as permitted above will be null and         void.
+
+  c) Notice. Any notice under this Agreement will be in writing and delivered         by personal delivery, express courier, confirmed facsimile, confirmed         email or certified or registered mail, return receipt requested, and         will be deemed given upon personal delivery, one (1) day after deposit         with express courier, upon confirmation of receipt of facsimile or email         or five (5) days after deposit in the mail. Notices will be sent to a         party at its address set forth below or such other address as that party         may specify in writing pursuant to this Section.
+
+  d) No Agency. The parties are independent contractors and will have no         power or authority to assume or create any obligation or responsibility         on behalf of each other. This Agreement will not be construed to create         or imply any partnership, agency or joint venture.
+
+  e) Audit Rights. A party obligated to make payments and/or provide User         Data hereunder shall keep for 3 years proper records and books of         account relating to the computation of such payments and/or the         compilation and content of such User Data. Once every 12 months, the         party receiving payment and/or User Data records or its designee may         inspect such records to verify for accuracy. Any such inspection will be         conducted in a
+
+                                    24
+
+25 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+  manner that does not unreasonably interfere with the inspected party's      business activities. In the case of underpayments, the inspected party      shall immediately make any overdue payments disclosed by the audit plus      applicable interest. Such inspection shall be at the inspecting party's      expense; however, if the audit reveals overdue payments in excess of 5% of      the payments owed to date, the inspected party shall immediately pay the
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+  cost of such audit, and the inspecting party may conduct another audit      during the same 12 month period. In the case of inaccurate and/or outdated      User Data, the providing party shall immediately provide accurate User Data      and/or updated User Data (to the extent such party has updated User Data.
+
+f)   Force Majeure.  Any delay in or failure of performance by either party      under this Agreement will not be considered a breach of this Agreement and      will be excused to the extent caused by any occurrence beyond the      reasonable control of such party including, but not limited to, acts of      God, power outages and governmental restrictions.
+
+g)   Severability.  In the event that any of the provisions of this Agreement      are held by to be unenforceable by a court or arbitrator, the remaining      portions of the Agreement will remain in full force and effect.
+
+h)   Entire Agreement.  This Agreement is the complete and exclusive agreement      between the parties with respect to the subject matter or related matters      hereof, superseding any prior agreements and communications (both written      and oral) regarding such subject matter. Notwithstanding the foregoing, the      Sponsorship Agreement effective on March 5, 1999 that currently is in      force between the two parties to this Agreement shall remain in force, on      an interim basis only, and will terminate at the end of the calendar month      that the Co-Branded Application launches on the Excite@Home Shopping      service without further compensation from either party.
+
+i)   Waiver.  The failure of either Party to require performance by the other      Party of any provision of this Agreement will not affect the full right to      require such performance at any time thereafter; nor will the waiver by      either Party of a breach of any provision of this Agreement be taken or      held to be a waiver of the provision itself.
+
+j)   Modification.  This Agreement may only be modified by a written document      executed by both parties.
+
+k)   Construction.  The section headings appearing in this Agreement are      inserted only as a matter of convenience and in no way define, limit,      construe, or describe the scope or extent of such section or in any way      affect this Agreement.
+
+                                    25
+
+26 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+       l)   Counterparts.  This Agreement may be executed in counterparts,                each of which shall be deemed an original, but all of which                together shall constitute one and the same instrument.
+
+IN WITNESS HEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives as of the date first written above.
+
+AT HOME CORPORATION                     e-centives, INC.
+
+By: ________________________________    By: ____________________________________
+
+Name: ______________________________    Name: __________________________________
+
+Title: _____________________________    Title: _________________________________
+
+Date: ______________________________    Date: __________________________________
+
+450 Broadway                            6903 Rockledge Drive, Suite 1200 Redwood City, CA 94063                  Bethesda, MD 20817
+
+                                    26    27 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+                                EXHIBIT A
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+              UNTARGETED AND TARGETED OFFERS WITHIN THE CO-                               BRANDED APPLICATION
+
+1.   DEFINITIONS
+
+  a)   "Untargeted Offers" are those offers generated from either party's           network of merchant partners, to be extended to all Users for the           benefit of attracting shoppers.
+
+  b)   "Targeted Offers" are e-centives offers made available only to Program           Members.
+
+2.   TREATMENT OF UNTARGETED OFFERS
+
+  a)   The parties shall establish by mutual agreement prices for the sale           of Untargeted Offers for display in the Co-Branded Application.
+
+  b)   The parties will share equally all revenue from the sale of           Untargeted Offers sold for display in the Co-Branded Application.           This equal division of revenue shall not extend to any placement of           Untargeted Offers outside the Co-Branded Application. For Untargeted           Offers that appear both on the Co-Branded Application and elsewhere           on the Excite Network, revenue attributable to placement on the           Co-Branded Application shall be calculated based on the price to be           established as set forth in Section 2.a of this Exhibit, and the           parties will share equally such revenue.
+
+  c)   The price to be established as set forth in Section 2.a of this           Exhibit shall not apply to mass listings of paper or local coupons.           The parties will share equally all revenue from the listing of paper           or local coupons in the Co-Branded Application.
+
+  d)   Each party shall receive without charge space for twenty (20)           Untargeted Offers each month. This allocation of free Untargeted           Offers may be modified as mutually agreed upon during the Term of the           Agreement.
+
+3.   TREATMENT OF TARGETED OFFERS
+
+  a)   Targeted offers may be viewed by Users, but may not be used by Users           unless they become Program Members.
+
+  b)   Targeted offers shall be sold as e-centives and charged upon delivery           or display to, or transaction by, a Program Member in the Co-Branded           Application or its associated emails.
+
+                                    27
+
+28 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+  c)   All Targeted Offers shall be placed above any Untargeted Offers.
+
+  d)   e-centives Co-Branded Application emails shall contain only Targeted           Offers, and shall not contain Untargeted Offers.
+
+                                    28
+
+29 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+                                EXHIBIT B
+
+                  CONTENT DESCRIPTION AND SPECIFICATIONS                             ("APPLICATION CONTENT")
+
+The following describes the general product plan for the Co-Branded Application:
+
+1.   CUSTOMER OFFERS
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+  a)   There shall be four distinct types of offers:
+
+       i)   Traditional e-centives offers, which are classified as Targeted                Offers;
+
+       ii)  Excite@Home-exclusive e-centives offers, which are classified as                Targeted Offers;
+
+       iii) Other Excite@Home Member exclusive offers, which are classified                as Untargeted Offers;
+
+            (1)  May be unrelated to e-centives and will have redemption off                     the e-centives-hosted experience.
+
+       iv)  As deemed appropriate by Excite@Home, other offers that may or                may not be exclusive to Excite@Home which are provided as a feed                to e-centives, which are classified as Untargeted Offers;
+
+            (1)  Required so that Members perceive e-centives-hosted content                     as a superset of Excite@Home's traditional content;
+
+            (2)  Important not to have a binary selection -- non-Excite@Home-                     Member-exclusive offers in one area and Excite@Home-Member-                     exclusive offers in another -- an unacceptable user                     experience.
+
+       v)   Design cues will be used to differentiate the different types of                offers seen by Members, as shown below:
+
+                                  Anonymous Users     Excite@Home Members                                                     Served by                              e-centives          e-centives Traditional e-centives offers          Yes*                Yes Excite-exclusive e-centives offers     Yes*                Yes
+
+                                    29    30 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+                                                                                 Other Excite@Home Member offers      No         Yes
+
+                  Non-Excite@Home-Member offers        Yes        Yes
+
+                     * Must convert to Excite@Home Member status to redeem
+
+  b)   e-centives will use commercially reasonable efforts to support up to           a combined 10,000 initial offers from Section 1.a.iii and 1.a.iv of           this Exhibit B on the Effective Date of this Agreement. Excite@Home           shall have the right to specify an increased capacity of offer           presentment at its sole option upon giving three months' advance           notice to e-centives at any point during the Term of this Agreement,           presuming such request shall be reasonable.
+
+4.   OFFER PLACEMENT
+
+  To ensure an opportunity for both parties to have a reasonable chance to      display their own offers within the Co-Branded Application, the following      prioritization of offers shall be made within any content area served by      e-centives:
+
+  a)   For the first page presented within any shopping category area,
+
+       i)   All Targeted Offers shall have placement priority above any                Untargeted Offers.
+
+       ii)  Within the Targeted Offers region, the top 30% of the offer                placement locations on the first page within a category of the                Co-Branded Application (not including banner or sponsorship                placements) will be allocated to Excite@Home exclusive                e-centives offers. The remaining 70% of such first pages, along                with subsequent pages within each category, the offer placement                locations will be split 50%/50% between Excite@Home and
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+            e-centives and will be served in an alternating order.
+
+       iii) Similarly, within the Untargeted Offers region, the top 30% of                the offer placement locations on the first page within a                category of the Co-Branded Application (not including banner or                sponsorship placements) will be allocated to Excite@Home. The                remaining 70% of such first pages, along with subsequent pages                within each category, the offer placement locations will be                split 50%/50% between Excite@Home and e-centives and will be                served in an alternating order.
+
+  b)   For the second and any following pages presented within any shopping           category area, half of the offer placement positions will be           allocated to Excite@Home and the other half will be allocated to           e-centives and the position of said placements on the page shall be           random.
+
+                                    30
+
+31 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+5.   CUSTOMER BRANDING EXPERIENCE
+
+  a)   Until offer selection is made, branding shall be, at Excite@Home's           option, "Excite" or "Excite@Home" with a tag line "powered by           e-centives."
+
+  b)   When offer management or redemption occurs, "Excite (or alternately,           Excite@Home, as detailed in Section 3.a of this Exhibit) powered by           e-centives" shall be replaced by cobranding, including full logo           treatment for e-centives. For any branding at the merchant subject to           final merchant approval, e-centives shall use commercially reasonable           efforts to ensure that both Excite@Home and e-centives branding           elements are present.
+
+  c)   Both traditional e-centives offers and Excite@Home e-centives offers           will contain e-centives branding elements within an application that           is otherwise Excite@Home branded.
+
+  d)   The Co-Branded Application shall conform to Excite@Home Third-Party           Application standards, including:
+
+       i)   Page weight;
+
+       ii)  Presence of advertising banners and/or sponsorship placements                served by Excite@Home/MatchLogic at Excite@Home's exclusive                option;
+
+       iii) Color, fonts, layout, design standards, header, footer,                navigational elements, tabbing metaphors, etc.;
+
+       iv)  Navigational elements directing traffic to non-e-centives content                (e.g., Excite@Home Mail and other Excite@Home Shopping                destinations);
+
+       v)   Excite@Home's Third-Party Application Standards may change over                the Term of this Agreement. As they do, e-centives may be                required to make periodic design enhancements to comply with                these Standards. Any such required changes shall be reasonable                and shall be materially similar to changes required of other                applications and application providers subject to Excite@Home's                Third-Party Application Standards.
+
+  e)   The Co-Branded Application shall be designed to appear to the customer           as being Excite@Home; analogs to the goal would be Excite@Home's           sports content area at http://www.excite.com/sports, as it appears on           the Effective Date of this Agreement (see Exhibit C), which is served           by a third-party firm but carries only Excite@Home messaging cues.
+
+                                    31
+
+32 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+  f)   Other Excite@Home Member Offers, and Non-Excite@Home-Member Offers,           as highlighted in the matrix in Section 1.b of this Exhibit B, may           also require third-party branding in their presentation.
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+6.   OFFER HIERARCHY SYNCHRONIZATION
+
+  a)   e-centives does not need to adopt Excite@Home's directory structure           but must use similar categorization methodology. For example, Autos           and Electronics may be categories at the same level in the hierarchy,           but Autos and Cameras would not be at the same level.
+
+  b)   e-centives must map to Excite@Home's Shopping directory hierarchy,           which may change from time to time during the Term of this Agreement.
+
+  c)   e-centives must adopt Excite@Home's naming conventions (e.g.           Excite@Home's "Autos" label vs. e-centives' "Automotive" label).
+
+  d)   e-centives must provide product and/or offer search capabilities that           are comparable to Excite Network offerings, including local (zip           code) and off-line redemption. Any such required capabilities shall           be reasonable and shall be materially similar to capabilities           required of other applications and application providers subject to           Excite@Home's Third-Party Application Standards.
+
+7.   PLACEMENT
+
+  a)   During the first year of the Agreement a persistent "Above-the-Fold"           link shall remain present in the Excite@Home Shopping content area,           or its subsequent replacement, or an equivalent area as determined by           Excite@Home, that directs end users to the Co-Branded Application,           the phrasing of which shall be mutually agreed upon. "Above-the-Fold"           shall mean in a position generally viewable by an end-user customer           using an Internet browser which has been maximized to full screen on           a computer displaying a minimum resolution of 600 x 800 dpi or higher.
+
+  b)   During the remainder of the Agreement, a prominent and persistent           link shall remain present in the Excite@Home Shopping content area,           or its subsequent replacement, or an equivalent area as determined by           Excite@Home, that directs end users to the Co-Branded Application.           The phrasing of the link shall be mutually agreed upon by the parties.
+
+                                    32    33 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+                                EXHIBIT C
+
+               LOOK AND FEEL OF THE CO-BRANDED APPLICATION
+
+  The screen shot(s) that follow are examples, solely for purposes of illustration, of the intended look and feel for the Co-Branded Application, as described in Exhibit B, Section 3.e:
+
+                                    33    34 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+                                EXHIBIT D
+
+                        OUTBOUND CUSTOMER CONTACTS
+
+1.   EMAIL OF ACCOUNT STATUS TO MEMBERS ACQUIRED THROUGH EXCITE@HOME:
+
+  a)   Excite@Home shall control the look and feel of such emails,           which shall be developed in cooperation with e-centives.
+
+2.   WELCOME E-MAILS
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+  a)   A Welcome email will be sent to all Qualified Program Members           when they first access the Co-Branded Application, provided           that Qualified Program Members are clearly notified concerning           the sending of such emails at the time of Co-Branded Application           use. All such Welcome emails shall be bound by Excite@Home's security           and privacy guidelines. A Welcome email regarding the Co-Branded           Application will be sent to all General Program Members.
+
+3.   THEMATIC OR SUPPLEMENTAL E-MAILS:
+
+  a)   Excite@Home shall control the timing, strategy, and look and feel of           Thematic and Supplemental emails. Notwithstanding the foregoing,           Excite@Home agrees that emails shall be sent at least once per month           to at least 50% of the Program Members with at least five (5)           merchant offers.
+
+  b)   Excite@Home shall sell e-centives Thematic or Supplemental emails at           no less than e-centives' then current standard or generally available           discounted email rates. If Excite@Home does not sell such emails, or           all positions within such emails, then e-centives may do so.
+
+  c)   Excite@Home and e-centives shall share equally all net revenue from           such offers, defined as gross revenue minus third-party serving           costs, which shall not exceed $0.01 per email piece delivered.
+
+4.   RECIPROCAL DATA TRANSFER & REPORTING
+
+  a)   The parties will allocate the production and sending of emails between           them based upon technical considerations to be addressed to both           party's mutual satisfaction. In some instances e-centives will produce           and send the outbound email pieces, and in other cases Excite@Home           will produce and send the outbound email pieces.
+
+  b)   The determination of which emails shall be sent by which party shall           be mutually determined.
+
+                                    34
+
+35 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+  c)   In all cases, the primary branding on each email will be Excite@Home.
+
+  d)   Excite@Home will retain full editorial oversight for all mass           distribution mailings contemplated under this Agreement, regardless of           the sending source.
+
+  e)   Reporting and per-email recipient activity data is desired by both           parties and shall be mutually agreed upon, with both parties agreeing           to provide reporting and per-email recipient activity data that is           reasonably equivalent to that offered by the other party. Each party           shall assume its own costs in both sending outbound email and in           providing necessary reporting and data to the other party.
+
+5.   COMMUNICATIONS TO PROGRAM MEMBERS WHO OPT OUT OF FIRST-PARTY CONTACT
+
+  a)   Excite@Home maintains records concerning whether Excite@Home Users           have opted in or opted out of receiving contacts from Excite@Home           ("first-party contacts"). From time to time, Excite@Home Users who           have opted in to first-party contacts may subsequently elect to opt           out of first-party contacts.
+
+  b)   Excite@Home or a designated agent shall provide notice to Application           Provider when Program Members whose User Data records have been           licensed to Application Provider opt out of receiving any first-party           contacts subsequent to licensing. This notice shall be provided on a           schedule and in a format to be mutually agreed upon.
+
+  c)   Within forty-eight (48) hours of receiving notice that a Program           Member has opted out of first-party contact, Application Provider           shall:
+
+       i)   Ensure that future emails to the Program Member do not contain                any Excite@Home branding; and
+
+       ii)  Ensure that future emails do not direct the Program Member to the                Co-Branded Application. Application Provider may continue to                direct Program Members to http://www.e-centives.com or its                subsequent replacement.
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+                                    35    36 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+                                EXHIBIT E
+
+                  EXCITE@HOME/APPLICATION PROVIDER NAMED                                   COMPETITORS
+
+Excite@Home Named Competitors -----------------------------
+
+AOL Time Warner Yahoo Go/Infoseek Lycos Snap/NBCi Ebay AltaVista
+
+Application Provider Named Competitors --------------------------------------
+
+CoolSavings.com IQ.com BrightStreet.com ValPak HotCoupons Aduo SuperMarkets Online Coupons.com (Xadvantage) Dash ShoppingList.com
+
+                                    36
+
+37 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+                                EXHIBIT F
+
+                     PROMOTION ON EXCITE@HOME NETWORK
+
+1.  OFFERS
+
+ a)  The parties will work together to develop mutually agreed upon modules         designed to promote the Co-Branded Application, which may appear on the         Excite.com homepage for some Users.
+
+ b)  At its discretion, Excite@Home may include up to five rotating links on         the My Excite Start Page ("MESP"). At Excite@Home's discretion,         Excite@Home may include Excite@Home exclusive e-centives offers, non-         exclusive e-centives offers may also get rotation on MESP, or general         calls to action to the Co-Branded Application.
+
+ c)  At Excite@Home's discretion, links may be included in the "My Services"         module. All decisions regarding this module remain Excite@Home's,         including but not limited to the name and relative placement of the         module on MESP. This module may not remain as a default module on the         page over the entire length of the Agreement.
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+ d)  No e-centives branding of any kind will be present on MESP.
+
+2.  OFFER CATEGORIES
+
+ a)  This Section applies to the publicly accessible narrowband offering from         Excite@Home, currently available at http://www.excite.com.
+
+ b)  Excite@Home intends to use a randomization function to surface offers on         MESP in order to provide category specification by user and to support         dynamic content delivery for each server-refreshed page view. This         technique will support all e-centives categories and personalized user         category filtering, but will not support offers that can appear in         multiple categories or offer weighting.
+
+ c)  Of all e-centives implementation links on MESP, any single category can         have only one link placement.
+
+ d)  For a category to be surfaced, there must be three unique offers in that         category. The minimum of three offers per category must remain fresh;         if more than one week has elapsed without new offers being available         then a status message indicating no new offers in the category selected         will appear.
+
+ e)  To prevent multiple appearances of a single offer on one MESP page view,         every offer must be tagged to only one e-centives category.
+
+                                    37    38 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+3.   USER TYPES
+
+  a)   Anonymous Users and Excite@Home Members with no personalization of the           My Services module:
+
+       i)   Excite@Home may display two to five links at its sole option. All                e-centives categories will be supported, but each category may                have at most one link.
+
+  b)   Excite@Home Members with personalization of the My Services module           and/or provision of an e-centives account:
+
+       i)   Excite@Home may display two to five links at its sole option. All                e-centives categories will be supported, but each category may                have at most one link per page view.
+
+       ii)  Category surfacing will be based upon users' submitted                preferences.
+
+       iii) Excite@Home Members shall retain unilateral control to turn all                offer presentments off.
+
+4.   IMPLEMENTATION
+
+  a)   e-centives shall write the necessary application for Excite@Home           provided API to automate bulk update of available offers into           Excite@Home's Concorde system. The targeted completion date shall be           12-16 weeks from the Effective Date of this Agreement.
+
+  b)   The placement of e-centives promotional links on the default front           page will be implemented in a test mode for a pre-determined period of           time. Specific success measures, including increases in the conversion           rate of non-Excite@Home-Members to Excite@Home-Members, must be met           prior to making the decision to continue default placement.
+
+  c)   Access to the e-centives organizer will be from links within Member           Services and Shopping and potentially other locations as well, at           Excite@Home's sole discretion.
+
+                                    38
+
+39 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+                                EXHIBIT G
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+                        PAYMENT SCHEDULE: EXEMPLAR
+
+  The spreadsheet that follows is an example, solely for purposes of illustration, of the payment provisions set out by Section 7.d.
+
+                                    39    40 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+                                EXHIBIT H
+
+               MAINTENANCE AND TECHNICAL SUPPORT STANDARDS
+
+1.   MAINTENANCE
+
+  a)   Application Provider shall provide, during 6:00 AM - 6:00 PM Pacific           Time on Application Provider's normal business days, telephone           consulting services to Excite@Home's designated personnel to assist           such personnel in resolving problems, obtaining clarification relative           to the Co-Branded Application and providing assistance regarding           suspected defects or errors in the Co-Branded Application.
+
+  b)   Application Provider shall also provide after-hours support to           Excite@Home. Excite@Home's use of such support shall be confined to           calls related to Severity 1 and Severity 2 issues as those terms are           defined in this Exhibit I. Application Provider will make all           reasonable efforts to respond to Excite@Home's after-hours support           requests within the standards set out in this Exhibit I prior to the           next business day following receipt of the request.
+
+  c)   By mutual agreement of the parties, Application Provider shall furnish           qualified personnel for on site assistance to Excite@Home to resolve           problems and to assist in customization.
+
+  d)   Application Provider agrees to diligently work to promptly correct           defects and errors in the Co-Branded Application. Application Provider           agrees to respond to Excite@Home by using a dedicated contact           telephone number for each support call.
+
+  e)   Notwithstanding the foregoing, in the case of a system down condition,           (i.e. Severity 1, as defined below) attributable to Application           Provider, Application Provider may utilize other means of           communication for both reporting of errors and the conditions thereof.
+
+  f)   Application Provider shall respond to and complete correction of           errors, defects and malfunctions, in accordance with the following           schedule:
+
+       i)   SEVERITY 1: Causes data corruption or system crash or Program                Members or Excite@Home cannot make effective use of the                Co-Branded Application.
+
+       ii)  SEVERITY 2: Feature does not work as documented, no reasonable                work-around exists and Program Members or Excite@Home have a                critical need for the feature;
+
+                                    40    41 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+       iii) SEVERITY 3  Feature doesn't work as documented, but a reasonable                work around exists or Excite@Home or Program Members do not have                a critical need for the feature;
+
+       iv)  SEVERITY 4  Enhancement request.
+
+  g)   Provided that maintenance calls are received within Application           Provider's maintenance hours, Application Provider shall make an           initial response to a Severity 1 maintenance call within two (2) hours           after receipt. Application Provider shall use best efforts to provide           a fix, work around, or to patch Severity 1 bugs within twenty four           (24) hours after the bug is replicated by Application Provider and           confirmed as a bug by Application Provider.
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+  h)   Provided that maintenance calls are received within Application           Provider's maintenance hours, Application Provider shall make an           initial response to Severity 2 maintenance calls within four (4) hours           after receipt. Application Provider shall make commercially reasonable           efforts to provide a fix or work around for Severity 2 bugs within           five (5) business days.
+
+  i)   Provided that maintenance calls are received within Application           Provider's maintenance hours. Application Provider shall make an           initial response to Severity 3 maintenance calls within twenty-four           (24) hours after receipt. Application Provider shall make reasonable           efforts to identify a resolution to Severity 3 bugs within thirty (30)           days.
+
+  j)   Provided that all maintenance calls are received within Application           Provider's business hours, Application Provider shall make an initial           response to Severity 4 maintenance call within forty-eight (48) hours           after receipt. Severity 4 issues will be dealt with on a case-by-case           basis and no blanket commitments will be made.
+
+  k)   Excite@Home shall appoint one (1) person as the principal point of           contact for the communication of bugs and errors to Application           Provider and for the receipt of bug and error fixes, work arounds and           updates, if any. Additionally Excite@Home may appoint another person           as a backup of the principal contact.
+
+2.   UPTIME GUARANTEE
+
+  a)   The Co-Branded Application shall not experience more than two outages           (unscheduled downtime) of more than two hours during any one month. In           addition, the Co-Branded Application shall have at least the following           uptime as measured monthly, excluding planned downtime:
+
+       i)   First six months after launch of the Co-Branded Application:                98.8%.
+
+                                    41
+
+42 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+       ii)  Months 7-12 following launch of the Co-Branded Application:                99.4%.
+
+       iii) Remainder of the Term of the Agreement: 99.5%.
+
+  b)   Application Provider will notify Excite@Home within fifteen (15)           minutes of any known and verified unscheduled downtime of the           Co-Branded Application and update the status to Excite@Home each and           every hour until service is back up. Application Provider will           immediately notify Excite@Home when service is restored.
+
+3.   SYSTEM PERFORMANCE
+
+  a)   Latency of any data from the time Application Provider's server           receives a request to serve data to the time when Application           Provider's server begins to serve such data shall be less than or           equal to three seconds, except that latency of login/account creation           shall be no greater than five seconds in at least 90% of all cases,           and in no case shall PIN presentment be in excess of ten seconds,           independent of network or Internet conditions.
+
+  b)   Throughput of all data being served directly to the end user shall be           sustained at least 50Kbits/sec as measured by Excite@Home's monitoring           stations in at least 80% of all monitored cases.
+
+4.   PERFORMANCE MEASUREMENT
+
+  a)   Application Provider shall provide outage reports to Excite@Home upon           request.
+
+                                    42    43 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+                                EXHIBIT I
+
+          APPLICATION PROVIDERS DATA RESTRICTED NAMED COMPANIES
+
+Source: INVENDA CORP, S-1/A, 8/28/2000
+
+
+
+
+
+  Netcentives      MyPoints.com      Cybergold      beenz.com      YesMail      Lifeminders      Net Creations      Double Click      24/7      Net Perceptions      Engage Technologies      Broadvision      Personify      Andromedia      Befree      Linkshare      Brodiq      Q-Pass      Younology
+
+                                    43
+
+44 *****Confidential Treatment has been requested for portions of this agreement. The copy file herewith omits information subject to the confidentiality request. Omissions are designated as [*****]. A complete version of this agreement has been filed separately with the Securities and Exchange Commission.
+
+*****
+
+Source: INVENDA CORP, S-1/A, 8/28/2000

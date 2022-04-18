@@ -1,0 +1,227 @@
+MAINTENANCE AGREEMENT
+
+        BETWEEN
+
+        XIMAGE
+
+          AND
+
+SAGEM S.A., DEPARTEMENT MORPHO SYSTEMES
+
+                                          Page 1
+
+    TABLE OF CONTENTS
+
+                                                 1.    Definitions...................................................................3
+
+2.    Term of Agreement.............................................................4
+
+3.    Software Maintenance Services.................................................4
+
+4.    Performance of Services.......................................................4
+
+5.    Customer Obligations and Warranties...........................................5
+
+6.    Charges.......................................................................5
+
+7.    Non disclosure................................................................5
+
+8.    Response by XIMAGE............................................................6
+
+9.    Intervention on site..........................................................6
+
+10.   Return and Repair.............................................................7
+
+11.   Injunctive Relief/Termination.................................................7
+
+12.   Indemnification...............................................................7
+
+13.   Termination...................................................................7
+
+14.   Disclaimer of Warranty........................................................8
+
+15.   Limitations of Liability......................................................8
+
+16.   Arbitration...................................................................9
+
+17.   Force Majeure.................................................................9
+
+18.   Successors and Assigns........................................................9
+
+19.   Amendments....................................................................9
+
+20.   Entire Agreement and Waiver...................................................10
+
+                                          Page 2
+
+This Agreement is entered into this 31 January, 1994 by and between SAGEM S.A., Departement MORPHO Systemes whose address is 33, route de la Bonne Dame, 77300 FONTAINEBLEAU, FRANCE (hereinafter referred to as MORPHO) and XIMAGE corporation whose address is 1050 North Fifth Street, SAN JOSE, California 95112 (hereinafter referred to as XIMAGE) for the Customer Support and Software Maintenance.
+
+    WITNESSETH
+
+WHEREAS, XIMAGE and MORPHO have signed the "ForceField PSS Agreement" for the purchase of services and the use of Software referred to hereafter as the ForceField PSS System.
+
+WHEREAS, XIMAGE has granted to MORPHO a perpetual and non-exclusive license, transferable only to the Kuwait Government and solely for use with the PSS to be installed and used as a portrait storage system in connection with the AFIS sold to the Kuwait Government in Kuwait.
+
+1.    DEFINITIONS
+
+The terms defined in this Section shall have the meaning as follows:
+
+
+
+
+
+FIRST LEVEL OF MAINTENANCE means MORPHO will require the Kuwait Government to contact MORPHO maintenance personnel for all problems associated with the installed Force Field PSS System. MORPHO will respond with fixes and/or workarounds to keep the system operational. MORPHO personnel may document any software problems and refer them to XIMAGE for additional fixes or patches.
+
+SECOND LEVEL OF MAINTENANCE means if Morpho's personnel can not start or keep the system operational because of software problems, XIMAGE should be contacted to provide all documented and replicated software Errors. XIMAGE will make best efforts to support Morpho by any means available. Such an undertaking is made in the knowledge that a telecommunications line between the site and XIMAGE may not be in existance.
+
+PROGRAM means ForceField PSS software developed by XIMAGE including the Sybase and Focus software and includes all software provided under the Maintenance Agreement.
+
+PROGRAM SPECIFICATIONS means the specifications published by XIMAGE for a particular version of the Program (if no such specification is available, then the relevant documentation for a particular version of the Program).
+
+EFFECTIVE DATE shall mean the Date of Installation of the PSS in Kuwait, i.e. December 10, 1993.
+
+ERROR means any material failure to operate in accordance with the program specifications delivered from the specifications appended to the base agreement. Error includes malfunctions and defects.
+
+                                          Page 3
+
+2.   TERM OF AGREEMENT
+
+XIMAGE's obligations hereunder shall become effective upon the      "Effective Date" and, unless sooner terminated as provided herein, shall      remain in full force and effect for at least one year thereafter. This      Agreement shall automatically renew for consecutive one (1) year terms      at XIMAGE's then prevailing rates at the end of each one (1) year term      unless either party gives at least sixty (60) days prior written notice      of the non-renewal of this Agreement.
+
+3.   SOFTWARE MAINTENANCE SERVICES
+
+XIMAGE will provide to MORPHO during the term hereof "Software      Maintenance Services" which shall include remedial maintenance service      (i.e, error fixing and/or work arounds) for any significant error,      malfunction or defect (collectively in "Error") in the Software so that      the Software will operate in accordance with the specifications set      forth in the related documentation. Correction of Errors is subject to      MORPHO's prompt notification to XIMAGE of the nature and description of      the Error provided that the Error is not caused by the abuse, misuse or      neglect of the products by MORPHO. In addition, XIMAGE will provide the      following as additional Customer Support Services:
+
+(a)  telephone support as reasonably requested by MORPHO at the rate of           $100 per hour for all hours in excess of 40 hours in any one-year           term;
+
+(b)  on-site visits to MORPHO's sites as determined to be necessary by           Morpho for Error correction, unless error correction is normally           performed via Dial up from the XImage facility in San Jose;
+
+(c)  give title to all modifications and improvements to the PSS           Software which XIMAGE generally makes available to its other           customers (at no additional Charge) under standard software           maintenance agreements relating to the Software.
+
+If MORPHO requests XIMAGE to perform any other services, the related terms and conditions shall be based on further separate agreement between the parties. This Agreement and the rights and duties contained herein are not be deemed to cover maintenance services with respect to hardware. Such may be decided in accordance with paragraph 9.
+
+4.   PERFORMANCE OF SERVICES
+
+When XIMAGE provides Software Maintenance Services which require the use      of the hardware portion of equipment which utilizes the Software (the      "Equipment"), MORPHO shall make such Equipment available to XIMAGE at and      for reasonable times, and in no event will MORPHO charge XIMAGE for such      use of such Equipment. All Software Maintenance Services covered by the      Maintenance Charges will be performed during the regular business hours      of XIMAGE (Monday-Friday, exclusive holidays). If Software Maintenance      Services are performed outside regular business hours, MORPHO will pay      the additional charges, if any, as at XIMAGES then current charges.
+
+                                         Page 4
+
+
+
+
+
+5.   CUSTOMER OBLIGATIONS AND WARRANTIES
+
+The obligations of XIMAGE to provide Software Maintenance Services are      subject to MORPHO using the Equipment in accordance with their      respective operating manuals and recommended procedures, and causing      proper and recommended Equipment Maintenance Services to be performed,      including selecting a site which complies with the environmental      requirements suggested by the manufacturer of the Equipment or XIMAGE      and utilizing appropriate back-up procedures with respect to the      Software and data.
+
+6.   CHARGES
+
+The total annual maintenance charge amounts to US $24502 for the first      year of maintenance. MORPHO shall pay all charges under this Agreement,      including the total Annual Maintenance Charge, within thirty (30) days      after receipt of a valid invoice from XIMAGE. Thereafter, the then      applicable Annual Maintenance Charge shall be invoiced to, and paid by      MORPHO prior to the beginning of the next annual maintenance period. All      other charges under this Agreement shall be invoiced by XIMAGE and shall      be due and payable within thirty (30) days after receipt of the invoice.      The Annual Maintenance Charge includes all federal, state, county,      local, or other taxes arising in the United States or its states (or      other internal jurisdictions), but does not include all taxes arising      under any law other than that of the United States. MORPHO shall be      responsible for all taxes arising under the law of any jurisdiction      except the United States and its states (and other internal      jurisdisctions).
+
+7.   NON DISCLOSURE
+
+Each party agrees to maintain in confidence what it knows or has reason      to know is regarded as confidential by the other party ("Confidential      Information"). The Confidential Information will include, but will not      be limited to, trade secrets, the structure, sequence and organization      of the program, marketing plans, blueprints, techniques, processes,      procedures and formulae. Each party will use the Confidential Information      solely to accomplish the purposes of the Agreement. Each party will not      disclose the Confidential Information to any person except its employees      or consultants to whom it is necessary to disclose the Confidential      Information for such purposes. Each party agrees that the Confidential      Information will be disclosed or made available only to those of its      employees or consultants who have agreed to receive it under termes at      least as restrictive as those specified in this Agreement. Each party will      use reasonable measures to maintain the confidentiality of the Confidential      Information, but not less than the measures it uses for its confidential      information or similar type. Each party will immediately give notice to the      Disclosing Party of any unauthorized use or disclosure of the Confidential      Information. The Recipient agrees to assist the disclosing party in      remedying any such unauthorized use or disclosure of the Confidential      Information. This obligation will not apply to the extent that the      Recipient can demonstrate:
+
+(a)  the disclosed information at the time of disclosure is part of the           public domain;
+
+                                         Page 5
+
+(b)  the disclosed information became part of the public domain, by           publication or otherwise, except by breach of the provisions of this           Agreement;
+
+(c)  the disclosed information can be established by written evidence to           have been in the possession of the Recipient at the time of           disclosure;
+
+(d)  the disclosed information is received from a third party without           similar restrictions and without breach of this Agreement; or
+
+(e)  the disclosed information is required to be disclosed by a           government agency to further the objectives of this agreement, such           as to obtain permission to distribute the Program of by a proper           court of competent jurisdiction; provided, however, that the           Recipient wil use its best efforts to minimize the disclosure of           such information and will consult with and assist the Disclosing           Party in obtaining a protective order prior to such disclosure.
+
+8.   RESPONSE BY XIMAGE.
+
+XIMAGE will maintain a 24 hour a day reporting facility to accept calls      from MORPHO. XIMAGE agrees to respond to any telephone call made, within      30 minutes.
+
+9.   INTERVENTION ON SITE.
+
+
+
+
+
+In the event that MORPHO require the attendance of an XIMAGE engineer on      site, XIMAGE shall upon such a demand (either written or verbal) make      their best efforts to dispatch the engineer as expeditiously as      possible. XIMAGE undertake to have an engineer on site in Kuwait within      72 hours from the time the request was made, exclusive of the time      required to arrange for travel and obtain the required documents, and      the actual travel time itself.      In such cases where on site intervention is required MORPHO shall pay      for all travel expenses (Business Class), hotel accomodation and      reasonable subsistence. XIMAGE shall charge for the time of the engineer      only when he/she is on site or in exceptional circumstances when away      from the site but directly involved in work connected with the PSS.      XIMAGE will not charge for travel time.
+
+All interventions on site are subject to a minimum total charge of      $2,000. Hourly rate for intervention is $125.00 (one hundred and twenty      five Dollars).
+
+Following any intervention on site XIMAGE shall provide a full written      technical report to MORPHO.      XImage is not required to send an engineer to the Kuwait site if either      active or potentially pending hostilities exist in the region, and a      reasonable person might fear the possibility of bodily harm.
+
+                                         Page 6
+
+10.  RETURN AND REPAIR
+
+MORPHO may, at its option, return equipment to XIMAGE for repair. XIMAGE      will make its best efforts to liaise with the supplier of the equipment      and to expeditiously repair and return the equipment. XIMAGE reserves the      right to charge an administration fee of $100 per shipment in such cases.
+
+11.  INJUNCTIVE RELIEF/TERMINATION
+
+MORPHO acknowledges and agrees that any violation of the provisions of      Section 7 herein by MORPHO will result in irreparable harm to XIMAGE and      that money damages would provide inadequate remedy. Accordingly, in      addition to any other rights and remedies available to XIMAGE hereunder      or at law, XIMAGE shall be entitled to injunctive or other equitable      relief to restrain any such violation and to such other and further      relief as a court may deem proper under the circumstances. In addition      to any other rights of XIMAGE hereunder, the rights granted MORPHO to      use the Software by license or otherwise may be terminated by XIMAGE for      any material breach of Section 7 upon written notice given to MORPHO and      MORPHO shall return to XIMAGE all of the Software.
+
+12.  INDEMNIFICATION
+
+MORPHO hereby indemnifies and holds XIMAGE harmless from any and all      claims, suits, actions and procedures brought or filed by third parties      and from all damages, penalties, losses, costs and expenses (including      without limitation, attorney's fees) arising out of, or related to, any      act or omission of MORPHO and its employees or agents in connection with      MORPHO's obligation herein.
+
+XIMAGE hereby indemnifies and agrees to hold MORPHO harmless from any      claim of any third party that any of the Software infringes any United      States patent, copyright, trademark or other property right held by a      third party provided that XIMAGE is notified promptly by MORPHO of any      such claim (including any threatened claim) and XIMAGE shall have had      sole control of the defense with respect to same (including the      settlement of such claim). The foregoing indemnification by XIMAGE shall      not apply with respect to any claim based, in whole or part, on any      modification of the Software made by any person other than XIMAGE.
+
+13.  TERMINATION
+
+Without prejudice to any other of its rights or remedies, either party      may elect to terminate the rights and obligations contained in this      Agreement:
+
+                                         Page 7
+
+(a)  Upon sixty (60) days' written notice if the other party has failed           to perform any material obligation required to be performed by it           pursuant to this Agreement and such failure has not been cured           within such a sixty (60) day period, or
+
+(b)  Upon sixty (60) days' written notice if the other party has failed           to make timely payment of any amounts required to be paid hereunder,           or
+
+
+
+
+
+(c)  Immediately, (i) if a petition in bankruptcy has been filed by or           against the other party, (ii) if the other party has made an           assignment for the benefit of creditors, (iii) if a receiver has           been appointed or applied for by the other party, or (iv) if the           other party has admitted in writing its inability to pay its debts           as they become due and payable.
+
+14.  DISCLAIMER OF WARRANTY
+
+XIMAGE MAKES NO WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED      (INCLUDING WARRANTIES OR MERCHANTABILITY OR FITNESS FOR A PARTICULAR      PURPOSE) WITH RESPECT TO THE SERVICES, SOFTWARE OR DOCUMENTS PROVIDED      (OR TO BE PROVIDED) HEREUNDER.
+
+15.  LIMITATIONS OF LIABILITY
+
+MORPHO agrees that XIMAGE's total liability to MORPHO for any damages      suffered in connection with, or arising out of, this Agreement or      MORPHO's use of any documentation, product or service provided (or to be      provided) hereunder, regardless of whether any such liability is based      upon contract, tort or other basis, shall be limited to an amount not to      exceed the basic Monthly Maintenance Charges, for a sixty (60) day term      under this Agreement.
+
+IN NO EVENT SHALL, XIMAGE BE LIABLE TO MORPHO FOR ANY INCIDENTAL,      CONSEQUENTIAL, SPECIAL OR INDIRECT DAMAGES (INCLUDING WITHOUT      LIMITATION, DAMAGES ARISING FROM LOSS OF BUSINESS, DATA, PROFITS OR      GOODWILL) INCURRED OR SUFFERED BY MORPHO IN CONNECTION WITH, OR ARISING      OUT OF, THIS AGREEMENT OR MORPHO'S USE OF ANY DOCUMENTATION OR SOFTWARE      OR SERVICES PROVIDED, OR TO BE PROVIDED, HEREUNDER, EVEN IF XIMAGE HAS      BEEN APPRISED OF THE LIKELIHOOD OF THE SAME. NO ACTION, REGARDLESS OF      FORM, RELATED TO TRANSACTIONS OCCURRING UNDER, OR CONTEMPLATED BY, THIS      AGREEMENT MAY BE BROUGHT BY EITHER PARTY MORE THAN ONE (1) YEAR AFTER      THE CAUSE OF ACTION HAS ACCRUED.
+
+                                         Page 8
+
+16.  ARBITRATION.
+
+Except as provided in Section 8 herein, in the event of any dispute or      controversy between the parties hereto arising out of or relating to      this Agreement or any transaction contemplated hereunder, such dispute      or controversy shall be submitted to arbitration under the Commercial      Rules of Arbitration of the American Arbitration Association sited in      Washington State, USA for decision in any such matter in accordance with      the then applicable rules of the American Arbitration Association or any      successor organization. The determination of the arbitrators shall not      be subject to judicial review, provided however, that any award or      determination rendered by the arbitrators may be enforced any court of      jurisdiction.
+
+17.  FORCE MAJEURE.
+
+XIMAGE shall not be liable for any failure or delay in performing its      obligation hereunder due to any cause beyond its reasonable control,      including without limitation, fire, accident, acts of public enemy, war,      rebellion, labor dispute or unrest, insurrection, sabotage,      transportation delays (other than administrative oversights), shortage      of raw material, energy or machinery, acts of God, government or the      judiciary.
+
+18.  SUCCESSORS AND ASSIGNS
+
+The interests of MORPHO in this Agreement are personal and shall not be      assigned, transferred, shared or divided in any manner by MORPHO without a      prior written consent of XIMAGE. Subject to the foregoing, this Agreement      shall be binding upon and shall inure to the benefit of the parties hereto      and their heirs, representatives, successors and permitted assignees.
+
+19.  AMENDMENTS
+
+No supplement, modification or amendment of any term, provision or      condition of this Agreement shall be binding or enforceable unless      executed in writing by the parties hereto.
+
+                                         Page 9
+
+20.  ENTIRE AGREEMENT AND WAIVER
+
+
+
+
+
+This Agreement contains the entire agreement between the parties hereto and supersedes all prior contemporaneous agreements, arrangements, negotiation and understandings between the parties hereto, relating to the subject matter hereof except any prior or contemporaneous Software licenses between the parties.  There are no other understandings, statements, promises or inducements, oral or otherwise, contrary to the terms of this Agreement. No representations, warranties, covenants or conditions, express or implied, whether by statute or otherwise, other than as set forth herein have been made by any party hereto.  No waiver of any term, provision, or condition of this Agreement, whether by conduct or otherwise, in any one or more instances, shall be deemed to be, or shall constitute, a waiver of any other provision hereof, whether or not similar, nor shall such waiver constitute a continuing waiver, and no waiver shall be binding unless executed in writing by the party making the waiver.
+
+[Illegible], 31 January, 1994 - -----------------------------
+
+/s/ [Illegible]                                             /s/ [Illegible] - --------------------                                        ------------------ XIMAGE                                                      SAGEM
+
+                                          Page 10

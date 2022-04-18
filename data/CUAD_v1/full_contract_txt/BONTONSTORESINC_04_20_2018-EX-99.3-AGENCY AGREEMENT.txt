@@ -1,0 +1,1267 @@
+EXHIBIT 99.3 Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 2 of 60
+
+AGENCY AGREEMENT This Agency Agreement ("Agreement") is made as of April 18, 2018, by and between The Bon-Ton Stores, Inc. and its associated chapter 11 debtors in possession (collectively, "Merchant"),1 on the one hand, and (a) a contractual joint venture comprised of GA Retail, Inc. ("GA") and Tiger Capital Group, LLC ("Tiger" and collectively with GA, the "Agent") and (b) Wilmington Savings Fund Society, FSB, as the indenture agent and collateral trustee for the 8.00% second-lien senior secured notes due 2021 (the "Second-Lien Notes") issued by BTDS, on the other hand (in such capacities, the "Notes Trustee" and collectively with Agent, "Purchaser"). Purchaser and Merchant are collectively the "Parties."
+
+Section 1. Recitals
+
+WHEREAS, on February 4, 2018, the entities comprising Merchant commenced ten voluntary chapter 11 bankruptcy cases (the "Bankruptcy Cases") in the United States Bankruptcy Court for the District of Delaware (the "Bankruptcy Court").
+
+WHEREAS, pursuant to an order of the Bankruptcy Court entered on February 6, 2018 [D.I. 105], the Bankruptcy Cases are being jointly administered under the caption In re The Bon-Ton Stores, Inc., et al., Lead Case No. 18-10248-MFW (Bankr. D. Del.).
+
+WHEREAS, on March 12, 2018, the Bankruptcy Court entered an order (the "Bidding Procedures Order") [D.I. 348] that, among other relief, approved bidding procedures (the "Bidding Procedures") for and scheduled a hearing (the "Sale Approval Hearing") on the approval of the sale of all or substantially of Merchant's assets.
+
+WHEREAS, on March 12, 2018, the Bankruptcy Court entered an order (the "Final DIP Order") [D.I. 352] authorizing Merchant to obtain postpetition secured debtor-in-possession financing on a final basis.
+
+WHEREAS, an ad hoc group of holders of $251,325,000 in principal amount of the Second-Lien Notes (the "Second Lien Noteholders") has issued a direction to the Notes Trustee to credit bid (the "Credit Bid") $125,000,000 of its claims under the indenture governing the Second-Lien Notes (the "Notes Claims") as consideration under this Agreement and the Notes Trustee has made the Credit Bid.
+
+WHEREAS, Merchant operates retail stores and desires that the Agent act as Merchant's exclusive agent for the purposes of:
+
+(a) selling all of the Merchandise (as hereinafter defined) from Merchant's retail store locations identified on Exhibit 1(a)(1) attached hereto (each a "Store" and collectively the "Stores") and distribution centers (including e-commerce
+
+1 Merchant consists of The Bon-Ton Stores, Inc.; The Bon-Ton Department Stores, Inc. ("BTDS"); The Bon-Ton Giftco, LLC; Carson Pirie Scott II, Inc.; Bon- Ton Distribution, LLC; McRIL, LLC; Bonstores Holdings One, LLC; Bonstores Realty One, LLC; Bonstores Holdings Two, LLC; and Bonstores Realty Two, LLC.
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 3 of 60
+
+facilities) identified on Exhibit 1(a)(2) attached hereto (each a "Distribution Center" and collectively, the "Distribution Centers") by means of a "going out of business," "store closing," "sale on everything," "everything must go," or similar sale as described further below (the "GOB Sale"), with the nature and manner of advertising the GOB Sale being in Agent's sole discretion, subject to the terms and conditions of this Agreement and the Sale Guidelines and Approval Order (each as defined below);
+
+(b) marketing and selling, or otherwise designating the purchasers of, the furniture, furnishings, trade fixtures, machinery, equipment, office supplies, Supplies (as defined below), conveyor systems, racking, rolling stock, and other tangible personal property (collectively, "FF&E") owned by Merchant, wherever located ("Owned FF&E");
+
+(c) designating the assignees of any or all of Merchant's unexpired leases of non-residential real property (together with all amendments, extensions, modifications, and other material documents related thereto, each a "Lease" and all such Leases collectively, the "Leases") and executory contracts (together with all amendments, extensions, modifications, and other material documents related thereto, each a "Contract" and all such Contracts collectively, the "Contracts"), in each case excluding any Leases or Contracts that may be rejected as permitted and in accordance with the procedures under the Approval Order (defined below) and subject to the assumption and assignment procedures to be incorporated into the Approval Order;
+
+(d) marketing and selling, and/or otherwise designating the purchasers and/or assignees of any or all real property owned by Merchant (the "Owned Real Estate"), including but not limited to the real property identified on Exhibit 1(d) annexed hereto;
+
+(e) marketing and selling, and/or otherwise designating the purchasers, assignees, and/or licensees of any or all intellectual property owned by Merchant (the "Intellectual Property"), including but not limited to the intellectual property identified on Exhibit 1(e) annexed hereto, provided that, the disposition of any Intellectual Property that would result in the sale or lease of personally identifiable information (as such term is defined in section 101(41A) of the Bankruptcy Code) shall be subject to a determination made by a consumer privacy ombudsman appointed in Merchant's chapter 11 cases; and
+
+(f) marketing and selling, and/or otherwise designating the purchasers, licensees, and/or assignees of any or all of Merchant's other real and tangible and intangible personal property (the "Other Assets" and, collectively with the Merchandise, the Owned FF&E, all Leases, all Contracts, the Owned Real Estate, and the Intellectual Property, the "Assets"). For the avoidance of doubt, the Other Assets include but are not limited to all cash on hand and in the Debtors' retail store locations, cash in transit, cash in bank accounts, Merchant's interest in and rights with respect to cash posted as collateral for letters of credit, receivables (including
+
+2
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 4 of 60 credit card receivables), deposits, security deposits, credit card processing float, proceeds of retail sales in all of the Debtors' retail store locations from and after the date of this Agreement to the extent not used to pay down the DIP Obligations (as defined in the Final DIP Order), claims and causes of action arising under chapter 5 of the Bankruptcy Code and similar state law ("Avoidance Actions"), and all other claims and causes of action, including but not limited to commercial tort claims, based on facts and circumstances existing as of the Closing, whether or not theretofore discovered or asserted ("Other Causes of Action"). Notwithstanding the foregoing, the Assets shall not include (a) the Consulting Agreement by and between Merchant and a joint venture comprised of Hilco Merchant Resources, LLC and Gordon Brothers Retail Partners, LLC (the "Phase 1 Consultant"), dated January 29, 2018 (the "Phase 1 Liquidation Agreement"), which shall not be subject to the Lease/Contract Designation Rights (as defined below) or otherwise assumed by Purchaser or (b) the proceeds from the sale of Additional Agent Goods (as defined in the Phase 1 Liquidation Agreement) pursuant to the Phase 1 Liquidation Agreement, other than the "Additional Agent Goods Fee" due to Merchant under the Phase 1 Liquidation Agreement. Merchant shall not reject or amend the Phase 1 Liquidation Agreement without the express written consent of Purchaser. For the avoidance of doubt, all Net Proceeds, less the Consulting Fee, plus the Additional Agent Goods Fee (each as defined in the Phase 1 Liquidation Agreement) shall constitute Assets under this Agreement and shall be remitted to Purchaser pursuant to the terms hereof.
+
+WHEREAS, the Official Committee of Unsecured Creditors appointed in the Bankruptcy Cases (the "Committee") filed an adversary proceeding (the "Adversary Proceeding") on March 29, 2018 seeking, among other relief, to avoid certain liens securing the Notes Claims.
+
+NOW, THEREFORE, in consideration of the Purchase Price (defined below) and the mutual covenants and agreements set forth in this Agreement, the Parties hereby agree as follows:
+
+Section 2. Appointment of Agent/Approval Order. Consistent with the Bidding Procedures and as soon as practicable after full execution of this Agreement, Merchant shall file in the Bankruptcy Cases a proposed form of order (the "Approval Order") in a form reasonably satisfactory to Merchant and Purchaser. At the Sale Approval Hearing, Merchant shall seek entry of the Approval Order as the "Sale Order," as that term is used in the Bidding Procedures Order. The Approval Order shall, among other things:
+
+(a) find that:
+
+(i) this Agreement is in the best interest of Merchant, its estate and creditors, and other parties in interest
+
+(ii) the Parties entered into this Agreement in good faith pursuant to Section 363(m) of the Bankruptcy Code and without collusion as described in Section 363(n) of the Bankruptcy Code;
+
+3
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 5 of 60
+
+(iii) time is of the essence in effectuating this Agreement and proceeding with the GOB Sale at the Stores uninterrupted;
+
+(iv) Merchant's decisions to (a) enter into this Agreement and (b) perform its obligations under this Agreement are a reasonable exercise of Merchant's sound business judgment consistent with its fiduciary duties and is in the best interests of Merchant, its estate, its creditors, and other parties in interest; and
+
+(v) this Agreement was negotiated in good faith and at arms' length and Purchaser is entitled to the protection of section 363(m) and 364(e) of the Bankruptcy Code; and
+
+(b) order, adjudge, and decree that:
+
+(i) this Agreement and all of the transactions contemplated hereby are approved in their entirety;
+
+(ii) the Parties are authorized to continue to take any and all actions as may be necessary or desirable to implement this Agreement and each of the transactions contemplated hereby;
+
+(iii) following the occurrence of the closing under this Agreement, which shall occur no later than April 19, 2018 (the "Closing"), subject to payment of the Cash Purchase Price (as defined below) and Purchaser's compliance with its other obligations hereunder, Agent shall have the exclusive right to market and sell, and/or otherwise designate the purchasers, licensees, and/or assignees of, any or all of the Assets free and clear of all liens, claims, and encumbrances thereon without further order of the Bankruptcy Court;
+
+(iv) the sale, license, transfer, or other conveyance of any Assets (other than the Assets being sold pursuant to the GOB Sale, as to which no further notice shall be required) reflected in notices filed in the Bankruptcy Cases from time to time by the Agent, substantially in the form annexed hereto as Exhibit 2(b)(iv) (each an "Asset Designation Notice"), shall be automatically effective on the date reflected in the applicable Asset Designation Notice and subject to the satisfaction of any closing conditions reflected therein, and the sale or other conveyance of such Assets shall be free and clear of all liens, claims, and encumbrances without further order of the Bankruptcy Court, provided, however, that nothing in the Approval Order shall inhibit the ability of Agent to seek other or further orders of the Court in connection with the sale or other disposition of any Assets;
+
+(v) the form of Asset Designation Notice is approved;
+
+4
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 6 of 60
+
+(vi) subject to Agent's compliance with its payment obligations under this Agreement and the Approval Order, Agent is authorized to execute, in the name of and as agent for Merchant, any and all deeds, bills of sale, and other instruments or documents necessary to effectuate the sale, transfer, or other conveyance of any of the Assets;
+
+(vii) following the payment of the Cash Purchase Price but subject to Agent's obligation to pay Expenses and fund the Wind-Down Payment pursuant to the Wind-Down Budget (as defined below), all proceeds (cash or otherwise) of any of the Assets except as otherwise set forth in this Agreement ("Proceeds"), including but not limited to all Proceeds arising from the sale, lease, licensing, assignment, or other disposition of any of the Assets, shall be the sole property of Purchaser, and Purchaser shall be entitled to retain all Proceeds for its own account, subject to further distribution among the entities comprising Purchaser pursuant to any agreements between the entities comprising Purchaser and the Second Lien Noteholders;
+
+(viii) the Wind-Down / Expense Advance shall be deemed held in escrow for the exclusive purpose of paying (1) Expenses (as defined below) and (2) administrative expenses and other amounts pursuant to and solely as reflected in the Wind-Down Budget (provided that such payments may be made from the Wind-Down / Expense Advance as and when due without further order of the Court or action by any Party), and shall not be used for any other purpose without the express written consent of Agent in its sole discretion;
+
+(ix) following the occurrence of the Closing, subject to Agent's obligation to pay Expenses and fund the Wind-Down Payment, Merchant and any trustee appointed in the Bankruptcy Cases or any successor cases thereto shall hold the Assets (other than the Assets being sold through the GOB Sale and the Wind-Down / Expense Advance) strictly in trust for the benefit of Purchaser and, as such, the Assets shall not constitute property of Merchant's bankruptcy estate pursuant to and consistent with 11 U.S.C. § 541(b)(1) at any time following the Closing;
+
+(x) following the payment of the Cash Purchase Price but subject to Agent's obligation to pay Expenses and fund the Wind-Down Payment, any Proceeds received by, or otherwise in the possession of, Merchant at any time shall be segregated and held strictly in trust for the benefit of Purchaser, shall not be commingled with Merchant's own assets, and, as such, shall not become property of Merchant's bankruptcy estate pursuant to and consistent with 11 U.S.C. §541(b)(1), and shall be paid over to Purchaser immediately;
+
+(xi) upon the payment of the Cash Purchase Price, and solely to the extent that any Assets or Proceeds are, notwithstanding the Approval Order,
+
+5
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 7 of 60
+
+subsequently determined to constitute property of Merchant's estate, but subject to Agent's obligation to pay Expenses and fund the Wind-Down Payment, Purchaser shall have a senior lien on such Assets and all Proceeds thereof, which lien is deemed automatically perfected, provided that nothing in the Approval Order shall inhibit Purchaser's ability, and the Approval Order shall expressly authorize Purchaser, to take any action Purchaser deems appropriate to perfect and enforce such lien;
+
+(xii) upon the payment of the Cash Purchase Price and subject to Agent's obligation to pay Expenses and fund the Wind-Down Payment, until all Assets have been sold or otherwise disposed of, and solely to the extent that any Assets or Proceeds are, notwithstanding the Approval Order, subsequently determined to constitute property of Merchant's estate, Purchaser shall have a superpriority administrative expense claim against Merchant to the extent of any amounts owing from Merchant to Purchaser in connection with this Agreement, including as a result of any breach of this Agreement and/or as a result of any Proceeds being in Merchant's possession;
+
+(xiii) the Lease/Contract Designation Rights are approved, and Purchaser is authorized to designate the assignees of any or all of the Contracts and Leases pursuant thereto;
+
+(xiv) at any time (i) with respect to any unexpired real estate Lease under which Merchant is lessee, prior to the earlier to occur of (1) September 2, 2018 and (2) expiration of such Lease by its terms or the rejection thereof, and (ii) with respect to all other Contracts and Leases, prior to the earlier to occur of (1) December 31, 2018, and (2) rejection thereof (the shortest of the foregoing periods applicable to a particular Contract or Lease is the "Designation Rights Period" applicable to that Contract or Lease), Purchaser shall have the exclusive right, which right may be exercised at any time and from time to time, to file a notice in the Bankruptcy Cases (each such notice, a "Lease/Contract Assumption Notice") substantially in the form annexed hereto as Exhibit 2(b)(xiii) designating the assignee of any one or more Leases and/or Contracts and setting forth the proposed cure amount due pursuant to section 365 of the Bankruptcy Code (each a "Cure Amount");
+
+(xv) the counterparties to the Leases or Contracts identified in any Lease/Contract Assumption Notice shall have twenty-one days to object to the proposed assumption and assignment;
+
+(xvi) if no objection to the proposed assumption and assignment of a Lease or Contract is timely received, such Lease or Contract shall, upon payment of the applicable cure payment, if any, to the applicable
+
+6
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 8 of 60
+
+counterparty, automatically be deemed assigned to and assumed by the assignee identified in the Lease/Contract Assumption Notice pursuant to section 365 of the Bankruptcy Code, without further order of the Bankruptcy Court or further action by any person or entity;
+
+(xvii) if an objection to the proposed assumption and assignment of a Lease or Contract is timely received, such Lease or Contract shall not be assumed or assigned until such objection is resolved by agreement of the applicable counterparty or order of the Bankruptcy Court;
+
+(xviii) the designee under any Lease/Contract Assumption Notice shall be required, if requested by the applicable counterparty, to provide adequate assurance of future performance with respect to such Lease or Contract if the applicable counterparty so requests;
+
+(xix) pursuant to section 365(k) of the Bankruptcy Code, neither Merchant nor any other Party shall have any further obligation under any Lease or Contract after assumption and assignment thereof pursuant to the Lease/Contract Designation Rights;
+
+(xx) in addition to the Lease/Contract Designation Rights, Purchaser shall have the right, upon written notice to Merchant and as reflected in notices filed in the Bankruptcy Cases from time to time, direct Merchant to reject any Lease or Contract as specified by Purchaser;
+
+(xxi) at the Closing, all funds held in escrow by Wilmington Trust, National Association ("WT") pursuant to that certain Escrow Agreement dated as of March 5, 2018 by and among the members of Agent, the Second Lien Noteholders, and WT shall be released at the Closing for application to the Cash Purchase Price;
+
+(xxii) Agent shall have the exclusive right to use the Stores and all other Assets for the purpose of conducting the GOB Sale, free of any interference from any entity or person, subject to compliance with the Sale Guidelines (as defined below) and Approval Order;
+
+(xxiii) Agent, as the exclusive agent for Merchant, is authorized to conduct, advertise, post signs, utilize sign-walkers, and otherwise promote the GOB Sale as a "going out of business", "store closing", "sale on everything", "everything must go", or similar themed sale, in accordance with the Sale Guidelines (as the same may be modified and approved by the Bankruptcy Court), subject to compliance with the Sale Guidelines, the Approval Order, and all applicable federal, state, and local laws, regulations and ordinances, including, without limitation, all laws and regulations relating to advertising, privacy, consumer protection, occupational health and safety and the environment, together with all applicable statutes, rules, regulations and
+
+7
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 9 of 60 orders of, and applicable restrictions imposed by, governmental authorities (collectively, the "Applicable General Laws"), other than all applicable laws, rules and regulations in respect of "going out of business", "store closing" or similar-themed sales and permitting (collectively, the "Liquidation Sale Laws");
+
+(xxiv) Agent is authorized to conduct the GOB Sale notwithstanding any Liquidation Sale Laws;
+
+(xxv) so long as the GOB Sale is conducted in accordance with the Sale Guidelines and the Approval Order and in a safe and professional manner, Purchaser shall be deemed to be in compliance with any Applicable General Laws;
+
+(xxvi) Agent is granted a limited license and right to use all Intellectual Property for purposes of conducting the GOB Sale and otherwise marketing any or all of the Assets;
+
+(xxvii) unless otherwise ordered by the Bankruptcy Court, all newspapers and other advertising media in which the GOB Sale is advertised shall be directed to accept the Approval Order as binding and to allow the Parties to consummate the transactions provided for in this Agreement, including, without limitation, conducting and advertising the GOB Sale in the manner contemplated by this Agreement;
+
+(xxviii) unless otherwise ordered by the Bankruptcy Court, all utilities, landlords, creditors, and other interested parties and all persons acting for or on their behalf shall not interfere with or otherwise impede the conduct of the GOB Sale, or institute any action in any forum other than the Bankruptcy Court that in any way directly or indirectly interferes with or obstructs or impedes the conduct of the GOB Sale;
+
+(xxix) the Bankruptcy Court retains exclusive jurisdiction over the enforcement and interpretation of, and over and all matters arising from, this Agreement;
+
+(xxx) Merchant is directed to provide weekly reporting to Agent of all amounts expended for Expenses and pursuant to the Wind-Down Budget;
+
+(xxxi) Merchant shall make its books and records available to Purchaser at all times;
+
+(xxxii) Purchaser shall not be liable for any claims against Merchant except as expressly provided for in this Agreement;
+
+8
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 10 of 60
+
+(xxxiii) all payments made by Merchant from the Wind-Down Payment shall be made pursuant to, and solely in accordance with, the Wind-Down Budget;
+
+(xxxiv) Purchaser shall neither have nor incur any obligation to advance or fund any amounts to or for Merchant except as set forth in this Agreement and the Wind-Down Budget;
+
+(xxxv) any amendment to or other modification of the Wind-Down Budget shall only be effective upon approval by Purchaser in its sole discretion;
+
+(xxxvi) Agent is authorized to sell the Additional Agent Merchandise on the terms set forth herein, subject to the Sale Guidelines;
+
+(xxxvii) following the occurrence of the Closing, the Adversary Proceeding is deemed dismissed with prejudice;
+
+(xxxviii) following the occurrence of the Closing, neither the Debtor nor any other entity acting on its behalf or as its successor (including but not limited to the Committee and any chapter 7 or 11 trustee) may recover from the Notes Trustee or any holders of Second- Lien Notes any costs or expenses of preserving, or disposing of, any of the collateral securing Merchant's obligations under the Indenture and the Second-Lien Notes pursuant to section 506(c) of the Bankruptcy Code;
+
+(xxxix) Purchaser and its designees are granted derivative standing to pursue the Avoidance Actions (subject to section 11.2(f) below) and Other Causes of Action in the name of and/or on behalf of Merchant;
+
+(xl) in the event any of the provisions of the Approval Order are modified, amended or vacated by a subsequent order of the Bankruptcy Court or any other court, Purchaser shall be entitled to the protections provided in Bankruptcy Code sections 363(m) and 364(e) and, no such appeal, modification, amendment or vacatur shall affect the validity and enforceability of the GOB Sale or the liens or priority authorized or created under this Agreement or the Approval Order;
+
+(xli) neither Purchaser nor any entity comprising Purchaser is or shall be a mere continuation of Merchant or otherwise subject to successor liability in connection with any of the Assets;
+
+(xlii) upon receipt by the DIP Administrative Agent (as defined in the Final DIP Order) and certain other persons as directed in the Payoff Letter (as defined below) of the DIP Payoff (as defined below) pursuant to Section 3.1(a) of this Agreement, all ongoing commitments under the DIP Credit Agreement (as defined in the Final DIP Order) shall be canceled and terminated;
+
+9
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 11 of 60
+
+(xliii) to the extent Purchaser has not designated the purchaser or other assignee of any Assets (the "Residual Assets") as of December 31, 2018 (as may be extended by written agreement of the Parties, the "Designation Rights Termination Date"), (1) ownership of all cash (on hand, in the bank, in transit, or otherwise), credit card processing float, accounts receivable, notes receivable, credit card receivables, other receivables, deposits, security deposits, proceeds of retail sales in all of the Debtors' retail store locations, rights to refunds, other rights to payment, and Intellectual Property comprising Residual Assets shall vest in Purchaser or its nominee and (2) ownership of all other Residual Assets shall revert to the Debtors' estates, each on the Designation Rights Termination Date; and
+
+(xliv) this Agreement, the Approval Order, and all provisions hereof and thereof are binding on any successor to Merchant, including but not limited to any chapter 7 or chapter 11 trustee, and subject to Agent's obligation to pay Expenses and fund the Wind- Down Payment, any such successor shall continue to hold all Assets and Proceeds strictly in trust for the benefit of Purchaser.
+
+Section 3. Consideration to Merchant and Agent.
+
+3.1 Purchase Price. The aggregate consideration being provided to Merchant in exchange for Purchaser's rights and Merchant's obligations under this Agreement is as follows (collectively, the "Purchase Price), which shall be allocated among the Assets in accordance with Purchaser's bid letter dated April 4, 2018:
+
+(a) Cash Purchase Price. At the Closing and subject to the receipt of a payoff letter (the "Payoff Letter") in form and substance satisfactory to the DIP Administrative Agent, Agent shall (i) pay to the DIP Administrative Agent, for the benefit of the DIP Lenders, and certain other persons as directed in the Payoff Letter, the amount in cash (the "DIP Payoff") necessary to (1) indefeasibly pay the Pay-Off Amount (plus any Per Diem Interest) (as each such term is defined in the Payoff Letter), which amount shall include all DIP Obligations, including, without limitation, all outstanding principal, accrued interest, fees (including, without limitation, the outstanding Pre-Petition Tranche A Prepayment Premium and the Pre-Petition Specified Tranche A-1 Prepayment Premium (as each such term is defined in the DIP Credit Agreement)), costs and expenses (including, without limitation, all attorneys' fees, costs and expenses), (2) cash collateralize outstanding letters of credit in accordance with the DIP Credit Agreement, and (3) fund the DIP Indemnity Account in accordance with Paragraph 36 of the Final DIP Order, (ii) fund the Carve Out Account in the amount of $15,800,000 in accordance with the last two sentences of Paragraph 39(c) of the Final DIP Order to be held in escrow in the trust account of Young Conaway Stargatt & Taylor LLP, all as set forth in the Payoff Letter, and (iii) pay $3,000,000 to Merchant to provide liquidity for outstanding checks. Together, items (i), (ii), and (iii) are the "Cash Purchase Price." The Payoff Letter shall contain a release from each of the Merchant, the Agent and the Prepetition Second Lien Parties in favor of the DIP Lenders. Each capitalized term used but not defined in this Section 3.1(a) shall have the meaning set forth in the Final DIP Order.
+
+10
+
+
+
+
+
+Case 18-10248-MFW Doc 632-1 Filed 04/18/18 Page 12 of 60
+
+(b) Credit Bid. At the Closing, pursuant to the Credit Bid and as provided in the Approval Order, $125,000,000 of Notes Claims shall be deemed offset and exchanged for Purchaser's rights and Merchant's obligations under this Agreement.
+
+(c) Wind-Down Funding. Subject to the occurrence of the Closing, in addition to the Cash Purchase Price and the Credit Bid, Agent shall pay cash from the Proceeds of the Assets (or, solely to the extent the Proceeds are not available, funds provided by Agent) to Merchant from time to time after the Closing (the "Wind-Down Payment"), in the amount of $93,800,000 (the "Wind-Down Cap") for the purpose of paying certain administrative expenses of Merchant's bankruptcy estate as set forth in the Wind-Down Budget (as defined below). Payments from the Wind-Down Payment for Wind-Down Services are subject to and to be used solely as set forth in the budget and schedule attached as Exhibit 3.1(c) hereto (as may be amended from time to time by agreement of the Parties, subject to approval by Purchaser in its sole discretion and, solely with respect to compensation of the Committee's professionals, 503(b)(9) Claims, and Stub Rent Claims (each as defined below), subject to approval by the Committee, the "Wind-Down Budget"). Merchant shall provide Purchaser with a register of all checks and ACH/wire transfers Merchant intends to issue pursuant to the Wind-Down Budget at least one business day before issuance, which register shall identify the payees, amounts, and expense categories of such payments. If so requested by Purchaser, Merchant shall, to the extent commercially feasible, (i) establish separate bank accounts for specific categories of expenses identified in the Wind-Down Budget (the "Wind-Down Accounts"), (ii) deposit the portions of the Wind-Down Payment allocable to categories for which Wind-Down Accounts have been established into such accounts, and (iii) not pay from any Wind-Down Account any amounts other than the administrative expenses reflected in the Wind-Down Budget for the applicable category. Any portion of the Wind-Down Payment that has not been expended by Merchant as of the Designation Rights Termination Date shall revert and be returned to Purchaser upon the dismissal or conversion of Merchant's chapter 11 bankruptcy cases or the effective date of a plan of liquidation of Merchant. Any costs incurred by Merchant in connection with providing the Wind-Down Services (as defined below) shall be subject to the Wind-Down Budget and subject to the Wind-Down Cap and Merchant shall have no obligation to provide such Wind-Down Services unless the cost to do so is included in the Wind-Down Budget or provided for as an Expense.
+
+(d) Wind-Down / Expense Advance. As necessary from time to time on or before April 28, 2018, Agent shall advance (including through retention of Proceeds by Merchant) to Merchant the aggregate sum of $50,000,000 (the "Wind-Down / Expense Advance") solely for payment of (i) Expenses (as defined below) and (ii) administrative expenses reflected in the Wind-Down Budget, as and when due. Any payment from the Wind-Down / Expense Advance (a) of expenses reflected in the Wind-Down Budget shall be credited against the Wind-Down Payment and (b) of Expenses shall constitute a payment of Expenses by Agent. The Wind-Down / Expense Advance shall, to the extent commercially feasible, be held in a segregated account and shall not be used for payment of any amounts other than as set forth in this paragraph 3.1(d).
+
+(e) Expenses. After the Closing, Agent shall be responsible for the payment of all Expenses pursuant to Section 4.1 below.
+
+(f) Assumption of Certain Claims.
+
+11
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 13 of 60
+
+(i) Upon the occurrence of the Closing, Agent shall assume the obligation to pay (a) $2,000,000 (the "503(b)(9) Cap") on account of claims against Merchant under section 503(b)(9) of the Bankruptcy Code ("503(b)(9) Claims") and (b) $8,000,000 (the "Stub Rent Cap") on account of claims against Merchant on account of stub rent ("Stub Rent"). An amount equal to the sum of the 503(b)(9) Cap and the Stub Rent Cap shall be placed into a segregated account established by Agent to be held in trust for the benefit of holders of 503(b)(9) Claims and Stub Rent Claims. To the extent the sum of all allowed Stub Rent Claims or 503(b)(9) Claims, as the case may be, exceeds the Stub Rent Cap or the 503(b)(9) Cap, as applicable, such claims shall be paid pro rata up to, and subject to, the Stub Rent Cap or the 503(b)(9) Cap, as applicable. All payments by Agent on account of Stub Rent Claims and 503(b)(9) Claims shall be paid directly to the applicable claimants and shall be credited against the Wind-Down Payment.
+
+(ii) Within ten days after entry of the Approval Order, Merchant shall file and serve upon each known trade creditor and landlord identified in Merchant's books and records as holding a 503(b)(9) Claim and/or a Stub Rent Claim a notice identifying such entity's respective 503(b)(9) Claim or Stub Rent Claim (the "Creditor Notice"). Each recipient of a Creditor Notice shall have twenty days to file with the Bankruptcy Court and serve upon Merchant, Purchaser, and the Committee a response to such Creditor Notice identifying with specificity any dispute regarding such entity's 503(b)(9) Claim and/or Stub Rent Claim. If no response is timely filed by a recipient of a Creditor Notice, the amount and priority of the 503(b)(9) Claim and/or Stub Rent Claim identified on such Creditor Notice shall be binding and conclusive upon the holder thereof, and such holder shall thereafter be barred from objecting to such amount and priority. If a recipient of a Creditor Notice timely files a response thereto, Merchant and Agent, in consultation with the Committee, shall use best efforts to resolve the dispute asserted therein, provided that disputes that cannot be resolved within ten days shall be resolved by the Bankruptcy Court at the next scheduled omnibus hearing thereafter. The actual out-of-pocket costs of preparing, filing, and serving the Creditor Notice shall be paid by Agent as an Expense. Within sixty days after the entry of the Approval Order, Merchant shall provide Agent with a reconciliation of all of the allowed 503(b)(9) Claims and allowed Stub Rent Claims. Purchaser shall have no obligation to investigate, assess, object to, or contest the merits of any 503(b)(9) Claims or Stub Rent Claims and is entitled to rely on the amounts included on such reconciliation.
+
+(iii) This paragraph 3.1(f) shall survive termination of this Agreement for any reason.
+
+3.2 Consideration to Purchaser.
+
+(a) Proceeds. Upon the payment of the Cash Purchase Price but subject to Agent's obligations to pay the Expenses and the Wind-Down Payment, all Proceeds shall be the exclusive property of Purchaser, subject to further distribution among the entities comprising Purchaser pursuant to any agreements between the entities comprising Purchaser and the Second Lien Noteholders.
+
+(b) Assets and Proceeds Held in Trust. Subject to Section 3.2(a), Merchant shall hold all of the Assets in trust for the benefit of Purchaser. Subject to Section 3.2(a), any
+
+12
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 14 of 60
+
+Proceeds received by, or otherwise in the possession of, Merchant at any time shall be segregated and held strictly in trust for the benefit of Purchaser, shall not be commingled with Merchant's own assets, shall not become property of Merchant's bankruptcy estate, and shall be paid over to Purchaser immediately. For the avoidance of doubt, the costs associated with maintaining the Assets available for sale pursuant to this Agreement shall be borne by Purchaser either as Expenses (as defined below) or through the Wind-Down Payment.
+
+(c) Merchant and Purchaser further agree that if at any time, Merchant holds any amounts due to Purchaser under this Agreement, Merchant may, in its discretion, offset such amounts being held by Merchant against any undisputed amounts due and owing by, or required to be paid by, Purchaser or Agent hereunder.
+
+(d) Remaining Merchandise. To the extent that there is Merchandise remaining at the Sale Termination Date (the "Remaining Merchandise"), such Remaining Merchandise shall be deemed automatically transferred to Agent free and clear of all liens, claims, and encumbrances. Agent and its affiliates shall be authorized to sell or otherwise dispose of the Remaining Merchandise with all logos, brand names, and other Intellectual Property intact, and shall be authorized to advertise the sale of the Remaining Merchandise using the Intellectual Property.
+
+3.3 Proceeds of GOB Sales.
+
+(a) Following the payment of the Cash Purchase Price but subject to Agent's obligation to pay Expenses and fund the Wind-Down Payment, Agent may (but shall not be required to) establish its own accounts (including without limitation credit card accounts and systems), dedicated solely for the deposit of the Proceeds of the GOB Sales (the "GOB Sale Proceeds") and the disbursement of amounts payable to Agent in connection with the GOB Sales (the "Agency Accounts"), and Merchant shall promptly, upon Agent's reasonable request, execute and deliver all necessary documents to open and maintain the Agency Accounts; provided, however, Agent shall have the right, in its sole and absolute discretion, to continue to use Merchant's Designated Deposit Accounts (as defined below) as the Agency Accounts in which case Merchant's Designated Deposit Accounts shall be deemed to be Agency Accounts. Agent shall exercise sole signatory authority and control with respect to the Agency Accounts. The Agency Accounts shall be dedicated solely to the deposit of GOB Sale Proceeds and other amounts contemplated by this Agreement in connection with the GOB Sale and the distribution of amounts payable hereunder in connection with the GOB Sale. Merchant shall not be responsible for, and Agent shall pay as an Expense hereunder, all bank fees and charges, including wire transfer charges, related to the GOB Sale and the Agency Accounts. Upon Agent's notice to Merchant of Agent's designation of the Agency Accounts (other than Merchant's Designated Deposit Accounts), all GOB Sale Proceeds (including credit card GOB Sale Proceeds) shall be deposited into the Agency Accounts.
+
+(b) Agent shall have the right to use Merchant's credit card facilities, including Merchant's credit card terminals and processor(s), credit card processor coding, Merchant's identification number(s) and existing bank accounts for credit card transactions relating solely to the GOB Sale. In the event that Agent elects to use Merchant's credit card facilities, Merchant shall process credit card transactions on behalf of Agent and for Agent's account, applying
+
+13
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 15 of 60
+
+customary practices and procedures. Without limiting the foregoing, Merchant shall cooperate with Agent to download data from all credit card terminals each day during the Sale Term to effect settlement with Merchant's credit card processor(s), and shall take such other actions necessary to process credit card transactions on behalf of Agent under Merchant's identification number(s). At Agent's request, Merchant shall cooperate with Agent to establish Merchant's identification numbers under Agent's name to enable Agent to process all such credit card GOB Sale Proceeds for Agent's account. Merchant shall not be responsible for, and Agent shall pay as an Expense hereunder, all credit card fees, charges, and chargebacks related to the GOB Sale, whether received during or after the Sale Term. Agent shall not be responsible for, as an Expense or otherwise, any credit card fees, charges, or chargebacks relating to periods prior to the Closing.
+
+(c) Unless and until Agent establishes its own Agency Accounts (other than Merchant's Designated Deposit Accounts), all GOB Sale Proceeds and other amounts contemplated by this Agreement (including credit card GOB Sale Proceeds), shall be collected by Merchant and deposited on a daily basis into depository accounts designated by, and owned and in the name of, Merchant for the Stores, which accounts shall be designated solely for the deposit of GOB Sale Proceeds and other amounts contemplated by this Agreement (including credit card GOB Sale Proceeds), and the disbursement of amounts payable to or by Agent hereunder (the "Designated Deposit Accounts"). All funds in the Designated Deposit Accounts shall at all times be held in trust for the benefit of Purchaser, subject to Agent's obligation to pay Expenses and fund the Wind-Down Payment. The Designated Deposit Accounts shall be cash collateral accounts, with all cash, credit card payments, checks and similar items of payment, deposits and any other amounts in such accounts being GOB Sale Proceeds or other amounts contemplated hereunder, and Merchant hereby grants to Purchaser, subject to Agent's obligation hereunder to fund the Wind-Down Payment and Expenses, a first priority senior security interest in each Designated Deposit Account and all funds on deposit in such accounts from and after the Closing.
+
+(d) Merchant shall take all actions necessary to designate Agent as an authorized signer on all Designated Deposit Accounts and to grant Agent the ability to initiate wire transfers from such Designated Deposit Accounts, provided that Purchaser's interest in the Designated Deposit Accounts shall be subject to Agent's obligation to pay Expenses and fund the Wind-Down Payment.
+
+(e) On each business day to the extent practicable, Merchant shall promptly pay to Agent by wire funds transfer all funds in the Designated Deposit Accounts (including, without limitation, GOB Sale Proceeds, GOB Sale Proceeds from credit card sales, and all other amounts) deposited into the Designated Deposit Accounts for the prior day(s), subject to Section 3.2(c) above.
+
+Section 4. Expenses.
+
+4.1 Subject to and only upon entry of the Approval Order, in addition to and not subject to the Wind-Down Payment or Wind-Down Cap, Agent shall be unconditionally responsible for all "Expenses," which shall be paid by Agent in accordance with Section 4.2
+
+14
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 16 of 60
+
+below. As used herein, "Expenses" shall mean the Store-level operating expenses that arise during the Sale Term, limited to the following:
+
+(a) actual payroll with respect to all Retained Employees used in connection with conducting the GOB Sale for actual days/hours worked at a Store during the Sale Term as well as payroll for any temporary labor engaged for the GOB Sale during the Sale Term;
+
+(b) any amounts payable by Merchant for benefits for Retained Employees (including FICA, unemployment taxes, workers' compensation and healthcare insurance, but excluding Excluded Payroll Benefits) for Retained Employees used in the GOB Sale, in an amount not to exceed 23% of the base payroll for all Retained Employees (the "Payroll Benefits Cap");
+
+(c) subject to Section 6.1, the actual Occupancy Expenses categorized on Exhibit 4.1(c) in all cases limited on a per Store, per diem basis not to exceed the respective aggregate monthly amounts shown on Exhibit 4.1(c);
+
+(d) Retention Bonuses for Retained Employees, as provided for in Section 9.4 below;
+
+(e) advertising and direct mailings relating to the GOB Sale, Store interior and exterior signage and banners, and sign-walkers, in each case relating to the GOB Sale, including the amounts set forth in section 15.1;
+
+(f) credit card fees, bank card fees, and chargebacks and credit/bank card discounts with respect to Merchandise sold in the GOB Sale;
+
+(g) bank service charges (for Store, corporate accounts, and Agency Accounts), check guarantee fees, and bad check expenses to the extent attributable to the GOB Sale;
+
+(h) costs for additional Supplies at the Stores necessary to conduct the GOB Sale as and to the extent requested by Agent;
+
+(i) all fees and charges required to comply with applicable laws in connection with the GOB Sale as and to the extent agreed to by Agent;
+
+(j) Store cash theft and other store cash shortfalls in the registers;
+
+(k) all actual costs and expenses associated with Agent's on-site supervision of the Stores and Distribution Centers, including (but not limited to) any and all fees, wages, taxes, third party payroll costs and expenses, and deferred compensation of Agent's field personnel, travel to, from or between the Stores and Distribution Centers, and out-of-pocket and commercially reasonable expenses relating thereto (including reasonable and documented corporate travel to monitor and manage the GOB Sale);
+
+(l) postage, courier and overnight mail charges requested by Agent to the extent relating to the GOB Sale;
+
+15
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 17 of 60
+
+(m) third party payroll processing expenses associated with the GOB Sale;
+
+(n) costs of transfers initiated by Agent of Merchandise and Additional Agent Merchandise between and among the Stores and Distribution Centers during the Sale Term, including delivery and freight costs, it being understood that Agent shall be responsible for coordinating such transfer of Merchandise;
+
+(o) retention payments for Merchant's corporate employees in an amount not to exceed $300,000 in the aggregate, subject to agreement of Merchant and Purchaser in their respective discretion;
+
+(p) to the extent Agent elects to use Merchant's e-commerce site and related sales platform ("E-Commerce Platform"), costs of operating the E- Commerce Platform equal to (i) actual expenses to operate the E-Commerce Platform in an amount equal to $300,000 per week (prorated for partial weeks), plus (ii) the actual costs of shipping Online Merchandise to customers who purchase such Online Merchandise through the E-Commerce Platform from the Sale Commencement Date through and including the date that is seven (7) days after Agent provides Merchant with notice of Agent's intention to discontinue using the E-Commerce Platform as a sales platform to fulfill customer orders, plus (iii) actual marketing expenses related to the E-Commerce Platform specifically requested by Agent in writing (including by email) such as, but not limited to, paid search and external advertising; and
+
+(q) compensation of a consumer privacy ombudsman, if one is appointed by the United States Trustee, subject to approval of such compensation by the Bankruptcy Court.
+
+Notwithstanding anything herein to the contrary, to the extent that any Expense category listed in section 4.1 is also included on Exhibit 4.1(c), Exhibit 4.1(c) shall control and such Expenses shall not be double counted. There will be no double counting or payment of Expenses to the extent that Expenses appear or are contained in more than one Expense category.
+
+As used herein, the following terms have the following respective meanings:
+
+(i) "Central Service Expenses" means costs and expenses for Merchant's central administrative services necessary for the GOB Sale, including, but not limited to, internal payroll processing, MIS services, cash and inventory reconciliation, data processing and reporting, information technology updates, functionality, and maintenance, and accounting (collectively, "Central Services").
+
+(ii) "Excluded Payroll Benefits" means (i) the following benefits arising, accruing or attributable to the period prior to, during, or after the Sale Term: (w) vacation days or vacation pay, (x) sick days or sick leave or any other form of paid time off, (y) maternity leave or other leaves of absence and (z) ERISA coverage and similar contributions and/or (ii) any other benefits in excess of the Payroll Benefits Cap, including, without limitation, any payments due under the WARN Act.
+
+(iii) "Occupancy Expenses" means, with respect to the Stores, base rent, percentage rent, HVAC, utilities, CAM, storage costs, real estate and use taxes, Merchant's association dues and expenses, utilities expenses, cash register maintenance, routine repairs,
+
+16
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 18 of 60
+
+building maintenance, trash and snow removal, housekeeping and cleaning expenses, local and long-distance telephone and internet/wifi expenses, security (including, without limitation, security systems, courier and guard service, building alarm service and alarm service maintenance), and rental for furniture, fixtures and equipment.
+
+(iv) "Third Party" means, with reference to any Expenses to be paid to a Third Party, a party which is not affiliated with or related to Merchant.
+
+(v) Notwithstanding any other provision of this Agreement to the contrary, "Expenses" shall not include: (i) Excluded Payroll Benefits; (ii) Central Service Expenses, (iii) Occupancy Expenses or any occupancy-related expenses of any kind or nature in excess of the respective per Store occupancy- related amounts expressly provided for as an Expense under Section 4.1(c) above; (iv) any expenses of any kind relating to or arising from Merchant's home office, and/or (v) any other costs, expenses or liabilities payable by Merchant not provided for herein, all of which shall be paid solely by Merchant (including from the Wind-Down Payment, to the extent provided in the Wind-Down Budget).
+
+4.2 Payment of Expenses.
+
+Subject to and only upon entry of the Approval Order, Agent shall be responsible for the payment of all Expenses out of Proceeds (or from Agent's own accounts if and to the extent there are insufficient Proceeds). All Expenses incurred during each week of the GOB Sale (i.e. Sunday through Saturday) shall be paid by Agent to or on behalf of Merchant, or paid by Merchant and thereafter reimbursed by Agent as provided for herein; provided, however, in the event that the actual amount of an Expense is unavailable on the date of the reconciliation (such as payroll), Merchant and Agent shall agree to an estimate of such amounts, which amounts will be reconciled once the actual amount of such Expense becomes available. Agent and/or Merchant may review or audit the Expenses at any time.
+
+4.3 Distribution Center Expenses
+
+Agent shall be responsible for allocating and designating the shipment of Merchandise from Merchant's Distribution Centers to the Stores. All costs and expenses of operating the Distribution Centers, including, but not limited to, use and occupancy expenses, Distribution Center employee payroll and other obligations, and/or processing, transferring, consolidating, shipping, and/or delivering goods within or from the Distribution Centers (the "Distribution Center Expenses"), shall be borne by Agent as an Expense except to the extent provided for in the Wind-Down Budget.
+
+Section 5. Merchandise.
+
+5.1 Merchandise Subject to This Agreement.
+
+(a) "Excluded Goods" means all (1) goods that are not owned by Merchant, including but not limited to goods that belong to sublessees, licensees, department lessees, or concessionaires of Merchant and (2) goods held by Merchant on memo, on consignment (except to the extent otherwise agreed by the applicable consignor), or as bailee. Merchant shall be
+
+17
+
+
+
+
+
+Case 18-10248-MFW Doc 632-1 Filed 04/18/18 Page 19 of 60
+
+solely responsible for the disposition and/or abandonment of all Excluded Goods and all costs, expenses, and obligations associated therewith. Purchaser shall incur no cost, expense, or obligation in connection with any Excluded Goods.
+
+(b) "Merchandise" means all goods owned by Merchant for resale as of the occurrence of the Closing, other than Excluded Goods.
+
+(c) "On-line Merchandise" means all inventory that is both (i) designated for sale through the E-Commerce Platform as of the Sale Commencement Date and (ii) located in Merchant's West Jefferson Distribution Center as of the Sale Commencement Date.
+
+5.2 Distribution Center Allocation. Allocation and designation of Merchandise located in the Distribution Centers to the Stores shall be in Agent's sole discretion, subject to the Wind-Down Budget.
+
+Section 6. Sale Term.
+
+6.1 Term. Subject to satisfaction of the conditions precedent set forth in Section 10 hereof, the GOB Sale shall commence at each Store on a date determined by Agent in its sole discretion after the occurrence of the Closing (the "Sale Commencement Date") and shall end at each Store no later than August 31, 2018 (the "Sale Termination Date", and the period from the Sale Commencement Date to the Sale Termination Date as to each Store being the "Sale Term"), provided that the Sale Commencement Date shall occur no later than April 19, 2018. Agent may, in its discretion, earlier terminate the GOB Sale on a Store-by- Store basis upon not less than seven (7) days' prior written notice (a "Vacate Notice") to Merchant (the "Vacate Date"), provided, that it being understood that Agent's obligations to pay all Expenses, including Occupancy Expenses, for each Store subject to a Vacate Notice shall continue until the applicable Vacate Date, provided, however, that, with respect to Occupancy Expenses, Agent's obligations to pay all Occupancy Expenses for each Store shall continue until the last day of the calendar month in which the Vacate Date occurs for such Store.
+
+6.2 Vacating the Stores. At the conclusion of the GOB Sale, Agent agrees to leave each Store in "broom clean" condition, ordinary wear and tear excepted, except for unsold items of Owned FF&E which may be abandoned by Agent in place in a neat and orderly manner pursuant to Section 7 below. Agent shall vacate each Store on or before the Sale Termination Date as provided for herein, at which time Agent shall surrender and deliver the Store premises, and Store keys, to Merchant unless the applicable Lease is being conveyed pursuant to the Lease/Contract Designation Rights. Agent's obligations to pay all Expenses for the Stores shall continue as provided for in Section 6.1.
+
+Section 7. FF&E.
+
+7.1 Abandonment of FF&E. Agent shall be authorized to abandon any and all FF&E, whether owned or not by Merchant, in place without any cost or liability to Agent. For the avoidance of doubt, Agent shall have no responsibility whatsoever with respect to FF&E that is not owned by Merchant, provided that nothing in this Section 7 shall limit Agent's rights with
+
+18
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 20 of 60
+
+respect to Owned FF&E under the Asset Designation Rights or with respect to leased FF&E under the Lease/Contract Designation Rights.
+
+Section 8. Conduct of the GOB Sale.
+
+8.1 Rights of Agent. Subject to entry of the Approval Order, in addition to any other rights granted to Agent elsewhere in this Agreement, Agent shall be permitted to conduct the GOB Sale as a "going out of business", "store closing", "sale on everything", "everything must go", or similar themed sale throughout the Sale Term without compliance with any Liquidation Sale Laws. The Agent shall conduct the GOB Sale in the name of and on behalf of Merchant in a commercially reasonable manner and in compliance with the terms of this Agreement and subject to the Approval Order. Agent shall conduct the GOB Sale in accordance with the sale guidelines attached hereto as Exhibit 8.1(the "Sale Guidelines"). In addition to any other rights granted to Agent hereunder in conducting the GOB Sale the Agent, in the exercise of its reasonable discretion shall have the right:
+
+(a) to establish Sale prices and discounts and Store hours;
+
+(b) except as otherwise expressly included as an Expense, to use without charge during the Sale Term all FF&E, computer hardware and software, existing Supplies, intangible assets (including Merchant's name, logo and tax identification numbers), Store keys, case keys, security codes and safe and lock combinations required to gain access to and operate the Stores, and any other assets of Merchant located at the Stores (whether owned, leased, or licensed);
+
+(c) (i) consistent with the Wind-Down Budget, to be provided by Merchant with central office facilities, central administrative services and personnel to process and perform Central Services and provide other central office services reasonably necessary for the GOB Sale; (ii) to use reasonably sized offices located at Merchant's central office facility to effect the GOB Sale; and (iii) to use all customer lists, mailing lists, email lists, and web and social networking sites utilized by Merchant in connection with its business (to the extent such items can be segregated to the Stores and solely in connection with the GOB Sale and pursuant to such reasonable restrictions requested by Merchant in order for Merchant to comply with its privacy policy and applicable laws governing the use and dissemination of confidential consumer personal data);
+
+(d) to establish and implement advertising, signage and promotion programs consistent with the "going out of business", "store closing", "sale on everything", "everything must go", or similar themed sale, including without limitation by means of media advertising, and similar interior and exterior signs and banners, and the use of sign walkers, each at Agent's expense; and
+
+(e) to transfer Merchandise between and among the Stores and Distribution Centers at Agent's expense.
+
+8.2 Terms of Sales to Customers; Final/As Is Sales. All sales of Merchandise will be "final sales" and "as is," and appropriate signage and sales receipts will reflect the same. Agent
+
+19
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 21 of 60
+
+shall not warrant the Merchandise in any manner, but will, to the extent legally permissible, pass on all manufacturers' warranties to customers. All sales will be made only for cash or nationally recognized bank credit cards. Upon entry of the Approval Order, Agent shall not accept or honor coupons during the Sale Term. The Agent shall clearly mark all receipts for the Merchandise sold at the Stores during the Sale Term so as to distinguish such Merchandise from the goods sold prior to the Sale Commencement Date. Unless otherwise agreed between Agent and the issuer of Merchant's private-label credit cards ("PLCCs"), Agent shall not accept PLCCs as a form of payment during the Sale.
+
+8.3 Sales Taxes.
+
+(a) During the Sale Term, all sales, excise, gross receipts and other taxes attributable to sales of Merchandise and Additional Agent Merchandise, as indicated on Merchant's point of sale equipment (other than taxes on income) payable to any taxing authority having jurisdiction (collectively, "Sales Taxes") shall be added to the sales price of Merchandise and Additional Agent Merchandise and collected by Agent, on Merchant's behalf, at the time of sale. All Sales Taxes shall be deposited into a segregated account designated by Merchant and Agent solely for the deposit of such Sales Taxes (the "Sales Taxes Account"). Merchant shall prepare and file all applicable reports and documents required by the applicable taxing authorities, and Merchant shall promptly pay all Sales Taxes from the Sales Taxes Account. Merchant will be given access to the computation of gross receipts for verification of all such tax collections. Provided that Agent performs its responsibilities in accordance with this Section 8.3, Agent shall have no further obligation to Merchant, any taxing authority, or any other party, and Merchant shall indemnify and hold harmless Agent from and against any and all costs, including, but not limited to, reasonable attorneys' fees, assessments, fines or penalties which Agent sustains or incurs as a result or consequence of the failure by Merchant to promptly pay such taxes to the proper taxing authorities and/or the failure by Merchant to promptly file with such taxing authorities all reports and other documents required by applicable law to be filed with or delivered to such taxing authorities. If Agent fails to perform its responsibilities in accordance with this Section 8.3, and provided Merchant complies with its obligations hereunder, Agent shall indemnify and hold harmless Merchant from and against any and all costs, including, but not limited to, reasonable attorneys' fees, assessments, fines or penalties which Merchant sustains or incurs as a result or consequence of the failure by Agent to collect Sales Taxes and/or the failure by Agent to promptly deliver any and all reports and other documents required to enable Merchant to file any requisite returns with such taxing authorities.
+
+(b) Without limiting the generality of Section 8.3(a) hereof, it is hereby agreed that, as Agent is conducting the GOB Sale solely as agent for Merchant, various payments that this Agreement contemplates that one party may make to the other party (including the payment by Agent of the Guaranteed Amount) do not represent the sale of tangible personal property and, accordingly, are not subject to Sales Taxes.
+
+8.4 Supplies. Agent shall have the right to use, without charge, all existing supplies located at the Stores, Distribution Centers and corporate office(s), including, without limitation, boxes, bags, paper, twine and similar sales materials (collectively, "Supplies"). In the event that additional Supplies are required in any of the Stores during the GOB Sale, Merchant agrees to
+
+20
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 22 of 60
+
+promptly provide the same to Agent, if available, for which Agent shall reimburse Merchant at Merchant's cost therefor.
+
+8.5 Returns of Merchandise. Agent shall accept returns of goods sold by Merchant prior to the Closing for a period of ten days from and including the Sale Commencement Date. Thereafter, Agent shall have no obligation to accept returns of goods sold by Merchant prior to the Closing. Agent's acceptance of returns shall not impact the Wind-Down Budget or the Wind-Down Cap.
+
+8.6 Gift Certificates & Credits. Agent shall accept Merchant's gift certificates, gift cards, store credits, return credits, or similar merchandise credits issued by Merchant (collectively, "Gift Certificates") for a period of ten days from and including the Sale Commencement Date. Thereafter, Agent shall have no obligation to accept Gift Certificates. Agent's acceptance of Gift Certificates shall not impact the Wind-Down Budget or the Wind-Down Cap.
+
+8.7 Right to Monitor. Merchant shall have the right to monitor the GOB Sale and activities attendant thereto and to be present in the Stores during the hours when the Stores are open for business; provided that Merchant's presence does not unreasonably disrupt the conduct of the Sale. Merchant shall also have a right of access to the Stores at any time in the event of an emergency situation and shall promptly notify Agent of such emergency.
+
+8.8 Sale Reconciliation. On each Wednesday during the Sale Term, Agent and Merchant shall cooperate to reconcile Expenses, make payments/setoffs on account of the GOB Sale Proceeds and reconcile such other GOB Sale-related items as either party shall reasonably request, in each case for the prior week or partial week (i.e. Sunday through Saturday), all pursuant to procedures agreed upon by Merchant and Agent (the "Weekly Sale Reconciliation"). Within thirty (30) days after the end of the Sale Term, or as soon as practicable thereafter, Agent and Merchant shall complete a final reconciliation of the Sale (the "Final Reconciliation"), the written results of which shall be certified by representatives of each of the Merchant and Purchaser as a final settlement of accounts between the Merchant and Purchaser with respect to the GOB Sale. Within five (5) days after the completion of the Final Reconciliation and execution of a settlement letter including an appropriate mutual release for the benefit of Merchant and Purchaser, Agent shall pay to Merchant, or Merchant shall pay to Agent, as the case may be, any and all amounts due the other pursuant to the Final Reconciliation. The Approval Order shall provide that the Final Reconciliation, once agreed to by Merchant and Purchaser, shall be automatically deemed approved pursuant to Bankruptcy Code section 105(a) and Rule 9019 of the Federal Rules of Bankruptcy Procedure without further order of the Bankruptcy Court or action by any party. During the Sale Term, and thereafter until all of Merchant's and Purchaser's and Agent's obligations under this Agreement have been satisfied, Merchant and Purchaser shall have reasonable access to Merchant's and Purchaser's records with respect to the GOB Sale (including, but not limited to Merchandise, GOB Sale Proceeds, and Expenses) to review and audit such records.
+
+21
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 23 of 60
+
+8.9 Additional Agent Merchandise.
+
+(a) Agent shall be entitled to include in the Sale additional merchandise procured by Agent which is of like kind as, and no lesser quality to, the Merchandise located in the Stores ("Additional Agent Merchandise"). Agent shall be responsible for payment of all costs associated with any Additional Agent Merchandise. All proceeds of the sale of Additional Agent Merchandise shall remain the exclusive property of Agent.
+
+(b) The Additional Agent Merchandise shall be at all times subject to the control of Agent. If requested by Agent, Merchant shall, at Agent's expense, insure the Additional Agent Merchandise and, if required, promptly file any proofs of loss with regard to same with Merchant's insurers.
+
+(c) Any transactions relating to the Additional Agent Merchandise are, and shall be construed as, a true consignment from Agent to Merchant. Merchant acknowledges, and the Approval Order (as and when applicable) shall provide, that the Additional Agent Merchandise shall be consigned to Merchant as a true consignment under Article 9 of the Uniform Commercial Code in effect in the State of Delaware (the "UCC"). Agent is hereby, and shall be through the Approval Order, granted a first priority security interest in (i) the Additional Agent Merchandise and (ii) the Additional Agent Merchandise Proceeds, which security interest shall be deemed perfected pursuant to the Approval Order without the requirement of filing UCC financing statements or providing notifications to any prior secured parties (provided that Agent is hereby authorized to deliver any notices and file any financing statements and amendments thereof under the applicable UCC identifying Agent's interest in the Additional Agent Merchandise and any proceeds from the sale thereof as consigned goods thereunder and Merchant as the consignee therefor, and Agent's security interest in such Additional Agent Merchandise and Additional Agent Merchandise proceeds.
+
+(d) Agent shall provide signage in the Stores notifying customers that the Additional Agent Merchandise has been included in the Sale.
+
+8.10 E-Commerce Platform. Subject to the Wind-Down Budget and payment of Expenses, Agent shall use the E-Commerce Platform in connection with the GOB Sale to fulfill customer orders made during the GOB Sale Term and otherwise promote the GOB Sale (in Agent's capacity as Agent hereunder), provided that Agent shall have the option, in its sole discretion, to terminate the use of the E-Commerce Platform at any time after four weeks of use. During the use of the E-Commerce Platform, and consistent with the Wind-Down Budget (i) Merchant shall continue to provide for the operation and maintenance of the E-Commerce Platform, including information technology and E-Commerce Platform updates, and provide Agent with all assistance with respect to the functionality of the E-Commerce Platform, fulfillment of orders, and promotion of the GOB Sale and (ii) Agent shall pay as an Expense those amounts reflected in Section 4.1(p) through and including the date that is seven (7) days after Agent provides Merchant with notice of Agent's intention to discontinue using the E-Commerce Platform as a sales platform to fulfill customer orders (the "LDOB Date"); provided, however, that, if Agent continues the Sale at the Stores after the LDOB Date, Merchant shall, as a Central Service and at no cost or expense to Agent (other than as provided in the Wind-Down Budget), maintain the E-Commerce Platform with limited functionality for the limited purposes
+
+22
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 24 of 60
+
+of advertising and promoting the Sale at the Stores, periodically updating such advertising and promotions, and maintaining and updating the Store locator function at no cost or expense to Agent. With respect to the E-Commerce Platform, (i) Agent shall be authorized to sell Additional Agent Goods through the E- Commerce Platform and (ii) the Parties may implement such other processes, procedures, and agreements as may be necessary or appropriate for the efficient and continued operation of the E-Commerce Platform. In the event Agent elects to discontinue using the E-Commerce Platform as a sales platform to fulfill customer orders, Merchant agrees that neither Merchant nor any other person or entity shall complete any sale of goods for Merchant's or any other person's or entity's account utilizing the E-Commerce Platform during the GOB Sale Term, Merchant shall otherwise comply with Merchant's obligations under this Agreement in respect of the E-Commerce Platform, and Merchant shall, as a Central Service and at no cost or expense to Agent (other than as provided in the Wind-Down Budget), maintain the E-Commerce Platform with limited functionality for the limited purposes of advertising and promoting the GOB Sale at the Stores, periodically updating such advertising and promotions, and maintaining and updating the Store locator function. As part of the Allocation Schedule, Merchant and Agent shall mutually agree upon an allocation of certain On-line Merchandise to be promptly delivered to the Stores and not sold through the E-Commerce Platform (the "Designated On-line Merchandise"). In the event Agent ceases using the E-Commerce Platform as a sales platform prior to the Sale Termination Date, Merchant shall be responsible for processing and ticketing all Merchandise not sold through the E-Commerce Platform for sale in the Stores and delivering any remaining On-line Merchandise (the "Remaining On-line Merchandise") to the Stores according to a mutually agreed upon allocation schedule.
+
+Section 9. Employee Matters.
+
+9.1 Merchant's Employees. Subject to the Wind-Down Budget and payment of Expenses, Agent may use Merchant's employees in the conduct of the Sale to the extent Agent deems necessary for the Sale, and Agent may select and schedule the number and type of Merchant's employees required for the Sale. Agent shall identify any such employees to be used in connection with the Sale (each such employee, a "Retained Employee"). Notwithstanding the foregoing, Merchant's employees shall at all times remain employees of Merchant. Agent's selection and scheduling of Merchant's employees shall at all times comply with all applicable laws and regulations. Merchant and Agent agree that, except to the extent that wages and benefits of Retained Employees constitute Expenses hereunder, nothing contained in this Agreement and none of Agent's actions taken in respect of the Sale shall be deemed to constitute an assumption by Agent of any of Merchant's obligations relating to any of Merchant's employees including, without limitation, Excluded Payroll Benefits, Worker Adjustment Retraining Notification Act ("WARN Act") claims and other termination type claims and obligations, or any other amounts required to be paid by statute or law; nor shall Agent become liable under any employment agreement, collective bargaining agreement, or be deemed a joint or successor employer with respect to such employees. For the avoidance of doubt, Merchant shall be responsible for providing any required notice under the WARN Act with respect to its employees and otherwise comply with the WARN Act with respect to any "plant closing" or "mass layoff' (as defined in the WARN Act) or group termination or similar event affecting the employees, whether before or after the date of this Agreement. Merchant shall not, without the prior consent of Agent, raise the salary or wages or increase the benefits for, or pay any bonuses
+
+23
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 25 of 60
+
+or other extraordinary payments to, any Store or Distribution Center employees prior to the Sale Termination Date. Merchant shall not transfer any employee in anticipation of the Sale nor any Retained Employee during the Sale Term, in each case without Agent's prior consent. To the extent reasonably requested by Agent, and at Agent's expense, Merchant shall use commercially reasonable efforts to hire additional temporary employees to facilitate the GOB Sale, which employees shall constitute Retained Employees for purposes of this Agreement.
+
+9.2 Termination of Employees. Agent may in its discretion stop using any Retained Employee at any time during the Sale, subject to the conditions provided for herein. In the event that Agent desires to cease using any Retained Employee, Agent shall notify Merchant at least seven (7) days prior thereto; provided, however, that, in the event that Agent determines to cease using an employee "for cause" (such as dishonesty, fraud or breach of employee duties), the seven (7) day notice period shall not apply; provided, further, however, that Agent shall immediately notify Merchant of the basis for such "cause." From and after the date of this Agreement and until the Sale Termination Date, Merchant shall not transfer or dismiss employees of the Stores or Distribution Centers except "for cause" without Agent's prior consent. Notwithstanding the foregoing, Agent shall not have the right to terminate the actual employment of any employee, but rather may only cease using such employee in the Sale and paying any Expenses with respect to such employee (and all decisions relating to the termination or non-termination of such employees shall at all times rest solely with Merchant).
+
+9.3 Payroll Matters. During the Sale Term, Merchant shall process the payroll for all Retained Employees and any former employees and temporary labor engaged for the Sale. Each Wednesday (or such other date as may be reasonably requested by Merchant to permit the funding of the payroll accounts before such payroll is due and payable) during the Sale Term, Agent shall transfer to Merchant's payroll accounts an amount equal to the base payroll for Retained Employees plus related payroll taxes, workers' compensation and benefits for such week, to the extent such amount constitutes Expenses hereunder.
+
+9.4 Employee Retention Bonuses. Subject to approval by the Bankruptcy Court, Agent may pay, as an Expense, retention bonuses and/or severance pay ("Retention Bonuses") (which bonuses shall be inclusive of payroll taxes, but as to which no benefits shall be payable), up to a maximum of $7,400,000 in the aggregate, to such Retained Employees who do not voluntarily leave employment, are not otherwise entitled to receive severance pay, and are not terminated "for cause," as Agent may determine in its discretion. Subject to approval by the Bankruptcy Court, the amount of such Retention Bonuses shall be in an amount to be determined by Agent, in its discretion, and shall be payable within thirty (30) days after the Sale Termination Date, and shall be processed through Merchant's payroll system.
+
+Section 10. Conditions Precedent and Subsequent.
+
+(a) The willingness of Purchaser to enter into the transactions contemplated under this Agreement, and the occurrence of the Closing, are directly conditioned upon the satisfaction of the following conditions at the time or during the time periods indicated, unless specifically waived in writing by Purchaser in its sole discretion:
+
+24
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 26 of 60
+
+(i) Entry of the Approval Order shall have occurred no later than April 18, 2018;
+
+(ii) All representations and warranties of Merchant hereunder shall be true and correct in all material respects as of the Closing, and Merchant shall have in all material respects performed the obligations and complied with the covenants required by this Agreement to be performed or complied with by it prior to the Closing; and
+
+(iii) All of the Parties shall have executed this Agreement.
+
+(b) The willingness of Merchant to enter into the transactions contemplated under this Agreement, and the occurrence of the Closing, are directly conditioned upon the satisfaction of the following conditions at the time or during the time periods indicated, unless specifically waived in writing by Merchant:
+
+(i) The Bankruptcy Court shall have entered the Approval Order no later than April 18, 2018;
+
+(ii) All representations and warranties of Purchaser hereunder shall be true and correct in all material respects as of the Closing, and Purchaser shall have in all material respects performed the obligations and complied with the covenants required by this Agreement to be performed or complied with by it prior to the Closing; and
+
+(iii) All of the Parties shall have executed this Agreement.
+
+Section 11. Representations, Warranties and Covenants.
+
+11.1 Merchant's Representations, Warranties and Covenants. Merchant hereby represents, warrants and covenants in favor of Purchaser as follows:
+
+(a) As of the date of this Agreement and at the Closing, Merchant (i) is duly organized, validly existing and in good standing under the laws of State of Delaware; (ii) has all requisite corporate power and authority to own, lease and operate the Assets and to carry on its business as presently conducted; (iii) is, and during the Sale Term will continue to be, duly authorized and qualified to do business and in good standing in each jurisdiction where the nature of its business or properties requires such qualification, including all jurisdictions in which the Stores are located, except, in each case, to the extent that the failure to be in good standing or so qualified could not reasonably be expected to have a material adverse effect on the ability of Merchant to execute and deliver this Agreement and perform fully its obligations hereunder; and (iv) has paid when due, and until the sale or other disposition of all of the Assets, will continue to pay when due, all United States Trustee fees.
+
+(b) Subject only to entry of the Approval Order, Merchant, as of the date of this Agreement and at the Closing, has the right, power and authority to execute and deliver this Agreement and each other document and agreement contemplated hereby (collectively, together with this Agreement, the "Agency Documents") and to perform fully its obligations thereunder. Merchant has taken all necessary actions required to authorize the execution, delivery and performance of the Agency Documents, and no further consent or approval is required for
+
+25
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 27 of 60
+
+Merchant to enter into and deliver the Agency Documents, to perform its obligations thereunder and to consummate the Sale, except for any such consent the failure of which to be obtained could not reasonably be expected to prevent or materially delay or impair the ability of Merchant to execute and deliver this Agreement and perform fully its obligations hereunder. Each of the Agency Documents has been duly executed and delivered by Merchant and, upon the due authorization, counter-execution, and delivery of this Agreement by Purchaser, constitutes the legal, valid and binding obligation of Merchant enforceable in accordance with its terms.
+
+(c) The Cash Purchase Price determined pursuant to Section 3.1(a) above shall not exceed $574,831,000 as of April 19, 2018.
+
+(d) Merchant, as of the date of this Agreement and at the Closing, owns good and marketable title to all of the Assets, free and clear of all security interests, liens, claims and encumbrances of any nature other than the security interests securing the DIP Obligations (as defined in the Final DIP Order) and the Second-Lien Notes. Merchant shall not create, incur, assume or suffer to exist any security interest, lien or other charge or encumbrance upon or with respect to any of the Assets. From and after the Closing, subject to the Wind-Down Budget, Merchant shall perform such tasks and services as are necessary to maintain all of the Assets in salable condition, to preserve the Assets and the economic value thereof, and to maintain good, clear, and marketable title to all of the Assets at all times until all Assets have been sold or otherwise disposed of, and such tasks and services as Purchaser may otherwise reasonably request in connection with the Assets, including but not limited to paying all ad valorem taxes and utilities when due, performing all routine maintenance, cooperating with Purchaser to obtain the refund of all deposits and security deposits, and renewing all necessary licenses and registrations (collectively, all of the foregoing are the "Wind-Down Services").
+
+(e) Merchant has maintained its pricing files in the ordinary course of business, and prices charged to the public for goods are the same in all material respects as set forth in such pricing files for the periods indicated therein, all pricing files and records are true and accurate in all material respects as to the actual cost to Merchant for purchasing the goods referred to therein and as to the selling price to the public for such goods without consideration of any point of sale discounts, as of the dates and for the periods indicated therein. Merchant represents that (i) the ticketed prices of all items of Merchandise do not and shall not include any Sales Taxes and (ii) all registers located at the Stores are programmed to correctly compute all Sales Taxes required to be paid by the customer under applicable law, as such calculations have been identified to Merchant by its retained service provider.
+
+(f) Through the Sale Commencement Date, Merchant has ticketed or marked, and shall continue to ticket or mark, all items of inventory received at the Stores in a manner consistent with similar Merchandise located at the Stores, and in accordance with Merchant's ordinary course past practices and policies relative to pricing and marking inventory.
+
+(g) Since March 1, 2018, Merchant has not, and through the Sale Commencement Date Merchant shall not, purchase for or transfer to or from the Stores any merchandise or goods outside the ordinary course.
+
+26
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 28 of 60
+
+(h) To Merchant's knowledge after reasonable inquiry, all Merchandise is in compliance with all applicable federal, state and local product safety laws, rules and standards. Merchant shall provide Agent with its historic policies and practices, if any, regarding product recalls prior to the Sale Commencement Date.
+
+(i) Subject to the Wind-Down Budget, Merchant shall, throughout the Sale Term, maintain in good working order, condition, and repair all cash registers, heating systems, air conditioning systems, elevators, escalators and all other mechanical devices necessary or appropriate for the conduct of the Sale at the Stores. Except as otherwise restricted by the Bankruptcy Code upon filing of the Bankruptcy Case or the Wind-Down Budget, and absent a bona fide dispute, throughout the Sale Term, Merchant shall remain current on all expenses and payables necessary or appropriate for the conduct of the GOB Sale.
+
+(j) Subject the Wind-Down Budget, payment of Expenses by Agent, and approval by the Bankruptcy Court, Merchant has paid, and will continue to pay throughout the Sale Term, all self-insured or Merchant-funded employee benefit programs for Store employees, including health and medical benefits and insurance and all proper claims made or to be made in accordance with such programs.
+
+(k) Since March 1, 2018, Merchant has not taken, and shall not throughout the Sale Term take, any actions with the intent of increasing the Expenses of the Sale, including without limitation increasing salaries or other amounts payable to employees; except to the extent an employee was due an annual raise in the ordinary course.
+
+(l) Prior to the execution of this Agreement, Merchant has provided Agent reasonable access to all pricing and cost files, computer hardware, software and data files, inter-Stores transfer logs, markdown schedules, invoices, style runs and all other documents relative to the price, mix and quantities of inventory located at the Stores and the Distribution Centers or on order or in transit.
+
+(m) To Merchant's knowledge after reasonable inquiry, all documents, information and supplements provided by Merchant to Agent in connection with Agent's due diligence and the negotiation of this Agreement were true and accurate in all material respects at the time provided.
+
+(n) Other than filing the Bankruptcy Case, no action, arbitration, suit, notice, or legal, administrative or other proceeding before any court or governmental body has been instituted by or against Merchant, or has been settled or resolved, or to Merchant's knowledge, is threatened against or affects Merchant, relative to Merchant's business or properties, or which questions the validity of this Agreement, or that if adversely determined, would adversely affect the conduct of the Sale.
+
+The representations set forth in Sections 11.1(e), (f), (g), and (h) shall not survive the Closing.
+
+11.2 Purchaser's Representations, Warranties and Covenants. Purchaser hereby represents, warrants and covenants in favor of Merchant as follows:
+
+27
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 29 of 60
+
+(a) Each member comprising Purchaser: (i) is duly and validly existing and in good standing under the laws of the State of its organization; (ii) has all requisite power and authority to carry on its business as presently conducted and to consummate the transactions contemplated hereby; (iii) is duly authorized and qualified to do business and in good standing in each jurisdiction where the nature of its business or properties requires such qualification, including, in the case of the entities comprising Agent, all jurisdictions in which the Stores are located, except, in each case, to the extent that the failure to be in good standing or so qualified could not reasonably be expected to have a material adverse effect on the ability of such member to execute and deliver this Agreement and perform fully its obligations hereunder.
+
+(b) To the extent permitted and authorized under the Indenture, (i) each member comprising Purchaser has the right, power and authority to execute and deliver each of the Agency Documents to which it is a party and to perform fully its obligations thereunder; (ii) each member comprising Purchaser has taken all necessary actions required to authorize the execution, delivery and performance of the Agency Documents, and no further consent or approval is required on the part of such member for such member to enter into and deliver the Agency Documents, to perform its obligations thereunder and to consummate the transactions contemplated thereby, and (iii) each of the Agency Documents has been duly executed and delivered by the members of Purchaser party thereto and, assuming the due authorization, execution, and delivery of this Agreement by Merchant, constitutes the legal, valid and binding obligation of such member enforceable in accordance with its terms, except as such enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium, and similar laws affecting the rights of creditors generally and by general principles of equity. No court order or decree of any federal, state or local governmental authority or regulatory body is in effect that would prevent or impair, or is required for, Purchaser's consummation of the transactions contemplated by this Agreement, and no consent of any third party which has not been obtained is required therefor, other than as provided herein. No contract or other agreement to which Purchaser is a party or by which Purchaser is otherwise bound will prevent or impair the consummation of the transactions contemplated by this Agreement.
+
+(c) No action, arbitration, suit, notice or legal administrative or other proceeding before any court or governmental body has been instituted by or against Purchaser, or has been settled or resolved or, to Purchaser's knowledge, has been threatened against or affects Purchaser, which questions the validity of this Agreement or any action taken or to be taken by Purchaser in connection with this Agreement or which, if adversely determined, would have a material adverse effect upon Purchaser's ability to perform its obligations under this Agreement.
+
+(d) The GOB Sale shall be conducted in compliance with all applicable state and local laws, rules and regulations and Merchant's leases and other agreements, except as otherwise provided for in the Sale Guidelines and Approval Order.
+
+(e) Absent prior consent by Merchant, Purchaser will not cause any non-emergency repairs or maintenance (emergency repairs are repairs necessary to preserve the security of a Store premise or to ensure customer safety) to be conducted at the Stores.
+
+(f) Purchaser shall not prosecute, or otherwise use offensively or defensively, Avoidance Actions against any of Merchant's (1) non-insider trade vendors or landlords,
+
+28
+
+
+
+
+
+Case 18-10248-MFW Doc 632-1 Filed 04/18/18 Page 30 of 60
+
+(2) employees and officers with respect to retention payments received pursuant to Retention Agreements in 2017, or (3) directors with respect to directors' fees received, and such Avoidance Actions shall be released as of the Closing. This paragraph 11.2(f) shall survive any termination of this Agreement for any reason.
+
+Section 12. Insurance.
+
+12.1 Merchant's Liability Insurance. Until the Designation Rights Termination Date or as otherwise directed by Purchaser or set forth in this Agreement, Merchant shall continue to maintain, subject to the Wind-Down Budget and the Wind-Down Cap, in such amounts as it currently has in effect, all of its liability insurance policies, including but not limited to commercial general liability, products liability, comprehensive public liability, auto liability and umbrella liability insurance, covering injuries to persons and property in, or in connection with, the Assets and/or Merchant's operation of its business and the Store and Distribution Centers; and Merchant shall cause Purchaser to be named as an additional named insured (as its interest may appear) with respect to all such policies. Merchant shall deliver to Purchaser certificates evidencing such insurance setting forth the duration thereof and naming Purchaser as an additional named insured, in form reasonably satisfactory to Purchaser. All such policies shall require at least thirty (30) days' prior notice to Purchaser of cancellation, non- renewal or material change. In the event of a claim under any such policies, Merchant shall be responsible for the payment of all deductibles, retentions or self- insured amounts thereunder (which may be reimbursed as an Expense and/or pursuant to the Wind-Down Payment, subject to the Wind-Down Budget and the Wind-Down Cap), unless it is determined that liability arose by reason of the willful misconduct or grossly negligent acts or omissions of Purchaser, or Purchaser's employees, independent contractors or agents. Merchant shall not make any change in the amount of any deductibles or self-insurance amounts on or after the date of this Agreement without Purchaser's prior written consent.
+
+12.2 Merchant's Casualty Insurance. Until the Designation Rights Termination Date or as otherwise directed by Purchaser or set forth in this Agreement, Merchant shall continue to maintain, subject to the Wind-Down Budget and the Wind-Down Cap, all of its presently existing property casualty coverage related to the Assets (including but not limited to fire, flood, wind, hail, natural disaster, theft, and extended coverage casualty insurance) until the sale or other disposition of all Assets covered by such policies. From and after the date of this Agreement, all such policies will also name Purchaser as an additional named insured or loss payee, as applicable (as its interest may appear). In the event of a loss to the Assets on or after the date of this Agreement, all proceeds of such insurance shall constitute Proceeds hereunder. Merchant shall deliver to Purchaser certificates evidencing such insurance, setting forth the duration thereof and naming Purchaser as an additional insured or loss payee, as applicable, in form and substance reasonably satisfactory to Purchaser. All such policies shall require at least thirty (30) days' prior notice to Purchaser of cancellation, non-renewal or material change. Merchant shall not make any change in the amount of any deductibles or self-insurance amounts on or after the date of this Agreement without Purchaser's prior written consent. Upon the sale, conveyance, or other disposition of any Asset specifically identified in any of Merchant's casualty insurance policies, Merchant, if reasonably requested by Purchaser, shall cancel the casualty coverage specifically applicable to such Asset.
+
+29
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 31 of 60
+
+12.3 Agent's Insurance. Agent shall maintain, at Agent's cost (as an Expense) and in such amounts as Agent currently has in effect, commercial general liability policies covering injuries to persons and property in or in connection with Agent's agency at the Stores and shall cause Merchant to be named as an additional insured with respect to such policies. Agent shall deliver to Merchant certificates evidencing such insurance policies setting forth the duration thereof and naming Merchant as an additional insured, in form and substance reasonably satisfactory to Merchant. In the event of a claim under any such policies, Agent shall be responsible for the payment of all deductibles, retentions or self-insured amounts thereunder, unless it is determined that liability arose by reason of the willful misconduct or grossly negligent acts or omissions of Merchant or Merchant's employees, independent contractors or agents (other than Agent or Agent's employees, agents or independent contractors). Agent shall not make any change in the amount of any deductibles or self-insurance amounts prior to the Sale Termination Date without Merchant's prior written consent.
+
+12.4 Worker's Compensation Insurance. Merchant shall, at all times while any employees are in its employ, maintain in full force and effect workers' compensation insurance (including employer liability insurance) in compliance with all statutory requirements.
+
+Section 13. Purchaser's Security Interest.
+
+Subject to Agent's obligation to pay Expenses and fund the Wind-Down Payment:
+
+(a) Upon the occurrence of the Closing, and solely to the extent that any Assets or Proceeds are, notwithstanding the Approval Order, subsequently determined to constitute property of Merchant's estate, Purchaser shall have a senior lien on all Assets and Proceeds, which lien shall be deemed by the Approval Order to be automatically perfected. The Approval Order shall grant Purchaser relief from the automatic stay, and nothing in the Approval Order shall inhibit Purchaser's ability, to take any action Purchaser deems appropriate to perfect such lien.
+
+(b) Upon the occurrence of the Closing and until all Assets have been sold or otherwise disposed of, and solely to the extent that any Assets or Proceeds are, notwithstanding the Approval Order, subsequently determined to constitute property of Merchant's estate, Purchaser shall have a superpriority administrative expense claim against Merchant to the extent of any amounts owing from Merchant to Purchaser in connection with this Agreement, including as a result of any breach of this Agreement.
+
+Section 14. Designation Rights.
+
+14.1 Lease/Contract Designation Rights.
+
+(a) Upon the occurrence of the Closing and until the earlier to occur of (i) the end of the Designation Rights Period applicable to a particular Lease or Contract and (ii) the Designation Rights Termination Date, Purchaser shall have the exclusive right to designate the assignees of Merchant's right, title, and interest in and to any or all of the Leases and Contracts (the "Lease/Contract Designation Rights") upon the terms and conditions agreed upon between Purchaser and such designee.
+
+30
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 32 of 60
+
+(b) Merchant shall cooperate reasonably with Purchaser to arrange for the sale and assignment of the Leases and Contracts, with such sale and assignment to be on such terms as Purchaser deems acceptable in its sole and absolute discretion. Without limiting the generality of the foregoing, Merchant agrees (1) to provide Purchaser with all due diligence materials and information as Purchaser shall reasonably request in connection with its efforts to market and attempt to sell the Leases and Contracts (including complete copies thereof and any abstracts prepared with respect thereto, and all communications with the counterparties thereunder, all property surveys, all environmental reports and tax and utility records), with Purchaser to bear all reasonable third party out-of- pocket costs and expenses relating thereto, in all cases to the extent reasonably available to Merchant, and (2) to cooperate with Purchaser, its agents, and any potential purchasers of any of the Leases and/or Contracts.
+
+(c) Solely to the extent requested by Purchaser, Merchant shall exercise renewal and/or extension options under the Leases and Contracts.
+
+(d) At any time prior to the earlier to occur of (i) the end of the Designation Rights Period applicable to a particular Lease or Contract and (ii) the Designation Rights Termination Date, Purchaser shall have the right, which right may be exercised at any time and from time to time, to file a Lease/Contract Assumption Notice in the Bankruptcy Cases designating the assignee (which may in certain circumstances be Purchaser, any of the entities comprising Purchaser, any of their respective affiliates, and/or a new entity created by any of the foregoing) of one or more Leases and/or Contracts (which may occur without further order of the Bankruptcy Court pursuant to the Approval Order) and setting forth the proposed cure amount due pursuant to section 365 of the Bankruptcy Code. The Approval Order shall provide that (a) the counterparties to the Leases or Contracts identified in any Lease/Contract Assumption Notice shall have twenty-one days to object to the proposed assumption and assignment, (b) if no objection to the proposed assumption and assignment of a Lease or Contract is timely received, such Lease or Contract shall, upon payment of the applicable cure payment, if any, to the applicable counterparty, automatically be deemed assumed by Merchant and assigned to the assignee identified in the Lease/Contract Assumption Notice pursuant to section 365 of the Bankruptcy Code, without further order of the Bankruptcy Court or further action by any person or entity, and (c) if an objection to the proposed assumption and assignment of a Lease or Contract is timely received, such Lease or Contract shall not be assumed or assigned until such objection is resolved by agreement of the applicable counterparty or order of the Bankruptcy Court.
+
+(e) The designee under any Lease/Contract Assumption Notice shall be required, if requested by the applicable counterparty, to provide adequate assurance of future performance with respect to such Lease or Contract if the applicable counterparty so requests.
+
+(f) Merchant shall have no responsibility for any cure amounts with respect to any Lease or Contract assumption and assignment.
+
+14.2 Asset Designation Rights.
+
+(a) Upon the occurrence of the Closing, Agent shall have the exclusive right to market and sell, and/or otherwise designate the purchasers, licensees, transferees, and/or
+
+31
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 33 of 60
+
+assignees of (which may in certain circumstances be Purchaser, any of the entities comprising Purchaser, any of their respective affiliates, and/or a new entity created by any of the foregoing), any or all of the Assets free and clear of all liens, claims, and encumbrances thereon, without further order of the Bankruptcy Court (the "Asset Designation Rights"). Subject to Agent's payment obligations hereunder, Agent is authorized to execute, in the name of and as agent for Merchant, any and all deeds, bills of sale, and other instruments or documents necessary to effectuate the sale, transfer, or other conveyance of any of the Assets.
+
+(b) Pursuant to the Approval Order, the sale or other conveyance of any Assets reflected in Asset Designation Notices filed in the Bankruptcy Cases from time to time by the Agent shall be automatically effective on the date reflected in the applicable Asset Designation Notice and subject to the satisfaction of any closing conditions reflected therein, and the sale, license, transfer, or other conveyance of such Assets shall be free and clear of all liens, claims, and encumbrances without further order of the Bankruptcy Court, provided, however, that nothing in the Approval Order shall inhibit the ability of Agent to seek other or further orders of the Court in connection with the sale or other disposition of any Assets.
+
+(c) Except to the extent provided for by the Wind-Down Budget, the costs of maintaining the Assets available for marketing and sale shall constitute Expenses. All costs of effectuating assumption and assignment shall be deemed an Expense hereunder.
+
+Section 15. Miscellaneous.
+
+15.1 Signage. On April 5, 2018, the Merchant purchased the signage, exclusive of freight, required for the Sale as set forth on Exhibit 15 directly from the sign vendor. The signage shall be delivered to the Stores so as to be received in accordance with Agent's instructions on or before the Sale Commencement Date. Upon entry of the Approval Order and simultaneous with the funding of the Cash Purchase Price, the Agent shall reimburse Merchant for one hundred percent (100%) of Merchant's actual (without mark-up or lift) documented out of pocket costs in an amount not to exceed $3,000,000 and shall directly pay as an Expense the freight costs associated with shipping such signage to the Stores.
+
+15.2 Notices. All notices and communications provided for pursuant to this Agreement shall be in writing and sent by electronic mail, as follows:
+
+If to Merchant: The Bon-Ton Stores, Inc. 2801 East Market Street York, PA 17402 Attention:
+
+With copies (which shall not constitute notice) to:
+
+Malfitano Partners Joseph A. Malfitano, PLLC 747 Third Ave., 2nd Floor
+
+32
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 34 of 60
+
+New York, NY 10017 Attn: Joseph A. Malfitano (jm@malfitanopartners.com) If to Purchaser: GA Retail, Inc. Attn: Scott Carpenter (scarpenter@greatamerican.com) Alan Forman (aforman@brileyfin.com) and Tiger Capital Group, LLC Attn: Christopher Huber (chuber@tigergroup.com) Mark Naughton (mnaughton@tigergroup.com) and Wilmington Savings Fund Society, FSB Attn: Patrick J. Healy (phealy@wsfsbank.com) With copies (which shall not constitute notice) to: Lowenstein Sandler LLP Counsel to Great American Group WF LLC Attn: Kenneth A. Rosen (krosen@lowenstein.com) Andrew Behlmann (abehlmann@lowenstein.com) and Kilpatrick Townsend & Stockton LLP Counsel to WSFS Attn: David Posner (dposner@kilpatricktownsend.com) and Jones Day Counsel to Second Lien Noteholders Attn: Sidney P. Levinson (slevinson@jonesday.com) Joshua M. Mester (jmester@jonesday.com) John Kane (jkkane@jonesday.com)
+
+15.3 Governing Law/Exclusive Jurisdiction. This Agreement shall be governed by and interpreted in accordance with the laws of the State of Delaware without reference to any conflict of laws provisions thereof, except where governed by the Bankruptcy Code. Each of the Parties irrevocably and unconditionally submits, for itself and its properties, to the exclusive jurisdiction of the Bankruptcy Court, in any action or proceeding arising out of or relating to this Agreement.
+
+33
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 35 of 60
+
+15.4 Amendments. This Agreement may not be modified except in a written instrument executed by all of the Parties, provided that any amendment or modification to Section 3.1(f) or 11.2(f) shall require the consent of the Committee.
+
+15.5 No Waiver. No consent or waiver by any Party, express or implied, to or of any breach or default by the other in the performance of its obligations hereunder shall be deemed or construed to be a consent or waiver to or of any other breach or default in the performance by such other Party of the same or any other obligation of such Party. Failure on the part of any Party to complain of any act or failure to act by the other Party or to declare the other Party in default, irrespective of how long such failure continues, shall not constitute a waiver by such Party of its rights hereunder.
+
+15.6 Currency. All reference to dollars in this Agreement and all schedules, exhibits, and ancillary documents related to this Agreement shall refer to U.S. dollars.
+
+15.7 Successors and Assigns. This Agreement shall inure to the benefit of and be binding upon the Parties and their respective successors and assigns, including, but not limited to, any chapter 11 or chapter 7 trustee; provided, however, that this Agreement may not be assigned by any of the Parties without the prior written consent of the other, provided further that notwithstanding the foregoing, GA and Tiger may each collaterally assign this Agreement and their rights thereunder to their respective lenders.
+
+15.8 Execution in Counterparts. This Agreement may be executed in one or more counterparts. Each such counterpart shall be deemed an original but all such counterparts together shall constitute one and the same agreement. This Agreement, to the extent signed and delivered by means of a facsimile machine, electronic mail, or other electronic transmission in which the actual signature is evident, shall be treated in all manner and respects as an original agreement or instrument and shall be considered to have the same binding legal effect as if it were the original signed version thereof delivered in person. At the request of any Party, each other Party shall re-execute original forms hereof and deliver them to all other Parties. No Party shall raise the use of a facsimile machine, electronic mail, or other electronic transmission in which the actual signature is evident to deliver a signature or the fact that any signature or agreement or instrument was transmitted or communicated through the use of a facsimile machine, electronic mail or other electronic transmission in which the actual signature is evident as a defense to the formation of a contract and each Party forever waives such defense. In proving this Agreement, it shall not be necessary to produce or account for more than one such counterpart signed by the Party against which enforcement is sought.
+
+15.9 Section Headings. The headings of sections of this Agreement are inserted for convenience only and shall not be considered for the purpose of determining the meaning or legal effect of any provisions hereof.
+
+15.10 Wiring of Funds. All amounts required to be paid under any provision of this Agreement shall be made by wire transfer of immediately available funds no later as 2:00 p.m. (Eastern Time) on the date that such payment is due, so long as all information necessary to complete the wire transfer has been received by the payor by 10:00 a.m. (Eastern Time) on the
+
+34
+
+
+
+
+
+Case 18- 10248-MFW Doc 632-1 Filed 04/18/18 Page 36 of 60
+
+date that such payment is due. In the event that the date on which any such payment is due is not a business day, then such payment shall be made by wire transfer on the next business day.
+
+15.11 Deposit. Pursuant to the Bidding Procedures, Agent has provided a cash deposit in the amount of $32,700,000 (the "Deposit"), which is being held in escrow by co-counsel to Merchant, Young Conaway Stargatt & Taylor, LLP (the "Escrow Agent"). At the closing, the Deposit shall be released from escrow by the Escrow Agent and applied to the Cash Purchase Price. In the event the Closing fails to occur, then, only upon entry of a final and non-appealable order of the Bankruptcy Court determining that such failure was the result of Purchaser's sole, material, non-excusable breach of this Agreement, then Merchant shall be entitled to retain the Deposit as liquidated damages as Merchant's sole remedy for such breach.
+
+15.12 Nature of Remedies. No failure to exercise and no delay in exercising, on the part of the Agent, any right, remedy, power, privilege or adjustment hereunder, shall operate as a waiver thereof; nor shall any single or partial exercise of any right, remedy, power, privilege, or adjustment hereunder preclude any other or further exercise thereof or the exercise of any other right, remedy, power, privilege, or adjustment.
+
+15.13 Entire Agreement. This Agreement contains the entire agreement between the Parties with respect to the transactions contemplated hereby and supersedes and cancels all prior agreements, including, but not limited to, all proposals, letters of intent or representations, written or oral, with respect thereto
+
+15.14 Agent/Purchaser. Each party hereto acknowledges and agrees that any payment obligation of Purchaser and Agent hereunder is binding upon both the Agent and Purchaser and they shall be jointly and severally responsible therefor. Any action permitted under this Agreement to be taken by Purchaser may be undertaken by Agent on behalf of all entities comprising Purchaser, subject to any agreements between or among the entities comprising Purchaser, the Second Lien Noteholders, or any of them.
+
+[ signature page follows ]
+
+35
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 37 of 60
+
+IN WITNESS WHEREOF, the Parties hereby execute this Agreement by their respective duly authorized representatives as a sealed instrument as of the day and year first written above.
+
+GA RETAIL, INC. By: Name: Its:
+
+TIGER CAPITAL GROUP, LLC By: Name: Its:
+
+WILMINGTON SAVINGS FUND SOCIETY, FSB As Successor Trustee and Collateral Agent for the Second-Lien Notes By: Name: Its:
+
+THE BON-TON STORES, INC., on behalf of itself and the other entities comprising Merchant By: Name: Its:
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 38 of 60 List of Exhibits
+
+Exhibit 1(a)(1) Stores Exhibit 1(a)(2) Distribution Centers Exhibit 1(d) Owned Real Estate Exhibit 1(e) Intellectual Property Exhibit 2(b)(iv) Form of Asset Designation Notice Exhibit 2(b)(xiii) Form of Lease/Contract Assumption Notice Exhibit 3.1(c) Wind-Down Budget Exhibit 4.1(c) Per Store, Per Diem Occupancy Expenses. Exhibit 8.1 Sale Guidelines
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 39 of 60
+
+The Bon-Ton Stores, Inc. Exhibit 1 (a) (1) Full Company Liquidation Stores Closing List
+
+Store List Store # Store Name Address City State Zip Selling Sq Ft 2 Hanover 400 Eisenhower Drive Hanover PA 17331 71,636 4 Lewistown 111 East Market Street Lewistown PA 17044 46,660 5 Martinsburg 800 Foxcroft Avenue Martinsburg WV 25401 65,780 6 Chambersburg 100 Chambersburg Mall Chambersburg PA 17201 55,621 7 Park City Furn 870 Plaza Boulevard Lancaster PA 17601 32,000 8 Park City 600 Park City Center Lancaster PA 17601 178,967 12 Cumberland 1262 Vocke Rd LaVale MD 21502 75,134 14 Galleria 2899 Wh teford Road, Ste 282 York PA 17402 131,915 15 Uniontown 1800 Mall Run Road Uniontown PA 15401 80,511 17 Indiana 2334 Oakland Avenue Suite 35 Indiana PA 15701 60,465 18 Warren 4000 Market Street Warren PA 16365 50,070 19 Wilton 3065 Route 50 Saratoga Springs NY 12866 71,740 21 Oil C ty 6945 US 322 Cranberry PA 16319 45,168 22 Br ck 80 Brick Plaza Brick NJ 08723 53,500 25 Binghamton 601-635 Harry L Dr. Johnson City NY 13790 81,112 27 Williamsport 300 Lycoming Mall Circle Pennsdale PA 17756 60,952 28 Bloomsburg 225 Columbia Mall Drive Bloomsburg PA 17815 46,060 29 Queensgate 2081 Springwood Road York PA 17403 114,608 31 Camp Hill 3525 Gettysburg Road Camp Hill PA 17011 145,200 32 Colonial Park 4600 Jonestown Road Harrisburg PA 17109 136,540 35 Reading 1665 State Hill Road Wyomissing PA 19610 159,368 36 Greensburg 5256 Rt 30 Greensburg PA 15601 100,003 37 Washington 1500 W. Chestnut Street Washington PA 15301 78,129 38 Midway 1066 Wyoming Avenue Wyoming PA 18644 66,026 39 Wilkes-Barre 14 Wyoming Valley Mall Wilkes-Barre PA 18702 159,454 43 Newburgh 1401 Route 300 Ste 139 Newburgh NY 12550 61,785 44 Ithaca 40 Catherwood Road Ithaca NY 14850 62,225 46 Jamestown 318 E. Fairmount Avenue Lakewood NY 14750 59,860 48 Westfield 443 E. Main Street Westfield MA 01085 74,939 62 Eastern Hills 4545 Transit Road Williamsville NY 14221 151,208 63 Sheridan 1706 Sheridan Drive Buffalo NY 14223 124,284 64 Southgate 1090 Union Road West Seneca NY 14224 100,500 65 McKinley 3701 McKinley Parkway Blasdell NY 14219 97,204 67 Lockport 5737 S. Transit Road Lockport NY 14094 82,000 68 Olean 402 N. Union Street Olean NY 14760 73,017 69 Niagara 6929 Williams Road Niagara Falls NY 14303 88,128 72 Bethlehem 2524 Schoenersville Road Bethlehem PA 18017 108,650 73 S. Allentown 3300 Lehigh Street Allentown PA 18103 101,841 76 Easton 146 Palmer Park Mall Easton PA 18045 115,062 78 Quakertown 751 SW End Blvd. Quakertown PA 18951 88,126 81 Doylestown 456 North Main Street Doylestown PA 18901 61,915 84 Elmira 3300 Chambers Road South, Ste. 50 Horseheads NY 14845 74,752 94 Camillus 5301 W. Genesee Street Camillus NY 13031 64,700 101 Dayton Mall 2700 St. Rt. 725 Dayton OH 45459 212,000 107 Huber Heights 8221 Old Troy Pike Huber Heights OH 45424 101,840 115 Beavercreek 2727 Fairfield Commons Beavercreek OH 45431 151,740 117 Piqua 987 E. Ash Street Piqua OH 45356 60,000 118 Athens 1004 E. State Street Athens OH 45701 42,253 119 New Philadelphia 400 Mill Avenue, Ste. C3 New Philadelphia OH 44663 73,310 121 Kettering 2050 E. Dorothy Lane Dayton OH 45420 87,317 125 Lancaster 1730 River Valley Circle S. Lancaster OH 43130 52,725 126 Heath 771 S. 30th Street Newark OH 43056 73,185 128 Zanesville 3575 Maple Avenue Zanesville OH 43701 70,847 129 Marion 1475 Marion Waldo Road Marion OH 43302 75,673 130 Chillicothe 1080 N. Br dge Street Chillicothe OH 45601 55,940 132 Richmond 601 East Main St. R chmond IN 47374 100,000 137 Sandusky 4314 Milan Road Sandusky OH 44870 80,398
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 40 of 60 The Bon-Ton Stores, Inc. Exhibit 1 (a) (1) Full Company Liquidation Stores Closing List
+
+Store List Store # Store Name Address City State Zip Selling Sq Ft 138 Plover 1780 Plover Road Plover WI 54467 54,564 140 Kohler 4030 Hwy #28 Sheboygan Falls WI 53085 54,541 142 West Bend 1291 W. Paradise Road West Bend WI 53095 61,011 143 Coldwater 373 N. Willowbrook Rd. Suite Z Coldwater MI 49036 54,146 144 Alliance Carnation Mall, 2500 W. State Street Alliance OH 44601 55,552 147 Wooster 4095 Burbank Road Wooster OH 44691 53,446 148 Morgantown 9550 Mall Road Morgantown WV 26501 71,032 150 Warsaw 2856 Frontage Road Warsaw IN 46580 80,320 151 Frankfort 202 Limestone Drive Frankfort KY 40601 53,954 152 Findlay 1800 Tiffin Avenue Findlay OH 45840 74,841 153 Bowling Green 1234 N Main Street Bowling Green OH 43402 40,000 154 Howell 3599 E. Grand River Avenue Howell MI 48843 72,873 155 Westgate 3311 Secor Road Toledo OH 43606 154,000 159 Monroe 2121 Monroe Street Monroe MI 48161 99,363 161 Midland 6830 Eastman Avenue M dland MI 48642 64,141 163 Jackson 1826 W. Michigan Avenue Jackson MI 49202 70,425 173 Muscatine 1903 Park Avenue Muscatine IA 52761 43,906 175 Mattoon 700 Broadway Avenue E Mattoon IL 61938 54,266 178 Jasper 3875 Newton Street Jasper IN 47546 55,238 179 Terre Haute 3401 US Hwy 41 S Terre Haute IN 47802 70,380 182 Muncie 3501 N. Granville Avenue Muncie IN 47303 80,000 184 Kokomo 1156 South 17th Street Kokomo IN 46902 60,135 186 Green Bay Furn 201 Bay Park Square Green Bay WI 54304 53,265 189 Southtown 2400 State Route 725 Dayton OH 45459 54,848 199 Fort Wayne 4201 Coldwater Road Fort Wayne IN 46805 122,000 203 Clarksburg 2700 Meadowbrook Mall Bridgeport WV 26330 124,285 205 Ashland 10699 US Route 60 Ashland KY 41102 70,000 206 Kanawha 5700 MacCorkle Avenue SE Charleston WV 25304 80,000 209 Winfield 200 Liberty Sq. Shopping Center Hurricane WV 25526 70,476 310 St Cloud 600 W St. Germain St. St. Cloud MN 56301 93,900 311 Virginia 1440 S 12th Avenue Virginia MN 55792 66,582 312 Rice Lake 2900 South Main R ce Lake WI 54868 54,661 313 Fergus Falls 2001 West Lincoln Avenue Ste. 2 Fergus Falls MN 56537 39,536 314 New Ulm 110 N Minnesota Street New Ulm MN 56073 47,277 315 Watertown 1300 9th Avenue SE Watertown SD 57201 40,320 316 Alexandria 3015 Hwy 29 S Ste. 4037 Alexandria MN 56308 70,314 317 Havre 1753 Highway 2 NW Havre M T 59501 47,161 318 LaCrosse 4000 State Road 16 LaCrosse WI 54601 41,344 319 Albert Lea 2440 Bridge Avenue Albert Lea MN 56007 64,436 320 Moorhead 420 Center Ave, Ste. 1 Moorhead MN 56560 106,150 321 Bismarck 641 Kirkwood Mall Bismarck ND 58506 92,500 323 Brainerd 14136 Baxter Drive Ste. 1 Baxter MN 56425 82,879 325 Billings 300 S 24th Street W, Ste. E100 Billlings M T 59102 60,224 326 Ottumwa 1110 Quincy Ave Ottumwa IA 52501 55,282 327 Great Falls 1200 10th Avenue South Great Falls M T 59405 70,000 328 Rap d City 2200 N Maple Avenue Rapid C ty SD 57701 88,977 329 Rock Springs 2445 Foothill Blvd. Rock Springs WY 82901 60,018 330 Dickinson Prairie Hills Mall Dickinson ND 58601 42,980 331 Minot 2400 10th Street SW Minot ND 58701 52,468 332 Willmar 1605 S. 1st. Street Willmar MN 56201 88,701 334 Norfolk 1700 Market Lane Norfolk NE 68701 77,365 335 Hastings 3001 W 12th Ste. 4 Hastings NE 68901 52,950 336 North Platte 1100 South Dewey North Platte NE 69101 43,500 338 Kearney 4915 2nd Avenue Kearney NE 68847 87,500 339 Scottsbluff 2302 Frontage Road Box 29 Scottsbluff NE 69361 72,699 340 Kalispell 20 North Main Kalispell M T 59901 80,000 341 Blaine 301 Northtown Dr. Blaine MN 55434 130,722
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 41 of 60 The Bon-Ton Stores, Inc. Exhibit 1 (a) (1) Full Company Liquidation Stores Closing List
+
+Store List Store # Store Name Address City State Zip Selling Sq Ft 342 Stillwater 2001 Washington Avenue Stillwater MN 55082 95,360 343 Aberdeen 3315 6th Avenue Southeast Ste. 2 Aberdeen SD 57401 79,668 344 Grand Junction 2424 US Highway 6 & 50 Grand Junct on CO 81505 72,279 345 Mankato 1850 Adams Street Mankato MN 56001 71,046 348 Bemidji 1401 Paul Bunyan Drive NW Bemidji MN 56601 56,392 349 Butte 3100 Harrison Avenue Ste. 5 Butte M T 59701 65,000 351 Missoula 2901 Brooks Avenue Missoula M T 59801 45,167 352 Fargo 3902 13th Avenue South Fargo ND 58103 103,200 353 Rosedale 1675 West Highway 36 Roseville MN 55113 149,908 354 Midway 1400 University Avenue West St. Paul MN 55104 124,136 355 Southtown 7831 Southtown Center Bloomington MN 55431 133,103 356 Edina 300 Southdale Center Edina MN 55435 143,608 357 Rochester 1201 SW 12th Street Rochester MN 55902 78,130 401 Ames 2801 N Grand Ave Ames IA 50010 49,888 402 Mason C ty 102 S Delaware Avenue Mason City IA 50401 59,500 403 Fort Dodge 217 S. 25th St., Ste 33 Fort Dodge IA 50501 54,179 404 Marshalltown 2500 S Center Street Marshalltown IA 50158 42,142 406 Oak View 3201 S 144th Street Omaha NE 68144 149,326 408 Waterloo 2060 Crossroads Blvd. Waterloo IA 50702 86,781 409 Austin 1405 18th Avenue NW Austin MN 55912 45,277 410 Merle Hay 3800 Merle Hay Road Ste. 100 Des Moines IA 50310 165,000 412 Coralville 1421 Coral Ridge Avenue Coralville IA 52241 98,458 413 Lindale Plaza 4444 1st Avenue NE Cedar Rapids IA 52404 100,000 414 Jordan Creek 101 Jordan Creek Parkway, #6000 West Des Moines IA 50265 159,673 418 Dubuque 555 John F. Kennedy Road Dubuque IA 52002 126,839 419 Westroads 707 N 102nd Omaha NE 68114 171,800 421 Davenport 320 W Kimberly Road Davenport IA 52806 104,913 422 Moline 4600 16th Street Moline IL 61265 107,145 423 Southridge 1111 E Army Post Road, Ste. 2003 Des Moines IA 50315 105,183 424 Sioux Falls 3500 W Empire Mall Sioux Falls SD 57106 105,292 429 Southern Hills 4380 Sergeant Road Sioux C ty IA 51106 92,695 430 West Burlington 550 S Gear Avenue West Burlington IA 52655 66,705 432 Eau Claire 4850 Golf Road Eau Claire WI 54701 102,000 437 Valley West 1551 Valley West Drive Ste. 200 West Des Moines IA 50266 205,248 438 Muskegon 5580 Harvey Street Muskegon MI 49444 106,131 439 Sturgeon Bay 58 N 3rd Avenue Sturgeon Bay WI 54235 60,000 440 Grandville 3668 Rivertown Parkway Grandville MI 49418 150,081 443 Traverse City 1776 Garfield Road Traverse C ty MI 49684 49,666 445 Lansing 5220 W Saginaw Highway Lansing MI 48917 103,000 447 Lincoln 3 Gateway Mall Lincoln NE 68505 100,000 448 Marshfield 503 E Ives Street Marshfield WI 54449 48,295 449 Duluth 1600 Miller Trunk Highway Duluth MN 55811 140,999 451 Grand Island 3404 W 13th Street Grand Island NE 68801 60,081 457 Bay Park 101 Bay Park Square Green Bay WI 54304 145,672 463 Holland 12331 James Street Holland MI 49424 69,148 464 Okemos 1982 W Grand River Avenue Okemos MI 48864 168,757 465 Port Huron 4450 24th Avenue Fort Gratiot MI 48060 70,536 475 Bay City 4131 E Wilder Road Bay C ty MI 48706 110,536 501 Bloomington 1601 Empire St. Bloomington IL 61701 131,606 502 LaSalle Peru 3940 Route 251 Ste 01 Peru IL 61354 87,500 503 Pekin 3536 Court St. Pekin IL 61554 82,100 504 Champaign 2000 North Neil St. Champaign IL 61820 154,302 505 Galesburg 1150 W. Carl Sandburg Dr. Galesburg IL 61401 84,894 507 Quincy 3347 Broadway Quincy IL 62301 106,400 508 Forsyth 1005 Hickory Point Mall Forsyth IL 62535 125,455 510 Janesville 2500 Milton Avenue Janesville WI 53545 96,000 511 Sterling 2900 E. Lincolnway Sterling IL 61081 60,000
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 42 of 60 The Bon-Ton Stores, Inc. Exhibit 1 (a) (1) Full Company Liquidation Stores Closing List
+
+Store List Store # Store Name Address City State Zip Selling Sq Ft 512 Cherryvale 7200 Harrison Avenue Rockford IL 61112 128,330 515 Joliet 3340 Mall Loop Drive Joliet IL 60435 128,000 516 Spring Hill 4000 Spring Hill Ring Rd Dundee IL 60118 128,000 517 Randhurst 1025 Center Dr. Mount Prospect IL 60056 205,056 518 White Oaks 2501 W. Wabash Springfield IL 62704 125,000 519 Milwaukee Grand Ave 331 W Wisconsin Avenue Milwaukee WI 53203 124,055 520 Bayshore 5701 N Lydell Avenue Glendale WI 53217 167,606 521 Racine 5500 Durand Avenue Racine WI 53406 106,157 522 Brookfield 15875 W Bluemound Road Brookfield WI 53005 218,705 523 Southridge 5300 S 76th Street Greendale WI 53129 221,000 526 East Towne 53 East Towne Mall Madison WI 53704 138,755 527 Mayfair 2400 N Mayfair Road Wauwatosa WI 53226 210,713 528 West Towne 36 West Towne Mall Madison WI 53719 139,580 529 Brookfield Furniture 18615 W Bluemound Road Brookfield WI 53045 55,000 530 Evergreen 9700 S Western Ave Evergreen Park IL 60805 120,000 531 Yorktown 230 Yorktown Shopping Center Lombard IL 60148 217,887 532 Woodmar 6600 Indianapolis Blvd. Hammond IN 46320 111,080 533 Edens Plaza 3200 Lake Avenue Wilmette IL 60091 160,578 535 Stratford Square 4 Stratford Square Bloomingdale IL 60108 147,116 538 Chicago Ridge 9800 S Ridgeland Ave Ch cago Ridge IL 60415 154,241 539 Harlem Irving 4200 N Harlem Avenue Norridge IL 60706 168,058 541 North Riverside 7505 W Cermak Road North Riverside IL 60546 180,550 542 Southlake 1995 Southlake Mall Merrillville IN 46410 144,123 543 Orland Square 4 Orland Square Orland Park IL 60462 163,370 546 Yorktown Furniture 2 Yorktown Mall Drive Lombard IL 60148 45,708 547 Edens Furniture 3232 Lake Avenue Wilmette IL 60091 34,830 548 Schaumburg Furn ture 830 E Golf Road Schaumburg IL 60173 58,525 549 Michigan City 305 W US Highway 20 M chigan City IN 46360 81,420 550 Hawthorn 3 Hawthorne Center Vernon Hills IL 60061 112,121 551 Ford City 7601 S Cicero Avenue Ch cago IL 60652 155,513 552 Lincolnwood 3333 Touhy Avenue Lincolnwood IL 60712 122,650 553 Bradley 1602 N State IL- 50 Bourbonnais IL 60914 142,200 554 St Charles 3850 E Main Street St. Charles IL 60174 141,808 555 Hawthorn Furniture 480 East Ring Road Vernon Hills IL 60540 46,290 556 Fox Valley 3 Fox Valley Center Aurora IL 60505 131,267 561 Orland Park Furniture 66 Orland Square Drive Orland Park IL 60462 71,783 563 Grand Prairie 5203 W. War Memorial Drive Peoria IL 61615 181,238 571 Laurel Park 17624 Newburgh Rd Livonia MI 48152 148,800 572 Rochester Hills 400 N.Adams St. Rochester Hills MI 48309 121,380 573 Partridge Creek 17480 Hall Rd. Clinton Township MI 48038 116,254 579 Naperville Frn Clear. 1835 W. Jefferson Naperville IL 60540 30,000 Count: 212
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 43 of 60
+
+The Bon-Ton Stores, Inc. Exhibit 1 (a) (2) Distribution Centers
+
+Store List Store # Store Name Address City State Zip Selling Sq Ft 50 Whitehall - DC 3585 South Church St Whitehall PA 18052 n/a 198 Fairborn - DC 1340 E Dayton Yellow Springs Rd Fairborn OH 45324 n/a 460 West Jefferson - DC 115 Enterprise Parkway West Jefferson OH 43162 n/a 950 Rockford - DC 4650 Shepherd Trail Rockford IL 61103 n/a Count: 4
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 44 of 60
+
+The Bon-Ton Stores, Inc. Exhibit 1 (d) Owned Real Estate
+
+Store List
+
+Store # Banner Store Name Address City State Zip Selling Sq Ft 4 Bon-Ton Lewistown 111 East Market Street Lewistown PA 17044 50,000 31 Bon-Ton Camp Hill 3525 Gettysburg Road Camp Hill PA 17011 145,375 36 Bon-Ton Greensburg Westmoreland Mall, 5256 Route 30 Greensburg PA 15601 99,800 67 Bon-Ton Lockport 5737 South Transit Road Lockport NY 14094 81,431 128 Elder-Beerman Zanesville 3575 Maple Avenue Zanesville OH 43701 70,847 132 Elder-Beerman Richmond 601 East Main Street Richmond IN 47301 111,350 310 Herberger's St. Cloud 600 West Saint Germain Street St. Cloud MN 56301 168,755 327 Herberger's Great Falls 1200 10th Avenue South Great Falls M T 59405 81,969 354 Herberger's Midway 1400 University Avenue St. Paul MN 55104 124,136 410 Younkers Merle Hay 3800 Merle Hay Road, Su te 100 Des Moines IA 50310 165,000 412 Younkers Coralville 1421 Coral Ridge Avenue Coralville IA 52241 98,458 432 Younkers Eau Claire 4850 Golf Road Eau Claire WI 54701 102,000 438 Younkers Muskegon 5580 Harvey Street Muskegon MI 49444 106,131 440 Younkers Grandville 3668 Rivertown Parkway Grandville MI 49418 150,081 449 Younkers Duluth 1600 Miller Trunk Highway Duluth MN 55811 140,999 501 Bergner's Bloomington 1601 Empire Street Bloomington IL 61701 131,616 503 Bergner's Pekin 3500 Court Street Pekin IL 61553 82,100 508 Bergner's Forsyth 1005 Hickory Point Mall Forsyth IL 62535 126,056 514 Carson's Aurora Northgate 970 North Lake Street Aurora IL 60506 119,000 516 Carson's Spring Hill 4000 Spring Hill Mall Dundee IL 60118 128,000 518 Bergner's Wh te Oaks 2501 West Wabash Springfield IL 62704 125,000 521 Boston Store Racine 5500 Durand Avenue Racine WI 53406 106,157 533 Carson's Edens Plaza 3200 Lake Avenue Wilmette IL 60091 155,000 549 Carson's Michigan City 305 West US Highway 20 Michigan C ty IN 46360 76,121 550 Carson's Hawthorn 3 Hawthorne Center Vernon Hills IL 60061 112,121 556 Carson's Fox Valley 3 Fox Valley Center Drive Aurora IL 60504 120,000 572 Carson's Rochester Hills 400 North Adams Road Rochester Hills MI 48309 61,233 573 Carson's Partridge Creek 17480 Hall Road Clinton MI 48038 120,000 590 Carson's Rockford D.C. 4650 Shepherd Trail Rockford -Owned IL 61103 520,000 "Quincy Property" Quincy IL Count: 30
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 45 of 60
+
+The Bon-Ton Stores, Inc. Exhibit 1 (e) Intellectual Property
+
+BON TON ENTITIES TRADEMARKS Reg Number Serial Number Name Mark 966580 72435362 BRECKENRIDGE 1143734 73159353 CARSON PIRIE SCOTT 1395289 73471798 CARSONS 1332638 73495705 ELDER-BEERMAN 1392446 73543142 BON-TON STORES, INC., THE STUART HUGHES 1397712 73543145 THE BON-TON DEPARTMENT STORES, INC. SUSQUEHANNA TRAIL OUTFITTERS
+
+1526191 73663359 PIZZA STRADA 1680687 74078995 THE BON-TON 1661242 74097054 THE BON-TON 1795407 74340081 YOUNKERS 1869666 74355074 CEZANI 2006730 74552885 Bon-Ton Trade Corp., The ANDREA VICCARO 2006731 74552975 JENNY BUCHANAN 2001829 74553100 CUDDLE BEAR 1935197 74580597 CARSON PIRIE SCOTT II, INC. (F/K/A MCRAE'S, INC.) MCRAE'S
+
+2021357 74638895 COME TO THE RIGHT PLACE 2217957 75023572 CARSON PIRIE SCOTT II, INC. (F/K/A MCRAE'S, INC.) NATIONAL BANK OF THE GREAT LAKES
+
+2015874 75045762 JENNY BUCHANAN 2635572 75348627 (RELATIVITY) 2385966 75348885 LIVING QUARTERS 2278878 75410193 HERBERGER'S 2278879 75410395 THE BON-TON DEPARTMENT STORES, INC. HERBERGER'S
+
+2407600 75441794 STUDIO WORKS 2493154 75654658 LIVING QUARTERS 2412363 75857375 CHARGE AGAINST BREAST CANCER 2384258 75979374 RELATIVITY 2363348 75979521 CONSENSUS 76232809 BON-TON DEPARTMENT STORES, INC. MADISON & MAX 3447275 76467824 CARSON PIRIE SCOTT II, INC. (F/K/A MCRAE'S, INC.) SHE SHE LA LÀ
+
+2856632 76975745 THE BON-TON DEPARTMENT STORES, INC. MADISON & MAX
+
+3292860 77035952 PARADISE COLLECTION 3436925 77055123 KENNETH ROBERTS PLATINUM 3483180 77183901 INTIMATE ESSENTIALS 3528518 77227149 EXERTEK 3709384 77359862 LITTLE MISS ATTITUDE 77364016 THE BON-TON DEPARTMENT STORES, INC. AUTHENTIC U
+
+3632950 77520071 CELEBRATIONS REGISTRY FOR VERY SPECIAL OCCASIONS 3628605 77520170 CELEBRATIONS REGISTRY FOR VERY SPECIAL OCCASIONS 3570064 77553578 STUDIO WORKS 3666012 77577377 BOSTON STORE 3848434 77630455 MISS ATTITUDE 3842899 77814203 BT JEWELED 3881265 77836970 KENNETH ROBERTS 3909131 77881965 LIVING QUARTERS 3892546 77969650 CARSON PIRIE SCOTT II, INC. BERGNER'S 2765740 78116121 CARSON PIRIE SCOTT II, INC. (RELATIVITY) DESIGN LAB 2934000 78191055 MISS ATTITUDE 78292100 CARSON PIRIE SCOTT II, INC. (F/K/A MCRAE'S, INC.)
+
+PERFECT PIMA
+
+78560181 MARKET STREET EAST 3217597 78867113 THE BON-TON TRADE, LLC SUSQUEHANNA TRAIL OUTFITTERS 3022152 78976395 BRECKENRIDGE 3069447 78976644 CHANTEUSE 85108157 THE BON-TON DEPARTMENT STORES, INC. CUSTOMER FIRST
+
+4143662 85194375 4139987 85225140 KENNETH ROBERTS 4143891 85247954 JB 85476397 THE BON-TON STORES, INC. AFFINITY
+
+
+
+
+
+4259055 85495083 THE BON-TON DEPARTMENT STORES, INC. ZOE&BELLA@BT
+
+4552374 85715679 THE BON-TON DEPARTMENT STORES, INC. CUDDLE BEAR
+
+4357088 85733613 ZOE&BELLA @BT 4361044 85772207 CARSON PIRIE SCOTT II, INC. PARADISE COLLECTION 4507524 85850871 STYLE ON THE STREET 4998553 85920357 DESIGN DISTRICT 4496279 85929876 TRENDÉVOUS 4532638 86044801 4626285 86144251 BEAUTY STATION 4736593 86261094 4991097 86433458 BEAUTY STATION 5191722 86532617 CHEF'S QUARTERS 5396972 86898865 ZOE&BELLA @BT 5005143 86979074 CHEF'S QUARTERS 5135982 87019592 SANTA'S PANTRY 87063073 LOVESTYLEREWARDS 87063086 THE BON-TON DEPARTMENT STORES INC. STYLEREWARDS
+
+87368531 YULETIDE FARMS 87416731 DRESSOBSESSED 87418738 CLOSE TO HOME 87471882 THE BIG GRILL 87488334 MEYEWEAR 87492351 MEYEWEAR 87495174 FASHION TO GO 87495186 STYLE TO GO 87497118 STYLE 2 GO 87498911 FASHION 2 GO 87498969 TRAVEL QUARTERS 87505353 CUDDLE BEAR 87528193 LIVING QUARTERS 87535628 BETTER BRANDS. BIGGER SAVINGS. 87537827 ZOE&BELLA@BT 87626265 ZOE&BELLA@BT
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 46 of 60
+
+Reg Number Serial Number Name Mark 87667636 EO 87697689 BUZZWORX 87706897 ZOE&BELLA@BT 87748141 MATTI & MAX 87762369 MATTI & MAX
+
+BON TON ENTITIES COPYRIGHTS Registration Number Title Type TX4880277 Doing a good business: 100 years at the Bon-Ton Literary Work
+
+TX1896055 Elder-Beerman Stores Corporation: a tradition of success Literary Work TX5900922 A tale from Flurryville: the Berg's big surprise Literary Work TX5744198 Wow! what a cow: a tale from funky Literary Work TX5638101 A tale from Flurryville: Arctic Bart finds his happy heart Literary Work TX5658257 Holiday celebrations with recipes from Younkers Literary Work TX6497902 Baxter shares his bear Literary Work TX2217381 Parisian celebrating a century of service Literary Work TX3196448 Presentation - a manual of standards and guidelines Literary Work VA239074 Riverchase Galleria Parisian grand opening Visual Arts VA81949 Made in Wisconsin Visual Arts VA6480 Cratchits' Christmas dinner Visual Arts
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 47 of 60
+
+Exhibit 2(b)(iv) Form of Asset Designation Notice
+
+IN THE UNITED STATES BANKRUPTCY COURT FOR THE DISTRICT OF DELAWARE
+
+In re: THE BON-TON STORES, INC., et al.,1 Debtor.
+
+Chapter 11 Case No. 18-10248 (MFW) Jointly Administered
+
+NOTICE OF DESIGNATION OF ASSET PURCHASER
+
+PLEASE TAKE NOTICE that pursuant to the Order Approving Debtors' Entry Into Agency Agreement and Consummation of the Transactions Contemplated Thereby (the "Approval Order") [D.I. ____],2 Purchaser hereby designates the entity identified on Schedule A ("Designee") annexed hereto as the assignee of the Assets identified on Schedule A (the "Designated Assets") pursuant to the agreement between Purchaser, as agent for the Debtors, and Designee, an abstract of which is annexed hereto as Exhibit A (the "Purchase Agreement"). PLEASE TAKE FURTHER NOTICE that pursuant to the Approval Order, upon the closing of the transaction pursuant to the Purchase Agreement, the Designated Assets shall be deemed conveyed to Designee by the Debtors free and clear of all liens, claims, encumbrances, and other interests of any kind.
+
+1 The Debtors in these chapter 11 cases, along with the last four digits of each Debtor's federal tax identification number, are: The Bon-Ton Stores, Inc. (5229); The Bon-Ton Department Stores, Inc. (9309); The Bon-Ton Giftco, LLC (2805); Carson Pirie Scott II, Inc. (2140); Bon-Ton Distribution, LLC (5855); McRIL, LLC (5548); Bonstores Holdings One, LLC (8574); Bonstores Realty One, LLC (8931); Bonstores Holdings Two, LLC (8775); and Bonstores Realty Two, LLC (9075). The headquarters for the above-captioned Debtors is 2801 East Market Street, Bldg. E, York, Pennsylvania 17402. 2 Capitalized terms used but not defined in this Notice have the meanings given thereto in the Approval Order.
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 48 of 60 Dated: [_], 2018 [COUNSEL TO PURCHASER] Wilmington, Delaware
+
+_____________________________
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 49 of 60 Exhibit 2(b)(iv) Form of Asset Designation Notice Schedule A
+
+Designated Assets Designee
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 50 of 60 Exhibit 2(b)(xiii) Form of Lease/Contract Assumption Notice
+
+IN THE UNITED STATES BANKRUPTCY COURT  FOR THE DISTRICT OF DELAWARE
+
+In re: THE BON-TON STORES, INC., et al.,1 Debtor.
+
+Chapter 11 Case No. 18-10248 (MFW) Jointly Administered
+
+NOTICE OF ASSUMPTION AND ASSIGNMENT OF [LEASES] / [CONTRACTS]
+
+PLEASE TAKE NOTICE that pursuant to the Order Approving Debtors' Entry Into Agency Agreement and Consummation of the Transactions Contemplated Thereby (the "Approval Order") [D.I.___],2 Purchaser hereby designates the entities identified on Schedule A annexed hereto as the assignees of the corresponding Leases and/or Contracts. PLEASE TAKE FURTHER NOTICE that the cure amounts for the Leases and/or Contracts to be assigned pursuant to this Notice and the Approval Order are set forth on Schedule A. PLEASE TAKE FURTHER NOTICE that objections, if any, to the assumption and assignment of any Lease or Contract must be filed with the Bankruptcy Court and served on counsel for Purchaser at the addresses (including e-mail addresses) set forth in the signature block of this Notice on or before [_], 2018.3 If no timely objection to the assumption and assignment of a Lease or Contract is received, the assumption and assignment of such Lease or Contract will become effective automatically pursuant to the Approval Order on the date
+
+1 The Debtors in these chapter 11 cases, along with the last four digits of each Debtor's federal tax identification number, are: The Bon-Ton Stores, Inc. (5229); The Bon-Ton Department Stores, Inc. (9309); The Bon-Ton Giftco, LLC (2805); Carson Pirie Scott II, Inc. (2140); Bon-Ton Distribution, LLC (5855); McRIL, LLC (5548); Bonstores Holdings One, LLC (8574); Bonstores Realty One, LLC (8931); Bonstores Holdings Two, LLC (8775); and Bonstores Realty Two, LLC (9075). The headquarters for the above-captioned Debtors is 2801 East Market Street, Bldg. E, York, Pennsylvania 17402. 2 Capitalized terms used but not defined in this Notice have the meanings given thereto in the Approval Order. 3 [First business day that is at least 15 days from notice date]
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 51 of 60
+
+identified on Schedule A. If a timely objection to the assumption and assignment of a Lease or Contract is timely filed and served by an entity with appropriate standing, such assignment shall not become effective until agreed to by the parties or ordered by the Court. Dated: [_], 2018 [COUNSEL TO PURCHASER] Wilmington, Delaware
+
+_____________________________
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 52 of 60 Exhibit 2(b)(xiii) Form of Lease/Contract Assumption Notice
+
+Schedule A
+
+Description Counterparty Name and Address Assignee Name and Address Cure Amount Effective Date of Assignment
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 53 of 60 Exhibit 3.1(c) Wind Down Payment Budget
+
+Budget Expense Vendors $ 16.2 Payroll 35.5 Severance 3.4 Retention - IBNR 4.0 Sales Tax 7.91 Interest - Professional Fees 15.82 Contingency 1.0 Stub Rent & Free Rent 8.0 503(b)(9) 2.0 Other - Total $ 93.8 Plus: Severance and Retention in Agent's Expenses 5.7 Total After Severance and Retention in Agent's Expenses $ 99.5
+
+1 Reduced to account for the fact that $6 million of sales taxes are already included in the DIP Obligations per email from J. Guglielmo dated April 17, 2018. 2 For the avoidance of doubt, the Professional Fees shall be paid, without duplication, either as part of the payoff of the DIP Obligations or as part of the Wind Down Payment.
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 54 of 60
+
+The Bon-Ton Stores, Inc. Exhibit 4.1(c) - Occupancy - Per Diem Full Company Liquidation Store Closing List Excludes Distribution Centers
+
+TOTAL - PER DIEM
+
+Store # Store Name Base Rent
+
+Common Area Maintenance / LL Property Insurance
+
+Real Estate Taxes Insurance
+
+Building Repair & Maint. Occupancy Other Security Communications Utilities Supplies Equip. Leases Eqiup. Maint Other Taxes Total 2 Hanover 1,162 89 362 27 117 20 11 54 194 42 5 4 - 2,087 4 Lewistown - - 62 23 78 21 11 41 133 42 5 4 - 419 5 Martinsburg 458 75 - 35 102 22 18 40 172 52 6 4 131 1,115 6 Chambersburg 581 92 95 22 80 18 10 48 194 43 6 4 - 1,193 7 Park City Furn 941 142 138 12 62 545 14 42 95 31 2 4 - 2,027 8 Park City 749 123 1,597 128 385 34 28 52 2,023 275 15 4 - 5,412 12 Cumberland 767 65 142 31 114 23 20 39 228 74 26 4 36 1,568 14 Galleria 2,918 146 171 69 279 108 19 54 390 105 12 4 35 4,308 15 Uniontown 893 111 170 35 121 46 11 44 384 87 10 4 29 1,944 17 Indiana 499 - 84 15 100 19 6 42 155 56 8 4 - 986 18 Warren 305 - - 21 111 21 10 42 158 37 6 4 - 714 19 Wilton 722 120 227 27 129 39 28 38 409 74 12 4 - 1,829 21 Oil City 693 38 23 24 113 20 7 50 142 41 6 4 - 1,162 22 Brick 2,118 651 507 33 159 59 34 42 254 67 8 4 - 3,936 25 Binghamton 776 - 1,222 32 126 21 14 41 247 59 7 4 - 2,550 27 Williamsport 606 101 151 24 95 18 8 44 196 41 5 4 - 1,294 28 Bloomsburg 455 - - 19 86 18 26 39 152 44 5 4 - 849 29 Queensgate 1,877 310 450 39 165 166 30 42 320 79 11 4 19 3,513 31 Camp Hill - - 415 62 461 206 15 52 513 130 10 6 2 1,872 32 Colonial Park 384 388 295 54 354 110 13 46 443 78 7 4 - 2,176 35 Reading 902 162 985 91 302 205 15 44 510 131 11 4 52 3,415 36 Greensburg - 126 401 42 262 20 20 50 320 79 9 4 11 1,344 37 Washington 319 - - 21 119 16 17 43 219 50 6 4 20 832 38 Midway 700 212 225 30 119 27 11 40 194 60 6 4 - 1,629 39 Wilkes-Barre 747 79 505 55 295 133 13 43 521 106 9 4 39 2,549 43 Newburgh 939 52 359 27 102 23 35 39 291 63 6 4 - 1,939 44 Ithaca 1,085 147 301 320 138 24 15 53 244 57 6 4 - 2,393 46 Jamestown 793 67 19 32 95 22 19 43 220 74 14 4 - 1,401 48 Westfield 1,832 534 801 57 128 48 16 44 397 94 13 4 5 3,973 62 Eastern Hills 1,320 54 - 53 336 269 26 38 319 99 10 4 - 2,528 63 Sheridan 715 104 78 47 197 235 38 43 300 85 7 4 - 1,851 64 Southgate 1,066 223 242 40 166 190 19 41 249 80 8 4 - 2,328 65 McKinley 1,038 177 95 41 145 143 23 44 203 82 6 4 - 2,000 67 Lockport - - 343 115 340 19 26 47 212 92 9 4 - 1,205 68 Olean 522 51 57 27 108 20 12 42 166 71 12 4 - 1,092 69 Niagara 772 314 - 31 139 118 19 37 262 64 7 4 - 1,766 72 Bethlehem 1,407 70 381 182 223 185 17 42 490 121 25 4 47 3,194 73 S. Allentown 1,191 300 317 61 186 27 14 40 535 98 12 4 47 2,830 76 Easton 560 42 299 45 162 68 13 44 400 88 10 4 26 1,759 78 Quakertown 420 349 296 41 116 164 12 46 324 89 10 4 1 1,873 81 Doylestown 1,668 234 139 52 125 23 30 43 230 174 17 4 1 2,739 84 Elmira 531 105 209 24 102 65 25 50 343 73 10 4 - 1,539 94 Camillus 674 100 375 31 109 21 15 39 172 71 6 4 - 1,618 101 Dayton Mall 9,393 343 605 116 320 35 29 48 692 206 17 4 - 11,808 107 Huber Heights 1,255 143 619 62 178 61 28 39 332 101 12 4 - 2,832 115 Beavercreek 2,496 232 838 165 276 168 31 107 559 140 18 4 - 5,034 117 Piqua 370 126 60 29 94 18 8 40 210 52 8 4 - 1,020 118 Athens 518 52 49 235 86 27 10 44 161 37 10 4 - 1,234 119 New Philadelphia 718 81 289 34 106 198 21 46 380 65 8 4 1 1,952
+
+121 Kettering 622 122 423 51 182 24 40 36 358 82 9 4 - 1,955 125 Lancaster 420 58 241 29 83 19 10 41 311 51 5 4 - 1,272 126 Heath 990 82 240 33 103 134 18 39 285 57 7 4 - 1,992 128 Zanesville - 89 111 25 141 17 10 39 284 45 7 4 - 771 129 Marion 1,014 138 28 27 94 18 12 41 251 35 6 4 - 1,667 130 Chillicothe 936 125 189 34 102 22 17 59 426 61 7 4 - 1,983 132 Richmond - - 199 38 141 96 15 40 357 53 7 4 67 1,017
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 55 of 60
+
+The Bon-Ton Stores, Inc. Exhibit 4.1(c) - Occupancy - Per Diem Full Company Liquidation Store Closing List Excludes Distribution Centers
+
+TOTAL - PER DIEM
+
+Store # Store Name Base Rent
+
+Common Area Maintenance / LL Property Insurance
+
+Real Estate Taxes Insurance
+
+Building Repair & Maint. Occupancy Other Security Communications Utilities Supplies Equip. Leases Eqiup. Maint Other Taxes Total 137 Sandusky 817 632 80 22 142 29 13 36 508 54 7 4 2 2,346
+
+138 Plover 1,439 185 320 35 91 28 12 43 181 71 19 4 17 2,443 140 Kohler 1,430 231 275 28 90 22 12 59 212 57 11 7 21 2,456 142 West Bend 1,451 151 286 31 101 33 19 48 270 72 18 4 29 2,512
+
+143 Coldwater 1,375 84 156 24 107 18 9 41 204 60 5 9 26 2,116
+
+144 Alliance 1,261 136 52 59 92 19 15 38 197 54 6 4 - 1,934 147 Wooster 1,042 179 262 32 114 21 17 57 227 53 5 4 - 2,013
+
+148 Morgantown 900 80 170 31 117 27 9 40 261 58 13 4 189 1,899
+
+150 Warsaw 1,541 - 182 42 150 79 12 56 366 83 12 4 51 2,580 151 Frankfort 1,326 48 162 27 88 23 14 37 228 62 11 4 76 2,105
+
+152 Findlay 992 83 122 36 142 18 11 38 278 51 7 4 - 1,782 153 Bowling Green 505 84 13 21 85 18 8 43 186 46 8 4 - 1,022
+
+154 Howell 1,430 199 226 36 129 28 24 53 265 84 7 4 18 2,503 155 Westgate 1,075 - 325 74 367 293 35 46 1,008 130 9 6 - 3,368
+
+159 Monroe 1,654 379 302 38 106 380 24 46 431 69 6 4 41 3,482 161 Midland 640 63 510 46 140 29 21 46 316 73 9 4 43 1,939 163 Jackson 838 258 247 40 118 20 23 47 390 75 8 4 44 2,113 173 Muscatine 699 - - 21 80 19 13 45 159 40 5 4 - 1,085
+
+175 Mattoon 524 76 14 22 94 26 9 47 194 34 14 4 - 1,059
+
+178 Jasper 1,167 136 157 32 108 25 17 47 232 72 10 4 49 2,056 179 Terre Haute 725 147 249 42 111 23 23 40 356 50 6 4 71 1,847
+
+182 Muncie 986 78 284 40 125 79 17 44 259 56 7 4 67 2,045 184 Kokomo 1,607 95 40 29 111 24 14 48 204 63 9 4 29 2,278
+
+186 Green Bay Furn 665 - - 22 81 591 20 32 126 37 6 4 5 1,589
+
+189 Southtown 443 - 417 34 126 623 32 112 311 23 4 4 - 2,129
+
+199 Fort Wayne 2,338 171 491 47 166 106 17 46 585 117 7 3 158 4,251
+
+203 Clarksburg 1,556 923 410 34 174 272 31 47 412 80 6 4 186 4,134
+
+205 Ashland 832 98 39 26 104 15 10 50 301 50 7 4 62 1,598 206 Kanawha 1,144 78 169 35 113 23 26 47 303 66 12 4 188 2,209
+
+209 Winfield 1,747 - 94 105 131 23 16 46 211 87 7 4 83 2,554
+
+310 St Cloud 100 - 188 57 276 31 17 63 386 78 12 3 0 1,214 311 Virginia 908 251 109 43 129 35 19 48 381 100 8 3 1 2,033 312 Rice Lake 534 212 89 25 137 22 10 45 133 49 6 3 17 1,282
+
+313 Fergus Falls 491 - - 23 93 19 3 43 158 49 5 3 1 888
+
+314 New Ulm 592 - 79 27 159 19 17 44 181 45 6 3 1 1,172
+
+315 Watertown 337 143 29 52 109 27 14 37 191 43 7 3 - 992
+
+316 Alexandria 946 426 293 56 140 23 13 52 192 106 23 3 1 2,274
+
+317 Havre 472 66 19 29 88 31 7 38 156 36 10 3 12 967 318 LaCrosse 1,085 93 172 31 200 114 31 51 216 123 9 3 25 2,153
+
+319 Albert Lea 770 133 155 26 115 38 6 38 216 53 8 3 - 1,559
+
+320 Moorhead 1,713 34 227 67 194 67 19 42 303 123 10 3 1 2,803
+
+321 Bismarck 1,122 117 243 119 171 35 16 45 348 108 11 3 - 2,339
+
+323 Brainerd 1,332 12 245 49 140 26 18 60 312 104 8 3 1 2,309
+
+325 Billings 765 368 196 32 182 23 13 61 36 57 22 4 43 1,801 326 Ottumwa 613 176 55 24 126 25 7 43 226 59 6 3 - 1,362
+
+327 Great Falls - - 169 48 114 21 9 40 227 68 7 3 45 751
+
+328 Rapid City 1,576 137 270 56 153 22 14 44 534 76 9 3 - 2,894
+
+329 Rock Springs 1,330 76 81 31 92 40 46 36 187 52 5 3 11 1,991
+
+330 375 108 103 31 109 19 5 42 147 51 6 3 - 999
+
+
+
+
+
+Dickinson 331 Minot 651 73 289 33 118 19 11 50 175 65 6 3 - 1,494 332 Willmar 1,496 261 226 51 178 33 13 66 335 94 9 3 1 2,766 334 Norfolk 1,116 281 163 35 126 24 17 39 239 50 5 3 5 2,103 335 Hastings 469 52 21 27 91 20 8 55 182 43 7 3 5 983
+
+336 North Platte 598 294 108 25 85 18 5 40 145 44 7 3 3 1,375
+
+338 Kearney 1,138 77 186 56 190 33 14 51 349 123 32 3 16 2,268
+
+339 Scottsbluff 1,084 102 94 36 151 22 18 48 214 70 8 3 8 1,857
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 56 of 60
+
+The Bon-Ton Stores, Inc. Exhibit 4.1(c) - Occupancy - Per Diem Full Company Liquidation Store Closing List Excludes Distribution Centers
+
+TOTAL - PER DIEM
+
+Store# Store Name Base Rent
+
+Common Area Maintenance / LL Property Insurance
+
+Real Estate Taxes Insurance
+
+Building Repair & Maint. Occupancy Other Security Communications Utilities Supplies Equip. Leases Eqiup. Maint Other Taxes Total 340 Kalispell 1,177 151 31 64 122 43 20 44 173 84 7 3 19 1,937 341 Blaine 1,515 183 250 76 315 75 22 47 493 155 14 4 1 3,148 342 Stillwater 1,941 - 508 86 267 47 23 46 436 137 54 3 1 3,549 343 Aberdeen 990 167 117 80 107 28 9 43 225 83 7 3 - 1,861 344 Grand Junction 1,117 134 211 51 129 26 21 46 286 122 14 3 38 2,199 345 Mankato 1,004 119 313 48 146 28 27 47 256 94 14 3 1 2,101 348 Bemidji 722 79 96 35 122 24 10 48 202 59 8 3 1 1,410 349 Butte 808 100 134 55 102 26 13 43 203 68 5 3 15 1,576 351 Missoula 1,000 221 333 25 166 30 12 39 236 49 12 3 20 2,148 352 Fargo 1,698 952 247 78 262 87 31 58 707 153 10 4 - 4,286 353 Rosedale 1,795 1,023 708 112 375 136 36 51 722 219 28 3 - 5,207 354 Midway - 355 908 56 219 39 38 44 507 99 9 3 0 2,278 355 Southtown 2,298 1,038 1,707 83 312 104 17 62 552 202 19 3 2 6,399 356 Edina 2,514 152 613 62 324 33 22 39 791 129 9 3 1 4,692 357 Rochester 1,018 1 - 66 131 44 27 53 709 106 34 3 1 2,192 401 Ames 254 84 211 24 102 34 8 50 167 62 10 3 - 1,007 402 Mason City 708 196 23 31 144 31 19 70 266 64 6 3 - 1,560 403 Fort Dodge 600 54 20 27 108 41 12 72 170 76 10 3 - 1,195 404 Marshalltown 373 60 17 41 99 21 8 60 195 58 6 3 - 940 406 Oak View 1,926 192 476 81 199 36 16 79 650 198 11 4 22 3,890 408 Waterloo 646 36 122 35 174 21 14 44 292 84 8 4 5 1,483 409 Austin 255 45 - 24 116 17 9 45 389 43 6 3 1 953 410 Merle Hay - 231 496 62 252 329 19 53 266 111 7 3 - 1,828 412 Coralville - 142 604 59 361 44 17 49 275 141 8 3 - 1,704 413 Lindale Plaza 868 182 732 53 228 37 19 44 416 131 8 3 - 2,722 414 Jordan Creek 2,117 192 760 98 290 75 32 50 516 169 16 3 - 4,318 418 Dubuque 721 242 319 54 161 195 46 57 525 116 8 3 - 2,447 419 Westroads 118 1,064 520 129 330 56 45 77 689 263 18 3 45 3,356 421 Davenport 669 263 292 35 152 121 17 45 270 77 7 4 7 1,960 422 Moline 1,188 56 264 92 199 174 23 52 315 82 8 3 2 2,457 423 Southridge 539 - - 30 148 132 14 48 367 64 7 3 - 1,352 424 Sioux Falls 1,223 295 325 94 241 144 13 44 469 160 12 3 - 3,022 429 Southern Hills 1,012 270 667 114 241 63 23 51 284 113 10 3 - 2,853 430 West Burlington 779 168 101 27 97 42 26 65 300 56 10 3 - 1,674 432 Eau Claire - 187 396 53 173 309 21 52 372 94 10 3 38 1,707 437 Valley West 981 193 1,512 410 364 151 26 74 519 278 27 12 - 4,546 438 Muskegon - 196 305 69 124 27 20 32 550 154 27 3 49 1,558 439 Sturgeon Bay 452 - 102 29 148 197 19 146 184 43 6 3 13 1,343 440 Grandville - 275 589 95 249 44 40 62 775 185 28 3 85 2,431 443 Traverse City 524 116 - 35 86 21 10 48 385 49 10 3 14 1,301 445 Lansing 1,555 176 286 52 168 224 8 48 473 89 8 3 73 3,163 447 Lincoln 930 210 277 59 255 32 31 57 377 110 9 3 11 2,362 448 Marshfield 308 16 - 21 83 50 13 58 171 88 6 3 14 830 449 Duluth - 124 600 203 311 51 20 51 767 278 11 3 1 2,421 451 Grand Island 467 59 85 29 106 30 8 42 217 69 6 3 8 1,129 457 Bay Park 2,556 78 717 92 198 166 31 72 406 135 13 4 51 4,521 463 Holland 399 152 49 44 91 52 10 47 254 79 8 3 31 1,219 464 Okemos 4,083 293 943 74 238 329 29 42 826 172 9 3 82 7,120 465 Port Huron 791 - - 30 96 40 15 51 308 68 8 4 25 1,438 475 Bay City 1,836 170 101 57 136 390 23 50 481 138 8 3 20 3,414 501 Bloomington 287 885 377 65 264 122 25 63 412 147 11 3 - 2,661 502 LaSalle Peru 616 86 95 59 157 136 24 53 378 80 9 3 - 1,695 503 Pekin 384 115 144 37 139 19 33 49 241 73 8 3 - 1,244 504 Champaign 1,351 546 143 66 208 140 26 73 699 146 11 3 - 3,410 505 Galesburg 493 95 49 34 117 24 27 58 311 47 6 3 - 1,262 507 Quincy 112 226 232 63 150 92 41 123 365 91 11 4 - 1,511
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 57 of 60
+
+The Bon-Ton Stores, Inc. Exhibit 4.1(c) - Occupancy - Per Diem Full Company Liquidation Store Closing List Excludes Distribution Centers
+
+TOTAL - PER DIEM
+
+Store # Store Name Base Rent
+
+Common Area Maintenance / LL Property Insurance Real Estate Taxes Insurance
+
+Building Repair & Maint. Occupancy Other Security Communications Utilities Supplies Equip. Leases Eqiup. Maint Other Taxes Total 508 Forsyth 92 280 251 42 185 112 24 58 298 74 7 3 - 1,427 510 Janesville 573 75 284 80 157 36 18 106 315 97 10 4 22 1,778 511 Sterling 837 168 10 27 107 21 17 116 206 63 7 3 - 1,582 512 Cherryvale 1,060 180 490 89 206 46 65 46 483 153 11 3 - 2,833
+
+515 Joliet 1,895 108 229 71 185 96 29 113 589 153 12 4 6 3,487 516 Spring Hill - 207 325 68 178 32 21 135 416 127 11 4 0 1,523 517 Randhurst 1,385 352 2,216 119 312 99 41 68 511 288 28 3 2 5,423 518 White Oaks 324 41 390 65 210 138 23 59 673 123 11 3 - 2,059
+
+519 Milwaukee Grand Ave 18 128 276 28 294 104 185 73 988 99 6 3 0 2,204
+
+520 Bayshore 1,230 182 571 113 477 65 38 76 843 245 38 4 165 4,045 521 Racine 1 178 494 61 256 32 14 99 501 134 11 4 71 1,855 522 Brookfield 4,254 24 847 209 550 122 25 50 1,447 346 49 5 151 8,078 523 Southridge 3,575 682 901 113 451 234 33 87 927 222 23 4 195 7,446 526 East Towne 1,526 194 321 78 165 204 20 63 630 144 10 3 63 3,422
+
+527 Mayfair 3,897 241 1,335 142 571 225 77 87 1,286 306 50 3 243 8,463 528 West Towne 3,016 195 420 105 281 96 21 73 558 212 34 4 103 5,119
+
+529 Brookfield Furniture 2,334 - 270 43 157 1,223 8 65 171 41 10 3 8 4,333
+
+530 Evergreen 2,395 93 92 106 356 122 44 119 635 204 34 4 2 4,206 531 Yorktown 2,358 519 755 175 561 123 48 147 736 365 20 4 - 5,810 532 Woodmar 629 258 1 53 299 64 20 108 399 147 10 3 94 2,084 533 Edens Plaza - 615 1,729 92 273 58 33 97 590 290 22 3 1 3,802
+
+535 Stratford Square 1,347 369 342 69 237 95 33 69 381 135 11 3 7 3,099
+
+538 Chicago Ridge 2,233 86 2,236 126 331 52 44 82 616 293 28 3 8 6,140
+
+539 Harlem Irving 2,308 2,678 1,211 232 435 84 69 64 698 320 32 3 13 8,148
+
+541 North Riverside 1,447 505 1,372 112 692 205 58 68 679 208 15 5 5 5,372
+
+542 Southlake 1,068 194 624 93 266 51 29 58 783 207 11 4 111 3,498 543 Orland Square 1,603 68 1,960 170 356 73 40 82 650 448 51 3 2 5,506
+
+546 Yorktown Furniture 1,542 205 505 35 74 996 18 72 119 29 5 3 - 3,602
+
+547 Edens Furniture 2,007 59 911 29 81 915 18 53 106 34 5 3 1 4,221
+
+548 Schaumburg Furniture
+
+1,663 158 1,011 36 87 807 23 49 118 32 5 3 1 3,994
+
+549 Michigan City 53 170 - 44 127 21 19 74 366 80 7 3 61 1,026
+
+550 Hawthorn 450 378 207 64 212 41 39 91 583 146 8 3 2 2,223 551 Ford City 539 218 686 82 204 185 64 60 1,404 203 11 3 - 3,658 552 Lincolnwood 2,696 - 2,025 90 281 61 40 62 823 207 18 3 2 6,309
+
+553 Bradley 2,311 63 430 63 161 147 67 67 431 120 10 3 2 3,873 554 St Charles 1,176 - - 49 194 119 43 67 740 130 10 3 - 2,532 555 Hawthorn Furniture Gallery
+
+1,563 175 - - 72 462 11 - - - - 3 - 2,287
+
+556 Fox Valley 660 387 349 163 436 29 35 66 676 125 8 4 - 2,938 561 Orland Park Furniture 2,186 72 - 57 81 1,267 15 52 155 36 4 4 1 3,929
+
+563 Grand Prairie 2,588 257 835 122 276 33 29 66 503 232 15 4 0 4,961
+
+571 Laurel Park 4,792 - 543 135 402 67 42 123 1,005 360 16 4 108 7,597
+
+572 Rochester Hills 13 219 390 103 357 38 31 56 651 230 19 4 97 2,209
+
+573 Partridge Creek 2,237 179 421 157 196 33 16 43 697 200 10 4 53 4,247
+
+579 Naperville Frn Clear. 242 - 62 11 86 259 9 1 619 39 1 1 - 1,331
+
+212 Total 230,444 39,426 73,743 12,953 39,000 22,497 4,725 11,540 82,672 22,322 2,419 779 4,513 547,032
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 58 of 60 EXHIBIT 8.1 SALE GUIDELINES
+
+A. The Sale shall be conducted so that the Stores in which sales are to occur will remain open no longer than during the normal hours of operation provided for in the respective leases for the Stores.
+
+B. The Sale shall be conducted in accordance with applicable state and local "Blue Laws", where applicable, so that no Sale shall be conducted on Sunday unless the Merchant had been operating such Store on a Sunday.
+
+C. On "shopping center" property, Agent shall not distribute handbills, leaflets or other written materials to customers outside of any Stores' premises, unless permitted by the lease or, if distribution is customary in the "shopping center" in which such Store is located; provided that Agent may solicit customers in the Stores themselves. On "shopping center" property, Agent shall not use any flashing lights or amplified sound to advertise the Sale or solicit customers, except as permitted under the applicable lease or agreed to by the landlord.
+
+D. At the conclusion of the Sale or the Designation Rights Period, as applicable, Agent shall vacate the Stores in broom clean condition; provided that Agent may abandon any FF&E not sold in the Sale at the Stores, the Distribution Centers, the Headquarters, or Merchant's other corporate offices at the conclusion of the Sale or the Designation Rights Period, as applicable, without cost or liability of any kind to Agent. Any abandoned FF&E left in a Store or Distribution Center, the Headquarters, or Merchant's other corporate offices after a lease is rejected shall be deemed abandoned to the landlord having a right to dispose of the same as the landlord chooses without any liability whatsoever on the part of the landlord to any party and without waiver of any damage claims against the Merchant. For the avoidance of doubt, as of the Sale Termination Date or termination of the Designation Rights Period, as applicable, Agent may abandon, in place and without further responsibility or liability of any kind, any FF&E located at a Store or, Distribution Center, the Headquarters, or Merchant's other corporate offices.
+
+E. Following, and subject to, the entry of the Approval Order, Agent may advertise the Sale as a "store closing", "sale on everything", "everything must go" or similar-themed sale, as dictated by the Approval Order.
+
+F. Agent shall be permitted to utilize display, hanging signs, and interior banners in connection with the Sale; provided, however, that such display, hanging signs, and interior banners shall be professionally produced and hung in a professional manner. The Merchant and Agent shall not use neon or day-glo on its display, hanging signs, or interior banners. Furthermore, with respect to enclosed mall locations, no exterior signs or signs in common areas of a mall shall be used unless otherwise expressly permitted in these Sale Guidelines. In addition, the Merchant and Agent shall be permitted to utilize exterior banners at (i) non- enclosed mall Stores and (ii) enclosed mall Stores to the extent the entrance to the applicable Store does not require entry into the enclosed mall common area; provided, however, that such banners shall be located or hung so as to make clear that the Sale is being conducted only at the affected Store, shall not be wider than the storefront of the Store, and shall not be larger than 4 feet x 40 feet. In addition, the Merchant and Agent shall be permitted to utilize sign walkers in a safe and professional manner and in accordance with the terms of the Approval Order. Nothing contained in these Sale Guidelines shall be construed to create or impose upon Agent any additional restrictions not contained in the applicable lease agreement.
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 59 of 60
+
+F. Conspicuous signs shall be posted in the cash register areas of each of the affected Stores to effect that "all sales are final."
+
+G. Except with respect to the hanging of exterior banners, Agent shall not make any alterations to the storefront or exterior walls of any Stores.
+
+H. Agent shall not make any alterations to interior or exterior Store lighting. No property of the landlord of a Store shall be removed or sold during the Sale. The hanging of exterior banners or in- Store signage and banners shall not constitute an alteration to a Store.
+
+I. Agent shall keep Store premises and surrounding areas clear and orderly consistent with present practices.
+
+J. Subject to the provisions of the Agreement, Agent shall have the right to sell all Owned FF&E at the Closing Stores and the Distribution Centers, the Headquarters and (subject to any side letter between JV Agent and Purchaser, which shall not in any way affect Merchant's rights under the Agreement) and Purchaser shall have the right to sell all Owned FF&E at the Designation Rights Stores and the Nebraska Distribution Center. JV Agent may advertise the sale of the Owned FF&E in a manner consistent with these guidelines at the Closing Stores and the Indiana Distribution Center and Purchaser may advertise the sale of the Owned FF&E in a manner consistent with these guidelines at the Designation Rights Stores and the Nebraska Distribution Center. The purchasers of any Owned FF&E sold during the sale shall be permitted to remove the Owned FF&E either through the back shipping areas at any time, or through other areas after applicable business hours. For the avoidance of doubt, as of the Sale Termination Date or the termination of the Designation Rights Period, as applicable, Agent may abandon, in place and without further responsibility, any FF&E at the Stores, the Distribution Centers, the Headquarters, and Merchant's other corporate offices.
+
+K. Agent shall be entitled to include Additional Agent Merchandise in the Sale in accordance with the terms of the Approval Order and the Agreement.
+
+L. At the conclusion of the Sale at each Store, pending assumption or rejection of applicable leases, the landlords of the Stores shall have reasonable access to the Stores' premises as set forth in the applicable leases. The Merchant, Agent and their agents and representatives shall continue to have access to the Stores as provided for in the Agreement.
+
+M. Post-petition rents shall be paid by the Merchant as required by the Bankruptcy Code until the rejection or assumption and assignment of each lease. Agent shall have no responsibility to the landlords therefor.
+
+N. The rights of landlords against Merchant for any damages to a Store shall be reserved in accordance with the provisions of the applicable lease.
+
+O. If and to the extent that the landlord of any Store affected hereby contends that Agent or Merchant is in breach of or default under these Sale Guidelines, such landlord shall email or deliver written notice by overnight delivery on the Merchant, JV Agent and Purchaser as follows:
+
+If to Agent:
+
+Great American Group, LLC Attn: Scott Carpenter (scarpenter@greatamerican.com)
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1 Filed 04/18/18 Page 60 of 60 Alan Forman (aforman@brileyfin.com)
+
+and
+
+Tiger Capital Group, LLC Attn: Christopher Huber (chuber@tigergroup.com) Mark Naughton (mnaughton@tigergroup.com)
+
+and
+
+Wilmington Savings Fund Society, FSB Attn: [_]
+
+With copies (which shall not constitute notice) to:
+
+Lowenstein Sandler LLP Counsel to Great American Group LLC Attn: Kenneth A. Rosen (krosen@lowenstein.com) Andrew Behlmann (abehlmann@lowenstein.com)
+
+and
+
+Kilpatrick Townsend & Stockton LLP Counsel to WSFS Attn: David Posner (dposner@kilpatricktownsend.com)
+
+and
+
+Jones Day Counsel to Second Lien Noteholders Attn: Sidney P. Levinson (slevinson@jonesday.com) Joshua M. Mester (jmester@jonesday.com) John Kane (jkkane@jonesday.com)
+
+If to Merchant: with a copy (which shall not constitute notice) to:

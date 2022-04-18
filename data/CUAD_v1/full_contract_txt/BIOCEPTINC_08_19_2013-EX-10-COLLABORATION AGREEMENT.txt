@@ -1,0 +1,485 @@
+Exhibit 10.13
+
+COLLABORATION AGREEMENT
+
+THIS COLLABORATION AGREEMENT (the "Agreement") is entered into as of November 2, 2012 (the "Effective Date") by and between BIOCEPT, INC., a California corporation having an address of 5810 Nancy Ridge Drive, Suite 150, San Diego, CA 92121 ("Biocept"), and LIFE TECHNOLOGIES  CORPORATION, a Delaware corporation having an address of 5791 Van Allen Way, Carlsbad, California 92008 ("Life Technologies").
+
+WHEREAS, Life Technologies, through its Medical Sciences Division, is engaged in the development and commercialization of diagnostic systems, tests and laboratory services, including in oncology;
+
+WHEREAS, Biocept has developed expertise and proprietary technology in enrichment, extraction and analysis of circulating tumor cells (CTCs) for use in laboratory developed tests used for the non-invasive and early stage detection and characterization of primary, metastatic or recurrent cancers; and
+
+WHEREAS, Life Technologies and Biocept desire to collaborate so that Biocept will develop and commercialize one or more Tests, as defined herein, for Non-Small Cell Lung Cancer (NSCLC), using their respective technologies and expertise, on the terms and subject to the conditions set forth herein. Life Technologies and Biocept will both promote the test and perform different components of the test, and Life Technologies will provide test results in the form of reports to physicians.
+
+NOW, THEREFORE, in consideration of the foregoing premises and the mutual covenants contained herein, and intending to be legally bound, the parties hereby agree as follows:   1. DEFINITIONS
+
+1.1 "Affiliate" shall mean any company or entity controlled by, controlling, or under common control with a party hereto and shall include any company more than 50% of whose voting stock or participating profit interest is owned or controlled, directly or indirectly, by a party, and any company which owns or controls, directly or indirectly, more than 50% of the voting stock of a party.
+
+1.2 "Assay" shall mean Biocept's OncoCEE-LU™ (and OncoCEE-LU™ with Mutation Analysis) laboratory developed assay for characterization and profiling of CTCs from NSCLC patients, which shall incorporate, as Phase 1, CTC enumeration by cytokeratin and CD45 (and CEE-Enhanced™ when available), EML4/Alk1 fusions and EGFR amplification by fluorescence in situ hybridization (determined by Biocept); and as Phase 2, the additional detection of mutations for relevant genes, e.g., K-RAS, EGFR and B-RAF, as agreed by the parties, on captured CTCs and/or cell-free circulating DNA, as agreed by the parties, and employing technologies that potentially may include Biocept's Selector technology, and any improvements or enhancements thereto, exclusive of new analytes (which are discussed in Section 3.5(f) under Collaboration Assays) or applications to primary screening.
+
+
+
+
+
+1.3 "Biocept Trademarks" shall mean Biocept, Inc., "OncoCEE-LU ", "OncoCEE™", "CEE-Sure ", CEE- Enhanced™", and/or such other trademarks and trade names owned or licensed, and used, by Biocept and/or its Affiliates in the Territory to identify the Tests, in each case, whether or not registered.
+
+1.4 "Life Technologies Trademarks," shall mean Life Technologies , Life Technologies Medical Sciences and/or such other trademarks and trade names owned or licensed and used by Life Technologies to identify the Tests, in each case, whether or not registered.
+
+1.5 "CLIA" shall mean the Clinical Laboratory Improvement Amendments of 1988, as it may be amended from time to time.
+
+1.6 "Collaboration" shall have the meaning provided Section 3.1.
+
+1.7 "Collaboration Assay(s)" shall have the meaning provided in Section 3.5(e).
+
+1.8 "CPT Code" shall mean the American Medical Association's ("AMA") "Current Procedural Terminology" as published in the AMA's CPT Process Manual, Fourth Edition and any such future editions, for procedures used in performance of the Assay, and amounts reimbursed by Medicare for such procedures for location 99, as modified annually.
+
+1.9 "Designated Executive Officer" shall mean the executive officers of each party designated in writing be each party as being responsible for resolving disputes related to the Collaboration, which shall initially be David Hale on behalf of Biocept and Ronnie Andrews on behalf of Life Technologies.
+
+1.10 "FDA" shall mean the United States Food and Drug Administration, or any successor federal agency thereto.
+
+1.11 "HIPAA" shall mean, collectively, the Health Insurance Portability and Accountability Act of 1996, as amended, and all regulations promulgated thereunder at 45 C.F.R. parts 160 through 164, and the Health Information Technology for Economic and Clinical Health Act of 2009 and related regulations and guidelines.
+
+1.12 "Intellectual Property Rights" means all now or hereafter existing patents, patent applications, copyrights, trademarks (including service marks), trade secrets, know-how, mask work rights and design rights, whether registered or unregistered, and all rights or forms of protection of a similar nature having equivalent or similar effect to any of the foregoing, which may subsist anywhere in the world.
+
+1.13 "Launch" shall mean formal commercial availability and offering to physicians of a Test, as mutually agreed upon by the parties.
+
+1.14 "Laws" shall mean all federal, state and local laws and regulations that apply to this Agreement including, without limitation, (i) the Bayh-Dole Act (ii) the
+
+2
+
+TM TM
+
+TM
+
+
+
+
+
+Federal Food, Drug, and Cosmetic Act (21 U.S.C § 321 et seq.) (iii) the federal Anti-kickback Statute (42 U.S.C. § 1320a- 7b(b)) (iv) the Stark Law (42 U.S.C. § 1395nn) (v) the Anti-Inducement Law (42 U.S.C. § 1320a-7a(a)(5)) (vi) the civil False Claims Act (31 U.S.C. §§ 3729 et seq.) (vii) the administrative False Claims Law (42 U.S.C. § 1320a-7b(a)) (viii) the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. § 1320d et seq.), (ix) the exclusion laws (x) SSA § 1128 (42 U.S.C. § 1320a-7) (xi) Medicare (Title XVIII of the Social Security Act), (xii) Medicaid (Title XIX of the Social Security Act); (xiii) the Clinical Laboratory Improvements Act of 1988 (CLIA); and (xiv) data security, protection and privacy laws in the applicable jurisdictions.
+
+1.15 "Professional Component" shall mean the performance of the professional component of the steps of the Assay, which is the interpretation of results (generated in the Technical Component) of an Assay by a pathologist, and is covered by CPT codes from the Professional Fee Schedule with the modifier "26".
+
+1.16 "Technical Component" shall mean the performance of the technical component of the steps of the Assay, which is the physical performance of the Assay procedure up to the interpretation of results, and is covered by CPT codes from the Professional Fee Schedule without the modifier "26", and typically with a modifier "TC".
+
+1.17 "Term" shall have the meaning provided in Section 11.1.
+
+1.18 "Test(s)" shall mean the Assay, which is a laboratory developed test, and/or any Collaboration Assay which is added to this Agreement pursuant to Section 3.5(e), performed as a clinical reference laboratory test.
+
+1.19 "Territory" shall mean the United States of America, and other countries of the world, contingent in the latter case on the parties agreeing in writing on an appropriate strategy to access them in accordance with Section 3.2.
+
+1.20 "Third Party(ies)" shall mean any entity other than Biocept or Life Technologies or an Affiliate of Biocept or Life Technologies.   2. APPOINTMENT; LICENSES
+
+2.1 Appointment. Upon the terms and conditions set forth in this Agreement, Biocept hereby grants Life Technologies during the Term the non-exclusive right, as further defined in Section 2.3, to promote the Tests in the Territory and to perform the Professional Component of the Tests sold by the parties in the Territory, in accordance with the terms of this Agreement.
+
+2.2 Trademark Licenses. The parties hereby grant to each other non-exclusive, fully-paid, royalty-free licenses to utilize the other party's trademarks, as follows:
+
+(a) Biocept Trademarks. To facilitate the promotion and performance of Tests, during the Term Biocept hereby grants Life Technologies a non-exclusive, royalty-free, non-transferable license to use the Biocept Trademarks solely for
+
+3
+
+
+
+
+
+use in connection with the promotion and performance of the Tests in the Territory. All materials associated with the Tests and used by Life Technologies in connection with the promotion of the Tests, including web-based, shall be co-branded with such Biocept Trademarks as approved by Biocept prior to distribution. All use of Biocept Trademarks by Life Technologies hereunder (including all goodwill arising as a result of such use) shall inure to the benefit of Biocept, and these rights, whether registered or not registered, at all times shall remain the sole property of Biocept. Biocept shall provide Life Technologies with copies of the Biocept Trademarks in an appropriate form for the uses contemplated in this Agreement. Life Technologies shall provide Biocept with samples of all proposed use of the Biocept Trademarks in advance of such proposed use and Biocept shall have the right to approve the appearance and placement of Biocept Trademarks by Life Technologies for the purpose of protecting and maintaining the standards of quality maintained by Biocept for products sold under the Biocept Trademarks and for use of the Biocept Trademarks. If Biocept at any time finds that Life Technologies is not in compliance with this Section, then Biocept may notify Life Technologies in writing of such deficiencies, and if Life Technologies fails to correct such deficiencies within thirty (30) days after receipt of such notice, Biocept may, at its election and in addition to any other remedies, terminate the license granted to Life Technologies with respect to the Biocept Trademarks. Life Technologies shall display the ™ or   symbol, as directed by Biocept, in connection with Life Technologies' use of the Biocept Trademarks.
+
+(b) Life Technologies Trademarks. To facilitate the promotion and performance of Tests, during the Term Life Technologies hereby grants Biocept a non-exclusive, royalty-free, non-transferable license to use the Life Technologies Trademarks solely for use in connection with the promotion and performance of the Tests in the Territory. Materials associated with the Tests and used by Biocept in connection with the promotion of Tests, including web-based materials, may be co-branded with such Life Technologies Trademarks as approved by the parties prior to distribution. All use of Life Technologies Trademarks by Biocept hereunder including all goodwill arising as a result of such use) shall inure to the benefit of Life Technologies, and these rights, whether registered or not registered, at all times shall remain the sole property of Life Technologies. Life Technologies shall provide Biocept with copies of the Life Technologies Trademarks in an appropriate form for the uses contemplated in this Agreement. Biocept shall provide Life Technologies with samples of all proposed use of the Life Technologies Trademarks in advance of such proposed use and Life Technologies shall have the right to approve the appearance and placement of Life Technologies Trademarks by Biocept for the purpose of protecting and maintaining the standards of quality maintained by Life Technologies for products sold under the Life Technologies Trademarks and for use of the Life Technologies Trademarks. If Life Technologies at any time finds that Biocept is not in compliance with this Section, then Life Technologies may notify Biocept in writing of such deficiencies, and if Biocept fails to correct such deficiencies within thirty (30) days after receipt of such notice, Life Technologies may, at its election and in addition to any other remedies, terminate the license granted to Biocept with respect to the Life Technologies Trademarks. Biocept shall display the ™ or   symbol, as directed by Life Technologies, in connection with Biocept's use of the Life Technologies Trademarks.
+
+4
+
+®
+
+®
+
+
+
+
+
+2.3 Exclusivity. During the Term, the parties will promote and perform Tests for the clinical testing market on a non- exclusive basis in the Territory, except as otherwise provided for below. Biocept will have sole responsibility for performing the Technical Component of all Tests sold by the parties, until and unless Life Technologies obtains the right from Biocept to independently develop its own Tests in accordance with all applicable FDA regulatory requirements, as provided for in Section 7.1. Life Technologies will be authorized to perform the Professional Component of all Tests sold by the parties, although Biocept may engage other groups in promotion, marketing and performance arrangements for the Tests, at the discretion of Biocept. Biocept shall provide thirty (30) days written notice to Life Technologies before entering into any such promotion, marketing and performance arrangement.   3. COLLABORATION
+
+3.1 Purpose. During the Term, the parties agree to cooperate and collaborate to develop, promote and commercialize the Tests for the clinical testing market in the Territory and in accordance with the terms of this Agreement (the "Collaboration"). The principal objective of the parties hereunder is to maximize the commercialization of the Tests in the Territory. The parties shall deploy each of their respective sales forces in accordance with the terms of this Agreement in an effort to promote the Tests in the Territory in the manner as agreed to by the parties, under the direction of the Joint Steering Committee.
+
+3.2 Commercialization of Tests Outside the USA. At any time for up to two (2) years after the Effective Date, should Life Technologies desire to offer for sale any Test outside the USA, it shall first discuss with Biocept an appropriate strategy and plan for such effort. Such strategy and plan may involve the development of, and obtaining all applicable regulatory authorizations for, an in vitro diagnostic kit, instruments or similar systems, in collaboration with Biocept (with funding support, and more fully described in Section 7.2), such strategy and plan to be reduced to writing and approved by the parties. If such written plan is not approved by the parties within two (2) years of the Effective Date, the Territory shall revert to only the USA, unless otherwise agreed to by the parties.
+
+3.3 Life Technologies Responsibilities. Life Technologies shall use commercially reasonable efforts to promote the Tests in the Territory, in accordance with Section 3.2, using sales channels and methods, and adhering to substantially similar standards that it generally employs with respect to its laboratory developed tests. Without limiting the foregoing, Life Technologies' responsibilities with respect to marketing and promotion of the Tests in the Territory during the Term shall include the following:
+
+(a) Life Technologies Customers. Life Technologies shall use commercially reasonable efforts to promote the Tests to the appropriate healthcare professionals.
+
+5
+
+
+
+
+
+(b) Test Performance. Life Technologies shall have the responsibility, subject to its capacity to support in its reasonable discretion (of which capacity Life Technologies shall notify Biocept in writing at least sixty (60) days before launch of the Assay, and use diligent efforts to notify Biocept at least thirty (30) days before discovery of any decreases or increases in such capacity), for performing the Professional Component of the Assays sold by either party in the Territory. In particular, the laboratory director of the Life Technologies CLIA laboratory will be responsible for issuing and signing off on the report.
+
+(c) Sales, Marketing and Customer Service.
+
+(i) Life Technologies shall, at its sole expense and in accordance with Section 2.2, develop and deliver to customers marketing materials for the Tests. Life Technologies shall use, as appropriate, Biocept's "OncoCEE-LU ", OncoCEE™", "CEE-Enhanced™" and "CEE-Sure" brand and the Biocept corporate name and logo, together with any Life Technologies branding, as part of the marketing materials for the marketing of the Tests and, where appropriate, in its other public presentations and disclosures concerning the Assay or Tests. Biocept shall have the right to review all such materials prior to their initial use.
+
+(ii) Life Technologies shall cause its sales force to use commercially reasonable efforts to promote the Tests.
+
+(iii) Life Technologies shall use commercially reasonable efforts to promote the sale of the Tests by including the Tests in its menu of services and by incorporating marketing materials regarding the Tests into its own marketing materials.
+
+(iv) Life Technologies shall keep Biocept reasonably informed of its planned marketing activities with respect to the Tests to allow Biocept to forecast its needs for reagents, equipment, laboratory space, personnel, computing, and testing reporting capabilities, including at each Joint Steering Committee meeting as indicated in Section 4, and will discuss and consider in good faith Biocept's suggestions for marketing the Tests.
+
+(v) Life Technologies will provide customer service and support for the Professional Component of the Tests using substantially similar methods and adhering to substantially similar standards that it generally employs with respect to its other products and tests.
+
+(d) Samples and Logistics.
+
+(i) Life Technologies will be responsible for the logistics associated with its marketing efforts and performance of the Professional Components of the Tests; provided, however, that Biocept will send the sample collection systems directly to customers identified by Life Technologies who order the Test, at Life Technologies' expense. Biocept will further work with Life Technologies to facilitate transport of collected samples from the customer to Biocept's CLIA laboratory. Life
+
+6
+
+TM
+
+TM
+
+
+
+
+
+Technologies will work collaboratively with Biocept on patient referral, billing and collections in accordance with Section 3.5(c) (iii), reporting of results and reporting quality control, and insurance or patient reimbursement.
+
+(e) Demand Forecast. Within sixty (60) days of the Effective Date, Life Technologies will prepare a draft one-year rolling forecast of Life Technologies' expectation for physician requests for the Assay (the "Demand Forecast"), broken down into quarterly demand for the Assay (with respect to each quarter, the "Quarterly Forecast") which will be attached hereto as Exhibit A, and will be finalized three (3) months before Launch. Beginning on the first day of the second (2 ) full calendar quarter following the date of Launch, the Demand Forecast shall be updated on a quarterly basis. The Demand Forecast and Quarterly Forecasts shall be a good faith but non-binding forecast. In the event the parties develop a Collaboration Assay under the terms of this Agreement, demand for such Collaboration Assay shall be included in the Demand Forecast at all times following the Launch of such Collaboration Assay. A Performance Standard, mutually agreed to in accordance with Section 3.5(i), shall take effect beginning with the second (2 ) full calendar quarter after the launch of any Test.
+
+(f) Technical Developments. Life Technologies shall keep Biocept fully informed as to all discoveries and technical developments (including, without limitations, any inventions) made by Life Technologies during the Term related to the Assay or Tests.
+
+(g) Billing, Reporting, Auditing.
+
+(i) In all cases where Life Technologies performs the Professional Component of the Assay, Life Technologies shall be responsible for billing the patient, the provider and/or the payer for the Test, including both the Technical Component and the Professional Component of the Assay, and the collection of such amounts with respect to each Test performed. Biocept shall bill Life Technologies directly once a month for the Technical Component of each Assay (including the cost for sample collection in accordance with Section 3.5(b)), based on pricing and reimbursement as agreed by the parties through the Joint Steering Committee within sixty (60) days of the Effective Date, generally based on each applicable CPT Code actually used in the performance of such Technical Component, employing the Medicare rates for the applicable year as described on Exhibit B for the initial one (1) year period, and Life Technologies shall pay Biocept within sixty (60) days following the invoice date. The parties shall disclose actual reimbursement for each Test, and shall reconcile or "true-up" any differences between the amounts actually received by Life Technologies for each billing item or code and amounts paid to Biocept on a quarterly basis. If the allocation of reimbursement is ambiguous with respect to billing codes or a Technical Component/Professional Component split, amounts received by Life Technologies that differ from the amounts agreed by the parties, or Medicare rates, shall be shared by the parties on the same ratio as the Technical Component/Professional Component ratio for Medicare. The Medicare rates used by the parties as the basis for determining the amount Life Technologies will pay Biocept for the Technical Component of the Assay before the quarterly true-up will be adjusted annually at the beginning of the calendar year to reflect
+
+7
+
+nd
+
+nd
+
+
+
+
+
+changes to such Medicare rates. Should Medicare change the basis for reimbursement of the Assay, the parties shall agree to negotiate a structure for revenue sharing that generally accomplishes the result achieved above. Both parties agree to strictly adhere to all applicable Laws with respect to billing practices.
+
+(ii) This Section 3.3(g) shall survive any termination or expiration of this Agreement for at least twelve (12) months following the effective date of such termination or expiration.
+
+3.4 Biocept Responsibilities. Biocept shall use commercially reasonable efforts to promote the sale of the Tests in the Territory, using at least the same sales channels and methods and adhering to at least the same standards that it generally employs with respect to its other clinical tests. Without limiting the foregoing, Biocept's responsibilities during the Term shall include the following:
+
+(a) Biocept Customers. Biocept shall use commercially reasonable efforts to promote the Tests to appropriate healthcare professionals.
+
+(b) Assay Performance. Biocept shall be responsible for performing all Technical Components of all Assays sold by either party unless and until the parties agree to enable Life Technologies to independently develop, validate and perform the Test at Life Technologies' CLIA laboratory, in accordance with all applicable FDA regulatory requirements and Section 7.1. Until such point of transfer, Biocept shall comply with all CLIA requirements, including validation of the Assay.
+
+(c) Sales, Marketing and Customer Service.
+
+(i) Biocept shall cause its sales force to promote the Assay.
+
+(ii) Biocept shall keep Life Technologies reasonably informed of its planned marketing activities with respect to the Assay to allow Life Technologies to forecast its needs for equipment, space, personnel, computing, and test reporting capabilities, including at each Joint Steering Committee meeting as indicated in Section 4, and will discuss and consider in good faith Life Technologies' suggestions for marketing the Assay.
+
+(iii) Biocept will provide customer service and support for the Assay using substantially similar methods and adhering to substantially similar standards that it generally employs with respect to its other tests.
+
+(d) Samples and Logistics. Biocept will be responsible for the logistics associated with its own marketing efforts and performance of the Technical Component of the Assay, including distribution of shipping materials and sample collection systems by its sales representatives, patient referral and customer service.
+
+8
+
+
+
+
+
+(e) Training and Education.
+
+(i) Biocept shall provide sales and technical training and technical support, including assistance with customer education and customer consultations, to Life Technologies' personnel, with the frequency and content of the training to be determined by agreement between Biocept and Life Technologies.
+
+(ii) Biocept will share its service educational materials and scientific publications to utilize in patient education with Life Technologies, and hereby grants Life Technologies rights to use such materials as are reasonably necessary for Life Technologies to carry out its obligations under this Agreement. Life Technologies may not alter or revise these materials without the prior written consent of Biocept.
+
+(f) Regulatory Approval. Biocept has licenses enabling it to perform and obtain reimbursement for the Assay in all states in the Territory except New York, where it is currently seeking such license. Biocept will maintain all such licenses which are reasonably required to perform the Assay during the Term.  For any Collaboration Assay, Biocept will use commercially reasonable efforts to obtain or maintain licenses enabling it to perform such Collaboration Assay and obtain reimbursement therefore, in accordance with each amendment to this Agreement entered in accordance with Section 3.5(f). Life Technologies will cooperate with Biocept so that Life Technologies' marketing and sales efforts are conducted only in those states or regions of the Territory in which Biocept has obtained any necessary regulatory licenses to provide Tests.
+
+(g) Technical Developments. Biocept shall keep Life Technologies fully informed as to all discoveries and technical developments (including, without limitations, any inventions) made by Biocept during the Term related to the Tests.
+
+3.5 Joint Responsibilities. The parties shall use commercially reasonable efforts to cooperate and collaborate to develop the market for the Tests in the Territory. Without limiting the generality of the foregoing, the parties shall collaborate to provide the following:
+
+(a) Test Development. The parties shall mutually agree on the content and composition of Phase II of the Assay, and any Collaboration Assays as defined in Section 3.5(f), including specific analytes to be included in the Assay. Consideration for selection of analytes shall include medical need, clinical utility, technical feasibility, costs, reimbursement, and intellectual property status, e.g., the need for Third Party licenses to specific analytes. The parties shall agree on the Phase II Assay content at least six (6) months before anticipated Launch.
+
+(b) Test Materials and Shipping. Subject to Section 3.3(c)(i), Life Technologies shall design and order all test materials, including test requisition forms, test reports and collateral sales and marketing (advertising and promotional) materials to be used by Life Technologies, which shall be approved by Biocept prior to use. Biocept shall design, order and provide to Life Technologies the collection systems to be used by Life Technologies, and Life Technologies shall pay for such collection systems used by
+
+9
+
+
+
+
+
+its sales representatives under this Agreement at cost (direct materials and direct labor) plus ten percent (10%), as well as shipping costs of collection systems from ordering physicians to Biocept.
+
+(c) Performance of Tests.
+
+(i) The parties will work together to develop a plan to implement detailed operation protocols for the Test within ninety (90) days of the Effective Date for each aspect of sample logistics, including ordering, shipping, accessioning, sample handling, testing, data generation, data evaluation and reporting. These sample logistics shall be agreed upon by the parties through the Joint Steering Committee and, once agreed upon by the parties in writing, deemed to be attached hereto as Exhibit C without any additional action required on the part of either party. Information, data and images shall be transferred between the parties as indicated for this purpose, and the parties will seek to make their respective laboratory information management systems and data transfer capabilities compatible. Life Technologies' lab director at the CLIA lab will sign off on the reports for Tests.
+
+(ii) If Life Technologies desires to utilize the Tests in support of any clinical trial or research program for a pharmaceutical or biotechnology company(ies) in the Territory, Life Technologies shall notify Biocept in writing of such desired use. The terms and conditions (including pricing and revenue sharing) of each such use shall be covered by a separate written agreement which the parties agree to negotiate in good faith.
+
+(iii) Each party will use commercially reasonable efforts to support the other in the account to best meet the needs and expectations of each customer.
+
+(d) Communication Plan. Life Technologies and Biocept shall develop a communications plan through the Joint Steering Committee for the announcement and ongoing promotion of the Tests to customers, with all communication plan materials, including test requisition forms, being co-branded with Biocept and Life Technologies corporate names and logos in accordance with Sections 2.2 and 3.3(c)(i).
+
+(e) Data Sharing. Life Technologies and Biocept have entered into this Agreement to, among other things, establish individual databases of results from the Tests performed, which databases will include patient information such as demographic, disease characterization, treatment and outcome information. To that end, to the extent permitted by applicable law and as mutually agreed by the parties, where available each party will share all patient data, Test data and results, and corresponding tissue data with the other party, as well as any follow up or outcome data that may become available or provided by the physician or patient for Tests performed and will cooperate in good faith with the other party to agree upon procedures for sharing such information. Such information may be used only for longitudinal reporting, outcomes correlation and related research, shall be handled in accordance with all applicable Laws, including, without limitation, HIPAA, and applicable institutional review board guidelines, and shall not be used for the purpose of obtaining information about the other party's clients or customers. To the extent feasible, all such information will be properly de-identified.
+
+10
+
+
+
+
+
+(f) Collaboration Assays. During the Term, Biocept shall keep Life Technologies reasonably apprised of its plans to add analytes to the Assay. In addition, Life Technologies may desire for Biocept to develop a specific new analytes for the Assay (for example, the inclusion of additional mutations to the mutation analysis component of the Assay), to be offered by the parties as an additional Test under this Agreement. In either case, the parties shall negotiate in good faith an amendment to this Agreement that will govern the development (as needed) and commercialization of such Tests with new analytes (each a "Collaboration Assay"), which amendment may include financial support, contributions of and access to each party's technology and/or clinical samples, milestones, timing of the development effort, exclusivity and ownership rights. Any such agreed upon Collaboration Assay development shall be performed by Biocept or jointly as the parties may agree. Once the parties have agreed upon a plan relating to the development of a particular Collaboration Assay, if development is needed (each, a "Project"), the parties shall reduce such agreement to writing, which shall include a project plan which will set forth each party's obligations with respect to the Project (each, a "Project Plan") and thereafter, such Collaboration Assay shall be deemed a Test for all purposes under this Agreement and shall be subject to the terms of this Agreement as amended. Each such Project Plan shall be attached as a part of Exhibit D to this Agreement following written acceptance thereof by both parties without any additional action required on the part of either party. Any amendments or revisions to a Project Plan shall be mutually agreed upon by the parties in writing.
+
+(g) Costs and Expenses. Unless otherwise specified herein or in a Project Plan attached hereto, each party shall perform its activities under this Agreement at its sole cost and expense.
+
+(h) Training and Education.
+
+(i) The parties shall work together to develop and implement a training program for client services and the sales and marketing representatives of each party to ensure that a clear and consistent message is delivered to all prospective customers. Following such implementation, each party agrees to train its client services and sales and marketing representatives in accordance with such training program.
+
+(ii) Representatives of each party, where deployed, shall each educate physicians, clinical and support personnel on the Tests, their applications and benefits, and the procedures for providing samples for the Tests. The Joint Steering Committee will approve all presentation and meeting materials. In addition, the parties will each be responsible for providing customer support related to test logistics, billing and reimbursement, and for establishing a call center to handle inquiries related to the Tests. For purposes of clarity, the parties acknowledge and agree that Life Technologies will not be required to establish a dedicated web portal, but all results of Tests will be made available through an existing Life Technologies portal solution, once commercially available for use, as determined by Life Technologies at its sole discretion. Technical or
+
+11
+
+
+
+
+
+process questions regarding the Tests received by Life Technologies can be referred to Biocept. Each party will cover its own costs related to physician education, customer support, and any travel related thereto and comply with all federal and state regulations regarding the same.
+
+(i) Performance Standards. Each party shall conduct its activities under this Agreement and any Project Plan in a professional and workmanlike manner, and in compliance in all material respects with the requirements of applicable Laws and regulations, to attempt to achieve the objectives of this Agreement efficiently and expeditiously. Each party shall contribute such personnel and resources, and shall maintain such laboratories and other facilities, as are reasonably necessary to carry out the activities to be performed under this Agreement, including any Project Plans. In conformity with standard industry practices and the terms and conditions of this Agreement, each party shall prepare and maintain, or shall cause to be prepared and maintained, complete and accurate written records, accounts, notes, reports and data with respect to activities conducted by such party under this Agreement, including any Project Plans. In addition, the parties shall work together to establish minimum agreed upon performance standards with respect to the promotion, sales and performance of the Tests, including the Demand Forecast, and the timely supply, accuracy, reliability and reporting of the Tests, as well as responsiveness to customer inquiries related to the Tests throughout the Territory (collectively, "Performance Standards"). In the event that one or more Performance Standards are not met by a party, the parties will work quickly and efficiently to (i) identify the cause of the failure, (ii) develop a plan to remediate the issue, and (iii) implement the remediation plan. If the parties are unable to successfully resolve a Performance Standards issue by this procedure, such failure to maintain Performance Standards shall constitute a material breach by the party failing to maintain such Performance Standards, and the other party may terminate this Agreement in accordance with Section 11.2.
+
+(j) Bundling. Neither party shall bundle its assays (including the Tests) with any assays of the other party, without the prior written approval of that party.   4. JOINT STEERING COMMITTEE
+
+4.1 Purpose and Membership. Promptly following the Effective Date, Biocept and Life Technologies will create a Joint Steering Committee for the purpose of facilitating communications between the parties regarding, and providing direction and leadership to, the Collaboration. The Joint Steering Committee shall be composed of six (6) representatives, three (3) each from Biocept and Life Technologies, each of whom shall have appropriate experience, knowledge and authority within such party's organization to carry out the duties and obligations of the Joint Steering Committee. Each party will designate one of its representatives as the primary contact for that party with respect to Joint Steering Committee-related matters, and such representatives shall serve as co-chairpersons of the Joint Steering Committee. Each party may change its representatives to the Joint Steering Committee or its primary contact from time to time in its sole discretion, effective upon notice to the other party of such change. These representatives shall have appropriate technical credentials, experience and knowledge. A reasonable number of additional representatives of a party may attend meetings of the Joint Steering Committee in a non-voting capacity.
+
+12
+
+
+
+
+
+4.2 Duties. The Joint Steering Committee shall meet in person or by teleconference or videoconference no less than monthly during the Term or as otherwise mutually agreed by the parties from time to time, with attendees other than Joint Steering Committee members permitted to participate in or observe the meetings. The Joint Steering Committee shall be responsible for (a) monitoring the progress of the Collaboration, including discussions relating to Collaboration Assays, (b) physician education with respect to the Tests, (c) marketing, sales and account coordination, (d) any regulatory inquiries or requirements and other issues that affect the availability of the Tests, and (e) reimbursement issues (including annual review of relevant CPT Codes and changes thereto), logistical considerations, and other topics as necessary. The Joint Steering Committee shall serve as the principal forum for each party to (i) keep the other party informed of the results of its Collaboration activities; (ii) to discuss Test commercialization strategies, and (iii) generally to encourage and facilitate ongoing cooperation between the parties with respect to the Collaboration, including the business relationship and/or any other matter relating to the Collaboration and resolving disputes between the parties with respect to Intellectual Property Rights; provided, however, that (A) nothing in this Agreement shall limit either party's right to seek immediate equitable or injunctive relief where appropriate without any obligation to first submit the dispute to the Joint Steering Committee; and (B) any decision concerning medical necessity and patient care with respect to Test sold by or performed on behalf of the parties shall be the responsibility of each party's Medical Director, with the two Medical Directors working together to coordinate efforts and address concerns.
+
+4.3 Decisions; Disputes. Decisions of the Joint Steering Committee shall be made by unanimous vote, with each party's representatives on the Joint Steering Committee collectively having one vote. In the event that the Joint Steering Committee cannot or does not, after good faith efforts, reach agreement on an issue, such issue shall first be referred to the Designated Executive Officers, who shall meet promptly thereafter and shall attempt in good faith to resolve such issue. In the event that the Designated Executive Officers cannot or do not, after good faith efforts, reach agreement on an issue, the issue shall be submitted to voluntary mediation. The Designated Executive Officers of each party shall select a mediator who is an expert with no less than seven years of experience in the subject matter to which the dispute relates. In the event that the Designated Executive Officers of the parties are unable to agree upon a mediator within twenty (20) days, then the Designated Executive Officers shall contact the San Diego County office of JAMS to select a mediator from the JAMS panel. If they are unable to agree, JAMS shall provide a list of three available mediators and each party may strike one. The remaining one will serve as the mediator. The mediation shall be conducted under JAMS rules. The parties agree that they shall share equally the cost of the mediation filing and hearing fees, and the cost of the mediators that constitute the panel. Each party shall bear its own attorneys' and expert fees and all associated costs and expenses.
+
+13
+
+
+
+
+
+5. REGULATORY COMPLIANCE
+
+5.1 Compliance with Laws. Biocept and Life Technologies and their respective Affiliates each agree to perform their respective obligations under this Agreement in compliance with all applicable Laws, in the Territory, including but not limited to applicable regulations, rules, and policies of third party payers that pay for the Assay.
+
+5.2 Privacy. Biocept and Life Technologies and their respective Affiliates agree to protect the privacy and provide for the security of any information that relates to a patient's past, present, or future physical or mental health or condition in accordance with HIPAA, and any other applicable federal and state privacy laws and regulations in the Territory. Each party agrees to execute one or more Business Associate Agreements (as defined under HIPAA) as the other party, or its providers or payers, may from time to time request.
+
+5.3 Licenses and Certifications. Biocept and, to the extent applicable, Life Technologies shall have at all times during the Term, all necessary federal, state and local licenses, qualifications and certifications to operate a laboratory and perform their respective components of the Test(s), including, but not limited to, state laboratory licenses, CLIA certification, CAP (College of American Pathologists) certification, FDA registration, and any other licenses or certification required by state and/or federal law. All Assays performed by Biocept, and, to the extent applicable, Life Technologies, shall be in accordance with applicable state and federal testing requirements for clinical reference laboratories.   6. MATERIALS TRANSFER
+
+In order to facilitate the Collaboration, either party may provide to the other party certain biological materials or chemical compounds including, but not limited to, samples (collectively, "Materials") for use by the other party in furtherance of the Collaboration. Except as expressly provided under this Agreement, all such Materials delivered to the other party will remain the sole property of the supplying party, will be used only in furtherance of the Collaboration and solely under the control of the other party, will not be used or delivered to or for the benefit of any Third Party without the prior written consent of the supplying party, and will not be used in research or testing involving human subjects except as permitted by applicable law. The Materials supplied hereunder must be used with prudence and appropriate caution in any experimental work and in accordance with all applicable laws.   7. OPTIONS AND FUTURE DISCUSSIONS
+
+7.1 Option to License Assay. If Biocept does not obtain at least ten million dollars ($10,000,000) in equity financing by December 31, 2012, then Life Technologies shall have the non-exclusive option, exercisable by written notice to Biocept given no later than January 15, 2013, to negotiate with Biocept for a license (unless the parties mutually agree to a different transaction structure) to all necessary Intellectual Property
+
+14
+
+
+
+
+
+Rights and know-how to independently commercialize the Assay in accordance with applicable Laws. Biocept will provide notice to Life Technologies on December 31, 2012 if the conditions for the option apply, and if Life Technologies delivers written notice of exercise of such right of negotiation to Biocept on or before January 15, 2013, the parties will negotiate in good faith to conclude a license agreement no later than February 28, 2013. If such license has not been entered into by the parties by February 28, 2013, there are no further obligations for either party under this Section 7.1.
+
+7.2 Option for System Development. The parties have discussed potential adaptation of the Assay to an in vitro diagnostic format, based on a "system" concept that could include specially manufactured equipment, consumables and reagents that would be sold to physicians and laboratories, and linked to the "informatics engine" that Life Technologies is developing. Such systems may be used to commercialize the Assay outside the USA. Biocept grants to Life Technologies a non-exclusive option, exercisable during the two (2) year period beginning on the Effective Date, to develop plans, and negotiate with Biocept, for the co-development with Biocept of such systems for the Assay, employing or based on Biocept technologies. Such agreement is expected to include some or all of the following components: an upfront license fee, R&D funding, development and commercial milestone payments, royalties and/or revenue sharing, and supply/sale to Life Technologies by Biocept of proprietary components and consumables.   8. INTELLECTUAL PROPERTY
+
+8.1 Existing Technology. Each party acknowledges that the other party owns certain technology and Intellectual Property Rights which have been independently developed by, or at the request of, such other party, whether prior to, during or subsequent to the Term. Except as expressly provided in this Agreement, neither this Agreement nor the activities performed hereunder, shall give either party any rights or interest in or to the technology or Intellectual Property Rights of the other party (or of any Materials provided by such party). Each party owns, and shall continue to own, all right, title and interest in and to its respective technology, including, without limitation, all Intellectual Property Rights relating thereto. Without limiting the generality of the foregoing, at all times during and after the Term, Biocept shall own all rights to its CEE™ technology, Selector technology (if utilized) and any improvements related thereto, generated during the performance of this Agreement. Biocept and Life Technologies shall promptly notify the other in writing upon becoming aware of any alleged or threatened third party infringement of any Intellectual Property Rights related to the Tests. Biocept shall have the right to bring and control any action or proceeding with respect to any such infringement at its own expense and by counsel of its own choice. If Biocept elects not to bring any such action or proceeding with respect to such infringement, it shall promptly notify Life Technologies of the same and agrees to consider, in good faith a request by Life Technologies to bring any such action or proceeding. Any agreement allowing Life Technologies to bring such action or proceeding on behalf of Biocept shall be set forth in a separate written agreement between the parties. Except as expressly provided above, the parties shall be under no obligation to enforce any of their Intellectual Property Rights against any actual or threatened Third Party infringements.
+
+15
+
+
+
+
+
+8.2 Biocept Technology. Without limiting the generality of the foregoing, Biocept owns, and Life Technologies acknowledges Biocept's ownership of, (i) the Assay and the Selector technology, and (ii) all Intellectual Property Rights in the Assay and the Selector technology, and Life Technologies agrees that it shall not do or suffer to be done any act or thing or undertake any action anywhere that in any manner might infringe, or impair the validity, scope, or title of Biocept in the Assay, the Selector technology or Intellectual Property Rights owned by Biocept. Nothing herein shall limit Life Technologies' ability to prosecute fully any and all Intellectual Property Rights owned by Life Technologies with any patent office or related government agency or to respond fully to any government agency inquiry with respect to its Intellectual Property Rights, products, and services.
+
+8.3 New Technology. In the course of the activities conducted by the parties, Biocept and/or Life Technologies may conceive of inventions or discoveries or create works that constitute intellectual property and may be patentable or registerable as a copyright or other intellectual property right (all of the foregoing, including such intellectual property rights therein, collectively, "Developments"). Inventorship of all inventions and discoveries, whether or not patentable, will be determined in accordance with United States patent laws. Authorship of all copyrightable works will be determined in accordance with United States copyright laws. Subject to Section 8.2, as between the parties, Developments will be owned consistent with such determination of inventorship or authorship. To the extent any Development owned by Life Technologies relates directly to the practice of, or constitutes an improvement to, the Assay, Life Technologies hereby grants to Biocept, during the Term of this Agreement, and, except in the case of termination of this Agreement by Life Technologies for Biocept's uncured material breach, after expiration or termination of this Agreement, a non-exclusive, worldwide, royalty-free, fully-paid license, including the right to sublicense, under Life Technologies' Intellectual Property Rights in such Developments, solely to develop, make, have made, use, sell, have sold, offer for sale, import, perform and provide the Assay. To the extent any Development owned by Biocept relates directly to the practice of, or constitutes an improvement to, the Assay, Biocept hereby grants to Life Technologies, during the Term of this Agreement, a non-exclusive license under Biocept's Intellectual Property Rights in such Development, solely to promote the Assay in the Territory and to perform the Professional Component of the Assay sold by the parties in the Territory, in accordance with the terms of this Agreement.
+
+8.4 Technology Licenses. To the extent that any Third Party Intellectual Property Rights related to the capture and detection of CTCs must be licensed to perform the Assay, such royalty shall be paid by Biocept. To the extent that either party owns Intellectual Property Rights to specific biomarkers, targets, kits, dyes or technology utilized in the Assay other than for the capture and detection of CTCs, it will, to the extent it is able, grant during the Term of the Agreement, a non-exclusive license to the other party to practice these Intellectual Property Rights for the Assay. To the extent that either party has licensed or will license Intellectual Property Rights from Third Parties related to specific biomarkers, targets, kits, dyes or technology utilized in the Assay other than for the capture and detection of CTCs, it will, to the extent it is able, grant, during the Term of the Agreement, a non-exclusive license to the other party, or ensure that the
+
+16
+
+
+
+
+
+other party is covered under its license, to practice these Intellectual Property Rights for the Assay. In the event of the foregoing, then, subject to Section 8.5, the parties agree to negotiate in good faith an allocation of expenses for such Third Party licenses directly associated with the Assay.
+
+8.5 Infringement. If any Third Party claims or brings an action alleging that performance of the Assay or Test by Biocept or Life Technologies or their Affiliates under this Agreement infringe (directly or indirectly) any of such Third Party's patent rights, Biocept shall use commercially reasonable efforts to address such claims. If Biocept determines to seek a license or otherwise obtain the right to use such Third Party intellectual property rights on behalf of Biocept and Life Technologies, then (i) if the Third Party intellectual property rights relate to the capture and detection of CTCs or the Phase I Assay analytes, then Biocept shall bear the costs of such licenses, including the payment of licensing fees, royalties or other payments, or (ii) if the Third Party intellectual property rights relate to specific biomarkers, targets, kits, dyes or technologies for the Phase II Assay, then the parties agree to negotiate in good faith an allocation of costs for such licenses, including payment of licensing fees, royalties or other payments that may be due to such Third Party, unless the parties agree otherwise in writing. If Biocept and Life Technologies determine to seek a license or otherwise obtain rights to use Third Party intellectual property rights for any Collaboration Assay(s), the parties similarly agree to negotiate in good faith an allocation of costs for such licenses, including payment of licensing fees, royalties or other payments that may be due to such Third Party, unless the parties agree otherwise in writing.
+
+8.6 Data and Results. All data and results from performance of a Test on samples provided by Life Technologies shall be used by the parties solely to the extent necessary to perform its obligations under this Agreement and in accordance with Section 3.5(d).
+
+8.7 Trademarks.
+
+(a) Biocept shall be responsible for and bear the expense of any filing, prosecution, maintenance and enforcement of the Biocept Trademarks as it may determine in its sole discretion, without obligation. Life Technologies shall not, during the Term or thereafter, use or seek to register the trademarks or any trademark or trade name similar to or confusing with the Biocept Trademarks, or any translation thereof, in any jurisdiction. Life Technologies agrees that, if Life Technologies at any time obtains, in any jurisdiction, any right, title or interest in any mark, symbol or phrase which shall be identical to, similar to or likely to be confused with any Biocept Trademark or any translation thereof, then Life Technologies shall have acted or shall act as an agent and for the benefit of Biocept for the limited purpose of obtaining such registrations and assigning such registration (and all right, title and interest in such mark, symbol or phrase) to Biocept.
+
+(b) Life Technologies shall be responsible for and bear the expense of any filing, prosecution, maintenance and enforcement of the Life Technologies Trademarks as it may determine in its sole discretion, without obligation. Biocept shall
+
+17
+
+
+
+
+
+not, during the Term or thereafter, use or seek to register the trademarks or any trademark or trade name similar to or confusing with the Life Technologies Trademarks, or any translation thereof, in any jurisdiction. Biocept agrees that, if Biocept at any time obtains, in any jurisdiction, any right, title or interest in any mark, symbol or phrase which shall be identical to, similar to or likely to be confused with any Life Technologies Trademark or any translation thereof, then Biocept shall have acted or shall act as an agent and for the benefit of Life Technologies for the limited purpose of obtaining such registrations and assigning such registration (and all right, title and interest in such mark, symbol or phrase) to Life Technologies.   9. REPRESENTATIONS AND WARRANTIES
+
+9.1 Mutual Representations and Warranties. Each party represents and warrants to the other that: (a) it is duly organized and validly existing under the laws of its jurisdiction of incorporation or formation, and has full corporate power and authority to enter into this Agreement and to carry out the provisions hereof; (b) it is duly authorized to execute and deliver this Agreement and to perform its obligations hereunder, and the person or persons executing this Agreement on its behalf has been duly authorized to do so by all requisite corporate action; (c) this Agreement is legally binding upon it, enforceable in accordance with its terms; and (d) the execution, delivery and performance of this Agreement by it does not conflict with any agreement, instrument or understanding, oral or written, to which it is a party or by which it may be bound, nor violate any material law or regulation of any court, governmental body or administrative or other agency having jurisdiction over it.
+
+9.2 Biocept Warranties on Assay.
+
+(a) As of the Effective Date, the Assay employs Biocept's most current CTC-based technology, and will be validated for performing CTC enumeration and the detection of the indicated analytes in the Assay on a timeline as agreed by the parties within sixty (60) days of the Effective Date.
+
+(b) Biocept represents and warrants to Life Technologies that: (1) the Assay constitutes an original work of Biocept; and (2) except as previously disclosed to Life Technologies, Biocept is the lawful owner or licensee of all materials used in connection with the development of the Assay, and Biocept has the rights to make, use and sell the Assay, and to allow Life Technologies to use the results of the Technical Component of the Assay to perform the Professional Component of the Assay, and to sell the Assay.
+
+(c) Biocept has full power and authority and has obtained all Third Party consents, approvals, assignments and/or other authorizations required to enter into this Agreement and to carry out its obligations hereunder.
+
+(d) There are no existing contracts, agreements, commitments, proposals, offers, or rights with, to, or in any person to acquire any of the rights under the Assay which would prevent or materially and adversely alter the performance of the obligations hereunder.
+
+18
+
+
+
+
+
+9.3 Third Party Infringement. In the event that the Tests, or any part thereof becomes the subject of any claim, suit or proceeding for infringement of the Intellectual Property Rights of any Third Party, or if the Test, or any part thereof, is held or otherwise determined to infringe any Intellectual Property Rights of any Third Party such that Biocept can no longer perform its obligations under this Agreement, Biocept shall in its sole discretion either: (1) secure for itself and Life Technologies the right to continue using the Test in accordance with Section 8.4; (2) replace or modify the Test to make it non-infringing without degrading its performance or utility; or (3) notify Life Technologies that it will perform neither (1) nor (2), in which case either party shall thereafter have the right to terminate this Agreement immediately upon written notice to the other party. Notwithstanding the foregoing, and subject to Section 8.5, the indemnification rights of Life Technologies with respect to the Tests as set forth in Section 12.2 shall survive such termination.
+
+9.4 Disclaimer. Except as expressly set forth herein, THE TECHNOLOGY, MATERIALS AND INTELLECTUAL PROPERTY RIGHTS PROVIDED BY EACH PARTY HEREUNDER ARE PROVIDED "AS IS," AND EACH PARTY EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OF DESIGN, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON- INFRINGEMENT OF THE INTELLECTUAL PROPERTY RIGHTS OF THIRD PARTIES, OR ARISING FROM A COURSE OF DEALING, USAGE OR TRADE PRACTICES.
+
+9.5 Limitation of Liability. NEITHER PARTY SHALL BE ENTITLED TO RECOVER FROM THE OTHER PARTY ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES IN CONNECTION WITH THIS AGREEMENT OR ANY LICENSE GRANTED HEREUNDER; provided, however, that this Section shall neither (a) apply to any liability for damages arising from breach of any obligations of confidentiality under Article 10, nor (b) limit the indemnification obligations of the parties arising under Article 12 of this Agreement.   10. CONFIDENTIALITY
+
+10.1 Confidential Information. Except to the extent expressly authorized by this Agreement or otherwise agreed in writing by the parties, each party agrees that, during the Term and for five (5) years thereafter, such party (the "Receiving Party") shall keep confidential and shall not publish or otherwise disclose and shall not use for any purpose, other than as expressly provided for in this Agreement, any information furnished to it by or on behalf of the other party (the "Disclosing Party") pursuant to this Agreement (collectively, "Confidential Information"). The Receiving Party may use such Confidential Information only to the extent required to accomplish the purposes of this Agreement. The Receiving Party will use at least the same standard of care as it uses to protect proprietary or confidential information of its own to ensure that its, and its Affiliates', employees, agents, consultants and other representatives do not disclose or make any unauthorized use of the Confidential Information. The Receiving Party will promptly notify the Disclosing Party upon discovery of any unauthorized use or disclosure of the Disclosing Party's Confidential Information.
+
+19
+
+
+
+
+
+10.2 Exceptions. Confidential Information shall not include any information which the Receiving Party can prove by competent evidence: (a) is now, or hereafter becomes, through no act or failure to act on the part of the Receiving Party, generally known or available; (b) is known by the Receiving Party at the time of receiving such information, as evidenced by its written records; (c) is hereafter furnished to the Receiving Party by a Third Party, as a matter of right and without restriction on disclosure; or (d) is independently discovered or developed by the Receiving Party, without the use of Confidential Information of the Disclosing Party, as evidenced by the Receiving Party's written records maintained in the ordinary course of business.
+
+10.3 Authorized Disclosure. Each party may disclose Confidential Information of the other party as expressly permitted by this Agreement, or if and to the extent such disclosure is reasonably necessary in the following instances:
+
+(a) enforcing such party's rights under this Agreement;
+
+(b) prosecuting or defending litigation as permitted by this Agreement;
+
+(c) complying with applicable court orders or governmental regulations;
+
+(d) disclosure to Affiliates, contractors, employees and consultants who need to know such information for the development and commercialization of the Test in accordance with this Agreement, on the condition that any such Third Parties agree to be bound by confidentiality and non-use obligations that are no less stringent than the terms of this Agreement; and
+
+(e) disclosure to Third Parties in connection with due diligence or similar investigations by such Third Parties, and disclosure to potential Third Party investors in confidential financing documents, provided, in each case, that any such Third Party agrees to be bound by reasonable obligations of confidentiality and non-use.
+
+Notwithstanding the foregoing, in the event a party is required to make a disclosure of the other party's Confidential Information pursuant to Section 10.3(b) or Section 10.3(c), it will, except where impracticable, give reasonable advance notice to the other party of such disclosure and use efforts to secure confidential treatment of such information at least as diligent as such party would use to protect its own confidential information, but in no event less than reasonable efforts. In any event, the parties agree to take all reasonable action to avoid disclosure of Confidential Information hereunder.
+
+10.4 Confidentiality of this Agreement. Except as otherwise provided in this Section 10, each party agrees not to disclose to any Third Party the terms of this Agreement without the prior written consent of the other party hereto, except that each party may disclose the terms of this Agreement that are otherwise made public prior to the date of such disclosure or to the extent such disclosure is permitted under Section 10.3.
+
+20
+
+
+
+
+
+10.5 Press Releases; Public Announcements. Neither party shall make a press release or public announcement that includes information relating to the Collaboration without the approval of the other party. At least five (5) days prior to any such press release or public announcement the party proposing to make such press release or public announcement (the "Releasing Party") shall provide to the other party a draft copy thereof for its review and approval. The Releasing Party may not distribute such press release or public announcement without obtaining the other party's prior written approval. In addition, the Releasing Party shall, at the other party's request, remove therefrom any Confidential Information of such other party. The contribution of each party shall be noted in all scientific publications or presentations by acknowledgment or co-authorship, whichever is appropriate.   11. TERM AND TERMINATION
+
+11.1 Term. The term of this Agreement will commence on the Effective Date and continue for a period of three (3) years after the Effective Date (the "Initial Term"). Thereafter, this Agreement can be renewed by mutual written agreement of the parties for successive one (1) year periods (each, a "Renewal Term" and together with the Initial Term, the "Term").
+
+11.2 Termination.
+
+(a) Material Breach. Either party shall have the right to terminate this Agreement before the end of the Term upon written notice to the other party if such other party is in material breach of this Agreement and has not cured such breach within sixty (60) days (the "Cure Period") after notice from the terminating party requesting cure of the breach. Any such termination shall become effective at the end of such Cure Period unless the breaching party has cured such breach prior to the end of such Cure Period. Any right to terminate under this Section 11.2(a) shall be stayed and the Cure Period tolled in the event that, during any Cure Period, the party alleged to have been in material breach shall have initiated dispute resolution in accordance with Article 13 with respect to the alleged breach, which stay and tolling shall continue until such dispute resolution procedures have been completed in accordance with Article 13. Nothing herein is intended to prevent either party from seeking immediate equitable or injunctive relief.
+
+(b) Termination for Convenience. Both parties shall have the right to terminate this Agreement at any time, for any or for no reason, upon one hundred twenty (120) days written notice to the other party. In the event a party undergoes a Change of Control Event as defined in Section 14.5, the other party may terminate the Agreement upon thirty (30) days written notice to the party undergoing the Change of Control.
+
+21
+
+
+
+
+
+11.3 Effect of Termination; Surviving Obligations.
+
+(a) Upon any termination or expiration of this Agreement, all licenses granted hereunder shall automatically terminate and revert to the granting party and all other rights and obligations of the parties under this Agreement shall terminate, except as provided in Sections 11.3(b) and 11.4.
+
+(b) Upon termination or expiration of this Agreement, each party will use their best efforts to return to the other party or destroy all tangible copies of the other party's Confidential Information in such party's possession or control and will erase from its computer systems all electronic copies thereof; provided, however, that each party may retain one archival copy of the other party's Confidential Information solely for purposes of monitoring compliance with its obligations under Article 10 hereof.
+
+11.4 Survival. Expiration or early termination of this Agreement shall not relieve either party of any obligation accruing prior to such expiration or termination. In addition, Sections 3.3(g), 4.3, 5.1, 5.2 (to the extent required by law) 9.1, 9.2, 9.3, 9.5, 11.3 and 11.4, and Articles 1, 8, 10, 12, 13 and 14 will survive any expiration or termination of this Agreement.   12. INDEMNIFICATION
+
+12.1 Indemnification by Life Technologies. Life Technologies hereby agrees to defend, indemnify and hold harmless Biocept, its Affiliates and their respective officers, directors, employees, consultants and agents (the "Biocept Indemnitees"), from and against any and all losses, damages, liabilities, expenses and costs, including reasonable legal expense and attorneys' fees resulting from any threat, claim, demand, action or other proceeding by any Third Party ("Losses") to the extent such Losses arise directly or indirectly out of: (a) the gross negligence or willful misconduct of any Life Technologies Indemnitee (defined below); (b) the material breach by Life Technologies of any warranty, representation, covenant or agreement made by it in this Agreement; or (c) the performance by Life Technologies of the Professional Component; except, in each case, to the extent such Losses result from the gross negligence or willful misconduct of any Biocept Indemnitee or the material breach by Biocept of any warranty, representation, covenant or agreement made by it in this Agreement.
+
+12.2 Indemnification by Biocept. Biocept hereby agrees to defend, indemnify and hold harmless Life Technologies, its Affiliates and their respective officers, directors, employees, consultants and agents (the "Life Technologies Indemnitees"), from and against any and all Losses to the extent such Losses arise directly or indirectly out of: (a) the gross negligence or willful misconduct of any Biocept Indemnitee; (b) the material breach by Biocept of any warranty, representation, covenant or agreement made by it in this Agreement; or (c) the performance by Biocept of the Technical Component of the Assay or Test; except, in each case, to the extent such Losses result from the gross negligence or willful misconduct of any Life Technologies Indemnitee or the material breach by Life Technologies of any warranty, representation, covenant or agreement made by it in this Agreement.
+
+22
+
+
+
+
+
+12.3 Procedure. In the event a party seeks indemnification under Section 12.1 or 12.2, it shall inform the other party (the "Indemnifying Party") of a claim as soon as reasonably practicable after such party (the "Indemnified Party") receives notice of the claim (it being understood and agreed, however, that the failure by an Indemnified Party to give notice of a claim as provided in this Section 12.3 shall not relieve the Indemnifying Party of its indemnification obligation under this Agreement except and only to the extent that such Indemnifying Party is actually damaged as a result of such failure to give notice), shall permit the Indemnifying Party to assume direction and control of the defense of the claim (including the right to settle the claim solely for monetary consideration), and shall cooperate as requested (at the expense of the Indemnifying Party) in the defense of the claim. The Indemnified Party shall not agree to any settlement of such action, suit, proceeding or claim without the prior written consent of the Indemnifying Party. The Indemnifying Party shall not agree to any settlement of such action, suit, proceeding or claim or consent to any judgment in respect thereof that does not include a complete and unconditional release of the Indemnified Party from all liability with respect thereto, that imposes any liability or obligation on the Indemnified Party or that acknowledges fault by the Indemnified Party; in each case, without the prior written consent of the Indemnified Party.
+
+12.4 Insurance. Each party, at its own expense, shall maintain product liability and other appropriate insurance (or self- insure) in an amount consistent with industry standards during the Term and shall name the other party as an additional insured with respect to such insurance. Each party shall provide a certificate of insurance (or evidence of self-insurance) evidencing such coverage to the other party upon request.   13. DISPUTE RESOLUTION
+
+13.1 Dispute Resolution. The parties recognize that disputes as to certain matters may arise from time to time during the Term. The parties shall first submit the dispute to the Joint Steering Committee for resolution in accordance with Section 4.3 hereof. In the event that the Joint Steering Committee is unable to resolve the dispute, the parties shall be entitled to seek relief in a court of competent jurisdiction. Notwithstanding the foregoing, to the full extent allowed by law, either party may bring an action in any court of competent jurisdiction for injunctive relief (or any other provisional remedy) to protect the parties' rights or enforce the parties' obligations under this Agreement pending resolution of any claims related thereto by the Joint Steering Committee.   14. GENERAL PROVISIONS
+
+14.1 Governing Law. This Agreement and any disputes, claims, or actions related thereto shall be governed by and construed in accordance with the laws of the State of California, USA, without regard to the conflicts of law provisions thereof.
+
+14.2 Entire Agreement; Modification. This Agreement, including the Exhibits hereto, is both a final expression of the parties' agreement and a complete and exclusive statement with respect to all of its terms. This Agreement supersedes all prior
+
+23
+
+
+
+
+
+and contemporaneous agreements and communications, whether oral, written or otherwise, concerning any and all matters contained herein. This Agreement may only be amended, modified or supplemented in a writing expressly stated for such purpose and signed by the parties to this Agreement.
+
+14.3 Relationship Between the Parties. The parties' relationship, as established by this Agreement, is solely that of independent contractors. This Agreement does not create any partnership, joint venture or similar business relationship between the parties. Neither party is a legal representative of the other party, and neither party can assume or create any obligation, representation, warranty or guarantee, express or implied, on behalf of the other party for any purpose whatsoever.
+
+14.4 Non-Waiver. The failure of a party to insist upon strict performance of any provision of this Agreement or to exercise any right arising out of this Agreement shall neither impair that provision or right nor constitute a waiver of that provision or right, in whole or in part, in that instance or in any other instance. Any waiver by a party of a particular provision or right shall be in writing, shall be as to a particular matter and, if applicable, for a particular period of time and shall be signed by such party.
+
+14.5 Assignment. Except as expressly provided hereunder, neither this Agreement nor any rights or obligations hereunder may be assigned or otherwise transferred by either party without the prior written consent of the other party (which consent shall not be unreasonably withheld); provided, however, that either party may assign this Agreement and its rights and obligations hereunder without the other party's consent in connection with the transfer or sale of all or substantially all of the business of such party to which this Agreement relates to a Third Party, whether by merger, sale of stock, sale of assets or otherwise (a "Change of Control Event"). The rights and obligations of the parties under this Agreement shall be binding upon and inure to the benefit of the successors and permitted assigns of the parties. Any assignment not in accordance with this Agreement shall be void.
+
+14.6 No Third Party Beneficiaries. This Agreement is neither expressly nor impliedly made for the benefit of any party other than those executing it.
+
+14.7 Severability. If, for any reason, any part of this Agreement is adjudicated invalid, unenforceable or illegal by a court of competent jurisdiction, such adjudication shall not affect or impair, in whole or in part, the validity, enforceability or legality of any remaining portions of this Agreement. All remaining portions shall remain in full force and effect as if the original Agreement had been executed without the invalidated, unenforceable or illegal part.
+
+14.8 Notices. Any notice to be given under this Agreement must be in writing and delivered either in person, by any method of mail (postage prepaid) requiring return receipt, or by overnight courier or facsimile confirmed thereafter by any of the foregoing, to the party to be notified at its address(es) given below, or at any address such party has previously designated by prior written notice to the other. Notice shall be deemed sufficiently given for all purposes upon the earlier of: (a) the date of actual receipt; or (b) if mailed, five calendar days after the date of postmark.
+
+24
+
+
+
+
+
+If to Biocept, notices must be addressed to:
+
+Biocept, Inc. 5810 Nancy Ridge Drive, Suite 150 San Diego, CA 92121 Attention: David Hale Executive Chairman Telephone: (858) 320-8200 Facsimile: (858) 320-8225
+
+If to Life Technologies, notices must be addressed to:
+
+Life Technologies Corp. 5791 Van Allen Way Carlsbad, CA 92008 Attention: David Daly Head of Oncology Telephone: (760) 268-5556
+
+14.9 Force Majeure. Each party shall be excused from liability for the failure or delay in performance of any obligation under this Agreement by reason of any event beyond such party's reasonable control, including but not limited to, Acts of God, fire, flood, explosion, earthquake, or other natural forces, war, civil unrest, any strike or labor disturbance. Such excuse from liability shall be effective only to the extent and duration of the event(s) causing the failure or delay in performance and provided that the party has not caused such event(s) to occur. Notice of a party's failure or delay in performance due to force majeure must be given to the other party within five (5) calendar days after its occurrence. All delivery dates under this Agreement that have been affected by force majeure shall be tolled for the duration of such force majeure. In no event shall any party be required to prevent or settle any labor disturbance or dispute. In the event of a force majeure that persists for thirty (30) days or more, then either party may terminate this Agreement upon written notice to the other party.
+
+14.10 Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original document, and all of which, together with this writing, shall be deemed one and the same instrument.
+
+25
+
+
+
+
+
+IN  WITNESS  WHEREOF, the parties hereto have caused this Agreement to be executed by their duly authorized representatives as of the date first set forth above.
+
+  BIOCEPT, INC.   LIFE TECHNOLOGIES CORPORATION
+
+By: /s/ Michael J. Dunn   By: /s/ David J. Daly
+
+Name: Michael Dunn   Name: David J. Daly
+
+Title: Senior Vice President, Corp. Dev.   Title: Head of Oncology
+
+26

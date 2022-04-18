@@ -1,0 +1,85 @@
+Exhibit 10.26
+
+AGENCY AGREEMENT
+
+THIS AGENCY AGREEMENT, dated November 9, 2005 ("Agreement"), between General Electric Capital Corporation, a Delaware corporation (together with its successors and assigns, if any, "Lessor"), and Duckwall-Alco Stores, Inc., a Kansas corporation (the "Company"). Capitalized terms not defined herein shall have the meanings assigned to them in the Lease (as that term is defined below).
+
+RECITALS:
+
+WHEREAS, Lessor and the Company have entered into a Master Lease Agreement dated November 9, 2005 wherein Lessor, as the lessor, has agreed to lease certain items of equipment to the Company (the Master Lease Agreement and all Schedules entered into from time to time thereunder are hereinafter collectively referred to as the "Lease"; and all equipment leased thereunder are hereinafter collectively referred to as the "Equipment"); capitalized terms used herein but not otherwise defined shall have the meanings as provided in the Lease; and
+
+WHEREAS, Lessor desires to appoint the Company its agent to order, receive and, in the name and on behalf of Lessor, the Equipment;
+
+NOW, THEREFORE, in consideration of the above premises and the mutual promises contained herein, as well as other good and valuable considerations, the receipt and sufficiency of which is hereby acknowledged, the parties hereto hereby agree as follows:
+
+ARTICLE I  GENERAL UNDERTAKING
+
+Section 1.01 Appointment. Lessor hereby appoints the Company, and the Company hereby agrees to accept such appointment, as the agent of Lessor, without any fee for acting as such agent, pursuant to the terms and conditions of this Agreement, for the purpose of ordering and, subject to the conditions set forth in Section's 2.01 and 2.05 hereof, accepting Equipment on Lessor's behalf for leasing to the Company under the Lease from the respective supplier thereof (each a "Supplier" and collectively, the "Suppliers"). It is specifically agreed that all of the power and authority vested to the Company herein shall be subject to any modifications as may from time to time be made by Lessor.
+
+Section 1.02 Powers. Except as may be otherwise expressly provided in this Agreement, the Company is hereby granted the authority to act, and hereby agrees to act, on behalf of Lessor and in the name of Lessor, to the extent necessary to carry out its duties under this Agreement.
+
+Section 1.03 Master Lease. This Agreement is entered into in connection with and subject to the terms of the Lease and in the event of a conflict between the terms of this Agreement and the Lease, the Lease shall control. The Company and Lessor may from time to time hereafter enter into Equipment Schedules to the Lease, and it is the intent of the parties that this Agreement facilitate the leasing of Equipment under the Lease. EXCEPT AS PROVIDED IN ANY OTHER AGREEMENT, NOTHING IN THIS AGREEMENT SHALL BE OR SHALL BE DEEMED TO BE, A COMMITMENT ON THE PART OF EITHER THE COMPANY OR LESSOR TO EXECUTE OR OTHERWISE ENTER INTO ANY EQUIPMENT SCHEDULES AFTER THE DATE OF THIS AGREEMENT.
+
+ARTICLE II  DUTIES OF AGENT
+
+Section 2.01 Equipment Orders. Upon the written acknowledgment by the Company and Lessor of each jointly approved purchase agreement, purchase order or invoice ("Purchase Order"), the Company, pursuant to the agency granted to it by Lessor in Article I hereof, may order, receive, accept the Equipment to be leased in accordance with the Economic Terms (as hereafter defined and described).
+
+Upon and as of the date of acceptance of the Equipment by the Company and satisfaction of the conditions precedent provided for in the Lease: (a) Lessor shall be unconditionally obligated to purchase such Equipment pursuant to the terms of the applicable Purchase Order and to lease such Equipment to the Company pursuant to the terms and conditions of the Lease and the applicable completed Schedule; and (b) the Company shall be unconditionally obligated to lease such Equipment from Lessor pursuant to the terms and conditions of the Lease and the applicable completed Schedule. The leasing of Equipment pursuant to this Agreement shall be in accordance with the Economic Terms set forth in Section 2.05 hereof, and upon delivery of the Equipment from any Supplier shall be deemed to be leased pursuant to this Agreement and the Lease and be subject to all of the provisions of the Lease, including without limitation, the insurance and indemnity provisions of the Lease. Notwithstanding any provision to the contrary herein, the Company's ability to act as Lessor's agent hereunder, and to unconditionally obligate Lessor to purchase Equipment pursuant to such agency, shall be limited by the following: (i) the Company must disclose to all Suppliers that it is ordering the Equipment as agent for Lessor; (ii) all of the Equipment ordered and/or accepted hereunder must meet at least one of the general description categories contained in Section 2:05; (iii) the aggregate Purchase Price for all Equipment purchased in connection with any Schedule must be less than, or equal to, the Maximum Aggregate Capitalized Lessor's Cost specified in Section 2:05; (iv) the Equipment must be delivered to, and accepted by, the Company on or before the Last Delivery Date specified in Section 2:05; (v) the Purchase Price of each unit of Equipment must not be more than the then current Fair Market Value of such Equipment; (vi) each unit of Equipment must qualify for all the Tax Benefits described in the applicable Schedule in the hands of Lessor upon the Company's acceptance thereof from the Supplier and (vii) with respect to any documentation, technical or confidential business information and/or software relating to the Equipment (collectively, "Software"), the Purchase Order will grant Lessor a license to use the Software and will allow Lessor to grant a sublicense to the Company to use such Software pursuant to the Lease and will allow Lessor to grant a sublicense to a third party after a termination or the expiration of the Lease in the event the Company does not elect to exercise any purchase option that may be provided for in the Lease; and (viii) all conditions precedent set forth in the Lease, including the delivery and execution of the Schedule and the Certificate of Acceptance, must be completed by no later than the Last Basic Term Commencement Date specified in Section 2.05.
+
+
+
+
+
+The Company additionally agrees that all Purchase Orders executed by the Company as Lessor's agent hereunder shall: (A) condition Lessor's obligation to pay for and purchase the Equipment on the Company's acceptance of such Equipment; (B) not permit passage of title or risk of loss for the Equipment earlier than such acceptance by the Company; (C) not permit the Supplier or any other person or entity to retain any security in, or lien on, any of the Equipment; and (D) otherwise be on terms and conditions acceptable to Lessor in its sole discretion.
+
+Section 2.02 Receipt of and Payment for Equipment. With respect to any Equipment ordered by the Company as agent for Lessor, the Company agrees to perform all obligations of the purchaser in the time and manner required by the applicable Purchase Order.
+
+Section 2.03 Payment of Purchase Price. On or before the Lease Commencement Date for any Schedule, the Company shall present to Lessor documentation ("Purchase Documentation"), in form and substance satisfactory to Lessor in its sole discretion, which (i) describes all units of Equipment ordered, received and accepted by the Company as agent for Lessor in connection with such Schedule, and (ii) if Company has paid any Supplier for any of the Equipment, includes evidence of the Purchase Price paid to Supplier for each such unit of Equipment and of passage of title thereto to Lessor. Upon the latter of (A) Lessor's receipt of the Purchase Documentation or (B) the satisfaction of all conditions precedent on or after the applicable Lease Commencement Date, Lessor shall pay the Supplier or reimburse the Company, as the case may be, for the aggregate Purchase Price for all Equipment purchased hereunder in connection with such schedule.
+
+Section 2.04 Books and Records. The Company shall maintain full and accurate books and records of all Equipment orders, receipts and All such books and records shall be maintained in a form acceptable to Lessor in its sole discretion. Such books and records shall be open for inspection and examination by Lessor and its respective representatives and/or accountants during the Company's normal business hours.
+
+Section 2.05 Economic Terms. The Company and the Lessor hereby agree that Schedules entered into pursuant to this Agency Agreement shall conform with the following "Economic Terms":
+
+1. Maximum Aggregate Capitalized Lessor's Cost:  $14,500,000.00
+
+2. Basic Term Lease Rate Factor:  To be mutually agreed upon by Company and Lessor
+
+3. Basic Term (No. of Months):  To be mutually agreed upon by Company and Lessor
+
+4. Equipment Type:  To be mutually agreed upon by Company and Lessor
+
+5. Agency Agreement Expiration Date and Last Delivery Date:  October 31, 2006
+
+ARTICLE III TERMINATION
+
+Section 3.01 Termination.
+
+(a) So long as no default exists and is continuing hereunder or under the Lease, either party may terminate this Agreement at any time upon ____________ (______30________) days written notice to the other party; provided however that such termination shall not act as a termination of any Equipment leased hereunder.
+
+(b) In the event the Company is in default hereunder or under the Lease, Lessor may elect to terminate this Agreement immediately, which shall be effective upon the receipt of written notice thereof by the Company.
+
+(c) Any termination under this Section 3.01 shall automatically result in the immediate revocation of all authority vested in the Company under this Agreement to order, accept or pay for any Equipment on behalf of Lessor.
+
+IN WITNESS WHEREOF, the parties hereto have caused their duly authorized representatives to execute and deliver this Agreement on the date first above written.
+
+General Electric Capital Corporation Duckwall-Alco Stores, Inc.  By: /s/ Susan Lyndon By: /s/ Richard A. Mansfield
+
+Title: Manager Portfolio Admin Title: V.P./CFO
+
+AGENCY AGREEMENT INSTRUCTIONS   BEFORE EQUIPMENT IS ORDERED:
+
+  •  When issuing a Purchase Order or Sales Agreement for Equipment in connection with the Agency Agreement, incorporate the following in the Purchase Order or Sales Agreement:
+
+  Duckwall-Alco Stores, Inc. is ordering the following equipment as Agent for:
+
+
+
+
+
+  General Electric Capital Corporation  311 North Bayshore Drive  Safety Harbor, FL 34695  Attn: Teresa Schafer
+
+• All invoices should indicate that General Electric Capital Corporation is the "Sold to" party at the above address, and that Duckwall-Alco Stores, Inc. is the "Ship to" party for delivery.
+
+• The invoices should be mailed directly to General Electric Capital Corporation. Also, all invoices should reference the appropriate Purchase Order/Sales Agreement Number.
+
+General Electric Capital Corporation will also require a complete set of Lease documentation prior to funding. These documents may include a Schedule and a Certificate of Acceptance. The full terms and conditions of the lease contract are set forth in the Master Lease Agreement and Equipment Schedule.

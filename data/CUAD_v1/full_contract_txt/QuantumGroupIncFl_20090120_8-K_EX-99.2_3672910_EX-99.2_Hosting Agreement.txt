@@ -1,0 +1,631 @@
+EXHIBIT 99.2
+
+e-business Hosting Agreement 1.0 Introduction This e-business Hosting Agreement ("Agreement") between International Business Machines Corporation ("IBM") and  The Quantum Group Inc., ("Customer"), sets forth the terms and conditions under which IBM will provide hosting and related services ("Services") to Customer. The Agreement includes the terms and conditions and the documents referenced herein ("Base Terms") and the following Attachments: Attachment A - Services; Attachment B - Hosting Components; and Attachment C - Charges In the event of a conflict between the Base Terms and an attachment listed herein ("Attachment"), the Base Terms will prevail, except where an Attachment, or a provision contained therein expressly states that it will prevail over the Base Terms. 2.0 Definitions "Acceptable Use Policy" means the Acceptable Use Policy for IBM e-business Services,  located on the Internet at www.ibm.com/services/e-business/aup.html, as of the Effective Date, and any subsequent modification in accordance with Section 13.2 below. "Affiliates" means entities that control, are controlled by, or are under common control with a party to this Agreement. "Base Components" means the hardware and software that IBM makes available, if any, as specified in Attachment B. "Bandwidth" means the measurement of samples of usage taken every five (5) minutes during a calendar month and collecting two (2) readings (cumulative of inbound feeds and cumulative of outbound feeds at the same measured point in time). The measurements are stored and become data points. At the end of the month, all data points taken during the month are ranked in ascending order. IBM will discard the top five percent (5%) for each set (inbound and outbound) of data points. The highest remaining sample of the two (2) sets becomes the Customer's Committed or Burstable usage number for that billing cycle. "Burstable Bandwidth" means the bandwidth consumption in excess of the Committed Bandwidth. "Committed Bandwidth" means the fixed circuit capacity that IBM will make available to Customer for connectivity to the Internet. Customer's data traffic between the e-business Hosting Center and the Internet may not exceed Committed Bandwidth, unless otherwise expressly specified in an Attachment. "Content" means information, software, and data that Customer provides, including, without limitation, any hypertext markup language files, scripts, programs, recordings, sound, music, graphics, images, applets or servlets that Customer or its Subcontractors or Services Recipients create, install, upload or transfer in or through the e-business Hosting Environment and/or Customer Components. "Content Administrator" means an employee or Subcontractor of Customer who is authorized by Customer to install, upload and/or maintain Content using a User Identification. "Customer" means IBM's Customer to whom the Services are being provided. "Customer Components" means the hardware, software and other products, data and Content that Customer provides, including those specified in Attachment B. "Customer Initiated Changes" means patches or changes to the environment dictated to be installed by Customer, and installed by either Customer or by IBM. "Customer Production Ready Date" or "CPRD" means the date (following the Hosting Service Ready Date) that the following items have been completed: (1) Customer has notified IBM that Customer has completed application testing and loading of Customer Content, and (2) IBM has notified Customer that monitoring and reporting have been enabled and end users may now begin using the Services. Commencing on the Customer Production Ready Date, Customer will not have administrative access for fully managed devices, unless specifically requested for a limited period of time mutually agreed between the parties, using the established change management procedures.
+
+Page 1 of 36
+
+"Direct Access Storage" or "DAS" means data storage devices that are directly attached to a server.
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+"Direct Access Storage" or "DAS" means data storage devices that are directly attached to a server. "e-business Hosting Environment" means the Base Components and the IBM provided Internet access bandwidth, collectively. "Hosting Service Ready Date" means a date when IBM notifies Customer that Services are available for Customer use and IBM installation responsibilities have been completed for such Services. Services may be initiated in stages and monthly recurring charges will begin for any portion of Services specified in such notification. "e-business Hosting Center" means a facility used by IBM to provide Services. "Internet" means the public worldwide network of TCP/IP-based networks. "Local Storage" has the same definition as Direct Access Storage "Logical Unit Number" or "LUN" means the individual component in the SAN storage system that may be accessed. Each disk or disk partition in a SAN storage system array has a LUN assigned to it. "Managed Application Service" means a service provided by IBM that includes the Services defined in Attachment A as Managed Application Services. "Managed Application Solution" means a Customer's application hosting environment consisting of network, storage and server devices and includes Managed Application Services for all of the devices. A Managed Application Solution cannot contain any Managed Devices that do not also include Managed Applications Services in order to qualify for a Service Level Agreement as defined in Attachment A. "Managed NAS Storage - Dedicated Environment" means a physical NAS Storage controller and associated disks, provisioned by IBM or Customer that is dedicated to a Customer and managed by IBM. "Managed NAS Storage - Shared Environment" means a physical NAS Storage controller and associated disks, provisioned by IBM, that is shared between customers and managed by IBM. Resources are allocated by IBM based on requirements from the Customer and these resources are dedicated for the Customer's use. "Managed SAN Storage - Dedicated Environment" means a physical SAN Storage controller and associated disks that is dedicated to Customer (not shared with other IBM customers) and managed by IBM. Resources are allocated by IBM based on requirements from the Customer. "Managed SAN Storage - Shared Environment" means a physical SAN Storage controller and associated disks that is shared between two or more IBM customers and managed by IBM. Resources are allocated by IBM based on requirements from the Customer. "Managed Server" means a physical or Virtual Server Base Component for which IBM is providing setup, configuration, administration and management Services. "Materials" means literary or other works of authorship (such as programs, program listings, programming tools, documentation, reports, drawings and similar works) that IBM may deliver to Customer as part of Services.  "Materials" does not include licensed program products available under their own license agreements or Base Components. "Middleware" means any programming that serves to "glue together" or mediate between two separate and often already existing programs. A common application of middleware is to allow programs written for access to a particular database to access other databases. The systematic tying together of disparate applications, often through the use of middleware, is known as Application Integration. "Network Interface Card (NIC) means a computer circuit board or card that is installed in a computer so that it can be connected to a network. "Operational Assistance" means the additional operational and physical assistance Services provided by IBM. "Operational Events" means the activities related to physical operations of an unmanaged Customer environment. These activities can include: Device reboot or restart Changing a tape Changing a CD or a disk floppy Preparing tapes for sending them offsite Vendor management for hardware repair or replacement
+
+Page 2 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Other types of events with the prior approval of the IBM PM "Operating System" or "OS" means the master control program (for example, Windows or AIX) that manages a computer's internal functions and provides a means of control to the computer's operations and file system. "OS Image" means the initial binary image that a boot loader loads into memory and transfers control to start an operating system. The OS image is typically an executable containing the operating system kernel. "OS Instance" means an occurrence of the OS Image. "Ping" means a utility to determine whether a specific IP address is accessible. "Required Consents" means any consents or approvals required to give IBM and its Subcontractors the right or license to access, use and/or modify in electronic form and in other forms, including derivative works, the Customer Components, without infringing the ownership or intellectual property rights of the providers, licensors, or owners of such Customer Components. "Services Recipients" means any entities or individuals receiving or using the Services, or the results or products of the Services. "SmartHands" means the additional systems administrative and technical, physical and logical assistance Services provided by IBM. mm. "System Administration" means day-to-day routine tasks performed in a production environment by a system administrator. This does not include, re-carving storage sub-systems, re-building enterprise class systems, major upgrades to the environment, major security services, database administration, application development, systems integration or extensive performance tuning responsibilities. "Storage Area Network" or "SAN" means the storage area network environment consisting of a storage area network fabric composed of storage area network switches, Host Bus Adapters and cables and a storage area network storage controller and associated disks. "System Images" means the files related to the OS and applications, but excluding Customer data files. "Subcontractor" means a contractor, vendor, agent, or consultant selected and retained by IBM or Customer, respectively. "TCP/IP" means Transmission Control Protocol/Internet Protocol. "Time and Materials (T&M)" means the additional operational, systems administrative and technical, physical and logical assistance Services provided by IBM that are not included with the services set forth in Attachment A - Services "User Identification" or "User ID" means a string of characters that uniquely identifies a Content Administrator. "Virtual Local Area Network (VLAN)" means a logical grouping of two or more devices which are not necessarily on the same physical network segment, but which share the same network segment. "Virtual Private Network (VPN)" means a private network that uses a public network (usually the Internet) to connect remote sites or users together. "Virtual Server" means an instance of a fully functional server residing with other instances on a physical server and isolated from other instances via virtualization software (such as VMWare) and shares the resources of the physical server.  The virtualization software provides resource management for all of the instances. 3.0 IBM Services Responsibilities IBM will perform the Services described in Attachment A and other applicable Attachments. IBM Contact IBM will designate an individual to whom Customer will address communications specific to the provision of the Services provided under this Agreement ("IBM Contact"). 4.0 Term and Termination Term This Agreement will be effective beginning on 12:01 a.m., Eastern Time, on the day after the date of last signature to these Base Terms ("Effective Date"). This Agreement will remain in effect for Thirty-six (36)
+
+Page 3 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+months following the Hosting Service Ready Date ("Term"), unless terminated earlier in accordance with the terms herein. Termination for Cause Customer or IBM may terminate this Agreement for material breach of this Agreement by the other upon written notice containing the specific nature and dates of the material breach.  The breaching party will have thirty (30) days from receipt of notice to cure such breach, except for nonpayment by Customer, which must be cured within five (5) days from receipt of notice. If such breach has not been timely cured, then the non-breaching party may immediately terminate this Agreement upon written notice. Termination for Convenience Customer may terminate this Agreement, or any portion of Services specified herein, for convenience by: providing at least sixty (60) days prior written notice to IBM; and paying the applicable early termination charges specified in Attachment C. Effect of Termination Upon the date of termination, all Customer payment obligations accrued hereunder through the date of termination will become due and payable. 5.0 Charges and Payment Charges Customer will pay to IBM all applicable charges specified in Attachment C. Charges may be specified as one-time, recurring, or usage. IBM will invoice such charges when they begin or are due as set forth in Attachment C. Payment IBM invoices will specify the amount due. Payment is due and payable by month end for any invoice received by the 10th of the month, otherwise payment is due thirty (30) days from receipt of invoice. Customer agrees to pay accordingly, including any late payment fees. Payment will be made in United States dollars. Taxes Customer will pay or provide appropriate exemption documentation for all taxes, duties, levies, and any other fees (except for taxes based upon IBM's net income) related to the Services imposed by any governmental authorities. Charges specified herein are exclusive of any such taxes, duties, levies or fees. 6.0 Warranties and Disclaimers IBM Representations and Warranties IBM represents and warrants that: it will perform the Services using reasonable care and skill and in accordance with this Agreement; and it has the requisite corporate power and authority to execute, deliver and perform its obligations under this Agreement. Exclusivity of Warranties THE WARRANTIES IN SECTION 6.1 ARE THE EXCLUSIVE WARRANTIES FROM IBM.  THEY REPLACE ALL OTHER WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE. Security Customer acknowledges that IBM offers numerous security options, and it is Customer's responsibility to select the set of security options that it determines meet Customer's needs. IBM will implement the security options specified herein. Customer acknowledges that IBM does not control the transfer of data over telecommunications facilities, including the Internet. IBM does not warrant secure operation of the Services or that it will be able to prevent third party disruptions of the e-business Hosting Environment or Customer Components. Customer agrees that IBM shall have no liability for any provision of security-related services or advice that IBM may voluntarily provide outside the scope of Services specified herein.
+
+Page 4 of 36
+
+Other Disclaimers
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Other Disclaimers IBM does not warrant uninterrupted or error-free operation of any Service or that IBM will correct all defects. IBM does not make any representation or warranty with respect to Customer's responsibilities set forth in Section 11.6. IBM provides Materials, non-IBM products, and non-IBM services  WITHOUT WARRANTIES OF ANY KIND.  However, non-IBM manufacturers, suppliers, or publishers may provide their own warranties to you. IBM does not operate as a provider of services regulated by the Federal Communications Commission (FCC) or state regulatory authorities (State Regulators), and does not intend to provide any services which are regulated by the FCC or State Regulators. If the FCC or any State Regulator imposes regulatory requirements or obligations on any Services provided by IBM hereunder, IBM may change the way in which such Services are provided to Customer to avoid the application of such requirements or obligations to IBM (e.g., by acting as Customer's agent for acquiring such Services from a third party common carrier). 7.0 Confidentiality All information exchanged between the parties is non-confidential.  If either or both parties require the exchange of confidential information, such information will be exchanged under the terms and conditions of a separate written confidentiality agreement. With respect to any confidential information contained in or traveling through the e-business Hosting Environment or Customer Components, as is contemplated herein, the provisions of Sections 6, 9, and 10 herein will prevail to the extent of any inconsistent provisions in the confidentiality agreement. 8.0 Indemnification Indemnification by IBM If a third party claims that Materials or Base Components IBM provides to Customer infringe that party's patent or copyright, IBM will defend the Customer and its employees, officers, and directors against that claim at IBM's expense and pay all costs, damages, and reasonable attorneys' fees that a court finally awards (or which IBM agrees in any final settlement), provided that Customer: promptly notifies IBM in writing of the claim; and allows IBM to control, and cooperates with IBM in, the defense and any related settlement negotiations. If such a claim is made or appears likely to be made, Customer agrees to permit IBM to enable Customer to continue to use the Materials or Base Components, or to modify them, or replace them with non-infringing Materials or Base Components that are at least functionally equivalent. If IBM determines that none of these alternatives is reasonably available, Customer agrees to return the Materials or Base Components (if in Customer's possession) to IBM on IBM's written request.  IBM will give Customer a credit equal to the amount Customer paid IBM for the applicable Materials or for use of the applicable Base Components up to a maximum of twelve (12) months of applicable charges. This is IBM's entire obligation to Customer with regard to any claim of infringement. Notwithstanding the foregoing, IBM is not responsible for third party claims based on: anything Customer provides which is incorporated into the Materials; Customer's modification of the Materials; the combination, operation, or use of the Materials with any product, data, or apparatus that IBM did not provide; or non-IBM hardware, software, or data, including those that may be in the Base Components. Indemnification by Customer Customer will defend IBM and its Affiliates and their employees, officers, and directors, at Customer's expense, and pay all costs, damages, and reasonable attorneys' fees that a court finally awards (or which Customer agrees in any final settlement) for any third party claim: that Content or Customer's use of the Services violates a Customer's obligation in Sections 11.3(b) or 11.5 (b); that Customer Components infringe that party's patent or copyright; that is brought by a Services Recipient and is related, directly or indirectly, to the Services; or
+
+Page 5 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+arising out of or related to a mechanics' lien Customer is required to cancel and discharge pursuant to this Agreement. For indemnification under this Section 8.2, IBM will: promptly notify Customer in writing of the claim; and allow Customer to control, and will cooperate with Customer in, the defense and any related settlement negotiations. 9.0 Limitation of IBM's Liability Circumstances may arise where, because of a default on IBM's part or other liability, Customer is entitled to recover damages from IBM. Regardless of the basis on which Customer is entitled to claim damages from IBM (including fundamental breach, negligence, misrepresentation, or other contract or tort claim), IBM is liable for no more than: indemnification payments as provided in Section 8.1; damages for bodily injury (including death) and damage to real property and tangible personal property; and the amount of any other actual direct damages, up to the greater of $100,000 or the charges paid by Customer to IBM for the Services in the twelve (12) months immediately preceding the accrual of the first claim related to the Services. The foregoing limit also applies to any of IBM's Affiliates and Subcontractors.  It is the cumulative maximum for which IBM and its Affiliates and Subcontractors are collectively responsible. Under no circumstances is IBM, its Affiliates or its Subcontractors liable for any of the following: third party claims against Customer for damages (other than those expressly provided in Subsections 9.0(a) and 9.0(b)); or loss of, or damage to, Customer's or any other entity's records or data. 10.0 Disclaimer of Consequential Damages In no event will either party be liable to the other for special, incidental, or indirect damages or for any consequential damages (including lost profits or savings), even if they are informed of the possibility; provided that this Section 10.0 does not apply to Customer's failure to pay any amounts owing to IBM under this Agreement (including amounts owing for Services that would have been rendered but for Customer's breach of this Agreement).  11.0 Other Customer Obligations Customer Contact Customer will designate an individual to whom all of IBM's communications will be addressed and who has the authority to act and make decisions for Customer in all aspects of the Services, including requesting changes, problem resolution, Service requests, assignment of Customer focal points with authority over specific Services, and designation of Customer Authorized Representatives ("Customer Contact"). Services Support Customer will comply with its responsibilities to support the Services as specified in applicable Attachments. Such obligations are to be performed at no charge to IBM. IBM's obligations are contingent on Customer meeting such support obligations. Representations and Warranties Customer represents and warrants that: it has the requisite corporate power and authority to execute, deliver and perform its obligations under this Agreement; Customer has no contractual or other obligation that (i) restricts or prohibits Customer's execution or performance of this Agreement, or (ii) Customer will breach in connection with the execution or performance of this Agreement; and its use of the Services and all Content will comply with the Acceptable Use Policy. Suspected Violations IBM reserves the right to investigate potential violations of the representations and warranties in Subsection 11.3(b). If IBM reasonably determines that a breach of any such warranty has occurred, then IBM may, in its sole discretion: restrict Customer's access to the Services;
+
+Page 6 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+remove or require removal of any offending Content; terminate this Agreement for cause; and/or exercise other rights and remedies, at law or in equity. Except in an emergency or as may otherwise be required by law, before undertaking the activities in Subsection 11.4(a) or 11.4(b), IBM will attempt to notify Customer by any reasonably practical means under the circumstances, such as, without limitation, by telephone or e-mail. Customer will promptly notify IBM of any event or circumstance related to this Agreement, Customer's use of the Services, or Content of which Customer becomes aware that could lead to a claim or demand against IBM and Customer will provide all relevant information relating to such event or circumstance to IBM at IBM's request. Customer Components Customer (or its Affiliates or third parties) retains all right, title, and interest or license in and to the Customer Components. Customer hereby grants to IBM, its Affiliates and Subcontractors all rights and licenses to, or agrees to promptly obtain and keep in effect Required Consents for all Customer Components, necessary for IBM to perform all of its obligations as set forth in this Agreement. Upon request, Customer will provide to IBM evidence of any such rights, licenses, or Required Consents.  IBM will be relieved of its obligations to the extent that they are affected by Customer's failure to promptly obtain and provide to IBM any such rights, licenses, or Required Consents. IBM will adhere to reasonable terms and conditions pertaining to Customer Components as notified in writing to IBM. IBM agrees not to remove or alter any copyright or other proprietary notice on or in any Customer Component without Customer's consent. Capacity Planning Customer acknowledges it is its responsibility to determine whether the Services, e-business Hosting Environment, Customer Components and their combination will meet Customer's capacity, performance, or scalability needs.  Customer is responsible for planning for and requesting changes to the e-business Hosting Environment, including any additional capacity required to support anticipated peaks in demand that may significantly increase web site hits, transaction volumes, or otherwise increase system resource utilization. Content Customer is solely responsible for: all Content including, without limitation, its selection, creation, encryption, transmission, transfer, design, licensing, installation, accuracy, maintenance, testing, backup and support; all copyright, patent and trademark clearances in all applicable jurisdictions and usage agreements for any and all Content; the selection and implementation of controls on the access and use of Content; and the selection, management, separate storage of keys, and use of any public and private keys and digital certificates it may use with the Services. 12.0 Other License and Rights License for Base Components IBM (or its Affiliates or subcontractors) retains all right, title, and interest in Base Components. IBM grants Customer a nonexclusive, nontransferable, revocable license to access and use the Base Components solely in connection with the Services as provided under this Agreement. Customer agrees not to download or otherwise copy, reverse assemble, reverse compile, decompile, or otherwise translate the software portions of the Base Components, other than to make one copy for backup purposes. If IBM provides as a Base Component a Microsoft Corporation product, the terms and conditions of the Microsoft Customer License Terms will also apply for such products.  Such Terms are located on the Internet at http://www.ibm.com/services/e-business/hosting/microsoftlicense.html. Customer agrees not to remove or alter any copyright or other proprietary notice on or in any Base Component without IBM's consent.
+
+Page 7 of 36
+
+No Sale or Lease of Goods
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+No Sale or Lease of Goods As between Customer and IBM, IBM retains all right, title and interest in the Base Components. No goods are sold or leased by IBM under this Agreement. If Customer desires to purchase or lease goods from IBM, such purchase or lease will be governed by a separate mutually acceptable written agreement between Customer and IBM or an IBM Affiliate. No Lease of Real Property This Agreement is a services agreement and not a lease of any real property. 13.0 Changes Service Description IBM, in its reasonable discretion, may change the terms and conditions of Attachment A upon at least ninety (90) days prior notice to Customer if such change was the result of: law, regulation, or similar governmental action; a ruling by a court of competent jurisdiction; or changes in the method of service delivery that affect similar IBM e-business hosting customers. Changes as a result of a, b, or c above will be effective on the date IBM specifies in the notice. Acceptable Use Policy IBM, in its reasonable discretion, may modify the Acceptable Use Policy upon thirty (30) days' prior notice to Customer.  If such modification has a material adverse effect on the Customer's use of the Services and provided such modification is not required by law, regulation, or similar governmental action, or a ruling by a court of competent jurisdiction, Customer's sole remedy is to terminate this Agreement without the payment of termination charges provided Customer gives IBM notice of its intent to terminate within ninety (90) days of the effective date of such modification. Project Change Control Procedure This Agreement may be amended only by a writing signed by authorized representatives of both parties. Requests for such amendment ("Project Change Request" or "PCR") should be submitted in writing by the requesting party. The PCR should reference this Agreement, describe in a reasonable level of detail the proposed change, the rationale for the change, and the impact the proposed change may have on the Agreement. The parties will review the PCR and will do one of the following: authorize the change by signing the PCR; agree in writing to submit the PCR for further investigation. In such case, Customer agrees to pay IBM for its reasonable charges, if any, for such investigation. The investigation will determine the technical merits and the effect on the charges, schedule, and other terms and conditions that may result from the implementation of the PCR. The parties will then decide either to accept or to reject the PCR; or reject the PCR. If the PCR is rejected, the rejecting party will inform the requesting party of the reason for the rejection. A mutually signed PCR will be deemed an amendment to this Agreement. Any modification of this Agreement requested by Customer as a result of laws applicable to Customer will be considered a PCR covered by this Subsection. Until a change is agreed in writing, both parties will continue to act in accordance with the latest agreed version of the Agreement. 14.0 General Headings The headings of the various sections of this Agreement have been inserted for convenience only and shall not affect the interpretation of this Agreement. Survival Any of these terms and conditions which by their nature extend beyond the Agreement termination or expiration remain in effect until fulfilled, including, without limitation, Sections 4.4, 5, 6, 7, 8, 9, 10, 11.3, 11.4, 11.7, 12.2, 12.3, and 14, and apply to both Customer's and IBM's respective successors and assignees.
+
+Page 8 of 36
+
+Choice of Law
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Choice of Law This Agreement will be governed by the substantive laws of the State of New York, without regard for its conflict of laws provisions. Waiver of Jury Trial The parties waive any right to a jury trial in any proceeding arising out of or related to this Agreement. Severability If any provision of this Agreement shall be held by a court of competent jurisdiction to be invalid, illegal, or unenforceable, the validity, legality, and enforceability of the remaining provisions of this Agreement shall in no way be affected or impaired thereby, so long as the remaining provisions of this Agreement still express the original intent of the parties.  If the original intent of the parties can not be preserved, this Agreement shall either be renegotiated or terminated. Publicity and Trademarks Neither party grants the other the right to use its or any of its Affiliates' trademarks, trade names, or other designations in any promotion, publication, or Web site without prior written consent. Except as may be required by law or as may be required by IBM to perform the Services, neither party may disclose to any third party the terms and conditions of this Agreement, without prior written consent. No Third-Party Beneficiaries Except as expressly provided in Section 8, this Agreement does not create any intended third party beneficiary rights. Personnel Each party is responsible for the supervision, direction, and control of its respective personnel. IBM reserves the right to determine the assignment of its personnel. IBM may subcontract portions of the Services to Subcontractors and Affiliates selected by IBM. No Agency This Agreement does not create an agency, joint venture, or partnership between the parties. Assignment Neither party may assign this Agreement, in whole or in part, without the prior written consent of the other. Any attempt to do so is void. Neither party will unreasonably withhold such consent. The assignment of this Agreement, in whole or in part, to any Affiliates in the United States or to a successor organization by merger or acquisition does not require the consent of the other. IBM is also permitted to assign its rights to payments under this Agreement without obtaining Customer's consent. It is not considered an assignment for IBM to divest a portion of its business in a manner that similarly affects all of its customers. No Resale Customer shall not resell the Services, in whole or in part.  This does not prevent Customer from making their Content available to Customer's end users. Risk of Loss Risk of loss for all Base Components shall at all times remain with IBM. Risk of loss for all Customer Components shall at all times remain with Customer. Force Majeure Except for payment obligations hereunder, neither party is responsible to fulfill its obligations to the extent due to causes beyond its control. Actions Period Neither party will bring a legal action related to this Agreement more than two years after the cause of action accrued.
+
+Page 9 of 36
+
+Waiver
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Waiver The failure of one party to insist upon strict adherence to any term of this Agreement on any occasion shall not be considered a waiver, nor shall it deprive that party of the right to insist later on adherence thereto. Any waiver must be in writing and signed by an authorized representative of the waiving party. Freedom of Action Each party is free to enter into similar agreements with others. Limitation of Licenses Each of us grants only the licenses or rights expressly specified herein. No other licenses or rights (including licenses or rights under patents) are granted, either directly, by implication, estoppel, or otherwise. Materials For Materials that IBM delivers to Customer that are created during the performance of Services or otherwise (such as those that preexist the Services), IBM or third parties have all right, title, and interest (including ownership of copyright). IBM will deliver one copy of the Materials to Customer. IBM grants Customer an irrevocable, nonexclusive, worldwide, paid-up license to use, execute, reproduce, display, and perform copies of such Materials and distribute within Customer's Affiliates only.  Customer agrees to reproduce the copyright notice and any other legend of ownership on any copies made. Business Contact Information Customer agrees to allow IBM and its Affiliates to store and use Customer's business contact information, including names, business phone numbers, and business e-mail addresses, anywhere they do business. Such information will be processed and used in connection with our business relationship, and may be provided to contractors acting on IBM's behalf, IBM business partners who promote, market, and support certain IBM products and services, and assignees of IBM and it's Affiliates for uses consistent with our business relationship. Data Protection For personal information processed by IBM on Customer's behalf as part of the Services, IBM will act in accordance with Customer's instructions by following such processing and security obligations as are contained in this Agreement. Customer also confirms that Customer is solely responsible for ensuring that any processing and security obligations comply with applicable data protection laws. Customer's contact information shall not be considered personal information processed on Customer's behalf. Geographic Scope The parties agree that while Services Recipients outside of the United States of America may access the Services, Customer's rights and IBM's obligations arising out of the Agreement are valid only in the United States of America. Notices Any notices required or permitted hereunder will be effective upon receipt and will be personally delivered; mailed via the postal service; sent by reliable overnight courier; or transmitted by confirmed facsimile. Except for notices under Section 11.4, all notices will be in writing and addressed to the applicable party's designated representative at the address specified in this Agreement.  Except as to notices permitted or required under Sections 4 or 8, the parties agree that electronic mail messages sent between them using security procedures sufficient to reasonably authenticate them will be deemed writings. In addition, IBM may provide notice under Section 13.2 by a posting to the Web site identified in Section 2.0 (a).
+
+Page 10 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+___________________________________________________________________________________ In entering into this Agreement, Customer is not relying upon any representation made by or on behalf of IBM that is not specified in the Agreement, including without limitation, the charges to be paid or the results of any of the Services to be provided under this Agreement. By signing below, Customer and IBM agree that this Agreement, including these Base Terms and Attachments, is the complete agreement between the parties relating to this subject matter. Once signed, 1) any reproduction of this Agreement or an Attachment made by reliable means (for example, photocopy or facsimile) is considered an original and 2) all Services ordered under this Agreement are subject to it.
+
+After signing, please return a copy of this Agreement to the IBM or partner sales representative listed above.
+
+Page 11 of 36
+
+Attachment A - Services
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Attachment A - Services 1.0 Description IBM will provide a hosting infrastructure and related services in an e-business Hosting Center as described herein ("Managed Hosting Services").  IBM shall have sole root access (privileged access with authority to perform system-level functions or security administration) for all Base Components, except for partially managed servers ("Partially Managed Servers") specified in Attachment B. IBM's scheduled maintenance hours for the e-business Hosting Center are each Sunday between 3:00 a.m. and 6:00 a.m. local time. Managed Hosting Services may not be available during this time.  IBM reserves the right to interrupt Managed Hosting Services to perform emergency maintenance as needed.  In any such circumstances, IBM will use commercially reasonable measures to notify Customer. Scheduled maintenance hours may change upon notice. 2.0 Base Component Software IBM will provide the following Base Component software: Base Component software selected by IBM for server monitoring and management; Base Component software selected by IBM for antivirus scanning of Windows 2003 servers; Base Component software selected by IBM to enable backup and restoration Services; and Base Component software specified in Attachment B. Upon expiration or termination of this Attachment, Customer will certify in writing to IBM that all use of software Base Components by Customer has ceased and that Customer has retained no copy of such software. 3.0 Customer Components Customer will provide Customer Components identified in Attachment B, subject to the following provisions: the provision for and expense of installation and maintenance for Customer Components is the responsibility of Customer.  Upon Customer's request, IBM will schedule maintenance, notify Customer of the schedule, provide access to the e-business Hosting Center for Customer's authorized maintenance vendors as required, and escort authorized maintenance personnel while on premises at an e- business Hosting Center; Customer is responsible for obtaining and maintaining personal property insurance sufficient to cover the value of Customer Components; Customer is responsible for any shipping or temporary storage costs incurred during the delivery of Customer Components to the e- business Hosting Center or removal of Customer Components from the e-business Hosting Center, unless otherwise expressly set forth in an Attachment; Customer is responsible for authorizing its Content Administrators to access and modify Content by providing User Identifications to such Content Administrators and for the control and distribution of User Identifications and any misuse of such User Identifications; and on or before five (5) days following expiration or termination of this Attachment, Customer will erase Customer Components from any servers and disk space that IBM provides as Base Components. On or before fifteen (15) days following expiration or termination of this Attachment, Customer will remove all Customer Components and any other Customer property from the e-business Hosting Center (excluding any Base Components and other IBM property). If Customer does not remove or erase Customer Components and its other property within such periods, IBM has the option to: move any and all Customer Components and other Customer property to storage and charge Customer all associated costs; liquidate Customer Components and other Customer property in any reasonable manner and charge Customer all associated costs; and erase all Customer Components from servers and disk space that IBM provides as Base Components. 4.0 Services Provided by IBM IP Address Services IBM will provide the number of registered primary IP addresses specified in Attachment B.
+
+Page 12 of 36
+
+Transition Management
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Transition Management IBM will assign a transition manager to manage and oversee the installation and integration of Base and/or Customer Components specified in Attachment B and prepare for ongoing operation. The project manager will: participate in a pre-boarding call with Customer to review Customer's hosting environment and identify information needed for installation; report installation status to Customer; schedule and conduct a boarding call with Customer to confirm that installation of Customer's hosting environment is complete and that it is ready for use (Hosting Service Ready Date); and be available to assist Customer with questions and issues during normal business hours for the e-business Hosting Center (Monday through Friday, 8:00 a.m. - 6:00 p.m., excluding national holidays). Steady State Support IBM will assign a project manager who will be a single point of contact during the ongoing provision of Services to assist Customer with implementation of additional Services and resolution of problems. The account support representative will: notify Customer of planned or emergency e-business Hosting Center maintenance; assist with change requests; and be available to assist Customer with questions and issues during normal business hours for the e-business Hosting Center (Monday through Friday, 8:00 a.m. - 6:00 p.m., excluding national holidays). Management Segment IBM will provide a local area network connection that will enable IBM to manage Base and/or Customer Components and provide other Services at the e-business Hosting Center.  IBM will implement a VLAN and any routing and switching configuration within the IBM hosting infrastructure that is needed to support a management segment. 4.4.1 Backup Segment IBM will provide a Gigabit local area network connection that will enable IBM to manage the backup of the System Images and will also provide a SAN connection to manage the backup of Customer data. IBM will implement a Backup VLAN and any routing and switching configuration within the IBM hosting infrastructure that is needed to support a backup segment. Internet Connectivity IBM will provide a primary connection between the e-business Hosting Center and the Internet with Internet Committed Bandwidth in increments of one (1) Mbps as selected by Customer and specified in Attachment B. Customer will provision and manage all SSL certificates. IBM will assign private IP addresses for Customer's servers at the e-business Hosting Center. Customer is responsible for working with IBM during the technical discovery phase to ensure that these IP addresses do not pose any conflicts with Customer's existing IP addressing schema. During the term IBM shall not change the public IP address(s) assigned to the Customer without the Customer's prior written consent. Customer's data traffic between the IBM e-business Hosting Center and the Internet may exceed Committed Bandwidth, if capacity is available from the IBM e-business Hosting Center network infrastructure. Each calendar month, IBM will measure Customer's actual bandwidth usage by sampling the inbound and outbound data traffic volume between the IBM e-business Hosting Center and the Internet every five (5) minutes. At the end of the month, IBM will discard the five percent (5%) of the samples with the highest data traffic volume. Customer's "Peak Bandwidth Usage" for that month is the remaining sample with the highest data traffic volume.  If Customer's Peak Bandwidth Usage for the month exceeds Committed Bandwidth, Customer will incur a Peak Bandwidth Usage charge, for the amount of usage that exceeds Committed Bandwidth, at the rate specified in Attachment C. In addition, IBM will provide access to bandwidth utilization reports through a Customer accessible web portal.
+
+Page 13 of 36
+
+Managed Switch, Firewall and Load Balancing
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Managed Switch, Firewall and Load Balancing IBM will provide the installation and ongoing management of switch, firewall and Load balancing components specified in Attachment B. IBM will: Install the switch and firewall components defined in Attachment B, implement switch and firewall settings requested by Customer, and test one (1) path to each Network Interface Card (including secondary) in each component; Operate and provide support for all switch and firewall components requested in the Attachment B and monitor their availability 7x24 every day of the year; Provide on-call technical support 7x24 every day of the year for switch and firewall components that may include: Assistance with problem determination; Reboot/power-on of failed switch and firewall components and provide Customer notification; and Implementation of changes to switch and firewall settings requested by Customer. Back up of Customer-requested switch and firewall settings and the restoration of settings in the event of a failure; Provide Customer daily status of firewalls via a Customer accessible IBM web portal; Provide Customer daily status of their network via the Customer accessible IBM web portal; IBM will assign private IP addresses in the range of 10.200.x.x for the private network for component servers at the Hosting Facility. Customer is responsible for working with IBM during the technical due diligence period to ensure that these IP addresses do not pose any conflicts with Customer's existing IP addressing schema; In case of a conflict, Customer will provide network address translation (NATing) for the IP addresses in conflict; and The IPSec tunnels for the VPNs will be based on IPSEC 3-DES technology. Support the following load balancing techniques.  The actual technique to be used for Customer will be determined during implementation and documented in the operations run book maintained by IBM. Round Robin (default load balancing technique) Connections are distributed evenly across all members in the pool. Ratio Member - Connections are sent to a member with a high ratio number more often than a member with a lower ratio number. Node Address - The total number of connections sent to a member in the pool is determined by the weight number you assign the node address. Least Connections Member - Connections are sent to the member with the least active connections. Node Address - Connections are sent to the node serving the least amount of connections. Observed 10. Member - Connections are sent to a member based on a combination of the number of current connections and the response time of the member. The Load Balancer analyzes the performance of the member over time and sends connections to the member based on the trend. 11. Node Address - Connections are sent to a node based on a combination of thenumber of current connections and the response time of the node. The Load Balancer analyzes the performance of the nodes over time and sends connections to the node based on the trend. 12. Predictive 13. Member - Connections are sent to a member based on a combination of the number of current connections and the response time of the member over time. 14. Node Address - Connections are sent to a node based on a combination of the number of current connections and the response time of the node over time. 15. Fastest Node Address - Connections are sent to the node that responds most quickly.
+
+Page 14 of 36
+
+Security Management
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Security Management The security management specified in this section are included as part of the switch & firewall Services specified above. IBM will: be responsible for day-to-day logical security management for the firewall(s), switches and servers dedicated to Customer's e-business Hosting Environment; assist in logically connecting (at OSI Layer 3) Customer networks to the IBM managed networks only when the connection is specifically identified and agreed to in advance by both parties in writing; implement and administer technical and procedural controls to prevent unauthorized, logical access; report incidents of security breach or suspected security breach to Customer; replace software vendor-supplied default password settings with unique secure passwords; implement network intrusion detection/event logging mechanisms; host based intrusion for an additional fee, if requested by Customer; perform regular vulnerability scans of installed Base Component software for: known/reported component vulnerabilities available security patches/fixes; includes firewall and all IP enabled devices in the network both inside as well as outside the firewall; scan external connections to the customer's environment; scan the internal connections to the customer's servers; scan the connection to the Supplier management and backup segments; update list of common vulnerability signatures weekly; update list of security patches by device and OS weekly; perform weekly scans of all IP enabled devices; 10. post weekly exception reports to the customer accessible web portal; 11. recommend corrective action; 12. notify Customer of all critical vulnerability discovered during the scan; 13. notify Customer of all repeat vulnerability that have not been corrected or acknowledged by the Customer; 14. Outages caused by Customer not approving Supplier recommended vulnerability fixes will not be eligible for SLAs. 15. Known/reported component vulnerabilities; and 16. Install available security patches/fixes at the earliest opportunity afforded by the change control process; install available security patches/fixes using the change control process, as approved by the Customer in writing; establish rules for password selection and control, for example: passwords must be robust and not incremental, easily discerned, and changed on regular intervals such as 90 days; user ids / passwords should be disabled after a predefined number of unsuccessful access attempts or after a period of prolonged inactivity; if supported by the operating system/applications, the software should enforce password syntax and change interval; define and implement clear procedures for detecting, recording and reporting security incidents and issues. Fully Managed Servers IBM will provide installation and ongoing management of server Base and/or Customer Components specified (as Fully Managed Servers) in Attachment B, 24x7 everyday of the year. Following installation and prior to IBM beginning ongoing management, Customer may request root access for a limited period of time, solely for the purpose of loading and configuring Customer Content. It is required that the Customer
+
+Page 15 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+will not modify or change any of the administrative areas (for example, UNIX /, /etc, /bin, /usr/sbin, or /var) without written consent from IBM.  IBM will not begin ongoing server management until Customer returns sole root access to IBM and IBM verifies that the environment is stable and supportable. IBM will: Install the Managed Servers requested in a Attachment B including infrastructure related software object modules consisting of a predefined combination of operating system, applicable fixes, selected security / virus patches for Windows based systems, management tools and agents; Test network connectivity paths to server components requested in a Attachment B; Perform the operations events and predefined actions for Managed Servers requested in a Attachment B; Provide technical support, including problem determination, for the device hardware and OS.  IBM will install agents to monitor and report on only the following: Network Interface Up/Down Physical Memory Utilization Processor Utilization - Overall Disk Space Utilization OS services and/or daemons Provide routine Server Administration for the Managed Servers requested in the applicable Attachment A; Perform one (1) weekly full and six (6) daily incremental backups of System Images during the Scheduled Maintenance window unless otherwise set forth in the applicable Attachment A. The System Images will capture the information necessary to be able to perform a successful single step bare metal restore. Provide retention in the IBM library for weekly full backup of System Images for a period of fourteen (14) calendar days unless otherwise set forth in the applicable Attachment B; Restore System Images at no additional charge up to two (2) times per month per Managed Server per Customer. This excludes bare metal restores. Bare metal restores may be performed for an additional charge using SmartHands rates. Provide offsite storage for weekly backup of System Images. Such backups shall be sent offsite once a week and be retained offsite for a period of twenty-eight (28) calendar days unless otherwise set forth in the applicable Attachment B; Provide daily status of the state of the Customer environment using a Customer accessible IBM web portal; Provide details and a monthly summary of the thresholds being monitored using a Customer accessible IBM web portal; Provide details and a monthly summary of the utilization of Managed Server components such as CPU, memory and disk. Reports will be provided using the Customer accessible IBM web portal; Provide details of trouble tickets and their status and action taken to resolve the trouble ticket using a Customer accessible IBM web portal; Identify maintenance releases for supported O/S technologies outlined in Attachment D (Supported Technologies) and provide assessment and notification to Customer; Apply OS maintenance releases that are approved by IBM; Identify security patches/hotfixes for supported O/S technologies outlined in Attachment D (Supported Technologies) and, for critical patches, provide assessment and notification to Customer and the IBM PE and IBM PM within seventy-two (72) hours of release from vendor; Apply patches to the OS that are approved by IBM or Customer; and Provide device availability statistics for Managed Servers using a Customer accessible IBM web portal. In addition, the following will apply for Managed Servers: When IBM owns administrative rights, then following installation and prior to IBM beginning ongoing management, Customer may request root access for a limited period of time, solely for the purpose of loading and configuring Customer Content. It is required that the Customer will not modify or change any of the administrative rights (e.g. Linux /, /etc, /bin, /usr/sbin, /var, etc; Microsoft Local Administrator Accounts/Groups, user right assignments, System File/Directory permissions, etc) without written
+
+Page 16 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+consent from IBM. IBM will not begin ongoing server management until Customer returns sole root access to IBM and IBM verifies that the environment is stable and supportable. When IBM owns administrative rights, Customer may request temporary administrative rights in writing during ongoing management. It is required that the Customer will not modify or change any of the administrative rights (e.g. Linux /, /etc, /bin, /usr/sbin, /var, etc; Microsoft Local Administrator Accounts/Groups, user right assignments, System File/Directory permissions, etc) without written consent from IBM. During this period the SLA will be suspended. If Customer chooses to own administrative rights, SLAs for those Managed Servers will be suspended for the term of the Attachment B. IBM may request temporary administrative rights to deploy patches and other administrative tasks. Although there are no limitations on the number of change requests, the number of emergency requests will be limited to three (3) requests per month, per Customer at no additional charge. Additional requests shall be at the SmartHands rate. Customer must test their applications and approve the IBM applying maintenance releases for their OS such that the environment is always within two maintenance releases. All SLAs will be suspended and service will be provided on a best effort basis for any environment that does not comply with this requirement. IBM will support the current release ("N") and the release immediately preceding the current release ("N-1") of the operating system software. IBM and IBM will work jointly to determine when operating system and micro code upgrades and fixes are applied. IBM will not: Setup and maintain Customer end users; Install, maintain or support Customer applications; Provide application troubleshooting services unless Managed Application Service or T&M services have been purchased; Perform logical database administration; and Perform backups of Customer Content. Such backups are provided as part of the Storage Services as outlined in this Attachment A. Monitoring of Fully Managed Servers IBM will install software components to enable monitoring of the Base and/or Customer Components specified in Attachment B. On a 24x7 everyday of the year basis, IBM will: monitor all Network Interface Cards (NIC); monitor selected operating system thresholds, logs and processes; respond to exceptions and alerts. IBM will execute any internal Standard Operating Procedures (SOP) or a reasonable SOP provided by Customer. Additionally, IBM will make the initial determination as to whether the issue falls within the operational/system/network area or is an application issue; determine if there are patches available for the OS; apply patches to the OS that are approved by IBM in writing; Make the initial determination as to whether the issue falls within the Operational/System/Network area; Immediately notify the Customer of Severity 1 and 2 incidents; monitor for hardware predictive failure analysis alerts when using IBM servers; and notify Customer in writing when Customer intervention or decisions are required. Customer may request, in writing, the granting of temporary administrative rights after the Customer environment has been turned over to IBM for monitoring. IBM will not monitor the affected components while Customer has administrative rights and any SLA provisions will be suspended during this period. IBM will provide Customer with information on the web portal that show monitoring statistics that include daily and historical information (maintained for a one (1) month period). These reports will include the utilization of the components included in the threshold monitoring, such as CPU, memory and disk. Monitoring of the Base and/or Customer Components with associated alerts will not be activated from IBM's production monitoring systems until the Customer Production Ready Date. Customer shall not be
+
+Page 17 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+eligible for an Availability Credit until the first full calendar month following the Customer Production Ready Date.  Basic Monitoring Services (Ping Monitoring) IBM will provide basic Ping monitoring of the Base and/or Customer Components on a 24x7 everyday of the year basis. IBM will provide installation and ongoing monitoring for server and non-server partially managed, monitored Base and/or Customer Components. Customer will own administrative rights for the devices to be monitored. However, IBM may request and will be granted temporary administrative rights in order to install, setup, or maintain any agents required to perform the monitoring. IBM reserves the right to adjust the thresholds for any monitored event in order to reduce the instances of false positives. Customer will be notified in of the change. IBM reserves the right to take a basic monitored server offline if it is deemed by IBM to be a security risk for the rest of the IBM environment. IBM will inform the Customer, the IBM PE and the IBM PM of such action. IBM will: Monitor all network interface cards (NIC); Request the temporary root access privilege from Customer if required Provide Customer with a user ID and password to a secure portal for viewing of real-time monitoring status and alert history; Send an administrative alert via electronic mail to a customer-supplied address if a NIC fails to respond to a Ping; Notify Customer in writing when Customer intervention or decisions are required. Maintain and monitor systems used to provide monitoring; Test and apply patches to monitoring systems as needed; and Provide monitoring statistics on the IBM Web portal. IBM will not: Respond to exceptions and alerts; Monitor any hardware, application, database, network, or operating system components other than those specified above; Provide third-party monitoring agents; and Provide any reporting either in hard-copy or electronic form other than what is available through the Customer portal. Monitoring of the Base and/or Customer Components with associated alerts will not be activated from IBM's production monitoring systems until the Customer's Customer Production Ready Date. Customer shall not be eligible for an Availability Credit until the first full calendar month following the Customer Production Ready Date. In addition, the following will apply for Basic Monitoring Services: Following the initial installation, Customer will be given root access to the Base Components; IBM will provide space, power and cooling for the Base and/or Customer Components; IBM will include up to five (5) Operational Events per month; Customer Content backup is not included in the base offering and can be provided at an additional cost; Customer System Image backup is not included in the base offering and can be provided at an additional cost; System Administration is not included in the base offering; Patch management is not included in the base offering; The status of all server Base and/or Customer Components based solely on the ping monitoring of the network interface cards will be shown on the web portal and the customer will also be notified; and IBM will issue the ping command for each server base component at least every fifteen (15) minutes. Advanced Monitoring Services IBM will provide 24x7 advanced device monitoring of the server and non-server Base and/or Customer Components. Customer will own administrative rights for the devices to be monitored. However, IBM may request and will be granted temporary administrative rights in order to install, setup, or maintain native SNMP agents as required to perform the monitoring. IBM reserves the right to adjust the thresholds for any monitored event in order to reduce the instances of false positives. Customer will be notified in of the change.
+
+Page 18 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+IBM will: Monitor all network interface cards (NIC); Monitor the following operating system metrics: CPU utilization; Memory and Swap utilization; Disk and filesystem utilization; Monitor for hardware predictive failure analysis alerts when using IBM servers; Define and set thresholds for all monitored events based on industry standard best practices; Provide Customer with a user ID and password to a secure portal for viewing of real-time monitoring status and alert history; Send an administrative alert via electronic mail to a customer-supplied address for all events that exceed the maximum allowable threshold; Notify Customer in writing when Customer intervention or decisions are required. Maintain and monitor systems used to provide monitoring; Test and apply patches to monitoring systems as needed IBM will not: Respond to exceptions and alerts; Monitor any application, database, network, or operating system components other than those specified above; Provide third-party monitoring agents; Provide any reporting either in hard-copy or electronic form other than what is available through the Customer portal. IBM will provide Customer with information on the IBM Web portal that show monitoring statistics that include daily and historical information (maintained for additional one (1) month period). These reports will include the utilization of the components included in the threshold monitoring, such as CPU, Memory and Disk. This historical information may optionally, for an additional fee, include one year of history. The reports for iSeries may be different from those available for other platforms. Monitoring of the Base and/or Customer Components with associated alerts will not be activated from IBM's production monitoring systems until the Customer's Customer Production Ready Date. Customer shall not be eligible for an Availability Credit until the first full calendar month following the Customer Production Ready Date. Virtual Servers for Microsoft Windows and Linux OS Customer environment can consist of virtual as well as physical devices. For Virtual Servers, IBM will provide the following Services: Services defined under Managed Servers in Section 4.8 (Fully Managed Servers; Physical servers needed to operate a virtual server farm; All licenses for virtualization software and management tools (e.g. VMware ESX3.0; VMotion and others as needed); Capacity management for the physical server farm to ensure each virtual server has resources required for operation as specified in Attachment B; Restart virtual machine in the event of a virtual or physical machine failure; and Include twenty (20) GB of virtual disk for OS and application code for each Virtual Server. Storage Services - Managed SAN Fabric IBM will provide installation, configuration, ongoing system administration and management support services for the SAN Fabric Base and/or Customer Components ("SAN Fabric") identified in Attachment B at the e-business Hosting Center.  IBM will zone the SAN switches as necessary for security. IBM retains sole root/administrative access (privileged access with authority to perform system-level functions or security administration) in order to perform installation and ongoing management services for the SAN Fabric. The following items apply to the SAN Fabric:
+
+Page 19 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+The managed servers will be connected to the SAN Storage via multiple connections to the SAN switches using two or more HBAs for redundancy in each server, as described for each server in Attachment B. The storage backup media server will be connected to the SAN Storage via redundant connections to the SAN switches using two or more HBAs in each server. In the event that additional SAN switches are required, Customer will sign a new PCR for the additional SAN switches. Managed SAN Storage - "Shared" Environment IBM will provide installation and ongoing system administration and management support services for the shared SAN storage device components specified in Attachment B. Disk space will be allocated by IBM based upon Customer provided specifications from a common pool of SAN storage. SAN switches with zoning dedicated to a Customer and dedicated LUNs will be used to securely implement individual data storage requirements. Managed SAN storage applies only to Customer data storage and excludes System Images. Customer will be responsible for populating the files and databases and for all Customer Content. IBM retains sole root/administrative access (privileged access with authority to perform system-level functions or security administration) in order to perform installation and ongoing management services for SAN storage. The following items apply to the SAN storage shared environment: managed servers will be connected to the SAN storage via redundant connections to different SAN switches using two (2) or more HBAs in each server; the storage backup media server will be connected to the SAN Storage via redundant connections to the SAN switches using two or more HBAs in each server; and if additional SAN Storage capacity is required, Customer will sign a project change request for additional SAN capacity.
+
+Virtual Private Network IBM will configure and manage the number of VPNs identified in Attachment B. The VPNs will consist of an IPSec tunnel based on 3- DES Shaw technology in the firewall at the e-business Hosting Center. IBM will configure and manage the VPN tunnel at the e-business Hosting Center. Customer will configure and manage a corresponding IPSec tunnel based on 3-DES Shaw technology at Customer's location. The IPSec connection will be from specified devices at Customer's site to specified devices at the e-business Hosting Center as defined by Customer. Physical Database Administration (Microsoft SQL) IBM will provide physical and operational database administration support for Micorsoft SQL, database software ("Database Software") for the number of Base Component database servers with the Database Software specified in Attachment B ("Database Administration Servers"). Customer will provide all Database Software, and any required licenses, as a Customer Component. IBM will install Database Software on the Database Administration Servers. IBM will provide four (4) hours of database setup support for each of the Database Administration Servers. Each month IBM will provide four (4) hours of database administration support for each of the Database Administration Servers. Additional hourly database administration and setup support charges will be at the additional hourly support rate specified in Attachment C, unless otherwise specified in a project change request between Customer and IBM. IBM will not provide Physical or Logical data base administration for MySQL. Customer Care IBM will provide a toll free number (inside the US) to receive problem notifications and service requests 7x24 each day of the year from authorized Customer representatives regarding Services provided under this Agreement. Customer representatives shall be identified via email to the IBM project manager. Changes or additions to the Customer representatives will also be made to the IBM project manager via email.
+
+Page 20 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+IBM will assign the following priority levels to each reported problem as listed in the table below: Severity 1 - Critical impact problem that makes the Customer environment unavailable or degraded to a level where Customer is unable to conduct business. Severity 2 - Major Impact. Customer is able to conduct business but a function or service is not available. Severity 3 - Minor impact. The Customer environment is not seriously affected. Severity 4 - No impact. Short coming, dissatisfaction, or question. Emergency - Ability to conduct business is not being affected, however due to other business driving decisions, the request needs to be treated as a Severity 1. IBM will: attempt to resolve on the first call service requests such as password resets for administrative ID's, access control for authorized Customer representatives following the mutually agreed process and starting and stopping of services. document Customer or IBM internally generated call identification data in their Customer Care (Technical Support) System. provide monthly reports showing service request, resolution, call aging data, and other call report information within ten (10) business days from the end of the calendar month. The reports will be provided via the web portal. direct Customer calls, as appropriate, to an IBM technical specialist, coordinate problem determination, attempt resolution, perform root cause analysis, make ticket history available via the web portal and log and track calls to closure.
+
+Page 21 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+will assign the following priority levels and respond to each reported problem as shown in the following table: Severity Initial Communication Recurring Communication Communication Content 1 - Critical Impact IBM provides notification within 15 minutes of a confirmed outage.
+
+IBM support is available 24 x 7 for the duration of the outage. On-site support at IBM Hosting facility within four (4) hours when IBM on-site support is requested by Customer.
+
+· Current Status · Estimated Resolution Time · Next Activity Planned
+
+2 - Major Impact IBM provides notification within 30 minutes of a confirmed outage.
+
+IBM support is available 24 x 7 for the duration of the outage. · Current Status · Estimated Resolution Time · Next Activity Planned 3 - Minor Impact IBM provides notification within 1 hour of a confirmed outage.
+
+IBM support is available 24 x 7 for the duration of the outage. · Current Status · Estimated Resolution Time · Next Activity Planned 4 - No Impact or a Question IBM provides notification within 24 hours. IBM support is available 24 x 7 for the duration of the outage. · Current Status · Estimated Resolution Time · Next Activity Planned Emergency IBM provides notification within 15 minutes of a confirmed outage
+
+IBM support is available 24 x 7 for the duration of the outage. Each Customer is only allowed three (3) emergency requests per month.
+
+· Current Status · Estimated Resolution Time · Next Activity Planned
+
+Customer is allowed up to three (3) emergency requests per month at no additional charge. Additional emergency requests will be charged at the additional hourly support rate specified in Attachment C. Relocation of Managed Hosting Services In the event that IBM determines that it is necessary to relocate Managed Hosting Services within the same or to another e-business Hosting Center, Customer will cooperate in good faith with IBM to facilitate such relocation, provided that such relocation is based on reasonable business needs of IBM (including the needs of other IBM customers), or the expansion of the space requirements of Customer. IBM will use commercially reasonable efforts, in cooperation with Customer, to minimize any interruption to Services in the event of such relocation. Security Obligations IBM will: implement firewall settings and other security parameters as defined by Customer and accepted by IBM; administer firewalls specified in Attachment B; perform nightly memory and file system anti-virus scanning and install virus signature definition file updates, as available, for Base Components and Customer Components with Windows operating systems; perform regular scanning of commonly used TCP and UDP ports, on Base and/or Customer Components to attempt to detect ports and services that may be vulnerable to intrusion. IBM will
+
+Page 22 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+use reasonable efforts to inform Customer of intrusion vulnerabilities detected, and schedule and apply changes to security settings agreed to by Customer to attempt to mitigate vulnerabilities. IBM makes no representation or warranty that IBM's monitoring or analysis procedures will identify all intrusions Customer may encounter; perform monthly security parameter status checking and identify when security checking finds parameter status to be different from what was originally established; and authorize root access, administrator access or their equivalents for Base Components to IBM-designated personnel only. Customer must comply and ensure any Customer Subcontractors comply with the following security obligations. Customer will: authorize IBM to perform the Services described above in item a. of Security Obligations; provide firewall setting requirements (ports, filters, and traffic direction) to IBM and provide the number of nodes required for IBM to perform firewall administration; provide IBM with security parameters and settings. Security parameters and settings will be used for monthly security status checking and are subject to IBM's review and acceptance; not access or attempt to access IBM's secure internal network or the resources or information of other IBM customers; when performing any technical security integrity review, penetration test, or vulnerability scan of  Base Components or Customer Components: (a) only test, scan or review the IP addresses supplied by IBM to Customer that are part of the Services; (b) only test, scan, or review Customer dedicated Base Components and Customer Components; (c) provide IBM at least one week's prior written notice of the date and time of the review; (d) provide the source IP address information and reviewer contact information to IBM; (e) not perform such reviews more than once per calendar quarter; and not perform or simulate denial-of-service attacks; not administer or create privileged User IDs (User IDs having system or security administrative authority) at the base operating system level or on subsystems managed by IBM; and not disclose any information arising out of IBM or Customer scanning of Base Components or Customer Components to any other entity without IBM's prior written consent. IBM strongly recommends that Customer and any Customer Subcontractors comply with the security guidelines listed below, but Customer may deviate from such guidelines after prior written notice to IBM. IBM will have no liability for any damages arising out of Customer's or Customer's Subcontractors' deviation from any or all of the following guidelines: not use Base Components or Customer Components as a relay to provide Internet access at Customer locations; initiate connections from Base Components or Customer Components to Customer Premises Equipment using either caller ID or Challenge Handshake Authentication Protocol (CHAP); only initiate traffic flows from more secure to less secure networks (i.e., from the Customer secure network to the e-business hosting environment ); access Servers in the e-business Hosting Environment from Customer's premises by establishing a one way trust relationship with password when using Windows; not initiate NFS traffic through the Internet access firewall; only use NFS within a single layer, meaning NFS traffic will not cross firewalls and the Servers will be in the same VLAN; not place NFS export files in the same file structure used for system files and executable files in Customer Components; when creating CGI programs, such programs will: (a) validate input to construct a command line. The input character string will have to be validated to ensure that it does not trigger an undesirable system response including the ability to change file permissions; (b) do not run in privileged mode;
+
+Page 23 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+(c) do not create files in any system-related directory; (d) do not need to be stored in any directory other than a designated cgi-bin directory or require the interpreter be stored in the cgi-bin directory; and (e) do not create buffer overflow conditions or other problems that could expose the Server to unauthorized access; not initiate inbound ICMP echo requests or replies from the Internet to the Base Components or Customer Components and outbound ICMP echo replies or ICMP replies for traceroute from the Base Components or Customer Components to the Internet unless Customer provides IBM with source IP addresses; and 10. not initiate SNMP traffic from Customer premises to the e-business Hosting Environment. Technical Due Diligence Period A two (2) week technical due diligence period commencing within two (2) weeks following the execution of this Agreement is required. During this technical due diligence period Customer and IBM technical teams will work together and determine more specific detail regarding configuration, networking, firewall, server, SAN, backup and monitoring installation, configuration and management details, settings, rules, and the schedules and thresholds to be monitored. Any changes as a result of the technical due diligence period will be handled as follows: Any delays in the procurement of equipment will be documented in the project plan by the IBM project manager and communicated to Customer in a timely manner. Any delays in the schedule will be documented in the project plan by the IBM project manager and communicated to Customer in a timely manner; and IBM and Customer will use the PCR process to make any changes to this Agreement as a result of this technical due diligence period. Changes may result in adjustments to pricing. Service Level Agreement IBM will provide an availability service level agreement ("Server Availability SLA") for Qualifying Servers based on the applicable SLA Target Percentage (as such terms are defined below). The first device in the path to the Qualifying Server must be an IBM Managed Device, and the Server Availability SLA applies up through and including the last IBM Managed Server. Definitions The following definitions apply to this Server Availability SLA: "Actual Available Minutes (AAM)" means the Total Available Minutes minus minutes of Qualified Outages. Availability Credit" means an amount equal to five percent (5%) of monthly recurring charges for Managed Hosting Services.  Such credits are available when the services provided for the affected devices are less than the Monthly Availability Percentage. "IBM Managed Device" means a Base Component located in an IBM e-business Hosting Center for which IBM is performing management responsibilities. For servers, only the servers identified as Fully Managed Servers in Exhibit A are considered an IBM Managed Device. "Monthly Availability Percentage" means the amount equal to the total number of minutes in the applicable month minus the Qualifying Outage Minutes for that month, divided by the total number of minutes in that month. "Monthly Recurring Charge" means the total of Customer's monthly recurring charges. "Outage" means the period (measured in whole minutes) from the time indicated in a trouble ticket (when the Outage was reported to IBM) to the Outage end time based upon the problem resolution (as reflected in the trouble ticket call record). For clustered devices, all of the devices in the cluster must not be available for use by Customer. "Qualifying Server" means the IBM Managed Server that has been selected by Customer and approved by IBM. "Qualifying Outage Minutes" means the aggregate of all Outages in a month, minus any Outages in that month resulting from any exclusion described in Section 8.6 below. "SLA Target Percentage" means the Service Levels defined in 8.2 (Service Levels). "Unqualified Outage(s)" means an Outage(s) that can be attributed to the listed availability exclusions as set forth in Section 8.6 (Exclusions).
+
+Page 24 of 36
+
+Service Levels
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Service Levels IBM will provide the following monthly availability Service Level Agreement ("SLA") for the Services provided by IBM: For Managed Devices and Managed Servers (including firewall(s) and switches) that are not clustered or configured in a high availability configuration, the SLA is a minimum of 99.7 percent. For Managed Devices and Managed Servers (including firewall(s) and switches) that are clustered or configured in a high availability configuration, the SLA is a minimum of 99.9 percent. For Managed Application Solution (including firewalls(s) and switches) that are clustered or configured in a high availability configuration, the SLA is a minimum of 98.0 percent. For Managed Application Solution (including firewalls(s) and switches) that is not clustered or configured in a high availability configuration, the SLA is a minimum of 99.5 percent. For Basic Monitoring Services the SLA is a minimum of 99.9 percent applicable only for the core infrastructure components (including power, cooling, Internet connectivity, firewalls, load balancers, SSL acceleration, Network Intrusion Detection, VLAN segments, switches, VPN connection at the Hosting Center, and all related connections). For Advanced Monitoring Services the SLA is a minimum of 99.9 percent applicable only for the core infrastructure components (including power, cooling, Internet connectivity, firewalls, load balancers, SSL acceleration, Network Intrusion Detection, VLAN segments, switches, VPN connection at the Hosting Center, and all related connections). Availability Credits If in any month during the term of Managed Hosting Services the Monthly Availability Percentage for a Qualifying Server is less than the SLA Target Percentage for that Qualifying Server, Customer shall be eligible to receive an Availability Credit, subject to Section 8.3(b), 8.4, 8.5, 8.6 and 8.7. If in any month during the term of Managed Hosting Services the Monthly Availability Percentage for Basic Monitoring or Advanced Monitoring Services is less than the SLA Target Percentage for Basic Monitoring or Advanced Monitoring Services, Customer shall be eligible to receive an Availability Credit, subject to Section 8.3(b), 8.4, 8.5, 8.6 and 8.7. Customer agrees to contact the IBM Help Desk to report problems and open trouble tickets that reflect the start time of the Outage event. Settlement of Credits Availability Credits will be aggregated on a quarterly basis and settled by the last day of the first month following the end of the quarter in which such Availability Credits were earned. (For example, the aggregate Availability Credits earned in the first quarter 2007 will be applied against Monthly Recurring Charge for Services the Customer incurs in the April 2007 invoice.) Any Availability Credits owed from IBM to Customer upon the expiration or termination of the Services will be paid within one (1) month following the effective date of expiration or termination. If the Monthly Recurring Charge for a subject month has not been incurred, or for any other reason has been credited or waived, Customer shall not be eligible for an Availability Credit for that month. Customer shall receive no more than five percent (5%) of Customer's Monthly Recurring Charge for Managed Hosting Services as an Availability Credit in a given month. Commencement of Service Level Agreement IBM will exercise commercially reasonable efforts to meet the SLA Target Percentage. Notwithstanding the foregoing, Customer shall not be eligible for an Availability Credit until the first full calendar month following the Hosting Service Ready Date. Exclusivity of Remedies Customer agrees that its sole remedy for IBM's failure to meet an SLA Target Percentage is the Availability Credit as provided in this Attachment. Exclusions IBM is not responsible for any Outage outside of its control, including but not limited to, the following examples: periods of scheduled or emergency maintenance activities or scheduled Outage; Outage due to problems with Customer provided Content or programming errors including, but not limited to, Content installation and integration;
+
+Page 25 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Outage due to system administration, commands, file transfers performed by Customer representatives; Outage due to work performed at Customer request (for example T&M assistance); other activities Customer  directs, denial of service attacks, natural disasters, changes resulting from government, political, or other regulatory actions or court orders, strikes or labor disputes, acts of civil disobedience, acts of war, acts against parties (including carriers and IBM's other vendors), and other force majeure items; lack of availability or untimely response time of Customer to respond to incidents that require its participation for source identification and/or resolution, including meeting Customer responsibilities for any prerequisite Services; Outage due to Customer breach of its material obligations under the Base Terms; Outages caused by Customer Content or Customer initiated patches; Outages caused by Customer not approving applying IBM recommended OS patches; Outages caused by the Customer not approving applying of OS maintenance releases; Periods where the Customer may have been granted System Administration rights; Customer denies IBM recommended software patches, hardware and/or OS changes; m. Outage due to failure of non-IBM managed Customer Component hardware or software; Power outages caused by customer not providing dual power equipment; Power outages caused by improperly configured power supplies; Power outages caused by incorrectly connected power supplies; Power outages caused by customer configured and managed equipment that results in over utilization of power circuits; and Customer's performance of any technical security integrity review, penetration test, or vulnerability scan pursuant to security obligations set forth herein. Open Source Software additional terms If requested by Customer, IBM will procure Red Hat Linux Software on behalf of Customer. The Red Hat software will be provided as a Customer Component ("Customer Component Linux Software") licensed by Red Hat, Inc. ("Red Hat") to Customer under Red Hat's Subscription Agreement (accessible at http://www.redhat.com/licenses). Customer agrees to the terms and conditions of Red Hat's Subscription Agreement and agrees that Red Hat's Subscription Agreement for the Customer Component Linux Software shall be between Red Hat and Customer. The Linux operating system Customer Component software will be shipped to Customer, not IBM. IBM is not a party to such license.  IBM's provision of Services hereunder shall not constitute a distribution of the Customer Component Linux Software by IBM. If requested by Customer, IBM will install Customer Component Linux Software "as is" and makes no representations or warranties, either express or implied, with respect to the Customer Component Linux Software or any Open Source Software and does not indemnify against any claim that Customer Component Linux Software or any Open Source Software infringes a third party's intellectual property right. Under no circumstances shall IBM be liable for any damages arising out of Customer's use of the Customer Component Linux Software or any Open Source Software. Customer receives no express or implied patent or other license from IBM with respect to the Customer Component Linux Software or any Open Source Software. Customer and IBM agree that any modification or creation of derivative works of Linux or Open Source Software is outside the scope of this Agreement. Linux and any other Open Source Software ("OSS"), including patches, fixes, and updates, which IBM installs, configures, updates, operates or otherwise assists in procuring on Customer's behalf as a result of providing services under this Agreement are licensed and distributed to you by Linux and OSS distributors and/or respective copyright and other right holders, including Red Hat, Inc. ("Right Holders") under the Right Holders' terms and conditions.  IBM is neither a party to the Right Holders' terms and conditions nor a distributor of Linux or OSS and merely does the work described in this Agreement on your behalf upon your specification. You receive no express or implied patent or other license from IBM with respect to Linux or any OSS. IBM installs Linux and OSS "as is" and makes no representations or warranties, either express or implied, with respect to Linux or OSS, and does not indemnify against any claim that Linux or OSS infringes a third party's intellectual property right. Under no circumstances shall IBM be liable for any damages arising out of your use of Linux or OSS.
+
+Page 26 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Both of us agree that any modification or creation of derivative works of Linux or OSS is outside the scope of this Agreement. Responsibilities of IBM and Customer Overall - (with physical database administration support)
+
+RESPONSIBILITIES IBM CUSTOMER
+
+- Installation -
+
+Designate an individual to whom all of IBM's communications will be addressed and who has the authority to act and make decisions for Customer in all aspects of the Services, including requesting changes, problem resolution, Service requests, assignment of Customer focal points with authority over specific Services, and designation of Customer Authorized Representatives ("Customer Contact")
+
+  Perform
+
+Designate an individual to whom Customer will address communications specific to the provision of the Services. IBM's call management center may be the IBM Contact for some Services ("IBM Contact") Perform
+
+Assign authorized representatives with appropriate functional knowledge and technical skill who may submit problems or Service requests to the IBM call management center by calling an IBM-provided toll-free telephone number or by e- mail   Perform
+
+Perform the installation activities specified herein Perform   Register domain names with an accredited domain name registrar and pay all charges associated with such registration   Perform
+
+Install Customer applications   Perform Perform physical DBA tasks to install and configure the database(s) Perform   Perform all logical DBA tasks to install and configure the databases   Perform Provide backup and restore requirements to IBM   Perform Perform necessary physical database administration tasks to prepare Customer database(s) for backup Perform
+
+Perform necessary logical database administration tasks to prepare Customer databases for backup   Perform
+
+Provide e-mail addresses for Customer notification of thresholds exceeded or process exceptions   Perform
+
+Procure Base Components specified in Attachment B Perform   Notify Customer when IBM installation activities are completed (Hosting Service Ready Date) Perform
+
+Provision all SSL certificates   Perform Inform IBM in writing within five (5) business days following IBM's notification of the completion of IBM installation activities, if Customer believes IBM has not satisfactorily completed IBM installation activities   Perform
+
+- Ongoing Management and Support -
+
+Provide the ongoing Services specified herein Perform   Provide ongoing administration, tailoring, monitoring, or maintenance of Customer applications   Perform
+
+Provide first level of support for problems with Customer Components and transfer problems related to IBM's responsibilities to the IBM call management center   Perform
+
+Assist IBM in the investigation of problems, to the extent such investigation involves Customer's or its Subcontractors' responsibilities, and exercise commercially reasonable efforts to resolve problems related to such responsibilities   Perform
+
+Provide ongoing physical database administration for the database(s) Perform   Provide ongoing logical database administration   Perform Perform the IBM security obligations specified herein Perform   Perform the Customer security obligations specified herein   Perform
+
+Page 27 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Update Base and/or Customer Components with applicable fixes (patches, hotfixes, program temporary fixes and service packs) as determined by IBM Perform
+
+Maintain responsibility for all labor and expenses associated with full version operating system software upgrades (to be eligible for continued service, the operating system version running on the managed servers must be one currently supported by the manufacturer of that operating system)   Perform
+
+Maintain copies of critical Content and establish a procedure to recover such Content without resort to the e-business Hosting Environment or Services   Perform
+
+Manage all SSL certificates   Perform
+
+Server
+
+RESPONSIBILITIES IBM Customer
+
+- Installation, Configuration and Setup for Fully Managed Servers
+
+Rack and stack and cable the equipment Perform   Procure and install Base Components Perform   Provision cabinet space Perform   Provision additional power Perform   Create network diagram Perform   Assign public and private IP addresses Perform   Provision internet bandwidth Perform   Procure licenses for backup tools and agents Perform   Load CDs, if requested by Customer Perform   Configure IP addresses on the servers Perform   Perform connectivity testing of Base and/or Customer Components Perform   Identify the predefined events that will be monitored   Perform Configure thresholds defined by Customer Perform   Install and configure monitoring tools Perform   Install and configure clients for the monitoring tools Perform   Perform readiness testing, including testing the flow of alerts Perform   Enable switch monitoring Perform   Notify Customer when installation activities are completed Perform
+
+- Ongoing Management and Support for Fully Managed Servers -
+
+Perform 7 x 24 each day of the year monitoring of the managed servers for actions and events Perform
+
+Maintain required documentation for server management and operation Perform   Research OS patches Perform   Provide problem determination and corrective measures and support for alerts and predefined error events and thresholds Perform
+
+Use reasonable efforts to update Base and/or Customer Components with applicable fixes approved by the Customer Perform
+
+Load CDs if requested by Customer Perform   Call IBM Service if needed Perform   Assist IBM in the investigation of problems with the Services to the extent such investigation involves Customer's or its subcontractors' responsibilities   Perform
+
+Monthly reports of thresholds being measured Perform   Perform root cause analysis for problems related to the equipment or services being provided by IBM Perform
+
+Page 28 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Shared or Dedicated SAN Storage
+
+RESPONSIBILITIES IBM Customer - Installation, Configuration and Setup -     Install SAN configuration and management console and agents on the SAN Storage Perform   Provide IBM with disk configuration specifications (folders, directories, quorum disk layout, disk space size, and Raid level)   Perform
+
+Configure Server HBAs for access to the SAN Storage Perform   Install the SAN devices Perform   Connect the SAN storage device to the SAN switches and to the administration segment Perform
+
+Define storage partitions   Perform Configure the SAN storage per Customer provided specifications Perform   Provide documentation which details the installation parameters for the server and SAN storage Base and/or Customer Components Perform
+
+Document SAN storage configuration Perform   Test SAN storage functionality Perform   Perform connectivity testing of the SAN storage Perform   Perform quality assurance reviews on all operational and administrative support procedures Perform
+
+Identify the predefined actions and events (the "Actions and Events") IBM will perform on the SAN Storage Perform
+
+- Ongoing Management and Support -     Maintain required documentation for the SAN storage management and operation Perform   Perform 7x24 everyday of the year monitoring of the managed SAN storage for actions and events Perform
+
+Provide problem determination and corrective measure support for actions and events Perform
+
+Reallocate SAN based LUNS to different systems and servers (for example: rezoning, import, recognition, and file system remount), as requested by Customer. Perform
+
+Assist IBM in the investigation of problems with the Services to the extent such investigation involves Customer's or its Subcontractors' responsibilities   Perform
+
+Page 29 of 36
+
+Backup, Restore and Offsite Data Storage
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Backup, Restore and Offsite Data Storage
+
+RESPONSIBILITIES IBM Customer
+
+- Installation, Configuration and Setup -
+
+Install selected Base Components, including external cable connections and storage server Perform
+
+Connect the tape library to the designated backup media server Perform   Document the tape library and backup media server configuration and setup parameters Perform
+
+Test hardware functionality Perform   Notify IBM of any specific procedures required for backup of Customer data files and the scheduled backup window   Perform
+
+Creation and documentation of Customer backup and restore procedures Perform   Provide list of files to be backed up   Perform Identify and maintain list of Customer designated data files to be backup up Perform   Install and configure the storage manager software provided by IBM Perform   Verify that the storage manager software is installed and configured properly Perform   Install backup software clients Perform   Configure backup software clients on OS instances Perform   Perform a test backup of the systems by initiating a backup of Customer designated data files Perform
+
+- Ongoing Management and Support -
+
+Maintain required documentation for server management and operation Perform   Assist IBM in the investigation of problems with the Services to the extent such investigation involves Customer's or its subcontractors' responsibilities   Perform
+
+Perform daily incremental backups Perform   Perform weekly full system backups Perform   Keep daily backups in the library for seven (7) days backups (actual backup, retention and rotation schedules to be determined by Customer and IBM) Perform
+
+Create a copy on tape of the weekly full system backup tapes and send offsite for storage with thirty (30) days retention Perform
+
+Examine backup logs for results of daily backup activity Perform   Take actions to alleviate alerts and error messages during the backups Perform   Call the IBM Help Desk to request a take to be restored from the library or from offsite storage.   Perform
+
+Indicate if the offsite storage recall is an emergency request to be fulfilled within six (6) hours (additional charges may apply)   Perform
+
+Identify data file name and version requiring restore   Perform Initiate obtaining of the tapes(s) from offsite storage, if necessary Perform   Initiate restore of Customer designated backed up files as requested Perform   Perform root cause analysis for problems Perform
+
+Page 30 of 36
+
+Switch and Firewall
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Switch and Firewall
+
+RESPONSIBILITIES IBM Customer - Installation, Configuration and Setup -     Configure the local VLANs Perform   Specify switch and firewall settings specific to the application   Perform Configure VLANs and zones for the SAN switches Perform   Configure firewall settings Perform   Test a single path to switch and firewall Base and/or Customer Components Perform   Enable switch and firewall monitoring Perform   - Ongoing Management and Support -     Operate and monitor availability of the switches and firewalls 7x24 each day of the year Perform
+
+Assist IBM in the investigation of problems with the Services to the extent such investigation involves IBM's, Customer's or its subcontractors' responsibilities   Perform
+
+Request changes to switch and firewall settings   Perform Administer changes to switch and firewall Perform   Perform monthly patch scanning on servers that may be vulnerable to intrusion or need hot fixes applied Perform
+
+Inform Customer of hot fixes and vulnerabilities detected and use reasonable efforts to schedule and apply changes to settings, as needed Perform
+
+Backup Customer-specified switch and firewall settings and restore settings in the event of a failure Perform
+
+Physical Database Administration (Microsoft SQL)
+
+  IBM Customer
+
+- Implementation -
+
+Provide Customer with database survey to gather support requirements Perform   Complete database survey   Perform Acquisition of license for Database Software   Perform Configuration of Database Software in accordance with Customer requirements as provided in the database survey Perform Assist
+
+Installation and configuration of application software and Content   Perform Provide documentation specifying the application directory structure, and/or database structure including table definitions, indices and table spaces   Perform
+
+Establish connectivity between database instance and data server and notify Customer when Database Software is ready for use by Customer Perform
+
+Create directory structure and/or execute database definitions Perform   Enable the application functions, once installed and configured, to work with the Database Software and Customer's hosting environment Assist Perform
+
+Establish standard database availability monitoring to assess the availability of database components Perform
+
+Provide documentation for application and database components to be monitored for availability   Perform
+
+Acquire any necessary certificates or keys necessary for authentication functions associated with the Database Software   Perform
+
+Install any certificates or keys provided by Customer necessary for authentication functions associated with the Database Software Perform
+
+Retain control and management of the Database Software support/administration IDs/object owner IDs Perform
+
+- Ongoing Management and Support -
+
+Page 31 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Provide application software troubleshooting, problem determination, and problem resolution. Note, where the application software is third party software, IBM's responsibility will be limited to coordinating with the applicable vendor and managing such vendors resolution. Perform
+
+Provide system software troubleshooting, problem determination, and problem resolution Perform
+
+Assist Customer with Database Software in problem determination of application problems and notify Customer once a problem is suspected to be an application problem Perform Assist
+
+Provide database troubleshooting and problem determination Perform   Contact appropriate IBM support organization for all database related problems after problem has been recorded in the problem management system with key problem- related data by IBM's call management center Perform
+
+Determine backup/recovery plan   Perform Implement backup/recovery plan to allow point in time recovery or version recovery as determined by Customer Perform Assist
+
+Provide application-level assistance in problem determination of Database Software problems   Perform
+
+Assist Customer in application problem resolution through the implementation of database changes required by Customer Perform Assist
+
+Apply fixes, PTFs and patches provided by Customer to correct database problems, as necessary, within the framework of the Project Change Control Procedures Perform
+
+Install Database Software minor release upgrades for an already installed version of each database product using the IBM standard change control procedures ("minor release upgrade" is any change in the release number to the right of the point by the software manufacturer - e.g.: x.y) Perform
+
+Provide any code promotions for application software code and all Content updates   Perform Install application software configuration changes, upgrades and patches, and any updates to Content. Notify IBM of any required database configuration changes needed as a result of the changes, upgrades and patches, and/or updates   Perform
+
+Install system software configuration changes, upgrades and patches, and updates. Perform   Implement any required database configuration changes based on Customer's recommendations Perform
+
+Provide all end user support including administration of application user Ids and groups and end user password resets   Perform
+
+Provide requirements for pruning, rotation and/or archiving of any application and database log files   Perform
+
+Implement any required pruning, rotation and/or archiving of any application and database log files Perform
+
+Provide documentation for performance related parameter/configuration settings   Perform Implement initial database performance tuning and provide additional performance tuning based on analysis of performance metrics provided by Customer Perform Assist
+
+Provide documentation on performance metrics and performance results that the application and database should be measured against, including any necessary tools and/or scripts to collect performance data   Perform
+
+Implement automated performance monitoring and data collection Perform Assist Monitor Database Software components for availability and/or their presence in memory (up/down status) Perform
+
+Assist Customer in testing efforts and monitoring of Customer-provided performance tools and metrics to determine if environment is properly tuned Perform Assist
+
+Collection of performance and capacity data as provided by Customer's application(s) software Assist Perform
+
+Implement performance enhancements to the specific Database Software based on documented tuning parameters and procedures supplied by Customer and specific to Customer application(s) Perform
+
+Collection of performance and capacity data as provided by systems software Perform   Notify IBM within fifteen (15) minutes of a suspected a Database Software component problem   Perform
+
+Monitoring application health and availability and functional testing of application   Perform Establish IBM as single point of contact with Database Software manufacturer   Perform Procure and keep current service contracts with the Database Software manufacturer for 24x7 maintenance and support including upgrades and updates/fixes. IBM will be named as a primary contact in the service agreement(s)   Perform
+
+Page 32 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Provide the appropriate support information for Customer contact and Database Software manufacturer support contact (IDs, contact names, telephone numbers, license numbers, etc.)   Perform
+
+Implementation of any Database Software product major version upgrade ("major version upgrade" is any change in the version number to the left of the point by the software manufacturer - e.g.: x.y)   Perform
+
+Establish single point of contact with application software vendor   Perform
+
+Attachment B - Hosting Components
+
+Part I - IBM Provided Infrastructure
+
+e-business Hosting Center: Atlanta
+
+Internet Bandwidth Internet access committed bandwidth 3 Mbps Number of registered IP addresses 1
+
+Virtualized Firewalls Quantity 2 Model Cisco virtualized firewalls Failover Configuration Yes Number IPSEC VPN tunnels to be set up at the IBM data center (Customer to set up and manage the corresponding VPN tunnels at their sites)
+
+1
+
+Virtual Firewalls Switch Ports and VPN tunnels Quantity of pairs of active / passive virtual firewalls 3
+
+Virtual firewalls and switch ports for Virtual servers, including firewall ports 1
+
+Additional remote clients for VPN sessions 0 Additional site-to-site VPN tunnels 9 Private dedicated backend connection 0
+
+Page 33 of 36
+
+Part II - IBM- managed Base Components
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Part II - IBM- managed Base Components Server Base Components
+
+e-business Hosting Center: Atlanta
+
+Fully Managed Server Base Components Server Quantity 2 Model x3650 Processor 2 x Dual-Core Intel Xeon Processor X5260 (3.33GHz 6MB 1333MHz 80W) Memory 8 GB Local Disk drives · 2 x 73 GB Disk for OS Used for OS, not Customer data OS * Linux RedHat AS SAN connections? No NAS connection? No Fully Managed? Yes Administrative rights owned by IBM during steady state? Yes
+
+Quantity 10 Model x3850 Processor 2 slots, 4x 3 GHz CPUs Memory 8 GB Local Disk drives · 3 x 73 GB 2.5" disk- 2 OS + 1 hot spare OS * Win2003 (Qty 6), Linux RedHat AS (Qty 4). SAN connections? Yes NAS connection? No Fully Managed? Yes Administrative rights owned by IBM during steady state? Yes
+
+SAN Fabric and SAN Storage Base Components - Shared Environment SAN Fabric Number of servers connected to the SAN 10 Number of SAN switch Ports 20
+
+SAN Storage Base Components - Shared environment SAN Storage - Shared Amount of usable space to be allocated, in GB 1600 GB
+
+Raid Level Raid5 (standard)
+
+Page 34 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Part III - Customer Components Customer will provide all Content and all components not specified as IBM provided infrastructure or IBM provided Base Components in Part I or Part II of this Attachment B.
+
+Page 35 of 36
+
+Attachment C - Charges
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009
+
+
+
+
+
+Attachment C - Charges
+
+One-time Charges One-time charges for Managed Hosting Services of $81,217.00 will be invoiced in January 2009 and payable in accordance with section 5.2 Payment. Monthly Recurring Charges Monthly recurring charges for Managed Hosting Services of $37,000.00 will begin on the Hosting Service Ready Date and may be prorated based on the date during the month that Managed Hosting Services commence, change, or end. Usage Charges
+
+Additional hourly support Operational Assistance Per Hour $89.10 SmartHands (systems administrative and technical assistance) Per Hour $188.02 Operational DBA Per Hour; MS SQL $204.37 Charges for additional hourly support requested by Customer, if any, (support that is outside the scope of services included in the monthly recurring charges specified above) will be due as incurred. IBM will charge for additional hourly support in fifteen (15) minute increments. b. Peak Bandwidth Usage Peak Bandwidth Usage charges for data traffic in excess of Committed Bandwidth are due as incurred.  IBM will determine Peak Bandwidth Usage charges each month by subtracting the Committed Bandwidth from the Peak Bandwidth Usage for that month and multiplying the difference by the Peak Bandwidth Usage rate of $147.14.00 per Mbps. c. SmartHands hourly support Charges for SmartHands hourly support requested by Customer, if any, will be due as incurred. IBM will charge for SmartHands hourly support in fifteen (15) minute increments. d. Additional Hourly Database Support Charges for additional hourly database support ("Additional Hourly Database Support") requested by Customer, if any, (database support that is outside the scope of database support hours included in the monthly recurring charges) will be due as incurred. IBM will charge for Additional Hourly Database Support in fifteen (15) minute increments. Termination Charges In the event the Customer elects to terminate this Agreement, or any portion of the Services described herein, for convenience, Customer will pay the applicable termination charges as set forth in the table below. 3-year (thirty six (36) month) Term: For termination: For any terminated Services, Customer will be charged:
+
+prior to first anniversary of the Hosting Service Ready Date four (4) months' applicable recurring monthly charges plusany unpaid One Time Charges from the first anniversary of the Hosting Service Ready Date and prior to the second anniversary of the Hosting Service Ready Date
+
+three (3) months' applicable recurring monthly charges
+
+from the second anniversary of the Hosting Service Ready Date and prior to the expiration of this Agreement two (2) month's applicable recurring monthly charges
+
+Page 36 of 36
+
+Source: QUANTUM GROUP INC /FL, 8-K, 1/20/2009

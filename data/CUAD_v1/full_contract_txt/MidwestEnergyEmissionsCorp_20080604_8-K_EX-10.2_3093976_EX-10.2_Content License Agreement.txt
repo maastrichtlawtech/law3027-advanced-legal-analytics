@@ -1,0 +1,465 @@
+CONTENT LICENSE AGREEMENT
+
+
+
+THIS AGREEMENT is made as of this 2nd day of June, 2008 by and among Digicorp, Inc., a corporation organized under the laws of the State of Delaware, United States of America with offices at 4143 Glencoe Avenue, Unit B, Marina Del Rey, California 90291, U.S.A. ("COMPANY") and New China Media LLC, a Florida limited liability company (a/k/a New China Media Limited) with offices at 400 Alton Road, Penthouse 7, Miami Beach, Florida 33139 ("NCM"); YGP, LLC, a Florida limited liability company with offices at 4000 Hollywood Blvd, Suite 485 South, Hollywood, Florida, 33021 ("YGP") and TWK Holdings, LLC with offices at Room 4301, 43/F, Jardine House , One Connaught Place, Central, Hong Kong ("TWK") (NCM, YGP and TWK shall be individually and collectively referred to as "CONTENT PROVIDER") (COMPANY and CONTENT PROVIDER are hereinafter sometimes collectively referred to as the "Parties").
+
+
+
+                W I T N E S S E T H:
+
+  WHEREAS, COMPANY intends to build and maintain web sites based in the People's Republic of China which will include content provided to COMPANY by third parties for the purpose of providing information to users of the web site, and providing access to the products and/or services of such third parties;
+
+
+
+
+
+WHEREAS, CONTENT PROVIDER has acquired from one or more third parties (individually a "Licensor" and collectively the "Licensors") the right to distribute by means of the internet certain content described more fully in the attached Exhibit A (the "Current Content") and intends to acquire from Licensors in the future the right to distribute by means of the internet additional content (the "Future Content") (the Current Content and the Future Content are hereinafter sometimes collectively referred to as the "Content"); and,
+
+
+
+
+
+  WHEREAS, COMPANY and CONTENT PROVIDER wish to distribute the Content through the web sitesreferred to above.
+
+
+
+  NOW, THEREFORE, in consideration of the promises and the mutual covenants of this Agreement, the partieshereto agree as follows:
+
+
+
+  1. LICENSE
+
+
+
+A. Subject to the terms and conditions of this Agreement, CONTENT PROVIDER hereby grants and assigns by means of present assignment to COMPANY and COMPANY hereby assumes for the Term of this Agreement (as set forth in paragraph 8, below), CONTENT PROVIDER'S rights and obligations regarding the Content from Licensors as set forth in Exhibit A with respect to the right and license for the territory of the People Republic of China to use, reproduce, distribute, transmit and publicly display the Current Content and the Future Content by means of the internet in accordance with Exhibit A and this Agreement. In this regard, it is specifically understood and agreed that CONTENT PROVIDER will not during the Term of this Agreement take any action to exploit or otherwise use, reproduce, distribute, transmit and publicly display any of the Content via the internet to Universities and College students in the People's Republic of China except for the benefit of the COMPANY.
+
+
+
+
+
+
+
+B. CONTENT PROVIDER further grants to COMPANY (i) the right to sublicense the Content to COMPANY'S wholly-owned subsidiaries or to joint ventures in which COMPANY participates for the sole purpose of using, reproducing, distributing, transmitting and publicly displaying the Content in accordance with this Agreement; and, (ii) the right, in COMPANY'S discretion, to use and exploit the Content at one or more other web sites in addition to or in lieu of the web sites referred to in the recital above (the web sites referred to above and any other web sites in addition to or in lieu thereof where COMPANY, its subsidiaries or joint ventures in which it might participate might use or exploit the Content are hereinafter collectively referred to as the "Web site").
+
+
+
+Source: MIDWEST ENERGY EMISSIONS CORP., 8-K, 6/4/2008
+
+
+
+
+
+                2. CONSIDERATION
+
+
+
+A. In consideration for the license of rights granted hereunder in the Current Content, COMPANY hereby agrees to issue to YGP 16,200 shares of its Series A Convertible Preferred Stock for which YGP will pay COMPANY the sum of $1.00 per share or $16,200 in the aggregate; NCM 3,000 of its Series A Convertible Preferred Stock for which NCM will pay COMPANY the sum of $1.00 per share or $3,000 in the aggregate and TWK 12,000 of its Series A Convertible Preferred Stock for which TWK will pay COMPANY the sum of $1.00 per share or $12,000 in the aggregate. Prior to the execution hereof, CONTENT PROVIDER has been furnished with a copy of the Certificate of Designation for the Series A Convertible Preferred Stock and is fully familiar with the terms and conditions thereof.
+
+
+
+
+
+
+
+B. In addition to the foregoing, and subject to the terms and conditions of the applicable content agreement with such Licensor, COMPANY agrees to pay directly to each Licensor from whom CONTENT PROVIDER might obtain Content which CONTENT PROVIDER licenses to COMPANY pursuant hereto a royalty equal to that royalty which CONTENT PROVIDER might be obligated to pay to that Licensor with respect to the use and exploitation of that Content in the manner licensed to and actually used by COMPANY pursuant hereto provided, however, unless the Parties might agree in writing to the contrary, in no event will COMPANY be obligated to pay such Licensor for the use of such Content more than fifty percent (50.0%) of all revenues generated during the Term of this Agreement from banner advertising that appears on Web site pages that display that Content or any portion thereof and with respect to which at least a majority of the content (excluding advertisements) on such pages is composed of the Content (the "Net Advertising Revenue").
+
+
+
+
+
+
+
+C. Subject to the terms and conditions of the applicable content agreement with such Licensor, the Net Advertising Revenue shall be calculated on a quarterly calendar basis (the "Net Advertising Revenue Period") and shall be payable no later than sixty (60) days after the termination of the preceding full quarter-annual period, i.e., commencing on the first (1st) day of January, April, July and October except that the first and last calendar periods may be "short," depending on the effective date of this Agreement.
+
+
+
+
+
+
+
+D. For each Net Advertising Revenue Period, COMPANY shall provide the Licensor of such Content with a written statement of account setting out the actual number of visits to the Web Site during the applicable Net Advertising Revenue Period. Such statement shall be furnished to the Licensor of such Content regardless of whether any visits to the Web site were made during the applicable period.
+
+
+
+
+
+    E. COMPANY'S obligation for the payment of the Net Advertising Revenue shall survive expiration or termination of this Agreement and will continue for as long as COMPANY continues to use the Content.
+
+
+
+
+
+F. For the avoidance of doubt or confusion, the sole consideration paid or payable to CONTENT PROVIDER pursuant to this Agreement is that provided for in paragraph 2A hereof and in no event will CONTENT PROVIDER be entitled to receive any participation in any of the revenues which COMPANY might derive from the Content.
+
+
+
+                3. CONTENT PROVIDER'S RESPONSIBILITIES
+
+    A. CONTENT PROVIDER will provide to COMPANY the Content, which will comply with thedescription attached hereto as Exhibit A.
+
+
+
+    B. CONTENT PROVIDER will have sole responsibility for providing, at its expense, the Content to COMPANY. CONTENT PROVIDER and COMPANY will determine mutually agreeable methods for the transmission and incorporation of updates to the Content.
+
+
+
+Source: MIDWEST ENERGY EMISSIONS CORP., 8-K, 6/4/2008
+
+
+
+
+
+  4. RIGHTS OF COMPANY
+
+
+
+A. Subject to the terms and conditions of the applicable content agreement with such Licensor, COMPANY may incorporate the Content into certain pages in the Web Site (the "Content Pages") and reasonable excerpts or portions of the Content may be incorporated into the Web site at COMPANY'S discretion.
+
+
+
+
+
+    B. COMPANY shall have sole control over the content, composition, and "look and feel" of the Web site, and will have sole responsibility for providing, hosting and maintaining, at its own expense, the Web site.
+
+                5. RIGHTS OF CONTENT PROVIDER
+
+    A. Subject to the terms and conditions of the applicable content agreement with such Licensor, CONTENT PROVIDER will have sole control and responsibility over the data and information contained in the Content.
+
+
+
+
+
+B. CONTENT PROVIDER will not alter the Content without COMPANY'S prior written consent; provided, however, that, subject to the terms and conditions of the applicable content agreement with such Licensor,CONTENT PROVIDER may promptly and without prior consent of COMPANY make any changes in the Content to correct errors and the like, or to remove any defamatory materials or any other materials that CONTENT PROVIDER can demonstrate are offensive to a reasonable number of users of the Web site.
+
+
+
+                6. RECORD INSPECTION, AUDIT AND INCONTESTABILITY PERIOD
+
+
+
+A. COMPANY will maintain accurate books and records with respect to the calculation of all payments due under this Agreement. The Licensors shall have the right, upon reasonable notice, to inspect COMPANY'S books and records and all other documents and material in COMPANY'S possession or control with respect to the Content each has or might license to CONTENT PROVIDER which becomes the subject matter of this Agreement (and only with respect to Content each has or might license to CONTENT PROVIDER which become the subject matter hereof).
+
+
+
+
+
+    B. All books and records relative to COMPANY'S obligations to a particular Licensor hereunder shall be maintained and made accessible to that Licensor for inspection at a location in Los Angeles, California for at least twelve (12) months after termination of this Agreement.
+
+
+
+
+
+C. Each report rendered by COMPANY to a Licensor hereunder shall become final and incontestable twelve (12) months following the date COMPANY might render same to that Licensor unless prior to the expiration of that twelve (12) month period that Licensor provides COMPANY with a detailed written objection thereto.
+
+
+
+                7. OWNERSHIP
+
+
+
+A. CONTENT PROVIDER, LICENSORS or either of them, as appropriate, shall retain all worldwide rights, title and interest in and to the Content (including, but not limited to, ownership of all copyrights and other intellectual property rights therein), as well as all right, title and interest in and to their and each of their trademarks, service marks and trade names, worldwide, including any goodwill associated therewith, subject to the limited license granted to COMPANY hereunder.
+
+
+
+
+
+
+
+B. COMPANY will retain all worldwide rights, title, and interest in and to the Web Site (including, but not limited to, ownership of all copyrights, trademarks, look and feel and other intellectual property rights therein), as well as all right, title and interest in and to its trademarks, service marks and trade names worldwide, including any goodwill associated therewith, subject to the limited license granted
+
+Source: MIDWEST ENERGY EMISSIONS CORP., 8-K, 6/4/2008
+
+
+
+
+
+to  CONTENT PROVIDER hereunder. Any use of any such trademarks by CONTENT PROVIDER shall inure to the benefit of COMPANY and CONTENT PROVIDER shall take no action that is inconsistent with COMPANY'S ownership thereof.
+
+
+
+C. Each party hereby grants to the other a non-exclusive, limited royalty-free license to use its trademarks, service marks or trade names only as specifically described in this Agreement. All such use shall be in accordance with each party's reasonable policies regarding advertising and trademark usage as established from time to time.
+
+
+
+                8. TERM
+
+
+
+A. This Agreement and the provisions hereof, except as otherwise provided, shall be in full force and effect commencing on the date of execution by both Parties and shall extend for an initial term of two (2) years. This Agreement shall be automatically renewed for additional extended terms each of two (2) years duration unless either party notifies the other in writing of its intention not to renew the Agreement, such notification to be provided at least ninety (90) days prior to the expiration of the then in-effect term. The initial two (2) year term as it might be extended herein is referred to herein as the "Term."
+
+
+
+
+
+
+
+B. Notwithstanding anything in the foregoing paragraph to the contrary, with respect to each item of Current Content or Future Content the Term during which COMPANY may use and exploit same shall commence on the date hereof and continue for that period of time which is the longer of: (i) two (2) years following the date on which CONTENT PROVIDER might make full delivery of such Content to COMPANY; and (ii) the duration of the term of the license concerning that Content between CONTENT PROVIDER and its Licensor thereof.
+
+
+
+                9. TERMINATION
+
+    A. This Agreement may be terminated by either party upon thirty (30) days written notice to the other in the event of a breach of a material provision hereof unless, during that thirty (30) day period, the party receiving the notice cures the breach.
+
+
+
+    B. COMPANY may, in its unfettered discretion, terminate this Agreement at any time after first givingCONTENT PROVIDER ten (10) days advance notice thereof.
+
+                10. EFFECT OF TERMINATION
+
+    A. The termination or expiration of this Agreement will in no way affect COMPANY'S obligation to render reports or pay sums shown as owing thereon for periods of time prior to the termination or expiration of this Agreement;.
+
+
+
+    B. The warranties, representations and indemnity obligations of this Agreement will survive terminationor expiration of this Agreement.
+
+                11. CONFIDENTIALITY
+
+    A. "Confidential Information" shall mean any confidential technical data, trade secret, know-how or other confidential information disclosed by any party hereunder in writing, orally, by drawing or otherwise.
+
+              B. Notwithstanding the foregoing, Confidential Information shall not include information which: (i) is known to the receiving party at the time of disclosure or becomes known to the receiving party without breach of this Agreement; (ii) is or becomes publicly known through no wrongful act of the
+
+Source: MIDWEST ENERGY EMISSIONS CORP., 8-K, 6/4/2008
+
+
+
+
+
+    receiving party or any subsidiary of the receiving party; (iii) is rightfully received from a third partywithout restriction on disclosure; (iv) is independently developed by the receiving party or any of its subsidiaries; (v) is furnished to any third party by the disclosing party without restriction on its disclosure; (vi) is approved for release upon a prior written consent of the disclosing party; or, (vii) is disclosed pursuant to judicial order, requirement of a governmental agency or by operation of law.
+
+
+
+
+
+
+
+C. The receiving party agrees that it will not disclose any Confidential Information to any third party and will not use Confidential Information of the disclosing party for any purpose other than for the performance of the rights and obligations hereunder during the term of this Agreement and for a period of three (3) years thereafter, without the prior written consent of the disclosing party. The receiving party further agrees that Confidential Information shall remain the sole property of the disclosing party and that it will take all reasonable precautions to prevent any unauthorized disclosure of Confidential Information by its employees. No license shall be granted by the disclosing party to the receiving party with respect to Confidential Information disclosed hereunder unless otherwise expressly provided herein.
+
+
+
+
+
+    D. Upon the request of the disclosing party, the receiving party will promptly return all ConfidentialInformation furnished hereunder and all copies thereof.
+
+
+
+
+
+E. The Parties agree that all publicity and public announcements concerning the formation and existence of this Agreement shall be jointly planned and coordinated by and among the Parties. Neither party shall disclose any of the specific terms of this Agreement to any third party without the prior written consent of the other party, which consent shall not be withheld unreasonably. Notwithstanding the foregoing, any party may disclose information concerning this Agreement as required by the rules, orders, regulations, subpoenas or directives of a court, government or governmental agency, after giving prior notice to the other party.
+
+
+
+
+
+
+
+F. If a party breaches any of its obligations with respect to confidentiality and unauthorized use of Confidential Information hereunder, the non-breaching party shall be entitled to equitable relief to protect its interest therein, including but not limited to injunctive relief, as well as money damages notwithstanding anything to the contrary contained herein.
+
+
+
+
+
+    G. Except as otherwise set forth in this Agreement, neither party will make any public statement, press release or other announcement relating to the terms of or existence of this Agreement without the prior written approval of the other, which approval shall not be unreasonably withheld.
+
+                12. WARRANTIES AND REPRESENTATIONS                     A. CONTENT PROVIDER warrants and represents that
+
+
+
+(i) CONTENT PROVIDER has the full right, power, legal capacity and authority to enter into this Agreement, to carry out the terms and conditions hereof and to grant to COMPANY the rights, licenses and privileges herein granted to COMPANY. Except as otherwise provided herein, CONTENT PROVIDER does not need the consent or release of any other person, firm or entity in order for CONTENT PROVIDER to enter into this Agreement and to grant to COMPANY the rights granted pursuant to this Agreement.
+
+
+
+
+
+
+
+(ii) With respect to the Content and each item thereof, the execution, delivery and performance of this Agreement by CONTENT PROVIDER shall not violate or contravene any certificate of incorporation or by-laws of CONTENT PROVIDER or any agreement or other instrument to which CONTENT PROVIDER is a party. This Agreement has been duly authorized, executed and delivered by CONTENT PROVIDER.
+
+
+
+              (iii) With respect to the Content and each item thereof, neither the Content nor anything contained therein (including, but not limited to, the title thereof and any music and sound synchronized
+
+Source: MIDWEST ENERGY EMISSIONS CORP., 8-K, 6/4/2008
+
+
+
+
+
+
+
+therewith), nor any use or distribution or exploitation of the Content, nor any exercise by COMPANY of any or all of the rights granted to COMPANY pursuant to this Agreement, nor any materials delivered hereunder shall at any time during the Term as it might be extended, violate or infringe upon any right or interest of any person or entity, including, but not limited to, any copyright, literary right, dramatic right, privacy right, musical right, publicity right, artistic right, personal right, property right, civil right, trademark right, trade name, service mark or any other right or interest of any person or entity.
+
+
+
+
+
+
+
+(iv) With respect to the Content and each item thereof, during the Term as it might be extended, there shall not be any actual or threatened liens, claims, encumbrances, legal proceedings, restrictions, agreements or understandings which will conflict or interfere with, limit, derogate from, or be inconsistent with, or otherwise affect any of the provisions of this Agreement, any of the representations and warranties of CONTENT PROVIDER contained herein or the enjoyment by COMPANY of any or all of the rights granted to COMPANY hereunder.
+
+
+
+
+
+
+
+(v) With respect to the Content and each item thereof, CONTENT PROVIDER owns and controls and shall for the full Term as it might be extended own and control, any and all rights necessary to enable CONTENT PROVIDER to grant to COMPANY the rights granted pursuant to this Agreement and to enable COMPANY to exercise and enjoy the rights granted to COMPANY pursuant to this Agreement (without COMPANY incurring any obligation or liability to any person or entity) including, but not limited to, all performance rights and advertising rights and all other rights granted to COMPANY hereunder in and to all literary, dramatic, musical and other material contained in the Content and each item thereof. With respect to the Content and each item thereof, CONTENT PROVIDER has secured and obtained, and CONTENT PROVIDER shall maintain throughout the Term as it might be extended all rights as may be required for the full and unlimited exercise and enjoyment by COMPANY of each and all of the rights herein granted to COMPANY.
+
+
+
+
+
+
+
+(vi) All obligations and amounts payable with respect to the Content and each item thereof or with respect to the production, distribution and exploitation thereof, including, but not limited to, all salaries, royalties, license fees, laboratory charges, union obligations and the like, have been and shall be fully paid and satisfied by CONTENT PROVIDER or third parties. COMPANY shall have no obligation for past, current or future salaries, royalties, laboratory charges, or similar payments with respect to the Content and each item thereof.
+
+
+
+
+
+
+
+(vii) The Content and each item thereof are not in the public domain and are validly copyrighted in the territories in which CONTENT PROVIDER has licensed COMPANY rights in the Content. The Content and each item thereof will not fall into the public domain anywhere in the territories in which CONTENT PROVIDER has licensed COMPANY rights in the Content prior to the expiration of the Term as it might be extended. Each Program, as delivered, will contain all proper copyright notices required or permitted under any applicable statute, act or treaty.
+
+
+
+
+
+
+
+(viii) Each CONTENT PROVIDER understands that the Preferred Shares being acquired by each CONTENT PROVIDER hereunder and any underlying securities (collectively referred to herein as the "Securities"), have not been registered under the Securities Act of 1933, as amended (the "Act"), and are being issued under an exemption from registration provided by Section 4(2) of the Act. The Securities are being acquired by each CONTENT PROVIDER solely for its own account, for investment purposes only, and have not been acquired with a view to, or in connection with, any resale, distribution, subdivision or fractionalization thereof. Each CONTENT PROVIDER has no agreement or other arrangement, formal or informal, with any person to sell, transfer or pledge any part of the Securities. Each CONTENT PROVIDER understands that CONTENT PROVIDER must bear the economic risk of the investment for an indefinite period of time because the Securities cannot be resold or otherwise transferred unless they are subsequently registered under the Act or an exemption from such registration is available.
+
+
+
+              Source: MIDWEST ENERGY EMISSIONS CORP., 8-K, 6/4/2008
+
+
+
+
+
+
+
+(ix) CONTENT PROVIDER'S warranties, representations and agreements are of the essence of this Agreement and shall survive for the full Term as it might be extended. None of CONTENT PROVIDER'S representations, warranties or agreements shall in any way be limited by reason of any investigation made by COMPANY of any documents, agreements or other materials submitted to COMPANY by CONTENT PROVIDER hereunder.
+
+
+
+                13. INDEMNIFICATION
+
+
+
+A. CONTENT PROVIDER shall, at its sole cost and expense, indemnify, save and hold harmless COMPANY and its successors, subdistributors, sublicensees, assigns, agents, representatives and affiliates from and against any and all claims, demands, causes of action, liability, loss, damage, cost and expense (including reasonable attorney's fees and court costs) incurred or sustained by reason of or arising out of any breach or alleged breach of any of the warranties, representations or agreements herein made by CONTENT PROVIDER, or by reason of any action, claim or proceeding related to or arising out of such breach or alleged breach by CONTENT PROVIDER. In the event that any person or entity shall make any claim or institute any suit or proceeding, COMPANY shall notify CONTENT PROVIDER in writing, and CONTENT PROVIDER must assume, at it own cost and expense, the defense thereof; provided, however, that COMPANY'S failure to provide such notice shall not affect this indemnity unless CONTENT PROVIDER has been materially prejudiced by such failure. COMPANY may, at its sole discretion, engage its own counsel in connection with any such suit, claim or proceeding, and the cost thereof (including reasonable fees and expenses) shall be borne by CONTENT PROVIDER provided that CONTENT PROVIDER shall in any event fulfill its obligation to undertake COMPANY'S defense. The final control and disposition of any claim, whether by settlement, compromise or otherwise, shall remain with COMPANY pursuant to the terms of this indemnification paragraph. In the event that CONTENT PROVIDER fails to promptly make any required payment to COMPANY, COMPANY shall have the right to withhold for its own account any royalties or other monies payable to CONTENT PROVIDER by COMPANY pursuant to this Agreement or any other agreement between CONTENT PROVIDER and COMPANY.
+
+
+
+
+
+
+
+B. COMPANY shall, at its sole cost and expense, indemnify, save and hold harmless CONTENT PROVIDER and its successors, subdistributors, sublicensees, assigns, agents, representatives and affiliates from and against any and all claims, demands, causes of action, liability, loss, damage, cost and expense (including reasonable attorney's fees and court costs) incurred or sustained by reason of or arising out of any breach or alleged breach of any of the warranties, representations or agreements herein made by COMPANY, or by reason of any action, claim or proceeding related to or arising out of such breach or alleged breach by COMPANY. In the event that any person or entity shall make any claim or institute any suit or proceeding, CONTENT PROVIDER shall notify COMPANY in writing, and COMPANY must assume, at it own cost and expense, the defense thereof; provided, however, that CONTENT PROVIDER'S failure to provide such notice shall not affect this indemnity unless COMPANY has been materially prejudiced by such failure. CONTENT PROVIDER may, at its sole discretion, engage its own counsel in connection with any such suit, claim or proceeding, and the cost thereof (including reasonable fees and expenses) shall be borne by COMPANY provided that COMANY shall in any event fulfill its obligation to undertake CONTENT PROVIDER'S defense. The final control and disposition of any claim, whether by settlement, compromise or otherwise, shall remain with CONTENT PROVIDER pursuant to the terms of this indemnification paragraph. In the event that COMPANY fails to promptly make any required payment to CONTENT PROVIDER, CONTENT PROVIDER shall have the right to withhold for its own account any royalties or other monies payable to COMPANY by CONTENT PROVIDER pursuant to this Agreement or any other agreement between COMPANY and CONTENT PROVIDER.
+
+
+
+
+
+
+
+C. IN NO EVENT WILL CONTENT PROVIDER BE LIABLE TO COMPANY NOR WILL COMPANY BE LIABLE TO CONTENT PROVIDER FOR ANY SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, WHETHER OR NOT THAT PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. TH  LIABILITY OF CONTENT PROVIDER FOR DAMAGES HEREUNDER, WHETHER IN CONTRACT, TORT
+
+
+
+Source: MIDWEST ENERGY EMISSIONS CORP., 8-K, 6/4/2008
+
+
+
+
+
+OR ANY OTHER LEGAL THEORY, IS LIMITED TO, AND SHALL NOT EXCEED $31,200.00.                 14. NOTICE AND PAYMENT
+
+
+
+All notices, requests and other communications hereunder shall be in writing and shall be delivered by courier or other means of personal service (including by means of a nationally recognized courier service or professional messenger service), or sent by telex or telecopy or mailed first class, postage prepaid, by certified mail, return receipt requested, in all cases, addressed as indicated in the introductory recital of this Agreement. All notices, requests and other communications shall be deemed given on the date of actual receipt or delivery as evidenced by written receipt, acknowledgment or other evidence of actual receipt or delivery to the address specified above. In case of service by telecopy, a copy of such notice shall be personally delivered or sent by registered or certified mail, in the manner set forth above, within three (3) business days thereafter. Any party hereto may from time to time by notice in writing served as set forth above designate a different address or a different or additional Person to which all such notices or communications thereafter are to be given.
+
+
+
+                15. GOVERNING LAW AND VENUE
+
+
+
+This Agreement is to be governed by and construed in accordance with the Laws of the State of California applicable to contracts made and to be performed wholly within such State, and without regard to the conflicts of laws principles thereof. Any suit brought hereon, whether in contract, tort, equity or otherwise, shall be brought in the state or federal courts sitting in Los Angeles County, California, the parties hereto hereby waiving any claim or defense that such forum is not convenient or proper. Each party hereby agrees that any such court shall have in personam jurisdiction over it, consents to service of process in any manner prescribed or authorized by California Law, and agrees that a final judgment in any such action or proceeding shall be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner specified by Law.
+
+
+
+                16. ARBITRATION
+
+
+
+Any controversy or claim arising out of or relating to this Agreement, or any agreements or instruments relating hereto or delivered in connection herewith or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicablility of this agreement to arbitrate, will at the request of any party be determined by arbitration in Los Angeles, California before three (3) arbitrators under the rules of the JAMS. Judgment upon the award rendered by the arbitrators may be entered in any court having jurisdiction. The institution and maintenance of an action for judicial relief in pursuit of a provisional or ancillary remedy shall not constitute a waiver of the right of any party, including the plaintiff, to submit the controversy or claim to arbitration.
+
+
+
+                17. ATTORNEYS' FEES
+
+    In any suit, action, arbitration or other proceeding to interpret or enforce this Agreement, the prevailing party therein shall, in addition to any other award of damage or other remedy, be entitled to recover its reasonable attorneys' fees and costs.
+
+                18. AGREEMENT BINDING ON SUCCESSORS
+
+    The provisions of this Agreement shall be binding upon and shall inure to the benefit of the Parties hereto,their heirs, administrators, successors and assigns.
+
+                19. WAIVER
+
+Source: MIDWEST ENERGY EMISSIONS CORP., 8-K, 6/4/2008
+
+
+
+
+
+    No waiver by either party of any default shall be deemed as a waiver of prior or subsequent default of thesame of other provisions of this Agreement.
+
+                20. SEVERABILITY
+
+    If any term, clause or provision hereof is held invalid or unenforceable by a court of competent jurisdiction, such invalidity shall not affect the validity or operation of any other term, clause o provision and such invalid term, clause or provision shall be deemed severed from this Agreement.
+
+                21. FURTHER ACTION
+
+    Each of COMPANY and CONTENT PROVIDER agrees to execute and deliver such other documents or agreements and take such other action as may be reasonably necessary or desirable for the implementation of this Agreement and the consummation of the transactions contemplated hereby.
+
+                22. INTEGRATION
+
+
+
+This Agreement constitutes the entire understanding of the Parties, and revokes and supersedes all prior agreements between the Parties and is intended as a final expression of their Agreement. It shall not be modified or amended except in writing signed by the Parties hereto and specifically referring to this Agreement. This Agreement shall take precedence over any other documents which may conflict with this Agreement.
+
+
+
+
+
+  IN WITNESS WHEREOF, the Parties hereto, intending to be legally bound hereby, have each caused to beaffixed hereto his or its hand the day indicated.
+
+
+
+  "CONTENT PROVIDER"   "COMPANY"               New China Media, LLC   Digicorp, Inc.               By /s/ Dennis Pelino   By /s/ Jay Rifkin     Name: Dennis Pelino   Name: Jay Rifkin     Title: Chairman   Title: CEO                         "CONTENT PROVIDER":                   YGP, LLC                   By /s/ Dennis Pelino         Name: Dennis Pelino         Title: Managing Partner                             "CONTENT PROVIDER":                   TWK Holdings, LLC
+
+Source: MIDWEST ENERGY EMISSIONS CORP., 8-K, 6/4/2008
+
+
+
+
+
+  By /s/ Beh Chong Wah         Name: Beh Chong Wah         Title: Managing Member
+
+
+
+
+
+EXHIBIT A TO CONTENT LICENSE AGREEMENT BY AND AMONG DIGICORP, INC. AND NEW CHINA MEDIA, LLC; YGP, LLC and TWK HOLDINGS, LLC DATED June 2, 2008
+
+
+
+            DESCRIPTION OF CONTENT
+
+  Supply Agreement for Content dated May 31, 2008 among Yes Television (Hong Kong) Limited, New ChinaMedia Limited and Youth Media "HKG" Limited, a copy of which is annexed hereto.
+
+            Content derived from AVP, Inc. and other film content on a non-exclusive basis
+
+Source: MIDWEST ENERGY EMISSIONS CORP., 8-K, 6/4/2008

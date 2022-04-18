@@ -1,0 +1,447 @@
+Exhibit 10.1
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETED ASTERISKS [***], HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. SUPPLY AGREEMENT
+
+THIS SUPPLY AGREEMENT ("Agreement") is entered into as of this 15th day of May, 2013 (the "Effective Date") by and between Integra LifeSciences Corporation ("Integra"), a Delaware corporation with offices at 311 Enterprise Drive, Plainsboro, New Jersey 08536, and PcoMed, LLC ("PcoMed"), a Colorado limited liability company with offices at 105 S. Sunset Street, Longmont, Colorado 80501.
+
+RECITALS:
+
+WHEREAS, Integra is a medical device company that is developing and commercializing implantable spinal medical devices and procedures in the field of spinal surgery;
+
+WHEREAS, PcoMed has experience and expertise in the surface modification of medical device materials;
+
+WHEREAS, Integra desires to engage PcoMed to apply certain of its surface technologies onto Integra's implantable spinal medical devices for preclinical, clinical and commercial use and distribution by Integra; and
+
+WHEREAS, PcoMed is willing to apply such surface technologies onto Integra's implantable spinal medical devices and to grant Integra certain exclusive rights to use and commercialize those devices; and
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises herein contained, the parties hereto agree as follows: 1. DEFINITIONS.
+
+As used in this Agreement, the following initially capitalized terms, whether used in the singular or plural form, shall have the meanings set forth in this Section 1.
+
+1.1. "Affiliate" means any corporation, limited liability company, person or entity that directly or indirectly controls, is controlled by, or is under common control with, a party to this Agreement. For purposes of this Section 1.1, the term "control" (with a correlative meaning for "controlled by") means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of the subject corporation, person or entity, whether through the ownership of voting securities, by contract or otherwise.
+
+1.2. "*** Run" means a single production run of PcoMed's *** to apply the PcoMed Surface Modification Technology to Integra Products.
+
+1.3. "*** Run Fee" means the fee for a single *** Run. The *** Run Fee is exclusive of potential fees for any surface preparation requirements currently performed prior to PcoMed's receipt of Integra Product.
+
+1.4. "Confidential Disclosure Agreements" means all Mutual Non-Disclosure Agreements previously or hereafter entered into by certain Integra Affiliates and PcoMed. 1 *** Portions of this page have been omitted pursuant to a request for Confidential Treatment filed separately with the Commission.
+
+
+
+
+
+1.5. "Confidential Information" means, whether disclosed in oral, written, graphic, electronic form, or other form, and whether developed by the disclosing party or by others, any confidential, non-public, proprietary information of Integra or PcoMed that is designated by the disclosing party as confidential or secret or that should reasonably be assumed by the receiving party to be confidential or secret. Confidential Information includes, without limitation: (i) specifications, know-how, trade secrets, designs, technical information, drawings, sketches, engineering drawings, work of authorship, software, prototypes, samples, models, business information, marketing information, current products and services, future products and services, proposed products and services, inventions, discoveries, devices, apparatus, equipment, algorithms, business methods, plans, assays, methods, procedures, processes, formulae, protocols, techniques, data, research and development data, experimental work, clinical data, engineering data, manufacturing data, technical or non-technical information, ideas, media, and unpublished patent applications; (ii) personnel and financial information, product cost information, contractual relationships, operational and procedural manuals; (iii) information or data regarding product research and development, including technical, engineering, or production data, test data, or results, information concerning a disclosing party's efforts to acquire, protect, and license proprietary rights, (iv) a disclosing party's price, cost and fee data, pricing and billing policies, forecasts, plans, procurement requirements, and strategies for all aspects of the disclosing party's operations, marketing, and sales, whether or not in effect; and (v) data relating to the type, quality, specifications, and price of the disclosing party's products and/or services received or provided by any customer or vendor.
+
+1.6. "Derive" and cognates thereof means to develop, make, invent, discover, create, synthesize, conceive, reduce to practice, design or result from, to be based upon or to otherwise generate (whether directly or indirectly, or in whole or in part).
+
+1.7. "FDA" means the United States Food and Drug Administration, or any successor thereto, having the administrative authority to regulate the marketing of pharmaceutical products, biological therapeutic product, delivery systems, and medical devices in the United States.
+
+1.8. "Field" means spinal interbody and/or intervertebral surgical methods and procedures, including without limitation, interbody and/or intervertebral fusion and/or spacer procedures and interbody and/or intervertebral spinal arthroplasty procedures.
+
+1.9. "First Product Order" means the first purchase order issued by Integra to PcoMed for the production of salable Treated Integra Product or Partially Treated Integra Product.
+
+1.10. "Integra Customers" means Third Parties who purchase Treated Integra Products and Partially Treated Integra Products from Integra or its Affiliates and does not include any Integra Affiliates."Integra Products" means any implantable spinal surgery interbody and/or intervertebral medical device designed and/or manufactured by or for Integra. 2
+
+
+
+
+
+1.11. "Integra Regulatory Data" means Integra information associated with regulatory procedures relating to Treated Integra Product and/or Partially Treated Integra Product, including bench and animal data, submission data and methodologies, responses of Regulatory Authorities to submissions, information pertaining to such submissions, and additional data generated as required for US Marketing Clearance, EU Marketing Clearance or commercial launch of any Treated Integra Product or Partially Treated Integra Product.
+
+1.12. "Integra Technology" means any technology owned, licensed or controlled by Integra and/or any Integra Affiliates including but not limited to SeaSpine and Theken Spine as of the Effective Date and all technology Derived solely by Integra and/or Integra Affiliates during or after the Term, including but not limited to the devices described in U. S. Patent Numbers 7,799,083 and 8,097,036 together with any improvements, enhancements, or extensions of or to any of the foregoing, and Intellectual Property Rights therein, but excluding any technology or information relating to or derived from PcoMed Technology. The Integra Technology shall include all proprietary ideas in any form and embodied in any media, technical information, ideas, discoveries, knowledge, know-how, skill, experience, concepts, data, processes, procedures, methods, techniques, protocols, formulae, trade secrets, Inventions (whether or not patentable), media, research tools, compositions, software, hardware, instruments, documents, works of authorship, formulations, and other physical, chemical or biological materials and information, including, without limitation, clinical and regulatory strategies, test data (including pharmacological, toxicological and clinical test data), analytical and quality control data, manufacturing, patent, marketing and legal data or descriptions, apparatus, prototypes, devices, chemical formulations, compound compositions of matter, product samples, assays and similar information and Inventions.
+
+1.13. "Intellectual Property Rights" means any and all intellectual property and industrial design rights, whether protected, created or arising under the laws of the United States or any other foreign jurisdiction, including the following: (i) patent rights; (ii) copyrights, mask work rights, database rights and design rights, whether or not registered, published or unpublished, and registrations and applications for registration thereof, and all rights therein whether provided by international treaties or conventions or otherwise; (iii) trade secrets and Inventions; (iv) moral rights; and (v) other applications and registrations related to any of the rights set forth in the foregoing clauses (i) through (iv); provided, however, that as used in this Agreement, the term "Intellectual Property" expressly excludes rights in trademarks, trade names, service marks, service names, design marks, logos, slogans, trade dress, or similar rights with respect to indicators of origin, whether registered or unregistered, as well as rights in internet domain names, uniform resource locators and e-mail addresses.
+
+1.14. "Inventions" means conceptions, ideas, innovations, discoveries, inventions, processes, machines, formulae, formulations, biological materials, molecules, compounds, compositions, improvements, enhancements, modifications, technological developments, know-how, show-how, methods, techniques, systems, designs, production system, plans, source code, object code and documentation pertaining thereto, including, without limitation, functional specifications, object libraries, design documentation, technical documentation, statements of principles of operations, schematics, programmers' guides, and other documentation, data, programs and information and works of authorship, whether or not patentable, copyrightable or susceptible to any other form of legal protection.
+
+1.15. "Minimum Payment" means the amounts set forth on Attachment B as payable by Integra to PcoMed in each Minimum Payment Period.
+
+1.16. "Minimum Payment Period" has the meaning set forth on attached Attachment B. 3 *** Portions of this page have been omitted pursuant to a request for Confidential Treatment filed separately with the Commission.
+
+
+
+
+
+1.17. "Net Sales" means the gross amount of all revenues invoiced and received by Integra and its Affiliates from Integra Customers from the Sale of Treated Integra Products and Partially Treated Integra Products, less the following deductions (to the extent otherwise then or previously included in the gross amounts invoiced and in respect of which no previous deduction was taken): (i) amounts taken or accrued for sales, distributor or other commissions allowed, discounts allowed dealers, trade and/or quantity and cash discounts; (ii) refunds, rebates, chargebacks, replacements or credits and allowances actually allowed or granted to purchasers on account of contractual obligations, rejections, returns, or billing errors and for uncollectible amounts (except to the extent later collected) on Sales; (iii) sales, use and/or other excise taxes, import and/or export duties paid, tariffs, and any other governmental tax or charge (except income taxes) imposed on or at the time of production, importation, use, or sale of the Treated Integra Product or Partially Treated Integra Product, including any value added taxes, and taxes on medical devices; (iv) shipping insurance costs and prepaid transportation and/or freight charges. Net Sales shall exclude any amounts Integra or its Affiliates receive for Treated Integra Product or Partially Treated Integra Product that are used for clinical trials required or reasonably deemed to be desirable for Regulatory Approval or additional product indications in any country.
+
+1.18. "Non-Treated Integra Product" means an Integra Product that does not utilize or embody, in whole or in part, the PcoMed Surface Modification Technology.
+
+1.19. "Notice of Initial Acceptance of First Product Order" means Integra's acceptance of the Treated Integra Product or Partially Treated Integra Product pursuant to the First Product Order. Such acceptance shall be issued in the form of Attachment C by Integra within ten (10) business days of receipt by Integra or its Affiliates of product (and related quality and testing documentation) meeting specifications mutually agreed upon by Integra and PcoMed.
+
+1.20. "Partially Treated Integra Product" means an Integra Product that (i) utilizes or embodies, in whole or in part, the PcoMed Surface Modification Technology and (ii) a portion of which (not including radiographic or radiopaque markers) is formed from a material other than PEEK or PAEK and does not utilize or embody the PcoMed Surface Modification Technology.
+
+1.21. "PcoMed Regulatory Data" means PcoMed information associated with regulatory procedures relating to the PcoMed Surface Modification Technology, including bench and animal data, submission data and methodologies, responses of Regulatory Authorities to submissions, information pertaining to such submissions, and additional data generated as required for US Marketing Clearance, EU Marketing Clearance or commercial launch of a product using or embodying the Surface Modification Technology.
+
+1.22. "PcoMed Surface Modification Technology" means a proprietary PcoMed osteoconductive commercially pure titanium *** molecular surface modification of PEEK (polyetheretherkeytone), PEKK (polyetherkeytonekeytone), and/or PAEK (polyaryletherkeytone) materials as illustrated in Attachment A.
+
+1.23. "PcoMed Technology" means any technology owned, licensed or controlled by PcoMed as of the Effective Date, including the (i) PcoMed Surface Modification Technology and (ii) coating, surface, application, surface modification and pretreatment technology and knowhow, and all technology Derived by PcoMed during or after the Term, together with any improvements, enhancements, or extensions of or to any of the foregoing, and Intellectual Property Rights therein, but excluding any technology or information relating solely to or Derived solely from Integra Technology. The PcoMed Technology includes all proprietary ideas in any form and embodied in any media, technical information, ideas, discoveries, knowledge, know-how, skill, experience, 4 *** Portions of this page have been omitted pursuant to a request for Confidential Treatment filed separately with the Commission.
+
+
+
+
+
+concepts, data, processes, procedures, methods, techniques, protocols, formulae, trade secrets, Inventions (whether or not patentable), media, research tools, compositions, software, hardware, instruments, documents, works of authorship, formulations, and other physical, chemical or biological materials and information, including, without limitation, clinical and regulatory strategies, test data (including pharmacological, toxicological and clinical test data), analytical and quality control data, manufacturing, patent, marketing and legal data or descriptions, apparatus, prototypes, devices, chemical formulations, compound compositions of matter, product samples, assays and similar information and Inventions.
+
+1.24. "Regulatory Approval" means, with respect to a country in the Territory, all approvals, licenses, registrations, or authorizations by an applicable Regulatory Authority necessary to import, commercialize, transport, store, market and sell Treated Integra Product and/or Partially Treated Integra Product in such country, including labeling, pricing, or reimbursement approvals.
+
+1.25. "Regulatory Authority" means the FDA in the United States, and the equivalent regulatory authority or governmental entity having the responsibility, jurisdiction, and authority to approve the to importation, commercialization, transport, storage, marketing and sale of the Treated Integra Product or Partially Treated Integra Product in any country or jurisdiction outside of the United States.
+
+1.26. "Sale" or "Sales" or "Sell" or "Sold" means the transfer or disposition by Integra or its Affiliates of a Treated Integra Product or a Partially Treated Integra Product for value to Integra Customers in the Territory
+
+1.27. "Territory" means worldwide, during the thirty six (36) month period following Notice of Initial Acceptance of First Product Order. Thereafter, "Territory" may exclude the People's Republic of China ("PRC"), to the extent that Integra has had no sales of Treated Integra Products in that country. In the event that Integra has had no such sales, PcoMed shall give sixty (60) days advance written notice of PcoMed's intent to utilize a third party to market the PcoMed Surface Modification Technology in the PRC .
+
+1.28. "Third Party" means any entity or person other than (i) Integra and its Affiliates, or (ii) PcoMed and its Affiliates.
+
+1.29. "Treated Integra Product" means an Integra Product that utilizes or embodies, in whole or part, the PcoMed Surface Modification Technology, excluding Partially Treated Integra Product.
+
+1.30. "US Marketing Clearance" means Regulatory Approval of a Treated Integra Product or Partially Treated Integra Product for use in the Field in the United States. 2. CONSIDERATION.
+
+2.1. Milestone Payments.
+
+(a) First Payment. Integra shall pay PcoMed $*** ( *** US dollars) upon full execution of this Agreement.
+
+(b) Second Payment. Integra shall pay PcoMed $*** ( *** US dollars) within 30 days after Notice of Initial Acceptance of First Product Order. Integra shall place the First Product Order within sixty (60) days of the Effective Date of this Agreement. 5 *** Portions of this page have been omitted pursuant to a request for Confidential Treatment filed separately with the Commission.
+
+
+
+
+
+2.2. Fees.
+
+(a) Treated Integra Products. Subject to Section 2.2(c), for so long as the Agreement has not been converted to a non-exclusive arrangement under the provisions of Section 3.2, Integra shall pay PcoMed a Fee of ***% of Net Sales of all Treated Integra Product Sold by Integra or its Affiliates. Subject to Section 2.2(c), for so long as Integra's Rights under the Agreement have been converted to a non-exclusive arrangement under the provisions of Section 3.2, Integra shall pay PcoMed a Fee of ***% of Net Sales of all Treated Integra Product Sold by Integra or its Affiliates. The Fee rate payable shall be determined based on whether this Agreement is exclusive or non-exclusive at the time of Integra's Sale of the Treated Integra Product, not at the time of PcoMed's production of the Treated Integra Product.
+
+(b) Partially Treated Integra Products. Subject to Section 2.2(c), for so long as Agreement has not been converted to a non-exclusive arrangement pursuant to Section 3.2, Integra shall pay PcoMed a Fee of ***% of Net Sales of all Partially Treated Integra Product Sold by Integra or its Affiliates. Subject to Section 2.2(c), for so long as Integra's rights under the Agreement have been converted to a non-exclusive arrangement under the provisions of Section 3.2, Integra shall pay PcoMed a Fee of ***% of Net Sales of all Partially Treated Integra Product Sold by Integra or its Affiliates. The Fee rate payable shall be determined based on whether this Agreement is exclusive or non-exclusive at the time of Integra's Sale of Partially Treated Integra Product, not at the time of PcoMed's production of the Partially Treated Integra Product.
+
+(c) Fee Adjustment. The Fees may be subject to reduction according to the provisions of Sections 8.5 and 10.1. If it becomes necessary for Integra to settle a Third Party patent infringement suit covered by Section 10.1 (i), solely because of any action or omission of PcoMed or because of Third Party claims against PcoMed Surface Modification Technology and/or such settlement involves obtaining a license from a Third Party, in order to make, have made, import, export, use, offer for Sale, or Sell a Treated Integra Product or a Partially Treated Integra Product in the Field, then Integra may offset, dollar for dollar, against Fees up to *** percent (***%) of Integra's reasonable, out-of-pocket expenses, costs, fees (including reasonable attorneys' fees), and other consideration related to the investigation, negotiation and settlement paid by Integra to such Third Party to obtain such settlement or license with respect to the PcoMed Surface Modification Technology.
+
+The parties agree that, to the extent Fees are reduced pursuant to this Agreement, for purposes of determining the contribution toward the Minimum Payments, the Fee shall be counted as if it had not been reduced.
+
+(d) Payment. All Fees shall be due and payable quarterly as provided in Section 6.1.
+
+2.3. *** Run Fees.
+
+(a) For Distribution. Integra shall pay PcoMed a flat *** Run Fee of $*** (*** US dollars) for each *** Run in which a maximum of one hundred (100) Non-Treated Integra Product are converted by PcoMed to Treated Integra Product or Partially Treated Integra Product. PcoMed and Integra will make commercially reasonable efforts to increase the *** Run capacity. Changes to the *** Run Fee based on increased capacity will be determined upon completion of the appropriate process validations.
+
+(b) For Regulatory Purposes. PcoMed will not charge *** Run Fees for reasonable quantities, not to exceed *** units or four *** Runs, of Treated Integra Products or Partially Treated Integra Product and test samples required to complete US Marketing Clearance and/or EU Marketing Clearance testing and validations. 6 *** Portions of this page have been omitted pursuant to a request for Confidential Treatment filed separately with the Commission.
+
+
+
+
+
+(c) Payment. *** Run Fees shall be due and payable within thirty (30) days of each *** Run.
+
+2.4. Minimum Payments. Integra shall use commercially reasonable efforts to Sell Treated Integra Products and Partially Treated Integra Products that generate payments to PcoMed of no less than the Minimum Payments applicable to each Minimum Payment Period. The Minimum Payment applicable to each Minimum Payment Period shall be due annually on or before 45 days after the last day of each Minimum Payment Period. The Minimum Payment may be satisfied either by payments of the Fees paid pursuant to Sections 2.2 and 2.3, or by the sum of Fees paid and an additional elective cash payment from Integra to PcoMed. It shall remain in Integra's sole discretion whether or not to satisfy the Minimum Payment for any Minimum Payment Period by making an additional elective cash payment.
+
+In the event that Integra fails to satisfy the Minimum Payment for any Minimum Payment Period, PcoMed may, at its sole election, give notice, as set forth in Section 3.2, for conversion of Integra's exclusive arrangement under Section 3.1 to a non-exclusive arrangement. PcoMed's conversion right is PcoMed's sole and exclusive remedy for Integra's failure to satisfy the Minimum Payment for any Minimum Payment Period. Integra shall have no liability at any time to PcoMed for Integra's failure to pay the Minimum Payment. 3. GRANT OF EXCLUSIVITY COMMERCIALIZATION
+
+3.1. Grant of Exclusive Rights. Subject to the terms and conditions of this Agreement, PcoMed hereby grants to Integra and its Affiliates a sole and exclusive worldwide right to sell and commercialize Integra Products treated by PcoMed, with the PcoMed Surface Modification Technology (the "Right") for use in the Field in the Territory, including the right to conduct research and development in support of any of the foregoing. Nothing herein grants any rights to Integra (i) to manufacture any products using the PcoMed Surface Modification Technology or (ii) to sell or commercialize any products utilizing the PcoMed Surface Modification Technology other than the Integra Products for use in the Field in the Territory. Neither PcoMed nor its Affiliates shall sell or offer for sale, or grant rights under the PcoMed Surface Modification Technology to any Third Party in the Field in the Territory for products that utilize or embody the PcoMed Surface Modification Technology. Except as expressly stated in the preceding sentence, PcoMed shall not be subject to any restriction under this Agreement with regard to the PcoMed Surface Modification Technology. Without limiting the foregoing or Section 8.3 below, the exclusive nature of the Rights shall not in any way limit PcoMed from making, having made, using, selling or offering for sale products and/or services that do not utilize or embody the PcoMed Surface Modification Technology.
+
+3.2. Conversion of Rights to Non-Exclusive. Notwithstanding the provisions of Section 3.1, if Integra (i) fails to timely pay any Minimum Payments due under Section 2.4 for any Minimum Payment Period or (ii) fails to make the payments described in Sections 2.1, 2.2, or 2.3 when due, or otherwise defaults under any provision of this Agreement, the exclusive Rights granted to Integra under Section 3.1 shall, at the option of PcoMed, to be exercised in PcoMed's sole and absolute discretion at any time, convert to a non-exclusive arrangement provided that PcoMed gives Integra written notice of its breach and Integra does not cure such breach within forty-five (45) days following Integra's receipt of such notice. If PcoMed makes such election, the Right shall be a nonexclusive right at the end of such 45-day cure period, and PcoMed may thereafter allow other Third Parties to use the PcoMed Surface Modification Technology in products that are in competition with the Integra Products.
+
+3.3. Exclusive Coating. Integra (i) shall not apply or have applied any other coating to any Integra Products treated with the PcoMed Surface Modification Technology, unless that coating is for the sole purpose of identification or sterilization and (ii) shall not process the PcoMed Surface Modification Technology in any way that will adversely affect its integrity or performance. 7 *** Portions of this page have been omitted pursuant to a request for Confidential Treatment filed separately with the Commission.
+
+
+
+
+
+4. TERM AND TERMINATION.
+
+4.1. Initial Term. The initial term of this Agreement (the "Initial Term") shall commence on the Effective Date and shall end on the date that payment is due for Minimum Payment Period 7, pursuant to Section 2.4 hereof and as set forth in Attachment B hereof, unless earlier terminated as provided herein.
+
+4.2. Right to Renew. Thereafter, this Agreement may be renewed for such periods of time and under such terms and conditions as are mutually agreed to in writing and pursuant to Section 12.7.
+
+4.3. Termination for Cause. Without limiting the other rights to terminate set forth in this Agreement, this Agreement may be terminated by either party as follows:
+
+(a) Material Breach. In the event that a party materially defaults under or materially breaches any of the provisions of this Agreement, the other party shall have the right to terminate this Agreement upon 60 days' prior written notice, unless such material default or breach is cured during such 60-day period (or in the event any breach is incapable of being cured in such time period, the other party presents a plan to attempt cure of such breach and prevent similar breaches, which plan is reasonably acceptable to the terminating party), in which event this Agreement shall continue in full force and effect.
+
+(b) Bankruptcy. If a party institutes for its protection or is made a defendant in any proceeding under bankruptcy, insolvency, reorganization or receivership law, or such party is placed in receivership, makes an assignment for benefit of creditors or is unable to meet its debts in the regular course of business, the other party may elect to terminate this Agreement immediately by written notice to the first party without prejudice to any right or remedy the other party may have, including damages for breach.
+
+4.4. Effects of Termination.
+
+(a) Obligations Accruing Prior to Termination. Expiration or termination of this Agreement shall not relieve the Parties of any obligation accruing prior to such expiration or termination.
+
+(b) Termination of Rights. Subject to Section 4.-4(c), upon expiration or termination of this Agreement, the Rights and all rights of either party hereunder shall immediately cease and terminate.
+
+(c) Transition. After early termination of this Agreement (other than a termination based on a breach of Sections 5 or 8 by Integra) and continuing for a period of eighteen (18) months thereafter, Integra and its Affiliates may Sell any Treated Integra Product and Partially Treated Integra Product in its inventory in the Field, and may, with respect to all components which, prior to the effective date of termination, were ordered or manufactured with the anticipation of being included as Treated Integra Product or Partially Treated Integra Product, complete their manufacture and sell them as though they had been inventory on the effective date of termination, subject to payment of all amounts payable to PcoMed for such Sales under this Agreement.
+
+(d) Survival. The following provisions of this Agreement and all defined terms shall survive termination of this Agreement for any reason: Sections 2.1, 2.2, 2.3, 4.4(c), 5, 6, 7, 8, 9, 10 and 12. 8
+
+
+
+
+
+5. CONFIDENTIALITY.
+
+5.1. Confidential Information. Except to the extent expressly authorized by this Agreement or otherwise agreed to in writing by the parties, each party agrees that, for the term of this Agreement and for 20 years thereafter, it shall keep confidential and shall not publish or otherwise disclose and shall not use for any purpose other than as provided for in this Agreement any Confidential Information furnished to it by the other party pursuant to this Agreement, except that the foregoing shall not apply to any information for which the receiving party can demonstrate that such information: (i) was already known to the receiving party, other than under an obligation of confidentiality, at the time of disclosure by the other party; (ii) was generally available to the public or otherwise part of the public domain at the time of its disclosure to the receiving party; (iii) later became part of the public domain through no act or omission of the receiving party; (iv) was disclosed to the receiving party by a Third Party who had no obligation to the disclosing party not to disclose such information to others; (iv) was independently developed by a person having no knowledge of or access to the disclosing party's Confidential Information; or (v) is an Authorized Disclosure under Section 5.3 below.
+
+5.2. Ownership of Confidential Information. Confidential Information relating to the PcoMed Technology is PcoMed's Confidential Information. Confidential Information relating to the Integra Technology is Integra's Confidential Information. PcoMed's Confidential Information and Integra's Confidential Information will include all Confidential Information as such term is defined in Section 1.6.
+
+5.3. Authorized Disclosure.
+
+(a) Authorized Disclosure. Except as expressly agreed to in writing by Integra or as permitted by this Agreement, PcoMed shall keep Integra Technology and all Integra Confidential Information confidential. Except as expressly agreed to in writing by PcoMed or as permitted by this Agreement, Integra shall keep PcoMed Technology and all PcoMed Confidential Information confidential. Each party may disclose the other party's Confidential Information to the extent such disclosure is reasonably necessary for the following reasons: (i) regulatory filings, including filings with the U.S. Securities Exchange Commission and Regulatory Authorities; (ii) prosecuting or defending litigation provided the Confidential Information is under seal or protective order; and (iii) complying with applicable governmental regulations and legal requirements.
+
+(b) Notice of Disclosure. Notwithstanding the foregoing, in the event a party is required to make a disclosure of the other party's Confidential Information pursuant to this Section it will, except where impracticable, give reasonable advance notice to the other party of such disclosure and use best efforts to secure confidential treatment of such information. In any event, the parties agree to take all reasonable actions to avoid any unauthorized use or disclosure of Confidential Information hereunder.
+
+5.4. Employees; Agents. Each party shall ensure that each of its Affiliates and each employee, director, officer, consultant, or other agent of it or of its Affiliates (collectively "Agents"), who has access to Confidential Information of the other party is bound to obligations of confidentiality and non-use substantially similar in scope to those set forth herein Each party agrees that any disclosure or distribution of the other party's Confidential Information within its own organization shall be made only as is reasonably necessary to carry out the intent of this Agreement.
+
+5.5. Regulatory Submissions of Integra Regulatory Data. During the Term, Integra shall provide all Integra Regulatory Data directly to the relevant Regulatory Authority within the required timeframes. PcoMed is expressly not authorized to disclose Integra Confidential Information directly to 9
+
+
+
+
+
+any Regulatory Authority unless such disclosure is authorized in writing by Integra, except in the following circumstances:
+
+(a) where PcoMed is required by regulation or other legal requirement to disclose such information;
+
+(b) as part of a complaint filing concerning a Treated Integra Product or a Partially Treated Integra Product;
+
+(c) as part of an FDA audit response; or
+
+(d) as otherwise required or permitted by this Agreement.
+
+5.6. Regulatory Submissions of PcoMed Regulatory Data. PcoMed shall provide all PcoMed Regulatory Data directly to the relevant Regulatory Authority within the required timeframes. Integra is expressly not authorized to disclose PcoMed Confidential Information directly to any Regulatory Authority unless such disclosure is authorized in writing by PcoMed, except in the following circumstances:
+
+(a) where Integra is required by regulation or other legal requirement to disclose such information,
+
+(b) as part of a complaint filing concerning a Treated Integra Product or a Partially Treated Integra Product;
+
+(c) as part of an FDA audit response; or
+
+(d) as otherwise required or permitted by this Agreement
+
+5.7. Injunctive Relief. The parties expressly acknowledge and agree that any breach or threatened breach of this Section 5 may cause immediate and irreparable harm to the owner of the Confidential Information which may not be adequately compensated by damages. Each party therefore agrees that in the event of such breach or threatened breach and in addition to any remedies available at law, the party that owns the Confidential Information shall have the right to seek equitable and injunctive relief, in connection with such a breach or threatened breach, without posting bond.
+
+5.8. Terms of Agreement Confidential. The parties agree that the terms of this Agreement are confidential and shall not be disclosed by either party to any Third Party (except to a party's professional advisors) without advance written permission of the other party, subject to the following: (i) either party may make any filings of this Agreement required by law or regulation in any country so long as such party uses its reasonable efforts to obtain confidential treatment for portions of this Agreement as available, consults with the other party, and permits the other party to participate, to the extent practicable, in seeking a protective order or other confidential treatment; (ii) either party may disclose the terms of this Agreement to a Third Party (and its professional advisors) when such disclosure is reasonably necessary in connection with (A) the grant of a license or sublicense to such Third Party, (B) prosecuting or defending litigation, (C) an actual or potential merger, 10
+
+
+
+
+
+acquisition, placement, investment, or other such transaction with such Third Party, or (D) the sale of securities to or other financing from such Third Party or a financing underwritten by such Third Party, in which case disclosure may be made to any person or entity to whom such Third Party sells such securities (and its professional advisers); (iii) advance written permission for disclosure will not be required when a party is ordered to disclose information concerning the Agreement by a competent tribunal or such disclosures are required by law, regulation, or stock exchange rules, except that such party shall make all reasonable efforts to limit any disclosure as may be required in the course of legal proceedings by entry of an appropriate protective and confidentiality order, and shall provide the other party with as much advance notice of such circumstances as is reasonably practical.
+
+5.9. Return of Materials. Any materials or documents which have been furnished by a disclosing party to a receiving party will be promptly returned, accompanied by all copies thereof, or certified as destroyed upon request by the disclosing party following termination of this Agreement, except that a party may retain one copy solely for reference to comply with regulatory or other legal requirements, subject to the obligations of confidentiality herein. 6. PAYMENT AND ACCOUNTING.
+
+6.1. Payment Terms and Reports. Payments due under Section 2.2 shall be payable to PcoMed by Integra on a quarterly basis within 45 days following the end of each calendar quarter. Each such payment shall be accompanied by a statement setting forth in reasonable detail (i) the number and type of Treated Integra Product and Partially Treated Integra Product sold and the Net Sales applicable thereto, (ii) a breakdown of all the components of Net Sales for the determination of payments due under Sections 2.2 (the numbers may be and type of products may be stated in the aggregate and not by customer and are not required to be detailed by geographic area unless Fee rates are different in different geographic areas). Treated Integra Product and/or Partially Treated Integra Product shall be considered as being sold for the purpose of the calculation of payments due under Sections 2.2 when the payments for the Treated Integra Product and/or Partially Treated Integra Product are received by Integra or its Affiliates from a Third Party. All payments to be made under this Agreement shall be paid in United States dollars. Net Sales of Treated Integra Product and/or Partially Treated Integra Product and fees in currencies other than United States dollars shall be first determined in the currency of the country in which they are earned and shall be converted (for the purpose of calculation only) in accordance with generally accepted accounting principles for financial reporting in the United States.
+
+6.2. Records and Audits. Integra shall keep and maintain accurate records and documentation pertaining to Net Sales of Treated Integra Product in sufficient detail to permit PcoMed to calculate payments due hereunder. Integra shall retain such records and documentation for a period that is consistent with its Records Retention Policy. Such records and documentation will be available for inspection during such period by an independent certified public accountant selected by PcoMed and reasonably acceptable to Integra, solely for the purpose of verifying the payments made by Integra under this Agreement. Said accountant shall enter into a confidentiality agreement with Integra and shall not disclose to PcoMed any information except that which is necessary to determine whether PcoMed has received all amounts due to it from Integra. Such inspections shall be made no more than once each calendar year during ordinary business hours and on reasonable prior notice and shall be at PcoMed's sole cost and expense. PcoMed shall report the results of any such audit to Integra within 60 days of completion and provide a copy of such audit 11
+
+
+
+
+
+to Integra. The results of any such audit shall be the Confidential Information of Integra. To the extent that such audit reveals any underpayments by Integra, Integra shall pay to PcoMed the amount of shortfall within 60 days from the date on which the parties actually agreed on the amount of the shortfall, or, in the event the parties do not reach agreement on the shortfall, the date a court issues a judgment finally resolving the matter.
+
+6.3. Taxes. PcoMed shall pay any and all taxes levied on account of payments it receives under this Agreement. Integra shall pay, or cause to be paid, any and all taxes required to be paid or withheld on any Sales, supply or other transfers for value of Treated Integra Product and/or Partially Treated Integra Product (other than taxes imposed on the income or revenues of PcoMed). All amounts due hereunder shall be without deduction of exchange, collection or other charges, provided that if Integra is required to withhold and pay on behalf of PcoMed any income or other similar tax with respect to the amounts payable under this Agreement, Integra shall deduct such tax payments from and offset against any said payments prior to remittance to PcoMed; and further provided that in regard to any tax so deducted, Integra shall give to PcoMed such assistance as may reasonably be necessary to enable PcoMed to claim exemption therefrom and credit therefor, and in each case shall furnish PcoMed proper evidence of the taxes paid on PcoMed's behalf, provided that Integra shall not be required to incur any out-of-pocket expenses or costs. 7. REPRESENTATIONS AND WARRANTIES
+
+7.1. Mutual Representations and Warranties. Each party represents and warrants as to itself the following:
+
+(a) Corporate Power. Such party is duly organized and validly existing under the laws of the state of its organization and has full corporate power and authority to enter into this Agreement and to carry out the provisions hereof.
+
+(b) Due Authorization. Such party is duly authorized to execute and deliver this Agreement and to perform its obligations hereunder. The person executing this Agreement on such party's behalf has been duly authorized to do so by all requisite corporate action.
+
+(c) Binding Agreement. The execution, delivery and performance of this Agreement by such party does not conflict with any agreement, instrument or understanding, oral or written, to which it is a party or by which it may be bound, nor, to the party's knowledge, does it violate any material law or regulation of any court, governmental body or administrative or other agency having jurisdiction over it.
+
+7.2. PcoMed's Representations and Warranties. PcoMed hereby represents and warrants to Integra as follows:
+
+(a) Sole Owner; No Prior Grant. Except as disclosed to Integra, PcoMed is the sole holder of all legal and equitable right, title and interest in and to the PcoMed Technology. PcoMed has not assigned any of its right, title or interest in or to the Inventions disclosed in the PcoMed Surface Modification Technology. PcoMed has not granted to a Third Party any license under the PcoMed Surface Modification Technology that is inconsistent with, or otherwise restricts, the rights granted to Integra hereunder. PcoMed currently holds valid and effective assignments of all inventors' rights to all the inventions covered by the PcoMed Surface Modification Technology. No Third Party has any right, title or interest in or to the PcoMed Surface Modification Technology. No unnamed inventor has any valid claim to any rights to the inventions contained in the PcoMed Surface Modification Technology and all named inventors are properly named as such.
+
+(b) No Asserted Infringement. To PcoMed's knowledge after diligent investigation, (i) the PcoMed Surface Modification Technology does not include any trade secret, confidential information, or know-how of such Third Party that has been misappropriated or improperly used or disclosed, or (ii) the application of the PcoMed Surface Modification Technology to Integra Products or the offer, Sale and use of Treated Integra Products or Partially Treated Integra Products will not infringe a Third Party's patent rights because of the PcoMed Surface Modification Technology being applied thereto or practiced thereby. 12
+
+
+
+
+
+(c) No Litigation. There is no suit, arbitration or legal, administrative or other proceeding or governmental investigation pending or, to PcoMed's knowledge, threatened against (i) PcoMed's consummation of the transactions described herein, or (ii) PcoMed respecting the PcoMed Surface Modification Technology. To PcoMed's knowledge, there are no claims, judgments or settlements involving PcoMed and relating to the PcoMed Surface Modification Technology or the manufacture, use or Sale of any products using the PcoMed Surface Modification Technology, and no pending claims, litigation or proceedings against PcoMed relating to the PcoMed Surface Modification Technology, PcoMed Technology or the manufacture, use or Sale of products using the PcoMed Surface Modification Technology.
+
+(d) No Approvals. No approval or consent of any person, court or governmental agency is required in connection with PcoMed's execution and delivery of this Agreement and the performance of its obligations hereunder. There are no outstanding liens, encumbrances, Third Party rights, agreements or understandings of any kind, either written or oral, express of implied, regarding the the PcoMed Technology that are inconsistent or conflict with any provision of this Agreement.
+
+(e) Non-Compete. The Settlement Agreement and Mutual Release between *** and *** does not contain a covenant-non-compete applicable to *** and, to the best of PcoMed's current knowledge, *** is not subject to any covenant-non-compete that would prevent is employment with PcoMed.
+
+7.3. Integra's Representations and Warranties. Integra hereby represents and warrants to PcoMed as follows:
+
+(a) Sole Owner; No Prior Grant. Integra is the sole holder of all legal and equitable right, title and interest in and to the Integra Technology. Integra has not assigned any of its right, title or interest in or to the Inventions disclosed in the Integra Technology. Integra has not granted to a Third Party any license under the Integra Technology that is inconsistent with, or otherwise restricts, this Agreement. Integra currently holds valid and effective assignments of all inventors' rights to all the inventions covered by the Integra Technology. No Third Party has any right, title or interest in or to the Integra Technology. No unnamed inventor has any valid claim to any rights to the inventions contained in the Integra Technology and all named inventors are properly named as such.
+
+(b) No Asserted Infringement. To Integra's knowledge after diligent investigation, (i) the Integra Technology does not include any trade secret, confidential information, or know-how of such Third Party that has been misappropriated or improperly used or disclosed and, (ii) to the best of Integra's knowledge, the Sale of Treated Integra Products or Partially Treated Integra Products will not infringe any currently known Third Party patent rights.
+
+(c) No Litigation. There is no suit, arbitration or legal, administrative or other proceeding or governmental investigation pending or, to Integra's knowledge, threatened against (i) Integra's consummation of the transactions described herein, or (ii) Integra respecting the Integra Technology. To Integra's knowledge, there are no claims, judgments or settlements involving Integra and relating to the Integra Technology or the manufacture, use or Sale of any products using the Integra Technology, and no pending claims, litigation or proceedings against Integra relating to the Integra Technology or the manufacture, use or Sale of products using the Integra Technology.
+
+(d) No Approvals. No approval or consent of any person, court or governmental agency is required in connection with Integra's execution and delivery of this Agreement and the performance of its obligations hereunder. There are no outstanding liens, encumbrances, Third Party rights, agreements or understandings of any kind, either written or oral, express of implied, regarding the the Integra Technology that are inconsistent or conflict with any provision of this Agreement. 13 *** Portions of this page have been omitted pursuant to a request for Confidential Treatment filed separately with the Commission.
+
+
+
+
+
+8. INTELLECTUAL PROPERTY OWNERSHIP; PROSECUTION, ENFORCEMENT.
+
+8.1. Ownership. All PcoMed Technology shall remain the property of PcoMed, and all Integra Technology shall remain the property of Integra. Any Invention that is neither PcoMed Technology nor Integra Technology but that is Derived during the Term jointly by the parties relating to this Agreement shall be the property of (i) PcoMed if it relates primarily to the PcoMed Technology and (ii) Integra if it relates primarily to the Integra Products; provided that the parties may agree that an Invention that is Derived during the Term jointly may become the property of both parties, including Inventions or methods related to the surface preparation of Integra Products. Except with regard to the foregoing joint Inventions or methods, each party hereby assigns to the other, by way of present and future assignment, all of the right, title and interest (including all Intellectual Property Rights therein) that it has or may have in any such Invention that is jointly Derived and that is subject to ownership by the other party.
+
+8.2. Inventions. All Inventions and Intellectual Property Rights that relate primarily to the PcoMed Technology Derived during the Term of this Agreement shall remain as the sole and exclusive property of PcoMed.
+
+8.3. Reservation of Rights. Nothing in this Agreement shall be construed as granting to any party any right, title or interest in or to or under any Intellectual Property Rights or Inventions of the other party, other than as expressly agreed by the parties in writing in this Agreement. All rights not specifically granted herein are reserved to the applicable party, which may at all times fully and freely exercise the same except as otherwise restricted herein.
+
+8.4. Filing, Prosecution, and Maintenance of PcoMed Surface Modification Technology. PcoMed shall at all times, at its sole election and expense, have the exclusive and sole right to file patent applications covering the PcoMed Surface Modification Technology in its own name. If PcoMed elects to file patent applications covering the PcoMed Surface Modification Technology, PcoMed shall be responsible for diligently prosecuting and maintaining, at its sole expense, such patent applications and patents issuing thereon. PcoMed shall retain patent counsel of its choosing in connection with the performance of its obligations under this Section. PcoMed shall keep Integra reasonably informed of its patent prosecution activities with respect to the PcoMed Surface Modification Technology.
+
+8.5. Enforcement against Third Parties.
+
+(a) Notice. If either party learns of the actual, suspected, threatened or likely infringement or misappropriation of any of the PcoMed Surface Modification Technology, or any of the Integra Technology, then that party shall give written notice thereof to the other party and shall provide the other party with any evidence of such infringement or misappropriation in its possession.
+
+(b) Infringement Not Relating Solely to PcoMed Surface Modification Technology. (i) Integra shall have the sole right, but shall be under no obligation, to take any action to enforce any suspected or actual infringement, misappropriation or other unauthorized use of Intellectual Property Rights relating to Treated Integra Products or Partially Treated Integra Products where such infringement, misappropriation or other unauthorized use does not relate exclusively to the PcoMed Technology. If Integra does not have standing without PcoMed joining the action, PcoMed shall join the action at Integra's expense. 14
+
+
+
+
+
+(c) Infringement Relating Exclusively to PcoMed Surface Modification Technology. (i) PcoMed shall have the first and primary right, but shall be under no obligation, to take any action to enforce any suspected or actual infringement, misappropriation or other unauthorized use of Intellectual Property Rights relating to Treated Integra Products or Partially Treated Integra Products to the extent that such infringement, misappropriation or other unauthorized use relates exclusively to the PcoMed Surface Modification Technology. (ii) PcoMed shall notify Integra of its intent to take any such action. If Integra desires PcoMed to take any such action, Integra shall notify PcoMed of such desire in writing and PcoMed shall have ninety (90) days in which to notify Integra whether it decides to take any action, if it has not already so notified Integra. (iii) Integra may elect to join as a party in PcoMed's action at Integra's expense; provided, however, that if PcoMed does not have standing without Integra joining the action, Integra shall join the action at PcoMed's expense. (iv) If PcoMed does not notify Integra of its desire to take action within ninety (90) days after written request by Integra to do so, or PcoMed agrees to take action and fails to resolve or bring suit to enforce any suspected or actual infringement, misappropriation or other unauthorized use within six months thereafter, then Integra may, but shall be under no obligation to, and at its own cost, require PcoMed to take such enforcement action as Integra deems necessary. If PcoMed takes any such enforcement action, Integra shall reimburse PcoMed for all of its reasonable expenses, costs, and fees, including reasonable attorney fees, incurred in connection therewith, except as provided in Section 8.5(d)(i). Any such reimbursement shall be deducted from the Fees payable by Integra pursuant to Section 2.2 hereof.
+
+(d) Disagreements; Procedures. (i) Whichever party takes or controls an enforcement action under this Section 8.4 shall be entitled to reimburse itself first out of any sums recovered in such suit or in settlement thereof for all costs and expenses, including reasonable attorneys' fees, involved in the prosecution of such action. Any amount remaining after this reimbursement shall be used to reimburse the other party for all costs and expenses, including reasonable attorney's fees, if any, involved in its participation in such action. Any amounts thereafter remaining shall be split in proportion to the damages from the suspected or actual infringement, misappropriation or other unauthorized use reasonably attributable to the PcoMed Surface Modification Technology versus the damages from the suspected or actual infringement, misappropriation or other unauthorized use reasonably not attributable to the PcoMed Surface Modification Technology.
+
+Any and all of Integra's reasonable expenses, costs and fees (including reasonable attorneys' fees) incurred by Integra in the investigation, commencement, pursuit, enforcement, defense and settlement of any infringement related exclusively to the PcoMed Surface Modification Technology that are not reimbursed as provided above, shall be fully creditable, dollar for dollar, against the Minimum Payments or Fees that would otherwise be due and owing hereunder. 15
+
+
+
+
+
+(ii) In the event that a declaratory judgment action alleging invalidity or noninfringement of any of the PcoMed Surface Modification Technology shall be brought against Integra as a result of any enforcement action taken by Integra, Integra shall be responsible for defending such action; provided, however, that within thirty (30) days after commencement of such action, PcoMed shall have the right to intervene and take over the sole defense of the action at its own expense. In the event that a declaratory judgment action alleging invalidity or noninfringement of any of the Integra Technology shall be brought against PcoMed as a result of any enforcement action taken by PcoMed, PcoMed shall be responsible for defending such action; provided, however, that within thirty (30) days after commencement of such action, Integra shall have the right to intervene and take over the sole defense of the action at its own expense. Notwithstanding the foregoing, in the event that a declaratory judgment action is brought against one or both of the parties alleging invalidity or noninfringement of PcoMed Technology and Integra Technology, PcoMed and Integra shall each have the right to participate in the defense of the action at its own expense. 9. LIMITATION OF LIABILITY.
+
+9.1. Limitation of Liability. NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL, OR INDIRECT DAMAGES ARISING FROM OR RELATING TO ANY BREACH OF THIS AGREEMENT, REGARDLESS OF ANY NOTICE OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING THE FOREGOING, NOTHING IN THIS SECTION IS INTENDED TO LIMIT OR RESTRICT THE DAMAGES AVAILABLE FOR BREACHES OF SECTION 3.1 (GRANT OF RIGHTS), SECTION 5 (CONFIDENTIALITY PROVISIONS), OR SECTIONS 8.1 AND 8.2 (OWNERSHIP AND LICENSE). 10. INDEMNIFICATION.
+
+10.1. PcoMed's Indemnification. PcoMed shall indemnify and defend Integra and its Affiliates, and the directors, officers, members, employees, counsel , agents and representatives of Integra and its Affiliates, and the successors and assigns of any of the foregoing (the "Integra Indemnitees"), and hold the Integra Indemnitees harmless from and against any and all claims, demands, actions, liabilities, damages, losses, judgments, costs or expenses (including interest and penalties and reasonable attorneys' fees and professional fees and expenses of litigation) (collectively, "Claims") arising out of, in connection with, or resulting from any and all claims incurred by or asserted against Integra Indemnitees for (i) infringement of any patent or other proprietary rights arising solely from or occurring as a result of the manufacture, sale, offer to sell, importation and/or use of PcoMed Surface Modification Technology; (ii) any and all breaches of the representations and warranties of this Agreement by PcoMed; and (iii) product defects or liability associated with the PcoMed Surface Modification Technology. Integra may offset all costs and expenses covered under (i) above against the Fees as provided in Section 2.2 (c) as its sole and exclusive remedy for the recovery of such costs and expenses.
+
+10.2. Integra's Indemnification. Integra shall indemnify and defend PcoMed and its Affiliates, and the directors, officers, members, employees, counsel , agents and representatives of PcoMed and its Affiliates, and the successors and assigns of any of the foregoing (the "PcoMed 16
+
+
+
+
+
+Indemnitees"), and hold the PcoMed Indemnitees harmless from and against any and all claims, demands, actions, liabilities, damages, losses, judgments, costs or expenses (including interest and penalties and reasonable attorneys' fees and professional fees and expenses of litigation) (collectively, "Claims") asserted by third parties and arising out of, in connection with, or resulting from any and all claims incurred by or asserted against PcoMed for (i) infringement of any patent or other proprietary rights arising from or occurring as a result of the manufacture, sale, offer to sell, importation and/or use of Integra Technology; (ii) any and all breaches of the representations and warranties of this Agreement by Integra; and (iii) any product defects or liability associated with any Integra Products except that arising solely from the PcoMed Surface Modification Technology. 11. USE OF NAMES.
+
+11.1. Names and Trademarks. Each party agrees not to use or reference the name of the other party, or the other party's logos or trademarks in any advertising, sales promotion, press release or other communication relating to this Agreement without obtaining such party's prior written consent. Notwithstanding the foregoing, a party may use or reference such information to the extent reasonably necessary for (i) regulatory filings, including filings with the U.S. Securities Exchange Commission and Regulatory Authorities, (ii) prosecuting or defending litigation, or (iii) complying with applicable governmental regulations and legal requirements. Notwithstanding the foregoing, Integra shall have the right to indicate that the Treated Integra Products and Partially Treated Integra Products were partly manufactured by PcoMed. 12. MISCELLANEOUS.
+
+12.1. Notices. Any notice, request, instruction or other document required or permitted to be given under this Agreement shall be in writing and shall be deemed to have been given (i) if mailed with the United States Postal Service by prepaid, first class, certified mail, return receipt requested, at the time of receipt by the intended recipient, (ii) if sent by Federal Express, Airborne, or other overnight carrier, signature of delivery required, at the time of receipt by the intended recipient, (iii) if sent by facsimile transmission, when so sent and when receipt has been acknowledged by appropriate telephone or facsimile receipt, or (iv) if hand-delivered, at the time of receipt by the intended recipient, addressed as follows: (a) For Integra:
+
+Brian Larkin, President, Global Spine and Orthobiologics Integra LifeSciences Corporation 311 Enterprise Drive Plainsboro, New Jersey 08536
+
+Patricia Jacobson, Corporate Counsel Integra LifeSciences Corporation 2302 La Mirada Drive Vista, CA 92081
+
+General Counsel Integra LifeSciences Corporation 311 Enterprise Drive Plainsboro, NJ 08536 17
+
+
+
+
+
+(b) For PcoMed:
+
+Steve Jacobs CEO PcoMed, LLC. 105 S. Sunset St. Suite O Longmont, CO 80501
+
+With required copy to:
+
+Alan Keeffe Sherman & Howard LLC 675 Snapdragon Way Suite 350 Steamboat Springs, CO 80477
+
+12.2. Compliance with Laws. Each party shall comply with all applicable federal, state and local laws and regulations in connection with its activities pursuant to this Agreement.
+
+12.3. Governing Law. This Agreement shall be construed and enforced in accordance with the laws of the State of New Jersey.
+
+12.4. Dispute Resolution. In the event of any controversy or claim relating to, arising out of or in any way connected to any provision of this Agreement (a "Dispute"), either Party may, by notice to the other Party, have such dispute referred to their respective senior officials designated below or their successors, for attempted resolution by good faith negotiations within 30 days after such notice is received. Any Dispute that is not resolved through such negotiations may be referred to binding arbitration in Denver, Colorado with the Judicial Arbiter Group as part of a 3 person panel, with costs borne separately by each party, to be conducted in accordance with the rules of the American Arbitration Association. (a) For Integra:
+
+Brian Larkin President, Global Spine and Orthobiologics Integra LifeSciences Corporation 311 Enterprise Drive Plainsboro, New Jersey 08536 (b) For PcoMed:
+
+Steven Jacobs CEO PcoMed, LLC. 105 S. Sunset St. Suite O Longmont, CO 80501 18
+
+
+
+
+
+12.5. No Waiver. Failure of any party to enforce a right under this Agreement shall not act as a waiver of that right or the ability to assert that right unless such party has signed an express written waiver as to a particular matter for a particular period of time.
+
+12.6. Severability. If any provision of this Agreement shall be found by a court of competent jurisdiction to be void, invalid or unenforceable, the provision shall be considered severed from this Agreement and shall not affect the validity or enforceability of the remainder of this Agreement. The parties shall make a good faith effort to replace any invalid or unenforceable provision with a valid and enforceable one such that the objectives contemplated by the parties when entering this Agreement may be realized.
+
+12.7. Modification. No change, modification, addition or amendment to this Agreement is valid or enforceable unless in writing and signed and dated by the authorized officers of the parties to this Agreement.
+
+12.8. Entire Agreement. This Agreement and the Attachments attached hereto constitute the entire agreement between the parties and replace and supersede as of the Effective Date any and all prior agreements and understandings, whether oral or written, between the parties with respect to the subject matter hereof, except any prior Confidential Disclosure Agreement(s).
+
+12.9. Successors. Except as otherwise expressly provided in this Agreement, this Agreement shall be binding upon, inures to the benefit of, and is enforceable by, the parties and their respective heirs, legal representatives, successors and permitted assigns.
+
+12.10. Construction. This Agreement has been prepared, examined, negotiated and revised by each party and their respective attorneys, and no implication shall be drawn and no provision shall be construed against any party to this Agreement by virtue of the purported identity of the drafter of this Agreement or any portion thereof.
+
+12.11. Counterparts. This Agreement may be executed simultaneously in one or more counterparts, each of which shall constitute one and the same instrument.
+
+12.12. Assignment. This Agreement shall be binding upon and shall inure to the benefit of PcoMed and Integra, and their successors and assigns. Neither party shall assign their respective rights under this Agreement without the prior written consent of the other party. Notwithstanding the foregoing, no such consent shall be required for either party to assign this Agreement (i) to an Affiliate provided the party to this Agreement continues to be liable for all obligations hereunder, or (ii) in connection with a merger or sale of all or substantially all of the assets of such party to which this Agreement relates, provided in the case of (ii) the successor or assignee assumes all liabilities hereunder.
+
+12.13. Further Assurances. Each party shall do, execute, acknowledge and deliver, and cause to be done, executed, acknowledged or delivered, all such further acts, transfers, conveyances, assignments or assurances as may be reasonably required to consummate the transactions contemplated by this Agreement.
+
+12.14. Force Majeure. Except for obligations to make payments payable under this Agreement, each party shall be excused from the performance of its obligations under this Agreement to the extent that such performance is prevented by force majeure and the nonperforming party promptly provides the other party with written notice of the event of force majeure and its effect. Such excuse shall be continued so long as the condition constituting force 19
+
+
+
+
+
+majeure continues and the nonperforming party takes reasonable efforts to remove or circumvent the interference caused by the condition. For purposes of this Agreement, force majeure shall include an act of God, war, civil commotion, terrorist act, labor strike or lock-out other than at a party's facility, epidemic, failure or default of public utilities or common carriers, destruction of production facilities or materials by fire, earthquake, storm or like catastrophe, and failure of plant or machinery (provided that such failure could not have been prevented by the exercise of skill, diligence, and prudence that would be reasonably and ordinarily expected from a skilled and experienced person engaged in the same type of undertaking under the same or similar circumstances).
+
+12.15. Independent Contractors. Each party shall act solely as an independent contractor, and nothing in this Agreement shall be construed to give either party the power or authority to act for, bind or commit the other party in any way. Nothing herein shall be construed to create the relationship of partnership, principal and agent or joint venture between the parties.
+
+IN WITNESS WHEREOF, the parties have caused their duly authorized representatives to execute this Agreement as of the Effective Date. INTEGRA LIFESCIENCES CORPORATION PCOMED, LLC
+
+By: /s/ Brian Larkin By: /s/ Steve Jacobs
+
+Name: Brian Larkin Name: Steve Jacobs
+
+Title: President Title: CEO
+
+Date: May 29, 2013 Date: May 15, 2013 20
+
+
+
+
+
+ATTACHMENT A PcoMed Surface Modification Technology
+
+*** i *** Portions of this page have been omitted pursuant to a request for Confidential Treatment filed separately with the Commission.
+
+
+
+
+
+ATTACHMENT A PcoMed Surface Modification Technology (continued)
+
+*** ii *** Portions of this page have been omitted pursuant to a request for Confidential Treatment filed separately with the Commission.
+
+
+
+
+
+Attachment B Minimum Payments
+
+PERIOD MINIMUM PAYMENT Minimum Payment Period 1 $ *** Minimum Payment Period 2 $ *** Minimum Payment Period 3 $ *** Minimum Payment Period 4 $ *** Minimum Payment Period 5 $ *** Minimum Payment Period 6 $ *** Minimum Payment Period 7 $ ***
+
+For this purpose:
+
+"Minimum Payment Period 1" means the one-year period commencing on the date set forth in the Notice of Initial Acceptance of First Product Order.
+
+"Minimum Payment Period 2" means the one-year period commencing on the first day after Minimum Payment Period 1.
+
+"Minimum Payment Period 3" means the one-year period commencing on the first day after Minimum Payment Period 2.
+
+"Minimum Payment Period 4" means the one-year period commencing on the first day after Minimum Payment Period 3.
+
+"Minimum Payment Period 5" means the one-year period commencing on the first day after Minimum Payment Period 4.
+
+"Minimum Payment Period 6" means the one-year period commencing on the first day after Minimum Payment Period 5.
+
+"Minimum Payment Period 7" means the one-year period commencing on the first day after Minimum Payment Period 6. *** Portions of this page have been omitted pursuant to a request for Confidential Treatment filed separately with the Commission.
+
+
+
+
+
+ATTACHMENT C
+
+NOTICE OF INITIAL ACCEPTANCE OF FIRST PRODUCT ORDER
+
+This Notice references the Agreement executed effective as of , 2013, by and between Integra LifeSciences Corporation ("Integra") and PcoMed, LLC ("PcoMed") ("Agreement"). In accordance with Section 12.1 (Notices) and pursuant to Section 4.1 of the Agreement, notice is hereby given that the date of Integra's acceptance of the First Product Order (as defined in the Agreement and as approved by the applicable Regulatory Authority for sale) is designated as the day of , 20 .
+
+This Notice of Initial Acceptance of the First Product Order is issued by Integra LifeSciences Corporation on this day of , 20 . By:
+
+Name:
+
+Title:

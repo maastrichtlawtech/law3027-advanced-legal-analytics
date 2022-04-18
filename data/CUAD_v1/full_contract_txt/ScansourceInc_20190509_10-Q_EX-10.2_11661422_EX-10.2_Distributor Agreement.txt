@@ -1,0 +1,133 @@
+Exhibit 10.2
+
+IN ACCORDANCE WITH ITEM 601(b) OF REGULATION S-K, CERTAIN IDENTIFIED INFORMATION (THE "CONFIDENTIAL INFORMATION") HAS BEEN EXCLUDED FROM THIS EXHIBIT BECAUSE IT IS BOTH (I) NOT MATERIAL AND (II) WOULD LIKELY CAUSE COMPETITIVE HARM IF PUBLICLY DISCLOSED. THE CONFIDENTIAL INFORMATION IS DENOTED HEREIN BY [*****].
+
+ZEBRA® PARTNERCONNECT PROGRAM
+
+ADDENDUM TO
+
+ZEBRA® PARTNERCONNECT DISTRIBUTOR AGREEMENT
+
+THIS ADDENDUM ("Addendum") is made on the 4th day of February 2019 ("Effective Date") between the following parties: Zebra Technologies International, LLC, with an office at 3 Overlook Point, Lincolnshire IL 60069 ("Zebra");
+
+Zebra Technologies do Brasil - Comércio de Produtos de Informåtica Ltda., a company incorporated and organized under the laws of Brazil, with offices at Av. Magalhäes de Castro, 4800, sala 72-A, Cidade Jardim, CEP 05676-120, Säo Paulo, sp ("Zebra Brazil")
+
+Xplore Technologies Corporation of America, a company with its principal place of business at 8601 RR 2222, Building 2, Suite #100, Austin, Texas 78730, U.S.A. ("Xplore");
+
+(collectively "Zebra")
+
+AND
+
+ScanSource, Inc., a company incorporated in South Carolina, with its registered office at 6 Logue Court, Greenville, South Carolina 29615 ("ScanSource").
+
+ScanSource Latin America, Inc. a ScanSource Affiliate incorporated in Florida, whose registered business address is 1935 NW 87 Avenue, Miami, Florida 33172 ("ScanSource Latin America")
+
+ScanSource Brazil Distribuidora de Technologias, Ltda., a ScanSource Affiliate incorporated and organized under the laws of Brazil, with offices in the City of Säo José dos Pinhais, State of Paranå, at Avenida Rui Barbosa, 2529, Modulos 11 and 12, Bairro Jardim Ipé, CEP: 83055-320, enrolled with the Taxpayer Register (CNPJ/MF) under No. 05.607.657/0001-35 ("ScanSource Brazil")
+
+SCANSOURCE DE MEXICO S. DE R.L. DE C.V., a ScanSource Affiliate incorporated in Mexico, whose registered business address is Calle 4 No. 298, Colonia Franccionamiento Industrial Alce Blanco, Naucalpan de Juarez, Estado de México 53370 ("ScanSource Mexico")
+
+(Collectively "Distributor')
+
+"Zebra" and the "Distributor" are referred to collectively as 'Parties" and individually as a "Party".
+
+WHEREAS: (A) On February 12, 2014 the Parties entered into an agreement that was renamed, as of April 11, 2016, to: PartnerConnectTM EVM Distribution Agreement, (as amended) ("Distribution Agreement"), which relates to Zebra Enterprise Visibility and Mobility ('EVM") products and services, and which, as acknowledged by the Parties by entering into this Amendment, is in full force and effect and valid as when this Amendment is executed;
+
+(B) Distributor purchases Products from Zebra under the Distributor Agreement;
+
+(C)​ Zebra has recently completed the acquisition of Xplore, which transaction closed on August 14, 2018;
+
+(D) Zebra has expanded its products portfolio by adding the product families listed in Exhibit A, that as of the Effective Date hereof are branded Xplore or Motion Computing, thereto ("Xplore Products"); (E) Xplore, now a Zebra Affiliate, is the seller of Xplore Products;
+
+Source: SCANSOURCE, INC., 10-Q, 5/9/2019
+
+
+
+
+
+(F) Xplore wishes to sell Xplore Products to Distributor and Distributor wishes to purchase such products from Xplore pursuant to the terms and conditions of the Distributor Agreement by entering into this Addendum; and
+
+(G) The Parties desire to amend the Distributor Agreement by adding Xplore Products and authorizing Distributor to purchase such products from Xplore for further resale to members of the Zebra PartnerConnect Program in the Market or Territory. THEREFORE, in consideration of the mutual covenants and promises, and subject to the terms and conditions of the Distributor Agreement, the Parties agree as follows:
+
+1. Expressions used in this Addendum shall have the same meanings given to them in the Distributor Agreement, unless the context requires otherwise.
+
+2. This Addendum automatically incorporates any future amendments to the Distributor Agreement and such amendments will be made part of this Addendum to the extent that the amendments do not conflict therewith, unless otherwise agreed in writing by the Parties.
+
+3. Commencing on the Effective Date hereof, Xplore Products will be considered for all intents and purposes of the Distributor Agreement as Products and the purchase and sale thereof will be conducted in accordance with, and be subject to the terms and conditions of the Distributor Agreement, unless otherwise set out in this section:
+
+a. The actual sale of Xplore Products (or any part thereof) is subject to Zebra obtaining the relevant regulatory approvals for the sale of Xplore Products in and into the Market or Territory (or any portion thereof) and shall commence only upon the attainment of such approvals. b. Zebra Consolidated Global Limited Warranty posted at www.zebra.com/partnerconnect-tc or any equivalent website thereof, will not apply to Xplore Products which shall carry the warranty posted at: https://support.xploretech.com/us/support/warranty-specifications/.
+
+c. Certain operational aspects relating to the purchase of Xplore Products, will be governed by the terms and conditions of Exhibit B, attached to this Addendum and incorporated therein by this reference. The terms of the Distribution Agreement will apply to all areas not covered by Exhibit B.
+
+4. By signing this Addendum, Xplore hereby agrees to be bound by the terms of the Distributor Agreement as a party thereto for the sole purpose of selling Xplore Products to Distributor. With the exception of the sale of Xplore Products, Xplore does not assume any obligations (prior, current or future) of Zebra under the Distributor Agreement.
+
+5. In the event of a conflict between the Distributor Agreement with this Addendum, the terms of this Addendum shall take precedence.
+
+6. Signature Counterparts. This Addendum and any additional amendments of addenda to the Distribution Agreement may be executed in two or more of counterparts, each of which shall be an original, but all of which together shall constitute one instrument. A facsimile copy or Computer image, such as a PDF or tiff image, of a signature shall be treated as and shall have the same effect as an original signature. In addition, a true and correct facsimile copy or computer image of this Addendum and any additional amendments of addenda thereto shall be treated as and shall have the same effect as an original signed copy of this document.
+
+7. Term and Termination. This Addendum may be terminated at any time by either Party in accordance with the termination provisions of the Distribution Agreement. The Addendum shall not have an Initial Period.
+
+8. Governing Law and Dispute Resolution. The terms of the Governing Law and Dispute Resolution provisions of the Distribution Agreement will apply to this Addendum.
+
+Source: SCANSOURCE, INC., 10-Q, 5/9/2019
+
+
+
+
+
+IN WITNESS HEREOF, the Parties have executed this Addendum on the dates specified herein.
+
+ZEBRA TECHNOLOGIES INTERNATIONAL, LLC SCANSOURCE, INC. By: /s/ Alex Castaneda By: /s/ Brenda McCurry Name: Alex Castaneda Name: Brenda McCurry Title: VP NA Territory and Channel Sales Title: Vice President, Supplier Services Date: May 7, 2019 Date: 1/29/2019
+
+ZEBRA TECHNOLOGIES DO BRASIL- COMÉRCIO DE PRODUTOS DESCANSOURCE LATIN AMERICA, INC.
+
+By: By: /s/ Marcelo Hirsch Name: Vanderlei Ferreira Name: Marcelo Hirsch Title: Director Title: Managing Director Date: May 8, 2019 Date: 2/7/2019
+
+XPLORE TECHNOLOGIES CORPORATION OF AMERICA SCANSOURCE DE MEXICO S. DE R.L. DE C.V.
+
+By: /s/ Alex Castaneda By: /s/ Victor Perez Name: Alex Castaneda Name: Victor Perez Title: VP NA Territory and Channel Sales Title: Country Manager Date: May 7, 2019 Date: 26/2/19
+
+SCANSOURCE BRASIL DISTRIBUIDORA DE TECHNOLOGIAS LTDA. By: /s/ Paulo Roberto Ferreira Name: Paulo Roberto Ferreira Title: Executive Director Date: 22/02/19
+
+Source: SCANSOURCE, INC., 10-Q, 5/9/2019
+
+
+
+
+
+EXHIBIT A
+
+Xplore Products and Distributor Upfront Discounts off List Price therefore
+
+[*****] [*****] [*****] L10 [*****] [*****] R12 [*****] [*****] F5 [*****] [*****] C5 [*****] [*****] B10 [*****] [*****] D10 [*****] [*****] Bobcat [*****] [*****] XC6 [*****] [*****] M60 [*****] [*****] Accessories & Services [*****] [*****]
+
+EXHIBIT B Operational Terms for Purchase of Xplore Products
+
+ARTICLE I. PURCHASE ORDERS AND STOCK ON HAND
+
+1. Issuance and Acceptance of Purchase Order. To order the Xplore Products, Distributor shall place a purchase order via sending an email to xpldistributors@zebra.com. Each purchase order shall specify the bill-to address, ship-to address, quantity and description of each Xplore Product ordered, the unit price for each Xplore Product, the requested ship date, the preferred means of delivery, and tax-exempt certifications, if any. Orders received without this information or which contain any discrepancy may be returned to Distributor for completion or revision as applicable. Each purchase order placed by Distributor, as well as each invoice sent by Xplore, shall be governed by the terms of this Addendum and the Distribution Agreement and any additional or different terms within the purchase order or invoice shall have no effect. Each purchase order for the Xplore Products shall be subject to Xplore's acceptance and, upon acceptance, Xplore shall confirm the purchase order and the Estimated Shipping Date with Distributor. Notwithstanding such acceptance, Xplore reserves the right where necessary to amend the Orders including without limitation part numbers, special pricing and Estimated Shipping Date, and may at its sole discretion require an amended Order from Distributor incorporating such changes. For the purposes of this Exhibit B, "Estimated Shipping Date" shall mean the estimated shipping date of an accepted purchase order.
+
+2. Purchase Order Rescheduling, Cancellation and Modification. Distributor has the right to cancel, reschedule or modify all or any portion of a purchase order that has been accepted by Xplore at no cost to Distributor only if such cancellation or modification request is made within [*****] business days of PO acceptance or rescheduling request is made at least [*****] business days prior to the most current Estimated Shipping Date for that purchase order. Distributor has the right to change the destination of all or any portion of a purchase order that has been accepted by Xplore at no cost to Distributor only if such change in destination request is made at least [*****] business days prior to the most current Estimated Shipping Date for that purchase order. Except as set forth above, purchase orders are non-changeable and non- cancellable by Distributor, once accepted by Xplore.
+
+Certain purchase orders, determined at Xplore's sole discretion, and generally of large volume and/or extended lead times, may be subject to alternative rescheduling, cancellation, and modification rights. Should such purchase orders be subject to alternative rights, Xplore shall inform Distributor of alternative rights prior to order acceptance. Distributor will then have [*****] business days to accept, or reject, the alternative terms of Xplore for that certain purchase order. If Distributor rejects such alternative terms, the purchase order will not be accepted by Xplore.
+
+3. Product Allocation. If for any reason, Xplore's production is not on schedule, Xplore may, at its sole and absolute discretion, allocate available inventory to Distributor and make shipments in accordance with Zebra's then current processes.
+
+Source: SCANSOURCE, INC., 10-Q, 5/9/2019
+
+
+
+
+
+4. Stock on Hand. Distributor shall use commercially reasonable efforts to maintain thirty (30) days of stock in Distributor's inventory to support sales. Xplore acknowledges that from time to time, Distributor's inventory levels may fall below the thirty (30) days goal that is agreed upon by both Parties. If inventory levels fall below the thirty (30) day goal for more than sixty (60) consecutive days, Xplore, upon written notice to Distributor, shall replenish the stock to an amount agreed by both Parties.
+
+5. Product Return and Stock Rotation. The terms of Section 3 of Schedule 2 of the Distribution Agreement will apply to Xplore Products, provided however that stock rotation allowance for Xplore Products will be based on the net dollar value of Distributor's purchases in each calendar quarter of Xplore Products and such allowance will be calculated separate and apart from all other Products purchased by Distributor during such period.
+
+ARTICLE II. DELIVERY OF PRODUCTS
+
+1. Shipping Terms. Notwithstanding anything to the contrary contained in the Distribution Agreement, and unless notified by Xplore otherwise, shipping terms for Xplore Products will be Delivery Duty Paid (DDP) INCOTERMS® 2010, whereby Distributor's price, includes all costs of delivery, insurance, import and / or export duties and tariffs. Such prices are exclusive of all federal, state, municipal or other government excise, sales, use, occupational or like taxes in force, and any such taxes shall be assumed and paid for by Distributor in addition to its payment for the Xplore Products. Title and risk of loss to Xplore Products shall pass to Distributor upon delivery to Distributor, as indicated in the Proof of Delivery (PoD) documents. [*****]
+
+1. At Distributor's request, Xplore may deliver Xplore Products directly to Program Members or their respective End Users on behalf of Distributor, and in such instances title and risk of loss will pass to Distributor upon delivery to the applicable recipients, as indicated on the PoD documents. Some exclusions may apply, including countries not served by Xplore shipping and importing methods, and/or countries where Xplore Products, are not certified for resale and/or use.
+
+1. Proof of Delivery ("POD"). Xplore shall provide to Distributor, at no charge, a means for confirming proof of delivery for Xplore Product shipments when requested by Distributor. Xplore shall provide packing slips for all shipments.
+
+Source: SCANSOURCE, INC., 10-Q, 5/9/2019

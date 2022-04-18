@@ -1,0 +1,1021 @@
+Exhibit 10.5
+
+Execution Version
+
+TRANSPORTATION SERVICES AGREEMENT
+
+This Transportation Services Agreement (this "Agreement") is made and entered into this 14t h day of April, 2015 (the "Effective Date"), by and between PennTex North Louisiana Operating, LLC, a Delaware limited liability company ("Carrier"), and MRD Operating LLC, a Delaware limited liability company ("Shipper"). Shipper and Carrier may be referred to individually as a "Party," or collectively as the "Parties."
+
+WITNESSETH:
+
+WHEREAS, Shipper has title to or the right to transport and/or sell Shipper Product (as defined below); and
+
+WHEREAS, Shipper desires for Carrier to (i) design, engineer and construct the System (as defined below) to enable Carrier to be able to provide transportation and related services for Shipper Product and (ii) transport Shipper Product on the System; and
+
+WHEREAS, Carrier desires to (i) design, engineer and construct the System and (ii) transport Shipper Product on the System.
+
+NOW THEREFORE, in consideration of the mutual promises, covenants and agreements herein contained, the Parties hereby covenant and agree as follows:
+
+ARTICLE I CERTAIN DEFINITIONS
+
+Unless otherwise required by the content, the terms defined in this ARTICLE I shall have, for all purposes of this Agreement, the respective meanings set forth in this ARTICLE I:
+
+"Affiliate" shall mean, when used with respect to any Person, any other Person that, directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with such Person. For this purpose, "control" of any Person shall mean the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of such Person, by ownership of voting interest, by contract or otherwise. For the purposes of this Agreement, (i) with respect to PennTex Midstream Partners, LLC and its subsidiaries, the term "Affiliate" shall exclude Memorial Resource Development Corp. and each of its subsidiaries and (ii) with respect to Memorial Resource Development Corp. and its subsidiaries, the term "Affiliate" shall exclude PennTex Midstream Partners, LLC and each of its subsidiaries.
+
+"AMI/MEA Agreement" shall mean that certain Amended and Restated Area of Mutual Interest and Midstream Exclusivity Agreement dated April 14, 2015 among PennTex North Louisiana, LLC, Shipper, PennTex NLA Holdings, LLC and MRD WHR LA Midstream LLC, as such agreement may be amended, supplemented or otherwise modified from time to time.
+
+"Agreement" shall have the meaning given to such term in the preamble of this Agreement.
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+"Applicable Law" shall mean all applicable laws, statutes, directives, codes, ordinances, rules, regulations, municipal by-laws, judicial, arbitral, administrative, ministerial, departmental or regulatory judgments, orders, decisions, ruling or award, consent orders, consent decrees and policies of any Governmental Authority.
+
+"Business Day" shall have the meaning given to such term in the Tariff.
+
+"Carrier" shall have the meaning given to such term in the preamble of this Agreement.
+
+"Carrier Default" shall have the meaning given to such term in Section 8.3 of this Agreement.
+
+"Carrier Default Notice" shall have the meaning given to such term in Section 8.4 of this Agreement.
+
+"Carrier Force Majeure" shall mean an event of Force Majeure that prevents Carrier from providing all or part of the Services and shall not include a Force Majeure that prevents Shipper from delivering Shipper Product hereunder.
+
+"Central Clock Time" shall mean Central Standard Time, as adjusted for Central Daylight Time.
+
+"Claims" shall mean any and all claims, demands and causes of action of any kind and all losses, damages, liabilities, costs and expenses of whatever nature (including court costs and reasonable attorneys' fees).
+
+"Commencement Date" shall have the meaning given to such term in Section 2.2 of this Agreement.
+
+"Commencement Date Facilities" shall have the meaning given to such term in Section 7.2 of this Agreement.
+
+"Contract Year" shall mean a period commencing at 9:00 a.m., Central Clock Time, on the Commencement Date and ending at 9:00 a.m., Central Clock Time on the same day and calendar month of the following calendar year and thereafter for succeeding periods of twelve (12) consecutive Months each.
+
+"Day" or "Daily" shall mean a period of hours commencing at 9:00 a.m., Central Clock Time, on a calendar day and ending at 9:00 a.m., Central Clock Time, on the next succeeding calendar day.
+
+"Dedicated Rates" shall have the meaning given to such term in the Tariff.
+
+"Dedication" shall have the meaning given to such term in Section 7.1 of this Agreement   2
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+"Delivery Point" shall mean the delivery point at the interconnection of the System with DCP's 6" Black Lake natural gas liquids pipeline and other mutually agreeable delivery points near Ada, Bienville Parish, Louisiana as provided in the Tariff.
+
+"Dispute" shall mean any controversy or claim, whether based on contract, tort, statute or other legal or equitable theory (including, but not limited to, any claim of fraud, misrepresentation or fraudulent inducement or any question of validity or effect of this Agreement including this clause) arising out of or related to this Agreement (including any amendments or extension), or breach or termination thereof.
+
+"Dispute Notice" shall have the meaning given to such term in Section 12.2 of this Agreement.
+
+"Effective Date" shall have the meaning given to such term in the preamble to this Agreement.
+
+"FERC" shall mean the United States Federal Energy Regulatory Commission and any lawful successor agency thereto.
+
+"Financial Assurance" shall mean any Guarantee, letter of credit, amendment or supplement thereto or other credit enhancement provided for in ARTICLE XIII of this Agreement.
+
+"Force Majeure" shall have the meaning given to such term in Section 11.2 of this Agreement.
+
+"Gallon" means one (1) U.S. gallon.
+
+"Gas" shall mean any mixture of gaseous hydrocarbons, consisting essentially of methane and heavier hydrocarbons and inert and noncombustible gases that are extracted from the subsurface of the earth.
+
+"Governmental Authority" shall mean (i) the United States of America, (ii) any state, county, parish, municipality or other governmental subdivision within the United States of America, and (iii) any court or any governmental department, commission, board, bureau, agency or other instrumentality of the United States of America or of any state, county, municipality or other governmental subdivision within the United States of America.
+
+"Guarantee" shall have the meaning given to such term in Section 13.1 of this Agreement.
+
+"Interest" shall mean any right, title, or interest in lands, wells, or leases and the right to produce oil and/or natural gas therefrom whether arising from fee ownership, working interest ownership, mineral ownership, leasehold ownership, farm-out or arising from any pooling, unitization or communitization of any of the foregoing rights.   3
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+"Lincoln Parish Plant" shall mean that certain natural gas processing plant to be constructed by Carrier or one of its Affiliates and located in Arcadia, Lincoln Parish, Louisiana.
+
+"Losses" shall mean any actual loss, cost, expense, liability, damage, demand, suit, sanction, claim, judgment, lien, fine or penalty, including attorneys' fees, asserted by a third party not Affiliated with the Party incurring such, and which are incurred by the applicable indemnified Persons on account of injuries (including death) to any person or damage to or destruction of any property, sustained or alleged to have been sustained in connection with or arising out of the matters for which the indemnifying party has indemnified the applicable indemnified Persons.
+
+"Month" shall mean a period of time beginning at 9:00 a.m., Central Clock Time on the first day of a calendar month and ending at 9:00 a.m., Central Clock Time on the first day of the next succeeding calendar month.
+
+"Mount Olive Plant" shall mean that certain natural gas processing plant to be constructed by Carrier or one of its Affiliates and located in Ruston, Lincoln Parish, Louisiana.
+
+"New Facility" shall have the meaning given to such term in Section 7.3 of this Agreement.
+
+"Nomination" (including "Nominates" and the syntactical variants thereof) shall have the meaning given to such term in the Tariff.
+
+"Parties" shall have the meaning given to such term in the preamble of this Agreement.
+
+"Party" shall have the meaning given to such term in the preamble of this Agreement.
+
+"Person" shall mean any individual, firm, corporation, trust, partnership, limited liability company, association, joint venture, other business enterprise or Governmental Authority.
+
+"Plants" shall mean (i) the Lincoln Parish Plant, (ii) the Mount Olive Plant and (iii) any other gas processing plant owned by Carrier or its Affiliate that is capable of extracting Shipper Product and transporting such Shipper Product from the tailgate of such plant to the System. "Plant" shall mean any of such Plants.
+
+"Product" shall mean a demethanized mixture of natural gas liquids comprised primarily of ethane, propane, iso-butane, normal butane, iso- pentane, normal pentane, hexanes and heavier hydrocarbons, incidental volumes of methane, as well as other non-hydrocarbon compounds.
+
+"Receipt Points" shall mean the receipt points provided for in the Tariff at the tailgate of the Plants where Carrier accepts Product for transport on the System.
+
+"Services" shall mean receipt and transportation on the System of Product for Shipper's account from the Receipt Points and delivery to the Destination Point specified in Shipper's Nomination.   4
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+"Shipper" shall have the meaning given to such term in the preamble of this Agreement.
+
+"Shipper Default" shall have the meaning given to such term in Section 8.1 of this Agreement.
+
+"Shipper Default Notice" shall have the meaning given to such term in Section 8.2(a) of this Agreement.
+
+"Shipper Product" shall mean Product that is attributable to Gas that is delivered by Customer or its designee to, and processed at, a Plant.
+
+"Shipper's Dedicated Rates" shall have the meaning given to such term in Section 6.1 of this Agreement.
+
+"System" shall have the meaning given to such term in the Tariff.
+
+"Tariff" shall mean Carrier's rate, rules and regulations tariff for the System on file and in effect with the FERC or other Governmental Authority, as such tariff may be amended or supplemented by Carrier from time to time in accordance with this Agreement, a pro forma copy of which, materially in the form expected to be filed by Carrier with the FERC, is attached hereto as Exhibit A.
+
+"Tariff Rate Revision Proceeding" shall have the meaning given to such term in Section 14.3.
+
+"Taxes" shall mean any or all current or future taxes, fees, levies, charges, assessments and/or other impositions levied, charged, imposed, assessed or collected by any Governmental Authority having jurisdiction.
+
+"Term" shall have the meaning given to such term in Section 2.1 of this Agreement.
+
+"Third Party Operator" means an operator of a pipeline or other facility upstream or downstream of the System, other than Carrier or its Affiliates.
+
+ARTICLE II TERM
+
+2.1 Term. This Agreement shall commence on the Effective Date and continue in full force and effect until the end of the fifteenth (15th) Contract Year, and shall continue in full force and effect thereafter until terminated by either Party by providing thirty (30) calendar days' prior written notice of termination to the other Party (such fifteen (15) Contract Year period, as may be further extended as provided herein is referred to as the "Term").
+
+2.2 Commencement Date. The "Commencement Date" under this Agreement shall be the first day of the Month following the date Carrier notifies Shipper that (i) Carrier has obtained all required operating permits and/or approvals of regulatory authorities necessary to operate the System, (ii) the System is operational to the extent necessary to commence the   5
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+Services hereunder, and (iii) the Delivery Point listed on Schedule A is operational and all necessary interconnect agreements with interconnecting pipelines necessary to deliver Shipper Product to such Delivery Point are in effect to the extent necessary to commence commercial service with respect to the delivery (but, for the avoidance of doubt, not the further downstream transportation) of Shipper Product. Carrier will not be responsible for delays to the Commencement Date due to the action or inaction of Shipper or Third Party Operators.
+
+ARTICLE III [RESERVED]
+
+ARTICLE IV CARRIER RIGHTS AND OBLIGATIONS
+
+4.1 Provision of Services. Subject to the terms and conditions of this Agreement, Carrier shall, commencing on the Commencement Date and continuing through the remainder of the Term of this Agreement, provide Services for Shipper Product in accordance with, and subject to, this Agreement, including the Tariff, which is incorporated herein by reference and constitutes part of this Agreement, expressly including provisions in the Tariff relating to the charges and rules and regulations applicable to Shipper as a party to this Agreement. This Section 4.1 shall not apply to Carrier during any period when Shipper is in breach of its obligations to Carrier under this Agreement or the Tariff. The Services do not include any terminaling, tankage or storage.
+
+ARTICLE V SHIPPER RIGHTS AND OBLIGATIONS
+
+5.1 Tariff. Shipper's nominations and tenders of Product for shipment, and Carrier's scheduling, acceptance, transporting, measuring and delivering of Product, shall, at all times, be subject to, and implemented in accordance with the Tariff. Shipper shall comply with the Tariff at all times. The Tariff is subject to amendment by Carrier in accordance with Section 15.1.
+
+5.2 Shipper Reliance on Carrier Performance. All Shipper Product received at the Receipt Points for Services hereunder is deemed to be in compliance with all Product specifications set forth in the Tariff or Carrier shall waive such specifications to accept Shipper Product and all Shipper Product delivered to the Delivery Point hereunder shall be in compliance with all Product specifications set forth in the Tariff.
+
+ARTICLE VI FEES
+
+6.1 Transportation Rate. Shipper shall pay rates for Shipper Product transported on the System in accordance with the Tariff, which shall, to the extent permitted by Applicable Law, provide for the following:
+
+  (a) For all Shipper Product transported on the System and delivered to a Delivery Point each Month, Shipper shall pay Carrier atransportation fee for such Month   6
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+  equal to the applicable Dedicated Rates, which shall initially be the rate(s) set forth in Schedule A attached hereto, and which shall be increased by Carrier annually, effective July 1 of each year following the Commencement Date, as provided in the Tariff ("Shipper's Dedicated Rates").
+
+6.2 Regulation Changes. Notwithstanding anything herein to the contrary, in the event that, after the Effective Date, any Governmental Authority promulgates, issues or changes any rules, regulations or other mandates that impose any material fee, charge or cost upon Carrier in connection with the performance of the Services performed hereunder, excluding normal fees, charges or costs that are incurred by Carrier irrespective of whether Carrier provides the Services on behalf of Shipper and excluding Taxes addressed in Article XVII, then Carrier may increase the then-effective Shipper's Dedicated Rates by up to ten percent (10%) to account for such fees, charges or costs (to the extent such fees, charges or costs are attributable to Shipper Product); provided, however, the cumulative effect of all such increases pursuant to this Section 6.2 may not exceed thirty percent (30%) of the initial Shipper's Dedicated Rates (as the same may be adjusted pursuant to the Tariff from time to time). If, in Carrier's reasonable judgment, an increase in Shipper's Dedicated Rates of more than ten percent (10%) would be required to place Carrier in substantially the same economic position as it was in prior to the imposition or assessment of such fees, charges or costs, Carrier may call for a meeting among the Parties' senior management to take place within thirty (30) Days of written notice to Shipper, and the Parties shall negotiate in good faith to amend the provisions of this Agreement such that the Parties are in substantially the same relative economic position as they were in prior to the imposition or assessment of such fees, charges or costs. If the Parties are unable to agree on an economic adjustment within sixty (60) Days of the senior management meeting, then Carrier may, in its sole discretion, terminate this Agreement without penalty by delivering Shipper written notice of Carrier's intent to terminate. Such termination shall be effective, at the option of Shipper, (i) as of 9:00 a.m. on the first Day of the Month which follows the Month that Carrier delivered its notice of intent to terminate, or (ii) as of 9:00 a.m. on the first Day of the Month which is twelve (12) Months after such date, provided that Shipper's Dedicated Rates for such twelve (12) Month period before such termination shall be increased to place Carrier in substantially the same economic position as it was in prior to the imposition or assessment of such fees, charges, or costs. Shipper shall exercise such option by delivery of written notice to Carrier of Shipper's election within ten (10) Business Days of receipt of Carrier's notice to terminate, provided that if Shipper has not responded to Carrier by the time described in clause (i) above, the Agreement shall continue pursuant to clause (ii) above.
+
+Shipper shall be entitled to audit Carrier's applicable books and records for the limited purpose of determining if the amount of any increase pursuant to this Section 6.2 is justified by the actually-incurred and reasonable amount of the aggregate costs and/or expenses relating to the System; provided, however, such audit shall not require Carrier to disclose confidential information of any Person other than Shipper who is a shipper on the System. If such audit shall reflect that such increase was not justifiable in accordance with the foregoing, Carrier shall promptly credit the amount of such discrepancy to Shipper, unless Carrier disagrees with the results of such audit, in which case the matter shall be resolved pursuant to the dispute resolution provisions set forth in Article XII hereof.
+
+6.3 Governmental Modifications. Notwithstanding anything herein to the contrary, the Parties acknowledge that the Tariff rates payable for all Services are subject to the approval of and modification by the FERC or any other Governmental Authority having jurisdiction.   7
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+ARTICLE VII DEDICATION & FACILITIES
+
+7.1 Dedication. During the Term, subject to the terms of the AMI/MEA Agreement, Shipper dedicates and commits to this Agreement, and shall deliver or cause to be delivered to the System for transportation hereunder, all Shipper Product (the "Dedication"); provided, however, if Carrier is unable to provide Services with respect to all or any volume of Shipper Product, then such volume will be temporarily released from the Dedication until Carrier provides Shipper written notice that Carrier will be able to resume receiving such volume hereunder. Notwithstanding anything in this Agreement to the contrary, it is acknowledged and agreed that there is no minimum amount of Shipper's Product that must be delivered to the System hereunder; accordingly, Shipper shall not have any liability (financial or otherwise) for failure to deliver any particular quantity of Product to Carrier; provided, however, the foregoing sentence shall not reduce or eliminate Shipper's obligation to pay the fees provided herein to the extent Services are provided hereunder.
+
+7.2 Commencement Date Facilities. Carrier shall design, engineer, modify, construct and equip, or caused to be designed, engineered, modified, constructed and equipped, Carrier's System, including, without limitation, the facilities and equipment described on Exhibit B attached hereto (the facilities and equipment described on Exhibit B being collectively referred to as the "Commencement Date Facilities").
+
+7.3 Post-Commencement Date Facilities.
+
+(a) After the Commencement Date, in connection with the construction of the Mount Olive Plant, Carrier will construct 13 miles of 8" pipeline between the Mount Olive Plant and the Lincoln Parish Plant, and a Receipt Point at the Mount Olive Plant.
+
+(b) If after the Commencement Date, Shipper requires an addition, modification, alteration, replacement, or expansion of the System, other than as noted in Section 7.3(a) above (a "New Facility"), Shipper will provide Carrier a written notification of such requested New Facility containing sufficient information for Carrier to estimate the cost to provide such New Facility. Although Carrier shall have no obligation to provide a requested New Facility, Carrier may, in its sole discretion, agree to construct or acquire such New Facility. The commercial terms applicable the construction or acquisition of any New Facility will be determined in accordance with the AMI/MEA Agreement. The Parties agree to make any revisions to this Agreement (including the Exhibits hereto) that are necessary to reflect any New Facility.   8
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+ARTICLE VIII DEFAULTS AND REMEDIES
+
+8.1 Shipper Defaults. Subject to Section 11.1 hereof, the following events shall be a "Shipper Default":
+
+(a) the occurrence and continuation of a material breach by Shipper of any of its obligations under this Agreement or the Tariff, unless such material breach occurs as a result of a breach or default by Carrier of its obligations under this Agreement or the Tariff; or
+
+(b) the occurrence and continuation of a breach under ARTICLE XIII, Financial Assurances.
+
+8.2 Remedies on Shipper Default.
+
+(a) Upon becoming aware of the occurrence of a Shipper Default with respect to Shipper's obligations under this Agreement or the Tariff, Carrier may provide written notice to Shipper describing the Shipper Default in reasonable detail and requiring Shipper to cure the Shipper Default (the "Shipper Default Notice"). If (i) a Shipper Default as described in Section 8.1(a) has not been cured within ten (10) Business Days following receipt by Shipper of a Shipper Default Notice, or (ii) the Shipper Default comprises a default described in Section 8.1(b), then, in any such case, and in addition to Carrier's right to enforce the Financial Assurances and Carrier's other rights and remedies provided for in this Agreement, in the Tariff or under Applicable Law, Carrier shall not be obligated to transport Shipper Product and may suspend the provision of other Services to Shipper.
+
+(b) If the Shipper Default continues for a period of ninety (90) or more Days, or, if such failure is not reasonably capable of being cured within a ninety (90) Day period, but Shipper expeditiously commences to cure the same following its receipt of a Shipper Default Notice and diligently proceeds with such cure, within such longer period of time as shall be reasonably necessary to cure such failure, Carrier shall be entitled, by notice in writing to Shipper, to:
+
+(1) terminate this Agreement, any such termination to be effective upon receipt of the applicable notice by Shipper, in which event Shipper shall be liable to Carrier for (i) all of its accrued obligations up to and including the effective date of termination, and (ii) any and all other losses and damages sustained by Carrier as a result of or arising out of such termination; and/or
+
+(2) draw on any guaranty, letter of credit or other financial assurance provided by Shipper pursuant to ARTICLE XIII, Financial Assurances. If Carrier terminates this Agreement pursuant to Section 8.2(b) hereof, Carrier shall be entitled to apply the proceeds of such financial assurance to Shipper's obligations and Carrier's losses and damages referenced in this Section 8.2(b). In all other circumstances in which Carrier calls on any financial assurance provided by Shipper pursuant to   9
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+ARTICLE XIII, Financial Assurances, following a Shipper Default, Carrier shall be entitled to apply the proceeds to cure such Shipper Default, and to hold the remaining proceeds as additional security for the payment and performance of Shipper's obligations under this Agreement and the Tariff.
+
+The rights and remedies under this Section 8.2(b) shall be in addition to all of Carrier's other rights and remedies under this Agreement or the Tariff or which Carrier may otherwise have at law, in equity or by statute or regulation, and the exercise of one or more rights or remedies shall not prejudice or impair the concurrent or subsequent exercise by Carrier of other rights or remedies.
+
+8.3 Carrier Default. Subject to Section 11.1 hereof, the following event shall be a "Carrier Default": the occurrence and continuation of a material breach or default by Carrier of any of its obligations under this Agreement or the Tariff, unless such material breach or default occurs as a result of a breach or default by Shipper of its obligations under this Agreement or the Tariff.
+
+8.4 Remedies on Carrier Default. Upon becoming aware of the occurrence of a Carrier Default, Shipper may provide written notice to Carrier, describing the Carrier Default in reasonable detail and requiring Carrier to cure the Carrier Default (the "Carrier Default Notice"). If (a) a Carrier Default comprising Carrier's failure to make any payment due hereunder has not been cured within ten (10) Business Days following receipt by Carrier of a Carrier Default Notice, or (b) a Carrier Default comprising Carrier's failure to comply with any obligation under this Agreement or the Tariff, other than a payment obligation, has not been cured within ninety (90) Days after receipt by Carrier of a Carrier Default Notice, or, if such failure is not reasonably capable of being cured within a ninety (90) Day period, but Carrier expeditiously commences to cure the same following its receipt of a Carrier Default Notice and diligently proceeds with such cure, within such longer period of time as shall be reasonably necessary to cure such failure, then in any such case, Shipper may, by written notice to Carrier, inform Carrier of its intention to terminate this Agreement if such Carrier Default is not cured within a further ninety (90) Day period, and if any such Carrier Default has not been cured within such further period of ninety (90) Days, Shipper may, by written notice to Carrier, terminate this Agreement, any such termination to be effective upon receipt of such termination notice by Carrier.
+
+The rights and remedies under this Section 8.4 shall be in addition to all of Shipper's other rights and remedies under this Agreement or the Tariff or which Shipper may otherwise have at law, in equity or by statute or regulation, and the exercise of one or more rights or remedies shall not prejudice or impair the concurrent or subsequent exercise by Shipper of other rights or remedies.
+
+ARTICLE IX WARRANTY OF TITLE AND PRODUCT INTERESTS
+
+9.1 Title Warranty. Shipper warrants to Carrier that at the time Shipper Product is delivered to a Receipt Point hereunder, Shipper will have good title or the right to deliver such Shipper Product, and that such Shipper Product shall be free and clear of all liens and adverse   10
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+claims, other than statutory liens and liens, encumbrances or claims under credit facilities or other credit arrangements in respect of borrowed money. Shipper agrees, with respect to the Shipper Product delivered by to Carrier hereunder, to indemnify Carrier against all suits, actions, debts, accounts, damages, costs (including attorney's fees), losses and expenses arising from or out of any adverse claims of any and all persons to or against said Shipper Product other than any lien, claim or encumbrance alleged to have arisen by, through or under Carrier or its Affiliate.
+
+9.2 Proceeds of Production. Shipper agrees to make payment of all royalties, overriding royalties, production payments, and all other payments for interests attributable to Shipper Product delivered hereunder due to any Person under any leases or other documents in accordance with the terms thereof.
+
+9.3 Indemnification. Shipper agrees to indemnify and hold Carrier harmless from any and all Claims and Losses incurred in connection with, or in any manner whatsoever relating to payment of Taxes, royalties, overriding royalties, production payments, and all other payments for interests attributable to Shipper Product transported hereunder.
+
+ARTICLE X WAIVER OF CERTAIN DAMAGES
+
+NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY OR ITS AFFILIATES, ANY SUCCESSORS IN INTEREST OR ANY BENEFICIARY OR ASSIGNEE OF THIS AGREEMENT FOR ANY CONSEQUENTIAL, MULTIPLE, INCIDENTAL, INDIRECT, SPECIAL, EXEMPLARY OR PUNITIVE DAMAGES, OR LOSS OF PROFITS OR REVENUES ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY BREACH HEREOF; PROVIDED, HOWEVER, THE FOREGOING SHALL NOT BE CONSTRUED AS LIMITING AN OBLIGATION OF A PARTY HEREUNDER TO INDEMNIFY, DEFEND AND HOLD HARMLESS THE OTHER PARTY AGAINST CLAIMS ASSERTED BY UNAFFILIATED THIRD PARTIES, INCLUDING, BUT NOT LIMITED TO, THIRD PARTY CLAIMS FOR SPECIAL, INDIRECT, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES. THIS ARTICLE X SHALL APPLY NOTWITHSTANDING THE SOLE, JOINT OR CONCURRENT NEGLIGENCE, FAULT OR RESPONSIBILITY OF THE PARTY WHOSE LIABILITY IS WAIVED BY THIS PROVISION, OR ANY OTHER EVENT OR CONDITION, WHETHER ANTICIPATED OR UNANTICIPATED, AND REGARDLESS OF WHETHER PRE-EXISTING PRIOR TO THE DATE OF THIS AGREEMENT.
+
+ARTICLE XI FORCE MAJEURE
+
+11.1 Suspension of Obligations. In the event Carrier or Shipper is rendered unable, wholly or in part, by reason of Force Majeure to carry out its obligations under this Agreement (other than the obligation to make payment of amounts due hereunder, including without   11
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+limitation, payment of fees due hereunder), it is agreed that such Party shall give notice and reasonably full particulars of such Force Majeure, in writing, or other electronic means to the other Party within a reasonable time after the occurrence of the cause relied on, and the obligations of the Party giving such notice, so far as they are affected by such Force Majeure, shall be suspended during the continuance of any inability so caused, but for no longer period, and such cause shall, so far as possible, be remedied with all reasonable dispatch. It is understood and agreed that the settlement of strikes or lockouts shall be entirely within the discretion of the Party having the difficulty, and that the above requirement that any Force Majeure shall be remedied with all reasonable dispatch shall not require the settlement of strikes or lockouts by acceding to the demands of the opposing party when such course is inadvisable in the discretion of the Party having the difficulty.
+
+11.2 Definition of Force Majeure. The term "Force Majeure" as used herein shall mean acts of God; strikes, lockouts, or other industrial disturbances; conditions arising from a change in governmental laws, orders, rules, or regulations; acts of public enemy; wars; blockades; insurrections; riots; epidemics; landslides; lightning; earthquakes; fires; storms; floods; washouts; arrests and restraints of governments and people; civil disturbances; explosions; breakage or accident to machinery or lines of pipe; the necessity for making repairs, tests, alterations, or performing maintenance to machinery or lines of pipe; scheduled maintenance; freezing of wells or lines of pipe; partial or entire failure of wells, processing, or gasification and gas manufacturing facilities; orders or directives of, or proceedings initiated by, any Governmental Authority; and any other causes, whether of the kind herein enumerated or otherwise, not within the control of the Party claiming relief hereunder, and which by the exercise of due diligence, such Party is unable to prevent or overcome. Such term shall likewise include those instances (a) where either Carrier or Shipper is required to obtain servitudes, rights-of-way, grants, permits or licenses to enable such Party to fulfill its obligations under this Agreement and is unable to acquire or experiences delays in acquiring such servitudes, rights-of-way, grants, permits or licenses, at reasonable costs, and after the exercise of reasonable diligence, and (b) the partial or entire failure or refusal of Third Party Operators to receive or deliver Gas, or increases in pressure of upstream or downstream pipelines. Force Majeure shall not include failure of Product supply due to pricing considerations.
+
+11.3 Termination Based on Carrier Force Majeure. If as a result of an event of Carrier Force Majeure, Carrier provides no Services to Shipper for a period of at least twelve (12) consecutive Months, either Party shall be entitled to terminate this Agreement by written notice to the other Party given at any time after the expiration of such twelve (12) Month period, but prior to the cessation of the applicable event of Carrier Force Majeure. Shipper's termination right under this Section 11.3 shall be subject to its compliance with Section 14.2 in connection with any certificates, approvals, authorizations and permits required by Carrier as a result of the event of Carrier Force Majeure.
+
+ARTICLE XII DISPUTE RESOLUTION
+
+12.1 Resolution of Disputes. Any Dispute shall be resolved pursuant to the provisions of this ARTICLE XII, which shall be the sole and exclusive procedures for the resolution of any   12
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+such Dispute. Any Party that fails to first attempt to resolve any Dispute using direct negotiations shall pay all legal and consulting fees and costs incurred by the other Party in any suit, action, or proceeding to enforce the terms of this ARTICLE XII. While the procedures in this ARTICLE XII are pending, each Party shall continue to perform its existing obligations under the Agreement to the extent those obligations are not the subject of the Dispute.
+
+12.2 Dispute Notice. Prior to submitting any Dispute for resolution by a court, a Party shall provide written notice (a "Dispute Notice") to the other of the occurrence of such dispute. The Dispute Notice shall contain (i) a concise statement describing the Dispute, including a description of its nature, circumstances and cause, (ii) an explanation of the basis and justification for the Dispute, including reference to any pertinent provision(s) of the Agreement, (iii) if applicable, the estimated dollar amount of the Dispute and how that estimate was determined, (iv) the claiming Party's desired resolution, and (v) any other information the claiming Party deems relevant.
+
+12.3 Direct Negotiation. Commencing within thirty (30) Days after the Dispute Notice is received and concluding fifteen (15) Business Days thereafter, the authorized representatives of the Parties with decision-making authority shall meet in person in Houston, Texas (or in a place mutually agreed upon by the Parties to the Dispute) and confer, in good faith, to seek to resolve the Dispute raised in the Dispute Notice. If the Parties are unable to resolve the Dispute for any reason within such fifteen (15) Business Day period, then either Party shall be entitled to pursue any remedies available at law or in equity; provided, however, this Section 12.3 shall not limit a Party's right to initiate litigation prior to the expiration of the time periods set forth in this Section 12.3 if application of such limitations would prevent a Party from filing a lawsuit or claim within the applicable period for filing lawsuits (e.g. statutes of limitation, prescription, etc.).
+
+12.4 Jurisdiction and Venue. The Parties hereby irrevocably consent to the exclusive jurisdiction of the state or federal courts located in Harris County, Texas. The Parties hereby irrevocably and unconditionally waive, to the fullest extent they may legally and effectively do so, any objection which they may now or hereafter have to the laying of venue of any suit, action or proceeding arising out of or relating to this Agreement or the transactions contemplated hereby in any federal or state court located in Harrison County, Texas.
+
+12.5 Costs and Expenses. The prevailing Party in any litigation pertaining to any Dispute hereunder shall be entitled to recover its reasonable costs, expenses and attorney's fees in connection with such litigation.
+
+12.6 Waiver of Jury Trial. The Parties hereby waive all rights to a trial by jury for any and all Disputes.
+
+12.7 Confidentiality of Dispute Resolution.
+
+(a) The Parties agree that any Dispute and any negotiations among the Parties in relation to any Dispute shall be subject to the confidentiality provisions of this Agreement.   13
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+(b) The Parties further agree that any information, documents or materials produced for the purposes of, or used in, negotiations of any Dispute shall be subject to the confidentiality provisions of this Section 12.7. The Parties further agree that upon the request of the providing Party, any information, documents or materials produced by such Party for the purpose of negotiations of any Dispute shall be destroyed or returned to the providing Party within thirty (30) Days of the resolution of such Dispute or the issuance of a final decision with respect to such Dispute; provided, however, any confidential information (i) found in drafts, notes, studies and other documents prepared by or for the receiving Party or its representatives, or (ii) found in electronic format as part of receiving Party's off-site or on-site data storage/archival process system, will be held by the receiving Party or destroyed at the receiving Party's option.
+
+(c) Without limiting the foregoing, the Parties agree that disclosure of confidential information may be made to third parties:
+
+(1) In order to enforce any of the provisions of this Agreement or the tariff, including without limitation, any court judgment.
+
+(2) Who consist of a Party's auditors, legal advisers, insurers or Affiliates.
+
+(3) If the Party making such disclosure is under a legal or regulatory obligation to make such disclosure, but limited to the extent of such legal obligation.
+
+(4) With the prior written consent of the other Party not making the disclosure.
+
+(d) The Parties agree to submit to the jurisdiction of a court of competent jurisdiction located in Harris County, Texas for the purpose of any proceedings to enforce this Section 12.7 and, except as permitted under this Section 12.7(c), the receiving Party shall prevent any information, documents or materials belonging to a disclosing Party from being disclosed to third parties.
+
+ARTICLE XIII FINANCIAL ASSURANCES
+
+13.1 Financial Assurances. If Shipper has failed to pay any amount when due under this Agreement and if such non-payment is not being disputed in good faith by Shipper, Carrier shall have the right to request and receive from Shipper adequate assurance of performance ("Financial Assurance") which shall mean credit support in a form reasonably acceptable to Carrier and in an amount and for the term reasonably acceptable to Carrier. Any of the following shall be an acceptable form of credit support:
+
+  (a) An irrevocable standby letter of credit from a bank satisfactory to Carrier;   14
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+  (b) Provide a prepayment or a deposit in advance of the Month in which Services hereunder are to be provided; or
+
+  (c) A performance bond issued by a Person satisfactory to Carrier.
+
+If the credit of Shipper's guarantor is satisfactory in Carrier's opinion, a demand for Financial Assurance can be satisfied with a guarantee issued on behalf of Shipper in a form acceptable to Carrier, but only for as long as the credit of Shipper's guarantor continues to be acceptable to Carrier. Carrier acknowledges and agrees that Memorial Resource Development Corp. is a satisfactory guarantor.
+
+Should Shipper or its guarantor fail to provide Financial Assurance within ten (10) Business Days after receipt of written demand for such assurance, then Carrier shall have the right to suspend performance under this Agreement until such time as Shipper furnishes Financial Assurance. For the avoidance of doubt, such suspension of performance by Carrier shall not relieve Shipper of its obligation to make payments of amounts due hereunder, including, without limitation, payment of fees due hereunder.
+
+If during the Term, Carrier has failed to pay any amount when due under this Agreement and if such non-payment is not being disputed in good faith by Carrier, Shipper shall have the right to request and receive from Carrier adequate Financial Assurance under similar terms and conditions as described above, including the right to suspend performance under this Agreement until such time as Carrier furnishes Financial Assurance.
+
+ARTICLE XIV DUTY TO SUPPORT
+
+14.1 Arm's Length Negotiations. Each of the Parties acknowledges and agrees that this Agreement is the result of good faith, arm's length negotiations which have resulted in an agreement that is fair and equitable to Carrier and Shipper.
+
+14.2 Shipper Support. Shipper hereby agrees, upon written request by Carrier provided at least ten (10) days prior to the deadline for such action: (a) to not object to Carrier's applications for necessary certificates, approvals, authorizations and permits of the FERC and Louisiana regulating bodies, if any, in relation to the System; (b) to not object to the Tariff rates calculated in accordance with the terms of this Agreement, and not take any action directly or indirectly that could be interpreted as evidence of Shipper's lack of support for such Tariff rates; and (c) to not object to the pro forma Tariff materially in the form attached as Exhibit A, in any and all regulatory proceedings relating thereto and not take any action or inaction that could be interpreted as evidence of Shipper's lack of support therefor; provided that nothing in the foregoing shall obligate Shipper to support future changes to the Tariff rates that are inconsistent with this Agreement, or prevent Shipper from opposing any position taken by Carrier before FERC and/or Louisiana regulating bodies that is inconsistent with this Agreement.   15
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+14.3 No Tariff Rate Revision Proceedings. Each of the Parties further acknowledges that the setting of Tariff rates for the System is subject to the approval of, and potential modification by, the FERC, from time to time, and each of the Parties hereby agrees not to, directly or indirectly, commence or support any application, motion or other proceeding (a "Tariff Rate Revision Proceeding") before the FERC for the purpose of requesting the FERC to set tariff rates applicable to the System which are inconsistent with this Agreement.
+
+14.4 Third Party Proceedings. In the event of any Tariff Rate Revision Proceeding being commenced by a third party or by the FERC itself, and in the event of any other proceedings pursuant to which the Tariff rates for the System may be reviewed by the FERC or other Governmental Authority having jurisdiction, Shipper agrees to not object to the setting of Tariff rates applicable to the System that are consistent with this Agreement. In the event of any other proceedings challenging any of the terms of this Agreement being commenced by a third party or by the FERC itself, Shipper agrees to provide all reasonable support and cooperation in defending such terms or otherwise resolving the complaint or other challenge as shall be reasonably requested by Carrier.
+
+ARTICLE XV  COMMON CARRIER AND COMPLIANCE WITH APPLICABLE LAWS
+
+15.1 Common Carrier Pipeline. The System will be operated as a common carrier pipeline, and Shipper's rights hereunder shall be subject to all laws related to and governing the operation of common carrier pipelines, including, without limitation, laws and regulations that prevent discrimination in favor of any given shipper or the provision of service for consideration other than the rate set forth in a published tariff. The Tariff shall apply to the Services provided hereunder, and if there is a conflict between a provision of this Agreement and the Tariff, the Tariff shall apply. Carrier reserves the right to modify or amend the Tariff, in its sole discretion, as it deems necessary; provided, however, any such modification or amendment shall be consistent with this Agreement.
+
+15.2 Compliance with Laws. Both Parties shall, in carrying out the terms and provisions of this Agreement, abide by all present and future laws of any Governmental Authorities.
+
+ARTICLE XVI  ASSIGNMENT
+
+16.1 Restrictions on Assignment. This Agreement may not be assigned, disposed of, alienated or otherwise transferred by either Party, in whole or in part, without the prior written consent of the other Party, which consent shall not be unreasonably withheld, conditioned or delayed, except as provided below.
+
+16.2 Permitted Assignments. Notwithstanding the foregoing, (i) either Party may assign this Agreement to an Affiliate of such Party without the consent of the other Party, (ii) either Party may pledge this Agreement to secure any credit facility or indebtedness of such   16
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+Party or its Affiliates without the consent of the other Party, (iii) Carrier may assign this Agreement without Shipper's consent in connection with the sale or transfer of the System, and (iv) Shipper may assign or partially assign this Agreement without Carrier's consent in connection with the sale or transfer of all or part of Shipper's ownership interests in the wells (or in the lands upon which such wells are located) producing Gas from which the Product delivered hereunder is extracted, provided that such assignee has a credit rating reasonably acceptable to Carrier at the time of such sale or transfer. In the case of transfers under clause (iv) above, the transferor shall be released from its obligations and liabilities under this Agreement to the extent of the obligations assumed by the transferee, provided that Shipper's and such transferee's combined obligations to Carrier shall be no greater than Shipper's obligations to Carrier prior to such transfer.
+
+16.3 Collateral Assignments. Either Party may grant a lien or security interest in this Agreement to any Person as security in connection with arranging financing for such Party or any Affiliate of such Party (and each Party agrees to execute all consents, estoppels, waivers and other documents and instruments reasonable requested by any such Person).
+
+ARTICLE XVII TAXES
+
+Shipper shall pay, or cause to be paid, all production, severance, gross receipts, ad valorem, and similar Taxes, and all surcharges, levied or imposed on it by any Governmental Authority with respect to Shipper Product. In the event Carrier is required to pay or remit any such Tax or surcharge owed by Shipper, Shipper shall reimburse Carrier for such Tax or surcharge pursuant to Carrier's invoice for the same. Shipper hereby agrees to indemnify, defend and hold harmless Carrier from and against any and all claims and losses arising out of or related to such Taxes or surcharges. This indemnity and defense obligation shall survive the expiration or termination of this Agreement. Carrier shall be responsible for all Taxes or surcharges levied or imposed on it by any Governmental Authority with respect to the System and Carrier's other facilities, including without limitation, Carrier's gas processing plants.
+
+ARTICLE XVIII NOTICE AND STATEMENTS
+
+18.1 Notice. Any notice, statement, payment, claim or other communication required or permitted hereunder shall be in writing and shall be sent by: (i) facsimile transmission; (ii) delivered by hand; (iii) sent by United States mail with all postage fully prepaid; or (iv) by courier with charges paid in accordance with the customary arrangements established by such courier, in each of the foregoing cases addressed to the Party at the following addresses:
+
+Carrier NOTICES AND CORRESPONDENCE:
+
+PennTex North Louisiana Operating, LLC Attn: General Counsel 11931 Wickchester, Suite 300 Houston, Texas 77043 Fax: (832) 456-4050   17
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+ACCOUNTING MATTERS:
+
+PennTex North Louisiana Operating, LLC Attn: Vice President, Accounting 11931 Wickchester, Suite 300 Houston, Texas 77043 Fax: (832) 456-4050
+
+Shipper NOTICES AND CORRESPONDENCE:
+
+MRD Operating LLC c/o Memorial Resource Development Corp. 500 Dallas Street, Suite 1800 Houston, TX 77002 Attn: General Counsel E-mail: kroane@memorialrd.com
+
+with a copy to:
+
+Attn: Director, Marketing & Midstream E-mail: Jeremy.bolander@memorialrd.com
+
+Such notices, statements, payments, claims or other communications shall be deemed received as follows: (i) if delivered personally, upon delivery; (ii) if sent by United States mail, whether by express mail, registered mail, certified mail or regular mail, the day receipt is refused or is confirmed orally or in writing by the receiving Party; (iii) if sent by a courier service, upon delivery; or (iv) if sent by facsimile, upon completion of the transmission thereof, except that if such transmission is on any Day other than a Business Day, or on or after 4:00 p.m., Central Clock Time, such notice shall be deemed to be received on the next Business Day.
+
+18.2 Change of Address. Notices of change of address of either of the Parties shall be given in writing to the other Party in the manner aforesaid and shall be observed in the giving of all future notices, statements, payments, claims or other communications required or permitted to be given hereunder.   18
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+ARTICLE XIX MISCELLANEOUS
+
+19.1 Entire Agreement; Amendments. This Agreement and the Exhibits and Schedules hereto constitute the entire agreement and understanding between the Parties with respect to the subject matter hereof and thereof, supersede all prior agreements and understandings with respect thereto, and may be amended, restated or supplemented only by written agreement of the Parties. Notwithstanding the foregoing, the Tariff is subject to amendment by Carrier from time to time subject to Applicable Law and Section 15.1 hereof.
+
+19.2 Governing Law. This Agreement shall be governed and construed in accordance with the laws of the state of Texas without giving effect to the conflict of law rules thereof.
+
+19.3 No Drafting Presumption. No presumption will operate in favor of or against any Party as a result of any responsibility that any Party may have had for drafting this Agreement. Shipper and Carrier acknowledge and mutually agree that this Agreement and all contents herein were jointly prepared by the Parties.
+
+19.4 Waiver. No waiver of any term, provision or condition of this Agreement shall be effective unless in writing signed by the Parties, and no such waiver shall be deemed to be or construed as a further or continuing waiver of any such term, provision or condition or as a waiver of any other term, provision or condition of the Agreement, unless specifically so stated in such written waiver.
+
+19.5 No Third Party Beneficiaries. Except for Persons indemnified hereunder, this Agreement is not for the benefit of any third party and nothing herein, expressed or implied, confers any right or remedy upon any Person not a party hereto.
+
+19.6 No Partnership. It is not the intention of the Parties to create, nor is there created hereby, a partnership, trust, joint venture or association. The status of each Party hereunder is solely that of an independent contractor.
+
+19.7 Survival. Notwithstanding the termination of this Agreement for any reason, (a) ARTICLE VI, ARTICLE VIII, ARTICLE IX, ARTICLE X, ARTICLE XII, ARTICLE XIV, ARTICLE XVII, ARTICLE XVIII and ARTICLE XIX shall survive the termination of this Agreement, and (b) each Party to this Agreement will be liable for all of its accrued obligations hereunder up to and including the date on which the termination becomes effective.
+
+19.8 Headings. The headings and captions in this Agreement have been inserted for convenience of reference only and shall not define or limit any of the terms and provisions hereof.
+
+19.9 Rules of Construction. In construing this Agreement, the following principles shall be followed:
+
+(a) examples shall not be construed to limit, expressly or by implication, the matter they illustrate;   19
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+(b) the word "includes" and its syntactical variants mean "includes, but is not limited to" and corresponding syntactical variant expressions;
+
+(c) the plural shall be deemed to include the singular and vice versa, as applicable;
+
+(d) all references in this Agreement to an "ARTICLE," "Section," "subsection," or "Exhibit" shall be to an ARTICLE, Section, subsection, or Exhibit of this Agreement, unless the context requires otherwise;
+
+(e) unless the context otherwise requires, the words "this Agreement," "hereof," "hereunder," "herein," "hereby," or words of similar import shall refer to this Agreement as a whole and not to a particular ARTICLE, Section, subsection, clause or other subdivision hereof; and
+
+(f) each Exhibit and Schedule to this Agreement is attached hereto and incorporated herein as a part of this Agreement, but if there is any conflict or inconsistency between the main body of this Agreement and any Exhibit or Schedule, the provisions of the main body of this Agreement shall prevail, except as to any conflicts with the Tariff.
+
+19.10 Severability. If any provision of this Agreement shall be held to be invalid, illegal or unenforceable, (i) the validity, legality and/or enforceability of the remaining provisions shall not, in any way, be affected or impaired thereby and (ii) in lieu of such invalid, illegal or unenforceable provision, there shall be automatically added to this Agreement a provision as similar to such invalid, illegal or unenforceable provision as may be possible and be legal, valid and enforceable.
+
+19.11 Further Assurances. Each Party shall take such acts and execute and deliver such documents as may be reasonably required to effectuate the purposes of this Agreement.
+
+19.12 No Inducements. No director, employee, or agent of any Party shall give or receive any commission, fee, rebate, gift, or entertainment of significant cost or value in connection with this Agreement.
+
+19.13 Counterpart Execution. This Agreement may be executed in any number of counterparts, each of which shall be considered an original, and all of which shall be considered one and the same instrument. Neither Party shall be bound until both Parties have executed a counterpart. Facsimile or other electronic copies of signatures shall constitute original signatures for all purposes of this Agreement and any enforcement hereof.
+
+19.14 Confidentiality.
+
+(a) Each Party agrees that it shall maintain all terms and conditions of this Agreement in confidence, and that it shall not cause or permit disclosure thereof without the express written   20
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+consent of the other Party. The standard of care to be employed by each Party with respect to the other Party's confidential information shall be the standard of care employed by a reasonable person in protecting confidential information.
+
+(b) Permitted Disclosures. Notwithstanding Section 19.14(a) of this Agreement, disclosures of any terms and provisions of this Agreement otherwise prohibited may be made by a Party (i) to the extent necessary for such Party to enforce its rights hereunder against the other Party; (ii) to the extent to which a Party is required to disclose all or part of this Agreement by a statute or by the order or rule of a court, agency, or other governmental body exercising jurisdiction over the subject matter hereof, by order, by regulations, or by other compulsory process (including, but not limited to, deposition, subpoena, interrogatory, or request for production of documents); (iii) to the extent required by the applicable regulations of a securities or commodities exchange; (iv) to a third Person in connection with a proposed sale or other transfer of a Party's interest in this Agreement, provided such third Person agrees in writing to be bound by confidentiality terms no less restrictive than those set forth in this Section 19.14; (v) to its own directors, officers, employees, agents and representatives; (vi) to an Affiliate; (vii) to a co-working interest owner or royalty owner of Shipper Product delivered hereunder, provided such co-working interest owner or royalty owner agrees in writing to be bound by the terms of this Section 19.14; (viii) to the extent any such terms or provisions become public information through no fault of any Party; or (ix) to a bank or other financial institution, and their agents and representatives, in connection with a Party arranging for funding.
+
+(c) Notification. If a Party is or becomes aware of a fact, obligation, or circumstance that has resulted or may result in a disclosure of any of the terms and conditions of this Agreement authorized by Section 19.14(b) (ii), (iii) or (iv) above, it shall so notify in writing the other Party promptly and shall provide documentation or an explanation of such disclosure as soon as it is available.
+
+(d) Party Responsibility. Each Party shall be deemed solely responsible and liable for the actions of its directors, officers, employees, agents, representatives and Affiliates for maintaining the confidentiality commitments of this Section 19.14.
+
+(e) Public Announcements. The Parties agree that prior to making any public announcement or statement with respect to this Agreement or the transaction represented herein, the Party desiring to make such public announcement or statement shall provide the other Party with a copy of the proposed announcement or statement prior to the intended release date of such announcement. The other Party shall thereafter consult with the Party desiring to make the release, and the Parties shall exercise their reasonable best efforts to (i) agree upon the text of a joint public announcement or statement to be made by both such Parties or (ii) in the case of a statement to be made solely by one Party, obtain approval of the other Party to the text of a public announcement or statement. Nothing contained in this Section 19.14 shall be construed to require any Party to obtain approval of any other Party to disclose information with respect to this Agreement or the transaction represented herein to any Governmental Authority to the extent required by applicable law or necessary to comply with disclosure requirements of the Securities and Exchange Commission, New York Stock Exchange, NASDAQ Stock Market, or any other regulated stock exchange.   21
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+[Signature page follows]   22
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement to be effective as of the Effective Date.   CARRIER:
+
+PennTex North Louisiana Operating, LLC
+
+By: /s/ Robert O. Bond
+
+Name: Robert O. Bond
+
+Title: Chief Operating Officer
+
+SHIPPER:
+
+MRD Operating LLC
+
+By: Memorial Resource Development Corp., its sole member
+
+By: /s/ Kyle Roane
+
+Name: Kyle N. Roane
+
+Title: Senior Vice President   Signature page to the Transportation Services Agreement (MRD Operating LLC)
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+EXHIBIT A
+
+TARIFF
+
+(See Attached)
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+FERC ICA OIL TARIFF F.E.R.C. No. 1.0.0
+
+[PennTex North Louisiana Operating, LLC]
+
+LOCAL TARIFF
+
+CONTAINING RATES, RULES, AND REGULATIONS GOVERNING THE TRANSPORTATION OF NATURAL GAS LIQUIDS BY PIPELINE
+
+The provisions published herein will, if effective, not result in an effect on the quality of human environment.
+
+Filed in compliance with 18 C.F.R. § 342.2(a) (Establishing initial rates).
+
+Request for Special Permission
+
+Issued on [ ( )] day's notice under authority of 18 C.F.R. § 341.14. This tariff publication is subject to refund pending a 30-day review period.]   ISSUE DATE: [ ], 2015 EFFECTIVE DATE: [ ], 2015     Issued and Compiled by: [Contact name] [PennTex North Louisiana LLC] 11931 Wickchester Lane, Suite 300 Houston, TX 77043 [phone] [facsimile]
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+FERC ICA OIL TARIFF F.E.R.C. No. 1.0.0   TABLE OF CONTENTS   SECTION I TABLE OF RATES   3
+
+SECTION II RULES AND REGULATIONS   4
+
+1. DEFINITIONS   4  2. COMMODITY   5  3. PRODUCT SPECIFICATIONS   5  4. IDENTITY OF PRODUCTS   7  5. NOMINATIONS AND SCHEDULING   7  6. NOMINATIONS IN EXCESS OF CAPACITY   8  7. MINIMUM TENDER   9  8. MEASUREMENT AND EVIDENCE OF RECEIPTS AND DELIVERIES   9  9. ORIGINATION FACILITIES  10  10. STORAGE OF PRODUCTS IN TRANSIT  10  11. DESTINATION FACILITIES  10  12. NOTICE OF ARRIVAL, DELIVERY AT DESTINATION  10  13. TITLE  11  14. RATES APPLICABLE  11  15. RATES APPLICABLE FROM INTERMEDIATE POINTS  11  16. PAYMENT OF TRANSPORTATION CHARGES  11  17. LIABILITY OF CARRIER  14  18. CLAIMS, SUITS, AND TIME FOR FILING  14  19. CONNECTION POLICY  14  20. COMMON STREAM - CONNECTING CARRIERS  14  21. DEDICATED RATES  15  22. INCENTIVE RATES  15    2
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+FERC ICA OIL TARIFF   F.E.R.C. No. 1.0.0   SECTION I TABLE OF RATES
+
+Uncommitted Rates
+
+From [Note 1]   To [Note 2]
+
+Uncommitted Rate in Dollars per Barrel of 42 U.S. Gallons   Lincoln Parish, Louisiana
+
+
+
+Interconnection near Ada, Bienville Parish, Louisiana   $ 1.85
+
+Dedicated Rates [Note 3]
+
+From [Note 1]   To [Note 2]
+
+Dedicated Rate in Dollars per Barrel of 42 U.S. Gallons   Lincoln Parish, Louisiana
+
+
+
+Interconnection near Ada, Bienville Parish, Louisiana   $ 1.68
+
+Incentive Rates [Note 4]
+
+From [Note 1]   To [Note 2]
+
+Monthly Volume in Barrels Per Day
+
+Incentive Rate in Dollars per Barrel of 42 U.S. Gallons   Lincoln Parish, Louisiana
+
+
+
+Interconnection near Ada, Bienville Parish, Louisiana   0 - 2,500 2,501 or greater   $ $ 1.68 1.47
+
+Note 1: The receipt points are the PennTex processing plants in Lincoln Parish, Louisiana.
+
+Note 2: The delivery point is the interconnection with Black Lake Pipeline Company near Ada, Bienville Parish, Louisiana.
+
+Note 3: Dedicated Rates are applicable to a Dedicated Shipper as provided for in Item 21 of this Tariff.
+
+Note 4: Incentive Rates are applicable to an Incentive Shipper as provided for in Item 22 of this Tariff.   3
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+FERC ICA OIL TARIFF F.E.R.C. No. 1.0.0   SECTION II RULES AND REGULATIONS   1. DEFINITIONS:
+
+"Barrel" means a barrel of forty-two (42) gallons, United States measurement at sixty (60) degrees Fahrenheit and zero (0) pounds per square inch gauge pressure.
+
+"Business Day" means Monday through Friday of each week, excluding banking holidays.
+
+"Carrier" means [PennTex North Louisiana Operating, LLC], a Delaware limited liability company.
+
+"Committed Volume" means the volume of Product that an Incentive Shipper has committed to be transported on the System, or make a deficiency payment in connection therewith, for a number of years as mutually agreed upon in the Incentive Shipper's TSA.
+
+"Common Stream(s)" means Product moved through the System that is commingled or intermixed with other Product in the System.
+
+"Consignee" means the party to whom a Shipper has ordered the delivery of Product.
+
+"Dedicated Product" means Product that a Dedicated Shipper has dedicated to be transported on the System but as to which Shipper has no obligation to make a deficiency payment, as mutually agreed upon in the Dedicated Shipper's TSA.
+
+"Dedicated Rates" means the rates set out in Section I of this Tariff paid by a Dedicated Shipper pursuant to a TSA that has Dedicated Product.
+
+"Dedicated Shipper" has the meaning set out in Item No. 21 of this Tariff.
+
+"Delivery Point" means points on the System where Product is delivered to Shipper or its Consignee, as such points are specified by Carrier from time to time in this Tariff.
+
+"Incentive Rates" means the rates set out in Section I of this Tariff paid by an Incentive Shipper pursuant to a TSA that has a Committed Volume.
+
+"Incentive Shipper" has the meaning set out in Item No. 21 of this Tariff.
+
+"Nomination" or "Nominate" means a written offer (in form and context specified by Carrier) made by a Shipper or its designee to Carrier of a stated quantity of Product for transportation from a specified Receipt Point to a specified Delivery Point in accordance with this Tariff.
+
+"Product(s)" means a demethanized mixture of natural gas liquids comprised primarily of ethane, propane, iso-butane, normal butane, iso- pentane, normal pentane, hexanes and heavier hydrocarbons, incidental volumes of methane, as well as other non-hydrocarbon compounds.
+
+"Receipt Point" means points where Product is received into the System, as such points are specified by Carrier from time to time in this Tariff.
+
+"Shipper" means the party that contracts with Carrier for transportation of Products on the System in accordance with this Tariff.   4
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+FERC ICA OIL TARIFF F.E.R.C. No. 1.0.0   "System" means Carrier's pipeline system and all related facilities necessary for Carrier to provide transportation service from the Receipt Points to the Delivery Points.
+
+"Tariff" means Carrier's F.E.R.C. Tariff No. 1.0.0 or subsequent reissues thereof.
+
+"Tender" or "Tendered" means an offer of delivery by a Shipper to Carrier of a stated quantity of Products for transportation from a specified Receipt Point to a specified Delivery Point in accordance with this Tariff.
+
+"TSA" means a Transportation Services Agreement executed by Carrier and a Shipper for transportation on the System.
+
+"Uncommitted Rate" means the rate set out in Section I of this Tariff paid by a Shipper that is not an Incentive Shipper or a Dedicated Shipper.
+
+  2. COMMODITY:
+
+Carrier is engaged in the transportation of Product as defined herein and therefore will not accept any other commodity for transportation under this Tariff.
+
+  3. PRODUCT SPECIFICATIONS:
+
+Subject to any provisions to the contrary in a TSA between Carrier and Shipper:
+
+  A. Shipper shall not Tender Product for transportation on the System unless the Product will be readily susceptible to transportation through the System, such Product will not adversely damage the Common Stream or the System, and such Product otherwise conforms to the specifications set forth in this Item No. 3.
+
+  B. As a prerequisite to transportation on the System, Shipper's Product must also conform to the quality specifications of the connectingcarrier or facility at the Nominated Delivery Point.
+
+
+
+C. Shipper shall perform applicable tests to ensure that the Product it Tenders to Carrier for delivery on the System conforms to the specifications set forth in this Item No. 3. Should spot samples, analyses, or any other test (including tests performed by Carrier) indicate that the Product Tendered or to be Tendered does not meet the specifications required by Carrier, Shipper agrees to stop delivery of such off-specification Product to Carrier until such time as it is determined by additional testing that the Product meets the definition of Product issued by Carrier.   5
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+FERC ICA OIL TARIFF   F.E.R.C. No. 1.0.0
+
+  D. The specifications set forth in this Item No. 3 shall apply to each Barrel of Shipper's Tender and shall not be limited to the compositesample of the Tender.       PRODUCT SPECIFICATIONS   MAXIMUM   TEST METHOD
+
+1.  Composition:       Predominantly Ethane, Propane,       Butanes & Natural Gasoline     ASTM D-2163   (C5 Plus)       Methane   1.5% of Ethane1   ASTM D-2163   Total Olefins   None   ASTM D-2163   Total Fluorides   None   UOP 619
+
+2.  Vapor Pressure:       At 100°F. PSIG   600   ASTM D-1267
+
+3.  Corrosiveness:       Copper Strip at 100°F   1-b   ASTM D-1838
+
+4.  Total Sulfur:       PPM by Weight in Liquid   150   ASTM D-3246
+
+5.  Carbon Dioxide:       PPM by Weight   1000   GPA 2177
+
+6.  Distillation:       End Point, °F   375   ASTM D-216
+
+7.  Dryness:       Free Water   None   Visual
+
+8.  Color:       Saybolt Number   Plus 25 (Minimum)   ASTM D-156
+
+
+
+E. Carrier reserves the right to reject all Tenders or any part thereof and refuse transportation for such Tender, if Carrier determines, in its discretion, reasonably exercised, that Shipper has delivered Product that (i) does not conform to the quality specifications set forth in this Item No. 3, (ii) is not merchantable, (iii) is not readily acceptable for transportation through the System, (iv) would otherwise adversely affect the System or other Products on the System, and/or (v) would, in Carrier's sole judgment, expose employees of Carrier or the System to an undue risk of harm or property damage.
+
+  F. In the event Shipper delivers Product to the System that does not meet, individually and collectively, the quality specifications set forth in this Item No. 3, Carrier may exclude such Shipper from further entry into applicable segments of the System until such time as the Shipper returns the quality of its Product to a level satisfactory to Carrier.   1  Methane in excess of limits stated herein, as measured on each Shipper's individual plant stream, shall be considered as contaminant and product so contaminated will not be received by Carrier. However, it is recognized that product so contaminated may be received by Carrier without Carrier's knowledge. During any period in which Shipper's product exceeds the specification, at Carrier's option, Carrier shall have the right to deduct the methane content in excess of the specification from Shipper's desired volume, but Shipper will nevertheless be required to pay the tariff rate on total volume of methane shipped.   6
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+FERC ICA OIL TARIFF F.E.R.C. No. 1.0.0
+
+
+
+G. Carrier is not responsible for monitoring receipts or deliveries for contaminants. Further, Carrier reserves the right to dispose of any contaminated Product on the System. Disposal thereof may be made in any reasonable manner including but not limited to commercial sales. Any liability associated with the contamination or disposal of any Products shall be borne by Shipper introducing the contaminated Products into the System. Shipper liability includes, but is not limited to, claims from other Shippers, carriers, or users of the contaminated Products and the costs of any regulatory or judicial proceeding.
+
+
+
+H. If Product received by Carrier does not meet the quality specifications set forth in this Item No. 3, Carrier reserves the right to charge the Shipper the greater of (i) the actual costs and expenses incurred by Carrier to treat, handle, or otherwise dispose of all such contaminated Product, or (ii) a one-hundred (100) cents per Barrel charge for the volume of contaminated Product transported by Shipper ("Off-Spec Penalty"). If a composite sample, spot sample, or the results of any other test demonstrates that a Shipper's Product delivered to Carrier fails to meet the quality specifications set forth in this Item No. 3, the total penalty will be assessed by multiplying the Off-Spec Penalty by the total volume of Shipper's Product (in barrels) received by Carrier during the ticket period when Carrier received the contaminated Product.
+
+  4. IDENTITY OF PRODUCTS:
+
+Subject to any provisions to the contrary in a TSA between Carrier and Shipper:
+
+  A. Carrier shall not be liable to Shipper for changes in gravity or quality of Shipper's Products that may occur from commingling or intermixing Shipper's Products with other Products in the same Common Stream while in transit. Carrier is not obligated to deliver to Shipper the identical Product nominated by Shipper; Carrier will deliver the Product it is regularly transporting as a Common Stream.
+
+  B. Carrier shall have no responsibility in, or for, any revaluation or settlements that may be deemed appropriate by Shippers and/or Consignees because of mixing or commingling of Products between the receipt and delivery of such shipments by Carrier within the same Common Stream.
+
+  C. Carrier shall not be required to transport Product except with reasonable diligence, considering the quality of the Product, the distanceof transportation and other material elements. Carrier cannot commit to delivering Product to a particular destination, at a particular time.
+
+  5. NOMINATIONS AND SCHEDULING:
+
+
+
+A. Product for shipment through the System will be received only on a properly executed Nomination from Shipper or its designee showing the Receipt Point at which the Product is to be received, the Delivery Point of the shipment, Consignee (if any), and the amount of Product to be transported. Carrier may refuse to accept Product for transportation unless satisfactory evidence is furnished that Shipper or Consignee has made provision for prompt receipt thereof at the Delivery Point. Carrier shall not be obligated to accept Product for transportation during any calendar month, unless Shipper or its designee makes such Nomination to Carrier in writing on or before 9:00 a.m., prevailing Central Time of the tenth (10t h) Business Day immediately preceding the first day of the month during which the transportation under the Nomination is to begin.   7
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+FERC ICA OIL TARIFF F.E.R.C. No. 1.0.0
+
+  B. Carrier may refuse to accept Product for transportation where Shipper or Consignee is not in compliance with other provisions of this Tariff or where Shipper or Consignee has failed to comply with all applicable laws, rules and regulations made by any governmental authorities regulating shipments of Products.
+
+  C. Unless Shipper and Carrier have agreed otherwise in a TSA, Carrier reserves the right to control in its discretion the component distribution in the Product tendered by Shipper or its designee, in order to achieve maximum operating efficiency of Carrier's facilities and optimum utilization of total transportation capacity. Carrier shall use reasonable judgment in exercising that discretion.
+
+
+
+D. The rate at which Product is delivered to Carrier and redelivered from Carrier will be determined by Carrier's transportation and redelivery obligations to its shippers and by the necessity of economical use and efficient operation of Carrier's facilities, which shall be determined by Carrier in the exercise of its reasonable judgment. Carrier will assume no liability for its inability to maintain schedules or comply with Shipper's redelivery requests when caused by operational or scheduling problems, excess demand, delays and other problems encountered in pipeline operations.
+
+  6. NOMINATIONS IN EXCESS OF CAPACITY:
+
+When there is offered to Carrier quantities of Product greater than can be transported on the System, Carrier shall allocate the available transportation capacity on the System ("Available Capacity"). Allocation will be given as a daily or monthly volume, at Carrier's discretion, and will be calculated for the calendar month.
+
+New Shippers will have access to a minimum of ten percent (10%) of the Available Capacity and Historical Shippers will have access to a maximum of ninety percent (90%) of the Available Capacity.
+
+Carrier shall allocate up to ninety percent (90%) of the Available Capacity on a non-discriminatory historical basis to all Historical Shippers. Each individual Historical Shipper's entitlement will be based on (i) the average monthly volumes of the Historical Shipper's Representative Period, based on the greater of the volumes transported or paid for during each month of the Representative Period or (ii) for an Incentive Shipper, based on the Incentive Shipper's Committed Volume on a yearly basis.
+
+The remaining ten percent (10%) of the Available Capacity shall be allocated on a prorata basis to New Shippers. Carrier is not required to allocate more than two percent (2%) of the Available Capacity to any individual New Shipper.
+
+The Carrier will repeat this allocation process until all of the Available Capacity has been allocated.
+
+Allocation will not be transferred. With agreement of the Shippers concerned, historical volume will be transferred under the following conditions:
+
+  •   No commercial transaction occurs between the participating shippers with regard to historical volumes.
+
+  •   The transfer is irrevocable.
+
+  •   The request to transfer must be the result of an unusual situation as may be reasonably determined by Carrier.   8
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+FERC ICA OIL TARIFF F.E.R.C. No. 1.0.0   For the purposes of this Item No. 6:
+
+  •   "New Shipper" means a Shipper that is not a Historical Shipper.
+
+  •   "Historical Shipper" means a Shipper that has shipped, or paid for the shipment of, Product on the System during theRepresentative Period.
+
+  •   "Representative Period" means a consecutive twelve (12) month period, beginning thirteen (13) months prior to the month beingallocated and excluding the month preceding the month of allocation.
+
+  7. MINIMUM TENDER:
+
+Products of the required specifications shall be Tendered for transportation in quantities of not less than 2,500 Barrels of the same specification, except that Carrier may, in its sole discretion, accept any quantity of Product if such quantity can be consolidated with other Product such that Carrier can make a single delivery of not less than 2,500 Barrels. The term "single delivery" as used herein means a delivery of Product in one continuous operation to one or more Consignees into a single facility, furnished by such Consignee or Consignees, to which Carrier is connected.
+
+  8. MEASUREMENT AND EVIDENCE OF RECEIPTS AND DELIVERIES:
+
+
+
+A. Carrier or its representative will measure and test all Product Tendered for transportation prior to its receipt and may measure and test such Product at any time thereafter. Shipper or Consignee may be present or represented at the gauging and testing. Quantities shall be determined in accordance with applicable A.P.I. Manual of Petroleum Measurement Standards and applicable Gas Processors Association procedures.
+
+
+
+B. Any overage or shortage not due to the negligence of Carrier, including losses resulting from shrinkage, evaporation, other physical Product loss and interface mixture in any calendar month, will be allocated on a monthly accrual basis among Shippers in the proportion that the total number of Barrels delivered from the entire System for each Shipper bears to the total number of Barrels delivered from the entire System for all Shippers.
+
+
+
+C. Carrier may require Shipper to furnish a certificate setting forth in detail the specification of each shipment of Product offered for transportation hereunder, and Shipper shall be liable for any contamination or damage to other Product in Carrier's custody or to the System or other Carrier facilities caused by failure of the Product Tendered to meet the specifications stated in Shipper's certification. Carrier may, but shall not be required to, sample and/or test any shipment prior to acceptance or during receipt of shipment, and, in the event of variance between the specifications contained in said certificate and the specifications indicated by Carrier's test, Carrier's test result shall prevail and be used to determine whether the shipment meets Carrier's specifications. Shipper or Consignee may be present or represented at such measuring and testing.
+
+  D. A representative of Carrier shall have the right to enter upon the premises where Shipper's Product is received or delivered and have access to any and all storage receptacles or meters for the purposes of measuring and testing and to make any examination, inspection, measurement or test required.
+
+  E. All measurements and tests performed by Carrier shall be deemed final and determinative unless Shipper presents appropriatedocumentation to contest such measurements and/or tests within forty-five (45) days of receipt.   9
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+FERC ICA OIL TARIFF F.E.R.C. No. 1.0.0   9. ORIGINATION FACILITIES:
+
+With respect to the Receipt Point, and any additional Receipt Points (if Carrier determines that it will offer connections beyond those contemplated in this Tariff): (1) Products will be received only from pipelines or plant facilities that are provided by Shipper or Shipper's designee, or a connecting carrier; (2) Carrier will determine and advise Shippers of the size and capacity of pipelines and tanks to be provided at the Receipt Point to meet the operating conditions of Carrier's facilities at such point; (3) Carrier will not accept Products for transportation unless such facilities have been provided and conform to the operating requirements of Carrier in Carrier's sole discretion; and (4) The cost of such facilities shall be provided at the sole cost of Shipper seeking access to the System.
+
+  10. STORAGE OF PRODUCTS IN TRANSIT:
+
+Carrier is under no obligation to provide storage.
+
+  11. DESTINATION FACILITIES:
+
+Carrier will accept Products for transportation only when Shipper or Consignee has provided the necessary facilities for taking delivery of the shipment as it arrives at the Delivery Point. Carrier will not accept Product for transportation unless such facilities have been provided and conform to the operating requirements of Carrier in Carrier's sole discretion. Unless otherwise agreed in a TSA between Carrier and Shipper, the cost of such facilities shall be provided at the sole cost of Shipper seeking access to the System.
+
+  12. NOTICE OF ARRIVAL, DELIVERY AT DESTINATION:
+
+After a shipment has had time to arrive at destination, Carrier may begin delivery of such shipment from its common stock to Shipper or Consignee at Carrier's current rate of pumping. Shipper shall timely remove Product, or cause Product to be removed, from the System following transportation to a Nominated Delivery Point. If Shipper or Consignee is unable or refuses to receive said shipment, a demurrage charge of one dollar ($1.00) per Barrel per twenty-four (24) hours shall accrue from the time said notice expires on that part of such shipment which is not received by Shipper or Consignee. In addition to such demurrage charge, Carrier shall have the right to make such disposition of unremoved Product as is necessary for the efficient operation of the System, and Shipper shall pay Carrier all charges associated with such disposition the same as if Shipper had authorized such, together with any associated additional costs and damages borne or incurred by Carrier. Shipper shall indemnify Carrier for all losses associated with unremoved Product and Carrier's disposition of unremoved Product. Carrier shall have no liability to Shipper associated with Shipper's unremoved Product or Carrier's disposition of unremoved Product.
+
+  13. TITLE:
+
+Carrier may require of Shipper satisfactory evidence of its perfected and unencumbered title of any Product Tendered for shipment on the System. Carrier shall have the right to reject any Product, when Tendered for transportation, that may be involved in litigation, the title of which may be in dispute, or which may be encumbered by a lien or charge of any kind (other than the lien created hereunder in favor of Carrier and any liens permitted under a TSA between Carrier and Shipper).
+
+At the time of Nomination, Shipper shall inform Carrier if any Product Nominated and/or to be Tendered to Carrier for transportation (i) may be involved in litigation, (ii) may be subject to a title dispute, or (iii) may be encumbered by a lien or charge of any kind (other than the lien created hereunder in favor of Carrier and any liens permitted under a TSA between   10
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+FERC ICA OIL TARIFF F.E.R.C. No. 1.0.0   Carrier and Shipper) ("Encumbered Product"). In the event Carrier receives such Shipper notice of Encumbered Product or otherwise learns that Shipper has or will Nominate or Tender Encumbered Product, Carrier may require Shipper to provide a satisfactory indemnity bond, pre- payment of transportation charges, or a subordination agreement from the applicable lienholder, all to be determined in Carrier's sole discretion. Shipper agrees to hold Carrier harmless for any and all loss, cost, liability, damage and/or expense resulting from failure of title thereto; provided that acceptance for transportation shall not be deemed a representation by Carrier as to title.
+
+  14. RATES APPLICABLE:
+
+Product accepted for transportation shall be subject to the rates in effect on the date of receipt by Carrier, irrespective of the date of the Nomination.
+
+  15. RATES APPLICABLE FROM INTERMEDIATE POINTS:
+
+For shipments accepted for transportation from any point not named in this Tariff making reference hereto which is intermediate to a point from which rates are published in said tariffs, through such unnamed point, the rate published therein from the next more distant Receipt Point specified in the tariff will apply from such unnamed point. For shipments accepted for transportation to any point not named in tariffs making reference hereto which is intermediate to a point to which rates are published in said tariffs, through such unnamed point, the rate published therein to the next more distant Delivery Point specified in the tariff will apply. Continuous use of intermediate point rate application for more than thirty (30) days requires establishment of a rate for the transportation service.
+
+  16. PAYMENT OF TRANSPORTATION CHARGES:
+
+Subject to any provisions to the contrary in a TSA between Carrier and Shipper:
+
+  A. Shipper or Consignee shall pay, as provided below, all applicable transportation and other charges (including any deficiency paymentsset out in a TSA) accruing on Products handled by Carrier.
+
+  B. All payments are due on the later of: (1) within fifteen (15) days of receipt of the invoice; (2) the twenty-seventh (27th) of the month following receipt of the invoice, or; (3) if the twenty-seventh (27th) of the month following receipt of the invoice is not a Business Day, on the next Business Day thereafter.
+
+
+
+C. Unless provided otherwise in a TSA between Carrier and Shipper, if any charge remains unpaid after the due date, then such amount due may bear interest from the day after the due date until paid, calculated at an annual rate equivalent to the greater of (1) one percent (1%) or (2) the maximum rate allowed by law. In addition, Shipper shall pay all documented costs incurred by Carrier to collect any unpaid amounts, including reasonable attorney fees and costs incurred by Carrier.
+
+
+
+D. In the event Shipper fails to pay any such charges when due, Carrier shall not be obligated to provide Shipper access to the System or provide services pursuant to this Tariff until such time as payment is received by Carrier and Shipper meets the requirements of the following paragraph. In addition, in the event Shipper fails to pay any such charges when due, Carrier shall have the right to set off such amounts owed and future amounts owed against any amounts Carrier owes Shipper.   11
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+FERC ICA OIL TARIFF F.E.R.C. No. 1.0.0
+
+
+
+E. All prospective shippers shall, twenty-five (25) days prior to making their first Nomination, provide information to Carrier that will allow Carrier to determine the prospective shipper's capacity to perform any financial obligations that could arise from the transportation of that prospective shipper's Product under the terms of this Tariff, including the payment of transportation charges, equalization obligations, the value of any loss allowance, and any negative balance positions. At any time, upon the request of Carrier, Shipper shall, within ten (10) days of such request, provide information to Carrier that will allow Carrier to determine Shipper's capacity to perform any financial obligations that could arise from the transportation of that Shipper's Product under the terms of this Tariff, including the payment of transportation charges, equalization obligations, the value of any loss allowance, and any negative Shipper balance positions. Carrier shall not be obligated to accept Product for transportation from any Shipper or prospective shipper if such Shipper or prospective shipper fails to provide the requested information to Carrier within the time periods set forth herein, or if Carrier's review of the requested information reveals that such Shipper or prospective shipper does not have the capacity to perform any financial obligations that could arise from the transportation of its Product under the terms of this Tariff, including the payment of transportation charges, equalization obligations, the reasonably determined value of any loss allowance, and any negative balance positions.
+
+  F. Subject to the provisions of Item No. 16(G), Carrier upon notice to Shipper or prospective shipper, may require one or more of the following financial assurances for the payment of all charges and costs as provided for in this Tariff, or otherwise lawfully due to Carrier to be provided at the expense of such Shipper or prospective shipper:
+
+
+
+i. payment security by wire transfer in an amount equal to two and a half months of transportation charges based on Shipper's or prospective shipper's likely actual shipments for the production month for each applicable line segment. For purposes of this rule, a prospective shipper's likely actual shipments will be based on the anticipated shipments listed in such prospective shipper's shipper application; or
+
+  ii. a letter of credit in favor of Carrier in an amount sufficient to ensure payment of all costs and charges that could reasonablyaccrue due to Carrier in a form and from an institution acceptable to Carrier; or
+
+  iii. a guaranty from a guarantor acceptable to Carrier.
+
+
+
+G. In the event that Carrier reasonably determines that: (i) any Shipper's financial condition is or has become impaired or unsatisfactory; (ii) any financial assurances previously provided by Shipper no longer provide adequate security for the performance of such Shipper's obligations that could arise from the transportation of its Product under the terms of this Tariff; or (iii) Carrier otherwise determines that it is necessary to obtain financial assurances from any Shipper or prospective shipper, then such Shipper or prospective shipper shall provide financial assurances for the payment of the charges and costs as provided for in this Tariff or otherwise lawfully due to Carrier relating to the transportation of such Shipper's or prospective shipper's Product by Carrier. For the purpose of this Tariff, and without limiting the generality of the charges and costs lawfully due to Carrier relating to the transportation of Shipper's Product, those charges and costs shall include transportation charges, equalization obligations, any negative Shipper balance positions, and any loss allowance.   12
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+FERC ICA OIL TARIFF F.E.R.C. No. 1.0.0
+
+
+
+H. Any financial assurances received by Carrier in accordance with Item No. 16(F)(i) shall be retained by Carrier in a non-interest-bearing escrow account until such time as Carrier determines that the Shipper or prospective shipper that provided such Financial Assurance is capable of performing its financial obligations to Carrier. Within ten (10) business days of such a determination by Carrier, the Financial Assurance provided in accordance with Item No. 16(F)(i) shall be returned to such Shipper or prospective shipper.
+
+
+
+I. Carrier shall have a self-executing lien on all Products delivered to Carrier to secure the payment of any and all charges that are owed to Carrier. Such lien shall survive delivery of Products to Shipper. Such lien shall extend to all Products in Carrier's possession beginning with Shipper's first receipt of transportation or other services from Carrier. The lien provided herein shall be in addition to any lien or security interest provided by this Tariff, statute or applicable law. Carrier may withhold delivery to Shipper of any of Shipper's Products in its possession and exercise any other rights and remedies granted under the applicable tariffs or existing under applicable law until all such charges have been paid as provided above.
+
+
+
+J. If Shipper fails to pay an invoice by the due date, Carrier will notify Shipper of the failure, and if Shipper has not remedied the failure within thirty (30) days following receipt of notice from Carrier, in addition to any other remedies under this Tariff or under applicable law, Carrier shall have the right, either directly or through an agent, to sell any Products of such Shipper in Carrier's custody at public auction, on any day not a legal holiday, not less than forty-eight (48) hours after publication of notice of such sale in a daily newspaper of general circulation published in the town, city, or general area where the sale is to be held, stating the time and place of sale and the quantity and location of the Products to be sold. At said sale, Carrier shall have the right to bid, and, if it is the highest bidder, to become the purchaser. The proceeds of any sale shall be applied in the following order: (1) To the reasonable expenses of holding, preparing for sale, selling, and to the extent allowed by law, reasonable attorney's fees and legal expenses incurred by Carrier; and (2) To the satisfaction of Shipper's indebtedness including interest herein provided from the date payment is due. The balance of the proceeds of the sale remaining, if any, shall be paid to Shipper or, if there is a dispute or claim as to entitlement, held for whoever may be lawfully entitled thereto. Carrier will have a claim for and against Shipper with respect to any deficiency arising from the debt due to Carrier from Shipper and the proceeds of any sale after reduction as set forth above.
+
+  17. LIABILITY OF CARRIER:
+
+Carrier shall not be liable for, and Shipper hereby waives any claims against Carrier for, any loss or damage to Products prior to the delivery of Products at the Receipt Point(s) and after delivery of Products at the Delivery Point(s).
+
+  18. CLAIMS, SUITS, AND TIME FOR FILING:
+
+As a condition precedent to recovery by Shipper for loss, damage, or delay in receipt or delivery of Shipper's Products for which Carrier may be responsible, Shipper's claim must be filed in writing with Carrier within nine (9) months after delivery of the affected Products, or, in case of Carrier's failure to make delivery of Shipper's Products, then within nine (9) months after a reasonable time for delivery has elapsed; and suits shall be instituted against Carrier only within two (2) years and one (1) day from the day when notice in writing is given by Carrier to Shipper that Carrier has disallowed the claim or any part or parts thereof specified in the notice. Where claims are not filed or suits are not instituted by Shipper on such claims in accordance with the foregoing provisions, such claims will not be paid and Carrier will not be liable.   13
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+FERC ICA OIL TARIFF F.E.R.C. No. 1.0.0   19. CONNECTION POLICY:
+
+If Carrier determines that it will offer connection service, this Item No. 19 shall apply. In that event, (1) Carrier will only consider connections to the System that are made by formal written application to Carrier, in accordance with Carrier's connection policy; (2) All connections will be subject to design requirements necessary to protect the safety, security, integrity and efficient operation of the System in accordance with generally accepted industry standards; and (3) Acceptance of any request for connection will be within the sole discretion of Carrier and will be subject to compliance with governmental regulations.
+
+  20. COMMON STREAM - CONNECTING CARRIERS:
+
+
+
+A. When receipts from and/or deliveries to a connecting carrier of substantially the same grade of Product are scheduled at the same interconnection or at interconnections along the same pipeline system, Carrier reserves the right, with cooperation of the connecting carrier, to offset like volumes of such Common Stream Product in order to avoid capacity constraints or the unnecessary use of energy which would be required to physically pump the offsetting volumes. When this right is exercised, Carrier will make the further deliveries for Shipper involved from its Common Stream Product.
+
+  B. Sediment, water and quality limitations of a connecting carrier may be imposed upon Carrier. When such limitations of the connectingcarrier vary from that of Carrier, the limitations of the connecting carrier will be enforced.
+
+  21. DEDICATED RATES
+
+A shipper who has executed a TSA that has Dedicated Product shall be referred to herein as a "Dedicated Shipper." As provided in its TSA, a Dedicated Shipper shall be entitled to the applicable Dedicated Rate set out in Section I of this Tariff. A Shipper that is not an Incentive Shipper or Dedicated Shipper shall pay the applicable Uncommitted Rate set out in Section I of this Tariff.
+
+  22. INCENTIVE RATES
+
+A shipper who has executed a TSA that has a Committed Volume shall be referred to herein as an "Incentive Shipper." As provided in its TSA, an Incentive Shipper shall be entitled to the applicable Incentive Rate set out in Section I of this Tariff. A Shipper that is not an Incentive Shipper or Dedicated Shipper shall pay the applicable Uncommitted Rate set out in Section I of this Tariff.   14
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+EXHIBIT B
+
+COMMENCEMENT DATE FACILITIES
+
+Pipeline Facilities
+
+  •   27 miles of 10" pipeline between the Lincoln Parish Plant and the Delivery Point
+
+Delivery Point
+
+  •   DCP Black Lake Pipeline
+
+Receipt Point
+
+  •   Lincoln Parish Plant (owned by Carrier or its Affiliate)
+
+  •   Mount Olive Plant (owned by Carrier or its Affiliate)
+
+Miscellaneous Appurtenant Facilities (launchers/receivers, etc.)
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015
+
+
+
+
+
+SCHEDULE A
+
+RECEIPT POINTS, DELIVERY POINT, AND RATES
+
+Receipt Points   Delivery Point   Dedicated Rate   Lincoln Parish Plant Mount Olive Plant   DCP Black Lake Ada, LA   $ 1.68
+
+Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015

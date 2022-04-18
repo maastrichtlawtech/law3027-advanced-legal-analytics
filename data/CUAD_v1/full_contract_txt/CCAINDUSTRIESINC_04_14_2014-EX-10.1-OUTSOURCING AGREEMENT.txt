@@ -1,0 +1,361 @@
+Exhibit 10.1
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS EXHIBIT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+
+SERVICES OUTSOURCING AGREEMENT
+
+Between
+
+CCA INDUSTRIES, INC. ("Company")
+
+And
+
+EMERSON HEALTHCARE, LLC ("Contractor")
+
+DATED AS OF January 20, 2014
+
+
+
+
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+This Services Outsourcing Agreement (this "Agreement") is made as of January 20, 2014 (Date), between CCA Industries, Inc. ("Company"), and Emerson HealthCare, LLC, a Pennsylvania limited liability company ("Contractor").
+
+RECITALS
+
+WHEREAS, the Company will own, develop, manufacture or have manufactured, market and sell the products set forth on Exhibit A attached hereto, as the same may be amended from time to time in accordance with the terms hereof (the "Products"), and desires to outsource certain logistical and administrative services with respect to the Products; and
+
+WHEREAS, the Company desires to engage Contractor to provide certain logistical and administrative services with respect to the Products and Contractor is willing to provide such services in connection therewith, on the terms and conditions set forth in this Agreement.
+
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Company and Contractor agree as follows:
+
+ARTICLE I
+
+GENERAL TERMS
+
+1.01 Certain Defined Terms. For the purposes of this Agreement, the following capitalized terms shall have the meanings set forth below.
+
+(a) "Accounts Receivable" shall mean all accounts receivable, notes receivable and other indebtedness due and owed by any Customer and arising or held in connection with the sale of any of the Products.
+
+(b) "Agreement" shall mean this Agreement, including all Exhibits attached hereto, as the same may be amended, modified or supplemented from time to time in accordance with the terms hereof.
+
+(c) "Claim" shall have the meaning set forth in Section 7.01.
+
+(d) "Company" shall have the meaning set forth in the Preamble to this Agreement.
+
+(e) "Confidential Information" shall have the meaning set forth in Section 5.04.
+
+(f) "Contractor" shall have the meaning set forth in the Preamble to this Agreement.
+
+(g) "Customer" means any current or prospective customer of the Company with respect to the Products.
+
+(h) "Disclosing Party" shall have the meaning set forth in Section 5.04.
+
+1
+
+
+
+
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+(i) "Effective Date" shall have the meaning set forth in Section 2.01.
+
+(j) "Files and Work Papers" shall have the meaning set forth in Section 5.05.
+
+(k) "Force Majeure Event" shall have the meaning set forth in Section 8.03.
+
+(l) "Governmental Authority' means any supranational, national, federal, provincial, state or local judicial, legislative, executive or regulatory authority, body or instrumentality.
+
+(m) "Gross Invoiced Sales" means the gross selling price (before the application of any non-cash discounts, rebates, credits, allowances or similar deductions or adjustments) less any cash discounts, of all Products that are invoiced to and paid by Customers.
+
+(n) "Intellectual Property" means all intellectual property rights, including all rights in patents, patent applications, formulae, trademarks, trademark applications, trade names, confidential information, trade secrets, inventions, copyright, industrial designs and know-how.
+
+(o) "Notice Period" shall mean the period between the termination date of this Agreement and the date that is six (6) months after the date on which the Company provides Contractor with written notice of its election to terminate this Agreement.
+
+(p) "OHL" means Ozbum-Hessey Logistics, LLC and its Affiliates.
+
+(q) "Person" means an individual, a limited liability company, a joint venture, a corporation, a partnership, an association, a trust, a division or an operating group of any of the foregoing or any other entity or organization.
+
+(r) "Products" shall have the meaning set forth in the Recitals to this Agreement.
+
+(s) "Receiving Party" shall have the meaning set forth in Section 5.04.
+
+(t) "Sales Representation Agreement" means the sales representation agreement, dated as of the date hereof, between Company and Contractor.
+
+(u) "Service Fees" shall have the meaning set forth in Section 4.01.
+
+(v) "Services" means any of the services to be provided by or on behalf of Contractor to the Company under this Agreement and set forth on Exhibit B.
+
+(w) "Term" shall have the meaning set forth in Section 2.01.
+
+(x) "Termination Fee" shall mean an amount equal to the average Service Fees per day over the 180 day period immediately preceding the date written notice of termination is provided pursuant to Section 8.01(d) and (e) multiplied by number of days by which the Notice Period will be less than 180.
+
+(y) "Territory" means the United States, excluding its territories and possessions.
+
+2
+
+
+
+
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+1.02 Interpretation. The words "hereof," "herein," "hereto" and "hereunder" and words of similar import, when used in this Agreement, shall refer to this Agreement as a whole and not to any particular provision of this Agreement. The terms defined in the singular shall have a comparable meaning when used in the plural and vice versa. The term "including" shall mean "including, without limitation." When a reference is made in this Agreement to an Article, a Section or an Exhibit, such reference shall be to an Article or a Section of, or an Exhibit to, this Agreement unless otherwise indicated.
+
+ARTICLE I1
+
+TERM: EFFECTIVE DATE
+
+2.01 Term. This agreement shall commence on January 20, 2014 (the "Effective Date") and shall continue in effect for six (6) months (the "Initial Term"). This agreement shall automatically renew for successive six (6) month periods unless written notice is provided of either party's intent not to renew at least six (6) months before the end of the then-current term.
+
+2.02 Effective Date. This Agreement shall have no force or effect unless and until the Effective Date. If the Effective Date does not occur, then this Agreement shall be void ab initio and shall have no force or effect.
+
+ARTICLE III
+
+OBLIGATIONS OF CONTRACTOR
+
+3.01 Contractor Services. Contractor shall perform during the Term of this Agreement the Services set forth on Exhibit B in respect of the Products in the Territory.
+
+3.02 Meetings. Contractor shall meet with the Company on at least a monthly basis, or more often to the extent reasonably requested by the Company, to review historical sales results by Product SKU, forward-looking sales forecasts by Product SKU, current inventories of the Products on hand, production scheduled and to be scheduled of the Products, and any other matters as the parties shall determine. Such meetings shall take place at the offices of the Company (or, at the election of the Company, by video or telephone conference) no later than the fifteenth (15th) day of each calendar month during the Term of this Agreement or at such other time as the parties shall mutually agree.
+
+3.03 Access. From time to time during the Term of this Agreement, upon reasonable advance notice, Contractor shall permit the Company and its agents, representatives, auditors and designees to visit, inspect and have full access, during normal business hours, to properties, assets, books, records, agreements, documents, data, files and personnel of Contractor.
+
+3.04 Ownership of Accounts Receivable & Inventory. Contractor acknowledges and agrees that it is acting solely as a collection agent on behalf of the Company with respect to all Accounts
+
+3
+
+
+
+
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+Receivable collected from Customers, and such Accounts Receivable and the proceeds therefrom are and shall remain at all times property of the Company. Contractor further acknowledges and agrees that it has no ownership interest whatsoever in any of the Company's Inventory.
+
+ARTICLE IV
+
+PAYMENT
+
+4.01 Service Fees. In consideration of providing the Services set forth in Exhibit B, the Company agrees to pay to Contractor [ ** ] percent ([ *∗ ]%]) of Company's Gross Invoiced Sales (the "Service Fees"). Company agrees to have Fesnak & Associates, LLP pay the Service Fees directly to Contractor. Service Fees shall be paid to Contractor within five (5) days after the end of each month.
+
+4.02 Remittance. Contractor shall deposit into bank accounts designated by the Company an amount equal to the following: all amounts received from any Customer that are related to Accounts Receivable, less each of the following that is applicable to any such Accounts Receivable (and has not already been applied to reduce any Accounts Receivable): (i) Service Fees, (ii) commissions pursuant to the Sales Representation Agreement, (iii) returns, (iv) quantity and cash discounts, (v) trade allowances or markdowns granted on account of unsalable or discontinued Products, (vi) all sales or use taxes, tariffs, duties or similar charges of any Governmental Authority paid by or for the benefit of the Company, (vii) freight, warehousing (storage and labor) and other charges associated with the distribution of the Products using Contractor's warehouse, logistics terminal and shipping facility (see Exhibit "C"), (viii) the Company's pro rata portion of product liability insurance (approximately $800 per million dollars of sales) purchased by the Contractor in connection with performance of the Services, and (ix) any other deductions, rebates, credits, allowances or adjustments, in each case, which has been specifically identified by such Customer as being applicable to any such Accounts Receivable. Contractor shall use its best efforts to deposit the foregoing amounts within five (5) business days, following the receipt thereof.
+
+4.03 Retention of Monies. During the Term of this agreement, and for a period of twenty four (24)months after Termination (the "Withholding Period"), Contractor may retain monies (collections in Accounts Receivable) against any reasonable anticipated deductions for product recalls, unsalables, rebates, allowances or any audits or other adjustments it deems necessary. The retention of monies shall only be to the extent that the reasonable anticipated deductions exceed the anticipated accounts receivables. At the end of the Withholding Period, Contractor shall remit to the Company the retained monies less any deductions charged by Customers against Company's Products. After the Withholding Period, Company will remain liable to Contractor for any additional audits, deductions, rebates, credits, allowances or other adjustments taken by the Customers against the Company's Products.
+
+4
+
+
+
+
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+4.04 Expenses. Other than as specifically provided herein, each party shall be responsible for its own expenses incurred in connection with the performance of its obligations under this Agreement; provided, that the Company shall reimburse Contractor for reasonable documented out-of-pocket travel expenses associated with any meeting specifically requested by the Company and not otherwise contemplated by this Agreement.
+
+ARTICLE V
+
+ADDITIONAL AGREEMENTS
+
+5.01 New Products. The Company may amend Exhibit A to add new products to the scope of this Agreement, including line extensions of the then-existing Products and new brands acquired by the Company that are sold into the same classes of trade as the then-existing Products.
+
+5.02 Intellectual Property. All rights to either party's Intellectual Property, including all rights in patents, patent applications, formulae, trademarks, trademark applications, trade names, confidential information, trade secrets, inventions, copyright, industrial designs and know-how, ("Intellectual Property") shall remain that party's absolute property during and after the Term of this Agreement. The Products and any Intellectual Property owned by the Company in connection therewith shall be the absolute property of the Company during and after the Term of this Agreement. Neither party shall apply for registration of any trademarks, trade names, or brand names of the other party and each party hereby renounces all rights that it may acquire to such trademarks, trade names or brand names according to law or customs because of this Agreement or because of its use of such trademarks, trade names, or brand names under this Agreement.
+
+5.03 Grant of Sublicense. Solely to the extent necessary to enable Contractor to provide the Services in accordance with the terms herein, the Company hereby grants Contractor a royalty-free, non-exclusive sublicense, without the right to grant further sublicenses, under any and all applicable trademarks and other Intellectual Property owned or controlled by or licensed to the Company or any of its Affiliates to provide, during the Term of this Agreement, the Services in respect of the Products in the Territory. Nothing contained herein shall give Contractor any right to use any of the Company's Intellectual Property used in connection with the Products or trademarks or trade names that may appear on the labeling for the Products, except for providing the Services in accordance with the terms herein. Except as provided in this Section 5.03, Contractor shall not obtain any right, title or interest in any of the Company's Intellectual Property or trademark or any other trademark designation or trade name by virtue of this Agreement or Contractor's performance of its obligations hereunder.
+
+5.04 Confidentiality. In performing its obligations under this Agreement, each party may receive information (the "Receiving Party") of a confidential and proprietary nature regarding the other party, including information about such party's intellectual property and its operations, research,
+
+5
+
+
+
+
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+marketing plans, strategies and customer lists (collectively, "Confidential Information"). The Receiving Party shall hold the other party's Confidential Information in strict confidence, shall not use such Confidential Information, except as permitted hereunder, and shall not disclose such Confidential Information to any third party without the prior written consent of the disclosing party (the "Disclosing Party"). Each party shall use the same degree of care to protect the Disclosing Party's Confidential Information as it uses to protect its own Confidential Information of like nature, but in no circumstances less than a commercially reasonable level of care. The Receiving Party shall ensure that its employees and agents are bound to the same obligations of confidentiality as the Receiving Party. Confidential Information shall not be deemed to include: (a) information which is known to the Receiving Party prior to the date of receipt and not obtained or derived in any manner related to this Agreement, (b) information which is or becomes part of the public domain through no fault of the Receiving Party, or (c) information which is obtained from a third party that lawfully possesses such Confidential Information and is under no obligation to keep such Confidential Information confidential. The Receiving Party may disclose Confidential Information of the Disclosing Party in response to a valid court order, law, rule, regulation or other governmental action, provided that the Disclosing Party is notified in writing prior to disclosure of such Confidential Information to permit the Disclosing Party to oppose such disclosure by appropriate legal action. Upon the termination or expiration of this Agreement or upon the earlier request of the Disclosing Party, the Receiving Party shall (i) promptly return to the Disclosing Party all Confidential Information, or (ii) upon written request by the Disclosing Party, destroy all Confidential Information and provide the Disclosing Party with written certification of such destruction. Upon the termination or expiration of this Agreement, the Receiving Party shall cease all further use of any Confidential Information, whether in tangible or intangible form.
+
+5.05 Records Management. All paper or electronic records, files, documents, work papers and other information in any form, whether marked "confidential" or not, provided by the Company, its employees, agents or Affiliates or generated pursuant to this Agreement shall remain the exclusive property of the Company (collectively, "Files and Work Papers"). During the Term of this Agreement and for a reasonable transitional period thereafter, Contractor shall maintain adequate levels of information technology system redundancy, security and emergency back-up as the Company may reasonably require to protect the Files and Work Papers of the Company.
+
+5.06 Vendors. Contractor shall retain Fesnak & Associates, LLP to provide accounting services in connection with Contractor's performance of the Services and shall not engage a different accountant to provide such services without the Company's prior written consent (not to be unreasonably withheld). Contractor and the Company are arranging for OHL to provide certain warehousing, shipping and other logistical services related to the Products, as mutually agreed by the parties, and Contractor shall not engage a different vendor with respect to such services without the Company's prior written consent (not to be unreasonably withheld).
+
+6
+
+
+
+
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+ARTICLE VI
+
+REPRESENTATIONS AND WARRANTIES
+
+6.01 Representations and Warranties of Contractor. As of the date hereof, Contractor hereby represents and Warrants to the Company that the execution and delivery of this Agreement, and the performance of Contractor's obligations hereunder, do not and will not conflict with, violate or breach, or constitute a default or require any consent under, any contractual obligation or court or administrative order by which Contractor is bound.
+
+6.02 Representations and Warranties Company. As of the date hereof, the Company hereby represents and warrants to Contractor that the execution and delivery of this Agreement, and the performance of the Company's obligations hereunder, do not and will not conflict with, violate or breach, or constitute a default or require any consent under, any contractual obligation or court or administrative order by which the Company is bound.
+
+ARTICLE VII
+
+INDEMNIFICATION AND INSURANCE
+
+7.01 Indemnification by the Company. The Company hereby agrees to indemnify and hold Contractor, including its Affiliates and its and their respective officers, directors, partners, members, employees and agents, harmless from and against any and all claims, actions, suits, losses, demands, damages, costs and expenses (including reasonable attorneys' fees) of every kind, nature, or description (each, a "Claim") brought in connection with, arising out of or related to the Products or the Company's breach of its representations, warranties or covenants hereunder, except those Claims arising out of Contractor's or its Affiliates' fraud, willful misconduct, negligence or material breach of this Agreement or any other agreement with the Company.
+
+7.02 Indemnification by Contractor. Contractor hereby agrees to indemnify and hold the Company, including its Affiliates and its and their respective officers, directors, partners, members, employees and agents, harmless from and against any and all Claims brought in connection with or arising out of or related to Contractor's or its Affiliates' fraud, willful misconduct, negligence or material breach of this Agreement.
+
+7.03 Insurance. Company shall maintain Products Liability Insurance and in an amount satisfactory to Contractor, under which Contractor is named as an additional insured. All insurance coverages are to be placed with insurers which have a Best's rating of no less than "A." Such insurance requirements shall be maintained during the Term and shall continue for a minimum of three years following termination of this Agreement. Failure to comply with the insurance requirements shall place Company in material breach of this Agreement.
+
+ARTICLE VIII
+
+7
+
+
+
+
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+TERMINATION
+
+8.01 Termination. This Agreement shall be terminable as follows:
+
+(a) In the event that a party hereto commits a material breach of any of the terms or conditions of this Agreement the other party may terminate this Agreement (i) if such breach may be cured, upon written notice if the breaching party fails to cure such breach within thirty (30) days after its receipt of written notice thereof, or (ii) if such breach is incapable of cure, upon written notice to the other party thereof (it being understood that any breach of Section 5.04 would be incapable of cure);
+
+(b) Notwithstanding the provisions of Section 8.01, in the event that a party hereto fails to pay any amounts payable hereunder when due, the other party may terminate this Agreement (i) if such breach may be cured, upon written notice if the breaching party fails to cure such breach within three (3) business days after its receipt of written notice thereof; or, (ii) if such breach is incapable of cure, upon written notice to the other party thereof;
+
+(c) In accordance with the provisions of Section 8.03; or,
+
+(d) Either party hereto may terminate this Agreement after the Initial Period upon at least six (6) months' prior written notice to the other party thereof. The Company may terminate this Agreement in accordance with the immediately preceding sentence but with less than six (6) months' prior written notice to Contractor; provided, that in such event, the Company shall pay Contractor an amount equal to the Termination Fee.
+
+8.02 Effect of Termination. Subject to Section 4.03, upon termination or expiration of this Agreement, other than with respect to any amounts then the subject of a good faith dispute, the Company shall pay to Contractor and Contractor shall pay to the Company all monies due in respect of the Services provided.
+
+8.03 Force Majeure. If either party is prevented from or delayed in performing any of its obligations hereunder due to any cause which is beyond the nonperforming party's reasonable control, including, without limitation, fire, explosion, flood, or other acts of God; acts, regulations, or laws of any Governmental Authority; war or civil commotion; acts of terrorism, strike, lock-out or labor disturbances; or failure of public utilities or common carriers (a "Force Majeure Event"), such non-performing party shall not be liable for breach of this Agreement with respect to such non-performance or delay to the extent any such non-performance or delay is due to a Force Majeure Event; provided, that the non-performing party gives immediate written notice to the other party of the Force Majeure Event. If a Force Majeure Event asserted as the basis of a party's non-performance continues to prevent performance for more than one (1) month, the other party may terminate this Agreement by giving written notice to the nonperforming party before the non-performing party resumes performance. Notwithstanding anything contained in this Section 8.03,
+
+8
+
+
+
+
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+such non-performing party shall exercise commercially reasonable efforts to eliminate the Force Majeure Event and to resume timely performance of its affected obligations as soon as practicable.
+
+ARTICLE IX
+
+MISCELLANEOUS
+
+9.01 Relationship of the Parties. The relationship of the Company and Contractor established by this Agreement is that of independent contractors, and nothing contained herein shall be construed to (a) give either party any right or authority to create or assume any obligation or incur any expense of any kind on behalf of the other without the other party's prior written approval, or (b) constitute the parties as partners, joint venturers, co-owners, employer and employee or otherwise as participants in a joint or common undertaking.
+
+9.02 Notices. All notices and other communications shall be in writing and shall be deemed to have been duly given when: (a) delivered personally, or (b) transmitted by facsimile (with receipt confirmed), or (c) if mailed, five (5) days after being deposited in the United States mail, postage prepaid, or by certified or registered mail, return receipt requested, postage prepaid, or (d) if sent by overnight courier for delivery on the next day, the day following deposit of the notice with Federal Express or another nationally recognized overnight courier service (billed to sender), to the parties at the following addresses:
+
+If to Contractor: Emerson HealthCare, LLC Attention: Scott Emerson 407 East Lancaster Avenue Wayne, Pennsylvania 19087 Telephone: (610) 971-9600 Facsimile: (610) 971-9616 With a copy to: Steven L. Gershman, Esq. The Navy Yard Corporate Center One Crescent Drive Suite 400 Philadelphia, PA 19112 Telephone (215) 271-6102 Facsimile: (215) 218-2039 If to the Company: CCA Industries, Inc. Attention: Chief Executive Officer 200 Murray Hill Parkway East Rutherford, NJ 07073
+
+9
+
+
+
+
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+Telephone (201) 935-3232 Facsimile: (201) 842-6049
+
+With a copy to: CCA Industries, Inc. Attention: Chief Financial Officer 200 Murray Hill Parkway East Rutherford, NJ 07073 Telephone (201) 935-3232 Facsimile: (201) 842-6049   9.03 Failure to Exercise. The failure of either party to enforce at any time for any period any provision hereof shall not be construed to be a waiver of such provision or of the right of such party thereafter to enforce each such provision, nor shall any single or partial exercise of any right or remedy hereunder preclude any other or further exercise thereof or the exercise of any other right or remedy. Remedies provided herein are cumulative and not exclusive of any remedies provided at law.
+
+9.04 Assignment. This Agreement may not be assigned by either party without the prior written consent of the other party, except that, without such consent, (i) Company may make an assignment of this Agreement as collateral security in favor of its lenders, and (ii) the Company may assign this Agreement to a purchaser of all or substantially all of the assets of the Company's business related to the Products. Subject to the foregoing sentence, this Agreement shall bind and inure to the benefit of the parties hereto and their respective successors and assigns.
+
+9.05 No Third Party Beneficiaries. Nothing in this Agreement, express or implied, is intended to confer upon any Person other than the Company and Contractor, or their successors or permitted assigns, any rights or remedies under or by reason of this Agreement.
+
+10
+
+
+
+
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+9.06 Severability. Any term or provision of this Agreement that is deemed invalid or unenforceable in any jurisdiction shall, to the extent the economic benefits conferred by such Agreement to both parties remain substantially unimpaired, be ineffective to the extent of such invalidity or unenforceability without rendering invalid or unenforceable the remaining terms and provisions of this Agreement or affecting the validity or enforceability of any of the terms or provisions of this Agreement in any other jurisdiction.
+
+9.07 Governing Law. This Agreement shall be deemed to have been entered into in the State of New Jersey, and shall be construed and interpreted in accordance with the laws of that State applicable to agreements made and to be performed in the State of New Jersey. Any and all disputes, controversies and claims arising out of or relating to this Agreement, or with respect to the interpretation of this Agreement, or the rights or obligations of the parties and their successors and permitted assigns, whether by operation of law or otherwise, shall be settled and determined by arbitration in New Jersey pursuant to the then existing rules of the American Arbitration Association for commercial arbitration. The arbitrators shall have the power to award specific performance, rescission or injunctive relief in addition to damages or other monetary awards, but shall not have the power to modify, alter, enlarge upon or otherwise change any of the provisions or terms and conditions of this Agreement. The arbitration shall be final and binding upon the parties and judgment there on may be entered in the courts of the State of New Jersey and the United States federal courts in said State, and the parties hereby consent to the jurisdiction of such courts for such purposes. Service of any notice, process, motion or other document in connection with any arbitration proceeding, any arbitration award or any other action or proceeding, maybe by personal service or by certified or registered mail return receipt requested, addressed to the party intended at its address for the receipt of notices as herein set forth.
+
+9.08 Headings. The headings used herein have been inserted for convenience only and shall not affect the interpretation of this Agreement.
+
+9.09 Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, and together shall constitute one and the same agreement and shall become effective when one or more counterparts have been signed by each of the parties and delivered to the other party, it being understood that both parties need not sign the same counterpart.
+
+9.10 Entire Agreement. NO VARIATIONS OR MODIFICATIONS OF THIS AGREEMENT SHALL BE DEEMED VALID UNLESS REDUCED TO WRITING AND SIGNED BY THE PARTIES HERETO. THIS AGREEMENT CONTAINS THE ENTIRE AGREEMENT AMONG THE PARTIES WITH RESPECT TO THE SUBJECT MATTER HEREOF AND SUPERSEDES ALL PRIOR AGREEMENTS AND UNDERSTANDINGS, ORAL OR WRITTEN, WITH RESPECT TO SUCH MATTERS, EXCEPT FOR ANY WRITTEN AGREEMENT OF THE PARTIES THAT EXPRESSLY PROVIDES THAT IT IS NOT SUPERSEDED BY THIS AGREEMENT. ANY PROVISION OF THIS AGREEMENT MAY BE AMENDED OR WAIVED
+
+11
+
+
+
+
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+IF, AND ONLY IF, SUCH AMENDMENT OR WAIVER IS IN WRITING AND SIGNED (I) IN THE CASE OF AN AMENDMENT, BY THE COMPANY AND CONTRACTOR AND (II) IN THE CASE OF A WAIVER, BY THE PARTY AGAINST WHOM THE WAIVER IS TO BE EFFECTIVE.
+
+9.11 Survival. Sections 5.02, 5.04, 5.05 and 8.02, and Articles Article IV, Article VII and Article IX shall survive the expiration or termination of this Agreement in accordance with the respective terms thereof.
+
+IN WITNESS WHEREOF, the parties have executed or caused this Agreement to be executed as of the date first written above.
+
+EMERSON HEALTHCATE, LLC "Contractor"
+
+By: /s/s Scott Emerson Scott Emerson
+
+and
+
+CCA INDUSTRIES, INC. "Company"
+
+By: /s/ Richard Kornhauser Richard Kornhauser, President & CEO
+
+12
+
+
+
+
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+EXHIBIT A TO SERVICES OUTSOURCING AGREEMENT
+
+List of Products:
+
+List to be furnished by CCA
+
+13
+
+
+
+
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+EXHIBIT B TO SERVICES OUTSOURCING AGREEMENT
+
+SEE-ATTACHED FLOW CHARTS
+
+
+
+14
+
+
+
+
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+EXHIBIT C - LOGISTIC EXPENSES
+
+• Outbound freight costs - average out to be approximately [ ** ] cents per lb.
+
+• Warehouse labor [ ** ] cents per case.
+
+• There is no charge for unloading and putting away inbound product as long as product arrives on standardized configured pallets. The labor charge only occurs when the product is shipped outbound to customers/retailers.
+
+• Storage cost of [ ** ] cents per month per case - First [ ** ] days for each case no charge - If case sits longer than [ *∗ ] days the monthly charge applies going forward.
+
+• For International Sales the above warehouse labor and storage costs apply. There will be no Service Fee paid for international sales, but Company understands that Contractor will not be performing any services. It is assumed buyer will be paying for freight for International Sales.
+
+15

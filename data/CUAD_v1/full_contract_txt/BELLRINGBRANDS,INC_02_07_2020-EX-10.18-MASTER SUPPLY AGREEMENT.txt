@@ -1,0 +1,255 @@
+EXHIBIT 10.18
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED WITH "[***]", HAS BEEN EXCLUDED BECAUSE IT IS NOT MATERIAL AND WOULD BE COMPETITIVELY HARMFUL IF PUBLICLY DISCLOSED.
+
+MASTER SUPPLY AGREEMENT
+
+THIS MASTER SUPPLY AGREEMENT ("Agreement") is made as of 31 October 2019 ("Effective Date") by and between Premier Nutrition Company, LLC, a Delaware limited liability company with its headquarters located at 1222 67th Street, Suite 210, Emeryville, CA 94608 ("Buyer" or "PNC"), and Fonterra (USA) Inc., a California corporation with its principal place of business located at 8700 W. Bryn Mawr Avenue, Suite 500N, Chicago, IL 60631 ("Supplier" or "Fonterra") (each a "Party", collectively "Parties").
+
+WHEREAS PNC produces, distributes, markets and sells products including ready to drink protein shakes and beverages, powdered protein shakes, nutrition bars, and dietary supplements (the "Finished Products"); and
+
+WHEREAS Supplier produces raw materials including protein powders used by PNC to produce at least some of the Finished Products;
+
+NOW THEREFORE in consideration of their respective rights and obligations as set forth in this Agreement, and for other good and valuable consideration, the adequacy and receipt of which are acknowledged, PNC and Supplier agree as follows:
+
+1 Supply of Ingredients
+
+1.1 Supplier will provide such materials to PNC or its Third Party Manufacturers ("TPMs") as are specified in any Master Purchase Commitment or any other purchase orders that the Parties may execute from time to time during the term of this Agreement ("Ingredients"). Ingredients will be produced at Supplier's facilities listed in a Master Purchase Commitment, or any other of Supplier's facilities approved in advance, in writing by PNC.
+
+1.2 PNC or its TPMs will place specific orders for Ingredients from Supplier by issuing a purchase order that specifies, at minimum, the item, quantities, price, delivery dates, and delivery and payment terms (each a "Purchase Order").
+
+1.3 PNC and Supplier may enter certain Master Purchase Commitments from time to time during the Term of this Master Supply Agreement. Such Master Purchase Commitments and any Purchase Orders issued against such Commitments shall be subject exclusively to the terms and conditions of this Agreement. In the event the terms of any Master Purchase Commitment conflicts with the terms of this Agreement, the terms of the Master Purchase Commitment shall control.
+
+1.4 Supplier will receive Purchase Orders by telephone, USPS, overnight courier, email, and fax transmission, Monday through Friday except on state or nationally recognized bank holidays. Purchase Orders not received by 3:00 p.m. Eastern Time are considered to be received on the following
+
+Page 1
+
+
+
+
+
+business day. Supplier will confirm or reject Purchase Orders within [***] of receipt of the Purchase Order. Orders not rejected in writing within such time will be deemed confirmed and accepted by Supplier. Each Purchase Order issued by PNC or its TPMs and accepted by Supplier shall be governed by the terms and conditions of this Agreement. Additional terms included in acknowledgments, standard terms and conditions, or any other documents or communications exchanged by the Parties in connection with the sale or purchase of any Ingredients shall be void and of no force or effect. The Parties may only modify, add to or amend any of the terms or conditions of this Agreement by a writing signed by authorized representatives of both Parties.
+
+1.5 Supplier represents and warrants that at the time and date of delivery, the Ingredients will comply with all specifications ("Specifications"), a copy of which will be attached to the relevant Master Purchase Commitment or Purchase Order accordingly. A Specification may be updated from time to time by PNC in its sole discretion, provided PNC provides Supplier with reasonable prior notice on any updates ("Change Notification"). Within [***] from receipt of the Change Notification, Supplier will either: (1) accept the Specification change at the current price and terms; or (2) submit to PNC a proposal ("Proposal") setting forth the conditions of acceptance that may include a change in price and/or other terms, including documentation to support same. Within [***] the Parties will discuss the Proposal in good faith and exercise their best efforts to agree on the appropriate adjustment if any. PNC will not issue any Purchase Orders, nor be required to issue any Purchase Orders to Supplier until PNC and Supplier have agreed on required Ingredient Specifications and any associated price and/or term adjustment. In the event the Parties fail to agree on required Ingredient Specifications or price and/or term adjustments despite their best good faith efforts, neither Party will have any further obligation with regard to purchase or supply of those Ingredients under any Master Purchase Commitments except that PNC shall take and pay for [***] of Ingredient inventory manufactured according to the then-current Specification.
+
+1.6 Supplier will provide a Certificate of Analysis ("COA") completed in accordance with the Specifications with any shipment of Ingredients.
+
+1.7 INTENTIONALLY LEFT BLANK
+
+1.8 This Agreement is nonexclusive and sets forth the terms and conditions under which the Parties will supply and purchase Ingredients from the other Party. Nothing herein is intended to, nor does, guarantee that either Party will supply or purchase any specific, item, in any specific quantity, or conclude any business transaction with the other.
+
+1.9 Supplier Performance metrics will be identified and tracked periodically through Supplier Performance Review meetings no more frequently than each calendar quarter during the Term. [***] Metric targets will be established by PNC and agreed by Fonterra and updated as needed. The ultimate goal is zero defects for quality and administrative compliance issues.
+
+1.10 Supplier agrees to make a good faith effort to provide Advance Ship Notices ("ASN") with bar-coded pallet labels; Invoices, Purchase Orders and other business transactions, as may be advised by PNC, for each Ingredient shipment. Supplier will provide, itself or through a third-party provider, the information via Electronic Data Interface ("EDI") if and as requested by PNC. The technical specifications for all required EDI transactions will be provided by PNC.
+
+2
+
+
+
+
+
+2 Quality and Food Safety
+
+2.1 For the purposes set forth in Section 303(c) of the Federal Food, Drug, and Cosmetic Act (the "Act"), Supplier guarantees to PNC that as of the time and date of delivery, all Ingredients will not be adulterated or misbranded within the meaning of the Act, nor will any Ingredients constitute an article that may not, under the provisions of Sections 404 and 505 of the Act, be introduced into interstate commerce. The Supplier further guarantees that as of the time and date of delivery, all of the Ingredients will be in compliance with all applicable laws, regulations, requirements and programs including those administered by the Food and Drug Administration (the "FDA"), the United States Department of Agriculture (the "USDA") and any state or local food or drug laws then in effect. This guarantee specifically includes Proposition 65 (California Safe Drinking Water and Toxic Enforcement Act), and Supplier hereby certifies that the Ingredients will not contain any non-naturally occurring chemicals subject to Proposition 65 or that any such chemicals pose "no significant risk" or cause "no observable effect" as set forth in the California Health and Safety Code, 22 CCR §§ 12701 et seq. and 22 CCR §§ 12801 et seq., as amended. Supplier shall comply with all applicable regulatory requirements for determining and documenting that all Ingredients are at or below no significant risk levels and no observable effect levels, as applicable.
+
+2.2 Supplier shall develop and maintain a food safety/food defense program as required under the Food Safety Modernization Act 21 USC §301 et seq and shall submit a copy of such plan (and any changes thereto) to PNC upon PNC's request. Supplier will conduct [***] third-party food safety/food defense audits (the "Audits") in compliance with, and consistent with, relevant audit schemes approved by the Global Food Safety Initiatives, AIB International, Silliker, or GMA SAFE. Supplier will submit summaries of audit reports to PNC's Quality Manager at [***] upon request. Failure to comply with the requirements of this Section 2.2 will constitute a material breach of this Agreement.
+
+2.3 Supplier will notify PNC immediately, by person-to-person voice communication or equivalent means, if any of the Ingredients contain, or are reasonably suspected to contain, material hazardous to human health, including but not limited to, chemical, physical or biological hazards.
+
+2.4 PNC shall notify Supplier in writing if it determines any Ingredient fails to meet the Specifications. Supplier shall be given an opportunity to and will promptly inspect and/or test such Ingredients to confirm compliance to Specification. If after any reasonable, good faith inspection and testing it is confirmed that certain Ingredients fail to meet the Specifications [***].
+
+2.5 Subject to the occurring of a Force Majeure Event, if Supplier fails to deliver the Ingredients in accordance with the Specifications, including within the time specified on the Purchase Order, in addition to any other remedies available, PNC may terminate the Purchase Order in whole or in part. In the event of such a termination, Supplier shall continue performance of any nonterminated portion of the Purchase Order, or any nonterminated Purchase Orders, and the quantity of Ingredient ordered and so terminated shall be deducted against any relevant Master Purchase Commitment.
+
+2.6 PNC or its contracted third-party auditors may enter and audit/inspect Supplier's facilities where the Ingredients are produced, stored, packaged or otherwise processed [***] unless food safety is at issue or PNC has a good faith reason to believe the Ingredients are being stored, packaged, or processed
+
+3
+
+
+
+
+
+in a way that is inconsistent with the Specifications, in which case an audit may be performed at any time during the Term. For routine visits and audits, PNC will provide [***] if facilities located in the US and with [***] if facilities are located [***], provided that such examination will be conducted during Supplier's normal business hours and in such a manner as to reasonably minimize disruption to Supplier's business, unless food safety is at issue, in which case such examination may be conducted at any time. Supplier shall cooperate in good faith with PNC during all such inspections. During qualification processes and on-site inspections, Supplier will present necessary documentation to ensure compliance with all applicable programs specified under 21 CFR Part 117 Current Good Manufacturing Practice, Hazard Analysis, and Risk-Based Preventative Controls for Human Food. Records of environmental monitoring activities by the Supplier, following Supplier's established environmental monitoring program and standard operating procedures will be made available upon request to PNC. Supplier will notify Buyer immediately via person-to- person voice communication in the event that any pathogen is found, or reasonably suspected, in the plant environment during any environmental monitoring activity that could have an impact on the quality or safety of PNC's Ingredients. In the event of an actual or suspected food safety concern, Supplier shall conduct sampling in all relevant areas and promptly provide results of such tests to PNC. If PNC or its representatives find that any of Supplier's facilities, processes, inventory, procedures or equipment are not in accordance or compliance with the requirements of this Agreement or applicable law or regulation, PNC will give notice to Supplier, and Supplier shall promptly take all reasonable steps to correct such deficiency as soon as possible. If correction of the deficiency cannot be affected within [***] of such notice, then Supplier shall promptly notify PNC with its plan to correct the deficiency including an estimated schedule. If the deficiency cannot be corrected within [***], unless otherwise agreed, then PNC shall have the right to terminate any Purchase Orders then outstanding, along with any Master Purchase Commitment related thereto.
+
+3 Business Continuity/Continuous Supply Assurances. Supplier will develop and maintain a business continuity plan that identifies critical pathways and potential crisis situations that could interrupt the supply of Ingredients to PNC and establish contingency plans for dealing with each crisis situation. Upon PNC's written request, Supplier will submit the business continuity plan to PNC for PNC's review.
+
+4 Intellectual Property. 4.1 Each Party shall retain ownership of all Intellectual Property Rights (as defined below): (1) owned or licensed by that Party prior to the commencement date of this Agreement; or (2) developed or acquired independently of this Agreement by that Party or its licensors other than in connection with this Agreement. 4.2 Ownership in the Intellectual Property Rights, if any, of any developments and/or modifications to the Ingredients during the Term shall be [***]. 4.3 For purposes of this Section 4, the term "Intellectual Property Rights" shall mean all statutory, common law and proprietary intellectual property rights, including rights in know-how, confidential information, copyright works, designs, inventions, patents, plant varieties, trademarks and all other rights, whether registered or unregistered (including applications for such rights).
+
+5 Confidential Information. "Confidential Information" means all business, financial and technical information of the Parties, or of a third- party as to whom a Party has an obligation of confidentiality, whether disclosed before or after the Effective Date and whether disclosed in writing, orally, by electronic delivery, or by inspection of tangible objects. Confidential Information includes, without limitation, trade secrets, ideas,
+
+4
+
+
+
+
+
+processes, formulae (including formula and specifications for Ingredients and Finished Products), computer software (including source code), algorithms, data, data structures, know-how, copyrightable material, improvements, inventions (whether or not patentable), techniques, strategies, business and product development plans, timetables, forecasts, customer and supplier information, and information relating to product designs, specifications and schematics, product costs, product prices, product names, financial information, marketing plans, business opportunities, personnel, research, development and know-how. Confidential Information includes that which is marked or otherwise identified as confidential, as well as that which by its nature and the circumstances of its disclosure are reasonably understood to be confidential.
+
+5.1 Maintenance of Confidentiality and Limitations on Use. Each Party will hold in strict confidence and keep confidential all Confidential Information disclosed to it by the other. The Parties will use at least the same degree of care to avoid publication or dissemination of such Confidential Information as it uses with respect to similarly confidential information of its own, but in no event less than reasonable care. Use of such Confidential Information by such Party will be strictly limited to activities directly in support of its activities under this Agreement. The Parties will disclose such Confidential Information on a need-to-know basis only, and in all events only to such employees and independent contractors who are informed of the confidential nature of the Confidential Information and are bound by obligations substantially similar to those set forth herein applicable to such Confidential Information. Each Party hereby guarantees the performance of the provisions hereof by each person obtaining disclosure of such Confidential Information directly or indirectly from such Party.
+
+5.2 Copying and Return of Confidential Information. Each Party shall not make any copies or extracts of Confidential Information, or include such Confidential Information in its own materials except as reasonably required directly in support of its activities under this Agreement. When a Party no longer has need thereof in support of its activities under this Agreement or upon request of the other Party, whichever occurs first, such Party shall promptly cease using and shall return or destroy (and, if requested, certify destruction of) all such Confidential Information along with all tangible and electronic copies which it may have made, provided, however, that a Party is not obligated to remove Confidential Information from back up devices that have been made and are maintained in accordance with a corporate records retention policy.
+
+5.3 Certain Exceptions. Information will not be, or will cease being, Confidential Information, as the case may be, if Supplier can show:
+
+5.3.1 that such information entered the public domain other than by breach of this Agreement on the part of any Party obligated to confidentiality hereunder; 5.3.2 it is rightfully known to the receiving Party without obligation of confidentiality to any third-party prior to receipt of same from the disclosing Party as evidenced by bona fide written, dated documents; 5.3.3 it is independently developed by personnel of the receiving Party who have not had access to Confidential Information of the disclosing Party; and, 5.3.4 that it is generally made available to third-parties by the disclosing Party without obligation of confidentiality.
+
+5.4 Legally Required Disclosure. A Party shall not be in breach hereof if it discloses Confidential Information pursuant to a judicial or governmental order, or as required by applicable law or the rules
+
+5
+
+
+
+
+
+of a recognized stock exchange, but any such disclosure shall be made only to the extent so ordered or required. In any such event, the Party (i) shall timely notify the other Party so that it may intervene in response to such order or take action to protect its interests (in which event such Party will cooperate in such effort), or (ii) if timely notice cannot be given, shall seek to obtain a protective order or confidential treatment from the court or government for such information.
+
+5.5 Defend Trade Secrets Act. Notwithstanding anything in this agreement to the contrary, a receiving Party is hereby notified in accordance with the US Defend Trade Secrets Act of 2016 that it will not be held criminally or civilly liable under any US federal or state trade secret law for the disclosure of a trade secret that: (x) is made (i) in confidence to a federal, state, or local government official, either directly or indirectly, or to an attorney; and (ii) solely for the purpose of reporting or investigating a suspected violation of law; or (y) is made in a complaint or other document that is filed under seal in a lawsuit or other proceeding.
+
+5.6 Trading in Securities. Supplier acknowledges that it is aware, and agrees to advise its directors, officers, employees, agents and representatives who are informed as to the matters which are the subject of this Agreement, that the United States securities laws prohibit any person who has material, non-public information concerning PNC, its parent and affiliate companies including BellRing Brands, Inc. and Post Holdings, Inc. from purchasing or selling securities of those companies or from communicating such information to any other person under circumstances in which it is reasonably foreseeable that such person is likely to purchase or sell such securities.
+
+5.7 Title. As between the Parties, title or right to possess Confidential Information of PNC, except as otherwise provided herein, shall remain in PNC. Nothing in this Agreement shall be construed as granting or conferring any rights to any Confidential Information, except as otherwise explicitly stated in this Agreement.
+
+5.8 No Representation or Warranty. Except as expressly set forth herein, neither Party makes any representations or warranties of any nature whatsoever with respect to any Confidential Information it may provide, including, without limitation, any warranties of merchantability, fitness for a particular purpose or accuracy. All Confidential Information is provided on an "as-is" basis, and the recipient assumes all responsibility for its use thereof or reliance thereon. Further, each Party understands and acknowledges that any confidential information received from the other Party concerning future plans may be tentative and may not represent firm decisions concerning such plans, and neither Party shall be liable to the other Party for inaccuracies in Confidential Information under any theory of liability.
+
+6 Term and Termination.
+
+6.1 This Agreement will commence on the Effective Date and continue for an Initial Term of five (5) years, and will automatically renew for additional periods of five (5) years unless one Party notifies the other of its intention not to renew, no less than 12 months prior to the expiration of the then-current term, unless terminated as permitted under this Agreement.
+
+6.2 Either Party may terminate this Agreement for cause if the other Party fails to perform any material provision of this Agreement or commits a material breach of this Agreement which is not corrected within [***] after receiving written notice of the failure or breach. except that if the default is by
+
+6
+
+
+
+
+
+Supplier that creates an immediate public food safety risk, PNC may terminate this Agreement immediately without regard to any period for correction.
+
+6.3 This Agreement will automatically terminate if either Party becomes insolvent or files a petition in bankruptcy, if a Party makes an assignment for the benefit of a creditor, if a receiver is appointed to take possession of any part of a Party's assets or if a Party becomes unable generally to pay its debts as they become due, or otherwise ceases to do business.
+
+6.4 On the termination of this Agreement for any reason, all rights granted to Supplier under this Agreement will immediately cease, and Supplier must deliver to PNC all written or recorded materials relating to the Confidential Information of PNC in the possession or control of Supplier or any of its related party, subject to Section 5.2.
+
+7 Indemnification and Insurance. 7.1 Each Party will defend and hold harmless the other Party and its subsidiaries, affiliates, officers, directors, employees, attorneys, insurers, shareholders, representatives and agents from and against any and all liabilities, losses, damages, claims, actions, proceedings, suits, costs or expenses, including reasonable attorney fees for counsel retained by the indemnified Party, brought by a Third Party, arising out of or in connection with: 7.1.1 any negligent or intentional act or omission of the indemnifying Party, its agents or employees; 7.1.2 any breach in or default by the indemnifying Party of its obligations under this Agreement; 7.1.3 any other loss, damage or injury caused by or arising out of the indemnifying Party's or its agents' or employees' on-site visits to the indemnified Party's premises; or any claims relating directly to trademark, patent or copyright infringement arising out of a Party's use of the other Party's (or its licensors') trademarks, patents or copyrights as permitted hereunder. 7.1.4 For purposes of this Section 7.1, "Third Party" means any individual, corporation, partnership, trust, cooperative, or other business organization or entity, and any other recognized organization, other than the Parties or their affiliates.
+
+7.2 Except for a Party's gross negligence or intentional acts or omissions and its obligations of indemnity under this Agreement, under no circumstances will either Party be liable to the other Party for [***].
+
+7.3 Supplier agrees to indemnify and hold PNC harmless from any and all employment-related claims, payments, entitlements, taxes, interest and penalties assessed against or obtained from PNC by any individual or authority as a consequence of or related to the performance by any agent or employee of Supplier.
+
+7.4 Supplier shall maintain insurance with an insurance company with an equivalent of an A.M. Best rating of "A" or better, of the following kinds and in the following amounts during the term of this Agreement: 7.5 7.5.1 Comprehensive General Liability (CGL) Insurance with limits of not less than [***] each occurrence and [***] in the aggregate, including Contractual, Completed-Operations and
+
+7
+
+
+
+
+
+Product-Liability Coverage's with limits of not less than [***] for each occurrence, covering both bodily injury and property damage liability. 7.5.2 Umbrella/Excess Liability with limits of not less than [***]. 7.5.3 Workers' Compensation Coverage plus Occupational Disease Insurance if Occupational Disease coverage is required by the laws of the state where the Facility is located or work is to be performed. Employers Liability $500,000 each accident 7.5.4 Auto Liability $1,000,000 combined single limit.
+
+7.6 Supplier shall have Buyer named as an additional insured on its insurance policies in subparts 7.5.1 and 7.5.2 above. Supplier shall furnish Buyer with a certificate from its insurer verifying that it has the above insurance in effect during the duration of this Agreement and that insurer acknowledges (a) the contractual liability assumed by Supplier in this Agreement and (b) that Buyer is an additional insured on such policies and (c) Supplier's CGL policy is primary and Buyer's CGL policy is non-contributory and (d) a waiver of subrogation shall be provided in favor of Buyer on the CGL, Workers' Compensation and Auto policies. Said certificate of insurance shall require Supplier's insurance carrier to give Buyer no less than ten (10) days written notice of any cancellation or change in coverage. Failure to secure such insurance as of the date of execution of this Agreement shall constitute a breach of this Agreement. Supplier shall provide to PNC a certificate evidencing such insurance within thirty (30) days of a request for same from PNC.
+
+7.7 Supplier shall, at its own expense, maintain throughout the term of this Agreement, all insurance required by law or regulation in all countries in which this Agreement will be performed.
+
+8 Recall. If Ingredients provided by Supplier under this Agreement are misbranded, contaminated, or otherwise unfit for human consumption at the time they are delivered to PNC or its TPM ("Defect"), PNC in its sole discretion will make a determination of the necessity of a recall, market withdrawal, inventory retrieval, or other action designed to prevent the distribution or sale of the affected Finished Products, plus the type, extent, method of handling, disposition of the Finished Products as well as any affected work in progress, and all other particulars involved in such an action (a "Recall"), and PNC will execute any Recall. Supplier, in its sole discretion, will make a determination of the necessity of a recall, market withdrawal, inventory retrieval or other action designed to prevent the distribution or sale of the Ingredients. Subject to Section 9.1, Supplier shall bear the complete responsibility for a Recall occasioned by a Defect in the Ingredient and shall indemnify PNC for [***] resulting from or related to the Recall. Any Recall occasioned by PNC labels or by tampering with the Ingredients after they have left Supplier's control, or by improper storing or handling by PNC, will not be considered a Defect.
+
+9 Limitation of Liability.
+
+9.1 The maximum liability of one Party to the other Party and its affiliates in relation to this Agreement will be [***] ("Liability Cap"), provided however that:
+
+8
+
+
+
+
+
+9.1.1 The Liability Cap will not apply to any (1) material confidentiality breach under Section 5, and/or (2) indemnification obligations under Section 7.1. 9.1.2 The Liability Cap will not apply to intentional misconduct and/or gross negligence.
+
+9.2 For the purpose of this Section, "liability" means liability for any and all claims, causes of action, judgments, costs and expenses (including but not limited to reasonable attorney fees and expenses), reimbursements, losses, and any and all other liabilities and damages of any kind, whether in contract, tort (including negligence), equity, statute or otherwise arising out of, in relation to or as a result of this Agreement.
+
+10 Force Majeure.
+
+10.1 Neither Party will be liable for any breach of its obligations under this Agreement resulting from causes beyond its reasonable control, including, but not limited to, an act of nature, drought, outbreak of foot and mouth disease, port and other transport strikes, war, fires, quarantine restrictions, insurrections or riots, energy shortages, embargo or the inability to obtain supplies or raw materials because of a global shortage or governmental action (a "Force Majeure Event"). Notwithstanding anything herein to the contrary, in the event of a Force Majeure Event, or any other circumstance that limits Fonterra's ability to produce or deliver product, Supplier will exercise its best efforts to comply with its obligations hereunder, mitigate the adverse impact on and not disfavor PNC, and will treat it in parity with its other customers.
+
+10.2 Any obligation of either Party under this Agreement will be postponed until the cause underlying the Force Majeure Event has been eliminated, at which time the obligation will again be in effect. Any loss of time by the Force Majeure Event will not be held against the Party who was unable to comply with its obligations under this Agreement because of the Force Majeure Event. The Party unable to comply with its obligations under this Agreement will immediately notify the other Party in writing that a Force Majeure Event has delayed its performance and will state, to the best of its knowledge, the revised date for performance. If a Force Majeure Event persists for longer than [***], the Party not directly affected by the Force Majeure Event may terminate this Agreement with regard to any relevant Master Purchase Commitments or Purchase Orders.
+
+10.3 Should Supplier be unable to comply with its obligations under this Agreement because of a Force Majeure Event, PNC may obtain elsewhere the Ingredients the Supplier was unable to deliver because of the Force Majeure Event and those Ingredients will be credited against any relevant Minimum Purchase Commitment. PNC will not be obligated to purchase those Ingredients from Supplier at a later time.
+
+11 Notices. Notices contemplated by this Agreement must be in writing and may be sent by registered or certified mail, postage prepaid, to the address specified in the first paragraph of this Agreement or to any other address designated by prior written notice.
+
+12 Governing Law; Dispute Resolution.
+
+9
+
+
+
+
+
+12.1 This Agreement will be governed by the laws of the State of Delaware without regard to its conflicts of law principles.
+
+12.2 The Parties consent to, acknowledge, and agree that any dispute arising out of or relating to this Agreement, including the breach, termination or validity thereof, shall be brought exclusively before the state and federal courts in and for the City of Wilmington and County of New Castle, Delaware Each Party waives any objection based on forum non conveniens.
+
+13 Assignment. Neither Party may transfer or assign any of its rights or obligations under this Agreement without the prior written consent of the other Party, except that either Party may assign this Agreement to any entity controlled by it, its parents, subsidiaries, or affiliates, or to any purchaser of the business to which this Agreement relates subject to the other Parties consent which will not be unreasonably withheld or delayed.
+
+14 Supplier Conduct. Supplier agrees to engage in responsible and ethical business practices and conduct itself in full compliance with all applicable laws, rules, and regulations in every country in which it does business.
+
+15 California Transparency Act. PNC does not accept or support the use of illegal, abusive, or forced labor in our own facilities. Within its supply chain, Supplier will comply with all laws of the country they are doing business in and are subject to.
+
+16 U.S. Government Affirmative Action Regulations. During the performance of this contract or any purchase order issued hereunder, the Supplier agrees to comply with all applicable Federal, state and local laws respecting discrimination in employment and non-segregation of facilities including, but not limited to, requirements set out at 41 CFR §60-1.4, 41 CFR §61-300.10, 29 CFR Part 471 Appendix A to Subpart A, 41 CFR §60-300.5 and 41 CFR §60-741.5, which specific clauses are herein incorporated by reference into all covered contracts and subcontracts as required by Federal law. This Supplier and any applicable subcontractor shall abide by the requirements of 41 CFR §60- 300.5(a) and §60-741.5(a) to the extent applicable. These regulations prohibit discrimination against qualified individuals on the basis of protected veteran status or disability, and require affirmative action by covered prime contractors and subcontractors to employ and advance in employment qualified protected veterans and individuals with disabilities.
+
+17 Fair Labor Practices.
+
+17.1 Supplier shall provide workers with clean, safe and healthy work environments; recognize and respect the right of employees to free association and collective bargaining in accordance with law; comply with all applicable wage and hour laws; and properly verify the employment eligibility of its employees.
+
+17.2 Forced Labor. Suppliers will not employ, use or otherwise benefit from involuntary labor, forced labor, or labor that results from slavery or human trafficking. Supplier hereby certifies that: (i) it is in compliance with this paragraph; and (ii) all materials incorporated into its products comply with all applicable laws addressing slavery, human trafficking and other forms of forced labor. Supplier shall provide PNC with documentation establishing compliance with this paragraph upon [***] notice.
+
+10
+
+
+
+
+
+17.3 Child Labor. Supplier will not employ anyone under the legal working age defined by local law. Supplier will comply with all applicable laws addressing the working requirements and conditions for child workers.
+
+17.4 Respectful Workplace. Supplier shall prohibit all forms of unlawful discrimination, abuse, harassment, violence and retaliation.
+
+18 Gifts and Entertainment. Supplier will not offer any gift to a PNC employee, contractor, or agent that is: (i) more than a nominal value; (ii) more than an infrequent occurrence; (iii) cash or cash equivalents; or (iv) illegal, sexually oriented, offensive or otherwise inappropriate.
+
+19 Environment & Sustainability. Supplier will comply with all applicable environmental laws and reporting obligations, maintain all required permits, and strive to responsibly manage the impacts of their operations on the environment.
+
+20 Anticorruption. Suppliers will not, directly or indirectly, offer improper gifts to government employees, engage in bribery or fraud, or take any other action that would cause a violation of the U.S. Foreign Corrupt Practices Act, the UK Bribery Act or any other applicable anti- corruption law.
+
+21 Miscellaneous.
+
+21.1 If any provision of this Agreement is determined to be illegal or unenforceable, all other provisions will continue in full force and effect.
+
+21.2 This Agreement may be executed concurrently by original or facsimile signature in counterparts, each of which will be deemed an original, but all of which together will constitute one and the same instrument.
+
+21.3 Each right and remedy of each Party described in this Agreement is cumulative and in addition to every other right or remedy, express or implied, now or hereafter arising, available to such Party, at law or in equity, or under any other agreement. No delay or omission by either Party in the exercise of any right or remedy arising under this Agreement will impair any such right or remedy or the right of such Party to resort thereto at a later date or be construed to be a waiver of any default under this Agreement. The indemnities, representations and warranties of each Party will survive termination of this Agreement.
+
+21.4 This Agreement, together with any schedules and exhibits and any Purchase Orders, Specifications and COAs, constitutes the complete agreement between the Parties and supersedes all prior agreements between the Parties regarding this subject matter. The Parties hereby agree that any such prior agreements are hereby terminated. No other contracts, warranties, promises or representations, either oral or in writing, relating to this Agreement will bind either Party except for the Purchase Orders, Specifications and COAs. This Agreement may not be amended or modified except by a writing signed by an authorized representative of the Party against whom such amendment or modification is asserted. This Agreement will be binding upon, and will inure to the benefit of, the parties, their successors and permitted assigns.
+
+(signature page follows)
+
+11
+
+
+
+
+
+Agreed to and executed effective as of the date first above written.
+
+Fonterra (USA) Inc. Premier Nutrition Company, LLC
+
+By: [***] By: /s/ Paul Rode Title: President Title: CFO
+
+12
+
+
+
+
+
+Agreed to and executed effective as of the date first above written.
+
+Fonterra (USA) Inc. Premier Nutrition Company, LLC
+
+By: By: /s/ Paul Rode
+
+Title: Title: CFO

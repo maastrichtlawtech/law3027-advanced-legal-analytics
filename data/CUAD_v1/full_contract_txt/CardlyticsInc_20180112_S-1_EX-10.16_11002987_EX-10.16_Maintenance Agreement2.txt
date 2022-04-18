@@ -1,0 +1,85 @@
+SCHEDULE B
+
+Customization Schedule
+
+This Customization Schedule is attached to the Software License, Customization and Maintenance Agreement (the "Agreement") executed by and between Bank of America, N.A. ("Bank of America") and <<enter Company Name>> ("Supplier"). The Customizations identified hereunder shall be subject to the terms and conditions of that Software License, Customization and Maintenance Agreement referenced above.
+
+Bank of America wishes to obtain the Customizations herein defined, and Supplier wishes to delivery those Customizations, on the terms and conditions of the Agreement and this Customization Schedule.
+
+1. The Customizations shall fulfill or exceed all of the functional, performance and other specifications described in the Program Materials and the documents prepared either by Bank of America or Supplier pursuant to this Agreement. as indicated below.
+
+No later than <<enter Customization Documents Delivery Date>>, Supplier shall deliver to Bank of America the documents described below for this Customization. The detailed specifications so delivered shall be incorporated herein when approved by Bank of America.
+
+System Solution
+
+Functional Specifications
+
+System Design Specifications
+
+ Test Specifications
+
+
+
+
+
+Supplier acknowledges receipt of the following documents from Bank of America:
+
+ Detailed Requirements
+
+
+
+
+
+2.  Bank of America Customizations:
+
+
+
+
+
+3.  Supplier Customizations:
+
+
+
+      Proprietary to Bank of America  B-1  vTIP2010
+
+Source: CARDLYTICS, INC., S-1, 1/12/2018
+
+
+
+
+
+4. Fees for Customizations:
+
+[SPECIFY TIME AND MATERIALS RATES ([Indicate any "not to exceed" limit on T&M Customization costs) OR FIXED PRICE]
+
+If the proposed price Is Increased by Supplier upon delivery to Bank of America of detailed specifications or at any other time hereafter, Bank of America may terminate this Schedule and shall receive a refund of all amounts previously paid hereunder.
+
+5. Unless otherwise specified herein, the environment for this Customization Is the same as described on Product License Schedule A to this Agreement.
+
+6 The Delivery and Installation Schedule for this Customization is:
+
+Delivery Date:
+
+Installation Date:
+
+[Insert any other Schedule Information pertaining to the Delivery or Installation of the Product]
+
+7. [Add any special items. e.g., special payment Schedule, for this Schedule.]
+
+8. Project Personnel:
+
+ Bank of America Project Administrator:   Supplier Project Administrator:
+
+
+
+ Bank of America Project Manager:   Supplier Project Manager:
+
+
+
+  THE FOREGOING IS UNDERSTOOD AND AGREED TO BY:
+
+<<enter Company Name>> ("Supplier")   Bank of America, N.A. ("Bank of America") By:    By:
+
+Name:    Name:   Title:    Title:   Date:    Date:      Proprietary to Bank of America  B-2  vTIP2010
+
+Source: CARDLYTICS, INC., S-1, 1/12/2018

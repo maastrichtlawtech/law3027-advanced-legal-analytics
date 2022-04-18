@@ -1,0 +1,805 @@
+Exhibit 10.17
+
+INTELLECTUAL PROPERTY AGREEMENT
+
+between
+
+THE BABCOCK & WILCOX COMPANY
+
+and
+
+BABCOCK & WILCOX ENTERPRISES, INC.
+
+dated as of
+
+June 26, 2015
+
+
+
+
+
+TABLE OF CONTENTS   ARTICLE I   DEFINITIONS     1
+
+  Section 1.1   Definitions     1
+
+  Section 1.2   Interpretation     4
+
+ARTICLE II   INTELLECTUAL PROPERTY ASSIGNMENT AND OWNERSHIP     5
+
+  Section 2.1   Reserved     5
+
+  Section 2.2   Reserved     5
+
+  Section 2.3   Assistance by Employees; Inventor Compensation     5
+
+  Section 2.4   Ownership     6
+
+  Section 2.5   Rights Arising in the Future     6
+
+  Section 2.6   Abandonment of Certain Intellectual Property     7
+
+  Section 2.7   Reserved     7
+
+  Section 2.8   Steam/Its Generation and Use     7
+
+ARTICLE III   TRADEMARKS     8
+
+  Section 3.1   House Marks     8
+
+  Section 3.2   Limited License to Use SpinCo House Marks     9
+
+  Section 3.3   Removal of Classes from SpinCo Marks    10
+
+  Section 3.4   RemainCo Marks    10
+
+  Section 3.5   Duty to Avoid Confusion    10
+
+ARTICLE IV   SHARED LIBRARY MATERIALS    11
+
+  Section 4.1   Shared Library Materials    11
+
+  Section 4.2   Cross-License of Shared Library Materials    11
+
+  Section 4.3   Maintenance of Shared Library Materials    11
+
+  Section 4.4   Potential Allocation of Shared Library Materials    12
+
+  Section 4.5   Confidentiality and Trade Secret Status of Shared Library Materials    13
+
+  Section 4.6   Third Party Materials Contained in the Shared Library Materials    13
+
+ARTICLE V   INTELLECTUAL PROPERTY LICENSES AND COVENANTS    13
+
+  Section 5.1   Cross-License of Shared Know-How    13
+
+  Section 5.2   Reserved    14
+
+  Section 5.3   Reserved    14    i
+
+
+
+
+
+  Section 5.4   Cross-Licenses of Software    14
+
+  Section 5.5   Reserved    15
+
+  Section 5.6   Sublicensing; Assignability    15
+
+  Section 5.7   Restrictions on Licensor Exploitation of Intellectual Property    16
+
+  Section 5.8   Third Party Agreements; Reservation of Rights    16
+
+  Section 5.9   Maintenance of Intellectual Property    16
+
+  Section 5.10   Covenants    17
+
+ARTICLE VI   TECHNICAL ASSISTANCE AND TECHNOLOGY TRANSFER    17
+
+  Section 6.1   Reserved    17
+
+  Section 6.2   Reserved    17
+
+  Section 6.3   No Additional Technical Assistance    17
+
+ARTICLE VII   NO WARRANTIES    18
+
+ARTICLE VIII   THIRD-PARTY INFRINGEMENT    18
+
+  Section 8.1   No Obligation    18
+
+  Section 8.2   Notice Regarding Infringement    19
+
+  Section 8.3   Suits for Infringement    19
+
+ARTICLE IX   CONFIDENTIALITY    21
+
+ARTICLE X   MISCELLANEOUS    22
+
+  Section 10.1   Authority    22
+
+  Section 10.2   Entire Agreement    22
+
+  Section 10.3   Binding Effect; Third-Party Beneficiaries; Assignment    23
+
+  Section 10.4   Amendment    23
+
+  Section 10.5   Failure or Indulgence Not Waiver; Remedies Cumulative    23
+
+  Section 10.6   Notices    23
+
+  Section 10.7   Counterparts    23
+
+  Section 10.8   Severability    23
+
+  Section 10.9   Governing Law    24
+
+  Section 10.10   Construction    24
+
+  Section 10.11   Performance    24
+
+SCHEDULES   Schedule 1.1(e)   SpinCo Core Field; RemainCo Core Field Schedule 1.1(i)   Specific RemainCo Field; Specific SpinCo Field Schedule 1.1(o)   SpinCo House Marks Schedule 1.1(p)   RemainCo House Marks   ii
+
+
+
+
+
+Schedule 2.4(a)   RemainCo Ownership Schedule 2.4(b)   SpinCo Ownership Schedule 2.6   Abandonment of Certain Intellectual Property Schedule 3.1   SpinCo Trademarks Schedule 3.3   Required Actions and Filings Schedule 3.4   RemainCo Trademarks Schedule 4.1   Shared Library Materials Schedule 4.4   Nuclear Design Materials Schedule 5.4(a)   Foundational Software   iii
+
+
+
+
+
+INTELLECTUAL PROPERTY AGREEMENT
+
+This INTELLECTUAL PROPERTY AGREEMENT (this "Agreement") is entered into as of June 26, 2015 (the "Effective Date"), between The Babcock & Wilcox Company, a Delaware corporation, ("RemainCo") and Babcock & Wilcox Enterprises, Inc., a Delaware corporation ("SpinCo"). RemainCo and SpinCo are sometimes referred to herein individually as a "Party," and collectively as the "Parties." Capitalized terms used herein and not otherwise defined shall have the meanings ascribed to such terms in Article 1 hereof.
+
+RECITALS
+
+WHEREAS, SpinCo is a wholly owned Subsidiary of RemainCo;
+
+WHEREAS, the Board of Directors of RemainCo has determined that it would be appropriate and in the best interests of RemainCo and its stockholders for RemainCo to separate the SpinCo Business from the RemainCo Business;
+
+WHEREAS, in order to effectuate the foregoing, RemainCo and SpinCo have entered into a Master Separation Agreement, dated as of June 8, 2015 (the "Master Separation Agreement"), which provides, among other things, upon the terms and subject to the conditions thereof, for the separation of the respective businesses of SpinCo and RemainCo and the Distribution, and the execution and delivery of certain other agreements, including this Agreement, in order to facilitate and provide for the foregoing;
+
+WHEREAS, it is the intent of the Parties, in order to facilitate the foregoing separation, in anticipation of the Distribution and in accordance with the Master Separation Agreement, that RemainCo convey to SpinCo certain Intellectual Property rights and licenses subject to the terms and conditions set forth in this Agreement; and
+
+WHEREAS, it is the intent of the Parties, in order to facilitate the foregoing separation, in anticipation of the Distribution and in accordance with the Master Separation Agreement, that SpinCo convey to RemainCo certain Intellectual Property rights and licenses subject to the terms and conditions set forth in this Agreement;
+
+NOW, THEREFORE, in consideration of the foregoing and the covenants and agreements set forth below and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, and intending to be legally bound hereby, the Parties hereby agree as follows:
+
+ARTICLE I
+
+DEFINITIONS
+
+Section 1.1 Definitions. Except for the terms defined below, the capitalized terms used in this Agreement shall have the meanings ascribed to them in Section 1.1 of the Master Separation Agreement:
+
+"Confidential Information" has the meaning set forth in Section 9.2.   1
+
+
+
+
+
+"Foundational Software" has the meaning set forth in Section 5.4(a).
+
+"Intellectual Property" means the rights associated with or arising out of any of the following in any jurisdiction throughout the world: (i) all patents and patent applications, together with all reissuances, divisionals, continuations, continuations-in-part, revisions, renewals, extensions, and reexaminations thereof, and any identified invention disclosures ("Patents"); (ii) trade secret rights and corresponding rights in confidential information and other non-public information (whether or not patentable), including ideas, formulas, compositions, inventor's notes, discoveries and improvements, know how, manufacturing and production processes and techniques, design manuals, testing information (including testing protocols and results), research and development information, prototypes, inventions, invention disclosures, unpatented blueprints, drawings, specifications, designs, plans, proposals and technical data, business and marketing plans, market surveys, market know-how and customer lists and information, including all tangible embodiments of the foregoing and unregistered copyrights ("Know-How"); (iii) all registered or unregistered copyrights, copyrightable works, rights in databases, data collections, "moral" rights, mask works, copyright registrations, applications and extensions therefor and corresponding rights in works of authorship ("Copyrights"); (iv) all trademarks, service marks, logos, trade dress and trade names indicating the source of goods or services, and other indicia of commercial source or origin (whether registered, common law, statutory or otherwise), all registrations and applications to register the foregoing anywhere in the world and all goodwill associated therewith ("Trademarks"); (v) all computer software and code, including assemblers, applets, compilers, source code, object code, development tools, design tools, utilities, library files, user interfaces and data, and all documentation and manuals related to such computer software and code in any form or format, however fixed ("Software"); (vi) all internet electronic addresses, uniform resource locators and alphanumeric designations associated therewith and all registrations for any of the foregoing ("Domain Names"); and (vii) any similar, corresponding or equivalent rights to any of the foregoing anywhere in the world.
+
+"IP Proceedings" has the meaning set forth in Section 2.3.
+
+"Licensed RemainCo Know-How" has the meaning set forth in Section 5.1(b).
+
+"Licensed SpinCo Know-How" has the meaning set forth in Section 5.1(a).
+
+"Licensed RemainCo Intellectual Property" means all Licensed RemainCo Know-How and, to the extent licensed by RemainCo hereunder, RemainCo's right, title and interest in and to Shared Library Materials and Foundational Software.
+
+"Licensed SpinCo Intellectual Property" means all Licensed SpinCo Know-How and, to the extent licensed by SpinCo hereunder, SpinCo's right, title and interest in and to Shared Library Materials and Foundational Software.
+
+"Master Separation Agreement" has the meaning set forth in the recitals.
+
+"Nuclear Design Materials" has the meaning set forth in Section 4.4.
+
+"Notifying Party" has the meaning set forth in Section 4.4.   2
+
+
+
+
+
+"RemainCo" has the meaning set forth in the recitals.
+
+"RemainCo Core Field" has the meaning set forth on Schedule 1.1(e).
+
+"RemainCo House Marks" means all Trademarks that incorporate "BWX," "BWX Technologies," or "BWXT," and any translations or derivatives thereof and any terms of a confusingly similar nature, and all goodwill embodied in the foregoing, including, without limitation, all Trademarks set forth on Schedule 1.1(p), but expressly excluding "Babcock," "Wilcox," "Babcock and Wilcox," "Babcock & Wilcox," B&W," or "B&W & HERO ENGINE DESIGN."
+
+"RemainCo Know-How" means all Know-How owned by RemainCo as of the Effective Date.
+
+"RemainCo Trademarks" has the meaning set forth in Section 3.4.
+
+"Reviewing Party" has the meaning set forth in Section 4.4.
+
+"Shared Library Materials" means (i) proprietary research reports, letter reports, photographs, micrographs or other materials recorded in a tangible, microfilm, microfiche, and/or electronic form or media, or a combination thereof, which may contain trade secrets, know-how, methods, techniques, formulas, drawings, sketches or other proprietary materials reduced to tangible form, and which were developed by and/or contained in the Research & Development Division library at the former Alliance Research Center in Alliance, Ohio ("Research Documents") and (ii) publicly available books, textbooks, reference manuals, periodicals, journals or other publications that were located at the Research & Development Division library at the former Alliance Research Center in Alliance, Ohio ("Reference Materials"), in each case which are presently stored in certain identified vaults and storage accounts maintained with Third Party vendor document retention vendor Iron Mountain.
+
+"Specific RemainCo Field" has the meaning set forth on Schedule 1.1(i).
+
+"Specific SpinCo Field" has the meaning set forth on Schedule 1.1(i).
+
+"SpinCo" has the meaning set forth in the recitals.
+
+"SpinCo Core Field" has the meaning set forth on Schedule 1.1(e).
+
+"SpinCo House Marks" means all Trademarks that incorporate "Babcock," "Wilcox," "Babcock and Wilcox," "Babcock & Wilcox," "B&W," or "B&W & HERO ENGINE DESIGN" and any translations or derivatives thereof and any terms of a confusingly similar nature, and all goodwill embodied in the foregoing, including, without limitation, all Trademarks set forth on Schedule 1.1(o), but expressly excluding "BWX Technologies," "BWXT" and "BWX".
+
+"SpinCo Know-How" means all Know-How owned by SpinCo as of the Effective Date.
+
+"SpinCo Trademarks" has the meaning set forth in Section 3.1(a).   3
+
+
+
+
+
+"Steam Book" has the meaning set forth in Section 2.8.
+
+Section 1.2 Interpretation. In this Agreement, unless the context clearly indicates otherwise:
+
+(a) words used in the singular include the plural and words used in the plural include the singular;
+
+(b) if a word or phrase is defined in this Agreement, its other grammatical forms, as used in this Agreement, shall have a corresponding meaning;
+
+(c) reference to any gender includes the other gender and the neuter;
+
+(d) the words "include," "includes" and "including" shall be deemed to be followed by the words "without limitation";
+
+(e) the words "shall" and "will" are used interchangeably and have the same meaning;
+
+(f) the word "or" shall have the inclusive meaning represented by the phrase "and/or";
+
+(g) relative to the determination of any period of time, "from" means "from and including," "to" means "to but excluding" and "through" means "through and including";
+
+(h) all references to a specific time of day in this Agreement shall be based upon Eastern Standard Time or Eastern Daylight Savings Time, as applicable, on the date in question;
+
+(i) whenever this Agreement refers to a number of days, such number shall refer to calendar days unless Business Days are specified;
+
+(j) reference to any Article, Section or Schedule means such Article or Section of, or such Schedule to, this Agreement, as the case may be, and references in any Section or definition to any clause means such clause of such Section or definition;
+
+(k) the words "this Agreement," "herein," "hereunder," "hereof," "hereto" and words of similar import shall be deemed references to this Agreement as a whole and not to any particular Section or other provision of this Agreement;
+
+(l) the term "commercially reasonable efforts" means efforts which are commercially reasonable to enable a Party, directly or indirectly, to satisfy a condition to or otherwise assist in the consummation of a desired result and which do not require the performing Party to expend funds or assume Liabilities other than expenditures and Liabilities which are customary and reasonable in nature and amount in the context of a series of related transactions similar to the Separation;   4
+
+
+
+
+
+(m) reference to any agreement, instrument or other document means such agreement, instrument or other document as amended, supplemented and modified from time to time to the extent permitted by the provisions thereof and by this Agreement;
+
+(n) reference to any Law (including statutes and ordinances) means such Law (including any and all rules and regulations promulgated thereunder) as amended, modified, codified or reenacted, in whole or in part, and in effect at the time of determining compliance or applicability;
+
+(o) references to any Person include such Person's successors and assigns but, if applicable, only if such successors and assigns are permitted by this Agreement; a reference to such Person's "Affiliates" shall be deemed to mean such Person's Affiliates following the Distribution and any reference to a Third Party shall be deemed to mean a Person who is not a Party or an Affiliate of a Party;
+
+(p) if there is any conflict between the provisions of the main body of this Agreement and the Schedules hereto, the provisions of the main body of this Agreement shall control unless explicitly stated otherwise in such Schedule;
+
+(q) the titles to Articles and headings of Sections contained in this Agreement, in any Schedule and in the table of contents to this Agreement have been inserted for convenience of reference only and shall not be deemed to be a part of or to affect the meaning or interpretation of this Agreement; and
+
+(r) any portion of this Agreement obligating a Party to take any action or refrain from taking any action, as the case may be, shall mean that such Party shall also be obligated to cause its relevant Subsidiaries and Affiliates to take such action or refrain from taking such action, as the case may be.
+
+ARTICLE II
+
+INTELLECTUAL PROPERTY ASSIGNMENT AND OWNERSHIP
+
+Section 2.1 Reserved.
+
+Section 2.2 Reserved.
+
+Section 2.3 Assistance by Employees; Inventor Compensation. Each Party agrees that it shall make available to the other Party the services of its employees and contractors reasonably necessary to assist the other Party with the prosecution of, and other patent or trademark office proceedings (e.g., reissue, reexamination, interference, inter partes review, post-grant review, supplemental examination, and other similar proceedings) regarding the other Party's Patents, Trademarks and other Intellectual Property (collectively, "IP Proceedings"). Each Party agrees to reasonably make available to the other Party (i) inventors and other reasonably necessary persons employed by it for the other Party's reasonable needs regarding execution of documents, interviews, declarations and testimony, and (ii) documents, materials and information for the other Party's reasonable good faith needs regarding such IP Proceedings. The Party involved in the IP Proceedings shall be responsible for the actual and reasonable out-of-pocket expenses   5
+
+
+
+
+
+associated with such assistance, expressly excluding the value of the time of the other Party's personnel. Each Party will be responsible for providing inventor incentive compensation to its employees under its own internal policies. No Party shall have any obligation to provide any inventor incentive compensation to an employee of the other Party except as required by law.
+
+Section 2.4 Ownership.
+
+(a) SpinCo expressly acknowledges that, as between RemainCo and SpinCo (and any other member of the SpinCo Group), as of the Distribution Time and after effectuating all Prior Transfers and all assignments contemplated in the Intellectual Property Agreements, RemainCo is and shall be the sole and exclusive owner of the Intellectual Property set forth on Schedule 2.4(a), and SpinCo agrees that it shall do nothing inconsistent with such ownership.
+
+(b) RemainCo expressly acknowledges that, as between SpinCo and RemainCo (and any other member of the RemainCo Group), as of the Distribution Time and after effectuating all Prior Transfers and all assignments contemplated in the Intellectual Property Agreements, SpinCo is the sole and exclusive owner of the Intellectual Property set forth on Schedule 2.4(b), and RemainCo agrees that it shall do nothing inconsistent with such ownership.
+
+(c) If, within thirty-six (36) months of the Distribution Date, either Party has a good faith belief, based on reasonable inquiry, that Schedule 2.4(a) or Schedule 2.4(b) contains an error as to the allocation of ownership of any item of Intellectual Property set forth therein or that, as of the Distribution Date, any item of Intellectual Property was not otherwise properly allocated between RemainCo and the members of the RemainCo Group on the one hand and SpinCo and members of the SpinCo Group on the other hand, such Party will provide written notice to the other party regarding the error or discrepancy and the Parties shall, or shall cause the relevant members of the RemainCo Group and/or SpinCo Group, as necessary, to negotiate in good faith a mutually agreeable resolution.
+
+Section 2.5 Rights Arising in the Future.
+
+(a) As between RemainCo and SpinCo, unless otherwise agreed in writing by RemainCo or any member of the RemainCo Group and SpinCo or any member of the SpinCo Group, any and all Intellectual Property created, conceived, or actually reduced to practice by or on behalf of RemainCo or any member of the RemainCo Group after the Distribution Date, including, without limitation, any improvements or modifications to any Licensed SpinCo Intellectual Property or Shared Library Materials or any other Intellectual Property licensed by any member of the RemainCo Group or the SpinCo Group pursuant to any other Intellectual Property Agreement, shall belong solely and exclusively to RemainCo and neither SpinCo nor any member of the SpinCo Group shall have any right, title or interest in or to such Intellectual Property. RemainCo shall have no obligation to notify SpinCo or any member of the SpinCo Group of any such improvements or modifications or to disclose or license any such improvements or modifications to SpinCo or any member of the SpinCo Group.
+
+(b) As between RemainCo and SpinCo, unless otherwise agreed in writing by RemainCo or any member of the RemainCo Group and SpinCo or any member of the SpinCo Group, any and all Intellectual Property created, conceived, or actually reduced to practice by or   6
+
+
+
+
+
+on behalf of SpinCo or any member of the SpinCo Group after the Distribution Date, including, without limitation, any improvements or modifications to any Licensed RemainCo Intellectual Property or Shared Library Materials or any other Intellectual Property licensed by any member of the RemainCo Group or the SpinCo Group pursuant to any other Intellectual Property Agreement, shall belong solely and exclusively to SpinCo and neither RemainCo nor any member of the RemainCo Group shall have any right, title or interest in or to such Intellectual Property. SpinCo shall have no obligation to notify RemainCo or any member of the RemainCo Group of any such improvements or modifications or to disclose or license any such improvements or modifications to RemainCo or any member of the RemainCo Group.
+
+Section 2.6 Abandonment of Certain Intellectual Property. SpinCo and RemainCo acknowledge and agree that, as of the Distribution Date, neither SpinCo nor RemainCo has an interest in maintaining or continuing the prosecution and maintenance of the Intellectual Property set forth on Schedule 2.6, which Intellectual Property will be owned and controlled by the SpinCo Group as of the Distribution. SpinCo will, and will cause the applicable members of the SpinCo Group, to take all actions necessary to discontinue the maintenance and prosecution of the Intellectual Property set forth on Schedule 2.6 as of the date any applicable renewal fees are due in the future. For clarity, SpinCo shall not be obligated to affirmatively abandon such Intellectual Property prior to the date that any renewal fees are due in the future.
+
+Section 2.7 Reserved.
+
+Section 2.8 Steam/its generation and use. The Parties acknowledge and agree that the engineering textbook/publication titled "Steam/its generation and use" and previously titled "Steam" (the "Steam Book") is a highly regarded and well respected publication in worldwide utility and industrial power generation fields. SpinCo and RemainCo acknowledge and agree that, as of the Distribution Date, SpinCo (i) owns all right, title and interest in and to the Copyright in all editions of the Steam Book throughout the world; (ii) shall have the exclusive right to publish and shall be solely responsible for all aspects of the publication of the Steam Book in all languages and in all media of expression now known or later developed, throughout the world, subject to the provisions of this Section 2.8; (iii) shall have the right to retain all proceeds derived from exploiting the Copyright of any edition of the Steam Book; and (iv) subject to Section 2.8(c), shall have the sole right to determine the content contained in all future editions of the Steam Book.
+
+(a) SpinCo and RemainCo agree and acknowledge that, although RemainCo was responsible for publishing the current forty-second (42nd) edition of the Steam Book, as of the Distribution Date, all rights, responsibilities, duties and obligations related to the publication, distribution and sale of this edition shall be transferred to SpinCo. SpinCo shall retain all proceeds of the sales of this publication.
+
+(b) SpinCo shall have the sole right to use the title Steam/its generation and use to publish future editions of the Steam Book. As between SpinCo and RemainCo, SpinCo will retain and own all Copyrights in and to any future editions of the Steam Book, provided, however, that content contributed by RemainCo in the future may be owned by, and the Copyright therein owned by, RemainCo, as may be set forth in a subsequent agreement related to such contributions.   7
+
+
+
+
+
+(c) The Parties acknowledge that it is desirable for future editions of the Steam Book to present a comprehensive view of how steam is generated and used from a variety of energy sources including, inter alia, nuclear energy sources. SpinCo shall have the sole right to determine the content contained in future editions of the Steam Book, provided, however, that SpinCo will provide RemainCo with a right of first refusal to collaborate with SpinCo to provide content related to nuclear subject matter in the forty-third (43rd) edition of the Steam Book, with allocation of costs and revenues and any attribution and Copyright ownership with respect to RemainCo contributed content to be negotiated in good faith by the Parties. The foregoing right of first refusal shall cease in the event of a Change of Control of either RemainCo or SpinCo, provided, however, that the Parties will discuss the feasibility of future collaboration, specifically related to the contribution of nuclear related subject matter by RemainCo, in good faith in the event of a Change of Control.
+
+(d) RemainCo shall have, and SpinCo hereby grants to RemainCo, an unlimited, non-exclusive, perpetual, irrevocable, royalty free, worldwide right and license to use the content contained in the Steam Book, including the current edition and any past edition and any future edition to which RemainCo makes a contribution, for any purpose, including, without limitation, to reproduce, publicly display, modify, make derivative works, distribute, publicly perform and distribute for RemainCo's internal business purposes, including in connection with customer related activities, provided, however, that RemainCo shall (i) not use any non-nuclear content contained in the Steam Book in connection with publishing or distributing a publication which competes with the Steam Book and (ii) provide attribution and accreditation using a copyright notice having the format required by law in connection with the use of any protectable expression of the non-nuclear content contained in the Steam Book. SpinCo shall provide RemainCo with five hundred (500) copies of the current edition of the Steam Book at no cost to RemainCo, which copies RemainCo may distribute without limitation, including to RemainCo customers at no charge. In the event that RemainCo wishes to order additional copies of the current edition of the Steam Book or has a desire to purchase existing stock of earlier editions of the Steam Book, SpinCo will sell such copies to RemainCo at cost, which copies RemainCo may distribute without limitation, including to RemainCo customers at no charge.
+
+ARTICLE III
+
+TRADEMARKS
+
+Section 3.1 House Marks.
+
+(a) RemainCo agrees and acknowledges that (i) as of Distribution Date, as between the RemainCo Group and the SpinCo Group, all right, title and interest in and to the Trademarks set forth on Schedule 3.1 (the "SpinCo Trademarks"), including the SpinCo House Marks, shall be the sole and exclusive property of the SpinCo Group and (ii) except as otherwise provided in Section 3.2, the RemainCo Group shall cease and discontinue all use of the SpinCo Marks, including the SpinCo House Marks, as of the Distribution Date. In addition, RemainCo agrees to use its best efforts to change its name to eliminate Babcock & Wilcox therefrom, and, if applicable, to cause the members of the RemainCo Group to change their names to eliminate "Babcock," "Wilcox," "Babcock and Wilcox," "Babcock & Wilcox" or "B&W" therefrom and to cease and discontinue the use of the term "Babcock & Wilcox" or "B&W" and any of the   8
+
+
+
+
+
+SpinCo Marks in its business or operations as promptly as practicable following the Distribution Date. Notwithstanding the foregoing, SpinCo agrees and acknowledges that RemainCo will change its name to BWX Technologies and that RemainCo and the RemainCo Group may continue to use "BW" and derivations thereof and therefrom (but not "B&W") in its business or operations after the Distribution Date. SpinCo agrees not to, and shall not permit any member of the SpinCo Group to, oppose, petition to cancel, or otherwise challenge or object to the use of or any current application and/or subsequent application for registration by RemainCo or any member of the RemainCo Group of any RemainCo House Marks as long as such use and/or registration does not make use of the SpinCo House Marks and further agrees to take such actions as may be reasonably requested by RemainCo and execute or cause to be executed by the appropriate members of the SpinCo Group such other agreements, instruments and other documents, including coexistence agreements and letters of consent, as may be reasonably requested by RemainCo to facilitate the registration and continued prosecution of RemainCo House Marks (e.g., in the event that any SpinCo House Mark is cited against an application for a RemainCo House Mark).
+
+(b) RemainCo agrees not to, and shall not permit any member of the RemainCo Group to, oppose, petition to cancel, or otherwise challenge or object to the use of or any current application and/or subsequent application for registration by SpinCo or any member of the SpinCo Group of any SpinCo House Marks, as long as such use and/or registration does not make use of the RemainCo House Marks and further agrees to take such actions as may be reasonably requested by SpinCo and execute or cause to be executed by the appropriate members of the RemainCo Group such other agreements, instruments and other documents, including coexistence agreements and letters of consent, as may be reasonably requested by SpinCo to facilitate the registration and continued prosecution of SpinCo House Marks (e.g., in the event that any RemainCo House Mark is cited against an application for a SpinCo House Mark).
+
+Section 3.2 Limited License to Use SpinCo House Marks. RemainCo shall have the right to use the SpinCo House Marks in connection with the operation of the RemainCo Business for a limited period of 270 days following the Distribution Date. After such 270-day period, RemainCo shall discontinue all use of the SpinCo House Marks, including any use on stationery or letterhead and any use on or in connection with other RemainCo Assets. However, the Parties agree that the RemainCo Group may continue, beyond such 270-day period, to distribute copies of any existing inventory of its marketing literature, including technical papers, brochures, and printed promotional material, in existence on the Distribution Date, provided, however, that reasonable efforts are made to remove or cover up any SpinCo House Marks appearing thereon prior to distribution. Notwithstanding the foregoing provisions of this Section 3.2, in no event shall any of the members of the RemainCo Group continue to use the SpinCo House Marks (whether in any of the materials referenced in the immediately preceding sentence or otherwise) following a Change of Control of RemainCo. For the avoidance of doubt, none of the foregoing shall apply to any stationery, letterhead or marketing literature, including technical papers, brochures, and printed promotional material, distributed by any member of the RemainCo Group to its customers prior to the Distribution Date or to any SpinCo House Marks included on or in any copies of the Steam Book distributed by RemainCo or any member of the RemainCo Group prior to or after the Distribution Date. All of RemainCo's use of the SpinCo House Marks shall inure to the benefit of SpinCo. RemainCo agrees to use the SpinCo House Marks in accordance with such quality standards as are used by the SpinCo Group as of the date of this Agreement. Except as set forth in this Section 3.2, it is expressly agreed that RemainCo is not obtaining any right, title or interest in the SpinCo House Marks.   9
+
+
+
+
+
+Section 3.3 Removal of Classes from SpinCo Marks.
+
+(a) Within sixty (60) days from the Distribution Date, SpinCo will make all necessary filings and take all necessary actions, subject to all applicable local Laws, to (i) as applicable, amend the description of goods and services to remove references to nuclear subject matter included in any existing registration for any SpinCo House Mark registered in the United States, Canada, the United Kingdom, the People's Republic of China, Romania, South Korea, Vietnam, India, Indonesia, Japan, Mexico, Norway, South Africa, Ukraine, the European Union and Argentina and (ii) as applicable, to amend or modify the description of goods and services to remove references to nuclear subject matter contained in any application pending for any SpinCo House Mark in the United States, Canada, the United Kingdom, the People's Republic of China, Romania, South Korea, Vietnam, India, Indonesia, Japan, Mexico, Norway, South Africa, Ukraine, the European Union and Argentina. Without limiting the foregoing, within sixty (60) days from the Distribution Date, SpinCo will make all necessary filings and take all necessary actions, subject to all applicable local Laws, to amend the description of goods and services to remove referenced to nuclear subject matter from the registrations and applications for SpinCo House Marks listed on Schedule 3.3.
+
+(b) Within ninety (90) days from the Distribution Date, SpinCo will make all necessary filings and take all necessary actions, subject to all applicable local Laws, to (i) as applicable, amend the description of goods and services to remove references to nuclear subject matter included in any existing registration for any SpinCo Trademarks (other than SpinCo House Marks otherwise covered by Section 3.3(a)) and (ii) as applicable, amend or modify any application pending for any SpinCo Mark (other than SpinCo House Marks otherwise covered by Section 3.3(a)) to amend the description of goods and services to remove references to nuclear subject matter contained in such application.
+
+Section 3.4 RemainCo Marks. SpinCo agrees and acknowledges that (i) as of the Date of this Agreement, as between the SpinCo Group and the RemainCo Group, all right, title and interest in and to the Trademarks set forth on Schedule 3.4 (the "RemainCo Trademarks") shall be the sole and exclusive property of the RemainCo Group and the SpinCo Group shall cease and discontinue all use of the RemainCo Marks as of the Distribution Date.
+
+Section 3.5 Duty to Avoid Confusion. The Parties confirm their belief that the likelihood of confusion will not result from their respective use of the SpinCo Marks and RemainCo Marks, including RemainCo's continuing use of the name BWX Technologies and continued use of the terms "BWX", "BWX Technologies" or "BWXT" and derivations thereof and therefrom, due to the differences in the goods and services primarily associated therewith (e.g., nuclear versus fossil fuel). In the event that either Party becomes aware of any actual confusion or mistake occurring as a result of their uses of their respective marks, the Parties agree to communicate all details of each such instance to each other, and to cooperate reasonably to take steps to abate the cause of confusion or mistake, and to prevent any such confusion or mistake from arising again.   10
+
+
+
+
+
+ARTICLE IV
+
+SHARED LIBRARY MATERIALS
+
+Section 4.1 Shared Library Materials. RemainCo and SpinCo acknowledge and agree that the Shared Library Materials represent a collection of shared historical and foundational information related to and derived from more than fifty (50) years of research and development focused on technology and design criteria applicable to the businesses of RemainCo and SpinCo, which information, including all Know-How and Copyrights contained therein, has application to the businesses of RemainCo and SpinCo. The Shared Library Materials identified as of the Distribution Date are set forth on Schedule 4.1, which may be amended or modified upon mutual agreement of the Parties from time to time to (i) include additional Shared Library Materials discovered after the Distribution Date or (ii) to reflect the results of the allocation process contemplated in Section 4.4 below.
+
+Section 4.2 Cross-License of Shared Library Materials. The Parties acknowledge and agree that each of RemainCo and SpinCo and additional members of the RemainCo Group and SpinCo Group presently have shared access to and rights to exploit the Shared Library Materials and may have a right and interest in and to certain Shared Library Materials, including in and to Intellectual Property embodied therein. Accordingly, (i) with respect to RemainCo's right and interest in and to the Shared Library Materials, RemainCo, for itself and as representative of all other members of the RemainCo Group, hereby grants to SpinCo (x) a perpetual (subject to Section 4.4), irrevocable, exclusive, royalty-free, worldwide right and license with the right to grant sublicenses (solely as set forth in Section 5.6) to use the Shared Library Materials, including all Know-How and Copyrights embodied therein, for any purpose in the SpinCo Core Field and (y) a perpetual (subject to Section 4.4), irrevocable, non-exclusive, royalty-free, worldwide right and license with the right to grant sublicenses (solely as set forth in Section 5.6) to use the Shared Library Materials, including all Know-How and Copyrights embodied therein, for any purpose in any field other than the RemainCo Core Field or the SpinCo Core Field and (ii) with respect to SpinCo's right and interest in and to the Shared Library Materials, SpinCo, for itself and as representative of all other members of the SpinCo Group, hereby grants to RemainCo (x) a perpetual (subject to Section 4.4), irrevocable, exclusive, royalty-free, worldwide right and license with the right to grant sublicenses (solely as set forth in Section 5.6) to use the Shared Library Materials, including all Know-How and Copyrights embodied therein, for any purpose in the RemainCo Core Field and (y) a perpetual (subject to Section 4.4), irrevocable, non- exclusive, royalty-free, worldwide right and license with the right to grant sublicenses (solely as set forth in Section 5.6) to use the Shared Library Materials, including all Know-How and Copyrights embodied therein, for any purpose in any field other than the SpinCo Core Field or the RemainCo Core Field. The foregoing licenses include the right to reproduce, prepare derivative works, distribute, perform and otherwise exploit such Shared Library Materials and to use the Shared Library Materials to design, develop, manufacture, have manufactured, sell and support products and services, subject in each case to applicable export control Laws and the provisions of Section 4.5.
+
+Section 4.3 Maintenance of Shared Library Materials. Unless mutually agreed upon by the Parties in writing, all Shared Library Materials (other than those which have been allocated pursuant to Section 4.4) shall be maintained in a mutually agreed upon location accessible to both Parties (the "Shared Location") and in a manner mutually agreeable to both Parties with respect to shared access, removal and replacement of documents and similar issues.   11
+
+
+
+
+
+(a) Notwithstanding the foregoing, the Parties acknowledge and agree that (i) archival copies of certain Shared Library Materials are recorded on microfiche; (ii) two sets of the applicable microfiche exist as of the Distribution Time; and (iii) rather than maintaining such microfiche in a mutually agreed upon location accessible to both Parties, each Party will be entitled to maintain a copy of the microfiche at its own location, provided, however, that in the event that any Shared Library Materials are found to be missing from or otherwise inaccessible using one Party's copy of the applicable microfiche, the other Party will provide such Party with access to the microfiche in its possession for copying, with all copying costs to be paid by the Party seeking to obtain the copy.
+
+(b) RemainCo and SpinCo agree to share all costs and expenses of maintaining the Shared Library Materials on an equal basis and to share all costs and expenses of maintaining the Shared Location as set forth in Schedule 6.3 of the Master Separation Agreement. In the event that one Party is responsible vis-a-vis a Third Party for the payment of costs and expenses related to the Shared Location, such Party will provide to the other Party a statement of all costs and expenses incurred in connection with the Shared Location as set forth in Schedule 6.3 of the Master Separation Agreement. The other Party will reimburse the responsible Party for the applicable percentage of such costs and expenses within thirty (30) days of receipt of such statement, unless otherwise agreed upon by the Parties.
+
+(c) Without limiting this Section 4.3, the Parties agree that as of the Distribution Time, the Shared Location will be the Iron Mountain storage facility located at Boyers, Pennsylvania, which will be maintained pursuant to an agreement between RemainCo and Iron Mountain for the 137RC account and by SpinCo for the 1100 account. RemainCo and SpinCo shall share all costs and expenses related to storing the Shared Library Materials with Iron Mountain in a manner consistent with Section 4.3(b) above.
+
+Section 4.4 Potential Allocation of Shared Library Materials. The Parties acknowledge and agree that the Shared Library Materials may contain limited material that could be allocated solely to one Party with respect to ownership and use. In the event that one Party (the "Notifying Party") discovers an item of Shared Library Material which it believes should be allocated to one Party based upon a good faith belief that such items belongs to or relates exclusively to the business of such Party, the Notifying Party will notify the other Party (the "Reviewing Party") of the item and the proposed allocation, including the Notifying Party's rationale, in writing and designate at least one representative from the relevant operating division to negotiate the proposal. The Reviewing Party will designate at least one representative from the relevant operating division to review and negotiate the proposed allocation. The Parties, including the designated representatives, shall negotiate regarding the Notifying Party's proposal in good faith. In the event that the Parties mutually agree that the Notifying Party's proposal is valid, the applicable item of Shared Library Material (i) shall be deemed to be owned by the specified Party, (ii) shall no longer constitute Shared Library Material; (iii) shall be permanently removed from the Shared Location by the specified Party and (iv) shall be removed from Schedule 4.1, provided, however, that the foregoing shall not limit a Party's existing use of any Shared Library Material or obligate any Party to cease utilizing any derivative works of such   12
+
+
+
+
+
+Shared Library Material made prior to the date of agreement regarding the Notifying Party's proposal. In the event that the Parties do not agree that the Notifying Party's proposal is valid, the applicable item shall remain Shared Library Material under the terms of this Agreement. Without limiting the foregoing, the Parties agree and acknowledge that the Shared Library Materials may contain design standards and design manuals related solely to nuclear content set forth on Schedule 4.4 (collectively, the "Nuclear Design Manuals"), and that such Nuclear Design Manuals are deemed to be owned by RemainCo, subject only to SpinCo's right to confirm that such Nuclear Design Manuals, including each page therein, are marked with the engineering standards series and numbering set forth on Schedule 4.4. SpinCo's right to such confirmation is expressly limited to confirmation of the engineering standards series and numbering system contained in or on such Nuclear Design Materials for purposes of confirmation of the document's identification and does not include the right to analyze, review, or approve any of the content contained in any such Nuclear Design Manual.
+
+Section 4.5 Confidentiality and Trade Secret Status of Shared Library Materials. The Parties acknowledge that the Research Documents contained within the Shared Library Materials likely contain proprietary trade secret information. Each Party will use reasonable efforts to maintain confidentiality of any trade secret or proprietary information contained within the Shared Library Materials in a manner materially consistent with the how the applicable Party protects its own trade secret or proprietary information.
+
+Section 4.6 Third Party Materials Contained in the Shared Library Materials. The Parties acknowledge that the Shared Library Materials contain Third Party-owned material, including, without limitation, the Reference Materials, and this Agreement does not include any license to utilize such Third Party-owned material or any representation, warranty or indemnity from or to SpinCo or RemainCo or any member of the SpinCo Group or RemainCo Group related to the use of such Third Party-owned material in connection with the Shared Library Materials.
+
+ARTICLE V
+
+INTELLECTUAL PROPERTY LICENSES AND COVENANTS
+
+Section 5.1 Cross-License of Shared Know-How.
+
+(a) SpinCo, for itself and as representative of all other members of the SpinCo Group, hereby grants to RemainCo (x) a perpetual, irrevocable, exclusive, royalty-free, worldwide right and license with the right to grant sublicenses (solely as set forth in Section 5.6) to use the SpinCo Know- How currently or previously used in connection with the RemainCo Business or otherwise in the possession of RemainCo or any member of the RemainCo Group as of Distribution Date (the "Licensed SpinCo Know-How"), for the continued operation of the RemainCo Business and any future extensions of the RemainCo Business in the RemainCo Core Field and (y) a perpetual, irrevocable, non-exclusive, royalty-free, worldwide right and license with the right to grant sublicenses (solely as set forth in Section 5.6) to use the Licensed SpinCo Know-How for the continued operation of the RemainCo Business and any future extensions of the RemainCo Business in any field other than the RemainCo Core Field or the SpinCo Core Field; provided, however, the foregoing licenses shall not extend to (i) SpinCo Know-How   13
+
+
+
+
+
+licensed by SpinCo or any other member of the SpinCo Group if and to the extent the licensing of same to RemainCo would constitute a breach of an agreement with any Third Party executed prior to the Effective Date or result in any expense to SpinCo or any member of the SpinCo Group for payments to such Third Party or (ii) any intellectual property not owned by one or more members of the SpinCo Group, or as to which no member of the SpinCo Group has the right to grant sublicenses, as of the Effective Date.
+
+(b) RemainCo, for itself and as representative of all other members of the RemainCo Group, hereby grants to SpinCo (x) a perpetual, irrevocable, exclusive, royalty-free, worldwide right and license with the right to grant sublicenses (solely as set forth in Section 5.6) to use the RemainCo Know-How currently or previously used in connection with the SpinCo Business or otherwise in the possession of SpinCo or any member of the SpinCo Group as of the Distribution Date (the "Licensed RemainCo Know-How"), for the continued operation of the SpinCo Business and any future extensions of the SpinCo Business in the SpinCo Core Field and (y) a perpetual, irrevocable, non-exclusive, royalty-free, worldwide right and license with the right to grant sublicenses (solely as set forth in Section 5.6) to use the Licensed RemainCo Know-How for the continued operation of the SpinCo Business and any future extensions of the SpinCo Business in any field other than the RemainCo Core Field or the SpinCo Core Field; provided, however, the foregoing licenses shall not extend to (i) RemainCo Know-How licensed by RemainCo or any other member of the RemainCo Group if and to the extent the licensing of same to SpinCo would constitute a breach of an agreement with any Third Party executed prior to the Effective Date or result in any expense to RemainCo or any member of the RemainCo Group for payments to such Third Party or (ii) any intellectual property not owned by one or more members of the RemainCo Group, or as to which no member of the RemainCo Group has the right to grant sublicenses, as of the Effective Date.
+
+Section 5.2 Reserved.
+
+Section 5.3 Reserved.
+
+Section 5.4 Cross-Licenses of Software.
+
+(a) The Parties acknowledge and agree that each of RemainCo and SpinCo and additional members of the RemainCo Group and SpinCo Group presently have shared access to and rights to exploit the Software set forth on Schedule 5.4(a) (the "Foundational Software") and may have a right and interest in and to the Foundational Software, including in and to Intellectual Property embodied therein. Accordingly, (i) with respect to RemainCo's right and interest in and to the Foundational Software, RemainCo, for itself and as representative of all other members of the RemainCo Group, hereby grants to SpinCo (x) a perpetual, irrevocable, exclusive, royalty-free, worldwide right and license to use the Foundational Software, including any Intellectual Property embodied therein, for the continued operation of the SpinCo Business and any future extensions of the SpinCo Business in the SpinCo Core Field and (y) a perpetual, irrevocable, non-exclusive, royalty-free, worldwide right and license to use the Foundational Software, including any Intellectual Property embodied therein, for the continued operation of the SpinCo Business and any future extensions of the SpinCo Business in any field other than the SpinCo Core Field or the RemainCo Core Field; and (ii) with respect to SpinCo's right and interest in and to the Foundational Software, SpinCo, for itself and as representative of all other members   14
+
+
+
+
+
+of the SpinCo Group, hereby grants to RemainCo (x) a perpetual, irrevocable, exclusive, royalty-free, worldwide right and license to use the Foundational Software, including any Intellectual Property embodied therein, for the continued operation of the RemainCo Business and any future extensions of the RemainCo Business in the RemainCo Core Field and (y) a perpetual, irrevocable, non-exclusive, royalty-free, worldwide right and license to use the Foundational Software, including any Intellectual Property embodied therein, for the continued operation of the RemainCo Business and any future extensions of the RemainCo Business in any field other than the SpinCo Core Field or the RemainCo Core Field. The foregoing licenses includes the right to reproduce, prepare derivative works, distribute, perform and otherwise exploit such Foundational Software and to use the Foundational Software to design, develop, manufacture, have manufactured, sell and support products and services.
+
+Section 5.5 Reserved.
+
+Section 5.6 Sublicensing; Assignability.
+
+(a) The foregoing licenses shall be assignable in whole or in part only (i) to any Affiliate or (ii) to the extent the licensee transfers to a Third Party all or substantially all of the assets of the business to which such Licensed SpinCo Intellectual Property or the Licensed RemainCo Intellectual Property, as applicable, relates.
+
+(b) RemainCo may sublicense the Licensed SpinCo Intellectual Property to Affiliates of RemainCo, even if they become Affiliates after the Distribution Date, solely within the scope of its licenses in Article 5, provided that such sublicense shall only be effective for such time as such entity remains an Affiliate of RemainCo, subject to Section 5.6(a)(ii). RemainCo may, and may permit its sublicensees to, sublicense erection and arrangement drawings; form, fit, and function drawings; and product and installation/erection specifications based upon the Licensed SpinCo Intellectual Property to: (i) customers to enable them to use, operate, maintain and repair the equipment, services or other deliverables which incorporate or are derived from the Licensed SpinCo Intellectual Property and which were sold to them by RemainCo or its sublicensees; and (ii) to contractors, subcontractors and vendors to enable them to manufacture, erect, install, service, repair and maintain those products to which the licenses set forth in Article 5 relate.
+
+(c) SpinCo may sublicense the Licensed RemainCo Intellectual Property to Affiliates of SpinCo, even if they become Affiliates after the Distribution Date, solely within the scope of its licenses in Article 5, provided that such sublicense shall only be effective for such time as such entity remains an Affiliate of SpinCo, subject to Section 5.6(a)(ii). SpinCo may, and may permit its sublicensees to, sublicense erection and arrangement drawings; form, fit, and function drawings; and product and installation/erection specifications based upon the Licensed RemainCo Intellectual Property to: (i) customers to enable them to use, operate, maintain and repair the equipment, services or other deliverables which incorporate or are derived from the Licensed RemainCo Intellectual Property and which were sold to them by SpinCo or its sublicensees; and (ii) to contractors, subcontractors and others to enable them to manufacture, erect, install, service, repair and maintain those products to which the license set forth in Article 5 relate.   15
+
+
+
+
+
+Section 5.7 Restrictions on Licensor Exploitation of Intellectual Property.
+
+(a) RemainCo (i) shall not use or exploit the Licensed RemainCo Intellectual Property in the SpinCo Core Field and (ii) shall not, and shall not permit any member of the RemainCo Group to, license, provide or otherwise grant to any Third Party the right to use, exploit or access any Licensed RemainCo Intellectual Property in the SpinCo Core Field.
+
+(b) SpinCo (i) shall not use or exploit the Licensed SpinCo Intellectual Property in the RemainCo Core Field and (ii) shall not, and shall not permit any member of the SpinCo Group to, license, provide or otherwise grant to any Third Party the right to use, exploit or access any Licensed SpinCo Intellectual Property in the RemainCo Core Field.
+
+Section 5.8 Third Party Agreements; Reservation of Rights.
+
+(a) All licenses granted herein are expressly made only subject to, and only to the extent permissible under, all pre-existing rights, obligations and restrictions contained in any existing agreements related to the applicable Intellectual Property licensed herein, including, without limitation, licenses or other rights existing in third parties granted by SpinCo or RemainCo and/or their sublicensees in existing license agreements, applicable agreements in existence between members of the RemainCo Group and the United States Department of Energy, applicable agreements in existence between members of the SpinCo Group and the United States Department of Energy and all existing security agreements and liens in place in connection with such licensed Intellectual Property.
+
+(b) Except for the limited rights granted in this Agreement in connection with the Licensed RemainCo Intellectual Property, including, without limitation, the rights and obligations arising out of or related to Section 5.10, RemainCo reserves to itself all right, title and interest in and to the Licensed RemainCo Intellectual Property. Without limiting the foregoing, for purposes of clarity, as between RemainCo and SpinCo, RemainCo retains all rights in and to, and to use and exploit, and including without limitation the right to make, have made, use, lease, sell, offer for sale, and import, and use, reproduce, prepare derivative works of, distribute copies, perform and display products and services which utilize or embody such Licensed RemainCo Intellectual Property in the RemainCo Core Field. Except for the limited rights granted in this Agreement in connection with the Licensed SpinCo Intellectual Property, including, without limitation, the rights and obligations arising out of or related to Section 5.10, SpinCo reserves to itself all right, title and interest in and to the Licensed SpinCo Intellectual Property. Without limiting the foregoing, for purposes of clarity, as between RemainCo and SpinCo, SpinCo retains all rights in and to, and to use and exploit, and including without limitation the right to make, have made, use, lease, sell, offer for sale, and import, and use, reproduce, prepare derivative works of, distribute copies, perform and display products and services which utilize or embody such Licensed SpinCo Intellectual Property in the SpinCo Core Field.
+
+Section 5.9 Maintenance of Intellectual Property.
+
+(a) RemainCo shall not have, nor shall any member of the RemainCo Group have, any obligation to maintain the pendency, subsistence, validity, enforceability or confidentiality of any Licensed RemainCo Intellectual Property. RemainCo may, and may permit an applicable member of the RemainCo Group to, discontinue maintenance, abandon or dedicate to the public any Licensed RemainCo Intellectual Property.   16
+
+
+
+
+
+(b) SpinCo shall not have, nor shall any member of the SpinCo Group have, any obligation to maintain the pendency, subsistence, validity, enforceability or confidentiality of any Licensed SpinCo Intellectual Property. SpinCo may, and may permit an applicable member of the RemainCo Group to, discontinue maintenance, abandon or dedicate to the public any Licensed RemainCo Intellectual Property.
+
+Section 5.10 Covenants.
+
+(a) RemainCo hereby covenants not to sue SpinCo under any Licensed RemainCo Know-How and under RemainCo's right, title and interest in and to Shared Library Materials and Foundational Software, including, without limitation, all applicable Patents, Copyrights, and Know-How, for infringement or misappropriation based upon any action that occurs in connection with the continued operation of the SpinCo Business and any future extensions of the SpinCo Business in any field other than the RemainCo Core Field after the Distribution Date. The foregoing covenant shall extend to any permitted assignees or sublicensees of SpinCo hereunder. RemainCo further covenants to impose the obligations set forth in this Section 5.10(a) on any subsequent Third Party or Affiliate to whom RemainCo may sell, transfer, convey or otherwise assign any of the foregoing Intellectual Property and shall ensure that any such Person agrees, in writing, to be bound by the covenants and obligations set forth herein.
+
+(b) SpinCo hereby covenants not to sue RemainCo under any Licensed SpinCo Know-How and under SpinCo's right, title and interest in and to Shared Library Materials and Foundational Software, including, without limitation, all applicable Patents, Copyrights, and Know-How, for infringement or misappropriation based upon any action that occurs in connection with the continued operation of the RemainCo Business and any future extensions of the RemainCo Business in any field other than the SpinCo Core Field after the Distribution Date. The foregoing covenant shall extend to any permitted assignees or sublicensees of RemainCo hereunder. SpinCo further covenants to impose the obligations set forth in this Section 5.10(b) on any subsequent Third Party or Affiliate to whom SpinCo may sell, transfer, convey or otherwise assign any of the foregoing Intellectual Property and shall ensure that any such Person agrees, in writing, to be bound by the covenants and obligations set forth herein.
+
+ARTICLE VI
+
+TECHNICAL ASSISTANCE AND TECHNOLOGY TRANSFER
+
+Section 6.1 Reserved.
+
+Section 6.2 Reserved.
+
+Section 6.3 No Additional Technical Assistance. Except as expressly set forth in the Master Separation Agreement or any other Intellectual Property Agreement or other Ancillary Agreement, no Party shall be required to provide the other Party with any technical assistance or to furnish any other Party with any documents, materials or other information or Know-How.   17
+
+
+
+
+
+ARTICLE VII
+
+NO WARRANTIES.
+
+Except as expressly set forth in this Agreement, SpinCo and RemainCo understand and agree that no member of the RemainCo Group is making any representation or warranty of any kind whatsoever, express or implied, to SpinCo or any member of the SpinCo Group in any way as to the SpinCo Business, the Foundational Software, Shared Library Materials or the Licensed RemainCo Intellectual Property; and, no member of the SpinCo Group is making any representation or warranty of any kind whatsoever, express or implied, to RemainCo or any member of the RemainCo Group in any way as to the RemainCo Business, the Shared Library Materials, the Foundational Software or the Licensed SpinCo Intellectual Property. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING THE TRANSFERS AND LICENSES REFERRED TO IN THIS AGREEMENT (INCLUDING PRIOR TRANSFERS) HAVE BEEN, OR WILL BE, MADE WITHOUT ANY REPRESENTATION OR WARRANTY OF ANY NATURE, EXPRESS OR IMPLIED, AT COMMON LAW, BY STATUTE OR OTHERWISE, RELATING TO (A) THE VALUE OR FREEDOM FROM ENCUMBRANCE OF, ANY ASSETS OR INTELLECTUAL PROPERTY, (B) THE CONDITION OR SUFFICIENCY OF ANY ASSETS OR INTELLECTUAL PROPERTY (INCLUDING ANY IMPLIED OR EXPRESS WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, MARKETABILITY, TITLE, VALUE, FREEDOM FROM ENCUMBRANCE OR OF CONFORMITY TO MODELS OR SAMPLES OF MATERIALS, OR THE PRESENCE OR ABSENCE OF ANY HAZARDOUS MATERIALS IN OR ON, OR DISPOSED OR DISCHARGED FROM, SUCH ASSETS), (C) THE NON-INFRINGEMENT OF ANY PATENT OR OTHER INTELLECTUAL PROPERTY RIGHT OF ANY THIRD PARTY, (D) ANY OTHER MATTER CONCERNING ANY ASSETS OR INTELLECTUAL PROPERTY (E) AS TO THE LEGAL SUFFICIENCY TO CONVEY TITLE TO ANY ASSETS OR INTELLECTUAL PROPERTY OR (F) THAT THE LICENSOR HAS ANY RIGHTS OR TITLE AT ALL IN OR TO ANY INTELLECTUAL PROPERTY. WITHOUT LIMITING THE FOREGOING, REMAINCO AND SPINCO HEREBY ACKNOWLEDGE AND AGREE THAT ALL INTELLECTUAL PROPERTY TRANSFERRED OR LICENSED PURSUANT TO THIS AGREEMENT AND ALL INTELLECTUAL PROPERTY INCLUDED IN PRIOR TRANSFERS ARE BEING OR WERE LICENSED OR TRANSFERRED "AS IS, WHERE IS."
+
+ARTICLE VIII
+
+THIRD-PARTY INFRINGEMENT
+
+Section 8.1 No Obligation. No Party shall have any obligation to institute or maintain any action or suit against any Third Party for infringement or misappropriation of any Intellectual Property licensed hereunder, or to defend any action or suit brought by a Third Party which challenges or concerns the validity of any such Intellectual Property or which claims that any Intellectual Property licensed to the other Party infringes or constitutes misappropriation of the Intellectual Property rights of any Third Party.   18
+
+
+
+
+
+Section 8.2 Notice Regarding Infringement. Each Party shall promptly notify the other Party in writing upon learning that a Third Party may potentially be infringing, misappropriating or otherwise violating any Intellectual Property licensed under this Agreement, which notice shall set forth in reasonable detail the identity of the suspected infringer and nature of suspected infringement.
+
+Section 8.3 Suits for Infringement.
+
+(a) Licensed RemainCo Intellectual Property.
+
+(i) With respect to any Licensed RemainCo Intellectual Property to which RemainCo has granted SpinCo an exclusive license hereunder, as between RemainCo and SpinCo, RemainCo shall have the first right to initiate, prosecute and control any action or proceeding to restrain infringement or misappropriation of such Licensed RemainCo Intellectual Property in the SpinCo Core Field, and, for purposes of clarity, the sole and exclusive right to initiate, prosecute and control such proceedings in the RemainCo Core Field and in any field other than the SpinCo Core Field. RemainCo shall provide prompt written notice to SpinCo of any determination to initiate, prosecute and control any such action or proceeding in the SpinCo Core Field. SpinCo, as the exclusive licensee, agrees to be joined as a party if necessary to prosecute the action or proceeding, and shall provide all reasonable cooperation, including any necessary use of their name, required to prosecute such action or proceeding. In such instance, RemainCo shall control any such action or proceeding and negotiations for its settlement and compromise and shall have sole discretion regarding the settlement or compromise thereof. In connection with the foregoing, SpinCo may, at its option, elect to assume and pay its and RemainCo's out-of-pocket costs incurred in connection with such litigation or proceeding undertaken by RemainCo, including, without limitation, attorney's fees. SpinCo will provide prompt written notice to RemainCo, in any event no later than thirty (30) days after receipt of RemainCo's notice of its determination to initiate, prosecute and control such action or proceeding in the SpinCo Core Field, of its determination to elect to assume and pay the applicable costs or to decline to pay assume and pay the applicable costs. In the event SpinCo does not elect to assume and pay the costs associated with RemainCo's initiation, prosecution and control of such action or proceeding in the SpinCo Core Field, RemainCo shall assume and pay its and SpinCo's out-of-pocket costs incurred in connection with such litigation or proceeding undertaken by RemainCo, including, without limitation, attorney's fees. Any recovery obtained as a result of such proceeding in the SpinCo Core Field shall be retained by (i) SpinCo in the event that SpinCo assumed and paid the applicable costs of the litigation or proceeding or (ii) RemainCo in the event that RemainCo assumed and paid the applicable costs of the litigation or proceeding in accordance with this Section 8.3(a)(i).
+
+(ii) If RemainCo does not exercise its right to enforce any applicable Licensed RemainCo Intellectual Property in the SpinCo Core Field, RemainCo shall provide notice to that effect to SpinCo and, as between RemainCo and SpinCo, SpinCo shall have the right to initiate, prosecute and control any action or proceeding to restrain infringement or misappropriation of such Licensed RemainCo Intellectual Property in the SpinCo Core Field. SpinCo shall provide prompt written notice to RemainCo of any determination to initiate, prosecute and control any such action or proceeding in the SpinCo Core Field. RemainCo, as the owner and licensor, agrees to be joined as a party if necessary to prosecute the action or proceeding, and shall   19
+
+
+
+
+
+provide all reasonable cooperation, including any necessary use of their name, required to prosecute such action or proceeding. In connection with the foregoing, SpinCo shall assume and pay its and RemainCo's out-of-pocket costs incurred in connection with any litigations or proceedings described above, including, without limitation, attorney's fees. Any recovery obtained as a result of such proceeding related to infringement or misappropriation in the SpinCo Core Field shall be retained by SpinCo.
+
+(iii) In the event that a Third Party may potentially be infringing, misappropriating or otherwise violating any Licensed RemainCo Intellectual Property in both the SpinCo Core Field and the RemainCo Core Field, SpinCo and RemainCo will meet and confer in good faith regarding the manner in which to respond to such infringement in the SpinCo Core Field and RemainCo Core Field collectively, provided, however, that the foregoing does not limit the rights set forth in Section 8.3(a)(i) or Section 8.3(a)(ii).
+
+(b) Licensed SpinCo Intellectual Property.
+
+(i) With respect to any Licensed SpinCo Intellectual Property to which SpinCo has granted RemainCo an exclusive license hereunder, as between SpinCo and RemainCo, SpinCo shall have the first right to initiate, prosecute and control any action or proceeding to restrain infringement or misappropriation of such Licensed SpinCo Intellectual Property in the RemainCo Core Field, and, for purposes of clarity, the sole and exclusive right to initiate, prosecute and control such proceedings in the SpinCo Core Field and in any field other than the RemainCo Core Field. SpinCo shall provide prompt written notice to RemainCo of any determination to initiate, prosecute and control any such action or proceeding in the RemainCo Core Field. RemainCo, as the exclusive licensee, agrees to be joined as a party if necessary to prosecute the action or proceeding, and shall provide all reasonable cooperation, including any necessary use of their name, required to prosecute such action or proceeding. In such instance, SpinCo shall control any such action or proceeding and negotiations for its settlement and compromise and shall have sole discretion regarding the settlement or compromise thereof. In connection with the foregoing, RemainCo may, at its option, elect to assume and pay its and SpinCo's out-of- pocket costs incurred in connection with such litigation or proceeding, including, without limitation, attorney's fees. RemainCo will provide prompt written notice to SpinCo, in any event no later than thirty (30) days after receipt of SpinCo's notice of its determination to initiate, prosecute and control such action or proceeding in the RemainCo Core Field, of its determination to elect to assume and pay the applicable costs or to decline to pay assume and pay the applicable costs. In the event RemainCo does not elect to assume and pay the costs associated with SpinCo's initiation, prosecution and control of such action or proceeding in the RemainCo Core Field, SpinCo shall assume and pay its and RemainCo's out-of-pocket costs incurred in connection with such litigation or proceeding undertaken by SpinCo, including, without limitation, attorney's fees. Any recovery obtained as a result of such proceeding in the RemainCo Core Field shall be retained by (i) RemainCo in the event that RemainCo assumed and paid the applicable costs of the litigation or proceeding or (ii) SpinCo in the event that SpinCo assumed and paid the applicable costs of the litigation or proceeding in accordance with this Section 8.4(b)(i).
+
+(ii) If SpinCo does not exercise its right to enforce any applicable Licensed SpinCo Intellectual Property in the RemainCo Core Field, SpinCo shall provide notice to that   20
+
+
+
+
+
+effect to RemainCo and, as between SpinCo and RemainCo, RemainCo shall have the right to initiate, prosecute and control any action or proceeding to restrain infringement or misappropriation of such Licensed SpinCo Intellectual Property in the RemainCo Core Field. RemainCo shall provide prompt written notice to SpinCo of any determination to initiate, prosecute and control any such action or proceeding. SpinCo, as the owner and licensor, agrees to be joined as a party if necessary to prosecute the action or proceeding, and shall provide all reasonable cooperation, including any necessary use of their name, required to prosecute such action or proceeding. In connection with the foregoing, RemainCo shall assume and pay its and SpinCo's out-of-pocket costs incurred in connection with any litigations or proceedings described above, including, without limitation, attorney's fees. Any recovery obtained as a result of such proceeding related to infringement or misappropriation in the RemainCo Core Field shall be retained by RemainCo.
+
+(iii) In the event that a Third Party may potentially be infringing, misappropriating or otherwise violating any Licensed SpinCo Intellectual Property in both the RemainCo Core Field and the SpinCo Core Field, SpinCo and RemainCo will meet and confer in good faith regarding the manner in which to respond to such infringement in the RemainCo Core Field and SpinCo Core Field collectively, provided, however, that the foregoing does not limit the rights set forth in Section 8.4(b)(i) or Section 8.4(b)(ii).
+
+ARTICLE IX
+
+CONFIDENTIALITY
+
+Section 9.1 RemainCo and SpinCo shall hold and shall cause the members of the RemainCo Group and the SpinCo Group, respectively, to hold, and shall each cause their respective officers, employees, agents, consultants and advisors to hold, in strict confidence and not to disclose or release without the prior written consent of the other Party, any and all Confidential Information (as defined herein) of such other Party or the members of its Group; provided, that the Parties may disclose, or may permit disclosure of, such Confidential Information (i) to their respective auditors, attorneys, financial advisors, bankers and other appropriate consultants and advisors who have a need to know such information and are informed of their obligation to hold such information confidential to the same extent as is applicable to the Parties and in respect of whose failure to comply with such obligations, RemainCo or SpinCo, as the case may be, will be responsible or (ii) to the extent any member of the RemainCo Group or the SpinCo Group is compelled to disclose any such Confidential Information by judicial or administrative process or, in the opinion of legal counsel, by other requirements of Law. Notwithstanding the foregoing, in the event that any demand or request for disclosure of Confidential Information is made pursuant to clause (ii) above, RemainCo or SpinCo, as the case may be, shall promptly notify the other of the existence of such request or demand and shall provide the other a reasonable opportunity to seek an appropriate protective order or other remedy, which both Parties will cooperate in seeking to obtain. In the event that such appropriate protective order or other remedy is not obtained, the Party who is being compelled to disclose (or whose Group member is being compelled to disclose) shall, and shall cause the applicable members at its Group to, furnish, or cause to be furnished, only that portion of such Confidential Information that is legally required to be disclosed.   21
+
+
+
+
+
+Section 9.2 As used in this Article 9, "Confidential Information" shall mean all proprietary, technical or proprietary, operational information (including Know-How and proprietary information relating to the ages, birth dates, social security numbers, health-related matters or other confidential matters concerning employees or former employees) of one Party or members of its Group which, prior to or following the Distribution Time, has been disclosed by RemainCo or members of the RemainCo Group, on the one hand, or SpinCo or members of the SpinCo Group, on the other hand, to, or otherwise has come into the possession of, the other Group, including pursuant to the technical assistance and technology transfer provisions of Article VI hereof or any other provision of this Agreement (except to the extent that such information can be shown to have been (a) in the public domain through no fault of such Party (or, in the case of RemainCo, any other member of the RemainCo Group or, in the case of SpinCo, any other member of the SpinCo Group) or (b) later lawfully acquired from other sources by the Party (or, in the case of RemainCo, such member of the RemainCo Group or, in the case of SpinCo, such member of the SpinCo Group) to which it was furnished; provided, however, in the case of (b) that such sources did not provide such information in breach of any confidentiality obligations), or (c) independently developed by employees or agents of such Party who had no access, direct or indirect, to such information provided by the other Party.
+
+(a) Each Party shall use the Confidential Information only as permitted pursuant to this Agreement and shall not disclose any Confidential Information to any Third Party unless permitted pursuant to this Agreement. Each Party shall exercise the same degree of care to protect and maintain the confidentiality of the Confidential Information received from the other Party hereunder (but no less than a reasonable degree of care) as they take to preserve confidentiality for their own similar information. Without limiting the foregoing, each Party will take commercially reasonable efforts to implement and maintain comprehensive security protocols to protect and maintain the confidentiality of the Confidential Information received from the other Party hereunder, including, without limitation, implementing administrative, technical, digital, electronic and physical security strategies and access restrictions to protect Confidential Information.
+
+ARTICLE X
+
+MISCELLANEOUS
+
+Section 10.1 Authority. Each of the Parties represents to the other that (a) it has the corporate or other requisite power and authority to execute, deliver and perform this Agreement, (b) the execution, delivery and performance of this Agreement by it has been duly authorized by all necessary corporate or other actions, (c) it has duly and validly executed and delivered this Agreement to be executed and delivered on or prior to the Distribution Time, and (d) this Agreement is legal, valid and binding obligations, enforceable against it in accordance with their respective terms subject to applicable bankruptcy, insolvency, reorganization, moratorium or other similar Laws affecting creditors' rights generally and general equity principles.
+
+Section 10.2 Entire Agreement. This Agreement and the Schedules referenced herein or therein or attached hereto or thereto, constitute the entire agreement and understanding between the Parties with respect to the subject matter hereof and supersedes all prior written and oral and all contemporaneous oral agreements and understandings with respect to the subject matter hereof.   22
+
+
+
+
+
+Section 10.3 Binding Effect; Third-Party Beneficiaries; Assignment. Except as expressly set forth in Section 5.10 and except for the Affiliates of the Parties, which are intended to be third party beneficiaries hereunder, this Agreement does not and is not intended to confer any rights or remedies upon any Person other than the Parties. This Agreement shall inure to the benefit of and be binding upon the Parties and their respective successors and permitted assigns. This Agreement may not be assigned by either Party, except with the prior written consent of the other Party.
+
+Section 10.4 Amendment. No change or amendment may be made to this Agreement except by an instrument in writing signed on behalf of both of the Parties.
+
+Section 10.5 Failure or Indulgence Not Waiver; Remedies Cumulative. No failure or delay on the part of either Party in the exercise of any right hereunder shall impair such right or be construed to be a waiver of, or acquiescence in, any breach of any representation, warranty, covenant or agreement contained herein, nor shall any single or partial exercise of any such right preclude other or further exercise thereof or of any other right. All rights and remedies existing under this Agreement or the Schedules attached hereto are cumulative to, and not exclusive of, any rights or remedies otherwise available.
+
+Section 10.6 Notices. Unless otherwise expressly provided herein, all notices, claims, certificates, requests, demands and other communications hereunder shall be in writing and shall be deemed to be duly given (i) when personally delivered or (ii) if mailed by registered or certified mail, postage prepaid, return receipt requested, on the date the return receipt is executed or the letter is refused by the addressee or its agent or (iii) if sent by overnight courier which delivers only upon the signed receipt of the addressee, on the date the receipt acknowledgment is executed or refused by the addressee or its agent or (iv) if sent by facsimile or electronic mail, on the date confirmation of transmission is received (provided that a copy of any notice delivered pursuant to this clause (iv) shall also be sent pursuant to clause (i), (ii) or (iii)), addressed to the attention of the addressee's General Counsel at the address of its principal executive office or to such other address or facsimile number for a Party as it shall have specified by like notice.
+
+Section 10.7 Counterparts. This Agreement, including the Schedules and Exhibits hereto and the other documents referred to herein, may be executed in multiple counterparts, each of which when executed shall be deemed to be an original but all of which together shall constitute one and the same agreement.
+
+Section 10.8 Severability. If any term or other provision of this Agreement or the Schedules attached hereto is determined by a nonappealable decision by a court, administrative agency or arbitrator to be invalid, illegal or incapable of being enforced by any rule of law or public policy, all other conditions and provisions of this Agreement shall nevertheless remain in full force and effect so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner materially adverse to either Party. Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the court, administrative agency or arbitrator shall interpret this Agreement so as to effect the original   23
+
+
+
+
+
+intent of the Parties as closely as possible in an acceptable manner to the end that transactions contemplated hereby are fulfilled to the fullest extent possible. If any sentence in this Agreement is so broad as to be unenforceable, the provision shall be interpreted to be only so broad as is enforceable.
+
+Section 10.9 Governing Law. This Agreement shall be governed by, and construed and enforced in accordance with, the substantive laws of the State of Delaware, without regard to any conflicts of law provisions thereof that would result in the application of the laws of any other jurisdiction.
+
+Section 10.10 Construction. This Agreement shall be construed as if jointly drafted by SpinCo and RemainCo and no rule of construction or strict interpretation shall be applied against either Party. The Parties represent that this Agreement is entered into with full consideration of any and all rights which the Parties may have. The Parties have relied upon their own knowledge and judgment and upon the advice of the attorneys of their choosing. The Parties have had access to independent legal advice, have conducted such investigations they and their counsel thought appropriate, and have consulted with such other independent advisors as they and their counsel deemed appropriate regarding this Agreement and their rights and asserted rights in connection therewith. The Parties are not relying upon any representations or statements made by any other Party, or such other Party's employees, agents, representatives or attorneys, regarding this Agreement, except to the extent such representations are expressly set forth or incorporated in this Agreement. The Parties are not relying upon a legal duty, if one exists, on the part of the other Party (or such other Party's employees, agents, representatives or attorneys) to disclose any information in connection with the execution of this Agreement or its preparation, it being expressly understood that neither Party shall ever assert any failure to disclose information on the part of the other Party as a ground for challenging this Agreement.
+
+Section 10.11 Performance. Each Party shall cause to be performed, and hereby guarantees the performance of, all actions, agreements and obligations set forth herein to be performed by any Subsidiary or Affiliate of such Party.
+
+[INTENTIONALLY LEFT BLANK]   24
+
+
+
+
+
+WHEREFORE, the Parties have signed this Agreement effective as of the date first set forth above.   THE BABCOCK & WILCOX COMPANY
+
+By:  /s/ David S. Black Name:  David S. Black Title:  Vice President and Chief Accounting Officer
+
+BABCOCK & WILCOX ENTERPRISES, INC.
+
+By:  /s/ J. André Hall Name:  J. André Hall Title:   Senior Vice President, General Counsel and Secretary
+
+
+
+
+
+Schedule 1.1(e)
+
+SpinCo Core Field; RemainCo Core Field
+
+SpinCo Core Field means:
+
+1. Ownership and/or operation of power generation facilities fired with combustible fossil fuels (e.g., coal, coal slurry, oil or natural gas), biomass, municipal solid waste or concentrated solar energy through tower based solar thermal conversion systems, in each case for the provision of power, other than maintenance and operation services performed as part of overall facility operation and management contracts for domestic or foreign government agencies or entities (including but not limited to NNSA, NASA, DOD, DOE, as well as United Kingdom NDA or MOD sites). &bbsp;
+
+2. Design, development, research, engineering, procurement, fabrication, analysis, manufacture, construction, installation, supply, marketing, sale, lease, rent, commissioning, training, delivery, inspection, testing of, support, operations, inspection, maintenance, upgrade, repair, refurbishment, rebuilding, replacement, modification, repowering/fuel switching, relocation, localization, or other services, including project management, construction project management or consultation, plant, system or component licensing, siting support or consultation, environmental, safety, health, laboratory analysis, engineering studies, field engineering services, nondestructive testing, evaluation or analytical services, metallographic analysis, consulting services, troubleshooting, failure analysis, cleaning, upgrading, tooling, or decommissioning related to:
+
+
+
+(a). Fired steam generators encompassing fossil fuel boilers which are fueled by combustible fossil fuels (e.g., coal, coal slurry, oil or natural gas) or support subsystems, equipment or components thereof, including fuel drying, fuel feed, pulverizers, burners, combustion systems, grates, pressure parts, air heaters, fans, boiler cleaning systems, ash systems, valves, controls & diagnostics, oxycombustion systems, condensing heat exchangers used in connection with such fired steam generators, other than maintenance and operation services performed as part of overall facility operation and management contracts for domestic or foreign government agencies or entities (including but not limited to NNSA, NASA, DOD, DOE, as well as United Kingdom NDA or MOD sites).
+
+
+
+(b). Fired steam generators encompassing waste fuel boilers which are fueled by combustible waste fuels (e.g., carbon monoxide, biomass, black liquor, municipal solid waste (MSW) or refuse-derived fuel (RDF)) or support subsystems, equipment or components thereof, including fuel drying, fuel feed, pulverizers, burners, combustion systems, grates, pressure parts, air heaters, fans, boiler cleaning systems, ash systems, valves, controls & diagnostics, oxycombustion systems, condensing heat exchangers used in connection with such fired steam generators, other than maintenance and operation services performed as part of overall facility operation and management contracts for domestic or foreign government agencies or entities (including but not limited to NNSA, NASA, DOD, DOE, as well as United Kingdom NDA or MOD sites).
+
+
+
+
+
+
+
+(c). Gasifier systems which partially convert fossil or waste fuels (e.g., coal, oil, natural gas or biomass) to syngas and support subsystems, equipment or components thereof, including fuel drying, fuel feed, pulverizers, burners, combustion systems, gasifiers, heat exchangers used in connection with such gasifier systems, pressure parts, boiler cleaning systems, ash systems, valves, controls & diagnostics, other than maintenance and operation services performed as part of overall facility operation and management contracts for domestic or foreign government agencies or entities (including but not limited to NNSA, NASA, DOD, DOE, as well as United Kingdom NDA or MOD sites).
+
+
+
+(d). Tower-based solar thermal conversion systems which are enabled by solar energy and support subsystems, equipment or components thereof, including receiver system, pressure parts, molten salt or particle systems (e.g., heat exchangers specifically for tower-based solar thermal conversion systems enabled by solar energy or associated pumps or tanks), valves, controls or diagnostics, other than maintenance and operation services performed as part of overall facility operation and management contracts for domestic or foreign government agencies or entities (including but not limited to NNSA, NASA, DOD, DOE, as well as United Kingdom NDA or MOD sites).
+
+
+
+(e). The following specific unfired heat exchangers Turbine Exhaust Gas boilers (10K2), Heat Recovery Steam Generation Boilers (10K22), Water Tube Waste Heat Boilers Two Drum (Stirling Types) (1K4), 3 Drum Waste Heat Recovery Boiler (1K4), Water Tube Waste Heat "H" Stirling Boiler (1K4), Water Tube Long Drum (LD) boiler (1K4), CO boiler (1K26), Waste Heat (WH) (1K4), Oxygen Convertor Hoods (1K44), Gas Tube (FT) boilers (1K46), FM boilers (1K239), FO boilers (1K2311), Struthers Wells type EOR boiler as defined by the existing specific referenced design standards, or support subsystems, equipment or components thereof, including pressure parts, cleaning systems, valves, controls or diagnostics, other than maintenance and operation services performed as part of overall facility operation and management contracts for domestic or foreign government agencies or entities (including but not limited to NNSA, NASA, DOD, DOE, as well as United Kingdom NDA or MOD sites).
+
+
+
+(f). Chemical looping conversion systems which are fueled by combustible fossil fuels (e.g., coal, coal slurry, oil or natural gas) and which produce an energy output of steam, CO2, H2 or syngas or support subsystems, equipment or components thereof, including fuel feed, pulverizers, reactors, pressure parts, air heaters, fans, boiler cleaning systems, ash systems, valves, controls or diagnostics, other than maintenance and operation services performed as part of overall facility operation and management contracts for domestic or foreign government agencies or entities (including but not limited to NNSA, NASA, DOD, DOE, as well as United Kingdom NDA or MOD sites).
+
+
+
+(g). Pulverized coal injection systems for use in connection with steel production or support subsystems, equipment or components thereof, including pulverizers, pressurization systems, tanks, valves, controls or diagnostics, other than maintenance and operation services performed as part of overall facility operation and management contracts for domestic or foreign government agencies or entities (including but not limited to NNSA, NASA, DOD, DOE, as well as United Kingdom NDA or MOD sites).
+
+
+
+
+
+
+
+(h). Heat transfer surface cleaning systems and support subsystems, equipment and components thereof (other than said systems related to or utilized in connection with nuclear fueled systems and expressly excluding nuclear steam generators), including sootblowers (air, steam, water or sonic), related valve or piping systems, sprayers, controls (basic, intelligent) or diagnostics, other than maintenance and operation services performed as part of overall facility operation and management contracts for domestic or foreign government agencies or entities (including but not limited to NNSA, NASA, DOD, DOE, as well as United Kingdom NDA or MOD sites).
+
+
+
+(i). Ash handling systems or support subsystems, equipment or components thereof, including mechanical conveyors (wet or dry), pneumatic conveyors (wet, dry, dilute, or dense phase), ash conditioning, tanks, valves, specialty piping, controls or diagnostics, other than maintenance and operation services performed as part of overall facility operation and management contracts for domestic or foreign government agencies or entities (including but not limited to NNSA, NASA, DOD, DOE, as well as United Kingdom NDA or MOD sites).
+
+
+
+(j). Industrial pulverizer or grinding equipment systems or support subsystems (other than said systems or support subsystems related to or utilized in connection with nuclear fuel manufacturing or processing), other than maintenance and operation services performed as part of overall facility operation and management contracts for domestic or foreign government agencies or entities (including but not limited to NNSA, NASA, DOD, DOE, as well as United Kingdom NDA or MOD sites).
+
+
+
+(k). Drying and/or coating systems utilizing continuous and/or batch flow dryer/oven equipment for industrial processes, including but not limited to various production lines (e.g., roll fed, sheet fed, coating, drying or web handling), dryers and/or ovens (e.g., air flotation dryers or ovens, roll support dryers, infrared dryers, ultraviolet dryers, microwave or radio frequency), coating line auxiliary equipment, festoon and catenary style ovens, valves and material handling systems, other than maintenance and operation services performed as part of overall facility operation and management contracts for domestic or foreign government agencies or entities (including but not limited to NNSA, NASA, DOD, DOE, as well as United Kingdom NDA or MOD sites).
+
+
+
+(l). Utility emissions control systems used in connection with combustion power generation systems, which are designed to remove nitrogen oxides (e.g., SCR or SNCR), sulfur oxides (e.g., WFGD, SDA, CDS, DSI, or others), particulates (e.g., dry ESP, wet ESP, fabric filter or cyclonic), carbon dioxide (e.g., scrubber systems), hydrocarbons, or air toxics (e.g., Sb, Be, Cd, Cr, Co, Pb, Mn, Ni, (SO2)3, HF, Hg, P, Se, Cd, As, or HCl (or other acid gases)), HAPS, dioxins, furans or others) and/or subsequent energy or waste recovery or associated subsystems, equipment or components thereof, including valves, other than maintenance and operation services performed as part of overall facility operation and management contracts for domestic or foreign government agencies or entities (including but not limited to NNSA, NASA, DOD, DOE, as well as United Kingdom NDA or MOD sites).
+
+  (m). Wastewater treatment systems (i) that process wastewater derived from combustion power generation and municipal solid waste("MSW") systems, including
+
+
+
+
+
+
+
+without limitation FGD dewatering systems or zero liquid discharge (ZLD) systems, or associated subsystems, equipment or components thereof, including valves or (ii) that process wastewater as part of or ancillary to the systems set forth in SpinCo Core Field 2(k), 2(l) or 2(n), in each case other than maintenance and operation services performed as part of overall facility operation and management contracts for domestic or foreign government agencies or entities (including but not limited to NNSA, NASA, DOD, DOE, as well as United Kingdom NDA or MOD sites).
+
+
+
+(n). Industrial emission control, gas cleaning and/or conditioning, or liquids purification and/or recovery systems (other than said systems set forth in RemainCo Core Field 1(m)), including SCR, SNCR, WFGD, SDA, CDS, DSI, other scrubbers, dry ESP, wet ESP, fabric filter, cyclonic, solvent recovery systems, biological abatement systems, solvent distillation systems (including waste water treatment), evaporative gas conditioning and cooling systems or regenerative thermal (and other) oxidation systems or associated subsystems, equipment or components thereof, including valves, for the removal of nitrogen oxides, sulfur oxides, particulates, carbon dioxide, hydrocarbons, or air toxics (e.g., Sb, Be, Cd, Cr, Co, Pb, Mn, Ni, (SO2)3, HF, Hg, P, Se, As, Cd, HCl (or other acid gases)), HAPS, dioxins, furans, others) and/or subsequent energy or waste recovery, other than maintenance and operation services performed as part of overall facility operation and management contracts for domestic or foreign government agencies or entities (including but not limited to NNSA, NASA, DOD, DOE, as well as United Kingdom NDA or MOD sites).
+
+
+
+(o). Hybrid power generation systems or associated equipment where renewable energy sources are combined with a combustible fossil fuel (e.g., coal, coal slurry, oil or natural gas) or combustible waste fuel (e.g., carbon monoxide, biomass, black liquor, MSW or RDF) primary energy source, other than maintenance and operation services performed as part of overall facility operation and management contracts for domestic or foreign government agencies or entities (including but not limited to NNSA, NASA, DOD, DOE, as well as United Kingdom NDA or MOD sites).
+
+3. Engineering procurement, construction, installation, supply, lease, commissioning, training , delivery, inspection, testing of, support, operations, maintenance, upgrade, repair, refurbishment, rebuilding, replacement, modification, relocation, project management, construction management, technical advice, construction consultation, siting support or consultation, environmental services or consultation, safety, health, troubleshooting, cleaning, upgrading and tooling of balance of plant for power generation facilities fired with combustible fossil fuels (e.g., coal, coal slurry, oil or natural gas) and pulp and paper facilities, other than maintenance and operation services performed as part of overall facility operation and management contracts for domestic or foreign government agencies or entities (including but not limited to NNSA, NASA, DOD, DOE, as well as United Kingdom NDA or MOD sites).
+
+RemainCo Core Field means:
+
+1. Design, development, research, engineering, procurement, fabrication, analysis, manufacture, construction, installation, supply, marketing, sale, lease, rent, commissioning, training, delivery, inspection, testing of, support, operations, inspection, maintenance, upgrade, repair,
+
+
+
+
+
+
+
+refurbishment, rebuilding, replacement, modification, repowering/fuel switching, relocation, localization, or other services, including project management, construction project management or consultation, plant, system or component licensing, siting support or consultation, environmental, safety, health, laboratory analysis, engineering studies, field engineering services, nondestructive testing, evaluation or analytical services, metallographic analysis, consulting services, troubleshooting, failure analysis, cleaning, upgrading, tooling, or decommissioning, related to:
+
+
+
+(a). Nuclear facilities and nuclear reactor plants, nuclear reactor systems, nuclear reactors, including all thermal reactors (including all heavy-water and light-water reactors), all water cooled reactors, all liquid metal cooled reactors (including sodium cooled reactors), gas cooled reactors (including helium, carbon dioxide and nitrogen) and molten salt reactors, breeder reactors, traveling wave reactors, high temperature reactors, small modular nuclear reactors, medical isotope reactors and components thereof and all Generation I, Generation II, Generation III and all advanced reactors, including and Generation IV reactors and iterations thereof regardless of design, and hybrid power generation systems and associated equipment where renewable energy sources are combined with a nuclear primary energy source.
+
+
+
+(b). Support systems and subsystems, equipment and components of nuclear systems and nuclear reactors, including, reactor coolant systems, reactor protection, control and instrumentation systems, reactor auxiliary and safety systems, balance of plant systems, reactor vessel closure heads, reactor and other pressure vessels and internals, reactor coolant pumps, stators and motors, reactor fuel channels, feeders and related components, steam generators, reactor control rod drive mechanisms and other reactor electro-mechanical equipment and controls therefore, specialized tooling and inspection systems, heat exchangers, pressurizers, primary and secondary piping, valves and pumps, spent fuel and other nuclear fuel and nuclear material storage and shipping, nuclear waste containers and related systems, audio/visual systems, steam generator tube inspection systems, repair, modification and stabilization systems, tube plugging and tube removal systems.
+
+
+
+(c). Nuclear fuel and nuclear fuel components, including enrichment and any related components, assembly, nuclear fuel plant processes, manufacturing systems and processes and systems for the chemical processing of radiological materials, fuel core and fuel bearing precision components, fuel powder, sources, targets, targets for medical isotope production and industrial isotope production, targets for research and analysis in research reactors, graphite reflectors and control rods, poisons and other special nuclear materials for development and manufacturing of fuel components for pebble bed and other reactors.
+
+  (d). Electro-mechanical devices related to or used in commercial, research, government, military and other nuclear facilities, reactors orvessels and associated subsystems, equipment and components thereof.
+
+  (e). Advanced power systems for space applications and associated subsystems, equipment and components thereof.
+
+  (f). Nuclear and non-nuclear propulsion systems for naval (U.S. and foreign) submarines and aircraft carriers and associated subsystems, equipment and components thereof, including all aftermarket, replacement and repair parts, components and equipment for existing naval submarines and aircraft carriers.
+
+
+
+
+
+  (g). Nuclear propulsion systems for naval (U.S. and foreign) vessels other than submarines and aircraft carriers and associated subsystems, equipment and components thereof, including aftermarket, replacement and repair parts, components and equipment for such existing vessels.
+
+  (h). Single crystal composite and ceramic materials for use in nuclear, defense, space and aerospace applications and subsystems,equipment and components thereof
+
+
+
+(i). High energy physics equipment, including electro-magnetic storage devices, power conversion and conditioning systems, superconducting materials and plasma energy systems, and, in each case, subsystems and components thereof, excluding energy storage systems that store kinetic energy using a rotating mass with low friction losses and deliver the stored energy via power electronics that convert kinetic to electrical energy using electrical equipment typical for that type of service.
+
+  (j). Ordnance components, subsystems and components thereof.
+
+  (k). Unfired heat exchangers where the applicable heat source energy input is derived from the release and/or use of nuclear energy orsupport subsystems, equipment or components thereof, including pressure parts, cleaning systems, valves, controls or diagnostics.
+
+  (l). Wastewater treatment systems that process wastewater derived from the release and/or use of nuclear energy and subsystems,equipment and components thereof
+
+  (m). Emission control systems related to nuclear fuel manufacture or fabrication, storage of nuclear materials and waste and nuclear poweredsystems and subsystems, equipment and components thereof.
+
+2. Chemical and physical processing, storage and decontamination of and other management, operations, safety, security, emergency management, remediation and technical services related to radiological materials (including highly enriched uranium, low enriched uranium, natural uranium, fissile material and transuranic material), including receipt, storage, inspection, characterization, dissolution, recovery and purification, downblending, recycling, scrap recovery and processing and related research, development, engineering and analysis.
+
+3. Developing and providing services related to security (including direct security services as well as training, consulting and similar services) for new or existing commercial, research, government, military and other facilities or vessels, including tactical security, security training, IT security, development of security processes, fitness for duty and government compliance (both contractual compliance) and in connection with NRC or other applicable licensing requirements.
+
+4. Provide facility operation and maintenance services, including production and program management, maintenance (including maintenance and service of fossil fired and renewable power generation systems performed as part of overall facility operation and management contracts), operation, environmental health and safety, security, emergency management, wastewater treatment, remediation and abatement, decontamination and decommissioning material storage and disposition and other related technical services, to domestic or foreign agencies (including but not limited to NNSA, NASA, DOD, DOE as well as United Kingdom NDA or MOD sites) and commercial entities related to critical infrastructure, nuclear, non-nuclear and biological activities such as nuclear operations of reactors and reactor facilities, laboratory (including national laboratories) and other facility operations, weapons production, refurbishment, storage and stockpile management, component
+
+
+
+
+
+
+
+(including centrifuge) manufacturing, medical and industrial isotope development and manufacture, and Chemical Laboratory Analysis Capability by SEM, Mass Spectrometer and similar equipment, excluding the provision of the foregoing services for solely standalone power generation facilities fired with combustible fossil fuels, biomass or municipal solid waste or concentrated solar energy through tower based solar thermal conversion systems For the avoidance of doubt, the foregoing does not include the design, manufacture, installation, supply, sale and supply of hardware, including entire systems, within the SpinCo Core Field (including, without limitation, the systems set forth in SpinCo Core Field 2(k), 2(l), 2(m) and 2(n)) to domestic or foreign agencies or commercial entities.
+
+For the avoidance of doubt, the following are not included in the SpinCo Core Field or the RemainCo Core Field:
+
+Design, development, research, engineering, procurement, fabrication, analysis, manufacture, construction, installation, supply, marketing, sale, lease, rent, commissioning, training, delivery, inspection, testing of, support, operations, inspection, maintenance, upgrade, repair, refurbishment, rebuilding, replacement, modification, repowering/fuel switching, relocation, localization, or other services, including project management, construction project management or consultation, plant, system or component licensing, siting support or consultation, environmental, safety, health, laboratory analysis, engineering studies, field engineering services, nondestructive testing, evaluation or analytical services, metallographic analysis, consulting services, troubleshooting, failure analysis, cleaning, upgrading, tooling, or decommissioning related to the following:
+
+  (a). Un-fired heat exchangers other than those identified in SpinCo Core Field 2(e) or unfired heat exchangers where the applicable heat source energy input is derived from the release and/or use of nuclear energy, and support subsystems, equipment and components thereof, including pressure parts, cleaning systems, valves, controls, diagnostics, repair equipment and services.
+
+  (b). Production of hydrogen by other high temperature processes.
+
+  (c). Non-nuclear propulsion systems for naval (U.S. and foreign) vessels other than submarines and aircraft carriers, and associated subsystems equipment and components thereof, including aftermarket, replacement and repair parts, components and equipment for such existing vessels.
+
+  (d). Non-naval (i.e., commercial marine) propulsion systems and associated subsystems, equipment and components thereof, includingaftermarket, replacement and repair parts, components and equipment for existing systems.
+
+
+
+
+
+Schedule 1.1(i)
+
+Specific RemainCo Field; Specific SpinCo Field
+
+"Specific SpinCo Field" means the design, development, research, engineering, procurement, fabrication, analysis, manufacture, construction, installation, supply, marketing, sale, lease, rent, commissioning, training, delivery, inspection, testing of, support, operations, inspection, maintenance, upgrade, repair, refurbishment, rebuilding, replacement, modification, repowering/fuel switching, relocation, localization, or other services, including project management, construction project management or consultation, plant, system or component licensing, siting support or consultation, environmental, safety, health, laboratory analysis, engineering studies, field engineering services, nondestructive testing, evaluation or analytical services, metallographic analysis, consulting services, troubleshooting, failure analysis, cleaning, upgrading, tooling, or decommissioning, related to heat exchangers specifically for tower-based solar thermal conversion systems enabled by solar energy and support subsystems, equipment or components thereof, including pressure parts, cleaning systems, valves, controls or diagnostics.
+
+"Specific RemainCo Field" means the design, development, research, engineering, procurement, fabrication, analysis, manufacture, construction, installation, supply, marketing, sale, lease, rent, commissioning, training, delivery, inspection, testing of, support, operations, inspection, maintenance, upgrade, repair, refurbishment, rebuilding, replacement, modification, repowering/fuel switching, relocation, localization, or other services, including project management, construction project management or consultation, plant, system or component licensing, siting support or consultation, environmental, safety, health, laboratory analysis, engineering studies, field engineering services, nondestructive testing, evaluation or analytical services, metallographic analysis, consulting services, troubleshooting, failure analysis, cleaning, upgrading, tooling, or decommissioning, related to:
+
+
+
+(a). Nuclear facilities and nuclear reactor plants, nuclear reactor systems, nuclear reactors, including all thermal reactors (including all heavy-water and light-water reactors), all water cooled reactors, all liquid metal cooled reactors (including sodium cooled reactors), gas cooled reactors (including helium, carbon dioxide and nitrogen) and molten salt reactors, breeder reactors, traveling wave reactors, high temperature reactors, small modular nuclear reactors, medical isotope reactors and components thereof and all Generation I, Generation II, Generation III and all advanced reactors, including and Generation IV reactors and iterations thereof regardless of design, and hybrid power generation systems and associated equipment where renewable energy sources are combined with a nuclear primary energy source.
+
+
+
+(b). Support systems and subsystems, equipment and components of nuclear systems and nuclear reactors, including, reactor coolant systems, reactor protection, control and instrumentation systems, reactor auxiliary and safety systems, balance of plant systems, reactor vessel closure heads, reactor and other pressure vessels and internals, reactor coolant pumps, stators and motors, reactor fuel channels, feeders and related components, steam generators, reactor control rod drive mechanisms and other reactor electro-mechanical equipment and controls therefore, specialized tooling and inspection systems,
+
+
+
+
+
+  heat exchangers, pressurizers, primary and secondary piping, valves and pumps, spent fuel and other nuclear fuel and nuclear material storage and shipping, nuclear waste containers and related systems, audio/visual systems, steam generator tube inspection systems, repair, modification and stabilization systems, tube plugging and tube removal systems.
+
+
+
+(c). Nuclear fuel and nuclear fuel components, including enrichment and any related components, assembly, nuclear fuel plant processes, manufacturing systems and processes and systems for the chemical processing of radiological materials, fuel core and fuel bearing precision components, fuel powder, sources, targets, targets for medical isotope production and industrial isotope production, targets for research and analysis in research reactors, graphite reflectors and control rods, poisons and other special nuclear materials for development and manufacturing of fuel components for pebble bed and other reactors.
+
+  (d). Naval nuclear propulsion systems and associated subsystems, equipment and components thereof, including aftermarket, replacementand repair parts, components and equipment for existing systems.
+
+
+
+
+
+The company agrees to furnish supplementally a copy of any omitted exhibit or schedule to the Commission upon request.

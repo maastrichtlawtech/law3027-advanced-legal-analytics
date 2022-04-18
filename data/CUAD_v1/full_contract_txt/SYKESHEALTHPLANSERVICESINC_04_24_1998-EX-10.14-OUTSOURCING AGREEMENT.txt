@@ -1,0 +1,103 @@
+1                                                                    EXHIBIT 10.14
+
+                           OUTSOURCING AGREEMENT
+
+      This Outsourcing Agreement (the "Agreement") is made and entered into as of January 1, 1998, by and between Sykes HealthPlan Services, Inc., a Florida corporation ("SHPS"), and HealthPlan Services, Inc., a Florida corporation ("HPS").
+
+                                BACKGROUND
+
+      HPS (or one of its affiliates other than SHPS) provides certain administrative services and Care Management Services (as defined below) to clients ("Clients") pursuant to the terms of agreements with such Clients (the "Client Agreements") as of January 1, 1998. HPS desires that SHPS provide, and SHPS is willing to provide, the Care Management Services to the Clients on behalf of HPS in accordance with the terms and conditions of this Agreement. Accordingly, in consideration of the mutual covenants and agreements set forth below, the parties agree as follows:
+
+                                   TERMS
+
+      1.       SERVICES PROVIDED; TERM AND TERMINATION
+
+               1.1 AGREEMENT TO OUTSOURCE CARE MANAGEMENT SERVICES. HPS agrees to outsource to SHPS, and hereby appoints SHPS as the exclusive provider of, Care Management Services to the Clients, subject to the terms and conditions set forth in this Agreement. SHPS shall provide the Care Management Services directly to the Clients in accordance with the terms of the Client Agreements. "Care Management Services" means the business of providing utilization review (which includes, but is not limited to, pre-admission certification, prior authorization, prospective length of stay approvals, second opinions, concurrent review and discharge planning), catastrophic medical case management, disease management and demand management (24 hours per day, 7 days per week) services to benefits payors and health providers, in all cases in accordance with the terms of the applicable Client Agreement.
+
+               1.2 TERM. The term of this Agreement will commence on January 1, 1998 (the "Effective Date") and will end on December 31, 1998. Unless either party gives the other at least ninety days' prior written notice that it has elected not to extend the term of this Agreement beyond December 31, 1998, the term of this Agreement will be automatically extended until December 31, 1999. Thereafter this Agreement will automatically be renewed for successive additional periods of one year, unless either party gives notice of cancellation on or before October 1 of any such year.
+
+               1.3 TERMINATION FOR CAUSE. In the event that either party materially or repeatedly defaults in the performance of any of its duties or obligations hereunder and does not substantially cure such default within thirty days after being given written notice specifying the default, or, with respect to those defaults which cannot reasonably be cured within thirty days, if the defaulting party fails to proceed promptly after being given such notice to commence curing the default and thereafter to reasonably proceed to cure the same, then the party not in default
+
+2
+
+may, by giving written notice to the defaulting party, terminate this Agreement as of a date specified in such notice of termination.
+
+      2.       PAYMENTS
+
+               2.1 FEES FOR CURRENT HPS CLIENTS. For each month during the term of this Agreement, HPS will pay to SHPS an amount equal to (i) eighty-two and one-half percent (82.5%) of the first $500,000 of Care Management Revenues (as defined below) during such month plus (ii) eighty percent (80%) of Care Management Revenues during such month in excess of $500,000. HPS shall pay such amount to SHPS within fifteen days following the end of the applicable month. At the time of payment HPS shall submit to SHPS a schedule for the month of payment setting forth the calculation of fees payable under this Section 2.1 and Care Management Revenues by Client.
+
+               2.2 CALCULATION OF CARE MANAGEMENT REVENUES. "Care Management Revenues" means, with respect to any month during the term, the revenues collected by HPS from Clients (or new Clients, as applicable) for the Care Management Services. Monthly revenues for Care Management Services shall be calculated based on a per employee per month fee equal to: (i) the amount (as of the date of this Agreement) set forth in the applicable Client Agreement (including hourly medical case management fees); or (ii) if the Client Agreement does not include a per employee per month fee for Care Management Services, $2.00 (this amount shall apply to all individual and small group business). Prospectively, for new Clients, SHPS and HPS shall agree to the rate HPS will offer to such new Clients (including hourly medical case management fees).
+
+               2.3 ALLOCATION OF COSTS. SHPS shall pay to HPS its allocable portion (which portion shall approximate HPS' direct costs chargeable to the business function) of depreciation, information system services, rent and utilities for the use by SHPS of HPS facilities in connection with its delivery of Care Management Services to the Clients. SHPS shall also reimburse HPS for direct costs for postage and telecommunications incurred by HPS in connection with such use by SHPS of HPS facilities. For convenience, the parties
+
+
+
+
+
+acknowledge that HPS will deduct amounts owed by SHPS under this Section 2.3 from the fees described in Section 2.1 and reflect such deductions in the schedule prepared by HPS.
+
+               2.4 NEW CLIENTS. In the event that HPS (or one of its affiliates other than SHPS) enters into an agreement to provide Care Management Services with a client which is not a Client as of the date of this Agreement (a "New Client"), SHPS shall provide such Care Management Services to the New Client in accordance with the terms of this Agreement. HPS will pay to SHPS all Care Management Revenues collected from such New Client, and SHPS will pay a commission to HPS equal to five percent (5%) of such amount received by SHPS from HPS pursuant to this Section 2.4. HPS shall pay such amount to SHPS within fifteen days following the end of each month. At the time of payment HPS shall submit to SHPS a schedule for the month of payment setting forth the calculation of fees payable under this Section 2.4 and Care
+
+                                     2
+
+3
+
+Management Revenues by New Client. For convenience, the parties acknowledge that HPS will deduct amounts owed by SHPS under this Section 2.4 from the amounts owed by HPS under this Section 2.4 and reflect such deductions in the schedule prepared by HPS.
+
+               2.5 REPORTS; AUDIT RIGHTS. For the purpose of determining the fees payable to SHPS under this Agreement, HPS shall preserve adequate records of Care Management Revenues by Client. SHPS shall have the right, upon reasonable prior written notice, to examine, copy and audit such records. Such audit shall be conducted at the location where such records are maintained and shall be at the expense of SHPS. Notwithstanding the foregoing, should any audit reveal that additional payments to SHPS are due which exceed five percent (5%) of the amount paid to SHPS for the period under audit, HPS shall pay SHPS on demand for the cost of such audit.
+
+      3. INDEMNIFICATION. Each party agrees to defend, save and hold harmless the other from and against all suits and claims that may be based on any injury to any person (including death) or to the property of any person or entity arising out of the operations of the indemnifying party or any willful act, negligence or omission of any of the indemnifying party's agents, servants or employees, provided that the indemnified party shall give notice promptly in writing of any suit or claim to the other party and that the indemnified party and its agents, servants and employees shall cooperate fully with the indemnifying party and its counsel. The indemnifying party shall, at its own cost and expense, pay all charges of attorneys and all costs and other expenses arising therefrom or incurred in connection therewith, provided that it retains the right, at its own expense, to handle any action hereunder by employing its own counsel.
+
+      4.       MISCELLANEOUS
+
+               4.1 CONFIDENTIALITY. SHPS and HPS each agree that all information communicated to it by the other will be held in strict confidence and will be used only for purposes of this Agreement, and that no such information will be disclosed by the recipient party, its agents or employees without the prior written consent of the other party.
+
+               4.2 BINDING NATURE AND ASSIGNMENT. This Agreement shall be binding on the parties and their respective successors and assigns, but neither party may, or shall have the power to, assign this Agreement without the prior written consent of the other, which consent shall not be unreasonably withheld.
+
+               4.3 NOTICES. Wherever under this Agreement one party is required or permitted to give notice to the other, such notice shall be deemed given when delivered in hand, or when mailed by overnight delivery or United States mail, registered or certified, return receipt requested, postage prepaid, and addressed as follows:
+
+                                     3
+
+4
+
+                    In the case of SHPS:
+
+                    Sykes HealthPlan Services, Inc.                        11405 Bluegrass Parkway                        Louisville, Kentucky 40299                        Attention: David E. Garner, President
+
+                    In the case of HPS:
+
+                    HealthPlan Services Corporation                        3501 Frontage Road                        Tampa, Florida 33607                        Attention: Philip S. Dingle, Chief Counsel
+
+               4.4  COUNTERPARTS. This Agreement may be executed in several counterparts, all of which taken together shall constitute the single agreement between the parties.
+
+
+
+
+
+               4.5  HEADINGS. The section headings used in this Agreement are for reference and convenience only and shall not enter into the interpretation of this Agreement.
+
+               4.6  RELATIONSHIP OF PARTIES. SHPS shall be and remain an independent contractor with respect to the performance of its obligations under this Agreement. Nothing contained in this Agreement shall be deemed to constitute either of the parties a joint venturer or partner of the other.
+
+               4.7  APPROVALS AND SIMILAR ACTIONS. Where agreement, approval, acceptance, consent, or similar action by either party is required by any provision of this Agreement, such action shall not be unreasonably delayed or withheld.
+
+               4.8  SEVERABILITY. If any provision of this Agreement is declared or found to be illegal, unenforceable, or void, then both parties shall be relieved of all obligations arising under such provision, but only to the extent that such provision is illegal, unenforceable, or void.
+
+               4.9  WAIVER. No delay or omission by either party to exercise any right or power in this Agreement shall impair such right or power or be construed to be a waiver of such right or power. A waiver by either of the parties shall not be construed to be a waiver of any succeeding breach or of any other covenant contained in this Agreement.
+
+               4.10 AMENDMENTS. No amendment, change, waiver, or discharge of this Agreement shall be valid unless in writing and signed by an authorized representative of the party against which such amendment, change, waiver, or discharge is sought to be enforced.
+
+                                     4
+
+5
+
+               4.11 ENTIRE AGREEMENT. This Agreement constitutes the entire agreement between the parties with respect to the subject matter of this Agreement and there are no representations, understandings or agreements relating to this Agreement which are not fully expressed in this Agreement.
+
+               4.12 GOVERNING LAW. This Agreement shall be governed by and construed in accordance with the laws, other than choice of law rules, of the state of Florida.
+
+      IN WITNESS WHEREOF, SHPS and HPS each caused this Agreement to be signed and delivered by its duly authorized officer, all as of the date first set forth above.
+
+SYKES HEALTHPLAN SERVICES, INC.                HEALTHPLAN SERVICES, INC.
+
+By:                                              By:    ----------------------------                     ---------------------------- Name:                                            Name:      --------------------------                       -------------------------- Title:                                           Title:       -------------------------                        -------------------------
+
+                                     5

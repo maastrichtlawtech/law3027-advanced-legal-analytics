@@ -1,0 +1,223 @@
+1                                                                   EXHIBIT 10.4
+
+                           SPONSORSHIP AGREEMENT                               ---------------------
+
+               This Sponsorship Agreement is made between National Processing Company ("NPC") and National City Bank of Kentucky ("NCB") effective June 30, 1996 ("Effective Date").
+
+                                WITNESSETH:
+
+               WHEREAS, NCB is a member in good standing of Visa U.S.A., Inc. ("Visa") and a member in good standing of MasterCard International, Incorporated ("MasterCard"); and
+
+               WHEREAS, NPC, pursuant to its arrangements with NCB, a member of Visa and MasterCard, provides data processing, settlement and authorization services for merchants who participate in the Visa and MasterCard bankcard programs (such activities being referred to as "Merchant Bankcard Business"); and
+
+               WHEREAS, NPC and NCB have concluded that it is in their mutual best interests for NPC to continue to act as an agent of NCB for purposes of providing data processing, settlement and authorization services for merchants with respect to their Visa and MasterCard transactions and in connection with such agency arrangement, for NPC to continue to use NCB for certain banking relationships; and
+
+               WHEREAS, the parties desire to formalize the terms and conditions on which NPC will act as agent of NCB, and NPC will perform certain functions, for purposes of conducting Merchant Bankcard Business;
+
+             NOW, THEREFORE, in consideration of the premises, the representations, acknowledgments, and mutual agreements set out in this Agreement and other good and valuable consideration, the receipt and sufficiency of which are acknowledged by the parties, NPC and NCB represent, acknowledge and agree as follows:
+
+     ARTICLE I - MERCHANT PROCESSING, SETTLEMENT AND AUTHORIZATION SERVICES         ----------------------------------------------------------------------
+
+               1.1 APPOINTMENT AS AGENT. NCB appoints NPC, and NPC agrees to serve, as NCB's sole agent (i) to provide authorization, processing and settlement services with respect to Visa and MasterCard transactions ("Merchant Processing Services") to merchants who desire to receive Merchant Processing Services from NCB or NPC ("Merchants") and (ii) to enter into contracts with merchants ("Merchant Contracts") for the provision of Merchant Processing Services as agent of NCB; provided, however, that nothing herein shall limit NPC's right to provide, as agent for other members of Visa and MasterCard, Merchant Processing Services to merchants who desire to receive such services from NCB or others. NCB agrees that NPC may use NCB's name and its BIN, ICA and any other Visa and MasterCard identification numbers to the extent necessary or appropriate to perform the Merchant Processing Services.
+
+               1.2 PERFORMANCE BY NPC. NPC shall have full responsibility for the proper performance of the Merchant Processing Services under each Merchant Contract except for the obligations and responsibilities which NCB assumes hereunder. Without limiting the foregoing, NPC shall provide authorization services to the Merchants, perform data capture services with respect to all credit card transactions by the Merchants, submit such data to the applicable Interchange, process retrievals and chargebacks, and direct the settlement of such transactions. In providing Merchant Processing Services, NPC agrees to comply with: (i) all Visa and MasterCard Bylaws, Manuals, Operating Regulations and other written materials as they may from time to time be amended which bind or apply to NCB as a member of Visa and MasterCard with respect to Merchant Processing Services or to NPC as a third party processor with respect to Merchant Processing Services ("Rules"), (ii) all agreements between Merchants and NCB with respect to Merchant Processing Services, and (iii) all applicable laws and regulations, whether state or federal. NPC agrees to enter into any agreements with Visa and MasterCard necessary to perform this Agreement
+
+                                    1    2
+
+in accordance with its terms, subject to the rights of NPC to terminate this Agreement pursuant to Section 6.2. Without in any way limiting the foregoing, NPC agrees as follows: (a) any material containing any of the Visa Card Program Marks used by it in performing this Agreement will prominently identify NCB by name and city adjacent to such marks and, in identifying NPC, will specify that NPC is acting as agent or representative of NCB; (b) any solicitation material used by NPC shall clearly disclose that NPC is acting as agent or representative of NCB; and (c) NPC acknowledges that it does not have authority to permit the use of Visa Card Program Marks by any of its own agents. NPC and NCB agree that the foregoing clauses shall be deemed modified from time to time to reflect any changes in Visa's requirements applicable to NPC's use of Visa Card Program Marks and solicitation material or to the terms required herein.
+
+
+
+
+
+               1.3 MERCHANT CONTRACTS. NPC, as agent of NCB, shall be responsible for establishing the terms and conditions of the Merchant Contracts, including all changes thereunder, subject to Section 1.7 below. Without in any way limiting the authority granted in Section 1.1, NCB hereby authorizes NPC to use NCB's name to the extent necessary or appropriate in accordance with the terms of this Agreement to enter into and to renew Merchant Contracts, to modify Merchant Contracts to the extent necessary to assign them to NCB, to perform the Merchant Contracts and to take other necessary or appropriate actions with respect to the Merchant Contracts, all in accordance with requirements of Visa and MasterCard. As between NPC and NCB, NPC shall be responsible for all credit, fraud and other risks associated with each Merchant Contract.
+
+               1.4 AUTHORIZATION SERVICES. NPC, or its designated third parties, shall provide the Merchants with telephonic or electronic authorization for all Visa and MasterCard transactions exceeding any floor amount specified pursuant to such Merchant's contract.
+
+               1.5 PROCESSING AND SUBMISSION TO INTERCHANGE. NPC shall process all data received by it reflecting the Visa and MasterCard sales transactions and any related return credits by the Merchants and shall submit to the applicable Visa or MasterCard interchange networks ("Interchange") "Settlement Files" reflecting such transactions and directing the applicable Interchange to pay the net amount due to an account established by NCB for the purpose of receiving all settlement amounts paid by Visa and MasterCard with respect to the transactions processed by NPC pursuant to this Agreement and effecting appropriate payments to the Merchants and NPC in accordance with this Agreement ("the NCB Account").
+
+               1.6 ACCOUNT SETTLEMENT.
+
+               (a) PAYMENT INSTRUCTIONS. NPC shall prepare and transmit to          NCB, in a mutually acceptable format, instructions specifying the          payments to be made from the NCB Account to the Merchants and to NPC          pursuant to this Agreement (the "Payment Instructions"). Payment          Instructions shall be delivered to NCB in accordance with the schedule          and procedures established from time to time by the parties.
+
+               (b) PAYMENT. In accordance with the Payment Instructions, NCB          shall pay the Merchants on a timely basis the net settlement amounts          due to them and shall credit NPC's account at NCB for the fees due to          NPC hereunder. Such payments to Merchants shall be effected through          mutually acceptable procedures which are consistent with the payment          procedures established pursuant to the Merchant Contracts. NPC shall          perform on NCB's behalf all of the administrative and bookkeeping          functions necessary to effect payment in such manner.
+
+               1.7 DUE DILIGENCE BY NCB; NPC'S STANDARDS.
+
+               (a) DUE DILIGENCE PRIOR TO EXECUTION OF AGREEMENT. Senior          management officials of NPC have met with senior management officials          of NCB and have discussed with the NCB officials the credit and          financial review procedures and standards used by NPC in deciding          whether to accept or retain Merchants as customers for Merchant          Processing Services, as well as NPC's experience with respect to any          losses resulting from financial failures or fraud by its merchant          customers. Schedule A attached hereto outlines the credit and financial          review procedures and standards currently used by NPC. NPC represents
+
+                                    2    3
+
+      to NCB, and has provided NCB's senior management with financial          information showing, that for 1994 and 1995 combined, the losses          incurred by NPC as a result of financial failures or fraud by its          merchant customers have averaged less than .60% of NPC's net revenues          from Merchant Processing Services.
+
+               (b) CONTINUING DUE DILIGENCE: NPC'S RISK STANDARDS. NPC shall          keep NCB's senior management advised of any material changes in the          credit and financial review procedures and standards and of any          material exceptions to such procedures and standards which may from          time to time be made with respect to particular Merchants. NPC shall          not make any such changes or exceptions until its management committee          has approved such changes or exceptions after carefully evaluating the          relative advantages and disadvantages expected to result from such          changes or exceptions. NPC also shall continue to advise senior          management officials of NCB on a timely basis with respect to any          substantial loss (meaning any loss of $1,000,000 or more with respect          to a single Merchant or $3,000,000 or more in the aggregate in any          twelve month period) incurred by NPC as a result of any financial          failures or fraud by its merchant customers. If NCB's senior management          officials reasonably determine from time to time that any changes are          needed in NPC's credit and financial review procedures and standards or          in the implementation thereof in order to avoid any significant          increase in NPC's losses from financial failures or fraud by its          merchant customers, then NCB shall so notify NPC in writing, and NPC          and NCB shall mutually agree upon, and NPC shall implement appropriate          changes.
+
+               (c) DUE DILIGENCE BY NCB FOR NPC PRICING STANDARDS. Senior          management officials of NPC have met with senior management officials          of NCB and have discussed with the NCB officials the pricing procedures          and standards used for Merchants as customers for Merchant Processing          Services. NPC shall keep NCB's senior management advised of any
+
+
+
+
+
+      material changes in its pricing procedures and standards and of any          material exceptions to such procedures and standards which may from          time to time be made with respect to particular Merchants. NPC shall          not make any such changes or exceptions until its management committee          has approved such changes or exceptions after carefully evaluating the          relative advantages and disadvantages expected to result from such          changes or exceptions. If NCB's senior management officials reasonably          determine from time to time that any changes are needed in NPC's          pricing procedures and standards or in the implementation thereof, then          NCB shall so notify NPC in writing, and NPC and NCB shall mutually          agree upon, and NPC shall implement appropriate changes.
+
+                 ARTICLE II - AUTHORITY OF JOINT OFFICERS                     ----------------------------------------
+
+               2.1 JOINT OFFICERS. In order to enhance NPC's effectiveness as an agent of NCB, the parties agree and acknowledge that it is desirable for one or more officers of NPC to serve also as an officer of NCB (the "Joint Officers") so that such persons shall have clear authority to represent NCB on matters relating to Merchant Processing Services. Accordingly, the Board of Directors of NCB shall elect the NPC officers named in Schedule B as Contracting Officers of NCB only with respect to matters pertaining to Merchant Processing Services. From time to time during the term of this Agreement, the Board of Directors of NCB may elect other officers of NPC as officers of NCB in addition to or in lieu of the Joint Officers. The authority of each Joint Officer to act as an officer of NCB shall terminate immediately upon termination of this Agreement or the termination or suspension of employment of that person by NPC for whatever reason or the removal of that person by the Board of Directors of NCB as an officer of NCB.
+
+               2.2 AUTHORITY TO REPRESENT NCB. Each Joint Officer or its designated representative shall have authority to be the designated recipient of all letters, correspondence and other material from Visa and MasterCard to NCB as a member which relate to Merchant Processing Services, to attend as NCB's representative those meetings for members of Visa and MasterCard which relate to Merchant Processing Services, to maintain on behalf of NCB copies of all Merchant Contracts to which NCB is a party, to act generally as the NCB representative with respect to Merchant Processing Services in discussions, meetings and otherwise between NCB as a member and Visa or MasterCard, and to take such other actions on behalf of NCB That may be required by applicable Visa or MasterCard rules to be performed by a member and that are necessary or appropriate in order to perform this Agreement and effect the parties' intent with respect to this Agreement. NPC shall keep NCB, or such other person
+
+                                    3    4
+
+as may be designated by NCB, advised of all material, non-routine actions taken on behalf of NCB by any of the Joint Officers and shall consult in advance with NCB or such other designated person with respect to any material, non-routine actions to be taken by any of the Joint Officers on behalf of NCB.
+
+               2.3 COMPENSATION. Except to the extent NCB and NPC otherwise agree, all compensation of the Joint Officers shall be paid by NPC, and NCB shall have no obligation to compensate any of the Joint Officers.
+
+                      ARTICLE III - BANKING SERVICES                          ------------------------------
+
+               3.1 MERCHANT PROCESSING - BANKING SERVICES. As soon as practicable after the Effective Date NPC shall enter into agreements or make other mutually acceptable arrangements with NCB pursuant to which NCB will provide those banking services which are necessary for NPC to provide the Merchant Processing Services and which the parties wish NCB to provide.
+
+               3.2 AUTHORITY TO ESTABLISH BANK ACCOUNTS. Each Joint Officer shall have authority to establish at NCB or any other mutually acceptable financial institution any deposit accounts on behalf of NCB as may be necessary to provide some or all of the Merchant Processing Services contemplated by this Agreement for such periods as NCB and NPC agree. No provision of this Agreement authorizes or shall be construed to authorize any Joint Officer or NPC to incur any debt to NCB or any other financial institution, or to create any overdraft, which NCB is obligated directly or indirectly to repay.
+
+               3.3 LOANS AND OVERDRAFTS. Nothing in this Agreement shall be deemed to create any obligation on the part of NCB to loan or advance to NPC any amounts in connection with Merchant Processing Services for any period of time.
+
+                      ARTICLE IV - FEES AND EXPENSES                          ------------------------------
+
+               4.1 CHARGES TO MERCHANTS. As between NPC and NCB, NPC shall receive all fees, discounts and other amounts payable by Merchants for Merchant Processing Services with respect to Merchant Contracts.
+
+               4.2 EXPENSES. NPC shall bear all expenses of maintaining facilities and connections necessary to provide Merchant Processing Services except for the facilities and connection maintained by NCB for purposes of effecting payments pursuant to Section 1.6(b). In addition, NPC agrees to pay or reimburse NCB in full all interchange or issuer reimbursement fees on outgoing
+
+
+
+
+
+merchant sales volume, as well as all fee assessments or charges imposed on NCB by Visa or MasterCard as a result of the Merchant Processing Services performed by NPC. Such fees shall be paid by NPC directly when due or shall be paid by NPC to NCB on the banking day immediately prior to the day on which NCB must pay such fees. All such fees, assessments and charges for which NCB seeks payment by NPC shall, upon request, be documented to NPC's reasonable satisfaction as being attributable to NPC's Merchant Processing Services.
+
+                        ARTICLE V - INDEMNIFICATION                            ---------------------------
+
+               5.1 INDEMNIFICATION. NPC agrees to indemnify, defend and save NCB, its directors, officers and employees harmless from all losses, claims, judgments, awards, penalties, expenses and other amounts of any nature arising out of:
+
+               (a) NPC's failure to perform this Agreement in accordance with        its terms, including, but not limited to, the failure to pay expenses,        charges and other amounts in accordance with the provisions of this        Agreement,
+
+                                    4    5
+
+               (b) The negligent exercise of or the exceeding by any Joint          Officer of the authority granted pursuant to this Agreement to act as          an officer of NCB, or,
+
+               (c) NCB's grant of authority to NPC pursuant to this          Agreement,
+
+including, but not limited to, all court costs, investigation expenses and the reasonable fees and expenses of separate counsel for NCB selected by NCB, provided, however, that NCB shall not be entitled to indemnification as to amounts arising from the negligence or willful misconduct of NCB.
+
+                   ARTICLE VI - COMPLIANCE MODIFICATIONS                       -------------------------------------
+
+               6.1 COMPLIANCE MODIFICATIONS. In the event that:
+
+               (a) the laws, rules and/or regulations or any official       interpretations thereof applicable to NCB as a National Bank or the Visa       or MasterCard rules and/or regulations or any official interpretations       thereof applicable to NCB and the matters covered by this Agreement are       modified such that
+
+                      (i) any modifications in the relationship or               transactions contemplated hereby between NCB and NPC or in the               provisions of this Agreement are needed to comply with any such               laws, rules, regulations or official interpretations thereof, or
+
+                      (ii) some or all of the activities contemplated by this               Agreement are prohibited, or
+
+               (b) Visa or MasterCard requires, as a condition to performance        of this Agreement, that NPC enter into an agreement with Visa or        MasterCard that NPC considers unacceptable,
+
+then at NPC's request, NCB will cooperate in making any modifications to this Agreement and to the parties' relationship hereunder to the extent any such modifications will permit NPC to continue processing, settling and authorizing bankcard transactions (or continue performing some of such functions) in compliance with the laws, rules, regulations or any official interpretations thereof applicable to NCB as a National Bank and the Visa and MasterCard rules, regulations, and interpretations thereof and any contractual terms required by Visa or MasterCard and acceptable to NPC (any such modifications being referred to as "Compliance Modifications") provided that such Compliance Modifications are reasonable and are not unduly burdensome to NCB, and NPC reimburses NCB for any additional costs reasonably incurred by NCB in connection with such Compliance Modifications.
+
+               6.2 FAILURE TO MAKE COMPLIANCE MODIFICATION. If NPC does not request any Compliance Modifications or the parties cannot agree upon the terms of any Compliance Modifications, then either party may terminate this Agreement upon prior written notice to the other party effective at the later of: (a) the deadline imposed by Visa or MasterCard for complying with any such rule, regulation, official interpretation or contract requirement or (b) 120 days after actual notice to NPC of such rule, regulation, interpretation or contract requirement.
+
+                    ARTICLE VII - TERM AND TERMINATION                        ----------------------------------
+
+               7.1 TERM. The term of this Agreement shall be five years commencing on the Effective Date and ending at the close of business on the fifth anniversary of the Effective Date. This Agreement shall automatically renew for successive one-year terms unless one party gives the other party written notice of non-renewal at least six months prior to automatic renewal.
+
+
+
+
+
+                                    5    6
+
+               7.2 TERMINATION. Either party may terminate this Agreement without penalty and without prejudice to any claims arising prior to termination as follows:
+
+               (a) Upon the written agreement of both parties.
+
+               (b) Upon the other party's breach of this Agreement provided          the terminating party has given written notice of the breach to the          other party specifying the breach, the action necessary to cure the          breach and the breaching party has not cured the breach within five          business days after notice is given of any failure by NPC to provide          any funds required hereunder to be provided by NPC to pay Merchants or          within thirty business days after notice is given of any other breach.
+
+               (c) By NCB immediately upon NPC's voluntary filing of any          petition or complaint seeking relief under any federal or state          bankruptcy or other debt relief statute or upon an involuntary petition          in bankruptcy being filed against NPC if such petition is not dismissed          within sixty days after it is filed.
+
+               (d) By NPC immediately in the event that any agreements          between NCB and Visa and/or MasterCard or NCB's membership in either          such bankcard association shall be terminated or materially limited          which termination or material limitation would impair the ability of          NPC to authorize, process or settle merchant bankcard transactions.
+
+               7.3 SURVIVAL. The provisions of Sections 3.3, 4.2, 5.1, 8.1 and 10.6 of this Agreement shall survive any termination. No termination shall prejudice any claim or rights of any party which accrued prior to termination.
+
+                      ARTICLE VIII - CONFIDENTIALITY                          ------------------------------
+
+               8.1 CONFIDENTIALITY. In performing this Agreement, each party will have access to confidential information of the other. Each party agrees to hold in confidence and to instruct its employees and agents to hold in confidence all information and materials, in whatever form, reasonably designated as confidential by the party requesting confidentiality. NPC agrees to comply with all laws and regulations relating to confidentiality of customer lists and other information which are applicable to NCB and its agents or to NPC. NCB agrees to comply with all contractual obligations of NPC actually known to NCB and all laws and regulations applicable to NCB or NPC relating to confidentiality of customer lists and other information.
+
+                           ARTICLE IX - NOTICES                               --------------------
+
+               9.1 NOTICES. All notices which are required or permitted by this Agreement shall be in writing and shall be (i) delivered personally to the designated addressee, (ii) sent by the United States Mail addressed to the designated person by certified mail, return receipt requested, all postage prepaid, or (iii) sent by overnight delivery service addressed to the designated person, all charges prepaid, or (iv) by other means such as facsimile machine if the designated addressee acknowledges receipt in writing. Notices shall be addressed as follows:
+
+If to NPC:                         Louis Parker                         Executive Vice President                         National City Processing Company                         1231 Durrett Lane                         Louisville, KY  40285-0001
+
+                                    6    7
+
+with copies to:         Kurt Knipp                         Executive Vice President                         National City Processing Company                         1231 Durrett Lane                         Louisville, KY  40285-0001
+
+If to NCB:              Peter J. Barrick                         Senior Vice President                         National City Bank of Kentucky                         101 S. 5th Street                         Louisville, KY  40202
+
+with copies to:         Curtis M. Jacobs                         Senior Vice President and Counsel                         National City Bank of Kentucky                         101 S. 5th Street                         Louisville, KY  40202
+
+
+
+
+
+Notices personally delivered are given when received. Notices sent by United States Mail, certified mail, return receipt requested, are given five business days after delivery to the United States Postal Service unless prior actual receipt by the addressee is proven. Notice sent by overnight delivery service is deemed given one business day after delivery to and acceptance by overnight delivery service for next day delivery. Notices sent by other means and acknowledged are deemed given when acknowledged in writing.
+
+                         ARTICLE X - MISCELLANEOUS                             -------------------------
+
+               10.1 HEADINGS. The headings are for information and are not part of this Agreement.
+
+               10.2 ENTIRE AGREEMENT, MODIFICATION. This Agreement and the attachments to it represent the entire agreement of the parties with respect to the subject matter of the Agreement. This Agreement may not be modified except by a written agreement which expressly refers to the Agreement and is signed by both parties.
+
+               10.3 SEVERABILITY. If any section of this Agreement is deemed void, illegal or unenforceable, that section shall be severed and the balance shall remain in effect.
+
+               10.4 GOVERNING LAW. This Agreement and its interpretation shall be governed by the laws of the United States and, to the extent not inconsistent therewith, by the laws of the Commonwealth of Kentucky without regard to conflicts of laws rules.
+
+               10.5 BINDING AGREEMENT, ASSIGNMENT PROHIBITED. This Agreement shall bind the parties, their successors and permitted assigns. Neither party shall assign this Agreement or any rights under it except with the prior written consent of the other.
+
+               10.6 MONITORING BY NCB. NPC shall admit properly identified and authorized NCB employees and agents onto its premises for purposes of monitoring NPC's compliance with this Agreement. It is understood that such monitoring will occur during normal business hours, will be preceded by reasonable notification to NPC, and must not interfere with NPC's normal operations.
+
+                                    7    8
+
+          IN WITNESS WHEREOF, the parties have caused this Agreement to be executed by their duly authorized officers as of the Effective Date.
+
+                              NATIONAL PROCESSING COMPANY
+
+                              By: /s/ Mark D. Schatz                                      --------------------------------                                  Name: Mark D. Schatz                                        ------------------------------                                  Title: Vice President                                         -----------------------------
+
+                              NATIONAL CITY BANK OF KENTUCKY                                  By: /s/ Peter J. Barrick                                      --------------------------------                                  Name: Peter J. Barrick                                        ------------------------------                                  Title: Senior Vice President                                         -----------------------------
+
+                                    8    9
+
+                                SCHEDULE A                                      to the                         SPONSORSHIP AGREEMENT BETWEEN NCB                                        and                                        NPC                                       dated                                   June 30, 1996
+
+1.       BUSINESSES GENERALLY NOT SOLICITED. NPC does not generally solicit          customers engaged in any of the following businesses, but in special          circumstances it sometimes accepts customers engaged in one of these          businesses. Such exceptions occur primarily when NPC acquires another          processor's customer base or when NPC enters into a processing          agreement with an ISO/MSP which maintains merchant customers engaged in          such businesses.          - Telemarketing (In-bound or out-bound)
+
+
+
+
+
+      - Pawn Shops          - Door-to-Door Sales          - Massage Parlors          - Bail & Bond Payments          - Business operated out of Residence          - Flea Markets          - Fulfillment Houses          - Timesharing          - Travel Clubs/Packages
+
+2.       DOCUMENTATION REQUIRED FOR MERCHANT CUSTOMERS          - Merchant Application - all pertinent personal and business            information, including previous processor          - Site Visitation Report (when applicable)          - Bankcard Agreement - signed by Principal/Officer          - Personal Guarantee - signed by Principal (when applicable)          - Business Financial Statements (when applicable)          - Business and/or Personal Income Tax Filings if Financial Statements            unavailable (when applicable)          - Catalogues, Advertising Copy, etc. - as needed
+
+3.       CREDIT REVIEW PROCEDURES. The following credit review procedures are          completed by NPC before a Merchant is accepted as a new customer. These          procedures may be repeated with respect to any existing Merchant          customer if such Merchant has unusual credit card activity, unusual or          higher than normal chargebacks, or if other circumstances arise which,          in the judgment of NPC's management, warrant a new or on-going credit          review.          - Inquire against Terminated Merchant File          - Obtain and Review Personal Credit Reports on Principal(s) (when            applicable)          - Obtain and Review Dun & Bradstreet Report (when applicable)          - Review of Financial Statements, Tax Returns and all other pertinent            data (when applicable)          - Investigation of previous processing relationship
+
+4.       REASONS FOR DECLINING A MERCHANT.          - Listed on the terminated merchant file          - Insufficient credit history established          - Significant derogatory credit - personal or business          - Poor financial condition of business          - Derogatory report from previous processor          - Unacceptable line of business
+
+                                    9    10
+
+                                SCHEDULE B                                      to the                         SPONSORSHIP AGREEMENT BETWEEN NCB                                        and                                        NPC                                       dated                                   June 30, 1996
+
+                 NAME                          NCB TITLE                     ----                          ---------                                                         Tony G. Holcombe              Contracting Officer
+
+           Kurt S. Knipp                 Contracting Officer
+
+           Wayne A. Chatham, Jr.         Contracting Officer
+
+                                    10

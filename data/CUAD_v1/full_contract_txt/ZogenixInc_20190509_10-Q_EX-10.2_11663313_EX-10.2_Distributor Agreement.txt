@@ -1,0 +1,1541 @@
+Exhibit 10.2
+
+CERTAIN INFORMATION (INDICATED BY ASTERISKS) HAS BEEN OMITTED FROM THIS DOCUMENT BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE REGISTRANT IF PUBLICLY DISCLOSED.
+
+Zogenix Inc.
+
+and
+
+Nippon Shinyaku Company Ltd.
+
+Distributorship Agreement
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+Table of Contents
+
+Article 1. Definitions Article 2. Grant of Rights 2.1 Grant of Rights to Distributor 2.2 Sub-distribution by Distributor 2.3 Supply of Product for Distributorship 2.4 No Other Rights; Other Limitations 2.5 Non-Compete Covenant 2.6 No Activities Outside the Territory or Field Article 3. Governance 3.1 Joint Steering Committee 3.2 Expenses 3.3 Alliance Managers 3.4 Scope of Governance Article 4. Development and Regulatory Activities 4.1 Nonclinical and Clinical Studies and CMC Requirements 4.2 Regulatory Activities 4.3 Distributor's Right to Use and Reference 4.4 Zogenix's Right to Use and Reference 4.5 Adverse Event Reporting 4.6 Drug Safety and Pharmacovigilance System including Global Safety Database 4.7 Regulatory Audit 4.8 Use of Subcontractors 4.9 Recalls 4.1 Development Expenses Article 5. Commercialization; Supply: Trademarks 5.1 Commercialization of the Product. 5.2 Supply 5.3 Trademark Rights 5.4 Commercial Expenses Article 6. Payments 6.1 Upfront Payment 6.2 Funding to Support Development of The Product 6.3 Regulatory Milestones 6.4 Sales Milestones 6.5 Supply Payments Article 7. Payments, Books and Records 7.1 Payment Method
+
+i
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+7.2 Currency Conversion 7.3 Taxes 7.4 Records 7.5 Audits 7.6 Late Payments Article 8. Confidentiality 8.1 Confidential Information 8.2 Exceptions 8.3 Permitted Disclosures 8.4 Confidentiality of this Agreement and its Terms 8.5 Public Announcements 8.6 Publication 8.7 Prior Non-Disclosure Agreements 8.8 Equitable Relief Article 9. Intellectual Property Ownership and Enforcement 9.1 Ownership of Intellectual Property 9.2 Zogenix Patent Prosecution and Maintenance 9.3 Infringement by Third Parties 9.4 Third Party Intellectual Property Rights 9.5 Patent Term Restoration 9.6 Patent Marking 9.7 Zogenix Trademarks 9.8 Product Trademarks Article 10. Representations, Warranties and Covenants; Limitation of Liability 10.1 Mutual Representations, Warranties and Covenants 10.2 Representations, Warranties and Covenants of Distributor 10.3 Representations and Warranties of Zogenix 10.4 Disclaimer 10.5 Limitation of Liability Article 11. Indemnification 11.1 Indemnification of Zogenix 11.2 Indemnification of Distributor 11.3 Procedure 11.4 Insurance Article 12. Term and Termination 12.1 Term 12.2 Termination 12.3 Rights on Termination 12.4 Exercise of Right to Terminate 12.5 Damages; Relief 12.6 Accrued Obligations; Survival
+
+ii
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+Article 13. Dispute Resolution 13.1 Objective 13.2 Resolution by Executives 13.3 Arbitration Article 14. General Provisions 14.1 Governing Law 14.2 Force Majeure 14.3 Assignment 14.4 Severability 14.5 Notices 14.6 Entire Agreement; Amendments 14.7 Headings 14.8 Independent Contractors 14.9 Waiver 14.1 Cumulative Remedies 14.11 Waiver of Rule of Construction 14.12 Interpretation 14.13 No Third Party Beneficiaries 14.14 English Language 14.15 Counterparts 14.16 Further Actions
+
+iii
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+List of Exhibits
+
+Exhibit 1.70 Unlabeled Drug Product Exhibit 1.74 Zogenix ZX008 Patents as of the Effective Date Exhibit 2.3 Material Terms of Supply Agreement Exhibit 4.2(a) The initial version of the Regulatory Plan Exhibit 8.5(a) Press Release Exhibit 9.7 Zogenix Trademarks Exhibit 9.8 Product Trademarks Exhibit 10.2(b) Form of Compliance Certification
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+DISTRIBUTORSHIP AGREEMENT
+
+This DISTRIBUTORSHIP AGREEMENT ("Agreement") is entered into as of March 18, 2019 (the "Effective Date") by and between ZOGENIX, INC., having a place of business at 5959 Horton Street, Suite 500, Emeryville, California 94608( "Zogenix") and Nippon Shinyaku Company, Ltd., having a place of business at 14, Nishinosho-Monguchi-cho, Kisshoin, Minami-ku, Kyoto 601-8550, Japan ("Distributor"). Zogenix and Distributor may be referred to individually as a "Party" and collectively as the "Parties".
+
+RECITALS
+
+WHEREAS, Zogenix is developing its proprietary fenfluramine product, known as Fintepla®.
+
+WHEREAS, Zogenix wishes to commercialize such product through a distributor that will promote, market, sell and distribute such product within the Territory;
+
+WHEREAS, Distributor has the ability to promote, market, sell and distribute such product within the Territory for the treatment of Dravet syndrome and Lennox-Gastaut syndrome and any additional indications approved in the Territory, and wishes to be Zogenix's exclusive distributor of such product for such indications within the Territory, and Zogenix is willing to grant to Distributor such exclusive distribution rights on the terms and conditions set forth in this Agreement; and
+
+WHEREAS, Zogenix agrees to manufacture (or have manufactured) and sell to Distributor such product for such commercialization activities in the Territory, on the terms and conditions set forth in this Agreement and in a separate supply agreement to be entered into by the Parties.
+
+NOW, THEREFORE, in consideration of the foregoing premises and the mutual covenants herein contained, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Zogenix and Distributor hereby agree as follows:
+
+ARTICLE 1. DEFINITIONS
+
+1.1 "Affiliate" of a Party means any entity that, directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with such Party, as the case may be, but for only so long as such control exists. As used in this Section 1.1, "control" means (a) to possess, directly or indirectly, the power to direct the management or policies of an entity, whether through ownership of voting securities, or by contract relating to voting rights or corporate governance; or (b) direct or indirect beneficial ownership of more than fifty percent (50%) (or such lesser percentage which is the maximum allowed to be owned by a foreign corporation in a particular jurisdiction) of the voting share capital or other equity interest in such entity.
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+1.2 "Alliance Manager" has the meaning set forth in Section 3.3.
+
+1.3 "Annual Report" has the meaning set forth in Section 6.5(c).
+
+1.4 "Applicable Laws" means the applicable provisions of any and all national, supranational, regional, state and local laws, treaties, statutes, rules, regulations, administrative codes, industry codes, guidance, ordinances, judgments, decrees, directives, injunctions, orders or permits (including Regulatory Approvals) of or from any court, arbitrator, Regulatory Authority or governmental agency or authority having jurisdiction over or related to the subject item, including the FCPA, export control, embargo, trade sanction and data privacy laws, regulations, rules and licenses, and other laws and regulations pertaining to domestic or international corruption, commercial bribery, fraud, embezzlement or money laundering.
+
+1.5 "Business Day" means a day other than a Saturday, Sunday, any public holiday, or any bank holiday in the United States or Japan.
+
+1.6 "Change of Control" means any (a) direct or indirect acquisition of assets of a Party (i) equal to fifty percent (50%) or more of the fair market value of a Party's consolidated assets, or (ii) to which fifty percent (50%) or more of a Party's net revenues or net income on a consolidated basis are attributable, or (iii) representing substantially all of the properties or assets related to a Party's obligations under this Agreement, (b) direct or indirect acquisition by a Person, or group of Persons acting in concert, of fifty percent (50%) or more of the voting equity interests of a Party, (c) tender offer or exchange offer that if consummated would result in any Person, or group of Persons acting in concert, beneficially owning fifty percent (50%) or more of the voting equity interests of a Party, (d) merger, consolidation, other business combination or similar transaction involving a Party, pursuant to which any Person would own fifty percent (50%) or more of the consolidated assets, net revenues or net income of a Party, taken as a whole, or which results in the holders of the voting equity interests of a Party immediately prior to such merger, consolidation, business combination or similar transaction ceasing to hold fifty percent (50%) or more of the combined voting power of the surviving, purchasing or continuing entity immediately after such merger, consolidation, business combination or similar transaction, (e) liquidation or dissolution (or the adoption of a plan of liquidation or dissolution) of a Party, or (f) declaration or payment of an extraordinary dividend (whether in cash or other property) by a Party, where the amount of the dividend or the in specie property which is the subject of the dividend would otherwise come within the application of any of clauses (a)-(e) above, in all cases where such transaction is to be entered into with any Person other than the other Party.
+
+1.7 "CMC" means chemistry, manufacturing and controls.
+
+1.8 "Commercialization" means all activities directed to marketing, promoting, advertising, exhibiting, distributing (including storage for distribution or inventory), detailing, selling, (and offering for sale or contracting to sell), or otherwise commercially exploiting the Product in the Field in the Territory.
+
+1.9 "Commercialization Plan" has the meaning set forth in Section 5.1(b).
+
+2
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+1.10 "Commercially Reasonable Efforts" means, with respect to a Party's specific obligations under this Agreement, that level of efforts and resources, [***]. Commercially Reasonable Efforts requires that the applicable Party: (i) [***], (ii) [***], and (iii) [***].
+
+1.11 "Confidential Information" has the meaning set forth in Section 8.1.
+
+1.12 "Confidentiality Agreement" means that certain Mutual Confidential Disclosure Agreement, dated June 21, 2018, between Zogenix and Distributor.
+
+1.13 "Control" (including any variations such as "Controlled" and "Controlling") means, with respect to any Information, Data, Patent or other intellectual property rights, possession by a Party of the ability (whether by ownership or grant of rights, other than pursuant to this Agreement) to grant to the other Party the applicable access or other right under this Agreement without violating the terms of an agreement with a Third Party.
+
+1.14 "Data" means any and all scientific, technical or test data pertaining to the Product in the Field that is generated by or under the authority of Distributor or its Affiliates, Sub-distributors or other subcontractors or by or under the authority of Zogenix or Zogenix ex-Territory Distributors before or during the Term, including research data, clinical pharmacology data, CMC data (including analytical and quality control data and stability data), preclinical data, clinical data and all submissions made in association with an IND or MAA filed in or outside the Territory with respect to the Product in the Field, in each case to the extent such data either (a) is Controlled by Zogenix on the Effective Date or (b) comes within a Party's Control during the Term.
+
+1.15 "Development" means all activities directed to research, non-clinical and preclinical studies and trials, CMC Data collection, clinical studies and trials, Investigator Initiated Studies, toxicology studies, publication and presentation of study results, preparation and submission to Regulatory Authorities of an MAA concerning the Product, interacting with Regulatory Authorities prior to and following Regulatory Approval of the Product, and Product pricing negotiations and decisions concerning the Product.
+
+1.16 "Disclosing Party" has the meaning set forth in Section 8.1.
+
+1.17 "Distribution Term" means the period commencing on the first Regulatory Approval of the Product in the Territory and continuing until [***], or if this Agreement is terminated earlier pursuant to Article 12, the effective date of such termination.
+
+1.18 "Distributor Invention" has the meaning set forth in Section 9.1(b)(i).
+
+1.19 "Executives" has the meaning set forth in Section 3.1(d).
+
+1.20 "FCPA" means the U.S. Foreign Corrupt Practices Act (15 U.S.C. § 78dd-1 et seq.), as amended.
+
+1.21 "FDA" means the Food and Drug Administration, or any successor agency thereto
+
+3
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+having the administrative authority to regulate the marketing of human pharmaceutical products in the United States.
+
+1.22 "Field" means the Indications of treatment for the Product in the Territory.
+
+1.23 "First Commercial Sale" means the first bona fide, arm's-length sale of the Product in the Field in the Territory following Regulatory Approval of the Product in the Field in the Territory.
+
+1.24 "Fiscal Quarter" means a period of three (3) consecutive months during a Fiscal Year beginning on and including April 1st, July 1st or October 1st or January 1st.
+
+1.25 "Fiscal Year" means a year that starts from April 1st and ends on March 31st.
+
+1.26 "Fully-Burdened Manufacturing Cost" means the costs incurred by Zogenix that are directly attributable to and reasonably allocated to the manufacture and delivery of the Product to Distributor. Fully-Burdened Manufacturing Costs shall include the following: [***].
+
+1.27 "Generic Product" means a pharmaceutical product that (a) [***]; (b) [***]; (c) [***]; and (d) [***].
+
+1.28 "IFRS" means international financial reporting standards, as may be amended from time to time.
+
+1.29 "IND" means any Investigational New Drug application, as defined in Title 21 of the Code of Federal Regulations, on file with the FDA before the commencement of clinical trials of the Product in humans, or any comparable filing with any Regulatory Authority.
+
+1.30 "Indemnitee" has the meaning set forth in Section 11.3.
+
+1.31 "Indemnitor" has the meaning set forth in Section 11.3.
+
+1.32 "Indication" means the treatment of Dravet syndrome, Lennox-Gastaut syndrome, [***] during the Distribution Term.
+
+1.33 "Indirect Losses" means any damages or other losses involving, but only to the extent of, any loss of profits, diminution in value, or incidental, indirect, consequential, special or punitive damages.
+
+1.34 "Information" means information, ideas, inventions, discoveries, concepts, formulas, practices, procedures, processes, methods, knowledge, know-how, trade secrets, technology, inventories, machines, techniques, development, designs, drawings, computer programs, skill, experience, documents, apparatus, results, clinical and regulatory strategies, documentation, information and submissions pertaining to, or made in association with, filings with any Regulatory Authority, data, including pharmacological, toxicological and clinical data, analytical and quality control data, manufacturing data and descriptions, patent and legal data,
+
+4
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+market data, financial data or descriptions, specifications and the like, in written, electronic or other form, now known or hereafter developed, whether or not patentable.
+
+1.35 "Invention" means any new and useful process, article of manufacture, composition of matter, formulation or apparatus, or any improvement thereof, discovery or finding, whether or not patentable, as determined in accordance with the patent laws of the United States of America.
+
+1.36 "Japan GAAP" means Japan generally accepted accounting principles, as may be amended from time to time.
+
+1.37 "Joint Steering Committee" or "JSC" has the meaning set forth in Section 3.1.
+
+1.38 "Losses" has the meaning set forth in Section 11.1.
+
+1.39 "MAA" means a marketing authorization application or equivalent application, and all amendments and supplements thereto, filed with a Regulatory Authority.
+
+1.40 "MAH" means a marketing authorization holder of the Product in the Field in the Territory.
+
+1.41 "MHLW" means the Japanese Ministry of Health, Labor and Welfare.
+
+1.42 "Net Price" means, for any Fiscal Year, the unit price of the Product in the Territory in the Field calculated by dividing the aggregate Net Sales for the Product in the Territory in such Fiscal Year by the total number of units of the Product sold by or on behalf of Distributor or its Affiliate or Sub-distributor in the Territory in such Fiscal Year.
+
+1.43 "Net Sales" means, with respect to any period of time, the gross amounts invoiced for sales or other dispositions of the Product in the Territory by or on behalf of Distributor or its Affiliates or Sub-distributors to Third Parties (other than Sub- distributors) during such period, less the value added taxes levied on or measured by the billing amount for the Product to the extent included in the gross invoiced sales price for the Product or otherwise directly paid or incurred by Distributor or its Affiliates or Sub-distributors, as applicable, with respect to the sale or other disposition of the Product, less the following deductions to the extent actually allowed, paid, incurred or accrued during the applicable period, calculated in accordance with Japan GAAP or IFRS (consistently applied):
+
+[***]
+
+Net Sales shall be calculated in accordance with Japan GAAP or IFRS, consistently applied in the Territory and shall be consistent with net sales reported in Distributor's audited financial statements. If net sales reported in Distributor's audited financial statements include discounts for products sold in combination or bundled with other products, these discounts will not be included in the calculation of Net Sales of the Product.
+
+5
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+Sales of a Product for use in conducting clinical trials of the Product in the Territory in order to obtain Regulatory Approval of the Product in the Territory shall be excluded from Net Sales calculations for all purposes.
+
+Upon any sale or other disposition of the Product for any consideration other than exclusively monetary consideration on bona fide arm's-length terms, for purposes of calculating Net Sales under this Agreement, the Product shall be deemed to be sold exclusively for money at the average sales price during the applicable reporting period generally achieved for the Product in the Field in the Territory when the Product is sold alone and not with other products.
+
+Distributor and its Affiliates and Sub-distributors shall not sell the Product in combination with or as part of a bundle with other products, or offer packaged arrangements to customers that include the Product, in such a manner as to disproportionately discount the selling price of the Product as compared with the weighted-average discount applied to the other products, as a percent of the respective list prices (or if not available, a good faith estimate thereof) of such products and the Product prior to applying the discount.
+
+1.44 "NHI" means the Japanese national health insurance system, or its successor system.
+
+1.45 "NHI Price" means the reimbursement price of the maximum daily dose of Product for purposes of the NHI.
+
+1.46 "NHI Price Listing" means the listing of the NHI Price by Central Social Insurance Medical Council (Chuikyo) of the MHLW.
+
+1.47 "Out-of-Pocket Costs and Expenses" means the costs and expenses incurred by one or both Parties (as applicable) that are directly attributable to and reasonably allocated to a specified project, program or task. Out-of-Pocket Costs and Expenses shall include payments made to third parties such as contract research organizations and investigators and the fully burdened cost of drug product. Out-of-Pocket Costs and Expenses shall not include a Party's employee costs.
+
+1.48 "Patent" means (a) any patent, certificate of invention, application for certificate of invention, priority patent filing and patent application, and (b) any renewal, division, continuation (in whole or in part) or request for continued examination of any of such patent, certificate of invention and patent application, and any patent or certificate of invention issuing thereon, and any reissue, reexamination, extension, restoration by any existing or future extension or restoration mechanism, division, renewal, substitution, confirmation, registration, revalidation, revision and addition of or to any of the foregoing.
+
+1.49 "Person" means any individual, corporation, partnership, limited liability company, trust or other entity.
+
+1.50 "Pharmacovigilance Agreement" has the meaning set forth in Section 4.5.
+
+6
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+1.51 "PMDA" means the Japanese Pharmaceuticals and Medical Devices Agency, and local counterparts thereto, and any successor agency(ies) or authority thereto having substantially the same function.
+
+1.52 "Product" means Zogenix's proprietary fenfluramine product, known as Fintepla®, or any drug product containing a salt, enantiomer, or polymorph of fenfluramine.
+
+1.53 "Product Invention" has the meaning set forth in Section 9.1(b)(i).
+
+1.54 "Product Trademark" has the meaning set forth in Section 9.8(a).
+
+1.55 "Public Official or Entity" means (a) any officer, employee (including physicians, hospital administrators or other healthcare professionals), agent, representative, department, agency, de facto official, representative, corporate entity, instrumentality or subdivision of any government, military or international organization, including any ministry or department of health or any state-owned or affiliated company or hospital, or (b) any candidate for political office, any political party or any official of a political party.
+
+1.56 "Transfer Price" has the meaning set forth in Section 6.5(a).
+
+1.57 "Receiving Party" has the meaning set forth in Section 8.1.
+
+1.58 "Regulatory Approval" means any and all approvals (except NHI Price Listing), licenses, registrations, or authorizations of Regulatory Authorities in the applicable regulatory jurisdiction that are necessary for the manufacture, use, storage, import, transport and/or sale of a pharmaceutical product in such regulatory jurisdiction.
+
+1.59 "Regulatory Authority" means any national, regional, state or local regulatory agency, department, bureau, commission, council or other governmental entity whose review and/or approval is necessary for the manufacture, packaging, use, storage, import, export, distribution or promotion of a pharmaceutical product in the applicable regulatory jurisdiction, including the PMDA in the Territory. If governmental approval is required for pricing or reimbursement by national health insurance (or its local equivalent), "Regulatory Authority" shall also include any national, regional, state or local regulatory agency, department, bureau, commission, council or other governmental entity whose review and/or approval of pricing or reimbursement is required.
+
+1.60 "Regulatory Filings" means all applications, approvals, licenses, notifications, registrations, submissions and authorizations made to or received from a Regulatory Authority in connection with the development, manufacture or commercialization of a pharmaceutical product, including any INDs, MAAs and Regulatory Approvals.
+
+1.61 "Regulatory Plan" has the meaning set forth in Section 4.2(a).
+
+1.62 "SEC" means the U.S. Securities and Exchange Commission or any successor agency.
+
+7
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+1.63 "Sub-distributor" means any Person other than Distributor or its Affiliates that Distributor appoints to market, promote, offer for sale, sell, import or distribute the Product in the Field in the Territory, beyond the mere right to purchase the Product from Distributor or its Affiliates for end use.
+
+1.64 "Supply Agreement" has the meaning set forth in Section 5.2.
+
+1.65 "Territory" means Japan.
+
+1.66 "Third Party" means any governmental authority or Person other than Zogenix, Distributor and their respective Affiliates.
+
+1.67 "Third Party Claims" has the meaning set forth in Section 11.1.
+
+1.68 "Trademark" means any word, name, symbol, color, designation or device or any combination thereof, including any trademark, trade dress, brand mark, service mark, trade name, brand name, logo or business symbol, whether or not registered, as determined in accordance with the trademark laws of the Unites States of America.
+
+1.69 "United States" or "U.S." means the United States of America, including its territories and possessions and the District of Columbia.
+
+1.70 "Unlabeled Drug Product" means [***].
+
+1.71 "Zogenix ex-Territory Distributor" means a licensee, collaborator or distributor engaged by Zogenix or any of its Affiliates to market, promote or sell the Product outside the Territory.
+
+1.72 "Zogenix Indemnitees" has the meaning set forth in Section 11.1.
+
+1.73 "Zogenix Know-How" means all Information and Data that Zogenix Controls as of the Effective Date or during the Term, which Information is necessary or reasonably useful to file for, obtain or maintain Regulatory Approval or to market, promote, sell, offer for sale or import the Product in the Field in the Territory.
+
+1.74 "Zogenix Patents" means all Patents that Zogenix Controls as of the Effective Date or during the Term, which Patents would be infringed, absent a license, by the use, sale, offer for sale or import of the Product in the Field in the Territory, including any Patents issuing from the applications listed in Exhibit 1.74.
+
+1.75 "Zogenix Technology" means the Zogenix Know-How and Zogenix Patents.
+
+1.76 "Zogenix Trademark" has the meaning set forth in Section 9.7.
+
+8
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+ARTICLE 2. GRANT OF RIGHTS
+
+2.1 Grant of Rights to Distributor. Subject to the terms and conditions of this Agreement, Zogenix hereby appoints Distributor, and Distributor accepts appointment, as the exclusive distributor (even as to Zogenix) of the Product in the Field in the Territory during the Term, and grants to Distributor the exclusive rights to maintain Regulatory Approval of (while Distributor is the MAH Party), package, promote, market, offer for sale, sell, import and distribute the Product in the Field in the Territory during the Term. The Parties agree that the rights granted in this Section 2.1 do not grant any right or license to, and Distributor shall not, supply, sell, offer for sale or otherwise dispose of or provide access to the Product in the Territory unless and until the Product obtains Regulatory Approval in the Field in the Territory.
+
+2.2 Sub-distribution by Distributor. Distributor shall not have the right to (a) appoint any Sub-distributors for the Product in the Field in the Territory or (b) otherwise subcontract any sales, marketing, distribution or promotional activities with respect to the Product in the Field in the Territory, including to any contract sales organization, in each case, except with the prior written approval of Zogenix. If Zogenix grants such approval, in accordance with this Section 2.2 and Section 4.8, any Sub- distributor agreement shall be in writing and, with the exception of the financial terms, on substantially the same terms as this Agreement, to the extent applicable to the Sub-distributor's activity, and shall provide for the assignment of all Data generated by such Sub-distributors to Distributor, and the right for Distributor to terminate such agreement immediately in the event of any violation by such Sub-distributor of the FCPA or other Applicable Laws. Distributor shall be responsible for the acts or omissions of its Sub-distributors under any Sub-distributors agreement, including any such act or omission that would constitute a breach hereunder. In the event of any such breach by a Sub-distributor of its obligations to comply with the FCPA or other Applicable Laws, Distributor shall immediately terminate the applicable Sub-distributor agreement(s), unless otherwise agreed to by Zogenix in writing. Within [***] after execution thereof, Distributor shall provide Zogenix with a full and complete copy of each Sub- distributor agreement (provided that Distributor may redact any confidential information contained therein that is not relevant to compliance with this Agreement).
+
+2.3 Supply of Product for Distributorship. Zogenix shall supply (or have supplied) to Distributor, in accordance with the terms set forth on Exhibit 2.3, and Distributor shall purchase exclusively from Zogenix, Distributor's and its Affiliates' and Sub- distributors' Unlabeled Drug Product requirements of the Product for sale by Distributor or its Affiliates or Sub-distributors in the Territory in the Field, subject to and under the provisions of Section 5.2 and the Supply Agreement. Distributor shall purchase all such amounts of Unlabeled Drug Product of the Product for sale by Distributor supplied by Zogenix under the payment provisions of Section 6.5 and Article 7. Notwithstanding the foregoing, upon the reasonable request of Distributor, Zogenix will provide Product free of charge to Distributor to the extent necessary for Distributor to meet its analytical testing obligations hereunder.
+
+9
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+2.4 No Other Rights; Other Limitations. Except for the rights expressly granted in this Agreement, Zogenix retains all rights under the Zogenix Technology and with respect to the Product, including the exclusive right to manufacture and sell the Product to Distributor, to develop the Product, and to promote, market and sell the Product outside the Territory, and all rights with respect to the Product outside the Field in the Territory. No rights shall be deemed granted by one Party to the other Party under this Agreement by implication, estoppel or otherwise. Distributor agrees not to use any Zogenix Technology except as necessary to file for and maintain Regulatory Approval of, promote, market, sell, offer for sale, distribute and import the Product in the Field in the Territory during the Term in accordance with the terms of this Agreement and the Supply Agreement. Without limiting the foregoing, Distributor agrees that in no event shall Distributor or its Affiliates manufacture or have manufactured the Product, or purchase the Product from any party other than Zogenix pursuant to the Supply Agreement. Without limiting the foregoing, Distributor further acknowledges that it has no right to and agrees that it will not perform any studies of the Product or allow its Affiliate or any Third Party to perform any studies of the Product (including any investigator-initiated studies) except with the prior written approval of Zogenix, which Zogenix may withhold in its sole discretion.
+
+2.5 Non-Compete Covenant. During the Term, without the prior written approval of Zogenix, Distributor shall not, and shall cause its Affiliates not to, either directly or indirectly, file for Regulatory Approval of, promote, market, offer for sale, sell, import or distribute in the Territory any product containing fenfluramine or any salt, enantiomer, or polymorph of fenfluramine, or any product for [***].
+
+2.6 No Activities Outside the Territory or Field. Distributor shall not, and shall cause its Affiliates and Sub-distributors not to, (a) actively seek customers for the Product outside the Territory or the Field, (b) establish or maintain a branch office, warehouse, or distribution facility for the Product outside the Territory, (c) engage in any advertising or promotional activities relating to the Product directed to customers outside the Territory or directed to any use outside the Field, or (d) solicit orders from any prospective purchaser with its principal place of business located outside the Territory. If Distributor receives any order from a prospective purchaser outside the Territory, Distributor shall not accept any such order but shall immediately refer that order to Zogenix.
+
+ARTICLE 3. GOVERNANCE
+
+3.1 Joint Steering Committee. The Parties shall establish a joint steering committee (the "Joint Steering Committee" or "JSC") to oversee the activities of the Parties pursuant to this Agreement.
+
+(a) Composition. The JSC will be comprised of [***] members appointed by Distributor and [***] members appointed by Zogenix, which members shall be senior level employees or representatives of each Party with decision-making authority. Each Party will
+
+10
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+notify the other Party of its initial JSC members within [***] after the Effective Date. The Parties, through the JSC, may change the number of JSC members as long as an equal number of members from each of Distributor and Zogenix is maintained. Each Party may change its JSC members at any time by written notice to the other Party, which may be delivered at a scheduled meeting of the JSC. Any member of the JSC may designate a substitute to attend and perform the functions of that member at any meeting of the JSC. Zogenix shall appoint one (1) of its members as chair, whose role shall be to convene and preside at meetings of the JSC, but the chair shall not be entitled to prevent items from being discussed or to cast any tie-breaking vote. Each Party may, with the consent of the other Party, such consent not to be unreasonably withheld or delayed, invite non-member, non-voting representatives of such Party to attend meetings of the JSC.
+
+(b) Responsibilities. The JSC shall be responsible for oversight of the Parties' activities under this Agreement with respect to filing for, obtaining and maintaining Regulatory Approval and commercializing (including commercial supply to Distributor and marketing and sales) the Product in the Field in the Territory. Without limiting the foregoing, the JSC shall:
+
+(i) review, discuss and approve the Regulatory Plan, including all amendments thereto;
+
+(ii) review, discuss and approve the Commercialization Plan, including all amendments thereto;
+
+(iii) periodically review, discuss and assess the progress and results of the Parties under the Regulatory Plan and Commercialization Plan to ensure, to the extent reasonably practical, compliance with obligations under this Agreement;
+
+(iv) periodically discuss the status of the development and commercialization of the Product in the Field outside the Territory;
+
+(v) review Distributor's binding and non-binding forecasts for the Product and monitor the production capacity of Zogenix and its Third Party manufacturers;
+
+(vi) periodically review Distributor's and Zogenix's pharmacovigilance policies and procedures;
+
+(vii) facilitate the exchange of Data between the Parties; and
+
+(viii) perform such other duties as are specifically assigned by the Parties to the JSC in this Agreement.
+
+(c) Meetings. The JSC will hold meetings at such frequency as determined by the JSC members, but no less than twice every calendar year. Such meetings may be in person, via videoconference, or via teleconference; provided, that no fewer than two (2) JSC
+
+11
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+meetings each calendar year prior to First Commercial Sale shall be in-person unless the Parties otherwise agree. The location of in-person JSC meetings will alternate between Zogenix's offices and Distributor's offices, unless the Parties otherwise agree. At least [***] prior to each JSC meeting, each Party shall provide written notice to the other Party of agenda items proposed by such Party for discussion or decision at such meeting, together with appropriate information related thereto. Reasonably detailed written minutes will be kept of all JSC meetings and will reflect material decisions made at such meetings. Meeting minutes will be prepared by each Party on an alternating basis and sent to each member of the JSC for review and approval within [***] after a meeting. Minutes will be deemed approved unless a member of the JSC objects to the accuracy of such minutes within [***] of receipt.
+
+(d) Decisions. The JSC may make decisions with respect to any subject matter that is within the JSC's responsibilities. Subject to this Section 3.1(d), all decisions of the JSC shall be made by unanimous vote, with Zogenix and Distributor each having, collectively, among its respective members, one (1) vote in all such decisions. If the JSC cannot reach consensus with regard to any matter to be decided by the JSC within [***] after such matter has been brought to the JSC's attention, then such matter shall be referred to the Chief Executive Officer of Zogenix and the Director, Member of the Board of Distributor (the "Executives") for resolution. If the Executives cannot resolve the issue within [***] after the matter has been brought to their attention then:
+
+(i) Subject to good faith consideration of the views of Distributor, Zogenix shall have the tie-breaking vote on all matters to be decided by the JSC relating to [***]; provided, however, [***]; and
+
+(ii) Subject to good faith consideration of the views of Zogenix and to Section 3.1(d)(iii), Distributor shall have the tie-breaking vote on all matters to be decided by the JSC relating to [***]; provided, however, [***]; and
+
+(iii) Subject to good faith consideration of the views of Zogenix and Section 12.2(g), Distributor shall have the tie-breaking vote on the decision of [***], unless otherwise mutually agreed between the Parties; and
+
+(iv) Subject to good faith consideration of the views of Distributor, Zogenix shall have the tie-breaking vote on all matters other than the decisions set forth in Section 3.1(d)(ii) and (iii) to be decided by the JSC that may affect commercialization outside the Territory; provided, however, that Zogenix shall not have power to amend or waive compliance with this Agreement or the Commercialization Plan.
+
+(e) Discontinuation of JSC Participation. The activities to be performed by the JSC relate solely to governance under this Agreement, and are not intended to be or involve the delivery of services. The JSC will continue to exist until the Parties mutually agreeing to disband the JSC. Once the Parties mutually agree to disband the JSC, the JSC shall have no further obligations under this Agreement and, thereafter, each Party shall designate a contact person for the exchange of information under this Agreement, and decisions of the JSC shall be
+
+12
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+decisions as between the Parties, subject to the decision-making authority under Section 3.1(d) and other terms and conditions of this Agreement.
+
+3.2 Expenses. Each Party shall bear all its own costs, including expenses incurred by the members nominated by it, in connection with its members' JSC representation and meetings.
+
+3.3 Alliance Managers. Promptly after the Effective Date, each Party shall appoint an individual to act as the alliance manager for such Party (the "Alliance Manager"). Each Alliance Manager will be permitted to attend meetings of the JSC as non-voting participants. The Alliance Managers will be the primary contact for the Parties regarding the activities contemplated by this Agreement and shall facilitate all such activities hereunder. Each Party may replace its Alliance Manager with an alternative representative at any time with prior written notice to the other Party. Any Alliance Manager may designate a substitute to temporarily perform the functions of that Alliance Manager.
+
+3.4 Scope of Governance. Notwithstanding the creation of the JSC, each Party shall retain the rights, powers and discretion granted to it hereunder, and the JSC shall not be delegated or vested with rights, powers or discretion unless such delegation or vesting is expressly provided herein or the Parties expressly so agree in writing. The JSC shall not have the power to amend or modify this Agreement, and no decision of the JSC shall be in contravention of any terms and conditions of this Agreement. It is understood and agreed that issues to be formally decided by the JSC are only those specific issues that are expressly provided in this Agreement to be decided by the JSC. In no event shall the JSC have any decision-making authority with respect to matters relating to the Product outside the Territory or outside the Field. For clarity, any decision of an Executive made in resolution of a dispute of the JSC pursuant to Section 3.1(d) shall be treated as decisions of the JSC for purposes of this Agreement. It is understood between the Parties that under no circumstances are the activities to be performed by the JSC intended or allowed to violate any Applicable Laws (including but not limited to any competition and/or antitrust law).
+
+ARTICLE 4. DEVELOPMENT AND REGULATORY ACTIVITIES
+
+4.1 Nonclinical and Clinical Studies and CMC Requirements. Promptly after the Effective Date, the JSC will discuss what nonclinical or clinical Development studies or CMC requirements are required to obtain Regulatory Approval of the Product for the treatment of Dravet syndrome and Lennox-Gastaut syndrome or would otherwise be useful for the Commercialization of the Product in the Field in the Territory, and if Zogenix agrees that such Development activities should be conducted, Zogenix will be responsible for conducting or having conducted all such Development activities. All non-clinical and clinical studies and CMC requirements completed or initiated by Zogenix as of the Effective Date or any such non-clinical and clinical studies and CMC requirements that are described in the initial version of Regulatory Plan, shall be conducted at Zogenix's own cost and expense, except for Distributor's payment
+
+13
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+obligations under Section 6.2 and as otherwise expressly set forth herein. Any additional Territory-specific Development activities not set forth in the initial version of the Regulatory Plan, including those conducted at the suggestion or requirement of the MHLW or at [***] incurred by the Parties while conducting such Territory-specific Development activities. For clarity, Distributor shall have no right to conduct any Development activities for the Product unless otherwise agreed by Zogenix, and Zogenix shall have and retain all rights, in its sole discretion, to conduct any Development activities for the Product in the Territory outside the Field or any Development activities outside the Territory.
+
+4.2 Regulatory Activities.
+
+(a) Regulatory Plan. All regulatory Development activities with respect to the Product in the Field in the Territory will be conducted in accordance with a comprehensive regulatory plan (as amended in accordance with this Agreement, the "Regulatory Plan") which sets forth [***]. The initial version of the Regulatory Plan prepared by Zogenix and agreed to by Distributor will be attached to this Agreement as Exhibit 4.2(a) [***]. Any changes and updates to the Regulatory Plan must be approved by the JSC, subject to the decision-making procedures set forth in Section 3.1(d). As between the Parties, Zogenix will have the sole right and obligation to conduct (itself or through an Affiliate or Third Party) nonclinical and clinical studies concerning the Product in the Field in or for the Territory. Zogenix shall provide updates to the JSC concerning its progress under the Regulatory Plan and copies of final nonclinical and clinical study reports following completion of such Development studies. The JSC shall discuss such activities, including any updates on the progress and results thereof provided by Zogenix. During the Term, Zogenix shall use Commercially Reasonable Efforts to Develop the Product in the Field in the Territory in accordance with the Regulatory Plan and the terms of this Agreement.
+
+(b) Global Clinical Studies for New Indications. In the event that Zogenix intends to conduct a global (including the Territory) clinical trial of the Product for indications other than Dravet syndrome and Lennox-Gastaut syndrome (a "Global Study"), Zogenix will provide a summary of such Global Study to Distributor for review. In the event Distributor agrees to participate in a Global Study, Zogenix (or its designee) will be responsible for conducting such Global Study, including in the Territory, [***].
+
+(c) Conduct of Regulatory Activities. Subject to Section 4.2(d), Zogenix shall be the marketing authorization holder for the Product in the Territory, and Zogenix shall be deemed the MAH Party and Distributor deemed the Non-MAH Party for purposes of this Agreement. Zogenix shall use Commercially Reasonable Efforts to [***]. In addition, Zogenix shall use Commercially Reasonable Effort to ensure [***] shall have the capabilities and obtain the necessary licenses for filing an MAA for the Product in the Territory in advance of the planned MAA submission date in the initial version of Regulatory Plan.
+
+(i) Regulatory Approval Activities. Zogenix will be responsible for filing for and obtaining Regulatory Approval of the Product in the Field in the Territory. In connection with such activities, Zogenix shall be responsible for preparing and filing INDs and
+
+14
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+other necessary Regulatory Filings and for communicating with Regulatory Authorities in the Territory, except as otherwise mutually agreed to by the Parties in writing. Zogenix shall be responsible for preparing, filing and obtaining Regulatory Approval of the Product in the Field in the Territory, all in accordance with the Regulatory Plan. Zogenix shall ensure that the Distributor is involved in the planning and conduct of all such activities and the decisions with respect thereto, including discussions with any Regulatory Authority and any decisions regarding the labeling of the Product in the Field in the Territory. Zogenix shall consider in good faith all input provided by the Distributor with respect to such regulatory approval activities. In connection with such activities, Zogenix shall: (i) timely inform the Distributor of any scheduled meetings with Regulatory Authorities in the Territory with respect to the Product in the Field as soon as practicable in order to allow the Distributor time to convey its opinion on the matter and (ii) use all reasonable efforts to ensure that the Distributor is afforded the opportunity to participate in such meetings. Zogenix shall keep the Distributor regularly and fully informed of the preparation, Regulatory Authority review and approval of submissions and communications with Regulatory Authorities with respect to the Product in the Field in the Territory. In particular, Zogenix shall promptly provide the Distributor with copies of all material documents, information and correspondence received from or provided to a Regulatory Authority with respect to the Product in the Field in the Territory and, upon reasonable request, with copies of any other documents, reports and communications from or to any Regulatory Authority relating to the Product in the Field in the Territory, as well as written summaries of all material oral communications with a Regulatory Authority with respect to the Product in the Field in the Territory.
+
+(ii) Post-Approval Regulatory Activities. Following the filing of the MAA for the Product in the Territory, Zogenix and Distributor shall collaborate in good faith concerning a pricing negotiation strategy for the Product. Following Regulatory Approval of the Product in the Field in the Territory, Zogenix will be responsible for negotiating and obtaining initial pricing approval for the Product with the applicable Regulatory Authority in accordance with such strategy. The MAH Party shall use Commercially Reasonable Efforts to maintain Regulatory Approval for the Product in the Field in the Territory. The MAH Party shall be responsible for all interactions with Regulatory Authorities with respect to the Product in the Field in the Territory during the Term and maintaining Regulatory Approval of the Product in the Field in the Territory. In connection with such activities, the MAH Party shall: (i) timely inform the Non-MAH Party of any scheduled meetings with Regulatory Authorities in the Territory with respect to the Product in the Field as soon as practicable in order to allow the Non-MAH Party time to convey its opinion on the matter and (ii) use all reasonable efforts to ensure that the Non-MAH Party is afforded the opportunity to participate in such meetings. The MAH Party shall keep the Non-MAH Party regularly and fully informed of the preparation of submissions and communications with Regulatory Authorities with respect to the Product in the Field in the Territory. In particular, the MAH Party shall promptly provide the Non-MAH Party with copies of all material documents, information and correspondence received from or provided to a Regulatory Authority with respect to the Product in the Field in the Territory and, upon reasonable request, with copies of any other documents, reports and communications from or to any Regulatory Authority relating to the Product in the Field in the Territory, as well as written
+
+15
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+summaries of all material oral communications with a Regulatory Authority with respect to the Product in the Field in the Territory.
+
+(A) Post-Marketing Surveillance Studies. The MAH Party shall be responsible for conducting any post-marketing surveillance studies, including those required by the MHLW or Applicable Law, that are required to maintain the MAA. The MAH Party shall ensure that Non-MAH Party is involved in the planning and conduct of all such post-approval activities and the decisions with respect thereto, including discussions with any Regulatory Authority and any decisions regarding any post-marketing surveillance studies with respect to, the Product in Field in the Territory. The MAH Party shall consider in good faith all input provided by Zogenix with respect to such regulatory activities. The MAH Party shall be responsible for filing any post-marketing surveillance studies with the MHLW.
+
+(B) Post-Approval Clinical Studies. Zogenix shall be responsible for conducting any post- approval clinical study that is requested upon or after approval or otherwise required by the MHLW as a condition of or to maintain the MAA approval. [***] shall bear [***] the total Out-of-Pocket Costs and Expenses incurred by the Parties while conducting any such post-approval clinical study that is for the Territory. Zogenix shall ensure that Distributor is involved in the planning and conduct of all such post-approval clinical studies and the decisions with respect thereto, including discussions with any Regulatory Authority and any decisions regarding any post-approval clinical study with respect to, the Product in Field in the Territory. Zogenix shall consider in good faith all input provided by the Distributor with respect to such post-approval clinical study. The MAH Party shall be responsible for filing any post-approval clinical studies with the MHLW.
+
+(C) Risk Management Plan. Zogenix shall be responsible for filing the initial risk management plan, if any, and approving any subsequent changes thereto. The MAH Party shall be responsible for conducting or having conducted any risk management plan requested or required by the MHLW. The Distributor shall support and implement the risk management plan and cooperate with Zogenix, and the Parties shall share and discuss the results and data generated from any risk management plan required by MHLW. The Distributor shall collaborate with Zogenix to ensure global alignment and consistency with the safety specifications, pharmacovigilance planning and risk management commitments and activities.
+
+(d) Transfer of Marketing Authorization. Zogenix shall be the marketing authorization holder of the Product in the Territory for the [***] following Regulatory Approval of the Product in the Territory. Thereafter, Zogenix shall transfer the marketing authorization for the Product in the Territory to Distributor within [***] following [***], unless delayed or prohibited by a Regulatory Authority or Applicable Law or otherwise agreed by the Parties. Upon the transfer of the marketing authorization of the Product in the Territory to Distributor, then Distributor shall be deemed the MAH Party for purposes of this Agreement and Zogenix shall be deemed the Non-MAH Party.
+
+(e) Ownership of Regulatory Information. The Parties acknowledge and agree that Zogenix shall retain the full unfettered ownership of the Data and drug dossier
+
+16
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+submitted to the PMDA for the Regulatory Approval (including but not limited to safety & efficacy data, clinical data package, drug formulation and method of administration). Notwithstanding the foregoing, if Zogenix asks Distributor to solely conduct any additional Territory-specific Development activities which are urgently required by the MHLW for the MAA in the Territory, Distributor shall retain co-ownership with Zogenix of any Data generated solely by Distributor. Distributor hereby grants Zogenix an irrevocable, perpetual, royalty-free, fully paid-up, exclusive license with the right to grant sublicenses to use such Data solely generated and co-owned by Distributor outside of the Territory and a co-exclusive license in the Territory upon expiration or termination of the Agreement.
+
+(f) Regulatory Cooperation. Each Party shall cooperate in good faith with any reasonable requests for assistance from the other Party with respect to obtaining or maintaining Regulatory Approval of the Product in and outside the Territory, including by providing to the other Party all Information in its possession and Control that is requested by, or needed to respond to inquiries of, a Regulatory Authority with respect to the Product.
+
+4.3 Distributor's Right to Use and Reference. Distributor shall have the right to reference and use all Data and Regulatory Filings (including all Regulatory Approvals) for the purpose of fulfilling Distributor's obligations set forth in this Agreement. For clarity, in accordance with Section 4.2(b), [***].
+
+4.4 Zogenix's Right to Use and Reference. In the event that Distributor is responsible for filing for and obtaining Regulatory Approval of the Product in the Field in the Territory or Distributor otherwise is the holder of the Regulatory Approval for the Product in the Territory, Zogenix and its Affiliates and Zogenix ex-Territory Distributors shall have the royalty-free right to reference and use all Data and Regulatory Filings (including all Regulatory Approvals), including all data contained or referenced therein, provided by or to Distributor under this Article 4, such reference and use in connection with filing for, obtaining and maintaining Regulatory Approval and commercializing the Product outside the Territory and in the Territory outside the Field. Distributor shall, on written request by Zogenix, provide, or shall cause its applicable Affiliate to provide, to Zogenix and to any specified Regulatory Authority a letter, in the form reasonably required by Zogenix, acknowledging and confirming that Zogenix and its Affiliates and/or Zogenix ex-Territory Distributors, as applicable, have the rights of reference to any such Regulatory Filing (including any such Regulatory Approval) for all purposes consistent with the Development, Regulatory Approval and commercialization of the Product outside the Territory and in the Territory outside the Field. Distributor shall not, and shall cause its Affiliates not to, transfer or disclose any Regulatory Filings (including any Regulatory Approval) relating to the Product in the Territory to any Third Party without the prior written consent of Zogenix, and in any such permitted transfer Distributor shall require the transferee to acknowledge in writing to Zogenix, Zogenix's (and its Affiliates' and Zogenix ex-Territory Distributors') rights of reference to and right to use all such Regulatory Filings (including Regulatory Approvals) as provided in this Section 4.3.
+
+4.5 Adverse Event Reporting. The MAH Party shall be responsible for the timely
+
+17
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+reporting of all relevant adverse drug reactions/experiences, Product quality, Product complaints and safety data relating to the Product in the Field to the appropriate Regulatory Authorities in the Territory, all in accordance with Applicable Laws and requirements of Regulatory Authorities in the Territory. Zogenix (or its Affiliate, or Zogenix ex-Territory Distributors) shall be responsible for the timely reporting of all relevant adverse drug reactions/experiences, Product quality, Product complaints and safety data relating to the Product to the appropriate Regulatory Authorities outside the Territory. The details of such reporting shall be set forth in a pharmacovigilance agreement (as may be amended, the "Pharmacovigilance Agreement"), which will be agreed to by the Parties prior to the First Commercial Sale in the Territory. The Pharmacovigilance Agreement shall include, without limitation, governance provisions that set forth a process for communication and escalation, where necessary, of safety issues, label changes, and the like. Zogenix shall have the right to share any and all information received from Distributor under this Section 4.5, or the Pharmacovigilance Agreement, with Zogenix's Affiliates and Zogenix ex-Territory Distributors. The Pharmacovigilance Agreement shall identify the responsibilities of each Party regarding the information to be exchanged and the timeframes for such exchange, regulatory reporting, literature review, risk management, and labeling. Prior to executing the Pharmacovigilance Agreement, the Parties agree to work together in good faith to coordinate regarding pharmacovigilance activities with respect to the Product in the Field, including by exchanging Distributor's standard operating procedures and other Information relevant to such pharmacovigilance activities.
+
+4.6 Drug Safety and Pharmacovigilance System including Global Safety Database. Zogenix shall maintain a global system for monitoring and management of the risks associated with the Product. This system will provide signal management as well as the collection, identification, evaluation, and management of individual case safety reports and cumulative reports. As part of this pharmacovigilance system, Zogenix shall maintain the global safety database with respect to the Product, which shall serve as the reference database for all responses to safety queries and aggregate safety reports and be the main source for individual case safety report processing. Each Party shall cooperate, and shall cause its Affiliates, Sub-distributors and Zogenix ex-Territory Distributors, as applicable, to cooperate, in implementing and adhering to a pharmacovigilance mutual alert process with respect to the Product to comply with Applicable Laws, as set forth in the Pharmacovigilance Agreement. Notwithstanding anything to the contrary in this Agreement, Zogenix shall have final decision making authority over all issues that implicate global safety.
+
+4.7 Regulatory Audit. Each Party shall notify the other Party within [***] of receipt of any notice of a MHLW audit of any of such Party or its Affiliate or subcontractor with respect to the Product in the Territory. Notwithstanding the foregoing, if a Party is subject to an unannounced audit from the MHLW or receives a notice of an imminent audit from the MHLW, in each case with respect to the Product in the Territory, such Party shall notify the other Party promptly, but in any event within [***]. Such other Party shall have the right to have its or its Affiliates' or its subcontractors' employees or consultants participate in any audits or other inspections to the extent permitted by Applicable Law. To the extent permitted by Applicable Law, the audited Party shall provide the other Party with the copies of any resulting document or
+
+18
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+action pertaining to the Product in the Territory that results from such audit within [***] of their receipt.
+
+4.8 Use of Subcontractors. To the extent that Distributor performs any of its regulatory or commercial activities under this Agreement through one or more subcontractors (including a Sub-distributor), if and as permitted under the terms of this Agreement, Distributor shall ensure that (a) none of Zogenix's rights hereunder are diminished or otherwise adversely affected as a result of such subcontracting, (b) the subcontractor assigns to Distributor all Distributor Inventions and all data generated by such subcontractor that, if Controlled by Distributor, would be included in the definition of Data, (c) the subcontractor undertakes in writing obligations of confidentiality and non-use regarding Confidential Information and compliance with the FCPA and other Applicable Laws that are substantially the same as those undertaken by the Parties pursuant to Article 8 and Section 10.2, (d) the subcontractor does not have an adverse history or reputation, (e) the use of the subcontractor will not cause the Zogenix Indemnitees to be in violation of the FCPA or any other Applicable Laws, and (f) the use of the subcontractor will not cause reputational harm to the Zogenix Indemnitees. In the event that Distributor performs any of its regulatory activities hereunder through a subcontractor, Distributor will at all times be fully responsible for the performance and payment of such subcontractor.
+
+4.9 Recalls.
+
+(a) In the event that the MHLW issues a request or orders a recall or takes similar action in connection with the Product in the Territory, or in the event either Party determines that an event, incident, or circumstance has occurred that may result in the need for a voluntary withdrawal of the Product in the Territory, the Party notified of such recall or desiring such voluntary withdrawal shall, within [***], advise the other Party thereof by telephone (and confirm by electronic mail or facsimile). Regarding any recall order or request from the MHLW, the Parties shall, to the extent practicable, discuss and endeavor to agree upon a plan for recalling the affected Product. Regarding any request for a voluntary withdrawal, the Parties shall discuss and endeavor to agree upon whether to voluntarily withdraw the Product in the Territory, and each Party shall review and consider in good faith all information provided by the other Party in connection with such discussion, including any assessment of safety and whether to withdraw the Product.
+
+(b) For all recalls requested or ordered by the MHLW, the MAH Party shall have the sole authority and responsibility to make all decisions with respect to such recall, subject to good faith consideration of the views of the non-MAH Party. For all voluntary withdrawals concerning quality defects, such as compliance, foreign substances, tampering and labeling defects, the MAH Party shall have the sole authority and responsibility to make all decisions with respect to such withdrawal, subject to good faith consideration of the views of non-MAH party. For all voluntary withdrawals concerning efficacy or safety, Zogenix shall have the sole authority and responsibility to make all decisions with respect to such withdrawal, subject to good faith consideration of the views of the Distributor.
+
+19
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+(c) Distributor shall be responsible for conducting any such recall or withdrawal, shall use Commercially Reasonable Efforts to minimize the expenses of any such recall or withdrawal and shall keep Zogenix fully informed of all actions taken in conducting such recall or withdrawal. If a recall or withdrawal is due to Zogenix's negligence, willful misconduct or breach of this Agreement, Zogenix shall reimburse Distributor for all of the reasonable costs and expenses actually incurred by Distributor in connection with such recall or withdrawal, including, but not limited to, costs of personnel expenses of Distributor's sales representatives, fees for consultation with the Regulatory Authority in the Territory and travel expenses for consultation, and its actual reasonable Out-of-Pocket Costs and Expenses incurred while retrieving Product already delivered to customers, costs and expenses Distributor is required to pay for notification, shipping and handling charges, and such other costs as may be reasonably related to the recall or withdrawal. If a recall or withdrawal is due to Distributor's negligence, willful misconduct or breach of this Agreement, Distributor shall reimburse Zogenix for all the reasonable costs and expenses described above actually incurred by Zogenix in connection with such recall or withdrawal, including administration of the recall and such other actual costs as may be reasonably related to the recall or withdrawal in the Territory. If a recall or withdrawal results from a cause other than the negligence in the Territory, willful misconduct or breach of this Agreement of or by Distributor or Zogenix, the parties hereto [***]. Prior to any reimbursements pursuant to this Section, the party claiming any reimbursement shall provide the other party with reasonably acceptable documentation of all reimbursable costs and expenses. Neither Party will be liable to the other for Indirect Losses in connection with any recall or withdrawal pursuant to this Section.
+
+4.10 Development Expenses. Unless expressly stated otherwise, each Party shall bear its own Out-of-Pocket Costs and Expenses and any employee and overhead expenses incurred while performing its obligations under this Article 4.
+
+ARTICLE 5. COMMERCIALIZATION; SUPPLY: TRADEMARKS
+
+5.1 Commercialization of the Product.
+
+(a) Distributor Responsibilities. Distributor shall have the exclusive right to market, promote, sell, offer for sale, import, package and otherwise Commercialize the Product in the Field in the Territory, at its sole cost and expense, in accordance with Applicable Laws and the Commercialization Plan and subject to the terms and conditions of this Agreement. Without limiting the foregoing, Distributor will have the exclusive right and responsibility in the Field in the Territory for the following:
+
+(i) designing the Commercialization strategy and tactics for the Product, subject to JSC approval of the Commercialization Plan;
+
+(ii) undertaking all promotional activities for the Product;
+
+20
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+(iii) establishing and implementing post-marketing surveillance studies for the Product in the Territory as required or recommended by a Regulatory Authority;
+
+(iv) receiving, accepting and filling orders for the Product from customers;
+
+(v) warehousing and distributing the Product to customers;
+
+(vi) controlling invoicing, order processing and collection of accounts receivable for sales of the Product;
+
+(vii) recording sales of the Product in the Territory in its books of account for sales; and
+
+(viii) providing results of sales of the Product in the Territory for purposes of periodic safety reports and exposure estimates.
+
+Distributor shall provide updates regularly to the JSC relating to Commercialization activities for the Product in the Field in the Territory.
+
+(b) Commercialization Plan. Distributor shall be responsible for the creation and implementation of an annual plan for the Commercialization of the Product in the Field in the Territory, which shall identify proposed plans to address potential challenges with respect to Commercialization of the Product in the Field in the Territory (the "Commercialization Plan"). The Commercialization Plan shall set forth in reasonable detail the major Commercialization activities planned for the Product in the Territory for the applicable period, including [***]. Distributor shall prepare and submit to the JSC the initial Commercialization Plan no later than [***] after MAA filing for the Product in the Field in the Territory for review and approval by the JSC in accordance with the decision-making procedures set forth in Section 3.1(d). Distributor shall submit subsequent updated Commercialization Plans to the JSC on an annual basis on or before the end of each Fiscal Year for review and approval by the JSC. Through the JSC, Distributor shall regularly consult with and provide updates to Zogenix regarding the Commercialization strategy for and the Commercialization of the Product in the Field in the Territory.
+
+(c) Diligence. During the Term, Distributor shall use Commercially Reasonable Efforts to market, promote, sell, offer for sale, import, package, distribute and otherwise commercialize the Product in the Field in the Territory in accordance with the Commercialization Plan and the terms of this Agreement. Without limiting the foregoing, Distributor shall Submit the first purchase order of the Product in the Field in the Territory to Zogenix within [***], achieve First Commercial Sale of the Product in the Field in the Territory as soon as reasonably practicable after the Product is first available for delivery to Distributor in the Territory, and use Commercially Reasonable Efforts to timely accomplish all the activities set forth in the Commercialization Plan.
+
+21
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+(d) Distributor's Diligence Failure.
+
+(i) After [***] of the First Commercial Sale of the Product in the Territory, if Zogenix reasonably believes that Distributor has failed to achieve or maintain the diligence obligations set forth in Section 5.1(c), Zogenix shall provide written notice thereof to Distributor requesting a detailed written response concerning such failure and Distributor shall provide such detailed written response to Zogenix within [***] of the date of Zogenix's request. Zogenix's notice shall specify in reasonable detail the facts and circumstances constituting Zogenix's reasons for reaching such a determination. Following Zogenix's receipt of Distributor's response, the Parties shall promptly, and in any event within [***], discuss in good faith Distributor's obligations and its proposed actions to cure its failure to achieve its diligence obligations. Where remedy is possible and reasonably acceptable to Zogenix, Distributor shall use its Commercially Reasonable Efforts to start substantive steps within [***] of the date of Zogenix's notice to Distributor. If Distributor (A) fails to provide a detailed written response to Zogenix within [***] of the date of Zogenix's notice to Distributor, or (B) fails to use its Commercially Reasonable Efforts to start substantive steps to remedy such failure [***] of the date of Zogenix's notice to Distributor, Zogenix shall have the right, [***] effective upon written notice thereof by Zogenix to Distributor, to (1) [***] or (2) [***].
+
+(ii) Any failure of Distributor to achieve the diligence obligations set forth in Section 5.1(c) shall not be considered Distributor's diligence failure as described in Section 5.1(d)(i) or a breach of this Agreement to the extent such failure was caused by (A) Zogenix's inability or failure to supply Product in accordance with the terms of the Supply Agreement, (B) any changes to the Regulatory Plan approved by the JSC in accordance with Section 4.2(a), or (C) any changes to the Commercialization Plan approved by the JSC in accordance with Section 5.1(b).
+
+(iii) This Section 5.1(d) shall not limit any other remedies or damages that Zogenix may have or seek under this Agreement or Applicable Laws.
+
+5.2 Supply. The Parties acknowledge and agree that Zogenix shall retain all rights to make and have made the Product in and for the Territory. Promptly after the Effective Date, the Parties shall commence negotiating a supply agreement containing reasonable and customary terms for an agreement of such type, governing Zogenix's supply of the Product to Distributor for sale in the Field in the Territory in accordance with the terms of this Agreement (as may be amended, the "Supply Agreement"), and shall use reasonable efforts to enter into the Supply Agreement within [***] after the Effective Date. Zogenix shall supply, or cause to be supplied, Product to Distributor in accordance with the Supply Agreement, and Distributor shall purchase all of its and its Affiliates' and Sub-distributors' requirements for the Product under the Supply Agreement. Distributor shall pay to Zogenix the Transfer Price for Product supplied under the Supply Agreement in accordance with Section 6.5.
+
+22
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+5.3 Trademark Rights.
+
+(a) Product Trademarks. Subject to the terms and conditions of this Agreement, Zogenix hereby grants to Distributor an co-exclusive, royalty-free, limited right under the Product Trademarks solely to promote, market, sell, offer for sale, import, package and distribute the Product in Field in the Territory in accordance with the terms of this Agreement.
+
+(b) Zogenix Trademarks. Subject to the terms and conditions of this Agreement, Zogenix hereby grants to Distributor a non-exclusive, royalty-free, limited right under the Zogenix Trademarks solely to promote, market, sell, offer for sale, import, package and distribute the Product in Field in the Territory in accordance with the terms of this Agreement.
+
+5.4 Commercial Expenses. Unless expressly stated otherwise, each Party shall bear its own Out-of-Pocket Costs and Expenses and all employee and overhead expenses incurred while performing its obligations under this Article 5.
+
+ARTICLE 6. PAYMENTS
+
+6.1 Upfront Payment. Distributor shall pay to Zogenix, upon the receipt of the invoice from Zogenix after the Effective Date, a non-refundable, non-creditable upfront payment of Seven Million Five Hundred Thousand U.S. Dollars (US $7,500,000), which upfront payment shall consist of [***] in consideration for the exclusive right to distribute Product in the Territory for the treatment of Dravet syndrome and [***] in consideration for the exclusive right to distribute Product in the Territory for the treatment of Lennox-Gastaut syndrome. Distributor shall pay such payment to Zogenix within [***] of receipt of the invoice.
+
+6.2 Funding to Support Development of The Product. Distributor shall pay to Zogenix Twelve Million Five Hundred Thousand U.S. Dollars (US $12,500,000) for support of Zogenix's global nonclinical and clinical Development studies concerning the Product for Dravet syndrome and Lennox-Gastaut syndrome as it relates to Regulatory Approval of the Product in the Territory. For clarity, the Six Million Five Hundred Thousand U.S. Dollar (US $6,500,000) payment is intended to support studies previously conducted by Zogenix and that will be included in the MAA for the Territory. The remaining Six Million U.S. Dollars (US 6,000,000) in payments are intended to support those studies conducted by Zogenix and indicated as being paid for by Zogenix under the initial Regulatory Plan during [***] after the Effective Date, and such payments will be made [***]. The five (5) Development payments pursuant to this Section 6.2 will be made according to the following schedule:
+
+(a) Within [***] after the Effective Date, a non-refundable, non-creditable one-time payment of [***];
+
+(b) Within [***] after the Effective Date, a non-refundable, non-creditable
+
+23
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+one-time payment of [***];
+
+(c) On the [***] of the Effective Date, a non-refundable, non-creditable one-time payment of [***];
+
+(d) On the [***] of the Effective Date, a non-refundable, non-creditable one-time payment of [***]; and
+
+(e) On the [***] of the Effective Date, a non-refundable, non-creditable one-time payment of [***].
+
+For clarity, each of the foregoing payments to be made by Distributor to Zogenix shall be payable within [***] of receipt of the invoice therefor from Zogenix. In the event that Zogenix terminates the Development the Product in the Territory for both Dravet syndrome and Lennox-Gastaut syndrome prior to the due date for any of the foregoing payments any such payment whose due date is after such termination shall no longer be due and payable to Zogenix.
+
+6.3 Regulatory Milestones. Distributor shall pay to Zogenix the non-refundable, non-creditable milestone payments as set forth in this Section 6.3. Upon the occurrence of each milestone event in this Section 6.3 Zogenix shall issue an invoice to Distributor for the amount of the milestone payment corresponding to such achieved milestone event, and Distributor shall pay to Zogenix such invoiced amount within [***] of its receipt from Zogenix.
+
+24
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+Regulatory Milestone Event Milestone Payment [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]
+
+Each milestone payment set forth above shall be payable only once for the Product. For clarity, the total regulatory milestone payments set forth in this Section shall not exceed: (a) [***] if [***]; (b) [***] if [***]; and (c) [***].
+
+6.4 Sales Milestones. For each Fiscal Quarter in which aggregate annual Net Sales first reach a threshold indicated in the table below, Distributor shall inform Zogenix within [***] that the aggregated annual Net Sales first reached such threshold. Zogenix shall issue an invoice to Distributor for the applicable milestone payment, and Distributor shall pay such invoice within [***] of its receipt from Zogenix:
+
+Annual Net Sales Level Milestone Payment
+
+First Fiscal Year in which aggregate annual Net Sales of the Product in the Field in the Territory exceed [***] [***]
+
+First Fiscal Year in which aggregate annual Net Sales of the Product in the Field in the Territory exceed [***] [***]
+
+First Fiscal Year in which aggregate annual Net Sales of the Products in the Field in the Territory exceed [***] [***]
+
+The milestone payments set forth in this Section 6.4 shall be additive, such that if all three (3)
+
+25
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+milestone events are achieved in the same Fiscal Year, Distributor shall pay to Zogenix all three (3) milestone payments.
+
+6.5 Supply Payments.
+
+(a) Transfer Price. During the Distribution Term, and in addition to the consideration provided pursuant to Sections 6.1, 6.2, 6.3, and 6.4, for all Product supplied by Zogenix to Distributor under purchase orders submitted pursuant to the Supply Agreement in a particular Fiscal Year, Distributor shall pay to Zogenix a transfer price per unit of Product supplied (the "Transfer Price") equal to the sum of (i) [***] of the Fully-Burdened Manufacturing Cost per unit of Product for such Fiscal Year, (ii) [***] of aggregate annual Net Sales for such Fiscal Year, and (iii) the applicable markup percent of the applicable aggregate Net Price for such Fiscal Year, which markup percent is determined based on the incremental amount of Product ordered in such Fiscal Year as set forth below, as may be adjusted pursuant to Section 6.5(b):
+
+Amount of Product Supplied per Fiscal Year Net Price Markup
+
+For the portion of Product supplied less than or equal to the equivalent of [***] in Net Sales in such Fiscal Year [***]
+
+For the portion of Product supplied in excess of the equivalent of [***] in Net Sales and less than or equal to the equivalent of [***] in Net Sales in such Fiscal Year [***]
+
+For the portion of Product supplied in excess of the equivalent of [***] in Net Sales and less than or equal to the equivalent of [***] in Net Sales in such Fiscal Year [***]
+
+For the portion of Product supplied in excess of the equivalent of [***] in Net Sales in such Fiscal Year [***]
+
+The Net Sales equivalent described in the left column of the table above is calculated by determining the total number of units ordered in the applicable Fiscal Year and multiplying such number by the Net Price for such Fiscal Year.
+
+Following the expiration of the Distribution Term and during the remaining Term of this Agreement, for all Product supplied by Zogenix to Distributor under purchase orders submitted pursuant to the Supply Agreement in a particular Fiscal Year, Distributor shall pay to Zogenix the Transfer Price per unit of Product supplied shall be equal to the sum of (i) [***] of the Fully-Burdened Manufacturing Cost per unit of Product for such Fiscal Year, and (ii) [***] of aggregate annual Net Sales for such Fiscal Year.
+
+(b) Estimates. No later than [***] before the beginning of each Fiscal Year, starting with the Fiscal Year in which the First Commercial Sale is anticipated to occur, the Parties shall discuss in good faith and agree on a reasonable estimate of the Net Price for the Product for such Fiscal Year, which estimate will be based on a reasonable approximation of the aggregate Net Sales of Product to be recognized by Distributor and its Affiliates during such Fiscal Year. The agreed Net Price will be used to calculate the Transfer Price initially invoiced by Zogenix and payable by Distributor for the total number of units of the Product ordered by
+
+26
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+and delivered to Distributor under the Supply Agreement during such Fiscal Year.
+
+(c) Reports. Within [***] after the end of each of the first three Fiscal Quarters in a Fiscal Year, starting with the Fiscal Quarter in which the First Commercial Sale occurs, Distributor shall deliver to Zogenix a report setting forth: (i) the total Net Sales of the Product in the Territory during such Fiscal Quarter, (ii) the detailed and total deductions from gross amounts invoiced to arrive at such Net Sales, (iii) the number of units of the Product sold in the Territory during such Fiscal Quarter and (iv) gross amounts invoiced for such sales. Within [***] after the end of each Fiscal Year, starting with the Fiscal Year in which the First Commercial Sale occurs, Distributor shall deliver to Zogenix a report setting forth: (A) the total Net Sales of the Product in the Territory during such Fiscal Year, (B) the detailed and total deductions from gross amounts invoiced to arrive at such Net Sales, (C) the number of units of the Product sold in the Territory during such Fiscal Year, (D) the gross amounts invoiced for such sales, (E) the calculation of actual Net Price for such Fiscal Year, (F) the total amount invoiced by Zogenix and paid by Distributor to Zogenix under the Supply Agreement for the total number of units of the Product ordered by and delivered to Distributor during such Fiscal Year, based on the estimated Net Price for such Fiscal Year, (G) the total amount actually owed to Zogenix for the total number of units of the Product ordered by and delivered to Distributor during such Fiscal Year based on the actual Net Price and (H) the difference between the amounts in clauses (F) and (G) (each such report, an "Annual Report").
+
+(d) True-Up. For each Annual Report, if the amount in clause (G) of such Annual Report exceeds the amount in clause (F), then Distributor shall pay the amount in clause (H) to Zogenix concurrently with its delivery of such Annual Report to Zogenix. Otherwise, if the amount in clause (G) is less than the amount in clause (F), the amount in clause (H) will be credited against the subsequent payment(s) due from Distributor to Zogenix (or if no further payments will be due, paid by Zogenix to Distributor within [***] after Zogenix's receipt of such Annual Report from Distributor). In no event shall the effective Transfer Price for the Product in a Fiscal Year exceed [***] of the aggregate annual Net Sales of the Product in the Field in the Territory for such Fiscal Year.
+
+ARTICLE 7. PAYMENTS, BOOKS AND RECORDS
+
+7.1 Payment Method. All amounts specified to be payable under this Agreement are in United States dollars and shall be paid in United States dollars. All payments under this Agreement shall be made by bank wire transfer in immediately available funds to an account designated in writing by the payee Party or by such other means as directed by such Party in writing. Payments hereunder will be considered to be made as of the day on which they are received by the payee Party's designated bank.
+
+27
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+7.2 Currency Conversion. For the purpose of calculating any sums due under this Agreement and determining the annual Net Sales levels in Section 6.5, conversion shall be made to U.S. dollars by using the arithmetic mean of the exchange rates for the purchase of United States dollars as published in The Wall Street Journal, Eastern Edition, for each Business Day in the Fiscal Quarter to which such calculations relate.
+
+7.3 Taxes. Any taxes imposed on Distributor or with respect to Distributor's business operations or activities hereunder, including any value added taxes, consumption, transfer, sales, use or other such taxes relating to the transactions contemplated herein, shall be borne by Distributor, and Distributor shall timely pay, and indemnify and hold harmless, Zogenix from and against all such taxes, including any penalties or interest associated therewith. If Distributor is required by Applicable Law to deduct and withhold taxes from a payment due and payable to Zogenix hereunder (excluding national, state or local taxes based on income to Zogenix), Distributor shall: (a) promptly notify Zogenix of such requirement; (b) make such required deduction and withholding from the corresponding payment; (c) pay to the relevant Governmental Authority the full amount required to be so deducted and withheld; and (d) promptly forward to Zogenix an official receipt or other documentation reasonably acceptable to Zogenix evidencing such payment to such Governmental Authority(ies). The Parties acknowledge and agree that it is their mutual objective and intent to minimize, to the extent feasible under the Applicable Laws, any taxes payable in connection with this Agreement, and shall reasonably cooperate each other in good faith in accordance with Applicable Laws to minimize any Taxes in connection with this Agreement, including provision of any tax forms and other information that may be reasonably necessary in order for the paying Party not to withhold tax or to withhold tax at a reduced rate under an applicable bilateral income tax treaty.
+
+7.4 Records. Distributor shall keep, and require its Affiliate and Sub-distributors to keep, complete, fair and true books of accounts and records for the purpose of (a) determining the amounts payable to Zogenix pursuant to this Agreement and the Supply Agreement and (b) ensuring that Distributor and its Affiliates and Sub-distributors do not otherwise cause any Zogenix Indemnitees to be in violation of the FCPA or other Applicable Laws. Such books and records shall be kept for such period of time required by Applicable Laws, but no less than three (3) years following the end of the Fiscal Year to which they pertain. Such records shall be subject to inspection in accordance with Section 7.5.
+
+7.5 Audits. Upon reasonable prior written notice, Distributor shall permit an independent, certified public accountant selected by Zogenix and reasonably acceptable to Distributor, which acceptance will not be unreasonably withheld or delayed, to audit or inspect those books or records of Distributor and its Affiliates and Sub-distributors that relate to Net Sales for the sole purpose of verifying: (a) the payments due hereunder and payments due under the Supply Agreement; (b) the withholding taxes, if any, required by Applicable Laws to be withheld; and (c) Distributor's compliance with Sections 10.1 and 10.2. Such accountant will disclose to Zogenix only the amount and accuracy of payments reported and actually paid or otherwise payable under this Agreement or the Supply Agreement, and will send a copy of the report to Distributor at the same time it is sent to Zogenix. Prompt adjustments (including
+
+28
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+interest under Section 7.6 for underpaid amounts) shall be made by the Parties to reflect the results of such audit. Such inspections may be made no more than once each Fiscal Year (unless an audit or inspection reveals a material inaccuracy in reports made under this Agreement, in which case it may be repeated within such Fiscal Year), and during normal business hours, with reasonable efforts to minimize disruption of Distributor's normal business activities. Inspections conducted under this Section 7.5 shall be at the expense of Zogenix, unless a variation or error producing an underpayment in amounts payable exceeding [***] of the amount paid for a period covered by the inspection is established, in which case all reasonable costs relating to the inspection for such period shall be paid by Distributor. Absent manifest error, the accountant's report will be final and binding on the Parties.
+
+7.6 Late Payments. In the event that any payment due under this Agreement or the Supply Agreement is not made when due, the payment shall accrue interest from the date due at a rate per annum equal to [***] above the U.S. Prime Rate (as set forth in The Wall Street Journal, Eastern U.S. Edition) for the date on which payment was due, calculated daily on the basis of a 365-day year, or similar reputable data source; provided that in no event shall such rate exceed the maximum legal annual interest rate. The payment of such interest shall not limit a Party from exercising any other rights it may have as a consequence of the lateness of any payment.
+
+ARTICLE 8. CONFIDENTIALITY
+
+8.1 Confidential Information. Except to the extent expressly authorized by this Agreement or otherwise agreed in writing by the Parties, the Parties agree that during the Term and for [***] thereafter, the receiving Party (the "Receiving Party") shall keep confidential and shall not publish or otherwise disclose or use for any purpose other than as provided for in this Agreement or the Supply Agreement any Information or materials furnished to it or its Affiliates by or on behalf of the other Party (the "Disclosing Party") or its Affiliates pursuant to this Agreement, the Supply Agreement, the Confidentiality Agreement or any other written agreement between the Parties or their Affiliates, in any form (written, oral, photographic, electronic, magnetic, or otherwise), including all information concerning the Product and any other technical or business information of whatever nature (collectively, "Confidential Information" of the Disclosing Party). All Zogenix Technology (including, without limitation, all Product Inventions and Data) shall be deemed the Confidential Information of Zogenix. Distributor Inventions shall be deemed the Confidential Information of Distributor. Joint Inventions shall be deemed the Confidential Information of each of Zogenix and Distributor. Each Party may use the Confidential Information of the other Party only to the extent required to accomplish the purposes of this Agreement or the Supply Agreement (including to exercise its rights or fulfill its obligations under this Agreement or the Supply Agreement). Each Party will use at least the same standard of care as it uses to protect proprietary or confidential information of its own (but in no event less than reasonable care) to ensure that its employees, agents, consultants and other representatives do not disclose or make any unauthorized use of the
+
+29
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+Confidential Information of the other Party. Each Party will promptly notify the other upon discovery of any unauthorized use or disclosure of the Confidential Information of the other Party.
+
+8.2 Exceptions. Notwithstanding Section 8.1 above, the obligations of confidentiality and non‑use shall not apply to information that the Receiving Party can prove by competent written evidence: (a) is now, or hereafter becomes, through no act or failure to act on the part of the Receiving Party or any of its Affiliates, generally known or available; (b) is known by the Receiving Party or any of its Affiliates, other than under an obligation of confidentiality to the Disclosing Party, at the time of receiving such information; (c) is hereafter lawfully furnished to the Receiving Party or any of its Affiliates by a Third Party, which Third Party did not receive such information directly or indirectly from the Disclosing Party under an obligation of confidence; (d) is independently discovered or developed by the Receiving Party or any of its Affiliates without the use of Confidential Information belonging to the Disclosing Party; or (e) is the subject of a written permission to disclose provided by the Disclosing Party.
+
+8.3 Permitted Disclosures. Notwithstanding the provisions of Section 8.1, the Receiving Party may disclose Confidential Information of the Disclosing Party as expressly permitted by this Agreement or if and to the extent such disclosure is reasonably necessary in the following instances:
+
+(a) filing or prosecuting Patents as permitted by this Agreement;
+
+(b) prosecuting or defending litigation as permitted by this Agreement;
+
+(c) complying with applicable court orders, governmental regulations, applicable subpoenas or reasonable requests issued by governmental authorities in relation to compliance with the FCPA and other Applicable Laws;
+
+(d) in the case of Zogenix, disclosure under terms of confidentiality no less stringent than under this Agreement to potential or actual Zogenix ex-Territory Distributors;
+
+(e) disclosure to its and its Affiliates' contractors, employees and consultants, in each case who need to know such information for filing for, obtaining and maintaining Regulatory Approvals and Commercialization of Product in the Territory in accordance with this Agreement and manufacturing and supplying of Product in accordance with the Supply Agreement (or, in the case of disclosures by Zogenix, who need to know such information for the Development, manufacture and commercialization of the Product outside the Field or Territory), on the condition that any such Third Parties agree to be bound by confidentiality and non-use obligations that are no less stringent than those confidentiality and non-use provisions contained in this Agreement; and
+
+(f) disclosure to Third Parties in connection with due diligence or similar investigations by such Third Parties, and disclosure to potential Third Party investors in confidential financing documents, provided, in each case, that any such Third Party agrees to be
+
+30
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+bound by confidentiality and non-use obligations that are no less stringent than those confidentiality and non-use provisions contained in this Agreement.
+
+Notwithstanding the foregoing, in the event a Party is required to make a disclosure of the other Party's Confidential Information pursuant to Section 8.3(b) or (c), it will, except where impracticable, give reasonable advance notice to the other Party of such disclosure and use efforts to secure confidential treatment of such information at least as diligent as such Party would use to protect its own confidential information, but in no event less than reasonable efforts. In any event, the Parties agree to take all reasonable action to avoid disclosure of Confidential Information hereunder.
+
+8.4 Confidentiality of this Agreement and its Terms. Except as otherwise provided in this Article 8, each Party agrees not to disclose to any Third Party the existence of this Agreement or the terms of this Agreement without the prior written consent of the other Party, except that each Party may disclose the terms of this Agreement that are not otherwise made public as contemplated by Section 8.5 as permitted under Section 8.3.
+
+8.5 Public Announcements.
+
+(a) As soon as practicable following the Effective Date, the Parties may each issue a press release in English and/or Japanese, in the form attached hereto as Exhibit 8.5(a), announcing the existence of this Agreement. Except as required by Applicable Laws (including disclosure requirements of the SEC or any stock exchange on which securities issued by a Party or its Affiliates are traded), neither Party shall make any other public announcement concerning this Agreement or the subject matter hereof without the prior written consent of the other, which shall not be unreasonably withheld or delayed; provided that each Party may make any public statement in response to questions by the press, analysts, investors or those attending industry conferences or financial analyst calls, or issue press releases, so long as any such public statement or press release is not inconsistent with prior public disclosures or public statements approved by the other Party pursuant to this Section 8.5 and does not reveal non‑public information about the other Party; and provided further that Zogenix may make public statements regarding the results of Development and Commercialization activities in the Territory. In the event of a public announcement required by Applicable Laws, to the extent practicable under the circumstances, the Party making such announcement shall provide the other Party with a copy of the proposed text of such announcement sufficiently in advance of the scheduled release to afford such other Party a reasonable opportunity to review and comment upon the proposed text.
+
+(b) The Parties will coordinate in advance with each other in connection with the filing of this Agreement (including redaction of certain provisions of this Agreement) with the SEC or any stock exchange on which securities issued by a Party or its Affiliate are traded, and each Party will use reasonable efforts to seek confidential treatment for the terms proposed to be redacted; provided that each Party will ultimately retain control over what information to disclose to the SEC or other applicable government body, and provided further that the Parties will use their reasonable efforts to file redacted versions with any governing bodies which are consistent with redacted versions previously filed with any other governing bodies. Other than
+
+31
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+such obligation, neither Party (nor its Affiliates) will be obligated to consult with or obtain approval from the other Party with respect to any filings to the SEC or any other government body governing a stock exchange.
+
+(c) Except as expressly permitted in this Agreement or as required by Applicable Laws, neither Party may use the other Party's trademarks, service marks or trade names, or otherwise refer to or identify that other Party in marketing or promotional materials, press releases, statements to news media or other public announcements, without the other Party's prior written consent, which that other Party may grant or withhold in its sole discretion.
+
+8.6 Publication. At least [***] prior to Distributor or its Affiliates or Sub-distributors publishing, publicly presenting, and/or submitting for written or oral publication a manuscript, presentation, abstract, marketing document or the like that includes Information relating to the Product that has not been previously published, Distributor shall provide to Zogenix's Alliance Manager a draft copy thereof for Zogenix's review (unless Distributor is required by Applicable Laws to publish such Information sooner, in which case Distributor shall provide such draft copy to Zogenix's Alliance Manager as much in advance of such publication as possible). Distributor shall consider in good faith any comments provided by Zogenix during such [***] period, and in the event that Zogenix raises any concerns the matter shall be raised at the JSC; provided that Distributor shall, at Zogenix's reasonable request, cease such proposed publication or remove therefrom any information requested by Zogenix. The contribution of each Party shall be noted in all publications or presentations by acknowledgment or co-authorship, whichever is appropriate.
+
+8.7 Prior Non-Disclosure Agreements. As of the Effective Date, the terms of this Article 8 shall supersede any prior non-disclosure, secrecy or confidentiality agreement between the Parties (or their Affiliates) dealing with the subject of this Agreement, including the Confidentiality Agreement, but excluding any terms of the Supply Agreement. Any information disclosed under such prior agreements shall be deemed disclosed under this Agreement.
+
+8.8 Equitable Relief. Given the nature and value of the Confidential Information and the competitive damage and irreparable harm that would result to a Party upon unauthorized disclosure, use or transfer of its Confidential Information to any Third Party, the Parties agree that monetary damages may not be a sufficient remedy for any breach of this Article 8. If the Receiving Party becomes aware of any breach or threatened breach of this Article 8 by the Receiving Party or a Third Party to whom the Receiving Party disclosed the Disclosing Party's Confidential Information, the Receiving Party promptly shall notify the Disclosing Party and cooperate with the Disclosing Party to regain possession of its Confidential Information and prevent any further breach. In addition to all other remedies, a Party shall be entitled to seek specific performance and injunctive and other equitable relief as a remedy for any breach or threatened breach of this Article 8 without furnishing proof of actual damages or posting a bond.
+
+ARTICLE 9.
+
+32
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+INTELLECTUAL PROPERTY OWNERSHIP AND ENFORCEMENT
+
+9.1 Ownership of Intellectual Property.
+
+(a) Zogenix Technology. Zogenix shall retain all right, title and interest in and to the Zogenix Technology.
+
+(b) Inventions and Intellectual Property Rights.
+
+(i) Ownership. Zogenix shall own the entire right, title and interest in and to any and all Inventions discovered, developed, identified, made, conceived or reduced to practice solely by or on behalf of Zogenix under or in connection with this Agreement, including in the course of conducting regulatory activities or Commercialization of the Product in the Field in the Territory, whether or not patented or patentable, together with any and all intellectual property rights in any such Inventions, including Patents that claim or disclose any such Inventions (collectively, the "Product Invention"). Distributor shall own the entire right, title and interest in and to any and all Inventions discovered, developed, identified, made, conceived or reduced to practice solely by Distributor or its Affiliates or Sub-distributors or its other subcontractors in the Territory and under or in connection with this Agreement, including in the course of conducting regulatory activities or Commercialization of the Product in the Field in the Territory, whether or not patented or patentable, together with any and all intellectual property rights in any such Inventions, including Patents that claim or disclose any such Inventions (collectively, the "Distributor Invention"). Zogenix and Distributor shall each own an undivided right, title, and interest in and to any and all Inventions discovered, developed, identified, made, conceived or reduced to practice jointly by or on behalf of Zogenix under or in connection with this Agreement and by Distributor or its Affiliates or Sub-distributors or its other subcontractors in the Territory and under or in connection with this Agreement ("Joint Invention"). In the event that either Zogenix or Distributor intends to file a patent application containing a Joint Invention, such Party shall promptly notify the other Party of such intention and shall provide a draft of any such patent application to such other Party [***] before filing such patent application with any patent office and the Parties shall negotiate in good faith concerning the terms and conditions of a joint patent agreement.
+
+(ii) Disclosure, License. Distributor shall, and shall cause its Affiliates and Sub-distributors and other subcontractors to, promptly disclose any Distributor Inventions to Zogenix in writing promptly following its discovery, development, identification, making, conception or reduction to practice by the Distributor, its Affiliates, Sub-distributors or other subcontractors. Distributor hereby grants Zogenix an irrevocable, perpetual, world-wide, royalty-free, fully paid-up, non-exclusive license with the right to grant sublicenses under such Distributor Inventions and any patents or patent applications claiming or disclosing such Distributor Inventions. In the event that Distributor intends to file a patent application containing Distributor Inventions, Distributor shall promptly notify Zogenix of such intention and shall provide a draft of any such patent application to Zogenix at least [***] before filing such patent application with any patent office. Distributor shall have the sole right to file for patent protection for such Distributor Inventions only if Zogenix does not provide a written objection
+
+33
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+within [***] of being provided with a draft of such patent application.
+
+(c) Personnel Obligations. Prior to receiving any Confidential Information or beginning work under this Agreement, Distributor shall ensure that each employee, agent or contractor of Distributor or its Affiliates or Sub-distributors shall be bound in writing by non-disclosure and Invention assignment obligations that are consistent with the obligations of the Parties in Article 8 and this Article 9, including obligations to: (a) promptly report any invention, discovery, process or other intellectual property right; (b) assign to Distributor or Zogenix all of his, her or its right, title and interest in and to any invention, discovery, process or other intellectual property right; (c) cooperate in the preparation, filing, prosecution, maintenance and enforcement of any patent and patent application; (d) perform all acts and sign, execute, acknowledge and deliver any and all documents required for effecting the obligations and purposes of this Agreement; and (e) abide by the obligations of confidentiality and non-use set forth in Article 8. It is understood and agreed that such non-disclosure and invention assignment agreements need not reference or be specific to this Agreement.
+
+9.2 Zogenix Patent Prosecution and Maintenance. During the term of this Agreement, Zogenix shall use Commercially Reasonable Efforts to prepare, file, prosecute (including any reissues, re-examinations, post-grant proceedings, requests for patent term extensions, interferences, and defense of oppositions), at Zogenix's sole discretion and cost. If there is any material change in Zogenix Patents specified in Exhibit 1.74, Zogenix shall provide Distributor with updated information concerning the Zogenix Patent in a timely manner.
+
+9.3 Infringement by Third Parties.
+
+(a) Notice. In the event that either Zogenix or Distributor becomes aware of any infringement or threatened infringement by a Third Party in the Territory of any Zogenix Patents, it shall notify the other Party in writing to that effect. Any such notice shall include evidence to support an allegation of infringement or threatened infringement by such Third Party.
+
+(b) Control of Action. Each Party shall share with the other Party all information available to it regarding such alleged or threatened infringement by a Third Party. Zogenix shall have the sole right, but not the obligation, to bring and control any action or proceeding with respect to alleged or threatened infringement by a Third Party in the Territory of any Zogenix Patent at Zogenix's cost and expense. If Zogenix elects to commence a suit to enforce the applicable Zogenix Patent against such infringements, then Distributor shall have the right to join such enforcement action, if permitted by Applicable Law, upon notice to Zogenix and be represented by a counsel of its own choice at its own cost and expense. Zogenix shall keep Distributor reasonably informed of any such actions or proceedings and consider in good faith any comments or requests made by Distributor, and the Parties shall cooperate and consult with each other in strategizing regarding any such action or proceeding, provided that Zogenix shall control and have the right to make all final decisions (regardless of whether or not Distributor is a party to such action or proceeding) regarding all matters in the preparation and conduct of any such action or proceeding. Each Party shall cooperate fully with the other Party with respect to actions or proceedings under this Section 9.3, including being joined as a party
+
+34
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+plaintiff in any such action or proceeding and providing access to relevant documents and other evidence and making its employees available at reasonable business hours, with the costs of such cooperation to be included as shared costs for actions or proceedings brought hereunder.
+
+(c) Recoveries. Any monetary recovery resulting from actions or proceedings under this Section 9.3 will be allocated as follows: each of Distributor and Zogenix first will be reimbursed, out of such recovery, for its reasonable and verifiable costs and expenses with respect to such action or proceeding (such reimbursement to be pro-rata based on the Parties' relative costs and expenses if the recovery is not sufficient to reimburse both Parties fully) with any remainder being (i) allocated [***] if[***] or (ii) allocated [***] if [***].
+
+9.4 Third Party Intellectual Property Rights.
+
+(a) If either Party becomes aware of a Patent in the Territory owned by a Third Party that it believes will, or may, be infringed by the manufacture, importation, Development or Commercialization of the Product in the Field in the Territory as contemplated by this Agreement, such Party shall notify the other Party of such Patent. The Parties then shall discuss the matter and seek in good faith to agree on whether the Parties should take a license under such Patent, and if so, on what terms; provided, that if the Parties are unable to agree after a reasonable period, [***], of good faith discussions, then Zogenix shall have the right to obtain such a license on such terms as it determines in its sole discretion and at its own cost and expense. Provided, however, in the event that Zogenix elects not to seek or fails to obtain a license under such Patent, Distributor shall have the right to obtain such a license with prior written notice to Zogenix.
+
+(b) Each Party shall promptly notify the other Party in writing of any allegation by a Third Party that the activity of either Party pursuant to this Agreement or the Supply Agreement infringes or may infringe the intellectual property rights of such Third Party. Zogenix shall have the sole right to control any defense of any such claim involving alleged infringement of Third Party rights, at Zogenix's sole cost and expense and by counsel of its own choice; provided however that Distributor may participate in the defense, at its own expense, to be represented in any such action by counsel of its own choice. In any event, Zogenix agrees to keep Distributor reasonably informed of all material developments in connection with any such action. Zogenix agrees not to settle such infringement or make any admissions or assert any position in such action in a manner that would materially adversely affect the rights or interest of Distributor, without the prior written consent of Distributor, which shall not be unreasonably withheld, delayed or conditioned. Neither Party shall enter into any settlement or compromise of any action under this Section 9.4 which would in any manner alter, diminish, or be in derogation of the other Party's rights under this Agreement without the prior written consent of such other Party, which shall not be unreasonably withheld, delayed or conditioned.
+
+9.5 Patent Term Restoration. At the request of Zogenix, the Parties shall cooperate with each other in obtaining patent term restoration, extensions and/or any other extensions of the Zogenix Patents as available under Applicable Laws, subject to Zogenix's rights under Section 9.2. Zogenix shall bear the cost for such patent term restoration and/or any other
+
+35
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+extensions of the Zogenix Patent.
+
+9.6 Patent Marking. Distributor shall, and shall require its Affiliates and Sub-distributors to, mark all Product sold in the Territory (in a reasonable manner consistent with industry custom and practice and Applicable Law) with appropriate patent numbers or indicia to the extent permitted by Applicable Laws, if such markings impact recoveries of damages or equitable remedies available with respect to infringements of patents.
+
+9.7 Zogenix Trademarks. All packaging, promotional materials, package inserts, and labeling for the Product in the Field in the Territory shall bear, free of charge, one or more house Trademarks chosen and owned by Zogenix, including the Zogenix name and logo set forth in Exhibit 9.7 (each, a "Zogenix Trademark"). Zogenix or its Affiliates shall own all right, title, and interest in and to all Zogenix Trademarks, all corresponding trademark applications and registrations thereof, and all common law rights thereto. Zogenix shall, at Zogenix's sole expense, have sole control over the registration, prosecution, maintenance, enforcement and defense of the Zogenix Trademarks. All goodwill of the business associated with or symbolized by the Zogenix Trademarks shall inure to the benefit of Zogenix. Distributor acknowledges Zogenix's exclusive ownership of the Zogenix Trademarks and agrees not to take any action inconsistent with such ownership. Distributor shall provide Zogenix with samples of any advertising and promotional materials in original language that incorporate the Zogenix Trademarks prior to distributing such materials for use. Distributor shall comply with reasonable policies provided by Zogenix from time to time to maintain the goodwill and value of the Zogenix Trademarks. Distributor shall not, and shall cause its Affiliates not to, (i) use, seek to register, or otherwise claim rights in any Trademark that is confusingly similar to, misleading or deceptive with respect to, or that materially dilutes, any of the Zogenix Trademarks, or (ii) knowingly do, cause to be done, or knowingly omit to do any act, the doing, causing or omitting of which endangers, undermines, impairs, destroys or similarly affects, in any material respect, the validity or strength of any of the Zogenix Trademarks (including any registration or pending registration application relating thereto) or the value of the goodwill pertaining to any of the Zogenix Trademarks.
+
+9.8 Product Trademarks.
+
+(a) Selection and Ownership of Product Trademarks. All packaging, promotional materials, package inserts, and labeling for the Product in the Field in the Territory shall bear one or more Trademarks that pertain specifically to the Product, including the Trademarks in existence as of the Effective Date as set forth in Exhibit 9.8 (each, a "Product Trademark"). If the Product Trademarks in existence as of the Effective Date are not eligible for trademark protection or for use in connection with the Product in the Field in the Territory or if the Parties agree that alternative or additional Trademarks may be beneficial, Distributor may investigate appropriate Trademarks for the Product in the Territory. If the Parties identify and agree on alternative or additional Trademarks for the Product in the Territory, Zogenix shall use Commercially Reasonable Efforts to register such Trademark(s) for the Product in the Field in the Territory. Zogenix or its Affiliates shall own all right, title, and interest in and to all Product
+
+36
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+Trademarks, all corresponding trademark applications and registrations thereof, and all common law rights thereto. All goodwill of the business associated with or symbolized by the Product Trademarks shall inure to the benefit of Zogenix. Distributor acknowledges Zogenix's exclusive ownership of the Product Trademarks and agrees not to take any action inconsistent with such ownership.
+
+(b) Maintenance and Prosecution of Product Trademarks. Zogenix shall, at Zogenix's sole expense, control the registration, prosecution and maintenance of the Product Trademarks in the Territory; provided, that Zogenix shall keep Distributor reasonably informed of Zogenix's actions with respect thereto and shall consider in good faith any reasonable comments made by Distributor with respect thereto.
+
+(c) Use of Product Trademarks. Distributor shall promote, market, sell, offer for sale, import, distribute and otherwise commercialize the Product in the Field in the Territory only under the Product Trademarks. Distributor shall provide Zogenix with samples of any advertising and promotional materials that incorporate the Product Trademarks prior to distributing such materials for use. Distributor shall comply with reasonable policies provided by Zogenix from time to time to maintain the goodwill and value of the Product Trademarks. Distributor shall not, and shall cause its Affiliates not to, (i) use, seek to register, or otherwise claim rights in the Territory in any Trademark that is confusingly similar to, misleading or deceptive with respect to, or that materially dilutes, any of the Product Trademarks, or (ii) knowingly do, cause to be done, or knowingly omit to do any act, the doing, causing or omitting of which endangers, undermines, impairs, destroys or similarly affects, in any material respect, the validity or strength of any of the Product Trademarks (including any registration or pending registration application relating thereto) or the value of the goodwill pertaining to any of the Product Trademarks.
+
+(d) Enforcement of Product Trademarks. Zogenix shall have the first right, but not the obligation, at Zogenix's expense, to enforce and defend the Product Trademarks in the Territory, including (i) defending against any alleged, threatened or actual claim by a Third Party that the use of the Product Trademarks in the Territory infringes, dilutes or misappropriates any Trademark of that Third Party or constitutes unfair trade practices, or any other claims that may be brought by a Third Party against a Party in connection with the use of or relating to Product Trademarks in the Territory with respect to the Product and (ii) taking such action as Zogenix deems necessary against a Third Party based on any alleged, threatened or actual infringement, dilution or misappropriation of, or unfair trade practices or any other like offense relating to, the Product Trademarks in the Territory by a Third Party. If Zogenix elects not to enforce or defend the Product Trademarks in any such instance, then Zogenix shall promptly so notify Distributor and Distributor shall have the right, but not the obligation, at its expense, to do so. Each Party shall provide to the other Party all reasonable assistance requested by such first Party in connection with any such action, claim or suit under this Section 9.8(d), including allowing such first Party access to such other Party's documents and to such other Party's personnel who may have possession of relevant information.
+
+37
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+(e) Distributor's Housemarks. In addition to the Product Trademarks, Distributor shall have the right to brand the Product in the Territory with those trademarks of Distributor that are associated with Distributor's name or identity and are pre-approved in writing by Zogenix ("Distributor Housemarks"). Distributor shall own all rights in the Distributor Housemarks, and all goodwill in the Distributor Housemarks shall accrue to Distributor. Distributor and its Affiliates and Sub-distributor shall not use any trademarks, other than the Zogenix Trademarks, Product Trademarks and the approved Distributor Housemarks, in connection with the Commercialization of the Product in the Field in the Territory, without the prior written consent of Zogenix.
+
+ARTICLE 10. REPRESENTATIONS, WARRANTIES AND COVENANTS; LIMITATION OF LIABILITY
+
+10.1 Mutual Representations, Warranties and Covenants. Each Party hereby represents and warrants to the other Party, as of the Effective Date, as follows:
+
+(a) Duly Organized. Such Party is a corporation duly organized, validly existing and in good standing under the laws of the jurisdiction of its incorporation, is qualified to do business and is in good standing as a foreign corporation in each jurisdiction in which the conduct of its business or the ownership of its properties requires such qualification and failure to have such would prevent such Party from performing its obligations under this Agreement.
+
+(b) Due Authorization; Binding Agreement. The execution, delivery and performance of this Agreement by such Party have been duly authorized by all necessary corporate action. This Agreement is a legal and valid obligation binding on such Party and enforceable in accordance with its terms and does not: (i) to such Party's knowledge and belief, violate any law, rule, regulation, order, writ, judgment, decree, determination or award of any court, governmental body or administrative or other agency having jurisdiction over such Party; nor (ii) conflict with, or constitute a default under, any agreement, instrument or understanding, oral or written, to which such Party is a party or by which it is bound.
+
+(c) Consents. Such Party has obtained, or is not required to obtain, the consent, approval, order or authorization of any Third Party, or has completed, or is not required to complete, any registration, qualification, designation, declaration or filing with any Regulatory Authority or governmental authority in connection with the execution and delivery of this Agreement and the performance by such Party of its obligations under this Agreement.
+
+(d) No Conflicting Grant of Rights. Such Party has the right to grant the rights contemplated under this Agreement and has not, and will not during the Term, grant any right to any Third Party that would conflict with the rights granted to the other Party hereunder.
+
+(e) Debarment. Such Party is not debarred or disqualified under the United
+
+38
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+States Federal Food, Drug and Cosmetic Act or comparable Applicable Laws in the Territory and it does not, and will not during the Term, employ or use the services of any Person who is debarred or disqualified, in connection with activities relating to the Product. In the event that either Party becomes aware of the debarment or disqualification or threatened debarment or disqualification of any Person providing services to such Party, including the Party itself and its Affiliates or Sub-distributors, that directly or indirectly relate to activities under this Agreement, such Party shall immediately notify the other Party and shall cease employing, contracting with, or retaining any such person to perform any services under this Agreement.
+
+(f) Comply with Applicable Laws. In the performance of its obligations hereunder, such Party shall comply and shall cause its and its Affiliates' employees and contractors to comply with all Applicable Laws.
+
+(g) Anti-Corruption. Such Party shall not, directly or indirectly through Third Parties, pay, promise or offer to pay, or authorize the payment of, any money or give any promise or offer to give, or authorize the giving of anything of value to a Public Official or Entity or other Person for purpose of obtaining or retaining business for or with, or directing business to, any Person, including, without limitation, Zogenix or Distributor. Without any limitation to the foregoing, such Party has not and shall not directly or indirectly promise, offer or provide any corrupt payment, gratuity, emolument, bribe, kickback, illicit gift or hospitality or other illegal or unethical benefit to a Public Official or Entity or any other Person.
+
+(h) Accuracy of Materials. All due diligence materials that such Party has provided and will provide to the other Party were and will be to the knowledge of such Party accurate, truthful, and complete at the time such materials are provided to the other Party, and such Party has not and will not intentionally omit any material facts requested by the other Party.
+
+(i) Notification for Violation of Applicable Laws. Such Party shall immediately notify the other Party if it has any information or suspicion that there may be a violation of the FCPA or any other Applicable Law in connection with the performance of this Agreement or the sale of the Product in the Territory.
+
+(j) No Pubic Officials. No owner, shareholder (direct or beneficial), officer, director, employee, third-party representative, agent, or other individual with any direct or indirect beneficial interest in such Party or its Affiliates or, to its knowledge, in its Sub-distributors or other contractors, or any immediate family relation of any such Person (collectively, "Interested Persons"), is a Public Official or Entity. Such Party shall notify the other Party immediately if during the Term (i) any Interested Person becomes a Public Official or Entity or (ii) any Public Official or Entity acquires a legal or beneficial interest in it or its Affiliate or, to its knowledge, in its Sub-distributors or other subcontractors.
+
+10.2 Representations, Warranties and Covenants of Distributor. Distributor represents, warrants, and covenants to Zogenix that:
+
+(a) in the performance of its obligations hereunder, Distributor shall comply
+
+39
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+and shall cause its and its Affiliates' and Sub-distributors' employees and contractors to comply with Applicable Law and Distributor's compliance policies, complete copies of which will be provided to Zogenix before the launch of the Product in the Territory;
+
+(b) during the Term, Distributor agrees that:
+
+(i) Zogenix will have the right, upon reasonable prior written notice and during Distributor's regular business hours, to audit Distributor's and its Affiliates' books and records by an independent certified public accounting firm of recognized international standing, and Distributor shall ensure that Zogenix has the right to audit its Sub-distributors' and subcontractors' books and records, to investigation potential violations of any of the representations, warranties or covenants in this Section 10.2, the FCPA or other Applicable Laws or Distributor's compliance policies. Such audit may be made no more than once each Fiscal Year (unless an audit reveals a violation under this Agreement, in which case an additional audit may be conducted within such Fiscal Year);
+
+(ii) Distributor will certify to Zogenix annually in writing or otherwise upon Zogenix's written request, under the form set forth in Exhibit 10.2(b) attached hereto, Distributor's compliance with the representations, warranties and covenants in this Section 10.2, the FCPA and other Applicable Laws and Distributor's compliance policies;
+
+(iii) Distributor will inform Zogenix promptly of any changes in its business that would change any of its representations, warranties or covenants in this Section 10.2;
+
+(iv) Zogenix shall have the right to suspend or terminate the supply of Product under the Supply Agreement and to terminate this Agreement if there is credible evidence that Distributor or its Affiliate or Sub-distributor may have violated any of the representations, warranties or covenants in this Section 10.2 the FCPA or other Applicable Laws or Distributor's compliance policies.
+
+10.3 Representations and Warranties of Zogenix. Zogenix represents, warrants and covenants to Distributor that:
+
+(a) Zogenix will inform Distributor promptly of any changes in its business that would change any of its representations, warranties or covenants in this Section 10.3; and
+
+(b) as of the Effective Date, Zogenix has not received written notice of any pending or threatened claims or actions alleging that the Development or Commercialization of the Product in the Field infringes or would infringe the Patents of any Third Party in the Territory.
+
+10.4 Disclaimer. EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT AND THE SUPPLY AGREEMENT, NEITHER PARTY MAKES ANY REPRESENTATIONS OR EXTENDS ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, AND
+
+40
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+EACH PARTY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR USE, NON-INFRINGEMENT, VALIDITY AND ENFORCEABILITY OF PATENTS, OR THE PROSPECTS OR LIKELIHOOD OF DEVELOPMENT OR COMMERCIAL SUCCESS OF THE PRODUCT.
+
+10.5 Limitation of Liability. NEITHER PARTY SHALL BE ENTITLED TO RECOVER FROM THE OTHER PARTY ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES IN CONNECTION WITH THIS AGREEMENT; provided however, that this Section 10.5 shall not be construed to limit (a) either Party's right to special, incidental or consequential damages for the other Party's breach of Article 8 or (b) either Party's indemnification rights or obligations under Article 11.
+
+ARTICLE 11. INDEMNIFICATION
+
+11.1 Indemnification of Zogenix. Distributor shall indemnify, defend and hold harmless Zogenix and its Affiliates and their respective directors, officers, employees and agents (the "Zogenix Indemnitees"), from and against any and all losses, liabilities, damages, penalties, fines, costs and expenses (including reasonable attorneys' fees and other expenses of litigation) ("Losses") incurred by any Zogenix Indemnitee resulting from any claims, actions, suits or proceedings brought by a Third Party ("Third Party Claims") to the extent arising from, or occurring as a result of: (a) the registration, use, handling, storage, import, offer for sale, sale or other disposition of the Product in the Territory by or on behalf of Distributor or its Affiliates; (b) the negligence or willful misconduct of any Distributor Indemnitees in connection with Distributor's performance of its obligations or exercise of its rights under this Agreement; or (c) any breach of any representations, warranties or covenants of Distributor in this Agreement, except to the extent such Third Party Claims fall within the scope of the indemnification obligations of Zogenix set forth in Section 11.2 or arise out of the breach by Zogenix of any of the terms of the Supply Agreement.
+
+11.2 Indemnification of Distributor. Zogenix shall indemnify, defend and hold harmless Distributor and its Affiliates and their respective directors, officers, employees and agents (the "Distributor Indemnitees"), from and against any and all Losses incurred by any Distributor Indemnitee resulting from any Third Party Claims to the extent arising from, or occurring as a result of: (a) the manufacture, use, handling, storage, import, offer for sale, sale or other disposition of the Product outside the Territory by or on behalf of Zogenix or its Affiliates; (b) the negligence or willful misconduct of any Zogenix Indemnitees in connection with Zogenix's performance of its obligations or exercise of its rights under this Agreement; or (c) any breach of any representations, warranties or covenants of Zogenix in this Agreement, except to the extent such Third Party Claims fall within the scope of the indemnification obligations of Distributor set forth in Section 11.1 or arise out of the breach by Distributor of any of the terms of the Supply Agreement.
+
+41
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+11.3 Procedure. A Party that intends to claim indemnification under this Article 11 (the "Indemnitee") shall promptly notify the indemnifying Party (the "Indemnitor") in writing of any Third Party Claim, in respect of which the Indemnitee intends to claim such indemnification, and the Indemnitor shall have sole control of the defense and/or settlement thereof. The Indemnitee may participate at its expense in the Indemnitor's defense of and settlement negotiations for any Third Party Claim with counsel of the Indemnitee's own selection. The indemnity arrangement in this Article 11 shall not apply to amounts paid in settlement of any action with respect to a Third Party Claim, if such settlement is effected without the consent of the Indemnitor, which consent shall not be withheld or delayed unreasonably. The failure to deliver written notice to the Indemnitor within a reasonable time after the commencement of any action with respect to a Third Party Claim shall only relieve the Indemnitor of its indemnification obligations under this Article 11 if and to the extent the Indemnitor is actually prejudiced thereby. The Indemnitee shall cooperate fully with the Indemnitor and its legal representatives in the investigation of any action with respect to a Third Party Claim covered by this indemnification.
+
+11.4 Insurance. Each Party, at its own expense, shall maintain product liability and other appropriate insurance (or self- insure) in an amount consistent with industry standards during the Term. Each Party shall provide a certificate of insurance (or evidence of self-insurance) evidencing such coverage to the other Party upon written request.
+
+ARTICLE 12. TERM AND TERMINATION
+
+12.1 Term. This Agreement shall commence on the Effective Date and shall remain in effect until September 1, 2045, unless earlier terminated by either Party pursuant to this Article 12 (the "Term").
+
+12.2 Termination.
+
+(a) Mutual Agreement. The Parties may terminate this Agreement by mutual written agreement.
+
+(b) Distributor Convenience. At any time following the expiration of the Distribution Term (as defined in Section 1.17), the Distributor may terminate this Agreement at will upon [***] prior written notice to Zogenix.
+
+(c) Zogenix Convenience. At any time following the expiration of the Distribution Term, Zogenix may terminate this Agreement at will upon [***] prior written notice to Distributor.
+
+(d) Material Breach. If either Party believes in good faith that the other is in material breach of its obligations hereunder, then the non-breaching Party may deliver written
+
+42
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+notice of such breach to the other Party, and the allegedly breaching Party shall have [***] from receipt of such notice to dispute the validity of such breach. For all breaches of this Agreement, the allegedly breaching Party shall have [***] from the receipt of the initial notice to cure such breach. If the Party receiving notice of breach fails to cure the breach within such [***] period, then the non-breaching Party may terminate this Agreement in its entirety effective on written notice of termination to the other Party. Notwithstanding the foregoing, (a) if such material breach (other than a payment breach), by its nature, is curable, but is not reasonably curable within the [***] period, then such period shall be extended if the breaching Party provides a written plan for curing such breach to the non-breaching Party and uses Commercially Reasonable Efforts to cure such breach in accordance with such written plan; provided, that no such extension shall exceed [***] without the consent of the non-breaching Party.
+
+(e) Diligence. Zogenix shall have the right to terminate this Agreement pursuant to Section 5.1(d).
+
+(f) Bankruptcy. A Party shall have the right to terminate this Agreement upon written notice to the other Party upon the bankruptcy, dissolution or winding up of such other Party, or the making or seeking to make or arrange an assignment for the benefit of creditors of such other Party, or the initiation of proceedings in voluntary or involuntary bankruptcy, or the appointment of a receiver or trustee of such other Party's property, that is not discharged within [***].
+
+(g) Commercial Viability. In the event that prior to launch of the Product in the Field in the Territory (i) either Party has a good faith concern that the launch of the Product in the Field in the Territory is not likely to be possible with Commercially Reasonable Efforts, based upon credible evidence, such as any decision by a Regulatory Authority to require significant additional information before granting or as a condition to granting Regulatory Approval, or (ii) Distributor has a good faith concern that the Commercialization of the Product in the Territory will not be commercially viable, such Party may raise such concern for discussion by the JSC. If, within the time periods set forth in Section 3.1(d) or such longer time period as the Parties may mutually agree upon in writing, neither the JSC nor the Executives agree whether to launch or commercialize Product in the Territory, then, notwithstanding anything to the contrary in Section 3.1(d) or Article 13, either Party shall have the right to terminate this Agreement upon at least [***] written notice to the other Party.
+
+(h) Third Party Patent.
+
+(i) Distributor shall have the right to terminate this Agreement upon written notice to Zogenix if (A) the Parties have discussed an issued Patent under Section 9.4(a), (B) either (1) both Zogenix and Distributor agree not to seek a license under such issued Patent or (2) the applicable Party as determined pursuant to Section 9.4(a) failed to obtain a license under such issued Patent, after good faith efforts to do so, within [***] after the Parties' agreement as to which Party would seek such license, and (C) Distributor reasonably and in good faith believes that the sale, offer for sale or import of the Product in the Territory in the Field infringes such issued Patent in the Territory, such that Distributor is not able to sell the Product in
+
+43
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+the Territory in the Field without infringing such issued Patent.
+
+(ii) Zogenix shall have the right to terminate this Agreement upon written notice to Distributor if (A) the Parties have discussed an issued Patent under Section 9.4(a), (B) either (1) both Zogenix and Distributor agree not to seek a license under such issued Patent or (2) the applicable Party as determined pursuant to Section 9.4(a) failed to obtain a license under such issued Patent, after good faith efforts to do so, within [***] after the Parties' agreement as to which Party would seek such license, and (C) Zogenix reasonably and in good faith believes that the manufacture for and sale to Distributor of the Product infringes such issued Patent, such that Zogenix will not be able to conduct (or have conducted on its behalf) such manufacturing for and sale of the Product to Distributor without infringing (or its contract manufacturers infringing) such issued Patent.
+
+(i) Change of Control. This Agreement may be terminated by either Party upon [***] written notice to the other Party in the event that the other Party undergoes a Change of Control; provided, however, that such termination notice shall only be effective if delivered within [***] after the later of the occurrence of such Change of Control or the date the Party undergoing the Change of Control delivers written notice thereof to the other Party.
+
+(j) Other Zogenix Termination Rights. Zogenix shall have the right to terminate this Agreement immediately upon written notice to Distributor (i) if Distributor or any of its Affiliates or Sub-distributors, directly or indirectly through any Third Party, commences any interference or opposition proceeding with respect to, challenges the validity or enforceability of, or opposes any extension of or the grant of a supplementary protection certificate with respect to, any Zogenix Patent (or any related Patent owned or controlled by Zogenix outside the Territory); (ii) if Zogenix determines that Distributor or its Affiliates or Sub- distributors are, or have caused or shall cause any Zogenix Indemnitee to be, in violation of the FCPA or any other Applicable Laws; or (iii) if Zogenix decides to withdraw the Product from the market in the Territory or otherwise believes that the promotion of the Product in the Field in the Territory presents a substantial risk of harm or injury to consumers which risk is unacceptable according to established principles of medical ethics.
+
+(k) Termination of Supply Agreement. Following the execution of the Supply Agreement pursuant to Section 5.2, the Parties agree that this Agreement shall automatically terminate upon termination of the Supply Agreement for any reason.
+
+(l) Distributor Safety Concern. This Agreement may be terminated by Distributor upon written notice to Zogenix, in the event that Distributor has a reasonable belief after due inquiry that the promotion of the Product in the Field in the Territory presents a substantial risk of harm or injury to consumers which risk is unacceptable according to established principles of medical ethics. Prior to terminating this Agreement in accordance with this Section 12.2(l), Distributor shall present evidence supporting the basis for such termination to Zogenix and shall consider in good faith all comments provided by Zogenix prior to terminating this Agreement.
+
+44
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+12.3 Rights on Termination. The following will apply upon any termination of this Agreement:
+
+(a) Termination of Rights and Obligations. Upon termination of this Agreement, all rights and obligations of the Parties under this Agreement will terminate, except as provided in this Section 12.3 and Sections 12.4, 12.5 and 12.6. Within [***] after the effective date of termination of this Agreement, each Party shall deliver to the other Party any and all Confidential Information of such other Party then in its possession, except to the extent a Party retains the right to use such Confidential Information pursuant to any rights granted under this Agreement that survive termination of this Agreement, and except for one (1) copy which may be kept in such Party's (or its counsel's) office for archival purposes subject to a continuing obligation of confidentiality and non-use under Article 8 for the duration set forth in Section 8.1. Neither Party shall be required to destroy Confidential Information contained in any electronic back-up tapes or other electronic back-up files that have been created solely by its automatic or routine archiving and back-up procedures, to the extent created and retained in a manner consistent with its standard archiving and back-up.
+
+(b) Technology and Trademark License, Including Right to Reference and Technology Transfer. In the event that Zogenix terminates this Agreement pursuant to Section 12.2(c) or Distributor terminates this Agreement pursuant to Section 12.2(d), or after the expiration of this Agreement in accordance with Section 12.1, Zogenix shall negotiate in good faith with Distributor a license agreement for Distributor to make, use and sell the Product in the Field in the Territory under the Zogenix Technology, Zogenix Trademarks and the Product Trademarks. Any such license would include a royalty rate for the net sales of Product in the Field in the Territory of [***] if this Agreement is terminated by Distributor pursuant to Section 12.2(d) or of [***] if this Agreement is terminated by Zogenix pursuant to Section 12.2(c) or if the Agreement expires in accordance with Section 12.1. For clarity, the royalty rates, as applicable, set forth in this Section would be the total royalty due to Zogenix on Net Sales of the Product in the Territory under any such license agreement. In the event that Zogenix is the holder of the Regulatory Approval for the Product in the Territory at the time of termination pursuant to Section 12.2(c) by Zogenix or Section 12.2(d) by Distributor or expiration pursuant to Section 12.1, such license agreement shall also include a grant by Zogenix to Distributor of the right to reference and use all Data and Regulatory Filings (including all Regulatory Approvals), such reference and use solely for maintaining Regulatory Approval and commercializing the Product in the Territory in the Field. Such license shall also include Zogenix's agreement to use Commercially Reasonable Efforts to enable Distributor to establish manufacturing capability for the Product in or for the Territory at Distributor's cost. Such support and assistance would include: (i) amending agreements with Zogenix's contract manufacturers of Product for the Territory to permit such contract manufacturers to enter into manufacturing agreements with Distributor to manufacture the Product in or for the Territory and introducing Distributor to such contract manufacturers, (ii) provision of reasonable access to and consultation with Persons knowledgeable of the manufacture of such Products and (iii) providing such technical assistance as may be reasonably requested by Distributor relating to methods and manufacturing know-how transfer to Distributor's manufacturing facility. Such license
+
+45
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+agreement would include such other standard terms and conditions for license agreements of this type as are mutually agreed to by the Parties.
+
+(c) Commercialization Transition. Unless this Agreement is terminated by Zogenix under Sections 12.2(f), (g)(i), (h)(ii), (j)(ii), or (j)(iii), or by Distributor under Sections 12.2(d), (g), or (l), or terminated automatically under Section 12.2(k), Distributor shall continue, to the extent that Distributor continues to have Product inventory, to fulfill orders received from customers for Product in the Territory until up to [***] after the date on which Zogenix notifies Distributor in writing that Zogenix has secured an alternative distributor for the Product in the Territory, but in no event for more for than [***] after the effective date of termination. All Product sold by or on behalf of Distributor or its Affiliates or Sub-distributors after the effective date of termination will be included in calculations under Article 6. Notwithstanding the foregoing, Distributor shall cease such activities upon [***] written notice from Zogenix at any time after the effective date of termination requesting that such activities cease. Within [***] after receipt of such cessation request, Distributor shall provide Zogenix an estimate of the quantity and shelf life of all Product remaining in Distributor's or its Affiliates' or Sub-distributors' inventory, and Zogenix shall have the right to purchase any such quantities of Product from Distributor at a price mutually agreed by the Parties.
+
+(d) Assignment of Regulatory Filings and Regulatory Approvals. Unless this Agreement is terminated by Zogenix under Section 12.2(c), at Zogenix's option, which shall be exercised by written notice to Distributor, to the extent permitted under Applicable Laws, Distributor shall assign or cause to be assigned to Zogenix or its designee (or to the extent not so assignable, Distributor shall take all reasonable actions to make available to Zogenix or its designee the benefits of), at Zogenix's cost, all Regulatory Filings and Regulatory Approvals for the Product in the Field in the Territory.
+
+(e) Transition. Unless this Agreement is terminated by Zogenix under Section 12.2(c), Distributor shall use Commercially Reasonable Efforts to cooperate with Zogenix and/or its designee to effect a smooth and orderly transition in the registration and Commercialization of the Product in the Field in the Territory during the applicable notice period under Section 12.2 and following the effective date of termination. Without limiting the foregoing, Distributor shall use Commercially Reasonable Efforts to conduct, in an expeditious manner, any activities to be conducted under this Section 12.3.
+
+(f) Third Party Agreements. Unless this Agreement is terminated by Zogenix under Section 12.2(c), at the written request of Zogenix, Distributor shall assign to Zogenix any Product-specific Third Party agreements, to the furthest extent possible, provided that such assignment is permitted under the Product-specific agreement or is otherwise agreed by the applicable Third Party. In the event such assignment is not requested by Zogenix or is not permitted or agreed by such Third Party, then the rights of such Third Party with respect to the Product will terminate upon termination of Distributor's rights. Distributor shall ensure that each such Third Party (if its contract is not assigned to Zogenix pursuant to this Section 12.3) will transition any remaining Product back to Zogenix in the manner set forth in this Section 12.3 as
+
+46
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+if such Third Party were named herein. Distributor shall include provisions requiring compliance with these provisions in all applicable agreements with Third Parties.
+
+12.4 Exercise of Right to Terminate. The use by either Party hereto of a termination right provided for under this Agreement shall not give rise, on its own, to the payment of damages or any other form of compensation or relief to the other Party with respect thereto.
+
+12.5 Damages; Relief. Subject to Section 12.4 above, termination of this Agreement shall not preclude either Party from claiming any other damages, compensation or relief that it may be entitled to upon such termination.
+
+12.6 Accrued Obligations; Survival. The expiration or termination of this Agreement for any reason shall not release either Party from any liability that, at the time of such expiration or termination, has already accrued to such Party or that is attributable to a period prior to such termination, nor will any termination of this Agreement preclude either Party from pursuing all rights and remedies it may have under this Agreement, at law or in equity, with respect to breach of this Agreement. The following Articles and Sections will survive any expiration or termination of this Agreement: Sections 4.2(e) (Ownership of Regulatory Information), 4.9 (Recalls) (to the extent Product remains on the market that was distributed under this Agreement), 7.4 (Records), 9.1 (Ownership of Intellectual Property), 9.7 (Zogenix Trademarks) (to the extent applicable to any post-termination distribution provided under Section 12.3(c)), 9.8 (Product Trademarks) (to the extent applicable to any post-termination distribution provided under Section 12.3(c)), 10.5 (Limitation of Liability), 12.3 (Rights on Termination), 12.4 (Exercise of Right to Terminate), 12.5 (Damages; Relief) and 12.6 (Accrued Obligations; Survival) and Articles 1 (Definitions) (to the extent necessary to give effect to other surviving provisions), 7 (Payments, Books and Records) (only with respect to periods prior to termination and, if applicable, any post-termination distribution provided under Section 12.3(c)), 8 (Confidentiality), 11 (Indemnification), 13 (Dispute Resolution) and 14 (General Provisions).
+
+ARTICLE 13. DISPUTE RESOLUTION
+
+13.1 Objective. The Parties recognize that disputes as to matters arising under or relating to this Agreement or either Party's rights or obligations hereunder may arise from time to time. It is the objective of the Parties to establish procedures to facilitate the resolution of such disputes in an expedient manner by mutual cooperation and without resort to litigation. To accomplish this objective, the Parties agree to follow the procedures set forth in this Article 13 to resolve any such dispute if and when it arises.
+
+13.2 Resolution by Executives. Except as otherwise provided in Article 3, if an unresolved dispute as to matters arising under or relating to this Agreement or either Party's rights or obligations hereunder arises, either Party may refer such dispute to the Executives, who shall meet in person or by telephone within [***] after such referral to attempt in good faith to
+
+47
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+resolve such dispute. If such matter cannot be resolved by discussion of such officers within such [***] (as may be extended by mutual written agreement), such dispute shall be resolved in accordance with Section 13.3. The Parties acknowledge that discussions between the Parties to resolve disputes are settlement discussions under applicable rules of evidence and without prejudice to either Party's legal position.
+
+13.3 Arbitration.
+
+(a) Any and all disputes that are not resolved pursuant to Section 13.2 shall be finally settled by binding arbitration administered under the Rules of Arbitration of the International Chamber of Commerce by three (3) arbitrators appointed in accordance with said Rules. The arbitration will be conducted in New York, New York. The language to be used in the arbitral proceedings will be English. Judgment on the award may be entered in any court having jurisdiction.
+
+(b) The award shall be rendered within [***] of the constitution of the arbitral tribunal, unless the arbitral tribunal determines that the interest of justice requires that such limit be extended.
+
+(c) The arbitrators shall award to the prevailing party, if any, as determined by the arbitrators, its reasonable attorneys' fees and costs.
+
+(d) The arbitration proceeding will be confidential and the arbitrators shall issue appropriate protective orders to safeguard each Party's Confidential Information. Except as required by Applicable Laws, no Party shall make (or instruct the arbitrators to make) any public announcement with respect to the proceedings or decision of the arbitrators without prior written consent of the other Party. The existence of any dispute submitted to arbitration, and the award, shall be kept in confidence by the Parties and the arbitrators, except as required in connection with the enforcement of such award or as otherwise required by Applicable Laws.
+
+ARTICLE 14. GENERAL PROVISIONS
+
+14.1 Governing Law. This Agreement and all questions regarding its existence, validity, interpretation, breach or performance and any dispute or claim arising out of or in connection with it (whether contractual or non-contractual in nature such as claims in tort, from breach of statute or regulation or otherwise) shall be governed by, and construed and enforced in accordance with, the laws of the State of New York, United States, without reference to its conflicts of law principles to the extent those principles would require applying another jurisdiction's laws. The United Nations Conventions on Contracts for the International Sale of Goods shall not be applicable to this Agreement or the Supply Agreement.
+
+14.2 Force Majeure. Neither Party shall be held liable to the other Party nor be
+
+48
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+deemed to have defaulted under or breached this Agreement for failure or delay in performing any obligation under this Agreement (other than failure to make payment when due) when such failure or delay is caused by or results from causes beyond the reasonable control of the affected Party, including embargoes, war, acts of war (whether war be declared or not), insurrections, riots, fire, floods, or other acts of God, or acts, omissions or delays in acting by any governmental authority or the other Party. The affected Party shall notify the other Party of such force majeure circumstances as soon as reasonably practicable, and shall promptly undertake all reasonable efforts necessary to cure such force majeure circumstances. Such excuse from liability shall be effective only to the extent and duration of the event(s) causing the failure or delay in performance and provided that the Party has not caused such event(s) to occur.
+
+14.3 Assignment. Except as expressly provided in this Section 14.3, neither this Agreement nor any rights or obligations hereunder may be assigned or otherwise transferred by either Party without the prior written consent of the other Party, which consent shall not be unreasonably withheld; provided, however, that either Party may assign this Agreement and its rights and obligations hereunder without the other Party's consent:
+
+(a) in connection with the transfer or sale of all or substantially all of the business of the assigning Party to a Third Party, whether by merger, sale of stock, sale of assets or otherwise; provided that in the event of a transaction (whether this Agreement is actually assigned or is assumed by the acquiring party by operation of law (e.g., in the context of a reverse triangular merger)), unless otherwise agreed with the acquiring party in writing, intellectual property of the acquiring party shall not be included in the intellectual property to which the other Party has access under this Agreement; or
+
+(b) to an Affiliate, provided that the assigning Party shall remain liable and responsible to the non‑assigning Party hereto for the performance and observance of all such duties and obligations by such Affiliate.
+
+For the avoidance of doubt, in the event that either Party assigns this Agreement pursuant to this Section 14.3(a), the other Party shall have the right to terminate this Agreement pursuant to Section 12.2(i). This Agreement shall be binding upon successors and permitted assigns of the Parties. Any assignment not in accordance with this Section 14.3 will be null and void.
+
+14.4 Severability. If any one or more of the provisions contained in this Agreement is held invalid, illegal or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions contained herein shall not in any way be affected or impaired thereby, unless the absence of the invalidated provision(s) adversely affects the substantive rights of the Parties. The Parties shall in such an instance use their best efforts to replace the invalid, illegal or unenforceable provision(s) with valid, legal and enforceable provision(s) which, insofar as practical, implement the purposes of this Agreement.
+
+14.5 Notices. All notices required or permitted hereunder shall be in writing and sufficient if delivered personally, sent by facsimile (and promptly confirmed by personal delivery, registered or certified mail or overnight courier), sent by internationally- recognized
+
+49
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+overnight courier or sent by registered or certified mail, postage prepaid, return receipt requested, addressed as follows:
+
+If to Zogenix, addressed to:
+
+Zogenix, Inc. 5959 Horton Street, Suite 500 Emeryville, CA 94608, U.S.A Attention: Chief Executive Officer Facsimile Number: +1 (510) 550-8340
+
+With a copy to (which shall not constitute notice):
+
+Latham & Watkins, LLP 12670 High Bluff Drive San Diego, CA 92130, U.S.A Attention: Cheston Larson, Esq. Facsimile Number: +1 (858) 523-5450
+
+If to Distributor, addressed to:
+
+Nippon Shinyaku Co., Ltd. 14, Nishinosho-monguchi-cho Kisshoin, Minami-ku Kyoto 601-8550, JAPAN Attention: Alliance Department Facsimile Number: +81-75-321-9019
+
+or to such other address as the Party to whom notice is to be given may have furnished to the other Party in writing in accordance herewith. Any such notice shall be deemed to have been given: (a) when delivered if personally delivered or sent by facsimile on a Business Day; and (b) on the second Business Day after dispatch if sent by internationally-recognized overnight courier.
+
+14.6 Entire Agreement; Amendments. This Agreement and the Supply Agreement, together with the exhibits hereto and thereto, contain the entire understanding of the Parties with respect to the subject matter hereof and thereof and supersede and cancel all previous express or implied agreements and understandings, negotiations, writings and commitments, either oral or written, in respect to the subject matter hereof and thereof, including the Confidentiality Agreement. This Agreement may be amended, or any term hereof modified, only by a written instrument duly executed by authorized representatives of both Parties, but "written instrument" does not include the text of e-mails or similar electronic transmissions.
+
+14.7 Headings. The captions to the several Articles and Sections hereof are not a part of this Agreement, but are merely for convenience to assist in locating and reading the several
+
+50
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+Sections hereof.
+
+14.8 Independent Contractors. It is expressly agreed that Zogenix and Distributor shall be independent contractors and that the relationship between the two Parties shall not constitute a partnership, joint venture or agency. Neither Zogenix nor Distributor shall have the authority to make any statements, representations or commitments of any kind or to take any action that shall be binding on the other Party, without the prior written consent of the other Party.
+
+14.9 Waiver. The waiver by either Party hereto of any right hereunder, or the failure of the other Party to perform, or a breach by the other Party, shall not be deemed a waiver of any other right hereunder or of any other breach or failure by such other Party whether of a similar nature or otherwise.
+
+14.10 Cumulative Remedies. No remedy referred to in this Agreement is intended to be exclusive, but each shall be cumulative and in addition to any other remedy referred to in this Agreement or otherwise available under law.
+
+14.11 Waiver of Rule of Construction. Each Party has had the opportunity to consult with counsel in connection with the review, drafting and negotiation of this Agreement. Accordingly, the rule of construction that any ambiguity in this Agreement shall be construed against the drafting Party shall not apply.
+
+14.12 Interpretation. All references in this Agreement to an Article or Section shall refer to an Article or Section in or to this Agreement, unless otherwise stated. Any reference to any federal, national, state, local, or foreign statute or law shall be deemed also to refer to all rules and regulations promulgated thereunder, unless the context requires otherwise. The word "including" and similar words means including without limitation. The words "herein," "hereof" and "hereunder" and other words of similar import refer to this Agreement as a whole and not to any particular Section or other subdivision. All references to days, months, quarters or years are references to calendar days, calendar months, calendar quarters, or calendar years, unless stated otherwise. References to the singular include the plural.
+
+14.13 No Third Party Beneficiaries. This Agreement is neither expressly nor impliedly made for the benefit of any Party other than Zogenix and Distributor, except as otherwise provided in this Agreement with respect to Zogenix Indemnitees under Section 11.1 and Distributor Indemnitees under Section 11.2. This Agreement may be terminated, varied or amended in accordance with its terms or with the agreement of Distributor and Zogenix without the consent of the Zogenix Indemnitees or Distributor Indemnitees.
+
+14.14 English Language. This Agreement is in the English language, and the English language shall control its interpretation. In addition, unless otherwise explicitly stipulated in this Agreement, all notices required or permitted to be given under this Agreement, and all written, electronic, oral or other communications between the Parties regarding this Agreement, shall be in the English language.
+
+51
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+14.15 Counterparts. This Agreement may be executed in two counterparts, each of which shall be deemed to be an original as against any party whose signature appears thereon, all of which together shall constitute but one and the same instrument.
+
+14.16 Further Actions. Each Party will execute, acknowledge and deliver such further instruments, and to do all such other ministerial, administrative or similar acts, as may be necessary or appropriate in order to carry out the purposes and intent of this Agreement.
+
+[Signature Page Follows]
+
+52
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+IN WITNESS WHEREOF, the Parties have executed this Distributorship Agreement as of the Effective Date.
+
+ZOGENIX, INC. NIPPON SHINYAKU COMPANY, LTD.
+
+By: /s/ Stephen J. Farr By: /s/Shigenobu Maekawa Name: Stephen J. Farr Name: Shigenobu Maekawa Title: President and Chief Executive Officer Title: President
+
+53
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+Exhibit 1.70
+
+UNLABELED DRUG PRODUCT
+
+[***] [***] [***] [***] [***] [***] [***]
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+Exhibit 1.74
+
+ZOGENIX ZX008 PATENTS AS OF THE EFFECTIVE DATE
+
+Patents claiming ZX008 or its use in Japan
+
+Docket No Appln. No Filing Date Publn. No Patent No Issue Date
+
+[***]
+
+ZGNX-135JP [***] [***] [***] [***] 11/30/18 ZGNX-135JP DIV [***] [***]
+
+[***]
+
+ZGNX-143JP [***] [***] [***]
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+Exhibit 2.3
+
+MATERIAL TERMS OF SUPPLY AGREEMENT
+
+The Supply Agreement will include the following terms and conditions:
+
+Appointment as Exclusive Supplier. During the Term, Zogenix shall retain and have the sole and exclusive right to supply or have supplied all of Distributors' and its Affiliates' and Sub-distributors' requirements of the Product for sale in the Field in the Territory.
+
+Transfer Price. The price at which Zogenix supplies the Product (as Unlabeled Drug Product) to Distributor equals the consideration and Transfer Price set forth in the Agreement in Section 6.5. Distributor shall make payment in accordance with Sections 6.1, 6.3, and 6.4, and shall also pay Zogenix's invoice for the estimated Transfer Price within [***] of the date on which the applicable units of Product are delivered by Zogenix in accordance Section 6.5 and the terms of the Supply Agreement. The Parties will true-up the Fully-Burdened Manufacturing Cost on an annual basis when truing-up the Transfer Price. For any Product that is supplied to Distributor under this Agreement and damaged by Distributor during labeling or packaging, the transfer price for any such Product shall be [***] per unit of Product for the applicable Fiscal Year. The Supply Agreement shall also include terms permitting Distributor to audit Zogenix's Fully-Burdened Manufacturing Costs that are similar to Zogenix's audit rights in Section 7.5 of the Agreement.
+
+Third Party Manufacturer Agreements. The terms of the Supply Agreement shall (a) establish the procedures, terms and conditions for manufacture, quality control, forecasting, ordering, delivery price, payment and appropriate other activities relating to the supply of the Product in the Territory so as to reasonably enable Zogenix to meet its obligations under its agreements with Third Party manufacturers and (b) provide Distributor no remedies for Zogenix's failure to supply the Product in accordance with the Supply Agreement that are in addition to those set forth herein or that are available to Zogenix in its existing agreements with Third Party manufacturers, and (c) set forth such terms and conditions so that the Supply Agreement is otherwise consistent in all material respects with such agreements with Third Party manufacturers.
+
+Forecasts and Orders. [***] prior to the anticipated First Commercial Sale, Distributor shall provide Zogenix with a good faith, [***] rolling forecast of its anticipated requirements of the Product, the first [***] of which shall be on a monthly basis and the last [***] of which shall be on a quarterly basis. The first [***] of such forecast shall be binding. Distributor shall submit binding purchase orders consistent with the binding portion of its forecasts. Each purchase order shall have a requested delivery date that is at least [***] after the date of the purchase order. The terms of the Supply Agreement shall also provide for the order and delivery of launch stock for the Product prior to Regulatory Approval to ensure timely launch of the product following Regulatory Approval.
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+Purchase orders shall be placed in full batch increments as defined in the Supply Agreement.
+
+Delivery. All Products shall be shipped Ex Works manufacturing site (Incoterms 2010) to the destination requested by Distributor. Distributor shall be responsible for labeling and packaging Product.
+
+Safety Stock. Distributor shall use Commercially Reasonable Efforts to build promptly following Regulatory Approval and thereafter to maintain an inventory of Product (itself and/or with wholesalers) which is not less than the equivalent of the immediate next [***] of anticipated demand for the Product in the Territory.
+
+Change Controls. The Parties shall include in the Supply Agreement a reasonable change control procedure to deal with any reasonable changes to the Product specifications and other changes required by Applicable Laws. All Third Party costs incurred by either Party for any such changes in accordance with the agreed-upon change control procedure shall be paid by Distributor if requested by Distributor or if such changes are required by Applicable Laws in the Territory.
+
+Second Source. Based on Distributor's forecasts, including its [***] forecasts, the Parties will discuss and determine whether Zogenix will obtain additional capacity to support Distributor's requirements for the Product in the Territory. Any decisions to build or engage additional manufacturing capacity for the Territory will be at Zogenix's sole discretion, and in no event will Zogenix be obligated to supply Product in excess of Distributor's binding forecasts.
+
+Product Quality/Complaints. The Supply Agreement will define procedures for resolution of any disputes regarding Product quality and for notification of each Party in the event of a Product complaint or Product recall. The Supply Agreement will contain mutually acceptable provisions regarding release testing of the Product and, if applicable, the transfer of information necessary for Distributor to perform required quality testing, as applicable.
+
+Regulatory Audits. Not more than once per Fiscal Year or as otherwise agreed by the Parties, and subject to the terms of the applicable agreement between Zogenix and its Third Party manufacturers, Zogenix shall, at Distributor's request, conduct GMP audits of the Third Party manufacturers and, if applicable, exercise such other audit rights that Zogenix may have under such agreements, and shall disclose to Distributor the results of such audits. Zogenix will use commercially reasonable efforts to cause such Third Party manufacturers to promptly correct any deficiencies or other adverse findings.
+
+Representations and Warranties. Zogenix shall provide standard warranties applicable in the pharmaceutical industry, including warranties that all Product manufactured for Distributor:
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+shall be manufactured and tested in accordance with all Applicable Laws, including GMP applicable to the manufacturing, storage, and shipment of the Product,
+
+shall not be adulterated or misbranded within the meaning of the United States Food, Drug and Cosmetic Act, 21 U.S.C. Section 301c et. seq., or other Applicable Laws, and
+
+the time of delivery to Distributor will meet the Product specifications.
+
+Quality Agreement. The Parties shall work together in good faith to enter into a mutually acceptable quality agreement with respect to the manufacture of the Product prior to shipment of any Product to Distributor.
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+Exhibit 4.2(a)
+
+THE INITIAL VERSION OF THE REGULATORY PLAN
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+Exhibit 8.5(a)
+
+PRESS RELEASE
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+Exhibit 9.7
+
+ZOGENIX TRADEMARKS
+
+Trademark Country Status Registration number Next renewal date Application number Application date Registration date Class
+
+(Zogenix Logo) Japan Pending N/A N/A 2019031449 2/28/2019 N/A 5, 42
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+Exhibit 9.8
+
+PRODUCT TRADEMARKS
+
+Trademark Country Status Registration number Next renewal date Application number Application date Registration date Class
+
+FINTEPLA Japan Registered 6105099 12/7/2028 2018028557 3/9/2018 12/7/2018 5 (Fintepla Logo) Japan Registered 6093116 10/26/2028 2018028558 3/9/2018 10/26/2018 5
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019
+
+
+
+
+
+Exhibit 10.2(b)
+
+FORM OF COMPLIANCE CERTIFICATION
+
+Date: __________
+
+To: Zogenix, Inc. and its Affiliates ("Zogenix")
+
+Re: Distributorship Agreement dated [ ] ("the Agreement")
+
+For and on behalf of [__________________] and our Affiliates (as defined in the Agreement) and employees, we confirm that in respect of our distribution of Zogenix Product within the Territory during the period [insert date] to [insert date]:-
+
+there was no offer, or promise to make, authorize or provide (directly or indirectly) a gift, payment or anything of value to a government official, political parties or candidates or private sector employee, in order to influence or reward any action or decision by such person in his or her official or professional capacity, for the purpose of corruptly obtaining or retaining business or securing any improper advantage;
+
+all payments, expenses or credits properly paid to or incurred on behalf of Zogenix, were accurately and appropriately recorded and described in accordance with acceptable accounting and recordkeeping procedures, and substantiated by supporting documents and evidence;
+
+there were no unauthorized and/or excessive payments of any kind to health care institutions, hospitals, hospital services or departments; and
+
+has performed the necessary due diligence to ensure compliance with Applicable Laws (including anti-bribery laws and the U.S. FCPA) and the terms of the Agreement.
+
+Please be advised accordingly.
+
+Yours faithfully,
+
+[____________________]
+
+Authorized Representative
+
+Name: Title:
+
+Signature: Date:
+
+US-DOCS\105216871.19
+
+Source: ZOGENIX, INC., 10-Q, 5/9/2019

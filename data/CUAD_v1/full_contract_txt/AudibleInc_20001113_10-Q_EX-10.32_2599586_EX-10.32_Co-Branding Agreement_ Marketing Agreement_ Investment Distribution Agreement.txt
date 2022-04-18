@@ -1,0 +1,499 @@
+EXHIBIT 10.32
+
+               CO-BRANDING, MARKETING AND DISTRIBUTION AGREEMENT
+
+     This Agreement, dated as of January 30, 2000 ("Effective Date"), is made and entered into by and between Amazon.com Commerce Services, Inc., a Delaware corporation ("ACSI"), and Audible Inc. a Delaware corporation ("Company").  ACSI and Company are sometimes referred to collectively herein as the "Parties" and individually as a "Party."  ACSI and Company agree as follows:
+
+Section 1.  Definitions
+
+     Whenever used in this Agreement with initial letters capitalized, the following terms shall have the following specified meanings:
+
+     "ACSI Competitor" means, collectively, such persons and entities as the Parties may agree upon from time to time.  ACSI may update any agreed-upon list of ACSI Competitors no more frequently than once per quarter by written notice, provided that: (a) the number of entities specified on such list shall at no time [***]; (b) any entities added to such list must be [***]; and (c) no addition of any ACSI Competitor to such list shall require Company to breach any contractual or legal obligation to such ACSI Competitor by which Company is bound as of the date of such addition.
+
+     "ACSI Derivative Work" means any Derivative Work (whether created by ACSI, Company, or the Parties jointly) of any ACSI Existing Intellectual Property or ACSI Future Intellectual Property.
+
+     "ACSI Existing Intellectual Property" means, collectively, all of the following existing as of the Effective Date: (a) the Trademarks of ACSI and its Affiliates; and (b) the ACSI Site, including, without limitation, any and all content, data, URLs, domain names, technology, software, code, user interfaces, "look and feel", ACSI Site Functionality, Trademarks and other items posted thereon or used in connection or associated with any of the foregoing.
+
+     "ACSI Future Intellectual Property" means, collectively, all of the following which are invented, created, developed or first reduced to practice by ACSI or its Affiliates after the Effective Date without the participation of Company or its Affiliates: (a) any Trademarks; and (b) any content, data, URLs, domain names, technology, software, code, user interfaces, "look and feel," ACSI Site Functionality and other items (but excluding any Company Derivative Works).
+
+     "ACSI Intellectual Property" means, collectively, any ACSI Existing Intellectual Property, ACSI Future Intellectual Property and ACSI Derivative Works, but excluding any Joint Works.
+
+--------------- ***Confidential Information has been omitted and has been filed separately with the Securities and Exchange Commission.
+
+                                      -1-
+
+     "ACSI Product Section" means a discrete group of products available on the ACSI Site which is identified by a tab or other top-level product category identifier on the ACSI Site Home Page, but excluding: (a) the ACSI Site Home Page itself; and (b) any mechanisms, areas or services on or through which third parties may sell products through the ACSI Site in connection with ACSI's and its Affiliates' programmatic selling initiatives (including, without limitation, the existing "Auctions", "zShops", "Sothebys.amazon.com" and "Amazon.com Advantage" areas and services of the ACSI Site, and any successors or replacements to any of them).
+
+     "ACSI Product Sub-Section" means a discrete sub-set of products in any ACSI Product Section which is accessible by following or using a browse tree or hypertext links on the ACSI Site, and is identified by a permanent product category description on the ACSI Site  (e.g., as opposed to a description generated in response to a user search query), but is not identified by a tab or other top-level product category identifier on the ACSI Site Home Page (e.g., as of the Effective Date, the "business & investing" or "audio books" sub-set of products included in, and accessible through the browse tree of, the ACSI Product Section identified by the "Books" tab on the ACSI Home Page (the "Books Product Section")).
+
+     "ACSI Site" means that Web Site, the primary Home Page of which is identified by the URL www.amazon.com (and any successor or replacement Web                       -------------- Site).  For the avoidance of doubt, the "ACSI Site" does not include any other Web Sites maintained by or for ACSI or its Affiliates (including, without limitation, those Web Sites, the primary Home Pages of which are identified by the URL's www.amazon.co.uk and www.amazon.de).           ----------------     -------------
+
+     "ACSI Site Functionality" means, collectively: (a) tab, search and browse functionality available to users of the ACSI Site for navigating through ACSI Product Sections (including, without limitation, the layout and design thereof); (b) payment and transaction functionality available to users of the ACSI Site for purchasing products (including, without limitation, "shopping cart" and "Payment with 1-Click" functionality), (c) any other functionality available on the ACSI Site which ACSI may make available to Company from time to time, and (d) any future equivalents, improvements and enhancements of any of the foregoing.
+
+     "Affiliate" means, with respect to any person or entity (including either Party), any other person or entity that directly or indirectly controls, is controlled by or is under common control with that person or entity, or which that person or entity beneficially owns at least fifty percent (50%) of the equity interests therein (provided, however, that with respect to the Parties, no individual or entity as to which the ultimate parent entity of a Party does not directly or indirectly control the operations or management thereof (e.g., in the case of ACSI as of the date of this Agreement, Gear.com, Inc.) shall be deemed to be an Affiliate of such Party for purposes of this Agreement).
+
+     "Annual Fee" means the sum of [***], representing the fixed fee payable by Company to ACSI with respect to each Year.
+
+---------------
+
+Source: AUDIBLE INC, 10-Q, 11/13/2000
+
+
+
+
+
+***Confidential Information has been omitted and has been filed separately with the Securities and Exchange Commission.
+
+                                      -2-
+
+     "Change of Control" means, with respect to Company, a transaction or series of related transactions that results in (a) a sale of all or substantially all of the assets of Company, (b) the transfer of fifty percent (50%) or more of the outstanding voting power of Company (other than directly or indirectly to a parent or wholly-owned subsidiary of Company), or (c) the acquisition by a person or entity, by reason of any contractual arrangement or understanding with one or more persons or entities, of the right or power to appoint or cause to be appointed a majority of the directors or officers of Company.
+
+     "Claim" means any claim, action or proceeding instituted by a third party (other than an Affiliate of a Party), including, without limitation, any governmental authority.
+
+     "Closing" means the consummation of the purchase of common stock of Company pursuant to the Securities Purchase Agreement between ACSI and Company dated on or about the Effective Date (the "Securities Purchase Agreement").
+
+     "Company Derivative Work" means any Derivative Work (whether created by ACSI, Company, or the Parties jointly) of any Company Existing Intellectual Property or Company Future Intellectual Property.
+
+     "Company Existing Intellectual Property" means, collectively, all of the following existing as of the Effective Date: (a) the Trademarks of Company and its Affiliates; (b) the Company Site, including, without limitation, any and all content, data, URLs, domain names, technology, software, code, user interfaces, "look and feel," Trademarks and other items posted thereon or used in connection or associated with any of the foregoing
+
+     "Company Future Intellectual Property" means, collectively, all of the following which are invented, created, developed or first reduced to practice by Company or its Affiliates after the Effective Date without the participation of ACSI or its Affiliates: (a) any Trademarks; and (b) any content, data, URLs, domain names, technology, software, code, user interfaces, "look and feel" or other items (but excluding any ACSI Derivative Works).
+
+     "Company Intellectual Property" means, collectively, any Company Existing Intellectual Property, Company Future Intellectual Property, and Company Derivative Works, but excluding any Joint Works.
+
+     "Company Site" means, collectively: (a) that Web Site, the primary Home Page for which is identified by the URL www.audible.com (and any successor or replacement Web Site); and (b) any other Web Sites operated by or for Company or its Affiliates from time to time (excluding the Mirror Company Site) through which Spoken-Word Audio Products are sold or offered for sale.
+
+     "Confidential Information" means, with respect to either Party, all information relating to such Party or its Affiliates that is designated as confidential or that, given the nature of the information or the circumstances surrounding its disclosure, reasonably should
+
+                                      -3-
+
+be considered as confidential. Confidential Information includes, without limitation, (a) all information relating to a Party's or its Affiliates' technology, customers, business plans, promotional and marketing activities, finances and other business affairs; (b) all third party information that a Party or its Affiliates is obligated to keep confidential; and (c) the terms of this Agreement. Confidential Information may be contained in tangible materials, such as drawings, data, specifications, reports and computer programs, or may be in the nature of unwritten knowledge. Confidential Information does not include any information that (i) has become publicly available without breach of this Agreement, (ii) can be shown by documentation to have been known to the Receiving Party at the time of its receipt from the Disclosing Party or its Affiliates without a breach of confidentiality or other improper means, (iii) is received from a third party who did not acquire or disclose such information by a wrongful or tortious act or (iv) can be shown by documentation to have been independently developed by the Receiving Party without reference to any Confidential Information.
+
+     "Derivative Work" means any adaptation, modification, enhancement, improvement or derivative work.
+
+     "Disclosing Party" means a Party that discloses Confidential Information to the other Party in connection with this Agreement.
+
+     "Exclusive Spoken-Word Audio Products" means: (a) spoken-word audio-only products, in a format suitable for digital download and/or streaming, [***]
+
+     "Existing ACSI Product Section" means any ACSI Product Section identified on the ACSI Site Home Page as of the Effective Date, as shown in the screen shot attached as Exhibit A.
+
+     "Home Page" means, with respect to a Web Site or section of a Web Site (e.g., any section of the ACSI Site primarily related to an ACSI Product Section or ACSI Product Sub-Section), the Web page designated by the operator of the Web Site as the initial and primary end user interface for such Web Site or section of a Web Site.
+
+     "Internet Radio Service" means a service through which users may receive interactive or other broadcasts via the Internet or other public or private data networks.
+
+     "Joint Work" means any content, data, URLs, domain names, technology, software, code, user interfaces, "look and feel" or other items which are invented, created, developed or first reduced to practice jointly by the Parties after the Effective Date, are protected or protectable by any Intellectual Property Rights and either: (a) include or incorporate both ACSI Existing Intellectual Property, ACSI Future Intellectual Property and/or ACSI Derivative Works, on the one hand, and/or Company Existing Intellectual Property, Company Future Intellectual Property and/or Company Derivative Works, on the other hand; or (b) include or incorporate no ACSI Existing Intellectual Property or ACSI
+
+Source: AUDIBLE INC, 10-Q, 11/13/2000
+
+
+
+
+
+Derivative Works, on the one hand, or Company Existing Intellectual Property or Company Derivative Works, on the other hand; provided, however, that notwithstanding any other provision of this Agreement, to the extent that any such items incorporate in whole or in part any ACSI
+
+--------------- ***Confidential Information has been omitted and has been filed separately with the Securities and Exchange Commission.
+
+                                      -4-
+
+Site Functionality or technology, software, code, user interfaces or "look and feel" related thereto or incorporated therein, such items shall be deemed ACSI Derivative Works in their entirety and not Joint Works or Company Intellectual Property.
+
+     "Incentive Offer" means either (a) a discount in the purchase price of Spoken-Word Audio Products offered for sale from or through the Spoken-Word Audio Sub-Section or (b) an equivalent benefit upon purchase of a Spoken-Word Audio Product from or through the Spoken-Word Audio Sub-Section.
+
+     "Intellectual Property Right" means any patent, copyright, trademark, trade dress, trade name or trade secret right and any other intellectual property or proprietary right.
+
+     "Launch Date" means the date on which the Parties mutually agree to launch the Spoken-Word Audio Sub-Section, but in any event no later than 90 days after the Effective Date.
+
+     "Law" means any law, ordinance, rule, regulation, order, license, permit and other requirement, now or hereafter in effect, of any governmental authority of competent jurisdiction.
+
+     "Mirror Company Site" means a "mirrored" version of that Web Site, the primary Home Page for which is identified by the URL www.audible.com (and any successor or replacement Web Site).  The primary home page of the Mirror Company Site shall be identified by the URL www.amazon.audible.com (or such other URL as                                     ---------------------- the Parties may agree upon).
+
+     "Proration Percentage" means, as of any date within the Refund Period, the following quantity, expressed as a percentage: (a) one (1); minus (b) the sum of: (i) the number of days of the Refund Period which have elapsed prior to such date; divided by (ii) the total number of days in the Refund Period.
+
+     "Non-Exclusive Spoken-Word Audio Products" means spoken-word audio-only products, in a format suitable for digital download and/or streaming (excluding Exclusive Spoken-Word Audio Products and Related Products), [***]
+
+     "Receiving Party" means a Party that receives Confidential Information from the other Party in connection with this Agreement.
+
+     "Referral Information" means any information disclosing that a specific end-user traveled from the ACSI Site to the Mirror Company Site or purchased any products through the Spoken-Word Audio Sub-Section (however obtained), or other personally-identifying information regarding users of the ACSI Site (including the Spoken-Word Audio Sub-Section).
+
+--------------- ***Confidential Information has been omitted and has been filed separately with the Securities and Exchange Commission.
+
+                                      -5-
+
+     "Refund Period" means the period of time from the date upon which Company makes the payment called for by Section 5.2.1  [Annual Fees] (or is deemed to have made such payment pursuant to Section 5.3  [Waiver of Payment Obligations]) until the end of Year 2.
+
+     "Related Products" means: [***]
+
+     "Site" means either the ACSI Site, on the one hand, or the Mirror Company Site and Company Site collectively, on the other hand, as required by the context.
+
+     "Spoken-Word Audio Products" means, collectively, Exclusive Spoken-Word Audio Products, Related Products and Non-Exclusive Spoken-Word Audio Products.
+
+     "Spoken-Word Audio Sub-Section" means an ACSI Product Sub-Section, to be created pursuant to this Agreement, featuring Spoken-Word Audio Products (but subject to Section 9.2 with respect to Related Products) and which shall be identified on the ACSI Site by such heading as the Parties may agree upon.
+
+     "Term" means the term of this Agreement as defined in Section 10.
+
+     "Trademark" means any trademark, service mark, trade name, trade dress, proprietary logo or insignia or other source or business identifier.
+
+     "Web Site" means any point of presence maintained on the Internet or on any other public or private data network.  With respect to any Web Site maintained on the World Wide Web or any successor public data network, such Web Site includes all HTML pages (or similar unit of information presented in any relevant data protocol) that either (a) are identified by the same second-level domain (such as http://www.amazon.com) or by the same equivalent level identifier in any relevant address scheme, or (b) contain branding, graphics, navigation or other characteristics such that a user reasonably would conclude that the pages are part of an integrated information or service offering.
+
+     "Year" means any period of twelve (12) consecutive months commencing on the Effective Date.
+
+Section 2.  Spoken-Word Audio Sub-Section and Mirror Company Site
+
+     2.1  Spoken-Word Audio Sub-Section.  Pursuant to the implementation procedures set forth in Section 4, ACSI will establish and, upon and following the Launch Date, maintain (or cause one of its Affiliates to maintain) on the ACSI Site during the Term
+
+Source: AUDIBLE INC, 10-Q, 11/13/2000
+
+
+
+
+
+-------- *** Confidential Information has been omitted and has been filed separately with     the Securities and Exchange Commission.
+
+                                      -6-
+
+the Spoken-Word Audio Sub-Section. In order to provide a harmonious and consistent user experience, the presentation, format, functionality and operation of the Spoken-Word Audio Sub-Section shall be generally consistent with that of other similar ACSI Product Sub-Sections (including, without limitation, by incorporating category headings and other navigational aids for specific types of Spoken-Word Audio Products offered by Company), except that ACSI will include prominent branding for Company where appropriate on pages of the Spoken-Word Audio Sub-Section. Subject to the foregoing and to Section 6, ACSI will determine the content, appearance, functionality and all aspects of the ACSI Site (including the Spoken-Word Audio Sub-Section) [***]
+
+     2.2  Certain Company Obligations.  As of and following the Launch Date, Company will (a) maintain the Mirror Company Site, [***], (b) ensure that every page of the Mirror Company Site displays prominent, above-the-fold, graphical hypertext links (to be designed by ACSI and subject to Company's prior approval, which shall not be unreasonably withheld or delayed) which, when clicked, return the user to the ACSI Site, together with such other branding and Trademarks of ACSI as ACSI and Company may agree upon to be appropriate (provided, that if the Parties cannot agree upon such branding and Trademarks, notwithstanding any other provision of this Agreement, ACSI shall have no obligation to establish or maintain the Spoken-Word Audio Sub-Section until such time as the Parties have agreed upon the same; and provided further, that any disagreement shall be subject to the escalation procedure specified in Section 2.8  [Escalation of Certain Disputes] below), (c) ensure that the Mirror Company Site does not contain links to any Web Site other than the ACSI Site (including, without limitation, to the Company Site), (d) ensure that substantially all Spoken-Word Audio Products (and any other products approved by ACSI) available through the Company Site are available through the Spoken-Word Audio Sub-Section (but subject to Section 9.2 with respect to Related Products), (e) [***], and (f) [***].  Subject to the foregoing, Company shall have the right to limit the number of promotional incentives (e.g. free give-aways, low-cost promotional offers and the like) that are offered through the Spoken-Word Audio Sub-Section based upon the volume of traffic if such volume were to place Company in commercially untenable position as solely determined by Company.  Unless otherwise agreed by the Parties in writing, Company will be solely responsible for all pricing, delivery and fulfillment of any products, including Spoken-Word Audio Products offered by Company on or through the Spoken-Word Audio Sub-Section (including the Mirror Company Site).
+
+     2.3  [***].
+
+     2.4  Technical Standards; Customer Service.  Company will at all times comply with the technical and customer service requirements and Site standards (including, without limitation, user privacy policies and customer guarantees) to be agreed upon by the Parties within forty-five (45) days after the Effective Date and attached hereto as Exhibit B.  Any dispute arising related to the creation of such requirements and standards shall be subject to the escalation procedure specified in Section 2.8  [Escalation of Certain Disputes] below.  Without limiting the generality of the foregoing Company will: (a) at all times conduct its dealings with users of the Spoken-Word Audio Sub-Section in a professional and courteous manner which reflects favorably upon ACSI and its Affiliates and the ACSI Site; and (b) in any event ensure that the customer
+
+--------------- ***Confidential Information has been omitted and has been filed separately with the Securities and Exchange Commission.
+
+                                      -7-
+
+service provided to users of the Spoken-Word Audio Sub-Section (including, without limitation, in regard to product fulfillment and responsiveness to customer inquiries) is of as high a standard as is commercially reasonably possible and as good or better than that generally provided by any other online seller of Spoken-Word Audio Products in a format suitable for digital download.
+
+     2.5  Referral Information.  Company will not disclose any Referral Information to any third party (except for third parties acting directly on behalf of Company in connection with Company's internal business and who have agreed in writing to maintain the same in confidence), or use or permit any third party to use any Referral Information to target communications specifically to users of the ACSI Site, primarily on the basis of such persons' being users of the ACSI Site, without ACSI's prior written consent (provided, however, that nothing in the foregoing shall prohibit Company from contacting its own customers generally (including contacting users of the ACSI Site as part of any such general contacts) or prohibit Company from using non-personal statistical information regarding such users in the aggregate for any purpose without ACSI's consent).  [***]
+
+     2.6  ACSI Site Re-Design.  Notwithstanding any other provision of this Agreement, nothing in this Agreement shall limit ACSI's and its Affiliates' ability to re-design or modify the appearance, content and functionality of the ACSI Site (including any ACSI Product Section, ACSI Product Sub-Section, or any Home Pages); provided, however, that in the event that ACSI and/or its Affiliates redesign or revise the ACSI Site or any ACSI Product Section, the treatment of the Spoken-Word Audio Sub-Section in connection with such re-design or revision will be substantially similar to and consistent with the treatment of other ACSI Product Sub-Sections on the ACSI Site.
+
+     2.7  Traffic Data.  Throughout the Term, on a monthly basis, Company will provide ACSI all relevant data requested from time to time by ACSI concerning behavior on the Mirror Company Site, to the extent such behavior reasonably relates to the online promotion or sale of products sold through the ACSI Site and/or Mirror Company Site and such data is reasonably available.  ACSI and its Affiliates will hold such data in confidence and will not use it except in connection with their marketing efforts or as otherwise may be  agreed by Company in writing.  Notwithstanding anything contained in this Section 2.7  [Traffic Data], Company will not be required to deliver to ACSI any user data in contravention of any applicable Law or Company's privacy policy (provided, that if Company modifies its privacy policy, Company shall revise the same in a manner which provides it the maximum legally permissible flexibility to provide the data
+
+Source: AUDIBLE INC, 10-Q, 11/13/2000
+
+
+
+
+
+specified in this Section 2.7  [Traffic Data] to ACSI).
+
+     2.8  Escalation of Certain Disputes.  If any dispute arises relating to the matters described in Section 2.2(b)  [Certain Company Obligations], Section 2.4  [Technical Standards; Customer Service] or Section 4.1.3 of this Agreement, and the Parties are unable to resolve the dispute in the ordinary course of business, the Parties will use good-faith efforts to resolve the matter in accordance with this Section 2.8  [Escalation of Certain Disputes].  Within three (3) days
+
+--------------- ***Confidential Information has been omitted and has been filed separately with the Securities and Exchange Commission.
+
+                                      -8-
+
+following the written request of either Party (which will describe the nature of the dispute and other relevant information), the Parties' managers who are responsible for the ACSI/Company relationship will meet to resolve the dispute at a mutually convenient time and place.  If the relationship managers are unable to resolve the dispute within two (2) days following their initial meeting, they will refer the matter to the Parties' divisional executives who are responsible for the administration of this Agreement, along with a written statement (or statements) describing the nature of the dispute and other relevant information.  Within three (3) days following the referral of the matter to the Parties' divisional executives, the divisional executives will meet to resolve the dispute at a mutually convenient time and place.  Additional representatives of the Parties (but not their relationship managers) may be present at the meeting.  If the divisional executives are unable to resolve the dispute within two (2) days following their initial meeting, they will refer the matter to the Parties' Presidents, along with a written statement (or statements) describing the nature of the dispute and other relevant information. Within three (3) days following the referral of the matter to the Parties' Presidents (or equivalent officers), the Presidents will meet to resolve the dispute at a mutually convenient time and place.  Additional representatives of the Parties (but not their relationship managers or divisional executives) may be present at the meeting.  If the Presidents are unable to resolve the dispute within two (2) days following their initial meeting (or such later date as they may agree), the Parties will be free to exercise such rights and remedies as may be available to them at law or in equity. Any resolution of any dispute reached under this Section 2.8  [Escalation of Certain Disputes] will be reduced to writing and signed by the Parties. During any dispute resolution procedure conducted under this Section, the Parties will diligently perform all obligations hereunder that are not directly related to the dispute.
+
+Section 3.  Promotional Activities
+
+     3.1    Press Releases. The Parties will issue a joint press release promptly upon concluding Advertising. this Agreement, which press release shall be subject to the Party's mutual approval, which shall in any event state that Company is the exclusive provider on the ACSI Site of premium spoken-word audio product for download or streaming over the world wide web. The Parties shall have the right to issue mutually agreeable additional press releases describing the nature of their relationship at such times as the Parties shall mutually agree. Neither Party will issue any other press releases, make any other disclosures regarding this Agreement or its terms or the relationship between the Parties, or use the other Party's Trademarks (except as permitted by Section 6), without the other Party's prior written consent, except that, each Party may, without the other Party's prior consent: (y) distribute or issue public relations materials or press releases that contain a description of the relationship between the Parties, provided that such description has been approved in advance by such other Party (which approval shall not be unreasonably withheld or delayed); and (z) speak in public regarding disclosures made pursuant to the first sentence of this Section 3.1  [Press Releases]. Parties will be able to include a description of this strategic partnership in the "company descriptor" section of standard releases, subject to initial mutual approvals.
+
+                                      -9-
+
+3.2  Advertising
+
+     3.2.1  Amazon.com Customer Base.   During each Year of the Term following the Launch Date, ACSI (or one of its Affiliates) will deliver Amazon.com-branded e-mails and Amazon.com-branded in-product advertising materials related to the Spoken-Word Audio Sub-Section to selected members of the Amazon.com customer base in at least the following quantities:
+
+---------------------------------------------------------------------------------------------             Year                           Email                      Product Shipment -----------------------------    --------------------------    ------------------------------ ---------------------------------------------------------------------------------------------                                                                        1                            [***]                            [***] ---------------------------------------------------------------------------------------------              2                            [***]                            [***] ---------------------------------------------------------------------------------------------              3                            [***]                            [***] ---------------------------------------------------------------------------------------------
+
+     The Parties shall mutually agree on the nature of such advertising; [***]. With respect to all email advertising, ASCI and Company shall pre-test and plan such advertising in a manner generally consistent with the pre-testing and planning conducted by ACSI and its Affiliates with respect to advertising for other ACSI Product Sub-Sections, with the goal of achieving maximum commercial effectiveness for such advertisements (including, without limitation, by attempting to spread out such advertising in order to not unnecessarily "bunch" the same).  [***]
+
+     3.2.2  Customer Subscription Emails.   [***]
+
+     3.2.3  Company.  [***]
+
+     3.3    Certain Covenants.  [***]
+
+Source: AUDIBLE INC, 10-Q, 11/13/2000
+
+
+
+
+
+Section 4.  Implementation
+
+     4.1    Spoken-Word Audio Sub-Section and Mirror Company Site.
+
+            4.1.1  Generally. During the Term, the Parties will cooperate in good faith and use commercially reasonable efforts to provide a seamless customer experience of full interactivity between the Spoken-Word Audio Sub- Section and the Mirror Company Site. The Parties anticipate that the activities contemplated by this Section 4.1.1  [Generally] will be performed in two phases, as set forth in Section 4.1.2  [Implementation] and Section 4.1.3  [Phase II] below.
+
+            4.1.2  Phase I.  Between the Effective Date and the Launch Date, the Parties shall perform such work as may be necessary to develop the Spoken-Word Audio Sub-Section (in the case of ACSI) and the Mirror Company Site (in the case of Company).  Upon the Launch Date, ACSI will establish the Spoken-Word Audio Sub-Section under the browse tree (or equivalent navigation structure) of the Books Product Section, and Company will establish the Mirror Site.  The Spoken- Word Audio Sub-Section will contain, among such
+
+--------------- ***Confidential Information has been omitted and has been filed separately with the Securities and Exchange Commission.
+
+                                     -10-
+
+other content as may be contained therein pursuant to Section 2.1  [Spoken-Word Audio Sub-Section], multiple hypertext links that will allow users to navigate directly to the Mirror Company Site.
+
+          4.1.3  Phase II. [***], the Parties shall have fully integrated the ACSI Site Functionality into the Mirror Company Site pursuant to specifications and schedules (the "Phase II Development Plan") that shall be developed by ACSI in consultation with Company, which specification and schedules shall be attached hereto as Exhibit C, [***].  Any dispute arising related to the creation of the Phase II Development Plan shall be subject to the escalation procedure specified in Section 2.8  [Escalation of Certain Disputes].Without limiting the generality of the foregoing, ACSI and Company will cooperate to implement ACSI Site Functionality for the Spoken-Word Audio Sub-Section (including the Mirror Company Site) in a manner consistent with the ACSI Site Functionality provided in other ACSI Product Sub-Sections, and Company and ACSI will use commercially reasonable efforts to perform, in a timely and professional manner, all technical work necessary to seamlessly integrate the ACSI Site Functionality into the Mirror Company Site, in accordance with the Phase II Development Plan.
+
+          4.1.4  Tax Matters.  [***]
+
+     4.2  ACSI Site Links.  Upon the Launch Date, ACSI will post permanent and/or rotating links to the Home Page of the Spoken-Word Audio Sub-Section on relevant pages of the ACSI Site in a manner substantially similar to and generally consistent with the posting of links to other similar ACSI Product Sub-Sections (e.g., as of the Effective Date, the ACSI Product Sub-Section identified as "Audiobooks").  [***]
+
+     The Parties shall consult together in connection with the specific nature, prominence and positioning of the links posted on the ACSI Site pursuant to this Section 4.2  [ACSI Site Links]; [***].
+
+     4.3  Account Managers.  Each Party will assign an account manager (which manager shall be subject to change from time to time by the assigning Party) to oversee the performance of such Party's obligations under this Agreement and to facilitate coordination of the Parties' performance of their respective obligations (including, without limitation, the establishment of the Spoken-Word Audio Sub-Section, the creation of the Co-Branded Pages, the integration of the ACSI Site Functionality with the Mirror Company Site, and the advertising activities contemplated in Section 3).  The account managers will meet from time to time during the Term to review the implementation of this Agreement and to explore methods for improving performance.
+
+     4.4  Regulatory Compliance
+
+          4.4.1  Company will comply, and will ensure that the Mirror Company Site, the Spoken-Word Audio Products and all other activities undertaken through or in connection with the Mirror Company Site and this Agreement (including, without limitation, the participation of ACSI and its Affiliates as contemplated by this Agreement) comply with all applicable Laws.
+
+--------------- ***Confidential Information has been omitted and has been filed separately with the Securities and Exchange Commission.                                      -11-
+
+          4.4.2  Company will provide reasonable assistance to ACSI and ACSI's Affiliates in all regulatory compliance activities required in connection with the advertising, operation, maintenance and sale of Spoken-Word Audio Products on and through the Spoken-Word Audio Sub-Section, including, but not necessarily limited to, assisting ACSI in identifying, obtaining and maintaining in force any and all licenses and permits necessary for ACSI and its Affiliates in connection with any of the foregoing.  In connection with the foregoing regulatory compliance activities, Company will reimburse ACSI for any reasonable costs (including legal costs) incurred by ACSI or its Affiliates in connection with identifying and obtaining any and all such licenses and permits. Notwithstanding the foregoing, ACSI acknowledges and agrees that Company shall have no obligation to assist ACSI in any regulatory compliance activities related to, or reimburse ACSI for any costs incurred by ACSI or its Affiliates in connection with identifying or obtaining any licenses or permits required in connection with, any advertising, operation, maintenance or sale of Spoken-Word Audio Products or other products sold by ACSI or its Affiliates independently through the ACSI Site without the participation of Company.
+
+       4.5  Staffing. Each Party will dedicate during the Term the appropriate resources and personnel necessary for establishment of the Spoken-Word Audio Sub-Section, the integration of the ACSI Site Functionality into the Mirror Company Site and the performance of its other obligations under this Agreement. Each Party's designated employees will be subject to change from time to time by such Party in its sole discretion and promptly upon such change such Party shall
+
+Source: AUDIBLE INC, 10-Q, 11/13/2000
+
+
+
+
+
+notify the other Party.
+
+Section 5.  Compensation
+
+       5.1  In consideration of the intangible rights granted and services to be performed by ACSI during the Term, Company will pay ACSI the consideration specified in this Section.
+
+       5.2  Annual Fees.
+
+            5.2.1  Upon the Closing, subject to Section 5.3  [Waiver of Payment Obligations], Company will pay ACSI via wire transfer the sum of [***] (the "Company Closing Payment"), representing payment of the Annual Fee for the first Year of the Term and a pre- payment of the Annual Fee for the second Year of the Term.
+
+            5.2.2  On the first day of Year 3, Company will pay ACSI via wire transfer the sum of [***], representing the Annual Fee payable with respect to Year 3; provided, however, that if ACSI so elects by written notice delivered to Company at least ten (10) days prior to the end of Year 2, Company shall instead issue at the beginning of Year 3 to ACSI  (or such of its Affiliates as it may designate) shares of common stock of Company (or any publicly-traded Affiliate thereof) with a then-current fair market value equal to [***] as of the date of such written notice (the "Year 3 Shares").
+
+     5.3    Waiver of Payment Obligations.  At the Closing, the Company Closing Payments due to ACSI pursuant to Section 5.2.1  [Annual Fees] hereof and the Shares Consideration (as defined in the Securities Purchase Agreement) due to the Company pursuant to Section 1.2 of
+
+--------------- ***Confidential Information has been omitted and has been filed separately with the Securities and Exchange Commission.                                      -12-
+
+the Securities Purchase Agreement, which amounts are identical, shall offset each other solely for the purpose of determining the actual fund transfers required at Closing. ASCI acknowledges and agrees that the entire amount of the Company Closing Payments shall be deemed paid and received upon the issuance of the Common Stock (as defined in the Securities Purchase Agreement).
+
+     5.4  Royalties.  In consideration for the intangible rights granted hereunder, for each Year in which the Spoken-Word Audio Sub-Section (including the Mirror Company Site) generates revenue of at [***] (the "Revenue Threshold"), Company will pay ACSI a royalty equal to [***] of all revenues generated from the Spoken-Word Audio Sub-Section (including, for the avoidance of doubt, any revenue received by Company from any Company customer who first links to the Mirror Company Site from the Spoken-Word Audio Sub-Section and who later accesses the Company Site directly) in excess of Revenue Threshold (the "Royalties") for each Year of the Term.  Company will pay ACSI any Royalties payable pursuant to this Section 5.4  [Royalties] on an annual basis, in arrears, as follows: within thirty (30) days after the end of each Year as to which any Royalties are payable, Company will remit to ACSI the Royalties payable with respect to such Year, together with a report specifying in reasonable detail: (a) the gross revenue generated by the Spoken-Word Audio Sub-Section; and (b) Company's calculation of the  Royalties.
+
+     5.5  Overdue Payments.  Payments called for by this Section 5 which are not received within five (5) business days after the date upon which payment is due will bear interest at a rate equal to the lesser of one and one-half percent (1- 1/2%) per month or the maximum legal rate permitted under the controlling Laws. Payment of such interest shall not cure or excuse any breach of any underlying payment obligation.
+
+     5.6  Allocation of Payments.  The Parties acknowledge and agree that the Annual Fees shall be allocated as consideration for advertising services and intangible rights granted by ACSI to Company hereunder, including the rights granted under Section 2.1  [Spoken-Word Audio Sub-Section] and Section 4.2  [ACSI Site Links] and the licenses granted to Company under Section 6, as follows:
+
+             Year                    Advertising Services             Intangible Rights ----------------------------------------------------------------------------------------------                                                                               1                             [***]                           [***] ----------------------------------------------------------------------------------------------               2                             [***]                           [***] ----------------------------------------------------------------------------------------------               3                             [***]                           [***] ----------------------------------------------------------------------------------------------
+
+--------------- ***Confidential Information has been omitted and has been filed separately with the Securities and Exchange Commission.
+
+                                     -13-
+
+Section 6.  Proprietary Rights
+
+      6.1   Ownership.
+
+            6.1.1  As between the Parties, ACSI reserves all right, title and interest in and to the ACSI Intellectual Property, along with all Intellectual Property Rights associated therewith and no title to or ownership of any of the foregoing is transferred or, except as expressly set forth in Section 6.2  [ACSI License], licensed to Company or any other person or entity pursuant to this Agreement.
+
+            6.1.2  As between the Parties, Company reserves all right, title and interest in and to the Company Intellectual Property, along with all Intellectual Property Rights associated therewith and no title to or ownership of any of the foregoing is transferred or, except as expressly set forth in Section 6.3  [Company License], licensed to ACSI or any other person or entity pursuant to this Agreement.
+
+Source: AUDIBLE INC, 10-Q, 11/13/2000
+
+
+
+
+
+            6.1.3  To the maximum extent permitted by applicable Laws, any ACSI Derivative Works or Company Derivative Works, to the extent created by or for the other Party, shall be deemed "works made for hire", and all right, title and interest therein shall vest in ACSI (in the case of ACSI Derivative Works) or Company (in the case of Company Derivative Works) immediately upon creation thereof. To the extent that any such ACSI Derivative Works or Company Derivative Works are not "works made for hire", Company hereby assigns and agrees to assign to ACSI (or such of its Affiliates as it may designate) all right, title and interest to all ACSI Derivative Works and all associated Intellectual Property Rights, and ACSI hereby assigns and agrees to assign to Company (or such of its Affiliates as it may designate) all right, title and interest in and to all Company Derivative Works and all associated Intellectual Property Rights. Each Party shall take, at the other Party's expense, any actions (including, without limitation, execution and delivery of affidavits and other documents) reasonably requested by such other Party to effect, perfect or confirm its or its designee's ownership rights as set forth in this Section 6.1.3  [Ownership].
+
+            6.1.4  To the extent that any Joint Works are created in the course of performance of this Agreement, each Party shall own a joint, equal and undivided ownership interest in and to such Joint Works and the associated Intellectual Property Rights, with no duty on the part of either Party to account to the other with respect to its use and exploitation of the same. Each Party shall own all right, title and interest in and to any Derivative Works of any Joint Works created by or for such Party and all Intellectual Property Rights associated therewith (to the extent not also associated with the Joint Works). Without limiting the generality of the foregoing, either Party may, without any duty to account to the other (including, without limitation, any duty to pay, share or account for any royalties):
+
+          (a) make, manufacture, assemble, produce, market, sell, distribute,      transfer, use, license and otherwise commercially and non-commercially      exploit and deal with the Joint Works; provided, that neither Party shall      seek or obtain any
+
+                                     -14-
+
+     registration of any Intellectual Property Rights associated with the Joint      Works without the other Party's prior written consent;
+
+          (b) make, manufacture, assemble, produce, market, sell, distribute,      transfer, use, license, seek and obtain registrations of Intellectual      Property Rights (subject to paragraph (a) above) and otherwise commercially      and non-commercially exploit and deal with Derivative Works of any Joint      Works created by or for such Party, whether or not competitive with any      items created by or for the other Party; and
+
+          (c) authorize any third party to take any action described in (a) or      (b) above.
+
+     6.2  ACSI License.  ACSI hereby grants to Company, during the Term, a non- exclusive, non-transferable (except in accordance with Section 11.7  [Assignment]) license, which Company may sublicense only to its Affiliates, to use the ACSI Intellectual Property supplied by ACSI to Company as is reasonably necessary to perform its obligations under this Agreement; provided, however, that Company shall not use ACSI's Trademarks, including in any advertising, without ACSI's prior written consent, unless such use conforms to a written Trademark use policy previously furnished by ACSI to Company and not subsequently modified or revoked.  All goodwill arising out of any use of any of ACSI's or its Affiliates' Trademarks by, through or under Company will inure solely to the benefit of ACSI and its Affiliates.
+
+     6.3  Company License.  Company hereby grants to ACSI, during the Term, a non-exclusive, non-transferable (except in accordance with Section 11.7  [Assignment]) license, which ACSI may sublicense only to its Affiliates, to use the Company Intellectual Property supplied by Company to ACSI as is reasonably necessary to perform its obligations under this Agreement; provided, however, that ACSI shall not use Company's Trademarks, including in any advertising, without Company's prior written consent, unless such use conforms to a written Trademark use policy previously furnished by Company to ACSI and not subsequently modified or revoked.  All goodwill arising out of any use of any of Company's Trademarks by, through or under ACSI will inure solely to the benefit of Company.
+
+     6.4  Non-Disparagement.  Neither Company nor ACSI will use the other Party's Trademarks in a manner that disparages the other Party or its products or services, and/or portrays the other Party or its products or services in a false, competitively adverse or poor light.  Each of Company and ACSI will comply with the other Party's requests as to the use of the other Party's Trademarks and will avoid knowingly taking any action that diminishes the value of such Trademarks.
+
+Section 7.  Representations; Indemnity
+
+     7.1  Representations.  Each Party represents and warrants to the other that: (a) it has the full corporate right, power and authority to enter into this Agreement and perform its obligations hereunder; (b) its performance of this Agreement, and the other Party's exercise of such other Party's rights under this Agreement, will not conflict with or result in a breach
+
+                                     -15-
+
+or violation of any of the terms or provisions or constitute a default under any agreement by which it is bound; (c) when executed and delivered, this Agreement will constitute its legal, valid and binding obligation enforceable against it in accordance with its terms; and (d) it will comply with all applicable Laws in its performance of this Agreement.
+
+     7.2  Indemnity.  Each Party (as applicable, the "Indemnifying Party") will defend, indemnify and hold harmless the other Party (the "Indemnified Party") and its Affiliates (and their respective employees, directors and representatives) from and against any and all claims, costs, losses, damages, judgments and expenses (including reasonable attorneys' fees) arising out of any Claim, to the extent it is based on (a) the operation or content of the Indemnifying Party's Site (other than any items or materials supplied, or operation or content required, by the Indemnified Party), (b) the offer, marketing or sale of any products or services through the Indemnifying Party's Site (other than any products offered, marketed or sold by the Indemnified Party
+
+Source: AUDIBLE INC, 10-Q, 11/13/2000
+
+
+
+
+
+through such Site, the Parties acknowledging that Company shall be deemed the Indemnifying Party as to any Claim related to any products offered, marketed or sold by Company through the Spoken-Word Audio Sub-Section and/or Mirror Company Site, except to the extent that such Claim relates to any ACSI Site Functionality or other items or content provided by or for ACSI with respect to the Spoken-Word Audio Sub-Section and/or Mirror Company Site), (c) any actual or alleged breach of the Indemnifying Party's representations or warranties set forth in Section 7.1  [Representations] above, or, in the case of Company, its obligations under Section 4.4  [Regulatory Compliance]  above, or (d) any actual or alleged infringement of any Intellectual Property Rights by any content, items or materials provided by the Indemnifying Party to the Indemnified Party for its use under this Agreement. Subject to Section 7.3  [Procedure], the Indemnifying Party will pay any award against the Indemnified Party and its Affiliates (and their respective employees, directors or representatives) and any costs and attorneys' fees reasonably incurred by them resulting from any such Claim.
+
+     7.3  Procedure.  In connection with any Claim described in this Section 7, the Indemnified Party will (a) give the Indemnifying Party prompt written notice of the Claim, (b) cooperate with the Indemnifying Party (at the Indemnifying Party's expense) in connection with the defense and settlement of the Claim, and (c) permit the Indemnifying Party to control the defense and settlement of the Claim, provided that the Indemnifying Party may not settle the Claim without the Indemnified Party's prior written consent (which will not be unreasonably withheld).  Further, the Indemnified Party (at its cost) may participate in the defense and settlement of the Claim with counsel of its own choosing.  Unless the Indemnifying Party notifies the Indemnified Party in writing within five (5) days of its receipt of notice of any Claim that it irrevocably elects not to assume the defense of such Claim, the Indemnifying Party shall be deemed to have elected to assume the defense of such Claim.  If the Indemnifying Party elects not to assume the defense of any Claim, or having assumed the defense of any Claim fails to pursue diligently the defense thereof, the Indemnifying Party shall be deemed to have irrevocably waived any right to participate in or control the defense or settlement of such Claim and the Indemnified Party shall be entitled to sole control of the defense and settlement of such Claim (without limitation of the Indemnifying Party's indemnity obligations under this Section 7).
+
+                                     -16-
+
+Section 8.  Disclaimers, Limitations and Reservations
+
+     8.1  DISCLAIMER OF WARRANTIES.  EXCEPT AS PROVIDED IN SECTION 7.1  [Representations] ABOVE, NEITHER PARTY MAKES, AND EACH PARTY HEREBY WAIVES AND DISCLAIMS, ANY REPRESENTATIONS OR WARRANTIES REGARDING THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY, INCLUDING (WITHOUT LIMITATION) ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT OR IMPLIED WARRANTIES ARISING OUT OF COURSE OF DEALING, COURSE OF PERFORMANCE OR USAGE OF TRADE.  WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, EACH PARTY SPECIFICALLY DISCLAIMS ANY REPRESENTATION OR WARRANTY REGARDING (A) THE AMOUNT OF SALES REVENUES THAT MAY OCCUR DURING THE TERM, AND (B) ANY ECONOMIC OR OTHER BENEFIT THAT THEY MIGHT OBTAIN THROUGH ITS PARTICIPATION IN THIS AGREEMENT (OTHER THAN THE SPECIFIC SUMS TO BE PAID PURSUANT TO THIS AGREEMENT).
+
+     8.2  No Consequential Damages.  EXCEPT TO THE EXTENT AWARDED TO A THIRD PARTY IN A JUDGMENT AGAINST WHICH A PARTY IS ENTITLED TO INDEMNIFICATION PURSUANT TO SECTION 7.2  [Indemnity], OR TO THE EXTENT ARISING OUT OF ANY BREACH OF SECTION 11.4  [Nondisclosure], NEITHER PARTY WILL BE LIABLE (WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE), PRODUCT LIABILITY OR OTHER THEORY), TO THE OTHER PARTY OR ANY OTHER PERSON OR ENTITY FOR COST OF COVER OR FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF PROFIT, REVENUE, BUSINESS OR DATA) ARISING OUT OF THIS AGREEMENT, EVEN IF SUCH PARTY HAS BEEN ADVISEDOF THE POSSIBILITY OF SUCH COSTS OR DAMAGES.  FOR THE AVOIDANCE OF DOUBT, THE PARTIES HEREBY ACKNOWLEDGE AND AGREE THAT NOTHING IN THIS SECTION 8.2  [No Consequential Damages] IS INTENDED TO LIMIT ANY RIGHT OF ACSI TO RECEIVE LIQUIDATED DAMAGES AS SET FORTH IN SECTION 10.5.2  [Effect of Termination].
+
+     8.3  Limitation of Damages. EXCEPT FOR LIABILITIES UNDER SECTION 7.2  [Indemnity], NEITHER PARTY'S AGGREGATE LIABILITY ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), WARRANTY OR OTHERWISE, SHALL EXCEED [***].
+
+     8.4  Third Party Infringement Claims. In the event that either Party receives from a third party a bona fide claim of infringement concerning any advertising materials or other content supplied by the other Party, such Party may immediately remove such materials
+
+--------- *** Confidential Information has been omitted and has been filed separately with     the Securities and Exchange Commission.
+
+                                     -17-
+
+or content from its Web Site at its sole discretion, pending receipt of non- infringing replacement materials or content or satisfactory resolution of such claim, and any such removal shall not constitute a breach of this Agreement.
+
+Section 9.  Exclusivity.
+
+     9.1    ACSI
+
+            9.1.1 Exclusive Spoken-Word Audio Products. During the Term, [***], ACSI will not offer or sell through the ACSI Site, or authorize any third party to sell through the ACSI Site, any Exclusive Spoken-Word Audio Products; [***].
+
+            9.1.2 [***]
+
+     9.2    [***]
+
+     9.3    [***]
+
+     9.4    Records; Audit. Each Party will, during the Term and for a period of one (1) year thereafter, maintain complete and accurate books and records sufficient to verify its compliance or non-compliance with the provisions of this Section 9 (and, in the case of Company, Section 5.4  [Royalties]). Each Party (the "Audited Party') will, upon at least thirty (30) days' prior written request by the other Party (the "Auditing Party"), allow an independent certified public
+
+Source: AUDIBLE INC, 10-Q, 11/13/2000
+
+
+
+
+
+accounting firm selected by the Auditing Party and reasonably acceptable to the Audited Party to audit such books and records at the Audited Party's premises to the extent necessary to verify the Audited Party's compliance or non-compliance with the provisions of this Section 9 (or, in the case of Company, Section 5.4  [Royalties]); provided, that: (a) any such audit is conducted during normal business hours and in a manner designed to not unreasonably interfere with the Audited Party's ordinary business operations; (b) audits may not occur more frequently than once every twelve (12) months; and (c) each such audit may only cover the period commencing after the period covered by the last audit conducted pursuant to this Section, if any. The Auditing Party agrees that any information learned or disclosed by its auditor in connection with such audit is Confidential Information of the Audited Party. If any such audit reveals any material non- compliance with the provisions of this Section 9 by the Audited Party, the Audited Party shall, within ten (10) days of its receipt of an invoice therefor, reimburse the Auditing Party for all reasonable out-of-pocket fees and expenses incurred by the Auditing Party in connection with the applicable audit. If any such audit reveals any underpayment of any sums payable pursuant to Section 5.4  [Royalties], Company will promptly remit to ACSI the amount of the underpayment; and, if the amount of such underpayment is five percent (5%) or more for any audited period, Company shall, within ten (10) days of its receipt of an invoice therefor, reimburse ACSI for all reasonable out-of-pocket fees and expenses incurred by ACSI and its Affiliates in connection with the applicable audit together with interest on any underpayment as provided in Section 5.5  [Overdue Payments].
+
+--------------- ***Confidential Information has been omitted and has been filed separately with the Securities and Exchange Commission.
+
+                                     -18-
+
+Section 10.  Term and Termination
+
+     10.1    Term.  The term of this Agreement will commence on the Effective Date, and unless earlier terminated as provided elsewhere in this Agreement, will end automatically upon the end of Year 3.
+
+     10.2    Termination for Breach.  Without limiting any other rights or remedies (including, without limitation, any right to seek damages and other monetary relief and ACSI's rights under Section 10.3  [ACSI Termination] or Company's rights under Section 10.4  [Company Termination]) that either Party may have in law or otherwise, either Party may terminate this Agreement if the other Party materially breaches its obligations hereunder, provided that, except as provided in Section 10.3  [ACSI Termination] and 10.4  [Company Termination], (a) the non-breaching Party sends written notice to the breaching Party describing the breach, and (b) the breaching Party does not cure the breach within thirty (30) days following its receipt of such notice; provided further, however, that without limitation of ACSI's rights under Section 10.3  [ACSI Termination] if the conditions set forth in that Section are satisfied, in the event of any failure by Company to comply with the customer service requirements specified in Section 2.4  [Technical Standards; Customer Service] and Exhibit B, ACSI shall only be entitled to terminate this Agreement by reason of such failure if it is material, ACSI has notified Company of such non-compliance and Company has not come into compliance with such requirements within sixty (60) days from the date of the non-breaching Party's notice.
+
+     10.3    ACSI Termination. In the event that: (a) Company at any time engages in any criminal conduct, fraud, dishonesty or other behavior that is materially harming the goodwill or reputation of ACSI or its Affiliates or the ACSI Site; (b) Company has consistently failed to abide by the technical and customer service requirements described in Section 2.4  [Technical Standards; Customer Service] or has failed to integrate the ACSI Site Functionality into the Spoken-Word Audio Sub-Section and/or Mirror Company Site as required by the Phase II Development Plan (so long as such failure is not a result of acts or omissions by ACSI); or (c) Company consistently fails to pay bona fide debts as they legally come due, institutes or has instituted against it any bankruptcy, reorganization, debt arrangement, assignment for the benefit of creditors, or other proceeding under any bankruptcy or insolvency Law or dissolution, receivership, or liquidation proceeding (and, if such proceeding is instituted against it, such proceeding is not dismissed within one hundred twenty (120) days), the same shall be deemed a material breach of this Agreement which is not susceptible to cure, and ACSI shall be entitled to terminate this Agreement upon written notice to Company. [***]
+
+     10.4    Company Termination.  In the event that (a) ACSI has failed to integrate the ACSI Site Functionality into the Spoken-Word Audio Sub-Section and/or Mirror Company Site as required by the Phase II Development Plan (so long as such failure is not a result of acts or omissions by Company); or (b) ACSI consistently fails to pay its bona fide debts as they legally come due, institutes or has instituted against it any bankruptcy, reorganization, debt arrangement, assignment for the benefit of creditors, or other proceeding under any bankruptcy or insolvency Law or dissolution, receivership, or liquidation proceeding (and, if such proceeding is instituted against it, such proceeding is not dismissed within one hundred twenty (120) days), the same shall be deemed a material breach of this Agreement which is
+
+--------------- ***Confidential Information has been omitted and has been filed separately with the Securities and Exchange Commission.
+
+                                     -19-
+
+not susceptible to cure, and Company shall be entitled to terminate this Agreement upon written notice to ACSI.
+
+     10.5  Effect of Termination.
+
+           10.5.1  General.  Upon termination of this Agreement, each Party in receipt, possession or control of the other Party's intellectual or proprietary property, information and materials (including any Confidential Information) pursuant to this Agreement must return to the other Party (or at the other Party's written request, destroy and certify in writing such destruction) such property, information and materials.  In addition, except as provided in Section 10.5.2  [Effect of Termination], Company will promptly upon any termination of this Agreement pay to ACSI a prorated portion of the Annual Fee due for the Year in which termination is effective; provided, however, that if Company terminates this Agreement by reason of ACSI's breach hereof, Company shall have no further payment obligation, and, if such termination occurs at any time during the Refund
+
+Source: AUDIBLE INC, 10-Q, 11/13/2000
+
+
+
+
+
+Period, ACSI shall promptly either (a) refund to Company a percentage of the Annual Fees paid pursuant to Section 5.2.1  [Annual Fees] equal to the Proration Percentage, or, at ACSI's option, (b) cause the transfer and assignment to Company of a percentage of the Shares delivered pursuant to Section 5.3  [Waiver of Payment Obligations] equal to the Proration Percentage.  Sections 6 through 8, 10 and 11 will survive the termination or expiration of this Agreement.
+
+           10.5.2  [***]
+
+           10.5.3  Construction by Court.  To the extent that any court of competent jurisdiction determines that any provision of Section 10.5.2  [Effect of Termination] is for any reason unlawful, invalid, in violation of public policy or otherwise unenforceable in whole or in part, such provision shall be narrowed in scope to the extent necessary to make the same lawful, valid and enforceable while as nearly as possible reflecting the intent of the Parties as expressed in this Agreement.
+
+           10.5.4  User Transition.  Upon any termination or expiration of the Term the Parties will cooperate in good faith to promote a smooth customer transition, and in any event, Company will, at ACSI's option, continue to operate the Mirror Company Site and offer Spoken-Word Audio Products through the Spoken-Word Audio Sub-Section in accordance with the terms of this Agreement for a period of up to six (6) months following such termination.
+
+           10.5.5  Phase II Development Plan.  Notwithstanding any other provision of this Agreement, the Parties acknowledge and agree that no failure by the Parties to develop the Phase II Development Plan as contemplated by Section 4.1.3  [Phase II] shall be deemed, in itself, a breach of this Agreement by either Party (and therefore that such occurrence shall not, in itself, give rise to any of the remedies specified in Section 10.5.1  [General] or Section 10.5.2  [Effect of Termination]).
+
+--------------- ***Confidential Information has been omitted and has been filed separately with the Securities and Exchange Commission.
+
+                                     -20-
+
+Section  11.  Miscellaneous
+
+      11.1    Tax Treatment.
+
+              11.1.1  The Parties acknowledge and agree that this Agreement and the transactions contemplated hereby are not intended to create any jurisdiction or authority for any governmental authority to impose any obligation to collect any sales tax, use tax or similar tax in connection with any sales of products by either Party or its Affiliates. Accordingly, each Party agrees to take such action as the other Party may reasonably request (including, without limitation, execution of affidavits and other documents) to avoid or curtail the imposition, by reason of this Agreement or the transactions contemplated hereby, of any such obligation on such Party or its Affiliates, or the establishment of a nexus for tax purposes sufficient to grant any jurisdiction the authority to levy any sales tax, use tax or similar tax on sales of products by such Party or its Affiliates in connection with this Agreement; provided, however, that nothing in this Section 11.1.1  [Tax Treatment] shall limit Company's obligations under Section 11.1.2  [Tax Treatment].
+
+              11.1.2  Company will collect and pay, and indemnify and hold harmless ACSI and its Affiliates from, any sales, use, excise, import or export, value added or similar tax or duty not based on ACSI's or its Affiliates' net income, including penalties and interest, costs associated with the collection and withholding thereof and attorneys fees in connection therewith, arising out of or in connection with this Agreement or Company's advertisement, offer or sale of any products.
+
+     11.2     Insurance.  Company will at its expense, prior to the Launch Date obtain, and thereafter throughout the Term and for a period of six (6) months thereafter maintain, such policy or policies of insurance as is commercially reasonable for the transactions and business contemplated by this Agreement. Without limiting the generality of the foregoing, Company will ensure that such policies contain a waiver of subrogation against ACSI, name ACSI and its assignees as additional insureds.  Company will not modify or terminate any coverage without giving at least thirty (30) days' prior written notice to ACSI. Upon request from ACSI, Company will furnish to ACSI certificates of insurance and such other documentation relating to such policies as ACSI may reasonably request.
+
+     11.3     Independent Contractors. The Parties are entering this Agreement as independent contractors, and this Agreement will not be construed to create a partnership, joint venture or employment relationship between them. Neither Party will represent itself to be an employee or agent of the other or enter into any agreement or legally binding commitment or statement on the other's behalf of or in the other's name.
+
+     11.4     Nondisclosure. Each Party will protect the Confidential Information of the other Party from misappropriation and unauthorized use or disclosure, and at a minimum, will take precautions at least as great as those taken to protect its own confidential information of a similar nature, but in no event with less than reasonable care. Without limiting the foregoing, the Receiving Party will: (a) use such Confidential Information solely for the purposes for which it has been disclosed; and (b) disclose such Confidential
+
+                                     -21-
+
+Information only to those of its and its Affiliates' employees, agents, and consultants who have a need to know the same for the purpose of performing this Agreement and who are informed of and agree to a duty of nondisclosure. The Receiving Party may also disclose Confidential Information of the Disclosing Party to the extent necessary to comply with applicable Law or legal process or pursuant to a registration report or exhibits thereto filed or to be filed with the Securities and Exchange Commission, listing agency or any stock securities commission, or any other associated filings, provided that the Receiving Party uses gives the Disclosing Party not less than ten (10) days' prior written notice thereof and complies with all reasonable requests of the Disclosing Party to minimize the extent or scope of any such disclosure. Upon request of the other Party, or in any event upon any termination or expiration of the Term, each Party shall return to the other or destroy (and certify in writing such destruction) all materials, in any medium, which contain, embody, reflect or
+
+Source: AUDIBLE INC, 10-Q, 11/13/2000
+
+
+
+
+
+reference all or any part of any Confidential Information of the other Party.
+
+     11.5     Costs.  Except as expressly provided herein, each Party will be responsible for all costs and expenses incurred by it in connection with the negotiation, execution, delivery and performance of this Agreement.
+
+     11.6     Notices.  Any notice or other communication under this Agreement given by either Party to the other Party will be in writing and, to be effective, must be sent to the intended recipient by prepaid registered letter, receipted commercial courier, or electronically receipted facsimile transmission (acknowledged in like manner by the intended recipient) at its address specified below its signature at the end of this Agreement, and in the case of ACSI, with a copy to Amazon.com, Inc., 1200 12th Avenue South, Suite 1200, Seattle, WA 98144, USA, Facsimile: (206) 266-7010 Attn: General Counsel and in the case of Company, with a copy to Audible Inc., Facsimile 973-890-0178, Attn: Vice President, Business & Legal Affairs; provided, that no notice of  termination of this Agreement shall be deemed properly given unless sent by prepaid registered mail to such address(es) and to the attention of such officer(s).  Either Party may from time to time change such address or individual by giving the other Party notice of such change in accordance with this Section 11.6  [Notices].
+
+     11.7     Assignment. Company may not assign or delegate this Agreement or any of its rights or obligations hereunder, whether voluntarily, involuntarily, by operation of Law or otherwise, without ACSI's prior written consent, which consent shall not be unreasonably withheld or delayed, except that Company may assign this Agreement to any direct or indirect wholly owned subsidiary in connection with any corporate reorganization undertaken for the purpose of minimizing the tax liability of Company and its Affiliates or other bona fide corporate purpose or in connection with any Change of Control [***]. Subject to the preceding two sentences, this Agreement shall be binding upon and inure to the benefit of the Parties hereto and their successors and assigns. ACSI may assign this Agreement to (a) any corporation or other entity resulting from any merger, consolidation, or other reorganization involving ACSI, (b) any of its Affiliates, or (c) any person or entity to which it transfers all or
+
+--------------- ***Confidential Information has been omitted and has been filed separately with the Securities and Exchange Commission.
+
+                                     -22-
+
+substantially all of its assets relating to the Spoken-Word Audio Sub-Section; provided that the assignee agrees in writing to be bound by all the terms and conditions of this Agreement.  Subject to the foregoing, this Agreement will be binding on and enforceable by the Parties and their respective successors and permitted assigns.
+
+     11.8     Nonwaiver.  To be effective, any waiver by a Party of any of its rights or the other Party's obligations under this Agreement must be made in a writing signed by the Party to be charged with the waiver.  No failure or forbearance by either Party to insist upon or enforce performance by the other Party of any of the provisions of this Agreement or to exercise any rights or remedies under this Agreement or otherwise at law or in equity shall be construed as a waiver or relinquishment to any extent of such Party's right to assert or rely upon any such provision, right, or remedy in that or any other instance; rather the same shall be and remain in full force and effect.
+
+     11.9     Counterparts; Transmitted Copies. This Agreement may be executed in any number of counterparts, each of which will be deemed an original, but all of which taken together will constitute one and the same instrument. To expedite the process of entering into this Agreement, the Parties acknowledge that Transmitted Copies of the Agreement shall be equivalent to original documents until such time (if any) as original documents are completely executed and delivered. "Transmitted Copies" shall mean copies which are reproduced or transmitted via facsimile, or another process of complete and accurate reproduction and transmission.
+
+     11.10    Headings.  The headings of sections and subsections of this Agreement are for convenience of reference only and are not intended to restrict, affect or otherwise influence the interpretation or construction of any provision of this Agreement.
+
+     11.11    Choice of Law.  This Agreement will be interpreted, construed and enforced in accordance with the Laws of the State of Washington, without reference to its choice of Laws rules.
+
+     11.12    Venue.  Company hereby irrevocably consents to non-exclusive personal jurisdiction and venue in the state and federal courts located in King County, Washington, with respect to any claim, action or proceeding arising out of or related to this Agreement and agrees not to commence or prosecute any such claim, action or proceeding other than in the aforementioned courts.
+
+     11.13    Entire Agreement.  This Agreement (a) represents the entire agreement between the Parties with respect to the subject matter hereof and supersedes any previous or contemporaneous oral or written agreements regarding such subject matter and (b) may be amended or modified only by a written instrument signed by a duly authorized agent of each Party.  No breach of this Agreement by either Party shall affect the rights or obligations of either Party under any other Agreement between the Parties; rather, the same will remain in full force and effect.
+
+                                     -23-
+
+ACSI                                     Company: ----                                     --------
+
+Amazon.com Commerce Services, Inc.       Audible Inc.
+
+ /s/                                      /s/ Don Katz ----------------------------------       -------------------------------------- By (Sign)                                By (Sign)
+
+Vice President                           Founder, Chairman, Acting CEO ----------------------------------       -------------------------------------- Title                                    Title
+
+Source: AUDIBLE INC, 10-Q, 11/13/2000
+
+
+
+
+
+1/30/2000                                1/30/2000 ----------------------------------       -------------------------------------- Date                                     Date
+
+Notice Address:                          Notice Address:
+
+[***]                                    [***]
+
+--------------- ***Confidential Information has been omitted and has been filed separately with the Securities and Exchange Commission.
+
+                                     -24-
+
+Source: AUDIBLE INC, 10-Q, 11/13/2000

@@ -1,0 +1,1147 @@
+Exhibit 10.29 Confidential Execution Version [***] Certain information in this document has been excluded pursuant to Regulation S-K, Item 601(b)(10). Such excluded information is not material and would likely cause competitive harm to the registrant if publicly disclosed.
+
+NOV 02, 2019
+
+BIOEQ IP AG
+
+AND
+
+COHERUS BIOSCIENCES, INC.
+
+LICENSE AND DEVELOPMENT AGREEMENT
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version CONTENTS
+
+Clause Page
+
+1. DEFINITIONS AND INTERPRETATION1
+
+2. LICENSE GRANT10
+
+3. DEVELOPMENT11
+
+4. REGULATORY ACTIVITIES14
+
+5. MANUFACTURING AND SUPPLY17
+
+6. COMMERCIALIZATION18
+
+7. FINANCIAL PROVISIONS20
+
+8. TAXATION23
+
+9. INTELLECTUAL PROPERTY24
+
+10. COVENANTS RELATING TO THE [***] AGREEMENT30
+
+11. CONFIDENTIALITY30
+
+12. REPRESENTATIONS, WARRANTIES AND COVENANTS32
+
+13. INDEMNIFICATION AND LIMITATION OF LIABILITY34
+
+14. GOVERNANCE35
+
+15. TERM AND TERMINATION; NON-SOLICITATION37
+
+16. GENERAL PROVISIONS43
+
+Schedules
+
+Annex 1: [***] Agreement
+
+Annex 2: Term Sheet for Manufacturing and Supply Agreement
+
+Schedule 1.36: Licensed Patents
+
+Schedule 3.2: Initial Development & Manufacturing Plan
+
+Schedule 3.5.1: [***]
+
+Schedule 6.2(c): Initial Commercialization Commitments
+
+Schedule 6.3: Contents of Commercialization Plan for Planned Activities
+
+Schedule 16.5: Pre-Approved Subcontractors
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version LICENSE AND DEVELOPMENT AGREEMENT
+
+This LICENSE AND DEVELOPMENT AGREEMENT (this Agreement) is entered into effective as of Nov. 02, 2019 (the Effective Date) by and between Bioeq IP AG, having its place of business at [***] (Bioeq) and Coherus BioSciences, Inc., having its principal place of business at 333 Twin Dolphin Drive, Suite 600, Redwood City, CA, 94065, USA (Licensee).
+
+Bioeq and Licensee shall also each individually be referred to herein as a Party, and shall be referred to jointly as the Parties.
+
+RECITALS
+
+WHEREAS, Bioeq is a specialized biosimilar company;
+
+WHEREAS, Bioeq is the owner or exclusive licensee of all right, title and interest to certain products which are being developed as biosimilars to pharmaceutical products comprising the monoclonal antibody fragment Ranibizumab and currently marketed in the field of ophthalmology under the brand name Lucentis®;
+
+WHEREAS, Licensee is a company focused on the development and commercialization of biosimilar products; and
+
+WHEREAS, Licensee wishes to obtain an exclusive license from Bioeq for the commercialization of Ranibizumab biosimilar products being developed by Bioeq in the United States of America in consideration for upfront, milestone and royalty payments to Bioeq, and Bioeq is willing to grant such license subject to the terms and conditions of this Agreement.
+
+NOW, THEREFORE, in consideration of the foregoing premises and the mutual covenants set forth below, the Parties hereby agree as follows:
+
+1.DEFINITIONS AND INTERPRETATION
+
+For purposes of this Agreement, the capitalized terms used in this Agreement shall have the respective meanings set forth in this Section 1 below.
+
+1.1 Affiliate means with respect to any Party, (a) any legal entity of which the securities or other ownership interests representing more than 50% of the equity or more than 50% of the ordinary voting power or more than 50% of the general partnership interest are, at the time such determination is being made, owned, controlled or held, directly or indirectly, by such legal entity; or (b) any legal entity which, at the time such determination is being made, is controlling or under common control with, such Party. As used in this definition, the term "control", whether used as a noun or verb, refers to the possession, directly or indirectly, of the power to direct, or cause the direction of, the management or policies of a legal entity, whether through the ownership of voting securities, by contract or otherwise.
+
+1.2 Agreement shall have the meaning ascribed to it in the introductory paragraph above.
+
+1.3 Applicable Law means any and all applicable federal, state, local and international laws, rules and regulations, including regulations of competent Regulatory Authorities and environmental laws, as amended from time to time, and the regulations promulgated thereunder, as amended from time to time.
+
+1.4 [***]
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version 1.5 Biologics License Application or BLA means a request for permission to introduce, or deliver for introduction, a biologic product into interstate commerce (21 CFR 601.2) to the FDA, including any supplements, addendums, or amendments thereto. For the avoidance of doubt, the term Biologics License Application or BLA shall include any Abbreviated Biologics License Application.
+
+1.6 Biologics License Application Approval means issuance of a Department of Health and Human Services U.S. License under 351(k) of the Public Health Services Act controlling the manufacture and sale of biologic products or any successor statutory provisions thereof.
+
+1.7 BPCIA means the Biologics Price Competition and Innovation Act of 2009, as amended.
+
+1.8 CMO means contract manufacturing organization.
+
+1.9 Commercially Reasonable Efforts means, with respect to the efforts to be used by a Party under this Agreement with respect to the Licensed Products, those efforts and resources normally used by a major pharmaceutical or a sufficiently financed biotechnology company for a product owned by it, or to which it has rights, which is of similar market potential at comparable stages of development, taking into account the competitiveness of the marketplace, the proprietary position of the product, the performance of other products that are of similar market potential and the likely timing of other product's entry into the market, the regulatory structure involved, the profitability of the applicable product, relevant Third Party intellectual property necessary to manufacture or Commercialize the Licensed Product and other relevant factors commonly considered in similar circumstances, including technical, legal, scientific or medical factors.
+
+1.10 Commercialization means the conduct of all activities undertaken before and after Regulatory Approval relating to the promotion, marketing, sale and distribution (including importing, exporting, transporting, customs clearance, warehousing, invoicing, handling and delivering products to customers) of pharmaceutical products, including: (a) sales force efforts, detailing, advertising, medical education, planning, marketing, sales force training and sales and distribution; and (b) scientific and medical affairs. For clarity, Commercialization does not include any Development activities, whether conducted before or after Regulatory Approval. "Commercialize" and "Commercializing" have correlative meanings.
+
+1.11 Competitive Product means (i) any product which contains Ranibizumab and is either a Reference Product or a biosimilar to a Reference Product, but excluding in any case the Licensed Products, (ii) [***] (but for clarity [***]) or (iii) [***] (but for clarity [***]).
+
+1.12 Competitor means any person or entity (other than the Parties and their Affiliates) which has initiated and is then-active in [***] the marketing, selling or distribution of a Competitive Product, [***] in the Territory, as well as any Affiliate of any such person or entity.
+
+1.13 Competitor Change of Control means any of the following events after the Effective Date:
+
+(a) any Competitor (i) becomes the beneficial owner, directly or indirectly, of shares of capital stock or other interests (including partnership interests) of the Licensee then outstanding and normally entitled (without regard to the occurrence of any contingency) to vote in the election of the directors, managers or similar supervisory positions (Voting Stock) of such Party representing more than fifty percent (50%) of the total voting power of all outstanding classes of Voting Stock of the Licensee or (ii) has the power, directly or indirectly, to appoint a majority of the Licensee's managing directors or to elect a majority of the members of the Licensee's board of directors, supervisory board or similar governing body (Board of Directors); or
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version (b) the Licensee enters into a merger, consolidation or similar transaction with a Competitor (whether or not such Party is the surviving entity) and as a result of such merger, consolidation or similar transaction (i) the managing directors or the members of the Board of Directors of the Licensee immediately prior to such transaction constitute less than a majority of the managing directors or the members of the Board of Directors of the Licensee or such surviving person immediately following such transaction or (ii) the persons that beneficially owned, directly or indirectly, the shares of Voting Stock of the Licensee immediately prior to such transaction cease to beneficially own, directly or indirectly, shares of Voting Stock of the Licensee representing a majority of the total voting power of all outstanding classes of Voting Stock of the surviving person in substantially the same proportions as their ownership of Voting Stock of the Licensee immediately prior to such transaction.
+
+1.14 Confidential Information means, with respect to a Party, all Know-How and all other proprietary information of such Party, including information on the business, affairs, research and development activities, results of non-clinical and clinical trials, national and multinational regulatory proceedings and affairs, finances, plans, contractual relationships and operations of such Party. Furthermore, the terms and conditions of this Agreement shall be considered Confidential Information of both Parties. For the avoidance of doubt, all Know-How and proprietary information relating to the Licensed Products generated by or on behalf of Bioeq and provided to Licensee hereunder shall be considered Confidential Information of Bioeq.
+
+1.15 Control (whether used as a noun or as a verb) or Controlled means, with respect to any Intellectual Property Right, Trademark or Know-How, the possession (whether by ownership or license, other than pursuant to this Agreement) by a Party of the ability to grant to the other Party access or a license as provided herein under such Intellectual Property Right, Trademark or Know-How without violating the terms of any agreement or other arrangements with any Third Party.
+
+1.16 Damages shall have the meaning ascribed to it in Section 9.4.3.
+
+1.17 Defend or Defense shall have the meaning ascribed to it in Section 9.4.2.
+
+1.18 Development means all non-clinical and clinical research and drug development activities as well as Manufacturing process development, upscaling of the Manufacturing process and chemistry, manufacturing and control development work conducted in respect of any pharmaceutical product, including those necessary to obtain Regulatory Approval for such pharmaceutical product. When used as a verb, Develop means to engage in Development.
+
+1.19 Disclosing Party shall have the meaning ascribed to it in Section 11.1.
+
+1.20 Effective Date shall have the meaning ascribed to it in the introductory paragraph above.
+
+1.21 Existing Reference Product shall have the meaning ascribed to it in Section 1.61.
+
+1.22 FDA means the United States Food and Drug Administration, and any successor agency thereto.
+
+1.23 Field means any human use of the Licensed Product in the field of ophthalmology and for any other approved labelled indication of such Licensed Products.
+
+1.24 First Commercial Sale means, with respect to any Licensed Product in the Territory, the first sale by Licensee or its Affiliates of such Licensed Product to a Third Party for use in the Field in the Territory, after such Licensed Product has been granted Regulatory Approval for use in the Field in the Territory.
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version 1.25 [***] means [***]
+
+1.26 [***] Agreement means the license agreement existing between Bioeq and [***] dated as of [***] and attached to this Agreement as Annex 1.
+
+1.27 Gross Margin means Net Sales for the sale of any Licensed Product less (a) [***] the supply price paid by Licensee or its Affiliates to Bioeq for the supply of such Licensed Product under the Manufacturing and Supply Agreement (including any Sales Tax thereon paid by Licensee to Bioeq and not refunded back to Licensee in accordance with Section 8.1) [***], (b) Damages, and (c) Qualifying IP Clearance Litigation Costs. Gross Margin will be calculated on a Licensed Product-by-Licensed Product and calendar quarter-by-calendar quarter basis in accordance with Section 7.3.3.
+
+1.28 Improvement means any Invention developed, conceived or reduced to practice by or on behalf of either Party in relation to any Licensed Product during the term of this Agreement, but for clarity excluding any New Products.
+
+1.29 Indemnified Party shall have the meaning ascribed to it in Section 13.3(a).
+
+1.30 Indemnifying Party shall have the meaning ascribed to it in Section 13.3(a).
+
+1.31 Infringement Claim shall have the meaning ascribed to it in Section 9.4.2.
+
+1.32 Insolvency Event means:
+
+1.32.1 In relation to Licensee: (a) the making by it of a general assignment for the benefit of creditors; (b) the commencement by it of any voluntary petition in bankruptcy or suffering by it of the filing of an involuntary petition of its creditors; (c) the suffering by it of the appointment of a receiver to take possession of all, or substantially all, of its assets; (d) the suffering by it of the attachment or other judicial seizure of all, or substantially all, of its assets; (e) the admission by it in writing of its inability to pay its debts as they come due; or (f) the making by it of an offer of settlement, extension or composition to its creditors generally.
+
+1.32.2 In relation to Bioeq: (a) its over-indebtedness (Überschuldung), (b) its inability to make payments as and when they fall due (Zahlungsunfähigkeit), (c) it ceasing to make payments on account of debts as and when they fall due (Zahlungseinstellung), (d) the commencement of negotiations with its creditors with a view to rescheduling its indebtedness, (e) the initiation by Bioeq of any proceedings for bankruptcy (Konkurs), the postponement of bankruptcy (Konkursaufschub) or the grant of a composition moratorium (Nachlassstundung), (f) the opening of proceedings for bankruptcy, the postponement of bankruptcy or the grant of a composition moratorium with respect to Bioeq upon request of a Third Party (g) the sequestration (Arrestierung), attachment or seizure of, or the appointment of a receiver or administrator with respect to, all or substantially all of its assets or (f) the occurrence of any event which is similar in its effect to (a) through (f) under any Applicable Laws.
+
+1.33 Intellectual Property Rights means, with respect to any technology, (a) all Patent Rights which claim or cover such technology, and (b) all other existing and future intellectual property rights (but not any Know-How) relating to such technology, including all legally protected trade secrets, copyrights and other intellectual property rights of any kind, but excluding any Trademark.
+
+1.34 In-Licensed Licensed Patents means all Licensed Patents which are exclusively in‑licensed by Bioeq, including those Patent Rights exclusively in-licensed by Bioeq from [***] pursuant to the [***] Agreement ([***]-Licensed Patents).
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version 1.35 Invention means any invention, technology, improvement, change, modification or enhancement developed, conceived or reduced to practice by or on behalf of either Party during the term of this Agreement.
+
+1.36 Know-How means all technical, scientific and other information, inventions, discoveries, trade secrets, knowledge, technology, means, methods, processes, practices, formulae, instructions, skills, techniques, procedures, expressed ideas, technical assistance, designs, drawings, assembly procedures, computer programs, apparatuses, specifications, Development information, results, non-clinical, clinical, safety, process and Manufacturing and quality control data and information (including trial designs and protocols), registration dossiers and assay and biological methodology, in each case, solely to the extent confidential and proprietary and in written, electronic or any other form now known or hereafter developed.
+
+1.37 Launch Readiness means with respect to a Licensed Product, the date on which all of the following requirements are fulfilled: (a) Regulatory Approval for that Licensed Product (i.e., either a Vial Product or a PFS Product) has been obtained in the Territory and (b) the Launch Order (as defined in Annex 2) of that Licensed Product have been released and made available for delivery by Bioeq (unless later rejected for nonconformity) by the agreed upon date of First Delivery (as defined in Annex 2) [***]
+
+1.38 Licensed Patents means all Patent Rights Controlled by Bioeq during the term of this Agreement that, but for the license granted by Bioeq to Licensee pursuant to Section 2.1 hereunder, would be infringed or misappropriated by Licensee's use, sale, offering for sale or import of the Licensed Products in the Territory in the Field. The Licensed Patents existing as of the Effective Date are listed in Schedule 1.38.
+
+1.39 Licensed Product means the finished dosage forms (including final packaging) of the biosimilars containing Ranibizumab which have been Developed and/or are being Developed by Bioeq to each of the Existing Reference Products ([***]). For clarity, Licensed Products include without limitation Vial Products and PFS Products, and shall extend to any New Products to the extent this Agreement is amended in accordance with Section 3.4
+
+1.40 Licensed Technology means all Intellectual Property Rights and Know-How Controlled by Bioeq during the term of this Agreement that, but for the license granted by Bioeq to Licensee pursuant to Section 2.1 hereunder, would be infringed or misappropriated by Licensee's use, sale, offering for sale or import of the Licensed Products in the Territory in the Field. For clarity, the Licensed Technology includes the Licensed Patents.
+
+1.41 Licensee Cure Period shall have the meaning ascribed to it in Section 15.2.2.
+
+1.42 [***] shall [***]
+
+1.43 [***] means [***]
+
+1.44 [***] means [***] the company engaged by [***] and/or Bioeq for the Development of the Manufacturing process relating to the Licensed Products and related activities.
+
+1.45 Losses shall have the meaning ascribed to it in Section 13.1.
+
+1.46 Manufacture or Manufacturing means to process, prepare, make or have made and analyse one or more pharmaceutical products, including the recombinant production of Ranibizumab and the conversion of Ranibizumab into Licensed Products, and all subsequent packaging and labelling, sterilization, quality control and other testing steps.
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version 1.47 Manufacturing and Supply Agreement shall have the meaning assigned to it in Section 5.2.
+
+1.48 [***]
+
+1.49 Net Sales means the actual gross amount invoiced by Licensee or its Affiliates for any sale of any Licensed Product to a Third Party (including for clarity a wholesaler or distributor) in a bona fide arm's length transaction, in the Territory in a given period, less the following deductions to the extent actually allowed or specifically allocated to the Licensed Product by the selling party using GAAP (as defined below):
+
+(a) sales and excise taxes, value added taxes, and duties which fall due and are paid by the purchaser as a direct consequence of such sales and any other governmental charges imposed upon the importation, use or sale of such product, but only to the extent that such taxes and duties are (i) actually included and itemized in the gross amounts invoiced to and specifically paid by the purchaser over and above the usual selling price of such product, (ii) customarily included and itemized in the gross amounts invoiced to and specifically paid by the purchaser over and above the usual selling price of all comparable products in the relevant market and (iii) are not recovered or recoverable;
+
+(b) Third Party distribution fees and trade, quantity and cash discounts including prompt pay discounts, that are customary in the industry in the Territory and that are allowed on and specifically allocated to the Licensed Product;
+
+(c) a reasonable accrual for write-offs for bad debts, not to exceed [***] ([***])% of such gross amounts invoiced by Licensee or its Affiliates in a given calendar quarter (which accrual shall be trued up and reconciled in the ordinary course of business);
+
+(d) allowances or credits to customers on account of rejections, withdrawal, recall (only for the purchase price of such Licensed Product), or returns of Licensed Product or on account of retroactive price reductions, re-procurement charges, price protection and shelf stock adjustments, slotting allowances, allowances, discounts or inventory management fees, to the extent that such allowances, credits or charges are customary in the biosimilar pharmaceutical industry in the United States; affecting such Licensed Product;
+
+(e) rebates and chargebacks specifically related to such product on an accrual basis, which shall be trued up and reconciled in the ordinary course of business, including those granted to government agencies (i.e. payments made under the "Medicare Part D Coverage Gap Discount Program"); and
+
+(f) freight and insurance costs, if they are included in the selling price for the Licensed Product invoiced to Third Parties, to the extent that Licensee or an Affiliate is responsible for payment of such charges in the Territory;
+
+provided, however, where any such deduction (or similar adjustment to Net Sales) is based on sales of a bundled set of products in which a Licensed Product is included, the discount (or similar adjustment to Net Sales) shall be allocated to such Licensed Product on a pro rata basis based upon the sales value (i.e., the unit average selling price of a bundled set of products in which the Licensed Product is included multiplied by the unit volume of such Licensed Product within the bundled set of products) of such Licensed Product relative to the sales value contributed by the other constituent products in the bundled set, with respect to such sale. Net Sales are to be ascertained from books and records maintained by or on behalf of Licensee in accordance with generally accepted accounting principles, as consistently applied by it with respect to sales of all its drug products (GAAP).
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version 1.50 New Product means any finished dosage form of a biosimilar containing Ranibizumab to a Reference Product which is not an Existing Reference Product and which may in the future become approved (e.g. Reference Products of dosage strengths and presentations which are different from the dosage strengths and presentations comprising the Existing Reference Products) and for which the performance of clinical trials to obtain a Regulatory Approval is required.
+
+1.51 Patent Rights means any and all right, title, and interest in (a) issued patents, patent applications, and future patents issued from any such patent applications; (b) future patents issued from a patent application filed in any country worldwide which claims priority from a patent or patent application of (a); and (c) reissues, confirmations, renewals, extensions, counterparts, divisions, continuations, continuations-in part, supplemental protection certificates or utility models based on any patent or patent application of (a) or (b).
+
+1.52 Parties shall have the meaning ascribed to it in the introductory paragraph above.
+
+1.53 Paying Party shall have the meaning ascribed to it in Section 8.2.
+
+1.54 Payment Receiving Party shall have the meaning ascribed to it in Section 8.2.
+
+1.55 PFS Product means Licensed Product in the form of prefilled syringes.
+
+1.56 [***] means [***]
+
+1.57 [***] shall [***]
+
+1.58 Qualifying IP Clearance Litigation Costs means all documented out-of-pocket costs and expenses incurred by Licensee and its Affiliates in connection with activities undertaken and controlled by Licensee and its Affiliates in accordance with Section 9.4 [***] but excluding any and all Damages; provided further that the first [***] Euros (€[***]) of such costs and expenses paid or incurred by Licensee and its Affiliates in connection with activities undertaken under Section 9.4.1 and/or activities undertaken with respect to the Defense of an Infringement Claim initiated by the Reference Product sponsor pursuant to the BPCIA shall not be considered Qualifying IP Clearance Litigation Costs and shall instead be borne solely by Licensee.
+
+1.59 Ranibizumab means the recombinantly produced ranibizumab drug substance.
+
+1.60 Receiving Party shall have the meaning ascribed to it in Section 11.1.
+
+1.61 Reference Product means any biologic drug products of the innovator in the Territory, whether currently existing or hereinafter Developed, containing Ranibizumab drug substance and sold under the trademark Lucentis®, including: (a) single use vial for intravitreal injection containing [***] ml, (b) single use vial for intravitreal injection containing [***] ml, (c) prefilled syringe for intravitreal injection containing [***] ml, and (d) prefilled syringe for intravitreal injection containing [***] ((a)-(d) collectively, the Existing Reference Products).
+
+1.62 Regulatory Approval means, with respect to any country or jurisdiction, the authorizations, approvals or registrations of the competent Regulatory Authorities necessary for the Commercialization of a pharmaceutical product in such country or jurisdiction. For the avoidance of doubt, Regulatory Approval shall include a provisional approval provided and as long as it grants the right to Commercialize a pharmaceutical product in such country or jurisdiction.
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version 1.63 Regulatory Authority means any national, supra-national, regional, state or local agency, department, bureau, commission, council or other governmental entity having jurisdiction over the manufacture, market approval, sale, distribution, packaging or use of drug product, including Licensed Products. For clarity, the FDA shall be considered a Regulatory Authority in the Territory.
+
+1.64 Remedial Action means any recall, corrective action or other regulatory action with respect to the Licensed Products taken by virtue of Applicable Law.
+
+1.65 Repayment Amount shall have the meaning ascribed to it in Section 8.3.
+
+1.66 Sales Tax means any turnover, consumption, sales, use, goods and services tax, value added tax, import sales tax or similar tax (excluding, for the avoidance of doubt, any capital gains, income or similar tax).
+
+1.67 Saving shall have the meaning ascribed to it in Section 8.3.
+
+1.68 [***] shall [***]
+
+1.69 Territory shall mean the United States of America, including its territories and protectorates.
+
+1.70 Third Party shall mean any entity or person other than Bioeq or Licensee or their respective Affiliates.
+
+1.71 Third Party Claim shall have the meaning ascribed to it in Section 13.3(c).
+
+1.72 Trademark means any trademark, trade name, trade dress or domain name or any application to any of the above.
+
+1.73 Vial Product means Licensed Product in the form of single use vials.
+
+1.74 Interpretation. In this Agreement, unless the context otherwise requires:
+
+(a) headings do not affect the interpretation of this Agreement; the singular shall include the plural and vice versa; and references to one gender include all genders;
+
+(b) references to EUR or € are references to the lawful currency from time to time in the Eurozone;
+
+(c) words such as "herein," "hereof" and "hereunder" refer to this Agreement as a whole and not merely to a subdivision in which such words appear;
+
+(d) any phrase introduced by the terms "including", "include", "in particular" or any similar expression shall be construed as illustrative and shall not limit the sense of the words preceding those terms;
+
+(e) except as otherwise expressly provided in this Agreement, any express reference to an enactment (which includes any legislation in any jurisdiction) includes references to (i) that enactment as amended, consolidated or re-enacted by or under any other enactment before or after the date of this Agreement; (ii) any enactment which that enactment re-enacts (with or without modification); and (iii) any subordinate legislation (including regulations) made (before or after the date of this Agreement) under that enactment, as amended, consolidated or re-enacted as described in (i) or (ii) above; and
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version (f) the Annexes and Schedules comprise annexes and schedules to this Agreement and form part of this Agreement. Unless noted otherwise, capitalized terms used but not defined in the Annexes and Schedules have the meanings ascribed to such terms in this Agreement.
+
+2.LICENSE GRANT
+
+2.1 Technology License.
+
+2.1.1 Exclusive License Grant. Subject to the provisions of this Agreement, Bioeq hereby grants to Licensee an exclusive (even as to Bioeq), milestone- and royalty-bearing, non-transferable license (including the right to grant sublicenses only to the extent permitted by Section 2.1.2) under the Licensed Technology (including the Licensed Patents) to use, sell, have sold, import, have imported or otherwise Commercialize the Licensed Products in the Field in the Territory.
+
+2.1.2 Sublicensing to Affiliates Only. Licensee shall be entitled to grant sublicenses under its license pursuant to Section 2.1 to Affiliates only, provided that any sublicense granted by Licensee under this Section 2.1.2 shall be made through a written agreement in the English language and shall be consistent with the terms of this Agreement. Licensee shall promptly inform Bioeq in writing of any sublicenses granted hereunder and, upon Bioeq's request, shall make a copy of the relevant sublicense agreement available to Bioeq. Licensee may redact the [***] terms and conditions of such sublicense agreement in such copy. Licensee shall monitor compliance with and enforce any sublicense agreements against its sublicensees, and shall be liable for the operations, acts and omissions of any sublicensee as if such operations, acts or omissions were carried out by Licensee itself. For clarity, the Parties acknowledge and agree that Licensee shall be entitled to engage Third Party distributors and/or wholesalers in connection with the Commercialization of the Licensed Products in the Field in the Territory, and that such engagement of Third Party distributors and/or wholesalers is permitted under this Agreement and such arrangements shall not be considered sublicenses for which this Section 2.1.2 applies.
+
+2.2 [***]
+
+2.3 No Further Rights. Except as expressly provided in Sections 2.1 and 2.2, and except as set forth in Annex 2 and the Manufacturing and Supply Agreement, Bioeq will not be deemed to have granted to Licensee (by implication, estoppel or otherwise) any right, title, license or other interest in or with respect to any Patent Rights, Know-How, Trademark or other Intellectual Property Rights Controlled by Bioeq. In particular, the license granted pursuant to Section 2.1 does not include the right of Licensee to Develop or Manufacture any Licensed Product (provided that for clarity Licensee shall have the limited right to Manufacture the Licensed Product as set forth in Annex 2 and the Manufacturing and Supply Agreement [***].
+
+3.DEVELOPMENT
+
+3.1 Development Rights and Obligations. Subject to the terms and conditions of this Agreement, Bioeq shall be solely responsible for the Development of Licensed Products and shall bear all costs and expenses relating thereto.
+
+3.2 Diligence Obligations. Bioeq shall use Commercially Reasonable Efforts to complete the ongoing Development of the Licensed Products in the Field in the Territory until receipt of Regulatory Approval for the Licensed Products in the Field in the Territory in accordance with and as set forth in a Development and Manufacturing plan (the Development & Manufacturing Plan). The initial Development & Manufacturing Plan is attached to this Agreement as Schedule 3.2.
+
+3.3 Information.
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version 3.3.1 [***] within [***] ([***]) [***] days following the end of each calendar quarter, (i) Bioeq [***] shall provide a written report to the Development and Manufacturing Committee setting forth in reasonable detail the status of its then-current Development activities in relation to the Licensed Products in the Field in the Territory and (ii) the Parties, through the Development and Manufacturing Committee, shall review and update the Development & Manufacturing Plan for Bioeq's planned Development activities for the Vial Products in the Field in the Territory.
+
+3.3.2 [***], Bioeq shall conduct the activities set forth in subsections (i) and (ii) of Section 3.3.1 with respect to the Licensed Products but only as and to the extent agreed upon by the Development and Manufacturing Committee.
+
+3.3.3 In addition to the above in Section 3.3.1 and Section 3.3.2, Bioeq [***] shall inform the Development and Manufacturing Committee without undue delay of any material Development results or activities proposed to be undertaken with respect to any Licensed Product including those that may (i) [***] or (ii) [***], and shall respond to the other Party's reasonable questions or requests for information relating thereto.
+
+3.4 New Products. During the term of this Agreement, neither Party shall, and shall not permit its Affiliates to, nor grant any rights to any Third Party to, directly or indirectly, Commercialize, or Develop any New Product for Commercialization in the Territory, except as permitted in accordance with this Section 3.4. If Bioeq wishes to Develop a New Product for Commercialization in the Territory, it shall notify Licensee thereof in writing. Upon such notification, the Parties shall discuss in good faith whether and on what terms such New Product shall he Developed be Bioeq under this Agreement and become part of the Licensed Products licensed to Licensee in the Territory hereunder. If the Parties agree that such New Product shall be Developed and become a Licensed Product under this Agreement, the Parties shall amend this Agreement to reflect their agreement in relation to such New Product (including the Parties' respective share of the Development costs for the Development of such New Product), such New Product shall become part of the Licensed Products, and the restrictions in this Section 3.4 shall cease to apply to such New Product.
+
+3.5 [***]
+
+4.REGULATORY ACTIVITIES
+
+4.1 Regulatory Filings. Subject to the terms and conditions of this Agreement, including Sections 3.5 and 4.4 herein, Bioeq shall be solely responsible for all regulatory activities necessary to obtain Regulatory Approval of the Licensed Products in the Field in the Territory, including filing Biologics License Applications for the Licensed Products in the Field in the Territory, and shall bear all costs and expenses relating thereto.
+
+4.1.1 First BLA for a Licensed Product. Within [***] ([***]) [***] following the Effective Date, Bioeq shall make available to Licensee the complete draft of the Biologics License Application that Bioeq has prepared and intends to file for the first Licensed Product with the FDA. Licensee shall use Commercially Reasonable Efforts to review such draft without delay and to notify Bioeq in writing of any concerns it may identify in relation to such draft within [***] ([***]) days of such draft being made available to Licensee by Bioeq. Subsequently, Licensee may notify Bioeq in writing of any concerns that it identifies in relation to such draft promptly after such identification. For clarity, nothing in this Section 4.1.1 shall restrict Bioeq's right to file the first Biologics License Application for a Licensed Product in the Field in the Territory at its sole discretion.
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version 4.2 Diligence Obligations. Bioeq shall use Commercially Reasonable Efforts to obtain Regulatory Approval for the Licensed Products in the Field in the Territory in accordance with and as set forth in the Development & Manufacturing Plan.
+
+4.3 Coordination of the Parties. Each Party shall reasonably coordinate its regulatory activities relating to the Licensed Products ([***]) with the other Party to the extent such activities relate to the Commercialization of the Licensed Products ([***]) in the Field in the Territory and shall keep the other Party reasonably informed about any material regulatory developments or activities proposed to be conducted with respect to the Licensed Products ([***]), including those (a) [***] or (b) [***] provided, however, that such coordination is [***] Without limiting the foregoing:
+
+4.3.1 Without limiting or modifying Section 4.1.1, each Party shall provide a copy of all Biologics License Applications and all other substantive written correspondence planned to be filed with or submitted to Regulatory Authorities for the Licensed Product ([***]) in the Field in the Territory (collectively, Material Regulatory Submissions) at reasonably in advance of the planned submission date therefor. The other Party shall have the right to review and comment on all such Material Regulatory Submissions and the submitting or filing Party shall take all of the other Party's comments received within a reasonable time period after the other Party receives such copy of such Material Regulatory Submission under good faith consideration. Additionally, each Party shall provide a copy of all written correspondence or feedback received from Regulatory Authorities in the Territory relevant to the Development or Commercialization of the Licensed Products ([***]) to the other Party promptly after receipt thereof, and the Parties shall discuss in good faith the impact of such information on, and potential changes to, the activities contemplated hereunder.
+
+4.3.2 Additionally, Bioeq will promptly, and in any event within [***] ([***]) days of receipt, forward to Licensee a copy of any communications received from Regulatory Authorities outside of the Territory in relation to the Licensed Products which would [***] impact the Development, the receipt or maintenance of Regulatory Approval for, or the Commercialization of the Licensed Products in the Field in the Territory, and the Parties shall discuss in good faith the impact of such information on, and potential changes to, the activities contemplated hereunder.
+
+4.4 Ownership and Transfer of Biologics License Application Approvals in the Territory. The Biologics License Applications for each Licensed Product in the Field in the Territory shall initially be filed and owned by Bioeq. Prior to the First Commercial Sale of any Licensed Product in the Territory, Bioeq shall transfer or cause to be transferred the applicable Regulatory Approvals and Biologics License Applications for such Licensed Product to Licensee, including by preparing and submitting a transfer letter notifying the FDA of the transfer of the applicable Regulatory Approvals and Biologics License Applications for such Licensed Product to Licensee. Following such transfer, Licensee shall have the sole right and shall use Commercially Reasonable Efforts to maintain such Regulatory Approvals for the Licensed Product in the Field in the Territory at Licensee's expense (subject to the remainder of this Section 4.4), and shall have the sole right to communicate and correspond with Regulatory Authorities in the Territory in connection therewith, in each case, in consultation with Bioeq. Licensee shall provide Bioeq with copies of any substantive submissions to any Regulatory Authority without undue delay. Upon request by Licensee, Bioeq shall, and shall use Commercially Reasonable Efforts to cause its Affiliates (including [***]), CMOs, licensors, and other relevant contractors (including, for the avoidance of doubt, [***] and [***],) to provide Licensee with copies of all relevant data and information (i) requested by Regulatory Authorities in the Territory for the Licensed Product in a timely fashion or (ii) which are required to be filed or submitted with such Regulatory Authorities [***] (e.g. [***]), in each case of (i) and (ii), in a timely fashion to allow Licensee to comply with relevant deadlines and Applicable Law. Such assistance as described in the preceding sentence shall be provided [***]. Additionally, upon request by Bioeq, Licensee shall without undue delay (a) [***] and (b) apply to Regulatory Authorities in the Territory for changes in
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version relation to the Manufacturing of such Licensed Product, in each case (a) and (b), based on the [***]. Bioeq shall, and shall use Commercially Reasonable Efforts to cause its Affiliates (including [***]), CMOs, licensors, and other relevant contractors (including, for the avoidance of doubt, [***], [***], and [***]) to provide Licensee with copies of all relevant data and information to support such applications. Such assistance as described in the preceding sentence shall be provided [***]
+
+4.5 Regulatory Meetings.
+
+4.5.1 Prior to the transfer of Biologics License Applications and Regulatory Approvals for the Licensed Products in the Territory pursuant to Section 4.4, Licensee shall have the right to attend meetings with Regulatory Authorities concerning Licensed Products in the Field in the Territory at its own costs. Without limiting the foregoing, [***]
+
+4.5.2 After transfer of Regulatory Approvals for the Licensed Products in the Field in the Territory pursuant to Section 4.4, (i) Bioeq shall have the right to attend meetings with Regulatory Authorities concerning Licensed Products ([***]) in the Fields in the Territory at its own costs and [***] and (ii) upon written request by Licensee, Bioeq shall be obliged to, and shall use Commercially Reasonable Efforts to cause its Affiliates and their employees, CMOs, licensors, and other relevant contractors, representatives and agents (including, for the avoidance of doubt, [***], [***], and [***]) to attend meetings with Regulatory Authorities concerning Licensed Products in the Field in the Territory upon Licensee's costs.
+
+4.6 Pharmacovigilance. At least [***] ([***]) [***] prior to the First Commercial Sale for any Licensed Product ([***]), the Parties shall define and finalize the actions that the Parties shall employ with respect to such Licensed Product ([***]) to protect patients and promote their well‑being in a written pharmacovigilance agreement (Pharmacovigilance Agreement), with Bioeq as the global safety database holder. These responsibilities set forth in the Pharmacovigilance Agreement shall include mutually acceptable guidelines and procedures for the receipt, investigation, recordation, communication and exchange (as between the Parties) of adverse event reports and any other information concerning the safety of the Licensed Products ([***]). Such guidelines and procedures shall be in accordance with, and enable the Parties to fulfil, local and national regulatory reporting obligations under Applicable Law and regulations. Each Party hereby agrees to comply with its respective obligations under such Pharmacovigilance Agreement and to cause its Affiliates to comply with such obligations. Bioeq will maintain its global safety databases pursuant to its own policies and as necessary to comply with Applicable Law governing adverse experiences.
+
+4.7 Product Inserts and Labeling; Promotional Materials. Following Regulatory Approval for a Licensed Product ([***]) in the Field in the Territory, Licensee shall be responsible for the text and regulatory compliance of all package labels, product inserts and other labeling used in connection with such Licensed Product ([***]) in the Territory, as well as for the promotional materials, if any, for use in connection with each of the Licensed Products ([***]) in the Territory; provided that any communication with or materials to be provided to a Regulatory Authority in the Territory with respect to a label for a Licensed Product ([***]) shall be subject to [***]
+
+5.MANUFACTURING AND SUPPLY
+
+5.1 Manufacturing. Subject to the terms and conditions of this Agreement (including Section 5.3 and Annex 2) and the Manufacturing and Supply Agreement, Bioeq shall have the sole responsibility for the Manufacturing and supply of the Licensed Products to Licensee for Commercialization in the Field in the Territory.
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version 5.2 Manufacturing and Supply Agreement. Within [***] ([***]) [***] following the Effective Date, the Parties shall negotiate in good faith and execute a written manufacturing and supply agreement (the Manufacturing and Supply Agreement) to govern the Manufacturing and supply of the Licensed Products ([***]) from Bioeq (or a CMO selected by Bioeq) to Licensee on the basis of the term sheet attached hereto as Annex 2; The terms of the Manufacturing and Supply Agreement shall be consistent with the terms set forth on Annex 2. Prior to the execution of the Manufacturing and Supply Agreement, the terms and conditions set forth on Annex 2 and Section 3 shall govern the rights and obligations of the Parties in relation to the Manufacture and supply of any Licensed Products. Following the execution of such Manufacturing and Supply Agreement, the terms and conditions of Annex 2 shall be superseded by the Manufacturing and Supply Agreement, and all rights and obligations of the Parties in relation to the Manufacture and supply of any Licensed Products shall be governed by such Manufacturing and Supply Agreement and Section 3.
+
+5.3 [***]
+
+6.COMMERCIALIZATION
+
+6.1 General. Subject to the terms and conditions of this Agreement, Licensee shall have the sole right and obligation to conduct the Commercialization of the Licensed Products in the Field in the Territory, including the sole right to conduct the following activities: (a) developing and executing a commercial launch and pre-launch plan; (b) set-up of distribution network in the Territory, negotiation of wholesaler contracts and negotiations with buyer groups (including group purchasing organizations) and key accounts; (c) negotiating with public and private health insurance companies and governmental authorities regarding the price and reimbursement status of the Licensed Products and obtaining and maintaining pricing and reimbursement approvals; (d) marketing, medical affairs, and promotion (including by entertaining a dedicated and sufficiently qualified sales staff, providing for appropriate incentive mechanisms for such sales staff, attending relevant conferences, interacting with key opinion leaders, etc.); (e) set-up of hub services including pre-authorization and reimbursement support and co-pay assist programs; (f) booking of sales and performance of related services; (g) handling all aspects of order processing, invoicing and collection, inventory and receivables; (h) providing customer support, including handling medical queries, and performing other related functions; and (i) dealing with any Remedial Actions in relation to the Licensed Products in the Field in the Territory. As between the Parties, Licensee shall be solely responsible for all costs and expenses in connection with the Commercialization of the Licensed Products in the Field in the Territory, unless otherwise agreed in relation to costs for Remedial Actions in the Territory under Annex 2 and/or the Manufacturing and Supply Agreement.
+
+6.2 Diligence Obligations. Licensee shall use Commercially Reasonable Efforts to Commercialize the Licensed Products in the Field in the Territory. In particular, Licensee commits to:
+
+(a) use Commercially Reasonable Efforts to Commercialize each Licensed Product promptly following First Commercial Sale of such Licensed Product in the Field in the Territory;
+
+(b) use Commercially Reasonable Efforts to perform the planned Commercialization activities as set forth in each Commercialization Plan (defined in Section 6.3 below); and
+
+(c) dedicate the minimum pre-launch and post-launch resources specified in Section B of Schedule 6.2(c) to its Commercialization of the Licensed Products in the Territory in accordance with the Commercialization Plan during each year ([***]) after the First Commercial Sale of any Licensed Product in the Field in the Territory until [***] (Commercialization Commitment Period); provided that if Licensee [***], then the commercialization commitments as set forth in Section B of Schedule 6.2(c) shall continue to apply except that the [***]. For clarity, after the expiration of the Commercialization Commitment Period, Licensee shall have no further obligation under this Section 6.2(c).
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version 6.3 Commercialization Plan & Reports.
+
+6.3.1 Commercialization Plan. Beginning [***] ([***]) calendar quarters prior to the anticipated First Commercial Sale of a Licensed Product in the Field in the Territory, Licensee shall provide a written plan to the Commercialization Committee for review and approval (the Commercialization Plan) setting forth in reasonable detail the planned Commercialization activities (or preparations for First Commercial Sale, as applicable) in relation to the Licensed Products planned for the four (4) calendar quarters following such quarter. Each Commercialization Plan shall include at least the information as set forth in Schedule 6.3 to this Agreement. Such Commercialization Plan shall be updated, reviewed, and approved by the Commercialization Committee [***] at least on an annual basis.
+
+6.3.2 Commercialization Reports. Beginning [***] ([***]) calendar quarters prior to the anticipated First Commercial Sale of a Licensed Product in the Field in the Territory, and every calendar quarter thereafter, Licensee shall report to Bioeq (a) the Commercialization activities (or preparations for First Commercial Sale, as applicable) performed in relation to the Licensed Products in the preceding four (4) calendar quarters, (b) the planned Commercialization activities (or preparations for First Commercial Sale, as applicable) in relation to the Licensed Products planned for the four (4) calendar quarters following such quarter, and (c) any significant changes in the market or of the competitive landscape. In addition, Licensee shall promptly respond to Bioeq's reasonable questions or requests for information relating to Licensee's and its Affiliates' Commercialization activities with respect to the Licensed Products in the Field in the Territory, including activities performed to prepare for the First Commercial Sale.
+
+6.4 First Commercial Sale. Notwithstanding any other provision of this Agreement, Licensee shall [***].
+
+6.5 Trademarks. Licensee may, at its sole discretion, elect to use any Trademark which it owns or has exclusive rights to (Licensee-Controlled Trademark) in connection with its Commercialization of the Licensed Products in the Territory (provided that Licensee discusses the use of such Licensee‑Controlled Trademark with Bioeq and takes into account Bioeq's global branding strategy for the Licensed Products).
+
+7.FINANCIAL PROVISIONS
+
+7.1 Upfront Payment. In consideration for entering into this Agreement, activities undertaken with respect to organizing and managing of the product supply chain and the grant of the licenses by Bioeq to Licensee hereunder, Licensee shall pay to Bioeq a one-time, non-refundable, non-creditable upfront payment in the amount of EUR [***] (€ [***]), payable as follows:
+
+7.1.1 EUR five million (€ 5,000,000) within [***] ([***]) days of the Effective Date.
+
+7.1.2 EUR [***] (€ [***]) within [***] ([***]) days after [***].
+
+7.2 Milestone Payments. In addition, in consideration of services performed by Bioeq to achieve the milestone events set forth below, Licensee shall pay to Bioeq the following one-time, non-refundable (except as provided in Section 15.3.6), non- creditable development milestone payments upon the first occurrence of any of the following milestone events; provided, that [***]:
+
+Milestone Event Payment 1.[***] EUR [***] (€[***])
+
+2.[***] EUR [***] (€[***])
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version Milestone Event Payment 3.[***] EUR[***](€[***])
+
+4.[***] EUR [***]
+
+5.[***] EUR [***] (€[***])
+
+6.[***] EUR [***](€[***])
+
+7.[***] EUR [***] (€[***])
+
+8.[***] EUR [***] (€[***])
+
+9.[***] EUR [***] (€[***])
+
+10.[***] EUR [***] (€[***])
+
+Within [***] ([***]) days of the achievement of any such milestone, Bioeq shall invoice the relevant milestone amount to Licensee and Licensee shall remit payment to Bioeq within [***] ([***]) days upon receipt of Bioeq's invoice relating thereto. For the avoidance of doubt, any milestone payment made hereunder shall only be due once and shall not be due for any second or subsequent occurrence of the same milestone for the same or any other Licensed Product in the Field in the Territory. Additionally, for the avoidance of doubt, (X) [***], (Y) in no event will the total milestone payments to be paid to Bioeq hereunder exceed EUR [***] (€ [***]) ([***]), and (Z) [***].
+
+7.3 Royalties on Gross Margins.
+
+7.3.1 Royalty Rate. In addition, Licensee shall pay to Bioeq the following royalties on Licensee's and its Affiliates' Gross Margins (calculated in accordance with Section 7.3.3) generated through the sale of Licensed Products in the Field in the Territory:
+
+(a) Prior to [***], Licensee shall pay to Bioeq royalties in the amount of [***] percent ([***]%) on Licensee's and its Affiliates' Gross Margins (calculated in accordance with Section 7.3.3) generated through the sale of Licensed Products in the Field in the Territory, payable on a Licensed Product-by-Licensed Product basis, and subject to Section 7.3.1(c) hereunder.
+
+(b) Starting [***], Licensee shall pay to Bioeq royalties in the amount of [***] percent ([***]%) on the Licensee's and its Affiliates' Gross Margins generated through the sale of Licensed Products in the Field in the Territory, payable on a Licensed Product‑by‑Licensed Product basis, and subject to Section 7.3.1(c) hereunder.
+
+(c) To the extent that the Gross Margin achieved for a given Licensed Product in a given calendar quarter is a negative amount, Licensee shall owe no royalty to Bioeq on Net Sales of such Licensed Product in such calendar quarter, and Licensee shall instead be entitled to carry forward such negative amount and deduct such amount (i) first from the calculation of Gross Margin with respect to Net Sales of any other Licensed Products sold in the Territory in such calendar quarter and (ii) if there are no other Licensed Products sold in the Territory in such calendar quarter, in calculating the Gross Margin with respect to Net Sales of such Licensed Product in future calendar quarters as set forth in Section 7.3.3(c) herein.
+
+7.3.2 Reporting. As of the First Commercial Sale of any Licensed Products in the Field in the Territory, within [***] ([***]) days after the end of each calendar quarter, Licensee shall deliver to Bioeq
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version a written report setting forth in reasonable detail, on a Licensed Product-by-Licensed Product basis, the calculation of (a) the aggregate Net Sales achieved for such Licensed Product in such calendar quarter (including a detailed description of invoiced gross sales prices and all deductions made pursuant to Section 1.49), (b) the aggregate Gross Margins achieved for such Licensed Product in such calendar quarter (including a detailed description of all deductions and calculations made pursuant to Section 7.3.3 in arriving at such Gross Margin calculation), and (c) the calculation of the royalties owing by Licensee to Bioeq pursuant to Section 7.3 for such calendar quarter. Notwithstanding the Parties' confidentiality obligations pursuant to Section 11, Bioeq shall have the right to report Licensee's Net Sales reporting to its licensors on a confidential basis to the extent required under the relevant agreements with such licensors.
+
+7.3.3 Calculation of Gross Margin from Net Sales. With respect to the calculation of aggregate Gross Margins achieved from the total amount of Net Sales of a Licensed Product in the Territory in a given calendar quarter (the Quarterly Net Sales Amount):
+
+(a) Licensee shall first deduct from the Quarterly Net Sales Amount [***] an amount equal to the supply price paid by Licensee to Bioeq (pursuant to the Manufacturing and Supply Agreement) for the supply of all such Licensed Product sold in the Territory for such calendar quarter [***];
+
+(b) From such amount resulting after the application of Section 7.3.3(a) above, Licensee shall deduct (i) all Damages which have actually been paid by Licensee or its Affiliates to a non-Defendant Third Party, (ii) all Qualifying IP Clearance Litigation Costs which have actually been incurred by Licensee and (iii) [***], in each case of (i) - (iii), as of the end of such calendar quarter and which have not previously been deducted pursuant to this Section 7.3.3 either (a) in a prior calendar quarter or (b) against Net Sales of a different Licensed Product in the Territory in the same calendar quarter,
+
+(c) From such amount resulting after the application of Section 7.3.3(b) above, Licensee shall deduct all amounts it is entitled to carry forward from prior calendar quarters pursuant to Section 7.3.1(c) hereunder;
+
+(d) The amount resulting in Section 7.3.3(c) above shall reflect the Gross Margin achieved for such Licensed Product in such calendar quarter to be used for the purposes of calculating the royalty payable under Section 7.3.1.
+
+7.3.4 Payment Timing. Bioeq shall invoice Licensee for all royalties due per calendar quarter promptly after Bioeq receives Licensee's royalty report for such calendar quarter to be delivered pursuant to Section 7.3.2. All amounts of royalties shown to have accrued by each report provided pursuant to Section 7.3.2 above shall be due and payable within [***] ([***]) days from receipt by Licensee of Bioeq's invoice.
+
+7.3.5 Records. Licensee shall maintain, and shall ensure that its Affiliates maintain, records, in sufficient detail, which shall be complete and accurate and shall fully and properly reflect all Net Sales and Gross Margins indicated in the quarterly reports described in Section 7.3.2. For each quarterly report, Licensee shall maintain records reflecting the Net Sales and Gross Margins contained in such quarterly report for [***] ([***]) years following the date that such quarterly report is delivered to Bioeq. The provisions of this Section 7.3.5 shall survive the expiration or termination of this Agreement for [***] ([***]) years.
+
+7.3.6 Audit Rights. Upon reasonable written request of Bioeq, and no more than once during a given calendar year, Licensee shall make all records reasonably necessary to verify the accuracy of its quarterly reports pursuant to Section 7.3.2 available for inspection by an independent auditor of an internationally recognized auditing firm during Licensee's standard business hours. Such audit shall be for the purpose of ensuring Licensee's compliance with its payment obligations hereunder only. Bioeq shall
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version pay all audit expenses, provided, however, that in the event the audit reveals a greater than [***] percent ([***]%) payment shortfall in the amounts owed to Bioeq by Licensee during the relevant period, Licensee shall reimburse all audit expenses to Bioeq. Bioeq shall treat all financial information subject to review under this Section 7.3.6 as confidential, and shall cause its accounting firm to retain all such financial information in confidence under Section 11 below. The provisions of this Section 7.3.6 shall survive the expiration or termination of this Agreement for [***] ([***]) years.
+
+7.4 Late Payments. To the extent Licensee fails to make full payment to Bioeq hereunder on the due date for payment, without prejudice to any other right or remedy available to Bioeq, Bioeq shall be entitled to charge Licensee interest on such payments at a rate per annum equal to [***] ([***]) percentage points above the then-applicable 3-month EURIBOR rate (regardless of whether such rate is positive, negative, or zero), published at https://www.euribor-rates.eu/.
+
+7.5 Payment Exchange Rate. All payments to be made by Licensee to Bioeq under this Agreement shall be made in EURO by bank wire transfer without deduction for wire transfer fees in immediately available funds to such bank account designated in writing by Bioeq from time to time. In the event that any moneys which are part of the calculation of the Gross Margins are paid or received by Licensee or its Affiliates in any currency other than EURO, for purposes of calculating royalties payable hereunder, such moneys shall be converted into EURO at the rate of exchange of the European Central Bank published in the a f t e r n o o n  o f  t h e  l a s t  b u s i n e s s  d a y  i n  t h e  r e s p e c t i v e  a c c o u n t i n g  p e r i o d ,  p u b l i s h e d  a t https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/ html/eurofxref-graph-usd.en.html.
+
+7.6 No offset. Except as otherwise expressly permitted pursuant to this Agreement, the Parties shall not have any right to offset or otherwise withhold any amount owing to each other under this Agreement.
+
+8.TAXATION
+
+8.1 Sales Tax. All payments under this Agreement are expressed clear and free of all deductions and withholdings in respect of taxes and exclusive of Sales Tax. If and to the extent any Sales Tax is chargeable on any supply contemplated by this Agreement and owed to the competent tax authorities by the Party providing the supply, the Party receiving the supply shall pay an amount equal to such Sales Tax to the Party providing the supply against receipt of a proper invoice. The Party receiving the supply shall provide the Party providing the supply with documents required by Applicable Law in an effort to minimize Sales Tax. If at any time the Party providing the supply receives a refund (or credit or offset in lieu of a refund) of any Sales Taxes so paid by the Party receiving the supply, then the Party providing the supply receiving such refund or utilizing such credit or offset shall promptly pay over the amount of such refund, credit or offset to the Party receiving the supply, it being understood that the Party receiving the supply shall be liable for any subsequent disallowance of such refund, credit or offset.
+
+8.2 Withholding Taxes. If any deductions or withholdings are required by Applicable Law to be made from any of the amounts payable pursuant to this Agreement, then the payor (the Paying Party) shall pay to the recipient (the Payment Receiving Party) such amount as will, after the deduction or withholding has been made, leave the Payment Receiving Party with the same amount as it would have been entitled to receive in the absence of any such requirement to make a deduction or withholding. The Payment Receiving Party shall provide the Paying Party with documentation required by Applicable Law to minimize withholding on behalf of the Payment Receiving Party.
+
+8.3 Repayment Amount. To the extent that the Payment Receiving Party subsequently receives and is entitled to retain and utilise a cash-effective credit against or repayment of any of its taxes (any such credit referred to as a Saving) in respect of such additional amount to be paid by the Paying Party
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version under clause 8.2 or the payment to which such additional amount relates, the Payment Receiving Party shall pay within [***] ([***]) [***] of obtaining the Saving, pay an amount (the Repayment Amount) to the Paying Party which the Payment Receiving Party reasonably determines shall leave the Payment Receiving Party (after that Repayment Amount) in the same after-tax position as it would have been in but for its utilisation of the Saving.
+
+9.INTELLECTUAL PROPERTY
+
+9.1 Ownership. Each Party shall own or Control, and shall continue to own or Control all Intellectual Property Rights, Trademarks and Know-How owned or Controlled by such Party as of the Effective Date of this Agreement, subject to the licenses and other rights granted hereunder. With respect to the ownership of Inventions (including Improvements):
+
+9.1.1 As between the Parties, Bioeq shall own all Inventions (including Improvements) developed, conceived or reduced to practice during the term of this Agreement solely by or on behalf of Bioeq (such Inventions, Bioeq Inventions, and such Improvements, Bioeq Improvements), and all Intellectual Property Rights and Know-How therein.
+
+9.1.2 As between the Parties, Licensee shall own all Inventions (including Improvements) developed, conceived or reduced to practice during the term of this Agreement solely by or on behalf of Licensee (such Inventions, Licensee Inventions, and such Improvements, Licensee Improvements), and all Intellectual Property Rights and Know-How therein.
+
+9.1.3 As between the Parties, the Parties shall jointly own all Inventions (including Improvements) developed, conceived or reduced to practice jointly by or on behalf of both Bioeq and Licensee (such Inventions, Joint Inventions, and such Improvements, Joint Improvements), and all Intellectual Property Rights and Know-How therein. Each Party hereby assigns to the other Party a joint equal and undivided interest in and to all Joint Inventions (including Joint Improvements) to effect such joint ownership of such Joint Inventions (including Joint Improvements). Each Party shall have the right to disclose and exploit the Joint Inventions (and Joint Improvements) without a duty of consent or accounting to the other Party, subject to the terms and conditions of this Agreement and the licenses granted hereunder. For those countries where a specific license is required for a joint owner of a Joint Invention or Joint Improvement to practice such Joint Invention or Joint Improvement, in such country, each Party hereby grants to the other Party a perpetual, irrevocable, non-exclusive, worldwide, royalty-free, fully paid-up license, transferable and sublicensable, under such Party's right, title and interest in and to such Joint Invention or Joint Improvement to freely exploit such Joint Invention or Joint Improvement in such country, subject to the terms and conditions of this Agreement and the licenses granted hereunder.
+
+Notwithstanding Section 16.2, inventorship of Inventions (including Improvements) shall be determined by application of United States patent laws pertaining to inventorship, and ownership of Inventions (including Improvements) shall be determined by Inventorship.
+
+9.2 Licenses to Improvements
+
+9.2.1 Bioeq Improvements. Bioeq shall inform Licensee in writing of any Bioeq Improvements promptly after such Bioeq Improvements are developed or reduced to practice. For clarity, the exclusive license granted to Licensee pursuant to Section 2.1 shall extend to all Intellectual Property Rights and Know-How Controlled by Bioeq and embodied within, or claiming or covering the Bioeq Improvements.
+
+9.2.2 Licensee Improvements. Licensee shall promptly inform Bioeq in writing of any Licensee Improvements promptly after such Licensee Improvements are developed or reduced to practice. Licensee hereby grants to Bioeq during the term of this Agreement (and, subject to Section 15.3.4, after termination
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version or expiration of this Agreement) a non-exclusive, fully-paid, irrevocable license (including the right to grant sublicenses) under all Intellectual Property Rights and Know-How Controlled by Licensee and embodied within, or claiming or covering the Licensee Improvements, to Develop, Manufacture, sell, import, or otherwise Commercialize Licensed Products outside of the Territory. [***]
+
+9.2.3 Joint Improvements. The Parties' rights and obligations with respect to Joint Improvements shall be as set forth in Section 9.1.3.
+
+9.3 Prosecution and Maintenance of Licensed Patents.
+
+9.3.1 Patent Rights owned by Bioeq. The Parties are aware that Bioeq does not currently own any Patent Rights relating to the Licensed Products in the Field in the Territory. Should Bioeq own any Patent Rights relating to the Licensed Products in the Field in the Territory in the future, the Parties will discuss and agree in good faith appropriate procedures to coordinate the prosecution and maintenance of such Patent Rights among the Parties.
+
+9.3.2 In-Licensed Licensed Patents. To the extent Bioeq has been granted rights in relation to the prosecution, maintenance or enforcement of any In-Licensed Licensed Patent under the agreement concluded with the relevant Third Party licensor (including, with respect to the [***]-Licensed Patents, the [***] Agreement), Bioeq shall, to the extent permitted under the relevant agreement with the Third Party licensor, (i) [***] inform Licensee on any material developments with respect to the filing, prosecution, maintenance or enforcement of such In-Licensed Licensed Patent in the Territory, including by providing copies of all substantive communications or any other substantive documents and (ii) provide Licensee with [***].
+
+9.3.3 Licensee Inventions. For clarity, Licensee shall have the sole right to control the filing, prosecution, and maintenance of Patent Rights claiming or covering the Licensee Inventions (including the Licensee Improvements).
+
+9.3.4 Joint Inventions. The Parties will discuss and agree in good faith on appropriate procedures to coordinate the prosecution and maintenance of Patent Rights claiming or covering the Joint Inventions (including the Joint Improvements) prior to taking any action to do the same.
+
+9.4 Patent Dance; Defense against Third Party Infringement Claims.
+
+9.4.1 BPCIA Proceedings. Notwithstanding the fact that the Parties acknowledge and agree that Bioeq will be the initial holder of the Biologics License Application filed for each Licensed Product in the Territory in Bioeq's own name, as between the Parties, with respect to each Licensed Product, Licensee shall have the sole right and shall use Commercially Reasonable Efforts to control the initiation and participation of Bioeq in the pre-litigation processes of the BPCIA generally set forth in 42 U.S.C. § 262(1), including the process commonly referred to as the "patent dance" and the "notice of commercial marketing" (collectively, the BPCIA Proceedings) with respect to each Licensed Product. Without limiting the foregoing:
+
+(a) Bioeq will notify Licensee within [***] ([***]) [***] of submitting a Biologics License Application for the Licensed Product in the Territory, and will notify Licensee on the same day that such Biologics License Application is accepted by the FDA. Bioeq shall, upon request from Licensee, provide the Reference Product sponsor with timely confidential access to such Biologics License Application for the Licensed Product as well as certain Licensed Product Manufacturing information as permitted under 42 U.S.C. § 262(l)(l)-(2) (referred to hereafter as Initiating Patent Dance Proceedings). Licensee shall have the right to control the scope of the disclosures of Licensed Product Manufacturing information to the Reference Product sponsor, provided that Licensee will take Bioeq's comments into good faith
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version consideration in connection therewith. For clarity, in no event will Bioeq Initiate Patent Dance Proceedings unless directed to do the same by Licensee, and, upon the request of Licensee, will negotiate with the Reference Product sponsor whether to utilize a different mechanism for information exchange other than that specified in 42 U.S.C. §261(1)(1).
+
+(b) After Initiating Patent Dance Proceedings, Bioeq will fully cooperate with Licensee in connection with "Paragraph 3" information exchange and "Paragraph 5" negotiation and resolution proceedings with the Reference Product sponsor pursuant to 42 U.S.C. §261(l)(3)-(5), including by keeping Licensee fully informed with respect to, and providing Licensee a copy of, all communications received from the Reference Product sponsor/its designee on the same day as receipt thereof. Licensee shall have final decision-making authority with respect to all communications and negotiations with the Reference Product sponsor in connection therewith, including [***], provided that Licensee will take Bioeq's comments into good faith consideration in connection therewith. For clarity, Licensee shall have the sole right to direct and control any negotiations regarding securing a license or other rights to Intellectual Property Rights, Know-How or Trademarks owned or controlled by the Reference Product sponsor during the course of and in connection with the BPCIA Proceedings.
+
+(c) Licensee, at its sole discretion, shall control the timing of providing notice of commercial marketing to the Reference Product sponsor under 42 U.S.C. §262(1)(8)(B), and shall have final decision-making authority with respect to all communications and negotiations with the Reference Product sponsor in connection therewith. Bioeq shall fully cooperate with Licensee in connection therewith and shall communicate and negotiate with the Reference Product sponsor solely as directed by Licensee.
+
+(d) Bioeq shall, and shall use Commercially Reasonable Efforts to cause its Affiliates (including [***]), CMOs, licensors, and other relevant contractors (including, for the avoidance of doubt, [***] and [***]) to fully cooperate with Licensee's requests and to be available for consultation in connection with the BPCIA Proceedings. Licensee shall have the right to select, approve and direct the primary outside counsel to be used by Bioeq in connection with the BPCIA Proceedings, and will be solely responsible for the costs of engaging such outside counsel for such purposes; provided that Bioeq shall have the right, at its sole cost and expense, to engage and consult secondary outside counsel in connection with such activities ([***]).
+
+(e) The support provided by Bioeq and its Affiliates (including [***]) under this Section 9.4.1 shall be provided free of charge to Licensee, except that Licensee shall reimburse [***] for their [***] costs incurred in connection with supporting the BPCIA Proceedings.
+
+(f) The costs of any support provided by Bioeq's CMOs, licensors, and other relevant contractors (including [***] and [***]) under this Section 9.4.1 shall be borne by Licensee and shall constitute Qualifying IP Clearance Litigation Costs.
+
+9.4.2 Defense of Infringement Claims. Additionally, and without limiting Section 9.4.1, each Party shall promptly notify, in writing, the other Party upon learning of any notice, allegation, suit, or other proceeding against either Party, or any of their respective Affiliates, subcontractors, suppliers, licensors, licensees or customers, of infringement, misappropriation or misuse of any Third Party Intellectual Property Rights or Know-How as a result of the actual or planned Commercialization of any Licensed Product in the Field in the Territory or the actual or planned Manufacturing of such Licensed Product for Commercialization in the Field in the Territory, including any infringement claim brought under the BPCIA (an Infringement Claim). As between the Parties, Licensee shall have the primary right and use Commercially Reasonable Efforts to control the defense against any such Infringement Claim (irrespective of whether such Infringement Claim was brought against Licensee, Bioeq or any of their respective Affiliates, subcontractors, suppliers, licensors, licensees or customers (collectively referred to as Defendants)), including directing all aspects, stages, motions and proceedings of litigation (including
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version motions or proceedings under the BPCIA) as well as bringing any counter-claims against the Infringement Claim, as well as electing to settle such Infringement Claim (subject to Section 9.4.2(h)) (collectively Defend or Defense). The Parties shall cooperate in relation to any such Defense as follows:
+
+(a) As between the Parties, Licensee shall have the sole right, and at its sole cost and expense, to select the primary outside counsel to jointly represent the Defendant(s) named in such Infringement Claim and to direct and control the Defense thereof ("Primary Outside Defense Counsel"). If Licensee is not a named Defendant in such Infringement Claim, Licensee may, at its sole discretion, join as a named Defendant in such Infringement Claim (to the extent permitted by Applicable Law).
+
+(b) Prior to undertaking any action of Defense, Licensee shall notify Bioeq in writing and shall, upon Bioeq's request, and in connection with Primary Outside Defense Counsel, disclose to, and discuss with, Bioeq in good faith (i) the [***], (ii) [***] and (iii) [***].
+
+(c) Licensee shall give due consideration to Bioeq's comments with respect to items discussed between the Parties pursuant to this Section 9.4.2, but shall have the final decision-making authority on all aspects relating to the Defense of such Infringement Claim (including with respect to directing Primary Outside Defense Counsel with respect to actions taken in connection with the Defense).
+
+(d) Licensee shall, through Primary Outside Defense Counsel, keep Bioeq reasonably informed of all material developments in connection with any Defense of such Infringement Claim, including by providing Bioeq with copies of draft and filed filings, motions, pleadings and other material submissions and communications (including oral communications) with the relevant judicial authority relating to such Defense of such Infringement Claim, sufficiently in advance, where reasonably possible, for Bioeq to comment on such Defense of such Infringement Claim. Licensee shall give due consideration to Bioeq's comments.
+
+(e) Upon Licensee's request, Bioeq shall fully cooperate with Licensee in any such Defense, including in connection with the discussions between the Parties as set forth in Section 9.4.2(b), and, if requested by Licensee, by being joined as a party or allowing Licensee to be joined as a party (to the extent permitted by Applicable Law) to the relevant Infringement Claim. Without limiting the foregoing, Bioeq shall, and shall use Commercially Reasonable Efforts to cause its Affiliates and their employees, CMOs, licensors, and other relevant contractors, representatives and agents (including, for the avoidance of doubt, [***], [***], and [***]) to be available and cooperate fully with Licensee in such discussions, including by making relevant witnesses, documents and information available to Licensee and Primary Outside Defense Counsel in connection with the Defense of such Infringement Claim.
+
+(f) The support provided by Bioeq and its Affiliates (including [***]) under this Section 9.4.2 shall be free of charge to Licensee, except that Licensee shall reimburse [***] for their [***] costs incurred in connection with supporting the Defense of any Infringement Claim.
+
+(g) The costs of any support provided by Bioeq's CMOs, licensors, and other relevant contractors (including [***] and [***]) under this Section 9.4.2 shall be borne by Licensee and shall constitute Qualifying IP Clearance Litigation Costs.
+
+(h) Licensee shall not enter into a settlement without [***] and in any such settlement Licensee shall always take into consideration the interest of Bioeq.
+
+(i) Any recoveries obtained upon the final judgement or settlement of any Infringement Claim shall first be used to reimburse Licensee for its costs incurred in connection therewith. Any remaining recoveries shall be regarded as Gross Margin.
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version 9.4.3 Damages.
+
+(a) All amounts to be paid by the Defendants upon the final judgment or settlement in connection with the Defense of an Infringement Claim, or in securing a license or other rights to Intellectual Property Rights, Know-How, or Trademarks owned or controlled by the Reference Product sponsor during the course of and in connection with the BPCIA Proceedings, including [***] (collectively, Damages) shall be borne by Licensee (or its Affiliate), and [***].
+
+(b) Licensee may deduct Damages from the calculation of Gross Margin to be paid pursuant to Section 7.3 on a per calendar quarter basis as set forth in Section 7.3.3.
+
+9.4.4 Qualifying IP Clearance Litigation Costs. Licensee may deduct Qualifying IP Clearance Litigation Costs from the calculation of Gross Margin to be paid pursuant to Section 7.3 on a per calendar quarter basis as set forth in Section 7.3.3.
+
+9.4.5 Secondary Bioeq Outside Counsel. Notwithstanding Section 9.4.2 above, Bioeq shall have the right to be represented in any Defense of an Infringement Claim by a secondary outside counsel at its own cost and expense; provided that for clarity Licensee, through Primary Outside Defense Counsel, shall have final decision-making authority with respect to the control of the Defense of such Infringement Claim.
+
+9.4.6 Notice and Cooperation. Without limiting Bioeq's obligations to cooperate with Licensee as set forth in this Section 9.4, Bioeq shall have the right to notify of and coordinate any Defense of an Infringement Claim with any of its Affiliates, subcontractors, suppliers, licensors or licensees in accordance with the terms of the agreements concluded with any such Affiliates, subcontractors, suppliers, licensors or licensees as they exist of the Effective Date.
+
+9.5 Enforcement of Licensed Patents.
+
+9.5.1 In the event that either Party becomes aware of a suspected infringement of any Licensed Patent as a result of the Development, Manufacture, or Commercialization, use, or importation of a Competitive Product in the Territory ("Competitive Infringement"), such Party shall notify the other Party promptly in writing, and following such notification, the Parties shall meet and confer. As between the Parties, and subject always to the terms and conditions of the relevant agreements pursuant to which such In- Licensed Licensed Patents are exclusively licensed to Bioeq (including, with respect to the [***]-Licensed Patents, the [***] Agreement):
+
+9.5.2 [***] shall have the first right, but not the obligation, to enforce the Licensed Patents against such Competitive Infringement at its own expense, in its own name, and under its own direction and control, including by settling any such action or proceeding. Notwithstanding the preceding sentence, [***] shall not enter into a settlement that imposes a financial obligation upon [***] or which limits any of [***] in any Licensed Patent without [***] prior written consent (such consent not to be unreasonably withheld or delayed), and in any such settlement [***] shall always take into consideration the interest of [***].
+
+9.5.3 [***] shall reasonably assist [***] in connection with [***] enforcing the Licensed Patents against such Competitive Infringement if so requested, and shall be named in or join such action or proceeding if required for [***] to bring such action. [***] shall reimburse [***] for its reasonable out-of-pocket costs incurred in connection with such activities, except that [***] shall be responsible for any costs of engaging its own outside legal counsel which [***] has the right to engage in connection with such action or proceeding.
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version 9.5.4 If [***] elects not to exercise its rights under Section 9.5.2 within [***] ([***]) days of first becoming aware of such Competitive Infringement, then [***] shall have the right, but not the obligation, to enforce the Licensed Patents against such Competitive Infringement, and in such case (a) the first sentence of Section 9.5.2 and (b) Section 9.5.3 shall apply mutatis mutandis as if [***] were [***] and [***] were [***]. The Party exercising its enforcement rights under this Section 9.5 shall be referred to as the Enforcing Party.
+
+9.5.5 With respect to all recoveries obtained in connection with an enforcement action or proceeding undertaken pursuant to this Section 9.5, such recoveries shall first be used to reimburse the Enforcing Party for its costs incurred in connection therewith. Any remaining recoveries shall then be used to reimburse the other Party for its costs incurred in connection therewith. Any remaining recoveries shall (a) if [***] is the Enforcing Party, be retained 100% by [***] or (b) if [***] is the Enforcing Party, [***].
+
+9.6 Common Interest Disclosures. With regard to any privileged or confidential information or opinions disclosed pursuant to this Agreement by a Party to the other Party regarding Patent Rights or other intellectual property or technology owned by the disclosing Party or a Third Party, the Parties agree that they may have a common legal interest in determining whether, and to what extent, such Patent Rights and other Intellectual Property Rights or Trademarks may affect any Licensed Product, and a further common legal interest in defending against any actual or prospective Third Party claims based on allegations of misuse or infringement of Patent Rights or other intellectual property rights relating to any Licensed Product. Accordingly, the Parties agree that all such information and materials obtained by the Parties from each other in which they have such a common legal interest may be subject to a separate common interest agreement mutually acceptable to the Parties (and any other parties which may be a party to such separate common interest agreement) that they may enter into with respect to such information and materials, upon the request of either Party. Such separate agreement would provide that: (a) [***]; (b) [***]; and (c) [***].
+
+10.COVENANTS RELATING TO THE [***] AGREEMENT
+
+10.1 [***] Agreement. Licensee acknowledges that it is aware of the terms and conditions of the license granted to Bioeq under the [***] Agreement (to the extent such terms have not be redacted in Annex 1) and accepts and agrees that all obligations of Bioeq under this Agreement shall be subject to the terms and conditions of the [***] Agreement.
+
+10.2 Representations and Covenants in Relation to the Formycon Agreement.
+
+10.2.1 Consent of [***]. Bioeq hereby represents and warrants to Licensee that it has, as of the Effective Date, obtained [***]'s written consent to enter into this Agreement (as is required pursuant to the Formycon Agreement), and that a copy of such written consent of [***] has been provided to Licensee.
+
+10.2.2 Compliance with the Formycon Agreement. Bioeq shall maintain the [***] Agreement in full force and effect, shall not breach the [***] Agreement or the "Services Agreement" or the "Clinical Supply Agreement" (as such terms defined in the [***] Agreement) in any manner or take any other action that could result in [***] having the right to terminate the [***] Agreement and, in the event of any such breach, Bioeq shall use diligent efforts to expeditiously cure Bioeq's breach of the [***] Agreement. Bioeq shall promptly notify Licensee in writing if Bioeq sends or receives any notice of any breach of the [***] Agreement.
+
+10.2.3 Amendments to the [***] Agreement. Bioeq shall not amend or terminate the [***] Agreement in any manner that would negatively affect the rights and/or obligations of Licensee under this Agreement.
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version 10.2.4 Disputes. Bioeq shall promptly inform Licensee of any dispute under the [***] Agreement which may have a material effect on the Development or Commercialization of the Licensed Products in the Field in the Territory, and either Party shall reasonably cooperate with the other in the settlement of such dispute.
+
+11.CONFIDENTIALITY
+
+11.1 Obligation of Confidentiality. As of and after the Effective Date, all Confidential Information disclosed, revealed or otherwise made available to one Party (Receiving Party) by or on behalf of the other Party (Disclosing Party) under, or as a result of, this Agreement is made available to the Receiving Party solely to permit the Receiving Party to exercise its rights, and perform its obligations, under this Agreement. The Receiving Party shall not use any of the Disclosing Party's Confidential Information for any other purpose, and shall not disclose, reveal or otherwise make any of the Disclosing Party's Confidential Information available to any other person, firm, corporation or other entity, without the prior written authorization of the Disclosing Party, except as explicitly stated in this Agreement. An appropriate confidential disclosure agreement must be signed by any Third Party or Affiliate prior to receiving Confidential Information from either Party.
+
+11.2 Additional Obligations. In furtherance of the Receiving Party's obligations under Section 11.1 hereof, the Receiving Party shall take all appropriate steps and shall implement all appropriate safeguards, to prevent the unauthorized use or disclosure of any of the Disclosing Party's Confidential Information available to any Third Party, without the prior written authorization of the Disclosing Party. Without limiting the generality of this Section 11.2, the Receiving Party may disclose any of the Disclosing Party's Confidential Information without the Disclosing Party's prior written authorization only to those of the Receiving Party's officers, employees, agents, consultants, licensees, potential licensees and financial investors that have need to know the Disclosing Party's Confidential Information, in order for the Receiving Party to exercise its rights and perform its obligations under this Agreement, and only if such officers agents, consultants, licensees, potential licensees and financial investors have executed appropriate non‑disclosure agreements containing substantially similar terms regarding confidentiality, as those set out in this Agreement, or are otherwise bound by obligations of confidentiality effectively prohibiting the unauthorized use of the Disclosing Party's Confidential Information. In particular, Bioeq shall be entitled to disclose a [***] redacted copy of this Agreement to [***] (such redacted copy to be approved in writing by Licensee prior to provision to [***]) in order to obtain [***]'s approval to this Agreement, as required under the [***] Agreement. The Receiving Party shall furnish the Disclosing Party with immediate written notice of any unauthorized use or disclosure of any of the Disclosing Party's Confidential Information and shall take all actions that the Disclosing Party reasonably requests in order to prevent any further unauthorized use or disclosure of the Disclosing Party's Confidential Information.
+
+11.3 Limitations. The Receiving Party's obligations under Sections 11.1 and 11.2 shall not apply to information that the Receiving Party can prove by written evidence that:
+
+(a) passes into the public domain, or becomes generally available to the public through no fault of the Receiving Party;
+
+(b) is disclosed, revealed or otherwise made available to the Receiving Party by a Third Party that is under no obligation of non-disclosure and/or non-use to the Disclosing Party;
+
+(c) is required to be disclosed under Applicable Laws, rules of a securities exchange or by order of a court or arbitral tribunal; provided, however, that the Receiving Party shall furnish the Disclosing Party with prior written notice of such disclosure requirement as reasonably practicable, and shall use reasonable efforts to assist the Disclosing Party with obtaining confidential treatment with respect to or otherwise minimizing the required disclosure; or
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version (d) is independently developed by the Receiving Party without the use or benefit of Confidential Information of the Disclosing Party as evidenced by contemporaneous written records.
+
+11.4 Material. Any biological or chemical material which is transferred by or on behalf of a Party or its Affiliates to the other Party or its Affiliates under this Agreement shall be used only for purposes of this Agreement, and shall not be used for any other purpose, [***]. The Party or its Affiliate receiving such material shall keep the material secure and safe from loss damage, theft, misuse and unauthorized access and shall use the material in accordance with all Applicable Laws, regulations and guidelines.
+
+11.5 Return of Confidential Information. Upon termination of this Agreement for any reason whatsoever, the Receiving Party shall cease all use of and return to the Disclosing Party, or destroy, as the Disclosing Party shall specify in writing promptly upon such expiration or termination, all materials transferred pursuant to Section 11.4 and all copies of all documents and other materials that contain or embody any of the Disclosing Party's Confidential Information, except to the extent that the Receiving Party is required by Applicable Laws to retain such documents, and provided further that each Party may keep copies of all Confidential Information within its ordinary legal archives (including IT back-up systems). Within [***] ([***]) days after the date of expiration or termination of this Agreement, the Receiving Party shall furnish the Disclosing Party with a certificate, duly executed by an officer of the Receiving Party, confirming that the Receiving Party has complied with its obligations under this Section 11.4.
+
+11.6 Survival. All of the Receiving Party's obligations under Sections 11.1 and 11.2 hereof, with respect to the protection of the Disclosing Party's Confidential Information shall for a period of [***] ([***]) [***] survive the expiration or termination of this Agreement for any reason whatsoever.
+
+11.7 Public Announcements. Except as may be required by Applicable Laws or rules of a securities exchange, neither Party will originate any publicity, press or news release or other public announcement, written or oral, whether to the public press or otherwise, relating to the terms and conditions of this Agreement (Announcement) without the prior written approval of the other Party, such approval not to be unreasonably withheld. Notwithstanding the foregoing, the Parties agree that neither Party shall be restricted from disclosing in a subsequent Announcement any information which was previously disclosed in a prior Announcement or otherwise previously made publicly available pursuant to this Agreement.
+
+12.REPRESENTATIONS, WARRANTIES AND COVENANTS
+
+12.1 Mutual Representations. Each Party hereby represents and warrants to the other Party as of the Effective Date that (a) the person executing this Agreement is authorized to execute this Agreement; and (b) the execution, delivery and performance of this Agreement as well as the licenses granted hereunder do not conflict with any agreement, instrument or understanding, oral or written, to which such Party may be bound.
+
+12.2 Bioeq Representations, Warranties, and Covenants. Bioeq hereby represents and warrants to Licensee as of the Effective Date and covenants, as applicable, that:
+
+12.2.1 The [***] Agreement is in full force and effect and, to Bioeq's knowledge, there has been no material breach by either party to the [***] Agreement and there is no circumstance that would entitle [***] to terminate the [***] Agreement.
+
+12.2.2 Bioeq has the right to grant the licenses and rights it purports to grant pursuant to this Agreement.
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version 12.2.3 Bioeq is not aware of any pending or threatened litigation, nor has it received any written communications from Third Parties alleging that the Licensed Patents existing as of the Effective Date are invalid or unenforceable or that the exploitation of the Licensed Technology in the Field in the Territory will constitute an infringement or misappropriation of any rights of any Third Party.
+
+12.2.4 To Bioeq's knowledge, neither Bioeq nor its licensors, suppliers, and CMOs (including [***]) has misappropriated any trade secrets of any Third Party in Developing the Licensed Products.
+
+12.2.5 Bioeq has (and, to its knowledge, its licensors, suppliers and CMOs (including [***]) have) made Commercially Reasonable Efforts to protect information, inventions, and technology related to Licensed Products by designating information as confidential or as a trade secret and by taking reasonable steps to prevent disclosure of such confidential information and trade secrets.
+
+12.2.6 Bioeq has (and, to its knowledge, its licensors, suppliers and CMOs (including [***]) have) maintained and will maintain (and will Use Commercially Reasonable Efforts to cause its licensors, suppliers and CMOs (including [***]) to maintain) appropriate skilled personnel and facilities to carry out its obligations under this Agreement.
+
+12.2.7 To Bioeq's knowledge, the information contained within all submissions to, and filings, correspondence, and communications with Regulatory Authorities made by or on behalf of Bioeq or its Affiliates with respect to the Licensed Product is true and accurate in all material aspects and was generated in compliance with Applicable Law, and Bioeq will ensure that the information contained within all submissions to, and filings, correspondence, and communications with Regulatory Authorities to be made by or on behalf of Bioeq or its Affiliates with respect to the Licensed Product will be, to Bioeq's knowledge, true and accurate in all material aspects and will be generated in compliance with Applicable Law.
+
+12.2.8 Bioeq will not use any employees or other persons performing services on behalf of Bioeq in relation to the Development, Manufacture, or Commercialization of Licensed Products that have been debarred or excluded, or are the subject of debarment or exclusion proceedings; and if Bioeq becomes aware that a person performing on its behalf in relation to the Development, Manufacture, or Commercialization of Licensed Products has been debarred or excluded, or has become the subject of debarment or exclusion proceedings, Bioeq shall promptly notify Licensee and shall prohibit such person from performing such activities on its behalf under this Agreement.
+
+12.3 Licensee Representations, Warranties and Covenants. Licensee hereby represents and warrants to Bioeq as of the Effective Date and covenants, as applicable, that:
+
+12.3.1 Licensee has the right to grant the licenses and rights it purports to grant pursuant to this Agreement.
+
+12.3.2 [***]
+
+12.3.3 [***]
+
+12.3.4 [***]
+
+12.3.5 Licensee will maintain (and will use Commercially Reasonable Efforts to cause its suppliers and CMOs to maintain) appropriate skilled personnel and facilities to carry out its obligations under this Agreement.
+
+12.3.6 Licensee will ensure that the information contained within all submissions to, and filings, correspondence, and communications with Regulatory Authorities made by or on behalf of Licensee or its
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version Affiliates with respect to the Licensed Product ([***]) will be, to Licensee's knowledge, true and accurate in all material aspects and will be generated in compliance with Applicable Law.
+
+12.3.7 Licensee will not use any employees or other persons performing services on behalf of Licensee in relation to the Development, Manufacture, or Commercialization of Licensed Products that have been debarred or excluded, or are the subject of debarment or exclusion proceedings; and if Licensee becomes aware that a person performing on its behalf in relation to the Development, Manufacture, or Commercialization of Licensed Products has been debarred or excluded, or has become the subject of debarment or exclusion proceedings, Licensee shall promptly notify Bioeq and shall prohibit such person from performing such activities on its behalf under this Agreement.
+
+12.4 Disclaimer of Warranties. Except for those representations and warranties set forth in Sections 12.1 and 12.2 of this Agreement, neither Party makes any warranties, written, oral, express or implied, with respect to its performance under this Agreement or the results thereof. In particular, each Party disclaims all other warranties, express or implied, including warranties of merchantability, fitness for a particular purpose and non-infringement. [***]
+
+13.INDEMNIFICATION AND LIMITATION OF LIABILITY
+
+13.1 Indemnification by Bioeq. Subject to Section 13.4, Bioeq agrees to indemnify and hold Licensee harmless from and against all claims, suits, actions, proceedings brought by a Third Party (collectively Claims) for damages, loss or liability, costs or expenses (including reasonable attorney's fees, settlement payments or third party royalties) (collectively Losses) to the extent arising out of or related to:
+
+(a) Bioeq's breach of any representation, warranty, covenant or obligation under this Agreement; or
+
+(b) Bioeq's negligence, recklessness, or wilful, intentional or criminal wrongdoing;
+
+except, in each case of (a)-(b) hereunder, to the extent such Losses are due to the events described in Section 13.2(a)-(c) below.
+
+13.2 Indemnification by Licensee. Subject to Section 13.4 (and notwithstanding any other indemnification obligation assumed by Licensee under this Agreement), Licensee agrees to indemnify and hold Bioeq harmless from and against all Claims for Losses to the extent arising out of or related to:
+
+(a) Licensee's breach of any representation, warranty, covenant or obligation under this Agreement;
+
+(b) Licensee's Commercialization of the Licensed Products in the Field in the Territory; or
+
+(c) Licensee's negligence, recklessness, or wilful, intentional or criminal wrongdoing;
+
+except, in each case of (a)-(c) hereunder, to the extent such Losses are due to the events described in Section 13.1(a)-(b) above.
+
+13.3 Indemnification Procedure. With respect to any indemnification obligations of either Party under this Agreement, the following conditions must be met for such indemnification obligations to become applicable:
+
+(a) The Party requesting the indemnification (Indemnified Party) shall notify the other Party (Indemnifying Party) promptly in writing of any claim which may give rise to an obligation on the part of Indemnifying Party hereunder;
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version (b) The Indemnified Party shall use commercially reasonable efforts to avoid or mitigate any Losses which the Indemnified Party may suffer as a result of the Indemnifying Party's breach or wrongdoing; and
+
+(c) To the extent Losses are the result of a Third Party claim, suit, action or proceeding (Third Party Claim), (i) the Indemnified Party shall not without the prior consent in writing of the Indemnifying Party make any admission or otherwise do anything, which may prejudice the defense against such a Third Party Claim; (ii) Indemnifying Party shall be allowed to timely undertake the sole control of the defense of any such Third Party Claim, including all negotiations for the settlement, or compromise of such claim or action at its sole expense; and (iii) the Indemnified Party shall at its expense render reasonable assistance, information, co-operation and authority to permit Indemnifying Party to defend such Third Party Claim.
+
+13.4 Limitation of Liability. Except for a breach of Section 11 ("Confidentiality"), and without limiting a Party's indemnification obligations hereunder, in no event shall either Party be liable to the other Party in any manner for any special, non- compensatory, consequential, indirect, incidental, statutory or punitive damages of any kind, including lost profits and lost revenue, regardless of the form of action, whether in contract, tort, product liability or otherwise, even if informed of or aware of the possibility of any such damages in advance, except to the extent that such limitation of liability is contrary to the Applicable Law or any such special, non-compensatory, consequential, indirect, incidental, statutory or punitive damages have been awarded to a Third Party under a Third Party Claim.
+
+14.GOVERNANCE
+
+14.1 Committees. The Parties shall, within [***] ([***]) days following the Effective Date, establish (a) a Development and Manufacturing committee (Development and Manufacturing Committee) and (b) a Commercialization committee ("Commercialization Committee"). The Parties acknowledge and agree that the Development and Manufacturing Committee and the Commercialization Committee shall have no authority to amend or modify the terms and conditions of this Agreement or the Manufacturing and Supply Agreement
+
+14.2 Development and Manufacturing Committee.
+
+14.2.1 Composition of the Development and Manufacturing Committee.  The Development and Manufacturing Committee shall have a total of at least [***] ([***]) members. At least [***] ([***]) of such members shall be appointed by Licensee, and at least [***] ([***]) of such members shall be appointed by Bioeq. Bioeq shall appoint one (1) of its members as chairman of the Development and Manufacturing Committee. Each Party may appoint substitutes or alternates for its Development and Manufacturing Committee members at any time by written notice to the other Party.
+
+14.2.2 Responsibilities of the Development and Manufacturing Committee. The Development and Manufacturing Committee shall be responsible for overseeing and reviewing the activities of the Parties under this Agreement with respect to Development (including Manufacturing) activities for the Licensed Products to be conducted by the Parties hereunder. The Development and Manufacturing Committee shall, in particular:
+
+(a) review and discuss the Development (including Manufacturing) activities of Bioeq to be conducted pursuant to Section 3;
+
+(b) review and approve each Development & Manufacturing Plan as set forth in Section 3.2;
+
+(c) approve all Development activities to be conducted by Bioeq which (i) [***] or (ii) [***] (X) [***] (Y) [***]; and
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version (d) review and discuss the regulatory activities to be conducted by the Parties pursuant to Article 4.
+
+14.2.3 Meetings of the Development and Manufacturing Committee. Until [***] is obtained, meetings of the Development and Manufacturing Committee shall be scheduled at least once per calendar quarter, and additional ad hoc meetings shall be scheduled if reasonably requested by either Party. After [***], meetings of the Development and Manufacturing Committee shall be scheduled as reasonably requested by either Party. All meetings shall be made by video conference, audio conference or in person, as agreed by the Development and Manufacturing members from time to time, provided that at least one (1) Development and Manufacturing Committee meeting per calendar year shall be made in person. All meetings of the Development and Manufacturing Committee shall be held in English language and all documents and reports to be exchanged or discussed in the Development and Manufacturing Committee shall be in the English language. The chairman of the Development and Manufacturing Committee shall prepare minutes of each Development and Manufacturing Committee meeting and submit such minutes to each Development and Manufacturing Committee member with [***] ([***]) days of each Development and Manufacturing Committee meeting for their review and approval. Such meetings of the Development and Manufacturing Committee shall be considered finalized only upon the unanimous consent of all Development and Manufacturing Committee members. Each Party will bear all expenses it incurs in regard to participating in all meetings of the Development and Manufacturing Committee, including all travel and living expenses.
+
+14.2.4 Decisions of the Development and Manufacturing Committee. Decisions of the Development and Manufacturing Committee for matters within its decision-making purview shall be made by unanimous consent and shall only be valid if at least one (1) Development and Manufacturing Committee member appointed by each Party is present at the relevant Development and Manufacturing Committee meeting. If the Development and Manufacturing Committee cannot agree on any particular topic within its decision-making purview within [***] ([***]) days after it has met and attempted to reach such decision, then either Party may, by written notice to the other, have such issue referred to resolution pursuant to Section 16.3.1 (except that the time-period for discussion by the senior executives of the Parties shall be [***] ([***]) days instead of [***] ([***]) days), and thereafter if such issue has still not been resolved, then [***]. The Parties acknowledge and agree, however, that with respect to [***], the relative rights and obligations of the Parties shall be as set forth in those relevant Sections of the Agreement and the Development and Manufacturing Committee shall serve solely as a forum for review and discussion in connection with such activities and shall have no decision-making authority with respect to such matters.
+
+14.3 Commercialization Committee.
+
+14.3.1 Composition of the Commercialization Committee. The Commercialization Committee shall have a total of at least [***] ([***]) members. At least [***] ([***]) of such members shall be appointed by Licensee, and at least [***] ([***]) of such members shall be appointed by Bioeq. Licensee shall appoint one (1) of its members as chairman of the Commercialization Committee. Each Party may appoint substitutes or alternates for its Commercialization Committee members at any time by written notice to the other Party.
+
+14.3.2 Responsibilities of the Commercialization Committee. The Commercialization Committee shall be responsible for overseeing and reviewing the activities of either Parties under this Agreement with respect to the Commercialization activities for the Licensed Products to be conducted by the Parties hereunder. The Commercialization Committee shall, in particular:
+
+(a) review and discuss the Commercialization activities (including activities to prepare for the First Commercial Sale, including matters regarding commercial supply of Licensed Product for sale in the
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version Territory pursuant to the Manufacturing and Supply Agreement) of Licensee to be conducted pursuant to Section 6;
+
+(b) review and approve each Commercialization Plan as set forth in Section 6; and
+
+(c) approve all Commercialization activities to be conducted by Licensee which [***].
+
+14.3.3 Meetings of the Commercialization Committee. Starting [***] ([***]) calendar quarters prior to the anticipated First Commercial Sale of a Licensed Product in the Field in the Territory, meetings of the Commercialization Committee shall be scheduled at least once per calendar quarter, and additional ad hoc meetings shall be scheduled if reasonably requested by either Party. All meetings shall be made by video conference, audio conference or in person, as agreed by the Commercialization members from time to time, provided that at least one (1) Commercialization Committee meeting per calendar year shall be made in person. All meetings of the Commercialization Committee shall be held in English language and all documents and reports to be exchanged or discussed in the Commercialization Committee shall be in the English language. The chairman of the Commercialization Committee shall prepare minutes of each Commercialization Committee meeting and submit such minutes to each Commercialization Committee member with [***] ([***]) days of each Commercialization meeting for their review and approval. Such meetings of the Commercialization Committee shall be considered finalized only upon the unanimous consent of all Commercialization Committee members. Each Party will bear all expenses it incurs in regard to participating in all meetings of the Commercialization Committee, including all travel and living expenses.
+
+14.3.4 Decisions of the Commercialization Committee. Decisions of the Commercialization Committee for matters within its decision-making purview shall be made by unanimous consent and shall only be valid if at least one (1) Commercialization Committee member appointed by each Party is present at the relevant Development and Manufacturing meeting. If the Commercialization Committee cannot agree on any particular topic within its decision-making purview within [***] ([***]) days after it has met and attempted to reach such decision, then either Party may, by written notice to the other, have such issue referred to resolution pursuant to Section 16.3.1 (except that the time-period for discussion by the senior executives of the Parties shall be [***] ([***]) days instead of [***] ([***]) days), and thereafter if such issue has still not been resolved, then [***].
+
+15.TERM AND TERMINATION; NON-SOLICITATION
+
+15.1 Term. Except as otherwise specified in this Agreement, the Parties' respective rights and obligations under this Agreement shall commence on the Effective Date and shall remain in full force for ten (10) years after the First Commercial Sale of the first Licensed Product, and shall thereafter automatically renew for an unlimited period of time unless otherwise terminated in accordance with Section 15.2.
+
+15.2 Termination.
+
+15.2.1 Termination for Breach. Either Party may terminate this Agreement upon material breach of any obligation under this Agreement by the other Party provided that such breach (if curable) is not cured within thirty (30) days following the receipt of written notice thereof by the non-breaching Party. If there is a dispute between the Parties as to whether a material breach has occurred or whether such breach was curable or has been cured by the other Party within the above cure period, notice of termination may only be given after the terminating Party has escalated the issue to the relevant senior executives pursuant to Section 16.3.1 and the senior executives have not been able to solve such dispute within thirty (30) days of such escalation.
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version 15.2.2 Termination by Bioeq for Underperformance. Subject to the second sentence of this Section 15.2.2, Bioeq may notify Licensee of its intent to terminate this Agreement anytime within thirty ([***]) days following the end of any [***] ([***]) month time period starting [***] ([***]) months after the First Commercial Sale of the first [***] Product in the Field in the Territory upon written notice to Licensee, if Licensee, with respect to its sales of Licensed Products in the Field in the Territory, has not achieved an average market share of at least [***] percent ([***]%) of the [***] (such market excluding for clarity in all cases [***]), calculated based on [***] in the Field in the Territory in the [***] ([***]) months prior to the end of such [***] ([***]) month time period (i.e., for example, in months [***] of the [***] after the First Commercial Sale of such [***] Product) (Minimum Market Share Requirement); upon Licensee's receipt of such notice from Bioeq, if Licensee does not achieve the Minimum Market Share Requirement, applied mutatis mutandis, during the subsequent [***] ([***]) months period following its receipt of such notice from Bioeq (Licensee Cure Period), Bioeq may terminate this Agreement upon written notice to Licensee; provided further, that the termination right described in this Section 15.2.2 shall apply only if [***], and provided further that such failure of Licensee to achieve the Minimum Market Share Requirement (i) is not due to any [***] (including [***]); (ii) not due to any [***] Bioeq's right to notify Licensee of its intent to terminate this Agreement in accordance with the first sentence of this Section 15.2.2 shall apply only until [***] ([***]) days after the [***] ([***]) anniversary of the First Commercial Sale of the first [***] Product in the Field in the Territory, after which Bioeq shall have no further rights under this Section 15.2.2.
+
+15.2.3 Termination by Bioeq for Development or Commercialization of a Competitive Product by Licensee. Bioeq may terminate this Agreement immediately upon written notice to Licensee, if Licensee conducts any clinical development of, markets, sells or distributes any Competitive Product in the Territory, whether directly or indirectly through the intermediary of a Third Party or its Affiliates (Restricted Activities); provided, that in the event that Restricted Activities are being or would be deemed to be conducted by Licensee solely in connection with a Competitor Change of Control, Bioeq may not terminate this Agreement in accordance with this Section 15.2.2 and instead may terminate this Agreement in accordance with Section 15.2.9.
+
+15.2.4 Termination by Bioeq for challenge of Patent Rights. Bioeq may terminate this Agreement immediately upon written notice to Licensee, if Licensee or any of its Affiliates or sublicensees directly or indirectly challenge the validity or enforceability of, or oppose any extension of or the grant of a supplementary protection certificate with respect to, any Licensed Patent in any legal, court, administrative or other governmental proceeding.
+
+15.2.5 Termination by Licensee for Convenience. Licensee may terminate this Agreement for convenience upon eighteen (18) months' advance written notice to Bioeq; provided, however, that any such termination for convenience shall not become effective prior to twelve (12) months after the First Commercial Sale of the first Licensed Product. In the event of any such termination for convenience by Licensee, [***]
+
+15.2.6 Termination by Licensee for Development Delay.
+
+(a) Licensee may terminate this Agreement immediately upon written notice sent to Bioeq any time between [***] and until the receipt of first Regulatory Approval of any Licensed Product in the Field in the Territory if (a) Bioeq has failed to obtain any Regulatory Approval for any Licensed Product in the Field in the Territory on or prior to [***], and (b) [***].
+
+(b) Any time prior to [***], if [***], as reasonably determined based on the relevant facts and circumstances existing at such time, conclude that the first Regulatory Approval for any Licensed Product in the Field in the Territory could not reasonably be expected to be obtained by [***] (such relevant facts and circumstances to include the [***] for [***] in the Territory, the [***], and the [***] (e.g., [***], etc.),
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version Licensee may terminate this Agreement upon written notice to Bioeq. If [***] that the first Regulatory Approval for any Licensed Product in the Field in the Territory could not reasonably be expected to be obtained by [***], within [***] days of [***] notifying [***] in writing of its determination thereof, then the Parties shall negotiate in good faith and use reasonable efforts to settle such disagreement in accordance with Section 16.3.1 for the provided [***] ([***]) day period, provided, however, notwithstanding Section 16.3, either Party may initiate proceedings in relation to such disagreement at any time regardless of the expiration of such [***] ([***]) day period. Any such proceedings shall be finally and exclusively resolved by binding arbitration according to the [***], as applicable on the date of commencement of the arbitration proceedings, by [***] ([***]) [***] appointed mutually by the Parties within [***] ([***]) days of the commencement of arbitration, provided, however, if the Parties are unable to appoint such arbitrator within such [***] ([***]) day period, then the arbitrator shall be appointed by the [***]. The arbitrator shall be someone who has at least [***] ([***]) years of relevant background, experience, and expertise in the biopharmaceutical industry, and specifically as to the subject matter of the dispute to which such arbitrator is to opine on (e.g., [***]. The place of such arbitration shall be [***]. Exclusive language of the arbitration proceedings shall be English. The costs of the arbitration proceeding shall be [***]. The Parties agree that such judgment or award may be enforced in any court of competent jurisdiction. The Parties undertake to keep confidential all awards in their arbitration, together with all materials in the proceedings created for the purpose of the arbitration and all other documents produced by the other Party in the proceedings not otherwise in the public domain, save and to the extent that disclosure may be required by a Party by legal duty, to protect or pursue a legal right or to enforce or challenge an award in legal proceedings before a court or other judicial authority. The Parties shall complete any and all arbitrations subject to this Section 15.2.6 within [***] ([***]) days from the commencement of the arbitration.
+
+15.2.7 Termination by Licensee for Regulatory Reasons. Licensee may terminate this Agreement immediately upon written notice to Bioeq in the event that Bioeq receives [***], in each case, with respect to the first Biologics License Application for such Licensed Product filed by Bioeq with the FDA in accordance with Section 4.1.1 (Adverse Regulatory Event). Bioeq shall notify Licensee in writing immediately of any such Adverse Regulatory Event which may occur.
+
+15.2.8 Termination for Insolvency. Either Party may terminate this Agreement immediately if an Insolvency Event occurs (save as part of a bona fide reorganisation not involving insolvency) in respect of the other Party.
+
+(a) Effect of Bankruptcy. In the event of the rejection of this Agreement by or on behalf of a Party (Bankrupt Party) in the event of an Insolvency Event of such Party, all licenses and rights to licenses granted under or pursuant to this Agreement by the Bankrupt Party to the other Party (Non Bankrupt Party) are, and shall otherwise be deemed to be, for purposes of Section 365(n) of the United States Bankruptcy Code (Bankruptcy Code), licenses of rights to "intellectual property" as defined under Section 101(35 A) of the Bankruptcy Code. The Parties agree that the Non Bankrupt Party, as a licensee of such rights under this Agreement, shall retain and may fully exercise all of its rights and elections under the Bankruptcy Code, and that upon commencement of a bankruptcy proceeding by or against the Bankrupt Party under the Bankruptcy Code, the Non Bankrupt Party shall be entitled to a complete duplicate of, or complete access to (as the Non Bankrupt Party deems appropriate) any such intellectual property and all embodiments of such intellectual property. Such duplicates shall be promptly delivered, and such access shall promptly be provided, to the Non Bankrupt Party (i) upon any such commencement of a bankruptcy proceeding, upon written request therefor by the Non Bankrupt Party, unless the Bankrupt Party elects to continue to perform all of its obligations under this Agreement or (ii) if not delivered under (i) above, upon the rejection of this Agreement by or on behalf of the Bankrupt Party, upon written request therefor by the Non Bankrupt Party. The provisions of this Section 15.2.6(b)(a) are without prejudice to any rights the Non Bankrupt Party may have arising under the Bankruptcy Code or other Applicable Law.
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version 15.2.9 Termination for Competitor Change of Control. Licensee shall notify Bioeq in writing within [***] ([***]) days after entry by Licensee into a definitive agreement which would result in a Competitor Change of Control. During the period between when Licensee enters into a definitive agreement which would result in a Competitor Change of Control and when such definitive agreement is consummated, Licensee shall have the right to divest all such Competitive Products which would be acquired upon the consummation of the transaction giving rise to such Competitor Change of Control. Upon the consummation of such definitive agreement, if Licensee has not then divested all such Competitive Products such that a Competitor Change of Control has occurred, Bioeq may, upon sending written notice to Licensee within sixty (60) days thereafter, terminate this Agreement.
+
+15.2.10 Effect of Termination of the [***] Agreement. Without limiting Bioeq's obligations under Article 10, in the event that the [***] Agreement is terminated by [***], Bioeq will notify Licensee thereof immediately, and Licensee may terminate this Agreement upon written notice to Bioeq.
+
+15.2.11 Written Notice. Any termination shall only be valid if made in writing and delivered to the other Party under the address set forth in Section 16.1.
+
+15.3 Effect of Termination. In case of any termination or expiration of this Agreement, all rights and obligations of the Parties shall cease immediately, unless otherwise indicated in this Section below or elsewhere in this Agreement:
+
+15.3.1 Sale of Inventory. Licensee shall be permitted, at Bioeq's choice (if this Agreement is terminated by Bioeq pursuant to Sections 15.2.1, 15.2.2, 15.2.3, 15.2.4, 15.2.8 or 15.2.9, or by Licensee pursuant to Section 15.2.5) or at Licensee's choice (if this Agreement is terminated by Licensee pursuant to Sections 15.2.1, 15.2.6, 15.2.7 or 15.2.8), to cither (a) continue selling its and its Affiliates' inventory of Licensed Products existing on the termination effective date in accordance with this Agreement for a maximum period of [***] ([***]) days (in which case all terms and conditions of this Agreement, including Licensee's obligation to report and pay royalties, shall continue to apply to such continued sale) or (b) sell such inventory to Bioeq at the supply price paid by Licensee to Bioeq for such inventory in accordance with the Manufacturing and Supply Agreement.
+
+15.3.2 Transfer of Biologics License Application Approvals. Licensee shall, within [***] ([***]) days of the effective date of termination of the Agreement at the latest (and at no cost to Bioeq if this Agreement is terminated by Bioeq pursuant to Sections 15.2.1, 15.2.2, 15.2.3, 15.2.4, 15.2.8 or 15.2.9, or by Licensee pursuant to Section 15.2.5, or at Bioeq's cost and expense if this Agreement is terminated by Licensee pursuant to Sections 15.2.1, 15.2.6, 15.2.7 or 15.2.8, as applicable) transfer and assign to Bioeq or its designee all of Licensee's right, title and interest in and to any and all Biologics License Applications and Biologics License Application Approvals controlled by Licensee for the Licensed Products in the Field in the Territory as of the effective date of such termination, including any and all documentation pertaining to such filings and Biologics License Application Approvals (provided that the physical or electronic transfer of files and documentation in connection with such transfer and assignment of rights may occur after such [***] ([***]) day period without being deemed a breach of this Section 15.3.2 by Licensee). In addition, upon Bioeq's request, Licensee shall notify the competent Regulatory Authority of such transfer, supply Bioeq with all documents already prepared by Licensee or its Affiliates for the filing of applications in relation to the Licensed Products with any Regulatory Authority and/or apply for the closing of any such application. Notwithstanding any other rights Bioeq may have under this Agreement or Applicable Law; if Licensee does not transfer and assign to Bioeq or its designee its rights in any Biologics License Applications and Biologics License Application Approvals controlled by Licensee for the Licensed Products in the Field in the Territory within the above [***] ([***]) day time period (provided that the physical or electronic transfer of files and documentation in connection with such transfer and assignment
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version of rights may occur after such [***] ([***]) day period without being deemed a breach of this Section 15.3.2 by Licensee), [***].
+
+15.3.3 Co-operation. Licensee shall (at no cost to Bioeq if this Agreement is terminated by Bioeq pursuant to Sections 15.2.1, 15.2.2, 15.2.3, 15.2.4, 15.2.8 or 15.2.9, or by Licensee pursuant to Section 15.2.5, or at Bioeq's cost and expense if this Agreement is terminated by Licensee pursuant to Sections 15.2.1, 15.2.6, 15.2.7 or 15.2.8, as applicable) use Commercially Reasonable Efforts to cooperate with Bioeq or its designee, and provide [***] reasonable assistance and support, to [***] Bioeq or its designee to take over the Commercialization of the Licensed Products in the Field in the Territory [***] following the effective date of such termination, including by (a) using Commercially Reasonable Efforts to provide [***], (b) disclosing and assigning (to the extent permitted under the relevant agreement) to Bioeq Licensee's existing agreements relating solely to the Commercialization of the Licensed Product in the Territory, including with [***], to the extent legally possible ([***]) and (c) transferring Licensed Product- specific marketing materials, including [***]. With respect to any such information, materials or agreements provided to Bioeq pursuant to this Section 15.3.3, Licensee may redact information relating to other products which are not Licensed Products as well as proprietary information of the relevant Third Party from such information, materials, or agreements prior to providing the same to Bioeq. Additionally, to the extent Licensee has agreements relating to the Commercialization of both the Licensed Products and other products in the Territory with wholesalers, distributors, pharmacies, hospitals, health insurances and other relevant parties, upon request from Bioeq, Licensee shall introduce Bioeq to such parties and [***].
+
+15.3.4 Licensee Improvements. The license granted by Licensee pursuant to Section 9.2.2 shall be extended to also include the Development, Manufacture, sale, import or other Commercialization of Licensed Products in the Field in the Territory, and, unless this Agreement is terminated by Bioeq pursuant to pursuant to Sections 15.2.1, 15.2.2, 15.2.3, 15.2.4, 15.2.8 or 15.2.9, or by Licensee pursuant to Section 15.2.5 (in [***]), such license shall thereafter be royalty-bearing on Bioeq on Net Sales (applied mutatis mutandis as if Bioeq were Licensee, and additionally applying to sales by sublicensees of Bioeq) by Bioeq, its Affiliates, and its sublicensees of Licensed Products in the Field in the Territory which have [***] Licensee Improvement, at [***].
+
+15.3.5 License to Licensee-Controlled Trademark. Solely in the event that this Agreement is terminated by Bioeq pursuant to Sections 15.2.1, 15.2.2, 15.2.3, 15.2.4, 15.2.8 or 15.2.9 or by Licensee pursuant to Section 15.2.5 , Licensee shall grant, and hereby grants to Bioeq an exclusive, royalty-free, fully paid, sublicenseable, license to use the Licensee-Controlled Trademarks which were actually used by Licensee to Commercialize the Licensed Products in the Territory in connection with Bioeq's Commercialization of the Licensed Products in the Territory. If this Agreement is terminated by Licensee pursuant to Sections 15.2.1, 15.2.6, 15.2.7 or 15.2.8, such license shall be royalty bearing on Bioeq at [***].
+
+15.3.6 Reimbursement of Milestone Payments. Upon termination by Licensee for development delay pursuant to Section 15.2.6, Bioeq shall refund to Licensee all milestone payments pursuant to Section 7.2 received from Licensee during the term of this Agreement.
+
+15.3.7 Accrued Payment Claims. Termination of this Agreement for any reason whatsoever shall not relieve Licensee of its obligations to pay all amounts payable to Bioeq which have accrued prior to, but remain unpaid as of, the date of termination hereof, or which accrue thereafter. Upon termination of this Agreement any accrued payment obligations shall become immediately due and payable.
+
+15.3.8 Survival. Articles 1, 8, 11 (and with respect to Sections 11.1-11.2, in accordance with Section 11.6), and 13 (solely as to Claims for Losses arising during the term of the Agreement), and Sections 7.3.5, 7.3.6, 9.1, 9.2.2 (in accordance with and as modified by Section 15.3.4), 9.2.3, 9.2.4, 9.6, 15.3, 15.4 (as applicable) and 16 of this Agreement shall survive any termination or expiration of this Agreement.
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version 15.4 Non-Solicitation. Each Party agrees that, during the [***] ([***]) [***] period starting from the Effective Date, such Party will not, directly or indirectly, solicit for employment any employee of the other Party or its Affiliates or otherwise induce or attempt to induce such employees to terminate their employment with such other Party or such other Party's Affiliates; provided, however, that general public solicitations and advertisements not directed at employees of the other Party, and the extension of offers to persons who respond to such general solicitations and advertisements, will not be deemed violations of this provision. Upon breach of this non-solicitation obligation set forth in this Section 15.4, [***].
+
+16.GENERAL PROVISIONS
+
+16.1 Notices. Any consent, notice or report required or permitted to be given or made under this Agreement by one of the Parties to the other shall be in writing by certified, overnight mail and addressed to such other Party at its address indicated below, or to such other address as the addressee shall have last furnished in writing to the addressor, and shall be effective upon receipt by the addressee.
+
+If to Bioeq: Bioeq IP AG [***]
+
+Attention: [***]
+
+If to Licensee : Coherus BioSciences, Inc. 333 Twin Dolphin Drive, Suite 600 Redwood City, CA, 94065, USA
+
+Attention: [***]
+
+16.2 Applicable Law. This Agreement shall be governed by and construed in accordance with the laws of [***], without regard to the conflicts of law principles thereof, and [***].
+
+16.3 Dispute Resolution.
+
+16.3.1 The Parties shall negotiate in good faith and use reasonable efforts to settle any dispute, controversy or claim arising from or related to this Agreement or the breach thereof. If the Parties cannot resolve such dispute, controversy or claim, either Party may escalate the matter further to the following senior executives of the Parties for final discussion and resolution within [***] ([***]) days:
+
+For Bioeq: [***]
+
+For Licensee: Chief [***]
+
+16.3.2 If the senior executives are not able to resolve the matter in dispute within the above [***] ([***]) [***] period, either Party may initiate proceedings in relation to such matter. Any such proceedings shall be finally resolved by binding arbitration according to the [***], as applicable on the date of commencement of the arbitration proceedings, by three (3) arbitrators appointed as follows: each Party shall select one (1) arbitrator, and the two arbitrators so selected by the Parties shall select the third and final arbitrator. If the arbitrators selected by the Parties are unable or fail to agree upon the third arbitrator within [***] ([***]) [***] after the Parties appoint the two arbitrators, then the [***] shall appoint the President of the Tribunal. All arbitrators selected shall have the requisite background, experience and expertise in the biopharmaceutical industry to assist with resolution of the dispute. Place of arbitration shall be [***]. Exclusive language of the arbitration proceedings shall be English. Each Party shall bear its own costs and
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version expenses and attorneys' fees in connection with such arbitration, and the Parties shall share equally all costs of engaging the three (3) arbitrators and using the [***] to arbitrate such matter (unless the arbitration results in a decision and judgment otherwise). The Parties agree that such judgment or award may be enforced in any court of competent jurisdiction.
+
+16.3.3 Notwithstanding anything to the contrary, a Party may seek preliminary measures, including a temporary restraining order or a preliminary injunction from any court of competent jurisdiction in order to prevent immediate and irreparable injury, loss, or damage on a provisional basis, pending the decision of the arbitral tribunal on the ultimate merits of any dispute
+
+16.3.4 The Parties undertake to keep confidential all awards in their arbitration, together with all materials in the proceedings created for the purpose of the arbitration and all other documents produced by the other Party in the proceedings not otherwise in the public domain, save and to the extent that disclosure may be required by a Party by legal duty, to protect or pursue a legal right or to enforce or challenge an award in legal proceedings before a court or other judicial authority.
+
+16.4 Assignment. Except as otherwise expressly provided under this Agreement, neither Party may assign or otherwise transfer this Agreement or any right or obligation hereunder (whether voluntarily, by operation of law or otherwise), without the prior express written consent of the other Party; except however, that either Party shall be permitted to effect such an assignment or transfer without the consent of the other Party to (a) any of its Affiliates or (b) in connection with a sale of all or substantially all of its assets to which this Agreement relates, whether by merger, acquisition, asset sale, stock purchase, or otherwise, but in any event subject to Bioeq's ability to terminate this Agreement in accordance with Section 15.2.9 (for the avoidance of doubt, such termination right pursuant to Section 15.2.9 shall apply mutatis mutandis in case of assignment of the Agreement to a Competitor in all cases listed under subsection (b) above). Any purported assignment or transfer in violation of this Section 16.4 shall be null and void.
+
+16.5 Subcontracting. Bioeq shall be entitled to subcontract any of its obligations under this Agreement only with the prior written consent of Licensee, except that such prior written consent of Licensee shall not be required for Bioeq to subcontract to (a) its Affiliates or (b) [***], [***] and [***] and the subcontractors listed in Schedule 16.5, provided that it shall remain liable for the performance of its obligations under this Agreement. Licensee shall be entitled to freely subcontract or delegate any of its rights or obligations under this Agreement to its Affiliates or to Third Parties, provided that (i) all sales of Licensed Products in the Field in the Territory continue to be made by Licensee or its Affiliates (or their wholesalers or distributors) and (ii) Licensee shall remain liable for the performance of its obligations under this Agreement.
+
+16.6 Construction. This Agreement will be fairly interpreted in accordance with its terms and without any strict construction in favour of or against any Party. The words "include", "includes", and "including", "such as", "for example", or any other words or phrases of enumerative meaning shall be deemed to be followed by the phrase "(but without limitation)".
+
+16.7 Severability. Whenever possible, each provision of this Agreement shall be interpreted in such manner as to be valid and enforceable under Applicable Laws, but if any provision of this Agreement is held to be prohibited by or invalid or unenforceable under Applicable Laws, such provision shall be ineffective only to the extent of such prohibition, invalidity or unenforceability, without invalidating the remainder of such provisions or the remaining provisions of this Agreement, and shall be replaced by a valid and enforceable provisions which comes closest to the commercial intention of the replaced provision.
+
+16.8 Independent Contractors. Each Party hereby acknowledges that the Parties shall be independent contractors and that the relationship between the Parties shall not constitute a joint venture or
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version agency. Neither Party shall have the authority to make any statements, representations or commitments of any kind, or to take any action, which shall be binding on the other Party, without the prior consent of the other Party to do so.
+
+16.9 Waiver. The waiver by a Party of any right hereunder, or of any failure to perform or breach by the other Party hereunder, shall not be deemed a waiver of any other right hereunder or of any other breach or failure by the other Party hereunder whether of a similar nature or otherwise.
+
+16.10 Modification. This Agreement (including the attached Annexes) shall not be modified without the prior written consent of each Party. In the event that the terms of any Annex is inconsistent with the terms of this Agreement, this Agreement shall control, unless otherwise explicitly agreed to in writing by the Parties.
+
+16.11 Entire Agreement. This Agreement (including the attached Annexes and Schedules) together with the Manufacturing and Supply Agreement and the Pharmacovigilance Agreement described in Section 4.6 contains the entire understanding of the Parties with respect to the subject matter hereof. To the extent of any conflict between the terms and conditions of this Agreement and the terms and conditions of the Manufacturing and Supply Agreement or Pharmacovigilance Agreement, the terms and conditions of this Agreement shall control unless otherwise expressly set forth to the contrary in the Manufacturing and Supply Agreement or Pharmacovigilance Agreement. All other express or implied representations, agreements and understandings with respect to the subject matter hereof, either oral or written, heretofore made, are expressly superseded by this Agreement.
+
+16.12 Counterparts. This Agreement may be executed in counterparts, all of which together shall constitute one and the same instrument.
+
+(End of Agreement - Signatures on the following page)
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+Bioeq IP AG
+
+By: / s /  H a n n e s  T e i s s l  / s /  N i c o l a Mikulcik Date: November 02, 2019
+
+Name: Hannes Teissl Nicola Mikulcik
+
+Title: Board Member Board Member
+
+Coherus BioSciences, Inc.
+
+By: / s /  D e n n i s  M . Lanfear Date: November 4, 2019
+
+Name: Dennis M. Lanfear
+
+Title: Chairman & Chief Executive
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version Annex 1
+
+[***] Agreement
+
+Omitted pursuant to Regulation S-K, Item 601(a)(5)
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version Annex 2
+
+Term Sheet for Manufacturing Supply Agreement
+
+Omitted pursuant to Regulation S-K, Item 601(a)(5)
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version Schedule 1.38
+
+Licensed Patents
+
+Omitted pursuant to Regulation S-K, Item 601(a)(5)
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version Schedule 3.2
+
+Initial Development & Manufacturing Plan
+
+Omitted pursuant to Regulation S-K, Item 601(a)(5)
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version Schedule 3.5.1
+
+[***]
+
+Omitted pursuant to Regulation S-K, Item 601(a)(5)
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version Schedule 6.2(c)
+
+Initial Commercialization Commitments
+
+Omitted pursuant to Regulation S-K, Item 601(a)(5)
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version Schedule 6.3
+
+Contents of Commercialization Plan for Planned Activities
+
+Omitted pursuant to Regulation S-K, Item 601(a)(5)
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020
+
+
+
+
+
+Confidential Execution Version Schedule 16.5
+
+Pre-Approved Subcontractors
+
+Omitted pursuant to Regulation S-K, Item 601(a)(5)
+
+48 US-DOCS\112944285.3
+
+Source: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020

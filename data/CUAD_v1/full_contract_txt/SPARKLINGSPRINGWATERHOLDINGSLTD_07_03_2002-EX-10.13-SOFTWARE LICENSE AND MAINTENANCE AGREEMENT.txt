@@ -1,0 +1,335 @@
+Exhibit 10.13
+
+                   SOFTWARE LICENSE AND MAINTENANCE AGREEMENT
+
+                                     BETWEEN
+
+                     GARMAN ROUTING SYSTEMS, INC. ("GARMAN")
+
+                                       AND
+
+               SPARKLING SPRING WATER GROUP LIMITED ("SPARKLING")
+
+     WHEREAS Garman has developed and is entitled to license to others certain software and supporting materials which Sparkling wishes to license, the parties agree as follows:
+
+1.   DEFINITIONS AND SCHEDULES
+
+     In this Agreement the following definitions shall apply:
+
+     (a)    Authorized Locations means the locations listed in Schedule "C."
+
+     (b)    Confidential Information has the meaning specified in Section 14.
+
+     (c)    Documentation means the documentation related to use of the Software described in Schedule "B."
+
+     (d)    Maintenance Commencement Date means the date that acceptance testing is successfully completed at all of the Authorized Locations.
+
+     (e)    Maintenance Services means the Software Update Service, Telephone Support Service and Software Repair Service described in Section 10.
+
+     (f)    Modifications means the modifications set out in Schedule "D."
+
+     (g)    Person includes an individual, corporation, partnership, joint venture, trust, unincorporated organization, the Crown or any agency or instrumentality thereof or any other judicial entity recognized by law.
+
+     (h)    Software means the software described in Schedule "B."
+
+     (i)    Specifications means the specifications set out in Schedule "D."
+
+     (j)    Work means the Software and the Documentation collectively.
+
+     The following is a summary of the Schedules, which shall form an integral part of this Agreement:
+
+                                                                          PAGE 1
+
+     Schedule "A":   Fee Schedule.
+
+     Schedule "B":   Software and Documentation.
+
+     Schedule "C":   Authorized Locations and Software copies for Authorized                      Locations.
+
+     Schedule "D":   Specifications, Modifications, Data Conversion.
+
+     Schedule "E":   Implementation and Training.
+
+     Schedule "F":   Telephone Support Schedule.
+
+2.   GRANT OF LICENSE
+
+     Garman hereby grants to Sparkling, for the use of Sparkling and affiliated companies of Sparkling operating at Authorized Locations, a non-transferable and non-exclusive licence to use: (i) the Software, safely in executable object code format, at each AS400 at each of the Authorized Locations; and (ii) the Documentation. Sparkling's right, if any, to use the Software and Documentation at locations other than the Authorized Locations is subject to the payment of additional fees in accordance with the Fee Schedule.
+
+3.   RESTRICTIONS ON USE
+
+     Sparkling shall:
+
+     (a)    not copy the Software except to copy it onto another AS400 at the Authorized Locations and to make copies of the Software at each Authorized Location solely for backup purposes;
+
+     (b)    not copy any of the Documentation except as required for Sparkling's internal purposes related to Sparkling's use of the Software;
+
+     (c)    not assign this Agreement or transfer, lease, export or grant a sublicence of the Work to any Person, except as and when authorized to do so by Garman in writing;
+
+     (d)    not reverse engineer, decompile or disassemble the Software;
+
+     (e)    not use the Work except as authorized herein;
+
+     (f)    take all reasonable precautions to prevent third parties from using
+
+
+
+
+
+the Work in any way that would constitute a breach of this Agreement including, without limitation, such precautions as Sparkling would otherwise take to protect its own proprietary software or hardware or information; and
+
+                                                                          PAGE 2
+
+     (g)    not use the Work to act as a service bureau in whole or in part, for any other Person, except for any affiliate of Sparkling operating at the Authorized Locations.
+
+4.   DELIVERY, INSTALLATION AND DATA CONVERSION
+
+     (a)    In accordance with Schedule "C," Garman has delivered the required number of copies of the executable object code of the Software to those Authorized Locations (together with copies of the Documentation as is reasonably required by Sparkling to operate the Software in the manner contemplated hereunder) and installed the Software on the applicable AS400's at each Authorized Location. The installation of the Software at each existing Authorized Location shall be deemed to be completed including contracted changes and has been properly installed, is in good working order. Modifications and changes shall fall within the 60 day testing period at which time they are deemed to be completed and has been properly installed, is in good working order.
+
+     (b)    For Future Installations and Conversions at an existing or new Authorized Location, Garman shall be available for Contracting required installation and conversion tasks as reasonably required, in consultation with and with the reasonable assistance of Sparkling, including conversion of Sparkling's data, as more particularly described in Schedule "D," from its current electronic form into a form suitable for processing with the Software and as required for the testing of the Software and for use of the Software as contemplated hereunder.
+
+5.   TRAINING
+
+     In conjunction with the installation of the Software at each existing or new Authorized Location, and prior to the commencement of acceptance testing at each Authorized Location, Garman shall provide as contracted a qualified personnel as specified in Schedule "E." Garman shall also provide copies of reference documentation and manuals for training and reference by Sparkling's personnel.
+
+6.   ACCEPTANCE TESTING AT EACH AUTHORIZED LOCATION
+
+     (a)    For each new Authorized Location, upon written notice by Garman of the completion of the installation of the Software as contracted for in Section 4 including training provided for in Section 5, Sparkling shall operate and test the Software for an acceptance period of 30 business days in accordance with Sparkling's normal operating practices. At the end of each day during the acceptance period, Sparkling shall notify Garman of any instances in which the Software does not perform in accordance with the Specifications.
+
+     (b)    If Garman receives such notification, then it shall take the actions that are necessary to make the Software perform in accordance with the Specifications.
+
+                                                                          PAGE 3
+
+Once it has completed such action, the Software shall be retested by Sparkling for a new 30 day period in accordance with Section 6(a). Such testing and notification by Sparkling and remedial action by Garman shall be repeated until the Software has been accepted by Sparkling, acting reasonably, as meeting the Specifications.
+
+     (c)    Notwithstanding (a) and (b) of this Section 6, Sparkling acknowledges and agrees that there may be minor deficiencies in the Software and provided that on notification thereof Garman promptly rectifies such deficiencies, the acceptance of the Software will not be delayed thereby.
+
+     (d)    If Garman does not receive notice of any deficiencies within ten (10) business days after the completion of the acceptance period, then Sparkling shall be deemed to have accepted the Software at that Authorized Location.
+
+7.   OPTION TO REJECT SOFTWARE
+
+     If during the acceptance period described in Section 6, the Software has failed to perform in accordance with the Specifications and Garman has been unable to correct the deficiency within 45 business days of written notice being provided to Garman of such failure then Sparkling shall have the option, exercisable on 15 business days written notice to Garman, in lieu of any other remedy, to reject the Software. Such option shall terminate if in the interim, the Software successfully completes acceptance testing and meets the Specifications.
+
+8.   OPTION TO REJECT EXERCISED
+
+     If Sparkling exercises its option to reject the Software in accordance with Section 7, then the parties shall forthwith carry out the following actions and this Agreement will terminate upon their completion:
+
+     (a)    Sparkling shall return all copies of the Work and all of Garman's Confidential Information in its possession or control to Garman.
+
+     (b)    Garman shall return to Sparkling any and all amounts paid to Garman hereunder, and all of Sparkling's Confidential Information in its possession or
+
+
+
+
+
+control.
+
+9.   CO-OPERATION AND IMPLEMENTATION
+
+     (a)    Both Garman and Sparkling have designated in Schedule "E" a responsible individual from their respective organizations with the authority and competence to act, and responsibility to serve, as a project manager hereunder and deal with the other party with respect to the Software. Sparkling's project manager shall also be responsible for providing or coordinating the provision of such information about Sparkling and its operations, external and internal procedures and such other information as Garman may reasonably require in order to perform its obligations hereunder. Sparkling's project manager shall have the authority on behalf
+
+                                                                          PAGE 4
+
+of Sparkling to notify Garman that any acceptance tests provided for herein have been successfully passed or, where applicable, that Sparkling waives compliance with any such acceptance tests. Garman's project manager shall be responsible for coordinating with Sparkling's project manager the delivery and installation of the Software. The project managers shall meet for this purpose, as may be reasonably requested by either of them in writing.
+
+     (b)    Garman and Sparkling shall use their best efforts to carry out their respective obligations under this Agreement in accordance with the Implementation and Training Schedule.
+
+10.  MAINTENANCE AND SUPPORT
+
+     For a renewable one-year term commencing upon the Maintenance Commencement Date, subject to payment of maintenance fees in accordance with the Fee Schedule but without additional fees or charges, Garman shall provide the following Maintenance Services:
+
+     (a)    SOFTWARE UPDATE SERVICE
+
+     As part of the Software Update Service, Garman shall provide to Sparkling as soon as reasonably available:
+
+            (1)   corrections and bug fixes for the Software;
+
+            (2)   all modifications, refinements, and enhancements                   ("Improvements") of the Software;
+
+            (3)   new releases of the Software; and
+
+            (4)   updated user manuals to support all of the above in a                   reasonable time frame.
+
+     (b)    TELEPHONE SUPPORT SERVICE
+
+     Telephone Support Service includes Sparkling having direct telephone access to employees of Garman who have the necessary technical expertise and experience to understand and consider Sparkling's inquiries concerning the failure of Software to operate according to Specifications and to clarify Documentation that is either insufficient or unclear. Such direct telephone access shall be available in accordance with the Telephone Support Schedule. In the event that the Telephone Support Service does provide a resolution to Sparkling (acting reasonably) within 2 business days to permit the Software to meet the Specifications, then Garman shall provide Software Repair Services to address the Software failure. The existing Telephone support numbers are for Garman business hours 1-800-667-6901 or 1-306-242-6322
+
+                                                                          PAGE 5
+
+and after hours 1-306-717-1999, which is a pager number being monitored directly by qualified Garman staff.
+
+     (c)    SOFTWARE REPAIR SERVICE
+
+     Should the Software not operate substantially in conformance with the Sparkling's Specifications in all material respects, Garman will use its best efforts to repair the Software under the support agreement at no additional charge to Sparkling. Notwithstanding the foregoing, Garman may charge a fee at its rates set out in the Fee Schedule to provide Software Repair Services which are required due to:
+
+            (1)   failure due to Sparkling operator errors;
+
+            (2)   failure to maintain Software at such updated version or                   release of the Software provided by Garman to Sparkling, from                   time to time, at no additional charge as part of the                   Maintenance Services or otherwise;
+
+            (3)   material modification of the Software by Sparkling; or
+
+            (4)   the Software being transferred to a different networking                   environment or hardware configuration without the prior                   written consent of Garman; or
+
+            (5)   any failure of the hardware or the operating system not caused                   by Garman or the Software.
+
+11.  FEES
+
+
+
+
+
+     Sparkling shall pay the fees as set out in the Fee Schedule in accordance with the terms of this Agreement and the Fee Schedule.
+
+12.  SPECIFICATIONS AND WARRANTY
+
+     For the acceptance period and for a period of one year from the Maintenance Commencement Date, and thereafter for as long as the Software is covered by Maintenance Services and is used by Sparkling in accordance with this Agreement, Garman warrants that the Software shall perform in conformance with the Specifications in all material respects.
+
+13.  INTELLECTUAL PROPERTY INDEMNITY
+
+     Garman is the owner of all intellectual property rights in the Work (including any Improvements or Modifications thereto), including all related materials, logos, and names provided pursuant to the terms of this Agreement. No title to the intellectual property in the Work is transferred to Sparkling by this Agreement.
+
+                                                                          PAGE 6
+
+Garman represents and warrants that it owns or controls all rights necessary to grant the rights to Sparkling in accordance with this Agreement and that there are not, nor will there be, any lien, encumbrance, security interest or other rights against the Work which will interfere in any way with the rights granted to Sparkling. Garman agrees to indemnify Sparkling and hold it harmless from any and all losses, damages and expenses including without limitation, court costs, arbitration fees, penalties, fines, amounts paid in settlement of claims and reasonable legal fees and expenses of investigation (collectively the "Losses") which Sparkling or any of its respective officers or directors may incur due to a breach of this warranty. Sparkling shall notify Garman in writing of any such claim within ten calendar days of a responsible officer of Sparkling becoming aware of such claim. If the Work or any portion thereof is held to constitute an infringement of another Person's rights, and use thereof is enjoined, Garman shall, at its election and expense, make every reasonable effort to correct the situation with minimal effect upon the operations of Sparkling and shall either:
+
+     (a)    procure the right to use the infringing element of the Work;
+
+     (b)    procure the right to an element which performs the same function without any material loss of functionality; or
+
+     (c)    replace or modify the element of the Work so that the infringing portion is no longer infringing and still performs the same function without any material loss of functionality.
+
+14.  CONFIDENTIALITY
+
+     By virtue of this Agreement, the parties may have access to information that is confidential to one another ("Confidential Information"). Confidential Information means all data and information related to the business and management of either party, including proprietary and trade secrets, technology and accounting records for which access is obtained by the other party pursuant to this Agreement, provided that such Confidential Information shall not include data or information which:
+
+     (a)    is or becomes publicly available through no fault of the other party;
+
+     (b)    is already in the rightful possession of the other party prior to its receipt from the other party;
+
+     (c)    is independently developed by the other party;
+
+     (d)    is lawfully obtained by the other party from a third party;
+
+     (e)    is disclosed as required by law; or
+
+     (f)    is disclosed to professional advisors in confidence.
+
+                                                                          PAGE 7
+
+     The parties agree to hold each other's Confidential Information in confidence. The parties agree not to make each other's Confidential Information available in any form to any third party or to use each other's Confidential Information for any purpose outside the scope of this Agreement. Each party agrees to take all reasonable steps to ensure the Confidential Information is not disclosed or distributed by its employees or agents in violation of this Section.
+
+15.  LIMITATION OF GARMAN'S LIABILITY
+
+     The exclusive remedy of either party in a claim against the other under this Agreement shall be the recovery of its direct damages. In no event shall either party be liable to the other for the recovery of any special, indirect or consequential damages even if the defendant party had been advised of the possibility of such damages including but not limited to lost profits, lost revenues, failure to realize expected savings, loss of data and loss of use. The parties agree that the limitation of liability in this paragraph reflects the allocation of risk between the parties and the price of the licenced Software. The limitation of liability in this Section 15 shall not apply to breaches of Sections 13 and 14.
+
+16.  SOURCE CODE ESCROW
+
+
+
+
+
+     (a)    Immediately upon execution of this Agreement, Garman shall maintain on each AS400 at an Authorized Location the most current version of:
+
+            (1)   all source code for the Software in machine readable form,                   with user option to print;
+
+            (2)   all program and user documentation in machine readable and                   printed form;
+
+            (3)   all tools such as compilers, assemblers, linkers and editors                   required to make the source code into the functional Software                   operating in accordance with the Specifications as amended                   from time to time;
+
+            (4)   a complete explanation of any procedures that are not standard                   practice, required to create from the source code the                   functional Software; (5) all documentation listing program and                   module inputs and their sources, outputs and their                   destinations, and any other relevant program and module                   documentation,
+
+(collectively, the "Codes").
+
+                                                                          PAGE 8
+
+     This Source Code shall remain the property of Garman unless Sparkling exercises its option to purchase as specified in the Source Code Agreement. The Source Code on each AS400 shall be the most current version of all Codes for all corrections, bug fixes, Improvements and new releases of the Software which are licensed by Sparkling hereunder. Sparkling shall not be entitled to make use of the Codes except as provided in Section (b), provided that Sparkling may itself or by retaining independent experts, examine and test the materials for compliance with the obligations of Garman hereunder.
+
+     (b)    Garman hereby grants to Sparkling, a perpetual, fully paid, non-exclusive license entitling Sparkling to use and reproduce the Codes deposited with it pursuant to Section (a) to change, update, add to, or substitute the Codes, the Software or any part thereof, limited to Sparkling's needs for the use and improvement of the Software or Sparkling's operations, provided that Sparkling shall only be entitled to utilize such license if Sparkling terminates this Agreement pursuant to Section 17(c) due to Garman's default, or if Garman ceases to support the Software as required pursuant to this Agreement. The parties acknowledge that the bankruptcy of Garman shall not prevent Sparkling's continued use of the Work or the Codes in accordance with United States Bankruptcy Code section 365(n) or any similar provisions in any jurisdiction.
+
+17.  TERM AND TERMINATION
+
+     (a)    This Agreement and the license granted under this Agreement shall remain in effect perpetually as long as fees are paid by Sparkling in accordance with the Fee Schedule and the Agreement is not otherwise terminated in accordance with this Section.
+
+     (b)    Sparkling may terminate this Agreement at any time upon ninety (90) calendar days written notice to Garman. If Sparkling terminates this Agreement pursuant to this Section 17(b), Sparkling shall cease using the Software at the end of the ninety (90) day notice period, and shall certify to Garman within thirty (30) calendar days of termination that Sparkling has destroyed or has returned to Garman all Software, Documentation and Codes.
+
+     (c)    If either party:
+
+            (1)   makes an assignment in bankruptcy or is adjudicated a                   bankrupt;
+
+            (2)   makes a general assignment for the benefit of its creditors;
+
+            (3)   has a receiver, administrator or manager of its property,                   assets or undertaking appointed in such circumstances as would                   in the reasonable discretion of the other party, detrimentally                   affect such other party's rights under this Agreement;
+
+                                                                          PAGE 9
+
+            (4)   is ordered by any court to be wound up;
+
+            (5)   becomes insolvent or makes a sale in bulk of its assets;
+
+            (6)   ceases doing business as a going concern;
+
+            (7)   defaults on any of its material obligations provided for                   hereunder and such default is not cured within thirty calendar                   days of written notice thereof by the other party, or the                   defaulting party fails to take sufficient actions to the                   reasonable satisfaction of the other party to cure the default                   within thirty calendar days of written notice;
+
+this Agreement may be terminated by the other party. If this Agreement is terminated by Sparkling, due to Garman's default, the license herein granted shall continue, but shall be converted to a perpetual license pursuant to which Sparkling shall not be required to pay any further fees to Garman hereunder, and Garman shall immediately return all fees paid under this Agreement for services
+
+
+
+
+
+not yet rendered.
+
+18.  SURVIVAL OF CERTAIN SECTIONS
+
+     Any provisions of this Agreement that require or contemplate performance after termination are enforceable against each party notwithstanding termination. These provisions include but are not limited to Sections 13, 14, 15, 16(b), 18, 19 and 20.
+
+19.  NON-SOLICITATION OF EMPLOYEES
+
+     During the term of this Agreement and for a period of one year thereafter, both parties agree not to hire or allow its respective affiliates to hire any employee of the other party, or any person who was an employee of the other party during the previous six months and who was directly involved in the provision of services under this Agreement.
+
+20.  GENERAL MATTERS
+
+     (a)    Time shall be of the essence with respect to all matters under this Agreement.
+
+     (b)    All notices required or permitted to be given under this Agreement shall be given in writing and may be sent by personal delivery or facsimile transmission addressed to the recipient at the addresses shown below (or such other address as may be designated by notice in accordance with this Agreement):
+
+                                                                         PAGE 10
+
+           Garman:           GARMAN ROUTING SYSTEMS, INC                              #1 - 502 45th Street West                              Saskatoon, SK   S7L 6H2
+
+           Sparkling:        SPARKLING SPRING WATER GROUP LIMITED                              19 Fielding Avenue                              Dartmouth, NS   B3B 1C9
+
+Any notice sent by personal delivery shall be deemed to be given on the day of its delivery provided it is received during regular business hours on a business day, and if it is not received as such then it shall be deemed to be given on the next business day. Any notices sent by facsimile transmission shall be deemed to be given on the day of transmission if received during regular business hours on a business day, and if it is not received as such then it shall be deemed to be given on the next business day.
+
+     (c)    Unless otherwise permitted by this Agreement, no waiver of any part of this Agreement shall be binding unless executed in writing by both parties. No waiver of any part of this Agreement shall constitute a waiver of any other part or a continuing waiver unless otherwise agreed to in writing by both parties.
+
+     (d)    Neither party may assign this Agreement or any rights and obligations under this Agreement to any third party without the written consent of the other party.
+
+     (e)    The parties are acting as independent contractors under this Agreement and not as agents or representatives of the other and not as partners or joint ventures. Neither party shall enter into any agreement or commitment on behalf of the other without the written consent of the other.
+
+     (f)    If either party is delayed or prevented from exercising its obligations or making deliveries in accordance with this Agreement due to circumstances beyond the reasonable control of that party including without limitation, strikes, lockouts, labor disputes, fire, explosion, act of god or other similar causes, then such failure to meet obligations or make deliveries shall not be a breach of this Agreement.
+
+     (g)    Each of the provisions contained in this Agreement is distinct and severable. If one or more of the provisions of this Agreement is found to be illegal or unenforceable, this Agreement shall not be rendered inoperative or invalid but the remaining provisions shall continue in full force and effect.
+
+     (h)    This Agreement shall be governed by the laws of Nova Scotia and the laws of Canada applicable in Nova Scotia. All disputes under this Agreement shall be subject to the non-exclusive jurisdiction of the courts of Nova Scotia.
+
+     (i)    All paragraph headings contained in this Agreement are for convenience only and shall not affect the interpretation of this Agreement.
+
+                                                                         PAGE 11
+
+     (j)    This Agreement constitutes the entire Agreement between the parties with respect to its subject matter, and this Agreement supersedes all prior understandings, representations, negotiations and communications between the parties, oral and written.
+
+         Dated the ____ day of May, 2000.
+
+                                        GARMAN ROUTING SYSTEMS, INC.
+
+                                        Per: ___________________________________
+
+                                        SPARKLING SPRING WATER GROUP LIMITED
+
+
+
+
+
+                                        Per: ___________________________________
+
+                                                                         PAGE 12

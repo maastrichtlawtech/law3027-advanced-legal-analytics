@@ -1,0 +1,217 @@
+MOBILE APPLICATION DEVELOPMENT AGREEMENT (Agreement No: VAL/MAD/PVTINV/DC/190305/1) EDT (Electronic document transmissions)
+
+EDT (Electronic document transmissions) shall be deemed valid and enforceable in respect of any provisions of this Contract. As applicable, this agreement shall be:- Incorporate U.S. Public Law 106-229, ''Electronic Signatures in Global and National Commerce Act'' or such other applicable law conforming to the UNCITRAL Model Law on Electronic Signatures (2001) and ELECTRONIC COMMERCE AGREEMENT (ECE/TRADE/257, Geneva, May 2000) adopted by the United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT). EDT documents shall be subject to European Community Directive No. 95/46/EEC, as applicable. Either Party may request hard copy of any document that has been previously transmitted by electronic means provided however, that any such request shall in no manner delay the parties from performing their respective obligations and duties under EDT instruments.
+
+PRIVATE & CONFIDENTIAL
+
+1-
+
+2-
+
+3-
+
+Source: VGRAB COMMUNICATIONS INC., 10-K, 1/29/2020
+
+
+
+
+
+Mobile Application Development Agreement Agreement No: VAL/MAD/PVTINV/DC/190305/1
+
+Mobile Application Development Agreement This Mobile Application Development Agreement (the "Agreement") is made and effective from 5th Day of March, 2019 BETWEEN: VGrab Asia Ltd. (hereinafter called as the "VAL"), located at Room E, 6th Floor, Eastern Commercial Center, 397 Hennessy Road, Hong Kong. AND: Mr. Zheng Qing, Mr. Gu Xianwin and Ms. Chen Weijie (hereinafter called as the "Developer"), a group of private software developers individuals' lead and coordinated by Ms. Chen Weijie with its operations in P.R.China. And hereinafter, the parties hereto shall be referred to as "Party" or "Parties". RECITALS Whereas, VAL wishes to engage the Developer for services as an independent contractor for the sole purpose of designing the Duesey Coffee Chinese Mobile Apps and backend software contained for iPhone, iPad, Android (Hereinafter called as the "Project") developed as per the requirements specifications by VAL within this mobile application development agreement Whereas, the "Developer" is engaged in the making of such applications and holds all the necessary tools to obtain the needed results of this Project for VAL. NOW, THEREFORE, in consideration of the mutual covenants and agreements herein contained, the parties hereto, intending, to be legally bound, agree as follows: SCOPE OF WORK The high level scope of work is the development of the Project on the requirements specifications as per Clause 6. Creative designs and graphics development is covered in the scope of work of this Agreement; Developer may recommend or create their own designs for the betterment of the App. COMMENCEMENT DATE This Agreement shall commence on 5th March 2019 AGREEMENT PERIOD This Agreement will be for the maximum period of six (6) months beginning for the commencement date, renewable in accordance with the terms hereof, unless earlier terminated pursuant to this Agreement.
+
+Page 1 of 7
+
+1.
+
+2.
+
+3.
+
+Source: VGRAB COMMUNICATIONS INC., 10-K, 1/29/2020
+
+
+
+
+
+Mobile Application Development Agreement Agreement No: VAL/MAD/PVTINV/DC/190305/1
+
+ESTIMATION AND COMMERCIALS Platform iOS, Android
+
+Development Chinese WeChat's Online Store, Social Media, Website, Online Promotion/Marketing and Online Payment for the P.R.China market. Total Delivery Time Min - 4 Calendar Months, Max - 6 Calendar Months Quotation (In USD) $ 200,000.00 Notes: Payments for this Agreement will be transferred by VAL via Bank Wire Transfer Method in US Dollars Currency as per Clause 5. PAYMENT TERMS All Parties agreed the payment listed below are fair and just for the services being provided. Payment to the following individual below within 7 days upon completion and handover on the Project to VAL. No. Name Function Amount
+
+1. Ms. Chen Weijie Coordinator/Lead Developer USD100,000.00
+
+2. Mr. Zheng Qing Developer USD50,000.00
+
+3. Mr. Gu Xianwin Developer USD50,000.00 ENGAGEMENT PROCESS & MILESTONE The Engagement Process and Milestone corresponding for this Fixed Price Project Agreement are as follows: Graphic Design/ UI/ Creative Design/ multimedia The VAL is responsible for, and will supply any graphics/ design/ artwork/ multimedia (sound/ video) required for the project to the Developer at either the beginning of the project, or partially during the development. Developer will however put its recommendations; assist in graphic creation for the betterment of the App. Collaboration, coordination A status update on the progress of the work will be shared with VAL by the lead on milestones basis formally by developer, and informally on weekly/ fortnight/ or as and when required basis. Weekly status calls will also happen to discuss and review the work in progress. WeChat's Official Account Setup Developer will register a WeChat Official Account on behalf of VAL, which has access to all advanced APIs for the development of WeChat Online Duesey Coffee Store in P.R.China. WeChat's Official Social Media and Moments Setup Developer will develop and registered a Duesey Coffee Social Media Platform within the WeChat Official Account on behalf of VAL. WeChat's Mini Program and WeChat Pay Compliance
+
+Page 2 of 7
+
+4.
+
+‐
+
+5.
+
+6.
+
+6.1
+
+6.2
+
+6.3
+
+6.4
+
+6.5
+
+Source: VGRAB COMMUNICATIONS INC., 10-K, 1/29/2020
+
+
+
+
+
+Mobile Application Development Agreement Agreement No: VAL/MAD/PVTINV/DC/190305/1
+
+Developer will develop the Duesey Coffee Mini Program which incorporates the website, products storefront, inventory, ordering systems and payment system. Developer shall ensure the app is technically compliant to WeChat's App guidelines, and VAL's business compliance. Being Developer of the project, Developer will be responsible and liable for the product's business compliance with WeChat Mini Program and Payment guidelines. Simple tabular representation of the Milestone's definition schedule as per the points mentioned above:
+
+No Definition Timeline
+
+1
+
+Setup WeChat Official Account for Duesey Coffee App design and Architecture completed. Backend API partially done. Front end Apps Alpha release initiated. Sent for test/ review by VAL
+
+6  w e e k s  u p o n  s i g n i n g  o f Agreement
+
+2
+
+WeChat Store Front and Backend development Social Medial and WeChat Moments Front and Backend development Backend API fully done. Front end Apps Alpha release completed. Sent for test/ review by VAL. Previously reported bugs fixed.
+
+Week 7 - 13
+
+3
+
+Bugs or feedback escaped in Alpha release fixed. Front end Apps beta release completed. Sent for test/ review by VAL Live run of Duesey Coffee Apps in WeChat
+
+Week 14 - 18
+
+4
+
+All Apps fully completed. Sent for test/ review by VAL. All bugs or feedback resolved and incorporated. Submission to the stores if all tests are passed.
+
+Week 19 - 21
+
+5 Bug Fixing Warranty Time. If any bug is reported then it will be resolved on priority. Week 22 - 23
+
+6 Live and Handover Project to VAL Week 24
+
+100 % Completed
+
+CHANGE ORDERS Definition of Change Order: Any change or modification in functionality or feature or UI of the App required by VAL which is beyond agreed functional requirements considered in this Agreement will be considered as a "Change" in the original specifications, and that shall be agree by Developer to VAL or vice versa as a "Change Order" in writing.
+
+Page 3 of 7
+
+6.6
+
+· · · · · · ·
+
+· · · · · · · · · · · · · ·
+
+·
+
+7.
+
+Source: VGRAB COMMUNICATIONS INC., 10-K, 1/29/2020
+
+
+
+
+
+Mobile Application Development Agreement Agreement No: VAL/MAD/PVTINV/DC/190305/1
+
+Change Orders do not however cover any bug or glitch fixing produced out of the code written by Developer as any "bug" will be fixed by Developer for free up to 3 months after final delivery (Bug Fixing Warranty). SCOPE OF DELIVERABLES No. Deliverable Name Scope
+
+1. Duesey Coffee WeChatFunctionality Development WeChat Mobile App functionality to be developed across both platforms, API development.
+
+2. Functional requirements & UI/Multimedia, backend access. VAL will supply products, logo, pricing and final design approval, multimedia, CMS access.
+
+3. Application package App package to be shared with the VAL for testing andreview.
+
+4. WeChat Official Account upload Apps to be uploaded in WeChat for public viewing anddownloading. DEVELOPMENT TECHNOLOGIES & TARGET DEVICES AND OS The proposed technologies are as follows: iOS SDK, Android, app.json, PHP iPhone and iPad running OS versions 5 to 8; Android devices running 3.0 and above. ASSUMPTIONS AND DEPENDENCIES The development and unit testing of the products will be done online for actual live functionality. The Developer shall on own cost use its credentials of its WeChat Developer Account to develop this Project for VAL. INTELLECTUAL PROPERTY RIGHTS AND OWNERSHIP All Intellectual Property during the project is owned by VAL, and will be turned over to VAL at the conclusion of the project by Developer and after the fulfillment of all commercial obligations by the VAL. All rights and title to Duesey Coffee Intellectual Property created pursuant to the Project shall belong to VAL and shall be subject to the terms and conditions of this Agreement.
+
+Page 4 of 7
+
+8.
+
+9.
+
+Development Technologies: Target Device and OS:
+
+10. · ·
+
+11. 11.1
+
+11.2.
+
+Source: VGRAB COMMUNICATIONS INC., 10-K, 1/29/2020
+
+
+
+
+
+Mobile Application Development Agreement Agreement No: VAL/MAD/PVTINV/DC/190305/1
+
+CONFIDENTIALITY Any information, data and/or contents of documents made available by a party hereto to the other for the purposes of this Agreement hereby contemplated shall not, without the prior written consent of such party, be disclosed to any person, firm or corporation (and to only such extent for) the implementation of the Agreement. Such information, data and/or contents of documents may be disclosed to officers, employees, auditors, solicitors and other professional advisors of this Agreement but only to the extent required in each instance for the implementation of the Agreement hereby contemplated. Each party hereto hereby undertakes with the other party hereto, and to the intent that such undertaking shall have full force and effect notwithstanding that such party shall cease to participate in the Agreement, that it will not, without the prior written consent of the other party hereto, divulge to any person, firm or corporation, any information on technical, economic, financial and marketing matters and any material, data and/or contents of documents received by such party hereto from the other party hereto relating to the Agreement except where (but only to the extent that) disclosure is required by law and will ensure that its employees and agents shall at all times observe this clause. TERMINATION VAL shall, in the event of Developer committing any breach of any of the terms and conditions of this agreement or for any other reason considered as sufficient, be entitled to terminate this agreement by giving two (2) weeks' notice in writing and it is applicable only when the project is not completed. If the customer terminates the agreement, then VAL shall compensate the Developer up to the date of termination with a fee calculated on Pro-rata basis. Developer may also terminate this Agreement by giving two (2) weeks' notice in writing to VAL. It is applicable only when the project is not completed. In case Developer terminates the agreement, it shall handover the entire project related IPR, work done till date to VAL. TERM OF AGREEMENT This Agreement commences on the date it is executed and shall continue until full performance by both parties, or until earlier terminated by one party under the terms of this Agreement. ENTIRE AGREEMENT AND GOVERNING LAW AND JURISDICTION This agreement supersedes all oral and written representations and agreements between the parties including, but not limited to any earlier agreement relating to the subject matter thereof. This agreement shall be construed, interpreted and governed by and in accordance with the laws of Hong Kong. In case the arbitration proceedings fail, an unresolved dispute between Developer and VAL is subject to the binding laws of Hong Kong as a first attempt at formal resolution. Should arbitration fail to reach a resolution and either party wish to pursue the dispute further, this shall be conducted within the binding laws of Hong Kong. LANGUAGE The English language shall be the medium used in all correspondence and legally binding tender.
+
+Page 5 of 7
+
+12. 12.1
+
+12.2
+
+13.
+
+14.
+
+15.
+
+16.
+
+Source: VGRAB COMMUNICATIONS INC., 10-K, 1/29/2020
+
+
+
+
+
+Mobile Application Development Agreement Agreement No: VAL/MAD/PVTINV/DC/190305/1
+
+NOTICE Any notice or other communication required or permitted to be given between the parties under this agreement shall be given in writing at the following address or such other addresses may be intimated from time to time:- For VAL Kind Attn: Mr. Charles Liong, CFO Located at Room E, 6th Floor, Eastern Commercial Center, 397 Hennessy Road, Hong Kong. For Developer Kind Attn: Ms. Chen Weijie, Coordinator/Lead Developer No 12-12-1, City Gardens Condo, Persiaran Raja Chulan, 50200 Kuala Lumpur, Malaysia ENTIRE AGREEMENT AND AMENDMENTS Save insofar as the terms herein contained are supplemented by the articles of association of the Cooperation, this Agreement represents the complete and entire understanding between the parties to the exclusion of all agreements to the contrary, whether oral or written, made prior to the date hereof. Any modification, amendment or alteration of this Agreement shall be made only with the written consent duty signed by all parties and shall be effective from the date of the revision or such other date as may be agreed upon between the parties. EFFECT OF HEADINGS The headings of the Clauses hereof have been inserted for convenience only and shall not affect the interpretation of the provisions of this Agreement. BINDING EFFECT This Agreement shall be binding on the successors in title and permitted assigns of the parties hereto.
+
+Page 6 of 7
+
+17.
+
+18. 18.1
+
+18.2
+
+19.
+
+20.
+
+Source: VGRAB COMMUNICATIONS INC., 10-K, 1/29/2020
+
+
+
+
+
+Mobile Application Development Agreement Agreement No: VAL/MAD/PVTINV/DC/190305/1
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed as of the date first above written. Represented legally by For and on behalf of VGRAB ASIA LTD. Represented by: /s/ Liong Fook Weng Liong Fook Weng (Charles) Executive Director/Chief Financial Officer Represented legally by DEVELOPER /s/ Chen Weijie /s/ Zheng Qing Chen Weijie Zheng Qing Passport No: [REDACTED] Passport No: [REDACTED]
+
+/s/ Gu Xianwin Gu Xianwin Passport No: [REDACTED]
+
+Page 7 of 7
+
+Source: VGRAB COMMUNICATIONS INC., 10-K, 1/29/2020

@@ -1,0 +1,1615 @@
+Exhibit 10.17
+
+Confidential Materials omitted and filed separately with the Securities and Exchange Commission. Triple asterisks denote omissions.
+
+COLLABORATION AGREEMENT
+
+This Collaboration Agreement ("Agreement"), effective as of June , 2010 (the "Effective Date"), is entered into by and between MacroGenics, Inc., a Delaware corporation with a place of business at 1500 East Gude Drive, Rockville, MD 20850 ("MacroGenics"), and Green Cross Corp., a Korean company with a place of business at 303 Bojeong­Dong, Giheung­Gu, Yongin, 446­770, Korea ("Green Cross"). MacroGenics and Green Cross may be referred to herein individually as a "Party" or collectively as the "Parties."
+
+Recitals:
+
+A. MacroGenics has expertise in, and platforms for, the discovery and development of products for the treatment of patients with cancer, inflammatory and infectious diseases.
+
+B. Green Cross conducts research and development with respect to, and sells, pharmaceutical products.
+
+C. Green Cross and MacroGenics desire to enter into collaboration for the development of MacroGenics' anti­HER2 Antibody known as MGAH22, and if approved for commercialization, the commercialization of a Product in South Korea, all upon the terms and conditions set forth in this Agreement.
+
+D. MacroGenics desires to grant to Green Cross, and Green Cross desires to receive, an exclusive license for all Indications for all pharmaceutical forms of MGAH22 for South Korea, upon the terms and conditions set forth in this Agreement.
+
+In consideration of the foregoing premises and the mutual covenants herein contained, the Parties hereby agree as follows:
+
+Agreement:
+
+1. DEFINITIONS. Unless specifically set forth to the contrary herein, the following capitalized terms, whether used in the singular or plural, shall have the respective meanings set forth below:
+
+1.1 "Affiliate" means with respect to any Party, any person or entity controlling, controlled by or under common control with such Party. For purposes of this Section 1.1, "control" means (a) in the case of a corporate entity, direct or indirect
+
+
+
+
+
+ownership of at least fifty percent (50%) or more of the stock or shares having the right to vote for the election of directors of such corporate entity and (b) in the case of an entity that is not a corporate entity, the possession, directly or indirectly, of the power to direct, or cause the direction of, the management or policies of such entity, whether through the ownership of voting securities, by contract or otherwise.
+
+1.2 "Allocable Overhead" means costs incurred by each Party that are attributable to that Party's *** reasonably allocated to the Party's departments or functions, or used to support activities under the Collaboration based on space occupied or headcount or other activity-based methods consistently applied by each Party. The Allocable Overhead shall not include any costs attributable to ***
+
+1.3 "Antibody" means a molecule comprising or containing: (a) one or more immunoglobulin variable domains; (b) fragments, variants, modifications or derivatives of such immunoglobulin variable domains; and (c) the nucleic acid consisting of a sequence of nucleotides encoding (or complementary to a nucleic acid encoding) the foregoing molecules in (a) or (b). The term "Antibody" shall include any monospecific antibodies; less than full­length antibody forms such as Fv, Fab, and F(ab'); single­chain antibodies; and an antibody bound to a drug, label or other moiety and any antibody that is conjugated or fused to any other composition, including for example, a toxin, radionucleotide, small molecule, polypeptide or polypeptide fragment. The term Antibody also includes, without limitation to its source or method of manufacture, any human, humanized, primatized, chimeric or other antibody.
+
+1.4 "Applicable Laws and Regulations" means all international, national, federal, state, regional, provincial and local government laws, rules, and regulations that apply to either Party or to the conduct of the Collaboration under this Agreement including without limitation cGMP, GCP, GBPS, and the laws, rules and regulations of the ICH, that may be in effect, as applicable and amended from time to time.
+
+1.5 "Arbitral Tribunal" has the meaning set forth in Section 17.7(a).
+
+1.6 "BLA" means (a) a Biologics License Application or New Drug Application ("NDA") filed with the FDA for marketing approval of a Product or any successor applications or procedures, and all supplements and amendments that may be filed with respect to the foregoing, or similar filings outside the Territory with applicable Regulatory Authorities, for approval to commercially market and sell a Product, or (b) similar filings in the Territory with applicable Regulatory Authorities, including the KFDA, for approval to commercially market and sell a Product. The term BLA shall exclude pricing and reimbursement approvals.
+
+1.7 "Calendar Quarter" means the respective periods of three (3) consecutive calendar months ending on March 31, June 30, September 30 and December 31.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+2
+
+
+
+
+
+1.8 "Calendar Year" means the respective periods of twelve (12) months commencing on January 1 and ending on December 31.
+
+1.9 "cGMP" means current good manufacturing practices and general biologics products standards as promulgated under the FDCA or Applicable Law and Regulations in the Territory, as applicable.
+
+1.10 "Change in Control" means the occurrence of any of the following:
+
+(a) Either Party to this Agreement enters into a merger, consolidation, stock sale or sale or transfer of all or substantially all of its assets, or other similar transaction or series of transactions with another Person unless, following such transaction or transactions, (i) the individuals and entities who were the beneficial owners of the outstanding voting securities of the subject Party immediately prior to such transaction beneficially own, directly or indirectly, at least fifty percent (50%) of the combined voting power of the then outstanding voting securities entitled to vote generally in the election of directors or similar governing persons of the corporation or other entity resulting from such transaction ("Successor") in substantially the same proportions as their ownership immediately prior to such transaction of such outstanding voting securities, (ii) at least fifty percent (50%) of the members of the Board of Directors or similar governing body of the Successor were members of the Board of Directors of the subject Party at the time of the execution of the initial agreement, or the action of the Board of Directors of the subject Party, providing for such transaction; (iii) the subject Party retains title ownership after the transaction or transactions to properties and assets (x) representing more than fifty percent (50%) of such Person's consolidated total assets or (y) from which more than fifty percent (50%) of such Person's consolidated operating income for its most recent fiscal was derived, and (iv) the subject Party is the surviving entity in such transaction or transactions;
+
+(b) any transaction or series of related transactions in which any Person or group of Persons acquires beneficial ownership of securities of the subject Party representing more than fifty percent (50%) of the combined voting power of the then outstanding securities of the subject Party.
+
+1.11 "Clinical Data" means all data generated or arising from the conduct of a clinical trial or other Development efforts under this Agreement.
+
+1.12 "Clinical Material(s)" means MGAH22 and Product formulated in accordance with the specifications as adopted by the JSC and United States and Korean laws, rules and regulations (a) for preclinical activities, and (b) for administration to subjects in clinical trials.
+
+1.13 "CMC" means Chemistry Manufacturing and Controls.
+
+1.14 "Collaboration" means the program established under this Agreement, which includes collaborative development of Products.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+3
+
+
+
+
+
+1.15 "Commencement" means the first dosing of a human subject with the applicable Product in the applicable human clinical trial.
+
+1.16 "Commercial Supply Costs" shall mean the costs paid by Green Cross to MacroGenics for the commercial supply of Product pursuant to Section 6.2(d), provided that Commercial Supply Costs for a Product shall not be deemed incurred by Green Cross for purposes of this Agreement until the Calendar Quarter in which such Product is sold by Green Cross or any of its Related Parties.
+
+1.17 "Commercialization" or "Commercialize" means activities taken before and after obtaining Regulatory Approval relating specifically to the pre-launch, launch, promotion, marketing, sales force recruitment, sale and distribution of a pharmaceutical product and post-launch medical activities, including without limitation: (a) distribution for commercial sale; (b) strategic marketing, sales force Detailing, advertising, and market and product support; (c) medical education and liaison and any Phase IV Clinical Trials, to the extent permitted by this Agreement; (d) all customer support and product distribution, invoicing and sales activities; and (e) all post-approval regulatory activities, including those necessary to maintain Regulatory Approvals.
+
+1.18 "Commercially Reasonable Efforts" means with respect to the efforts to be expended by a Party with respect to any objective under this Agreement, reasonable, good faith efforts to accomplish such objective as such Party would normally use to accomplish a similar objective of such Party under similar circumstances, it being understood and agreed that with respect to the Development or Commercialization of MGAH22 and Products, such efforts shall be similar to those efforts and resources commonly used by a Party for a similar biological or pharmaceutical product owned by it or to which it has rights, which product is at a similar stage in its development or product life and is of similar market potential taking into account efficacy, safety, approved labeling, the competitiveness of alternative products in the marketplace, the patent and other proprietary position of the product, and the likelihood of regulatory approval given the regulatory structure involved.
+
+1.19 "Competing Product" means any Antibody that binds to the protein termed "HER2/Neu", other than a Product.
+
+1.20 "Completion" or "Completed" for a clinical trial means the later of the following dates: (a) the date on which all patients have completed protocol-defined study drug administration, and (b) ***
+
+1.21 "Confidential Information" means any and all non­public scientific, pre­clinical, clinical, regulatory, manufacturing, marketing, financial and commercial information and data, in any tangible or intangible form, including all Know-how subject to Section 12.
+
+1.22 "Control," "Controls" or "Controlled by" means (except as used in Section 1.1), with respect to any item of or right under Patents or Know-how, the ability
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+4
+
+
+
+
+
+of a Party (whether through ownership or license, other than pursuant to this Agreement) to grant access to, or a license or sublicense of, such item or right as provided for herein without violating the terms of any agreement or other arrangement with any Third Party existing at the time such Party would be required hereunder to grant the other Party such access or license or sublicense.
+
+1.23 "CRO" means a clinical research organization.
+
+1.24 "CTA" means a Clinical Trial Application or its equivalent used to obtain approval to conduct human clinical investigations filed with or submitted to the KFDA in order to establish the clinical safety and/or efficacy of one or more investigational products in conformance with the requirements of the KFDA.
+
+1.25 "Data Exclusivity Period" means the period during which the FDA or KFDA (or, in countries other than the United States or South Korea, an equivalent regulatory agency) prohibits reference, without the consent of the owner of a BLA, to the clinical and other data that is contained in such BLA, and that is not published or publicly available outside of such BLA.
+
+1.26 "Details" or "Detailing" means face­to­face sales presentations made to physicians, nurses, pharmacists, and other individuals who provide healthcare services to patients, in their capacity as such.
+
+1.27 "Develop" or "Development" or "Developing" means research, discovery, process development, manufacturing for preclinical and clinical uses, and preclinical and clinical drug or biological development activities, including, without limitation, test method development and stability testing, toxicology, formulation, quality assurance/quality control development, statistical analysis, preclinical and clinical studies and regulatory affairs, approval and registration, in each case, of MGAH22 or a Product for therapy of human diseases.
+
+1.28 "Development Costs" means all costs incurred in connection with any Development activities.
+
+1.29 "FDA" means the United States Food and Drug Administration, or any successor agency thereto.
+
+1.30 "FDCA" means the Federal Food, Drug and Cosmetic Act, as amended.
+
+1.31 "Field" means all oncology therapies; provided, however, that in the case of any Products covered by a Patent or other intellectual property right licensed in one or more Upstream Licenses, "Field" shall be limited to the minimum extent necessary to comply with the terms of such Upstream License for so long as such limitation is necessary to avoid breach of the Upstream License.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+5
+
+
+
+
+
+1.32 "Filing of a BLA" means the acceptance by a Regulatory Authority of such BLA for filing.
+
+1.33 "First Commercial Sale" means, with respect to any Product, the first sale to a Third Party for end use or consumption of such Product in the Territory after Regulatory Approval has been granted by the Regulatory Agency for the Product in the Territory.
+
+1.34 "Fully Burdened Manufacturing Cost" or "FBMC" means one hundred percent (100%) of MacroGenics' actual manufacturing cost of goods produced, as determined for each stage of the manufacturing process, in accordance with GAAP, including product quality assurance/control costs, failed lots, plus applicable Allocable Overhead. Such Fully Burdened Manufacturing Cost shall include, without limitation: (i) ***
+
+1.35 "GAAP" means U.S. Generally Accepted Accounting Principles as the same may be in effect from time to time.
+
+1.36 "GBPS" means the General Biological Products Standards as set forth in 21 C.F.R. Part 610, to the extent applicable to the Collaboration.
+
+1.37 cGMP" or "current Good Manufacturing Practices" means current Good Manufacturing Practices as set forth in the FDCA and the Public Health Service Act (the "PHS Act"), and in regulations at 21 C.F.R. Parts 210, 211 and 600, as in effect at the time when any clinical trial regarding a Product is being conducted, provided, and to the extent applicable to such clinical trial, as such regulations are interpreted and enforced by the FDA, including as set forth in applicable guidance documents issued by the FDA, and in accordance with applicable, generally accepted industry standards.
+
+1.38 "GCP" or "Good Clinical Practices" means current Good Clinical Practices as set forth in the Applicable Laws and Regulations, such as FDCA and the PHS Act and regulations set forth at 21 C.F.R. Part 312, as well as (but not limited to) the requirements set forth in Directive 2001/20/EC of the European Parliament and of the Council of 4 April 2001 and Commission Directive 2005/28/EC of 8 April 2005, to the extent applicable to a clinical trial regarding any Product, as such obligations are interpreted and enforced by the applicable Regulatory Authority (e.g., FDA and Member States of the European Union), and as interpreted under prevailing industry standards, including standards of medical ethics, applicable guidance documents issued by the FDA and any other Regulatory Authority, including ICH GCP, the informed consent requirements set forth in 21 C.F.R. Part 50 and the equivalent legal requirements in other applicable jurisdictions, the requirements relating to Institutional Review Boards set forth in 21 C.F.R. Part 56 and the equivalent legal requirements in other applicable jurisdictions, all as the same may be amended from time to time.
+
+1.39 "GLP" or "Good Laboratory Practices" means the recognized rules governing the conduct of non­clinical safety studies and ensuring the quality, integrity and reliability of study data as set forth in Applicable Laws and Regulations, such as 21 C.F.R. Part 58.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+6
+
+
+
+
+
+1.40 "Green Cross Indemnitees" has the meaning set forth in Section 14.2.
+
+1.41 "Green Cross Licensed Know-how" means all Know-how (excluding any Patent) Controlled by Green Cross as of the Effective Date or at any time during the Term that is: (a) related to MGAH22 and (b) necessary for MacroGenics to exercise the rights licensed to it under this Agreement or perform its obligations under this Agreement. "Green Cross Licensed Know­how" shall also include Green Cross' interest in any Know-how deemed jointly owned pursuant to Section 15.1(c).
+
+1.42 "Green Cross Licensed Patents" means any and all Patents Controlled by Green Cross at any time during the Term that: (a) are related to any data, result or invention conceived or reduced to practice in the course of conducting the Collaboration solely by Green Cross specifically in relation to MGAH22 and (b) Green Cross' interest in any Patent deemed jointly owned pursuant to Section 15.1(c).
+
+1.43 "Health Insurance Portability and Accountability Act" or "HIPAA" means the act enacted by the U.S. Congress in 1996 and took effect in 2003 that strictly dictates the parameters that identifiable private health information (PHI) can be shared outside of the research environment, as amended.
+
+1.44 ***
+
+1.45 "ICH" means the International Conference on Harmonisation.
+
+1.46 "IND" means an Investigational New Drug application, or similar application or submission for approval to conduct human clinical investigations filed with or submitted to a Regulatory Authority in conformance with the requirements of such Regulatory Authority.
+
+1.47 "Indemnifying Party" means the Party that is obligated to indemnify the Indemnitee under Section 14.
+
+1.48 "Indemnitee" means either the Green Cross Indemnitee or the MacroGenics Indemnitee, as applicable.
+
+1.49 "Independent Ethics Committee" or "IEC" means an independent body (a review board or a committee, institutional, regional, national, or supranational), constituted of medical professionals and non-medical members, whose responsibility it is to ensure the protection of the rights, safety and well-being of human subjects involved in a trial and to provide public assurance of that protection, by, among other things, reviewing and approving / providing favorable opinion on, the trial protocol, the suitability of the investigator(s), facilities, and the methods and material to be used in obtaining and documenting informed consent of the trial subjects. The legal status,
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+7
+
+
+
+
+
+composition, function, operations and regulatory requirements pertaining to IEC may differ among countries, but should allow the Independent Ethics Committee to act in agreement with GCP as described in this guideline.
+
+1.50 "Indication" means a separate and distinct disease, disorder or medical condition in humans or non­human animals which a product is intended to treat, prevent, diagnose, monitor or ameliorate and which, for a Product, is intended to be reflected in the labeling for such Product as an approved Indication, and which, for an approved Product, is reflected in the labeling for such Product.
+
+1.51 "Informed Assent Form" or "IAF" means an agreement to participate by subjects who are not able to give consent, either because they are minors or because they are legally incompetent.
+
+1.52 "Informed Consent Form" or "ICF" means a document that outlines a patient's rights during participation in a clinical trial. It also discusses the potential risks and benefits associated with participation, including all available data on previous studies. The ICF must be signed by the patient or authorized caregiver before entrance is granted into a study.
+
+1.53 "Initial Public Offering" means the first completed offering of capital stock of MacroGenics registered under the Securities Act of 1933, as amended.
+
+1.54 "Investigational Review Board" or "IRB" means in accordance with 45 C.F.R. 46, Protection of Human Subjects (Revised November 13, 2001) and 21 C.F.R. 45, Subpart C, IRB Functions and Operations, (as amended June 18, 1991 and other applicable regulations), an independent body comprising medical, scientific, and nonscientific members, whose responsibility is to ensure the protection of the rights, safety, and well- being of the subjects involved in a clinical trial. It may also be referred to as an IEC in accordance with ICH E6, Section 1.27.
+
+1.55 "Jointly Owned IP" has the meaning set forth in Section 15.1(c).
+
+1.56 "Jointly Owned Patents" has the meaning set forth in Section 15.2(b)(i).
+
+1.57 "Joint Development Committee" or "JDC" has the meaning set forth in Section 2.2.
+
+1.58 "Joint Steering Committee" or "JSC" has the meaning set forth in Section 2.1.
+
+1.59 "KFDA" means Korean Food and Drug Administration, or any successor agency thereto.
+
+1.60 "Know-how" means (a) any proprietary scientific or technical information, results and data of any type whatsoever, in any tangible or intangible form whatsoever, including databases, practices, methods, techniques, specifications,
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+8
+
+
+
+
+
+formulations, formulae, knowledge, know-how, skill, experience, test data including pharmacological, medicinal chemistry, biological, chemical, biochemical, toxicological and clinical test data, analytical and quality control data, stability data, studies and procedures, and manufacturing process and development information, results and data and (b) any proprietary biological, chemical or physical materials.
+
+1.61 "Licensing Transaction" has the meaning set forth in Section 12.3(d)(ii)(C).
+
+1.62 "Losses" has the meaning set forth in Section 14.1.
+
+1.63 "MacroGenics Indemnitee" has the meaning set forth in Section 14.1.
+
+1.64 "MacroGenics Licensed Know-how" means the Know-how (excluding any Patents) that is Controlled by MacroGenics as of the Effective Date or at any time during the Term, that is: (a) related to MGAH22 and (b) necessary for Green Cross to exercise the rights licensed to it pursuant to this Agreement or to perform its obligations under this Agreement.
+
+1.65 "MacroGenics Licensed Patents" means the Patents Controlled by MacroGenics as of the Effective Date or at any time during the Term that: (a) claim the composition of matter of MGAH22 or a Product, (b) would be infringed but for the license granted hereunder by making, having made, selling, using, offering for sale or importing MGAH22 or any Product, or (c) are otherwise necessary for Green Cross to exercise the rights licensed to it under this Agreement, or to perform its obligations under this Agreement, as listed in Exhibit A attached hereto. "MacroGenics Licensed Patents" shall include MacroGenics' interest in any Patents deemed jointly owned pursuant to Section 15.1(c).
+
+1.66 "MacroGenics Licensed Technology" means the MacroGenics Licensed Patents and the MacroGenics Licensed Know-how.
+
+1.67 "MacroGenics Licensed Trademarks" means any and all Trademarks Controlled by MacroGenics as of the Effective Date or at any time during the Term, that are registered for or apply to a Product, as listed on Exhibit B.
+
+1.68 "MGAH22" means the therapeutic Antibody which binds to the HER2/Neu receptor described in IND # 107768.
+
+1.69 "Net Sales" means the gross amount invoiced for Products (or, as the case may be, a Competing Product) sold by Green Cross or its Related Parties in the Territory initially and directly to Third Parties which are not Related Parties after deducting, if not previously deducted, from the amount invoiced, the following, in each case to the extent included in the gross invoice price:
+
+(a) reasonable trade, quantity and cash discounts and rebates (including, but not limited to, wholesaler inventory management fees), chargebacks, and retroactive price reductions or allowances actually allowed or granted from the billed amount;
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+9
+
+
+
+
+
+(b) credits or allowances actually granted upon claims, rejections or returns of such sales of Products, including recalls and amounts credited or repaid because of retroactive price reductions specifically identifiable to the Product;
+
+(c) taxes imposed on the production, sale, import, delivery or use of the Product (including, without limitation, sales, use, excise or value added taxes but excluding income taxes), duties or other governmental charges (including, without limitation, charges for product testing required for importation) levied on or measured by the billing amount when included in billing, as adjusted for rebates and refunds; and
+
+(d) costs incurred for importing (including, but not limited to, transportation, freight and insurance, and warehousing in the Territory).
+
+Such amounts shall be determined from the books and records of Green Cross or its Related Party, maintained in accordance with International Financial Reporting Standards (IFRS) or such similar accounting principles, consistently applied. Green Cross further agrees, in determining such amounts, it will use Green Cross' then­current standard procedures and methodology, including Green Cross' then­current standard exchange rate methodology for the translation of foreign currency sales into U.S. Dollars or, in the case of Sublicensees, such similar methodology, consistently applied.
+
+1.70 "Patent(s)" means (a) all patents and patent applications in any country or supranational jurisdiction and (b) any provisionals, substitutions, divisions, continuations, continuations in part, reissues, renewals, registrations, confirmations, reexaminations, extensions, supplementary protection certificates and the like, of any such patents or patent applications.
+
+1.71 "Patent Prosecution" means the responsibility for (a) preparing, filing, prosecuting, and pursuing registration of, applications (of all types) for any Patent (b) for maintaining any Patent, and (c) for managing any interference or opposition proceeding relating to the foregoing.
+
+1.72 "Permitted Subcontractors" has the meaning set forth in Section 3.5.
+
+1.73 "Person" means an individual, sole proprietorship, partnership, limited partnership, limited liability partnership, corporation, limited liability company, business trust, joint stock company, trust, unincorporated association, joint venture or other similar entity or organization, including a government or political subdivision, department or agency of a government.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+10
+
+
+
+
+
+1.74 "Phase I Clinical Development Plan" means the plan set forth on Exhibit C.
+
+1.75 "Phase I Clinical Trial" means a human clinical trial of a Product in patients in any country that would satisfy the requirements of Applicable Laws and Regulations for such country, such as 21 C.F.R. § 312.21(a), relating to human clinical trials conducted in the United States.
+
+1.76 "Phase II Clinical Development Plan" means the plan set forth on Exhibit D, as amended pursuant to Section 4.
+
+1.77 "Phase II Clinical Trial" means a human clinical trial conducted in patients with a Product in accordance with GCP and intended to demonstrate efficacy and a level of safety in the particular Indication tested, as well as to obtain a preliminary Indication of the unit and/or daily dosage regimen required, or that would otherwise satisfy the requirements of Applicable Laws and Regulations of the country in which such human clinical trial is conducted, such as 21 C.F.R. § 312.21(b), relating to human clinical trials conducted in the United States, or any successor regulation thereto or foreign equivalents.
+
+1.78 "Phase III Clinical Trial" means a human clinical trial in any country that is conducted in accordance with GCPs and the results of which are intended to be used as a pivotal study to establish both safety and efficacy of a Product as a basis for a BLA submitted to the FDA, KFDA or the appropriate Regulatory Authority of such other country, or that would otherwise satisfy the requirements of 21 C.F.R. § 312.21(c), or any successor regulation thereto or foreign equivalents.
+
+1.79 "Phase IV Clinical Trial" means a human clinical trial conducted after the Regulatory Approval of a Product, which trial is conducted (a) voluntarily to enhance scientific knowledge of such Product (e.g., for expansion of product labeling or dose optimization); or (b) conducted due to a request or requirement of a Regulatory Authority.
+
+1.80 "Personal Information Protection and Electronic Documents Act" or "PIPEDA" or "PIPED Act" means the Canadian law relating to data privacy.
+
+1.81 "Product" means a product that incorporates a pharmaceutical form of MGAH22 as an active ingredient.
+
+1.82 "Product Brand" has the meaning set forth in Section 5.2.
+
+1.83 "Regulatory Approval" means all approvals from the relevant Regulatory Authority to market and sell a Product in any country (including all applicable pricing and reimbursement approvals), including a BLA.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+11
+
+
+
+
+
+1.84 "Regulatory Authority" means any applicable government regulatory authority involved in granting approvals for the conduct of clinical trials or the manufacturing, marketing, reimbursement or pricing, as applicable, of a Product, including in the United States the FDA and in South Korea the KFDA, and any successor governmental authority having substantially the same function.
+
+1.85 "Related Party" means, with respect to a Party, its Affiliates and Sublicensees.
+
+1.86 "Requesting Party" has the meaning set forth in Section 9.2.
+
+1.87 "Royalty Term" means, with respect to sales of a Product in the Territory, the time period beginning on the First Commercial Sale of such Product in the Territory and expiring on the latest of the following dates:
+
+(a) ***
+
+(b) ***
+
+(c) ***
+
+1.88 "Securities Act" has the meaning set forth in Section 8.2(b).
+
+1.89 "Site Regulatory Package" or "SRP" means a set of investigational site specific regulatory documents requiring review and approval by the JDC. The SRP typically consists of the following documents: Form FDA 1572, principal investigator curriculum vitae, signed protocol signature page, site-specific ICF/IAF (back-translated into English if the local language is other than English), privacy requirements (e.g., HIPAA, PIPEDA), IRB/IEC membership, and country-specific requirements.
+
+1.90 "Sublicensee" means a Third Party that is granted a sublicense under the licenses granted to a Party under this Agreement, as permitted under this Agreement.
+
+1.91 "Successor" has the meaning set forth in Section 1.10.
+
+1.92 "Term" has the meaning set forth in Section 16.1.
+
+1.93 "Territory" means South Korea.
+
+1.94 "Third Party" means an entity other than (a) Green Cross and its Affiliates, and (b) MacroGenics and its Affiliates.
+
+1.95 "Third Party Royalties" means royalties (other than Upstream Royalties) paid by Green Cross to a Third Party to acquire any Third Party rights which would be infringed by the Development, manufacturing, importation, or Commercialization of any Product in the Territory.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+12
+
+
+
+
+
+1.96 "Total Evaluable Patients" means, on a worldwide basis, those patients who have completed protocol­defined procedures and can be assessed for the primary endpoint of the trial.
+
+1.97 "Trademark(s)" means all trade names, logos, common law trademarks and service marks, trademark and service mark registrations and applications throughout the world.
+
+1.98 "Trademark Prosecution" means the responsibility for (a) preparing, filing, and seeking registration of, trademark applications (of all types) for any Trademark, (b) for maintaining any Trademark, and (c) for managing any interference or opposition proceeding relating to the foregoing.
+
+1.99 "United States" or "US" means the United States of America and its territories and possessions, including without limitation the Commonwealth of Puerto Rico and the U.S. Virgin Islands.
+
+1.100 "Upstream Agreements" means the license agreements with MacroGenics' Third Party licensors listed in Exhibit E or otherwise identified in writing by MacroGenics to Green Cross as such.
+
+1.101 "Upstream Licensors" means MacroGenics' Third Party licensors under the Upstream Agreements.
+
+1.102 "Upstream Royalties" has the meaning set forth in Section 8.6.
+
+1.103 "Valid Claim" means a claim of: (a) an issued and unexpired Patent included within the MacroGenics Licensed Patents in a country which has not been revoked or held unenforceable or invalid by a decision of a court or other governmental agency of competent jurisdiction, unappealable or unappealed within the time allowed for appeal, and has not been abandoned, disclaimed or admitted to be invalid or unenforceable through reissue, disclaimer or otherwise; or (b) ***
+
+2. GOVERNANCE
+
+2.1 Joint Steering Committee
+
+(a) Membership. The Parties hereby establish a Joint Steering Committee, or JSC, to coordinate and oversee activities on which the Parties collaborate under this Agreement. The Parties agree that participation in the JSC and any subcommittee of the JSC is a right, rather than an obligation of each Party under this Agreement. The JSC shall consist of three (3) representatives from each Party. MacroGenics shall designate one (1) of its representatives as the initial chairperson of the JSC. Thereafter, the role of chairperson will alternate between MacroGenics and Green Cross representatives on a yearly basis. Each Party may replace its appointed JSC representatives at any time upon reasonable written notice to the other Party. The initial
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+13
+
+
+
+
+
+representatives and chair of the JSC are set forth in Exhibit F attached hereto. The chair shall have the responsibility to call meetings, circulate meeting agendas at least ten (10) days prior to each regular JSC meeting, draft minutes for each JSC meeting and circulate such minutes for both Parties' written approval. The chair shall have no other authority or special voting power.
+
+(b) Responsibilities. The responsibilities of the JSC shall be:
+
+(i) to provide a vehicle by which the Parties may share information regarding the overall strategy for the Collaboration;
+
+(ii) to approve changes to the Phase I Clinical Development Plan and Phase II Clinical Development Plan;
+
+(iii) to facilitate the exchange of information between the Parties with respect to the activities hereunder and to establish procedures for the efficient sharing of information necessary for the Parties to fulfill their respective responsibilities with respect the Collaboration;
+
+(iv) to establish an overall regulatory strategy for Products in the Territory that is compatible with and complements the worldwide regulatory strategy being implemented by MacroGenics for the Products and to allocate the responsibility for regulatory activities between the Parties;
+
+(v) to oversee the activities of subcommittees created under this Agreement, and to seek to resolve any issues that such subcommittees cannot resolve;
+
+(vi) to perform such other functions as appropriate to further the purposes of this Agreement, as determined by the Parties; and
+
+(vii) to establish such subcommittees in addition to the JDC, as are agreed upon in writing by the Parties.
+
+(viii) to discuss any additional studies, including a Phase III Clinical Trial, in which Green Cross may desire to participate;
+
+(c) Decision-Making. The JSC shall make decisions unanimously, with each Party's representatives collectively having one (1) vote and at least one (1) representative from each Party present.
+
+(d) Disputes. In the event the JSC cannot reach an agreement regarding any matter within the JSC's authority for a period of ***, then the dispute shall be promptly submitted to the ***. If the dispute remains unresolved for *** after submission to such persons, then the ***; provided, however, that the *** shall have the ***; and provided further that the foregoing shall not be deemed to limit or otherwise alter any obligation of Green Cross or MacroGenics under this Agreement.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+14
+
+
+
+
+
+(e) JSC Meetings. JSC meetings shall be held semi-annually, or on any other schedule agreed by the Parties. With the consent of the representatives of each Party serving on the JSC, other representatives of each Party may attend meetings as nonvoting observers (provided such non-voting observers have confidentiality obligations to such Party that are at least as stringent as those set forth in this Agreement). A JSC meeting may be held by audio, video or internet teleconference with the consent of each Party, but at least half (1/2) of the minimum number of meetings shall be held in person. Meetings of the JSC shall be effective only if at least one (1) representative of each Party is present or participating. Each Party shall be responsible for all of its own expenses of participating in the JSC meetings. The Parties will alternate hosting the in-person meeting, and the Party hosting is responsible for preparing and circulating the minutes of the JSC meetings.
+
+(f) Duration of JSC. The JSC shall continue to exist until the first to occur of (a) the Parties mutually agreeing to disband the JSC or (b) termination of this Agreement.
+
+(g) Limitations. The JSC shall have no authority other than that expressly set forth in this Section 2.1 and, specifically, shall have no authority (a) to amend or interpret this Agreement, or (b) to determine whether or not a breach of this Agreement has occurred.
+
+2.2 Joint Development Committee
+
+(a) Membership. Within thirty (30) days after the Effective Date, the Parties shall establish a Joint Development Committee, or JDC, as a subcommittee of the JSC, to coordinate the Development of Products as set forth in Section 2.2(b). The JDC shall consist of three (3) representatives from each Party. Each Party may replace its appointed JDC representatives at any time upon reasonable written notice to the other Party. The Parties shall alternate in designating a representative on the JDC as the chair of the JDC on an annual basis, with MacroGenics designating the first chair. The chair shall have the responsibility to call meetings, circulate meeting agendas at least ten (10) days prior to each regular JDC meeting, draft minutes for each JDC meeting and circulate such minutes for both Parties' written approval. The chair shall have no other special authority or voting power.
+
+(b) Responsibilities. The responsibilities of the JDC shall be:
+
+(i) to share and discuss the Parties' performance under the Phase I Clinical Development Plan and Phase II Clinical Development Plan, on a quarterly basis;
+
+(ii) to share and discuss the data generated by or on behalf of the Parties in the course of performance towards the goals set forth in the Phase I Clinical Development Plan and Phase II Clinical Development Plan;
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+15
+
+
+
+
+
+(iii) to coordinate Development strategies, allocate resources and set timelines, in each case to facilitate the activities under the Phase I Clinical Development Plan and Phase II Clinical Development Plan;
+
+(iv) to review and approve proposed clinical trial sites;
+
+(v) to facilitate the exchange of information between the Parties with respect to the activities under the Phase I Clinical Development Plan and Phase II Clinical Development Plan; and
+
+(vi) to perform such other functions as appropriate to further the purposes of this Agreement, as determined by the Parties.
+
+(c) Decision Making. The JDC shall make decisions unanimously, with each Party's representatives collectively having one (1) vote and at least one (1) representative from each Party present.
+
+(d) Disputes. In the event the JDC cannot reach an agreement regarding any matter within the JDC's authority for a period of ***, then at the option of either Party the matter shall be referred to the JSC for resolution pursuant to Section 2.1(c) and 2.1(d) above.
+
+(e) JDC Meetings. JDC meetings shall be held quarterly, or on any other schedule agreed by the Parties. With the consent of the representatives of each Party serving on the JDC, other representatives of each Party may attend meetings as nonvoting observers (provided such non-voting observers have confidentiality obligations to such Party that are at least as stringent as those set forth in this Agreement). A JDC meeting may be held by audio, video or internet teleconference with the consent of each Party, but at least half (1/2) of the minimum number of meetings shall be held in person. Meetings of the JDC shall be effective only if at least one (1) representative of each Party is present or participating. Each Party shall be responsible for all of its own expenses for participating in the JDC meetings. The Parties will alternate hosting the in-person meeting, and the Party hosting is responsible for preparing and circulating the minutes of the JDC meetings.
+
+(f) Duration of JDC. The JDC shall continue to exist until the first to occur of (a) the Parties mutually agreeing to disband the JDC or (b) termination of this Agreement.
+
+(g) Limitations. The JDC shall have no authority other than that expressly set forth in this Section 2.2 and, specifically, shall have no authority (a) to amend or interpret this Agreement, or (b) to determine whether or not a breach of this Agreement has occurred.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+16
+
+
+
+
+
+3. DEVELOPMENT
+
+3.1 Overview. The Parties shall use Commercially Reasonable Efforts to Develop Products in the Territory in accordance with the Phase I Clinical Development Plan and Phase II Clinical Development Plan, as set forth below, with the goal of achieving regulatory approval for the marketing of Products.
+
+(a) MacroGenics Responsibilities. MacroGenics shall perform those activities for which it is identified as the responsible party in the Phase I Clinical Development Plan (unless such responsibility is transferred to Green Cross or a Third Party by MacroGenics), including, without limitation, ***, as appropriate, ***.
+
+(b) Green Cross Responsibilities
+
+(i) Green Cross shall perform those activities for which it is identified as the responsible party in the Phase I Clinical Development Plan (and such other activities for which responsibility is transferred to Green Cross), and shall conduct all activities described in the Phase II Clinical Development Plan. Without limiting the foregoing, in the Territory:
+
+(ii) Green Cross shall (A) support clinical trial site and CRO-related activities ***, (B) ***; (C) support clinical trial site and CRO- related activities for the ***, under a CTA filed by Green Cross in the Territory, and (D) support other additional Development activities responsive to unique regulatory or commercial requirements in Territory; and
+
+(iii) Green Cross' responsibilities shall include the submission of all CTAs; interaction with the KFDA; ***; provided, however, that with respect to the provision of data, information and materials, such obligation to assist shall require Green Cross to use Commercially Reasonable Efforts, and shall not require Green Cross to generate any data not within its possession.
+
+(c) Joint and Additional Responsibilities. For activities specified in the Phase I Clinical Development Plan for which both Parties are identified as the responsible Party, the Parties' respective obligations shall be as determined by the JSC. If it is determined that the performance of activities not identified in the Phase I Development Plan are required for Completion of the Phase I Clinical Trial, then the responsibility for such activities shall be determined by the JSC.
+
+3.2 Development Plans
+
+(a) Clinical Development Plans. The JDC shall review the progress of the conduct of the Phase I Clinical Development Plan and Phase II Clinical Development Plan at each meeting of the JDC.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+17
+
+
+
+
+
+(b) Review of the Clinical Development Plans. On no less than an annual basis, the JDC shall review the Phase I Clinical Development Plan and Phase II Clinical Development Plan, as appropriate, and recommend any amendment, and any changes to such plans shall be subject to the approval by the JDC and, subsequently, by the JSC.
+
+3.3 Conduct of Development
+
+(a) General Obligation. Each Party shall use Commercially Reasonable Efforts to conduct the Development activities for which it is responsible, as described in the Phase I Clinical Development Plan and Phase II Clinical Development Plan, in compliance with: (a) the terms and conditions of this Agreement; (b) the Phase I Clinical Development Plan and Phase II Clinical Development Plan, as updated from time to time; (c) all applicable GLP, GCP and applicable cGMP requirements, including, without limitation those specified by the ICH; and (d) all Applicable Laws and Regulations.
+
+(b) Green Cross Diligence. Without limiting Section 3.3(a):
+
+(i) Green Cross shall ***; provided, however, that if all necessary documents required for Regulatory Approval of such Commencement in the Territory, if any, are not received within a reasonable period prior to such date, other than as a result of Green Cross' acts or omissions, then such period shall be equitably extended to account for such delay for a period mutually agreed upon in writing by the Parties;
+
+(ii) Green Cross shall ***; and
+
+(iii) Green Cross shall use ***; provided, however, that if all necessary documents required for Regulatory Approval of such Completion or filing in the Territory, if any, are not received within a reasonable period prior to such date, other than as a result of Green Cross' acts or omissions, then such period shall be equitably extended to account for such delay for a period mutually agreed upon in writing by the Parties.
+
+(c) Green Cross Rights. Green Cross shall have the option to participate in any additional studies, including a Phase III Clinical Trial, with respect MGAH22 to the extent that such studies are required by a Regulatory Authority in the Territory.
+
+3.4 Development Costs
+
+(a) Phase I Clinical Development Plan. Green Cross shall be responsible for all Development Costs incurred by Green Cross in connection with the conduct of the Phase I Clinical Development Plan, including, without limitation, Third Party costs for CRO-related activities for the Phase I Clinical Trial in the Territory.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+18
+
+
+
+
+
+MacroGenics shall be responsible for all Development Costs incurred by MacroGenics in connection with the conduct of the Phase I Clinical Development Plan, including without limitation, Third Party costs for CRO-related activities for the Phase I Clinical Trial outside of the Territory, except as follows:
+
+(i) Clinical Materials. MacroGenics shall be responsible for the cost of the supply of all Clinical Materials for the initial Phase I Clinical Trial;
+
+(ii) Labor Costs. Each Party shall be responsible for its direct labor costs (e.g., salaries, wages, employee benefits, overtime costs, and shirt premiums) for the conduct of its obligations under the Phase I Clinical Development Plan;
+
+(iii) *** MacroGenics will invoice Green Cross at the end of the applicable Calendar Quarter for the amounts due hereunder, and all such amounts shall be paid to MacroGenics by Green Cross in US Dollars not later than sixty (60) days following the receipt of the applicable invoice.
+
+(iv) Data Management Costs. Each Calendar Quarter, Green Cross shall reimburse MacroGenics for *** of the costs incurred by MacroGenics in connection with the management of Clinical Data from the Phase I Clinical Trials during such Calendar Quarter. MacroGenics will invoice Green Cross at the end of the applicable Calendar Quarter for the amounts due hereunder, and all such amounts shall be paid to MacroGenics by Green Cross in US Dollars not later than *** following the receipt of the applicable invoice.
+
+(v) Insurance Costs. Each Calendar Quarter, Green Cross shall reimburse MacroGenics for all costs incurred by MacroGenics in connection with all insurance policies required for the conduct of the Phase I Clinical Trials in the Territory during such Calendar Quarter. MacroGenics will invoice Green Cross at the end of the applicable Calendar Quarter for the amounts due hereunder, and all such amounts shall be paid to MacroGenics by Green Cross in US Dollars not later than *** following the receipt of the applicable invoice. MacroGenics shall include Green Cross as a named insured on each such policy acquired by MacroGenics.
+
+(vi) Limitation on Reimbursement of ***. Notwithstanding anything to contrary set forth in Section 3.4(a)(iv) or 3.4(a)(v), in no event shall Green Cross be obligated to reimburse MacroGenics for any costs in connection with the ***
+
+(b) Phase II Clinical Development Plan. Green Cross shall be responsible for all Development Costs incurred in the Territory by either Party under the Phase II Clinical Development Plan, except for the cost of the supply of Clinical Materials, which shall be the responsibility of MacroGenics.
+
+3.5 Subcontractors. MacroGenics shall have the right to engage Third Party contractors to perform any portion of its obligations under this Agreement (provided that
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+19
+
+
+
+
+
+MacroGenics shall use Commercially Reasonable Efforts to require such Third Party contractors to cooperate with Green Cross, so as to permit Green Cross to comply with any of its development or commercial diligence obligations, and its reporting and payment obligations under any of the Upstream Agreements insofar as they relate to MGAH22 or any Product), and Green Cross shall have the right to engage a CRO in the Territory to support the conduct of the Phase I Clinical Trial *** (each such subcontractor, a "Permitted Subcontractor"). Any such Permitted Subcontractor used in the provision of services shall be required to agree in writing to be bound by terms regarding maintaining the confidentiality of proprietary information that are no less stringent than those contained in this Agreement and regarding ownership of intellectual property that are consistent with those contained in this Agreement. Either Party's use of Permitted Subcontractors shall not relieve such Party of any of its obligations pursuant to this Agreement.
+
+3.6 Clinical Trial Data. Except to the extent prohibited by any Applicable Law or Regulation, each Party shall provide all Clinical Data to the other on a schedule reasonably requested by the other.
+
+3.7 Information and Cooperation. In addition to the obligations under Section 3.6, each Party shall use Commercially Reasonable Efforts to keep the other Party informed of its research, Development and Commercialization (including promotional) activities hereunder, and shall provide to the other Party, as appropriate, regular summary updates. If reasonably necessary for a Party to perform its work under this Agreement or to exercise its rights under this Agreement, that Party may request that the other Party provide more detailed information and data regarding the updates it earlier provided, and the other Party shall promptly provide the requesting Party with information and data as is reasonably available and reasonably related to the work under this Agreement. Neither Party is required to generate additional data or prepare additional reports to comply with the foregoing obligation. All such reports, information and data provided shall be subject to Section 12.1. Prior to commencing the manufacture of Products or conduct of studies for the Product outside of the scope of this Agreement in the Territory, MacroGenics shall notify Green Cross of any such activity and consult with Green Cross with respect thereto; provided, however, that MacroGenics shall not undertake any such activity if and to the extent such activity would have a material adverse affect on Green Cross.
+
+4. ADJUSTMENT OF PHASE II CLINICAL DEVELOPMENT PLAN. If the Parties agree to add additional patients or Indications to the Phase II Clinical Development Plan, or replace the Indication specified therein as of the Effective Date with a new Indication, then the Parties shall negotiate in good faith to agree upon the terms applicable to such expansion or change.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+20
+
+
+
+
+
+5. COMMERCIALIZATION
+
+5.1 Overview. Green Cross shall have full responsibility and authority for all aspects of the Commercialization of Products in the Territory at its sole expense, including, without limitation, developing and executing a plan for commercial launch, obtaining all required approvals from Regulatory Authorities for Commercialization (including, without limitation, reimbursement activities), marketing and promotion, booking sales and distribution and performance of related services, providing customer support, including handling medical queries, and performing other related functions. Green Cross shall use Commercially Reasonable Efforts to Commercialize the Products. Green Cross shall update MacroGenics regarding its Commercialization activities at regular meetings of the JSC as contemplated by Section 2.1.(e). As between Green Cross and MacroGenics, ***. Green Cross shall bear all of the costs and expenses incurred in connection with all such Commercialization activities in the Territory. Green Cross shall timely notify MacroGenics as to the occurrence of the First Commercial Sale in the Territory.
+
+5.2 Product Labeling; Promotional Materials. Green Cross shall Commercialize the Products in the Territory under the worldwide brand specified by MacroGenics ("Product Brand"), except to the extent such branding is not permitted by any applicable Regulatory Authority, or deemed culturally inappropriate, in the Territory, in which case MacroGenics shall specify an alternate Product Brand. Except for the depiction of trademarks, logos and other symbols that are intended to identify MacroGenics' as a company or the manufacturer or owner of a Product, Green Cross shall be responsible for designing and supplying the printable artworks of product labeling in electronic version and promotional materials for the Products for the Territory. Green Cross shall be responsible for how and the manner in which Products shall be presented and described in the Territory to the medical community in any promotional materials for a Product intended to be disseminated in the Territory, and the placement of the name and logos of Green Cross therein, in each case as permitted by applicable law and consistent with the Product Brand and labeling for the Products approved by the applicable Regulatory Authority.
+
+5.3 Sales and Distribution
+
+(a) Orders and Sales. Green Cross shall be solely responsible for handling all returns, order processing, invoicing and collection, distribution, and inventory and receivables for the Products throughout the Territory. Green Cross shall have the right and sole responsibility for establishing and modifying the terms and conditions with respect to the sale of the Products in the Territory, including any terms and conditions relating to or affecting the price at which the Products shall be sold, discounts available to any Third Party payers (including, without limitation, managed care providers, indemnity plans, unions, self insured entities, and government payer, insurance or contracting programs), any discount attributable to payments on receivables, distribution of the Products, and credits, price adjustments, or other discounts and allowances to be granted or refused; provided, however, that Green Cross shall act in good faith when doing the foregoing.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+21
+
+
+
+
+
+(b) Pricing. Green Cross shall have the sole right to determine all pricing of the Products in the Territory. Notwithstanding anything in this Agreement express or implied to the contrary, MacroGenics shall not have any right to direct, control, or approve Green Cross' pricing of Products for the Territory. The provision to MacroGenics of any pricing data is for informational purposes only. Green Cross shall be responsible for preparing and implementing the reimbursement strategy for the Products in the Territory. However, except to the extent prohibited by Applicable Laws and Regulations, MacroGenics shall use Commercially Reasonable Efforts to provide all the necessary data so that Green Cross can file for the medical reimbursement price in the Territory; provided, however, that MacroGenics shall not be obligated to generate any data not within its possession.
+
+5.4 Compliance. Each Party shall comply with the terms of this Agreement and all Applicable Laws and Regulations relating to activities performed or to be performed by such Party (or its Affiliates, contractor(s) or Sublicensee(s)) under or in relation to the Commercialization of the Products pursuant to this Agreement.
+
+5.5 Commercialization Diligence
+
+(a) Prior to Submission of First BLA. For each Product under Development, prior to the submission of the first BLA to the first Regulatory Authority in the Territory, Green Cross shall submit to the JSC a written summary plan for the Commercialization for each such Product under Development. Thereafter, Green Cross shall regularly report on its Commercialization activities at meetings of the JSC or, if formed, the Joint Commercialization Committee. Such reports shall cover subject matter at a level of detail similar to that which Green Cross affords to its senior executives with respect to similar Green Cross products. All such plans and information shall be presented for discussion purposes, and Green Cross agrees to consider in good faith any comments or suggestions MacroGenics may make with respect to Commercialization of Products.
+
+(b) Launch. Green Cross shall launch each Product in the Territory ***, provided that MacroGenics has supplied Product ordered by Green Cross in accordance with Section 6.2(c) for such launch within a reasonable period prior to the planned launch date.
+
+(c) Following Regulatory Approval. Green Cross shall use Commercially Reasonable Efforts to Commercialize each Product in the Territory after obtaining Regulatory Approval for such Product.
+
+5.6 Upstream Agreements. Green Cross agrees to provide to MacroGenics such information as it reasonably requires, or otherwise cooperate with MacroGenics, so as to permit MacroGenics to comply with any of its development or commercial diligence obligations, and reporting and payment obligations under any of the Upstream Agreements insofar as they relate to MGAH22 or any Product.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+22
+
+
+
+
+
+6. MANUFACTURE AND SUPPLY
+
+6.1 Clinical Supply of Products. MacroGenics shall be responsible for the manufacture of all Product required for the clinical trials described in the Phase I Clinical Development Plan, Phase II Clinical Development Plan and, if any, additional development plans, including any plan for a Phase III Clinical Trial, agreed upon in writing by the Parties for additional studies under this Agreement, either by itself or through one or more Third Parties, including all costs of such manufacture, as set forth in Section 3.4.
+
+6.2 Commercial Supply of Products
+
+(a) Responsibility. MacroGenics shall be responsible for the manufacture of all commercial supplies of Product required by Green Cross for the Commercialization of Products in the Territory, in accordance with this Section 6.2, except as the Parties may otherwise agree pursuant to Section 6.4.
+
+(b) Forecasts. For so long as MacroGenics is providing Product, Green Cross, through the JDC, shall furnish to MacroGenics *** forecast of probable quarterly orders for supplies of Product, to be updated quarterly based on Green Cross' good faith estimate of its need for Product.
+
+(c) Orders. Green Cross agrees to buy, and MacroGenics agrees to sell, such quantities of Product as may be set forth on purchase orders placed by Green Cross in accordance with the provisions of this Section 6.2. The Parties shall mutually agree upon an appropriate purchase agreement. Any purchase orders for Product will reference this Agreement and will be consistent with the terms contained herein. Each purchase order shall set forth a delivery date for the quantities of Product ordered, which date will in no event be less than *** from the date of the purchase order. MacroGenics will use Commercially Reasonable Efforts to deliver each order on or before the applicable deliver date. If a purchase order cannot be fulfilled or delivered as requested by Green Cross, then MacroGenics shall immediately inform Green Cross of such fact. If MacroGenics is unable to manufacture sufficient quantities of Products to deliver to Green Cross hereunder, then MacroGenics shall allocate any shortages among its customers, including, without limitation, Green Cross, on a pro-rata basis based on the comparative order volumes of all customers at the time of such shortage. MacroGenics shall use Commercially Reasonable Efforts to promptly resume production of Commercial Supply.
+
+(d) Price; Payment. The price of Product ordered by Green Cross under this Section 6.2 will be equal to *** of MacroGenics' Fully Burdened Manufacturing Costs for such material. All payments due hereunder to MacroGenics shall be paid to MacroGenics in US Dollars not later than *** following the receipt of the applicable invoice.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+23
+
+
+
+
+
+6.3 Delivery. Unless otherwise agreed by the parties in writing, all shipments will be shipped F.O.B. MacroGenics' or its contract manufacturer's facility.
+
+6.4 Technology Transfer. If Green Cross requests, the Parties shall enter into good faith discussions regarding the possibility of a transfer to Green Cross of technology that is sufficient to enable Green Cross to manufacture commercial supplies of Product in accordance with the Applicable Laws and Regulations of the Territory, provided that nothing herein shall be deemed to obligate MacroGenics to enter into any agreement to transfer to Green Cross any such technology.
+
+6.5 Manufacturing Specifications. All Clinical Materials and commercial supplies of Product shall be manufactured in accordance with the specifications determined by MacroGenics and all Applicable Laws and Regulations.
+
+6.6 Change of Manufacturing Process. MacroGenics shall reasonably inform Green Cross of developments in matters of process development and manufacturing of Products, and shall consult with Green Cross with respect to the development and manufacturing processes of Products adopted by MacroGenics to the extent necessary to obtain Regulatory Approval(s) of the same in the Territory. Green Cross shall promptly notify MacroGenics of any information that will impact approvability of Products in the Territory.
+
+7. REGULATORY
+
+7.1 Overview. The JSC shall establish an overall regulatory strategy for obtaining Regulatory Approval of the Product in the Territory, and shall allocate regulatory responsibilities between the Parties in a manner consistent with the provisions contained herein. Green Cross shall participate in regulatory matters as determined by the JSC, including CMC and other manufacturing-related matters, nonclinical matters, and clinical matters. In addition, Green Cross will have access to adverse event and other safety related data.
+
+7.2 Regulatory Filings for Phase I Clinical Trial. MacroGenics shall hold the INDs in the Territory and be responsible for the filing of the INDs and all additional regulatory documents for the initial Phase I Clinical Trial with Regulatory Authorities in the Territory (such as INDs, and IND amendments), including, without limitation, all associated submissions (e.g., safety reports, protocol submissions, CMC updates), for responding to inquiries and correspondences from the Regulatory Authorities, and the submission of all required reports for the Phase I Clinical Trial until the Completion of the Phase I Clinical Trial. MacroGenics shall continue to hold INDs filed as of the Effective Date. MacroGenics will transfer its responsibilities for preparing the Korean IND and IND amendments to Green Cross, but Green Cross shall provide ***, Green
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+24
+
+
+
+
+
+Cross may submit such filing, submission or response to the KFDA at the same time as Green Cross submits the same to MacroGenics; provided that Green Cross uses Commercially Reasonable Efforts to obtain additional time. MacroGenics will transfer its responsibilities for interacting with the KFDA to Green Cross, but Green Cross shall attempt to include MacroGenics on any face-to-face meetings or teleconferences, if deemed necessary by Green Cross, and shall not commit to making any revisions to the Phase I Clinical Trial unless for an immediate safety issues, without prior agreement with MacroGenics. Green Cross shall allow MacroGenics to review any written correspondence to the KFDA before it is sent to the KFDA.
+
+7.3 Regulatory Filings Following Phase I Clinical Trial. Except as set forth in Section 7.2, Green Cross shall be responsible for the filing of all regulatory documents for MGAH22 and all Products with Regulatory Authorities in the Territory (such as INDs, NDAs and amended INDs and NDAs), including without limitation all associated submissions (e.g., safety alerts, protocol submissions), for responding to inquiries and correspondence from the Regulatory Authorities responsible for regulatory matters in the Territory, and the monitoring of all clinical experiences and submission of all required reports throughout clinical Development and Commercialization, in each case in compliance with all laws and regulations. MacroGenics shall be responsible for providing to Green Cross any revisions to the investigator's brochure and CMC information required for KFDA submissions. Green Cross may request MacroGenics to participate in meetings with the KFDA if it is foreseeable that there may be discussions about the Product beyond the scope of Green Cross' development of the Product in the Territory (e.g., CMC matters, data from clinical trials MacroGenics conducted). Each Party shall provide information to the other Party as necessary and reasonably consult with the other Party regarding any filings, and regarding significant or material notices, actions or requests from or by Regulatory Authorities. Each Party shall, at the other Party's request, review and comment on filings, submissions, and responses to Regulatory Authorities related to any Product. Green Cross shall hold and maintain all Regulatory Approvals for the Commercialization of the Product in the Territory, as set forth in Section 10.1(c).
+
+7.4 Records of Correspondence with KFDA. Following each communication (whether by phone or in person) with the KFDA regarding matters arising under this Agreement, Green Cross shall prepare a record of such meeting in accordance with its standard business practices (e.g., written minutes) and provide to MacroGenics a copy of such record.
+
+7.5 Safety Data Exchange Agreement. The Parties shall conduct in good faith and agree upon a safety data exchange agreement, the agreement setting forth the safety information required to be shared by each Party and the schedule for the sharing of such safety information and other appropriate procedures and matters, as detailed in Exhibit G.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+25
+
+
+
+
+
+8. PAYMENTS
+
+8.1 Upfront Payment. Within thirty (30) days after the Effective Date, Green Cross shall pay to MacroGenics One Million Dollars ($1,000,000), which shall be non-refundable and non-creditable against any other payments due under this Agreement.
+
+8.2 Purchase of MacroGenics Stock Upon Initial Public Offering
+
+(a) If during the first three (3) years of the Term there is an Initial Public Offering which raises a ***, and if the underwriter(s) in such Initial Public Offering permit it, Green Cross is obligated to purchase a number of shares of the same class of capital stock, simultaneously with the closing(s) of, and at the same purchase price as the shares sold in, the Initial Public Offering that is equal to the number of shares that could be purchased for ***.
+
+(b) Green Cross acknowledges that any securities purchased in accordance with Section 8.2(a) shall not be registered under the Securities Act of 1933, as amended ("Securities Act"), and may not be sold, assigned, pledged, hypothecated, encumbered or an any other manner transferred or disposed of in the absence of an effective registration statement or an exemption from registration under the Securities Act. In connection with any Initial Public Offering, Green Cross agrees to enter into a lock-up agreement with the underwriter(s) if the managing underwriter(s) demands or requests such an agreement; provided, however, that such provisions will not be less favorable to Green Cross than the provisions of any lock-up agreements entered into by the managing underwriter(s) with other holders of securities issued by MacroGenics.
+
+8.3 Clinical Development Milestone Payments. Green Cross shall pay to MacroGenics the milestone payments listed below, which shall be non-refundable, and non-creditable (unless otherwise stipulated under this Agreement). Any such milestone payments are subject to any credits, offsets and waivers specified by this Agreement.
+
+(a) For the Commencement of the first Phase II Clinical Trial: ***; provided, however, that this milestone payment shall not be payable to MacroGenics if ***
+
+(b) For the Commencement of the first Phase III Clinical Trial: ***; provided, however, that this milestone payment shall not be payable to MacroGenics *** If all necessary documents required for Regulatory Approval of Completion of the Phase II Clinical Trial by Green Cross, if any, are not received within a reasonable period prior to the agreed upon projected Completion date, other than as a result of Green Cross' acts or omissions, then such *** period shall be equitably extended to account for such delay for a period mutually agreed upon in writing by the Parties.
+
+(c) Approval of BLA for first Indication for a Product by KFDA in the Territory: ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+26
+
+
+
+
+
+8.4 Commercial Milestone Payments. Green Cross shall pay to MacroGenics the Net Sales milestone payments set forth below, which shall be due and payable within *** after the end of the first Calendar Year during which such milestone is triggered.
+
+(a) First occurrence of aggregate Net Sales for a period of *** of all Products in the Territory *** ***.
+
+(b) First occurrence of aggregate Net Sales for a period of *** of all Products in the Territory exceeding ***
+
+8.5 Product Royalties.
+
+(a) Green Cross shall pay to MacroGenics a royalty at the rate determined in accordance with the royalty chart included in Exhibit H attached hereto on Net Sales of Products for the Royalty Term.
+
+(b) Green Cross shall pay to MacroGenics a royalty of *** on Net Sales of Competing Products for the Royalty Term.
+
+8.6 Upstream License Royalties. In addition to the other royalty payments set forth in this Section 8, Green Cross shall reimburse MacroGenics for royalty payments payable by MacroGenics as a result of the Collaboration pursuant to: (a) the Upstream Agreements identified on Exhibit E as of the Effective Date and (b) any additional Upstream Agreements identified by MacroGenics after the Effective Date that include a license to any patent(s) that has any claim(s) that would otherwise prevent MacroGenics from fulfilling its obligations under this Agreement or from supplying MGAH22 or any Product in the Territory (the "Upstream Royalties"). Green Cross' obligation under this Section 8.6 with respect to the payment of Upstream Royalties under an Upstream Agreement shall terminate upon termination of MacroGenics' obligation to pay royalties under the terms of such Upstream Agreement.
+
+8.7 Third Party Agreements. Green Cross (or its Affiliate or Sublicensee) shall be responsible, at its sole expense and discretion, for obtaining any agreements with Third Parties (other than the Upstream Agreements) for any Third Party rights which would be infringed by the Development, manufacturing, importation, or Commercialization of any Product in the Territory.
+
+8.8 Payment of Milestones. All milestone payments shall be due and payable within *** after the event for which the payment is due.
+
+8.9 Reports; Payments
+
+(a) Net Sales Quarterly Reports. During the Term, following the First Commercial Sale of a Product in the Territory, Green Cross shall furnish to MacroGenics:
+
+(i) a quarterly written report for the Calendar Quarter showing the Net Sales of all Products (and Competing Products) subject to royalty payments sold by Green Cross and its Related Parties in the Territory during the reporting period and the royalties payable under this Agreement; and
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+27
+
+
+
+
+
+(ii) a quarterly report for the Calendar Quarter showing Green Cross' Commercial Supply Costs, Third Party Royalties and Upstream Royalties for such Calendar Quarter, with such detail as shall reasonably allow MacroGenics to determine the basis for such quarterly costs.
+
+(b) Submission and Payment Schedule
+
+(i) Reports. Reports under this Section 8.9 shall be due on the ninetieth (90 ) day following the close of each Calendar Quarter.
+
+(ii) Royalties. Royalties shown to have accrued by each report shall, unless otherwise specified under this Agreement, be due and payable on the date such report is due.
+
+8.10 Payment Exchange Rate. All payments to be made by Green Cross to MacroGenics under this Agreement shall be made in United States dollars by bank wire transfer in immediately available funds to a bank account in the United States designated in writing by MacroGenics. For invoices that Green Cross shall forward to MacroGenics, Green Cross shall use an exchange rate equal to the Telegraphic Transfer (T/T) selling rate as published by Korean Exchange Bank as of the close of business on the last business day of the preceding month.
+
+8.11 Tax Withholding. If laws, rules or regulations require Green Cross to withhold income taxes or other taxes imposed upon payments set forth in this Section 8, Green Cross shall make such withholding payments as required and subtract such withholding payments from the payments set forth in this Section 8. Green Cross shall submit original receipts or other appropriate proof of payment of the withholding taxes to MacroGenics within a reasonable period of time to allow MacroGenics to document such tax withholdings for purposes of claiming foreign tax credits and similar benefits, and shall cooperate with reasonable requests of MacroGenics (without acting to the detriment of Green Cross) related to MacroGenics obtaining such credits and benefits.
+
+9. Record Keeping and Inspections and Audits
+
+9.1 Records
+
+(a) Collaboration Activities. Each Party shall maintain appropriate records of: (i) all significant research, Development, manufacturing and Commercialization events and activities conducted by it or on its behalf related to a Product, and all costs in connection therewith, as applicable; and (ii) all significant information generated by it or on its behalf in connection with research and development
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+28
+
+th
+
+
+
+
+
+of MGAH22 and Products under this Agreement, in each case in accordance with such Party's usual documentation and record retention practices. Such records shall be in sufficient detail to properly reflect, in good scientific manner, all significant work done and results of studies and trials undertaken, and further shall be at a level of detail appropriate for patent and regulatory purposes.
+
+(b) Green Cross Royalties. Green Cross shall keep complete and accurate records in sufficient detail to enable the royalties payable under Section 8 and its Commercial Supply Costs, Third Party Royalties and Upstream Royalties to be determined.
+
+(c) MacroGenics' Royalties. MacroGenics shall keep complete and accurate records of royalty payments due under the Upstream Agreements in sufficient detail to enable the Upstream Royalties payable by Green Cross under Section 8.6 to be determined. At the request of Green Cross, MacroGenics shall make such records available to Green Cross.
+
+(d) MacroGenics' FBMC. MacroGenics shall keep complete and accurate records with such detail as shall reasonably allow Green Cross to determine the basis for such FBMC. At the request of Green Cross, MacroGenics shall make such records available to Green Cross.
+
+9.2 Audit Rights. Upon the written request of a Party ("Requesting Party") with reasonable advance notice and not more than once in each Calendar Year, the other Party shall permit an independent certified public accounting firm of nationally recognized standing selected by Requesting Party and reasonably acceptable to the other Party, at its own expense, to have access during normal business hours to such of the records as may be reasonably necessary to verify the accuracy of the reports under Section 8 for any Calendar Year ending not more than thirty-six (36) months prior to the date of such request. The accounting firm shall disclose to the Requesting Party only whether the reports are correct or incorrect and the specific details concerning any discrepancies. No other information shall be provided to Requesting Party in connection with this audit right. This right to audit shall remain in effect throughout the life of this Agreement and for a period of three (3) years after the termination of this Agreement.
+
+9.3 Discrepancies. If such accounting firm identifies a discrepancy, the other Party shall pay Requesting Party the amount of the discrepancy within thirty (30) days of the date Requesting Party delivers to the other Party such accounting firm's written report so concluding, or as otherwise agreed upon by the Parties. The fees charged by such accounting firm shall be paid by Requesting Party unless the underpayment by the other Party exceeded five percent (5%) of the amount owed for such Calendar Year, in which case the other Party shall pay to Requesting Party the reasonable fees charged by such accounting firm.
+
+9.4 Confidentiality. Each Party shall treat all information of the other Party subject to review under this Section 9 in accordance with the confidentiality and non-use
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+29
+
+
+
+
+
+provisions of this Agreement, and shall cause its accounting firm to enter into an acceptable confidentiality agreement with the audited Party and any applicable Related Parties, obligating it or them to retain all such information in confidence pursuant to such confidentiality agreement.
+
+10. LICENSES
+
+10.1 License to Green Cross
+
+(a) License. Subject to the terms and conditions of this Agreement, MacroGenics hereby grants to Green Cross an exclusive, royalty- bearing (i) license, with the right to grant sublicenses (subject to Section 10.1(b)), under the MacroGenics Licensed Technology and the MacroGenics Licensed Trademarks; and (ii) to the extent needed under this Section 10.1(a), sublicense under the MacroGenics Licensed Technology licensed pursuant to the Upstream Agreements, in the case of each of (i) and (ii), to conduct the Phase I Clinical Development Plan and Phase II Clinical Development Plan, and to distribute, sell, offer for sale and import Products in the Field in the Territory during the Term.
+
+(b) Sublicensees. Green Cross may grant sublicensees solely for purposes of performing its Development obligations under this Agreement. In no event shall Green Cross grant any sublicense to any of the rights granted to it pursuant to Section 10.1(a) for any other purpose without MacroGenics' prior written consent. Each sublicense granted by Green Cross shall be consistent with this Agreement and subordinate thereto, and Green Cross shall remain responsible to MacroGenics for the compliance of each such Sublicensee with the financial and other obligations due under this Agreement. Green Cross shall provide a copy of each such sublicense to MacroGenics so that MacroGenics can confirm Green Cross' compliance with the foregoing. Each sublicense granted by Green Cross under this Agreement shall permit the conversion of such sublicense to a direct license with MacroGenics at MacroGenics' sole option in the event this Agreement is terminated and, upon such conversion, MacroGenics shall be responsible for all former obligations of Green Cross under such sublicense. Green Cross shall use Commercially Reasonable Efforts to include in each such sublicense a requirement obligating such sublicensees to cooperate with MacroGenics.
+
+(c) Regulatory Approvals. Green Cross shall hold and maintain all Regulatory Approvals for the Commercialization of the Product in the Territory.
+
+(d) MacroGenics Retained Rights. MacroGenics shall retain the following: (i) the right to conduct its obligations under the Phase I Clinical Development Plan and Phase II Clinical Development Plan in the Territory, including, without limitation, data management, monitoring, regulatory compliance and support and shipping requirements and all other requirements in connection with this Agreement; (ii) the right to manufacture or have manufactured MGAH22 and Products for uses pursuant to this Agreement as provided in Section 6 in the Territory; and (iii) all rights not otherwise granted to Green Cross inside and outside the Territory.
+
+(e) Opportunity ***. In the event that during the period between the ***, MacroGenics wishes to ***, MacroGenics shall provide Green Cross ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+30
+
+
+
+
+
+10.2 Upstream Agreements. Certain MacroGenics Licensed Know-how and MacroGenics Licensed Patents sublicensed under Section 10.1(a) above and identified on Exhibit A are licensed (or sublicensed, in some instances) to MacroGenics by certain Third Parties pursuant to the Upstream Agreements. Green Cross acknowledges and agrees that its sublicense to and any warranties and/or representations made by MacroGenics under this Agreement regarding such MacroGenics Licensed Technology granted under Section 10.1(a) are at all times subject to the applicable terms of the Upstream Agreements, current copies of which, for those in effect as of the Effective Date, have been provided to Green Cross as of the Effective Date, including restrictions on the type and nature of the antibodies licensed as Products thereunder, diligence requirements, and termination provisions thereof, and that MacroGenics is in no way licensing or purporting to license or sublicense to Green Cross rights under the Upstream Agreements that if sublicensed to Green Cross would be a violation of any Upstream Agreement. Green Cross covenants not to take or fail to take any action that violates the terms of such Upstream Agreements applicable to Sublicensees, or that would cause MacroGenics to be in breach of any of the terms of the Upstream Agreements.
+
+10.3 License to MacroGenics. Green Cross hereby grants to MacroGenics a royalty-free, worldwide license during the Term, with the right to grant sublicenses, under the Green Cross Licensed Patents and Green Cross Know-how that is incorporated into any Product, and all other intellectual property Controlled by Green Cross that is specifically related to MGAH22 to the extent needed by MacroGenics to research, identify, develop, make, have made, use, sell, offer for sale and import Products, including, without limitation, as contemplated by Section 10.1(c) above, in all cases without any obligation to obtain Green Cross' prior consent. The license granted pursuant to this Section 10.3 shall be non­exclusive in the Territory and exclusive in the rest of the world outside the Territory. After the Term, the Parties shall discuss in good faith whether future licenses are necessary for MacroGenics to continue to use Green Cross Licensed Patents or Green Cross Licensed Know-how, and determine reasonable terms and conditions for such license at MacroGenics' request.
+
+10.4 Clinical Data Licenses. Subject to the terms and conditions of this Agreement, Green Cross hereby grants to MacroGenics a non- exclusive, royalty-free, perpetual license, with the right to grant and authorize the grant of sublicenses, to use all Clinical Data and any data generated by Green Cross or any of its representatives or independent contractors pursuant to its performing its responsibilities under this Agreement for the research, Development, manufacture Commercialization and sales of MGAH22 and Products by MacroGenics outside the Territory and for MacroGenics to exercise its rights and fulfill its obligations under this Agreement. Subject to the terms and conditions of this Agreement, MacroGenics hereby grants to Green Cross a non-exclusive,
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+31
+
+
+
+
+
+royalty-free, license, with the right to grant sublicenses, during the Term to use all Clinical Data and other data generated by MacroGenics pursuant to its performing its responsibilities under this Agreement for Green Cross to fulfill its obligations under this Agreement.
+
+10.5 Negative Covenant. Each Party covenants that, except to the extent Third Parties generally are lawfully permitted to do so, it will not use or practice any of the other Party's intellectual property rights licensed to it under this Section 10 except for the purposes expressly permitted in the applicable license grant.
+
+10.6 No Implied Licenses. Except as explicitly set forth in this Agreement, neither Party grants any license, express or implied, under its intellectual property rights to the other Party.
+
+10.7 Diversion
+
+(a) Green Cross hereby covenants and agrees that it will not, either directly or indirectly, promote, market, distribute, import, sell or have sold Products, including via the Internet or mail order, to any Third Party, address or Internet Protocol address outside of the Territory.
+
+(b) If any of Green Cross' Products are diverted for use outside the Territory, the following shall apply: (i) if such Products were diverted by an identifiable customer, distributor, employee, consultant or agent of Green Cross then, upon the request of MacroGenics, Green Cross shall not sell such Products to, or allow the sale of such Products by, any such customer, distributor, employee, consultant or agent for the remaining Term and shall use Commercially Reasonable Efforts to buy back all such Products from such customer, distributor, employee, consultant or agent within *** of such request from MacroGenics; or (ii) Green Cross shall use Commercially Reasonable Efforts to investigate the location of such diverted Products and buy it back; but, if and to the extent that, Green Cross elects not to, or is unable to, buy back the applicable diverted Products, then MacroGenics may, in its sole discretion, buy back the applicable diverted Products, and Green Cross shall reimburse MacroGenics for all reasonable costs incurred by MacroGenics in connection with the buy-back or lost sales of any such diverted Products.
+
+11. EXCLUSIVITY. During the Term, Green Cross shall not (either by itself, or with or through a Related Party or Third Party) Develop or Commercialize any (i) Product outside of the scope of this Agreement or (ii) Competing Product.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+32
+
+
+
+
+
+12. CONFIDENTIALITY; PUBLICATION
+
+12.1 Nondisclosure Obligation
+
+(a) Definition and Restrictions. All Confidential Information disclosed by one Party to the other Party at any time, including, without limitation, before the Effective Date or after the expiration or termination of this Agreement, shall be maintained in confidence by the receiving Party and shall not be disclosed by the receiving Party to any Third Party or used by the receiving Party for any purpose except as set forth herein without the prior written consent of the disclosing Party, *** The following shall not be deemed Confidential Information for purposes of the restrictions set forth in this Section 12.3(a):
+
+(i) Information that is known by the receiving Party at the time of its receipt, and not through a prior disclosure by the disclosing Party, as documented by the receiving Party's business records;
+
+(ii) Information that is or becomes part of the public domain through no fault of the receiving Party;
+
+(iii) Information that is subsequently disclosed to the receiving Party by a Third Party who may lawfully do so and is not under an obligation of confidentiality to the disclosing Party; and
+
+(iv) Information that is developed by the receiving Party independently of Confidential Information received from the disclosing Party, as documented by the receiving Party's business records.
+
+(b) Combinations. Any combination of features or disclosures shall not be deemed to fall within the exclusions set forth in Section 12.1(a) merely because individual features are published or available to the general public or in the rightful possession of the receiving Party unless the combination itself and principle of operation are published or available to the general public or in the rightful possession of the receiving Party.
+
+(c) Exceptions. Notwithstanding the restrictions set forth in Section 12.1(a), the receiving Party may disclose Confidential Information of the other Party to:
+
+(i) governmental or other regulatory agencies in order to obtain Patents or to gain or maintain approval to conduct clinical trials or to market Products, but such disclosure may be only to the extent reasonably necessary to obtain Patents or authorizations; or
+
+(ii) as the receiving Party deems necessary to be disclosed, to its Affiliates, agents, consultants, or other Third Parties for the Development or
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+33
+
+
+
+
+
+Commercialization of Product(s), or in connection with a licensing transaction related to such Product(s) or loan, financing or investment or acquisition, merger, consolidation or similar transaction (or for such entities to determine their interest in performing such activities) or in order to perform its obligations under this Agreement, in each case on the condition that any Third Parties, other than Regulatory Authorities, to whom such disclosures are made agree to be bound by confidentiality and non-use obligations substantially similar to those contained in this Agreement; provided that the term of confidentiality and non-use applicable to such Third Parties shall be no less than *** from the date of disclosure to them.
+
+(d) Disclosure Required by Judicial or Administrative Process. If a Party is required by judicial or administrative process to disclose Confidential Information of the other Party that is subject to the non-disclosure provisions of this Section 12.1, such Party shall promptly inform the other Party of the disclosure that is being sought in order to provide the other Party an opportunity to challenge or limit the disclosure obligations. Confidential Information that is disclosed by judicial or administrative process shall remain otherwise subject to the confidentiality and non-use provisions of this Section 12.1, and the Party disclosing Confidential Information pursuant to law or court order shall take all steps reasonably necessary, including without limitation obtaining an order of confidentiality, to ensure the continued confidential treatment of such Confidential Information.
+
+(e) Obligations Upon Termination. Upon the termination or expiration of this Agreement, or upon the earlier request of either Party, the receiving Party shall return to the disclosing Party, all of the disclosing Party's Confidential Information, including all copies thereof, provided that the receiving Party may retain one copy for archival purposes.
+
+12.2 Publication
+
+(a) Publication of Results. Green Cross and MacroGenics each acknowledge the other Party's interest in publishing the results of its activities under the Collaboration in order to obtain recognition within the scientific community and to advance the state of scientific knowledge. Each Party also recognizes the mutual interest in obtaining valid patent protection and in protecting business interests and trade secret information. Consequently, the JSC shall establish procedures for review of publications related to the Collaboration, ensuring that, except for disclosures permitted pursuant to Section 12.1, either Party and its employees wishing to make a publication related to work performed under this Agreement shall deliver to the other Party a copy of the proposed written publication or an outline of an oral disclosure at least *** prior to submission for publication or for presentation.
+
+(b) Review of Publications and Presentations
+
+(i) The reviewing Party shall have the right (a) to propose modifications to the publication or presentation for patent reasons, trade secret reasons,
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+34
+
+
+
+
+
+or for purposes of removing the Confidential Information of the reviewing Party, or (b) to request a reasonable delay in publication or submission for presentation in order to protect trade secret or patentable information.
+
+(ii) If the reviewing Party requests the removal of the reviewing Party's Confidential Information or a delay, the publishing Party shall remove such Confidential Information and delay submission for publication or submission for presentation for a period of *** to enable patent applications protecting each Party's rights in such Confidential Information to be filed in accordance with Section 15 below.
+
+(iii) Upon expiration of such *** and satisfaction of any other conditions imposed by the JSC, the publishing Party shall be free to proceed with the publication or submission for presentation.
+
+(iv) Upon request of the Party seeking publication, the reviewing Party shall consider expediting the time frames set forth in this Section 12.2.
+
+(v) If the reviewing Party requests modifications to the publication or submission for presentation, the publishing Party shall edit such publication to prevent disclosure of the Confidential Information of the reviewing Party or trade secret or proprietary business information prior to submission for publication or for presentation.
+
+12.3 Publicity; Use of Names
+
+(a) Press Releases. The Parties shall issue a mutually acceptable press release announcing the execution of this Agreement. A Party may issue any subsequent press release relating to this Agreement or activities conducted hereunder upon prior written approval of the other Party, such approval not to be unreasonably withheld or delayed; provided, however, that no approval of the other Party shall be required if a subsequent press release or SEC filing solely discloses the information that (1) a milestone under this Agreement has been achieved and/or any payments associated therewith have been received; (2) the filing and/or approval of a BLA generally has occurred (provided, however, that specific dates of filing shall not be disclosed); (3) initiation of any Phase II Clinical Trial or later clinical trial; and (4) commercial launch of a Product or any information that has previously been approved and disclosed as permitted by this Section 12.3(a). In the case of items (1)-(4) of the preceding sentence, the disclosing Party shall provide the other Party a copy of such proposed disclosures at least *** prior to the proposed release and consider in good faith any comments the other Party may make, where practicable, and in light of any reporting obligations of such disclosing Party under applicable laws, rules or regulations, including without limitation the rules and regulations promulgated by the United States Securities and Exchange Commission or any other governmental agency.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+35
+
+
+
+
+
+(b) No Other Use of Company Names. Except as otherwise provided in this Section 12.3(b), neither Party shall use the name, trademark, trade name or logo of the other Party or its employees in any publicity or news release relating to this Agreement or its subject matter, without the prior express written permission of the other Party.
+
+(c) Approved Press Releases. In addition and notwithstanding anything to the contrary herein, (a) if the relevant text of a proposed press release has already previously been reviewed and approved for disclosure by the other Party then such text may be disclosed or republished in such proposed press release provided that the Party issuing such press release provides notice to the other Party of such press release at least four (4) business days prior to the issuance of such press release, where practicable, and (b) if the relevant text of a proposed public announcement such as a corporate presentation or comments to analysts or investors has already previously been reviewed and approved for disclosure by the other Party (whether in the form of an approved press release or prior approved presentation materials, Q&A script or the like) then such text may be included in such proposed public announcement (but not a press release) without resubmission and review by the other Party.
+
+(d) Existence of Agreement
+
+(i) No Disclosure. Neither Party shall disclose the existence or terms of this Agreement pursuant to a press release or otherwise except as provided in this Section 12.3(d).
+
+(ii) Permitted Disclosures
+
+(A) Notwithstanding the terms of this Section 12, either Party shall be permitted to disclose the existence and terms of this Agreement and the conduct of the Collaboration under this Agreement, to the extent required, in the reasonable opinion of such Party's legal counsel, to comply with applicable laws, rules or regulations, including without limitation the rules and regulations promulgated by the United States Securities and Exchange Commission or any other governmental agency. The disclosing Party shall take reasonable and lawful actions to avoid and/or minimize the degree of such disclosure.
+
+(B) Either Party may also disclose the existence and terms of this Agreement to its attorneys and advisors, and to potential acquirors, in connection with a potential acquisition or other change of control transaction and to existing and potential investors or lenders of such Party, as a part of their due diligence investigations, or to potential licensees or to permitted assignees in each case under an agreement to keep the terms of this Agreement confidential under terms of confidentiality and non-use substantially similar to the terms contained in this Agreement and to use such confidential information solely for the purpose of the contemplated transaction.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+36
+
+
+
+
+
+(C) MacroGenics may also disclose the existence and terms of this Agreement pursuant to transactions related to the Commercialization or Development of MGAH22 or any Product ("Licensing Transactions"), in each case under an agreement to keep the terms of this Agreement confidential under terms of confidentiality and non-use substantially similar to the terms contained in this Agreement and to use such confidential information solely for the purpose of the contemplated transaction, provided that prior to the disclosure of the terms of this Agreement in connection with any Licensing Transaction, MacroGenics shall redact in any written summary or copy of this Agreement, all financial terms of this Agreement, in a manner substantially consistent with a form provided to Green Cross by MacroGenics on or before the Effective Date. The transactions described in Section 12.3(d)(ii)(B) shall not be deemed Licensing Transactions for purposes of this Section 12.3(d)(ii)(C).
+
+13. REPRESENTATIONS AND WARRANTIES
+
+13.1 Representations and Warranties of MacroGenics. MacroGenics represents and warrants to Green Cross that, as of the Effective Date:
+
+(a) it has the full right, power and authority to enter into this Agreement, to perform the Collaboration, and to grant the licenses contemplated under Section 10, and the fulfillment of its obligations and performance of its activities hereunder do not materially conflict with, violate, or breach or constitute a default under any contractual obligation or court or administrative order by which MacroGenics is bound;
+
+(b) all necessary consents, approvals and authorizations of all government authorities and other persons required to be obtained by MacroGenics as of the Effective Date in connection with the execution, delivery and performance of this Agreement have been obtained;
+
+(c) it is the exclusive licensee of or otherwise Controls the right, title and interest in and to the MacroGenics Licensed Technology and MacroGenics Licensed Trademarks, and has the right to grant to Green Cross the licenses that it purports to grant hereunder and has not granted any Third Party rights that would interfere or be inconsistent with Green Cross' rights hereunder;
+
+(d) to its knowledge, except for those licensed or sublicensed under the Upstream Agreements, the MacroGenics Licensed Patents and MacroGenics Licensed Know-how are not subject to any existing royalty or other payment obligations to any Third Party; and
+
+(e) as of the Effective Date, to its knowledge, the issued Patents in the MacroGenics Licensed Patents are valid and enforceable and it is not aware of any action, suit, inquiry, investigation or other proceeding threatened, pending, or ongoing brought by any Third Party that challenges or threatens the validity or enforceability of
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+37
+
+
+
+
+
+any of the MacroGenics Licensed Patents or that alleges the use of the MacroGenics Licensed Patents or the MacroGenics Licensed Know-how or the development, manufacture commercialization and use of the Products would infringe or misappropriate the intellectual property or intellectual property rights of any Third Party (and it has not received any notice alleging such an infringement or misappropriation). In the event that MacroGenics becomes aware of any such action or proceeding, it shall immediately notify Green Cross in writing.
+
+13.2 Representations and Warranties of Green Cross. Green Cross represents and warrants to MacroGenics that as of the Effective Date:
+
+(a) it has the full right, power and authority to enter into this Agreement, to perform the Collaboration, to grant the licenses granted hereunder, and the fulfillment of its obligations and performance of its activities hereunder do not materially conflict with, violate, or breach or constitute a default under any contractual obligation or court or administrative order by which Green Cross is bound;
+
+(b) all necessary consents, approvals and authorizations of all government authorities and other persons required to be obtained by Green Cross as of the Effective Date in connection with the execution, delivery and performance of this Agreement have been obtained.
+
+(c) it is the exclusive licensee of or otherwise Controls the right, title and interest in and to the Green Cross Licensed Patents and Green Cross Licensed Know-how, and has the right to grant to MacroGenics the licenses that it purports to grant hereunder and has not granted any Third Party rights that would interfere or be inconsistent with MacroGenics' rights hereunder;
+
+(d) to its knowledge, the Green Cross Licensed Patents and Green Cross Licensed Know-how are not subject to any existing royalty or other payment obligations to any Third Party; and
+
+(e) as of the Effective Date, to its knowledge, the issued Patents in the Green Cross Licensed Patents are valid and enforceable and it is not aware of any action, suit, inquiry, investigation or other proceeding threatened, pending, or ongoing brought by any Third Party that challenges or threatens the validity or enforceability of any of the Green Cross Licensed Patents or that alleges the use of the Green Cross Licensed Patents or the Green Cross Licensed Know-how or the development, manufacture commercialization and use of the Products would infringe or misappropriate the intellectual property or intellectual property rights of any Third Party (and it has not received any notice alleging such an infringement or misappropriation). In the event that Green Cross becomes aware of any such action or proceeding, it shall immediately notify MacroGenics in writing.
+
+13.3 Upstream Agreements. MacroGenics represents, warrants and covenants to Green Cross that:
+
+(a) Exhibit E lists all of the Upstream Agreements in existence as of the Effective Date. True and correct copies of the existing Upstream Agreements have previously been provided to Green Cross by MacroGenics, and copies of any additional Upstream Agreement entered following the Effective Date will be provided to Green Cross by MacroGenics. Notwithstanding the foregoing, prior to entering into additional Upstream Agreements, MacroGenics shall inform Green Cross to allow Green Cross to review the same.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+38
+
+
+
+
+
+(b) The Upstream Agreements identified on Exhibit E are, to MacroGenics' knowledge, in full force and effect as of the Effective Date, and MacroGenics is not aware of any that it has committed any material breach of any of the provisions of any of such Upstream Agreements, nor does there exist any condition that, to the knowledge of MacroGenics, with passage of time or sending of notice would constitute a material breach by MacroGenics of any of the provisions of such Upstream Agreements, nor is MacroGenics aware of any material breach of such Upstream Agreements by any other party thereto.
+
+(c) To the extent required to grant the licenses in this Agreement, MacroGenics has the right under the Upstream Agreements listed on Exhibit E to enter into this Agreement and grant the licenses contemplated hereby.
+
+(d) MacroGenics will fulfill all of its material obligations under the Upstream Agreements and otherwise comply with the terms thereof. MacroGenics shall furnish to Green Cross copies of all notices received by MacroGenics relating to alleged breaches or defaults by MacroGenics of its obligations under the Upstream Agreements within five (5) business days of MacroGenics receipt thereof.
+
+(e) To the extent MacroGenics is permitted or required under the terms of the Upstream Agreements to participate in the prosecution, maintenance, or enforcement or defense of any Patent or other intellectual property right sublicensed to Green Cross under this Agreement, MacroGenics shall do so after consultation with Green Cross and, as and to the extent permitted by the Upstream Agreements, Green Cross shall have the same rights with respect thereto as set forth in Section 15 hereof.
+
+13.4 No Other Representations or Warranties. EXCEPT AS EXPRESSLY STATED IN THIS AGREEMENT, NO REPRESENTATIONS OR WARRANTIES WHATSOEVER, WHETHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR NON-MISAPPROPRIATION OF THIRD PARTY INTELLECTUAL PROPERTY RIGHTS, IS MADE OR GIVEN BY OR ON BEHALF OF A PARTY. ALL REPRESENTATIONS AND WARRANTIES, WHETHER ARISING BY OPERATION OF LAW OR OTHERWISE, ARE HEREBY EXPRESSLY EXCLUDED.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+39
+
+
+
+
+
+14. INDEMNIFICATION
+
+14.1 By Green Cross. Green Cross agrees to indemnify and hold harmless MacroGenics, its Affiliates, and their directors, officers, employees and agents (individually and collectively, the "MacroGenics Indemnitee(s)") from and against all losses, liabilities, damages and expenses (including reasonable attorneys' fees and costs) incurred in connection with any claims, demands, actions or other proceedings by any Third Party (individually and collectively, "Losses") first arising after the Effective Date to the extent arising from (a) activities performed by Green Cross or any of its Affiliates or Permitted Subcontractors with respect to the research, Development, manufacture, use, Commercialization or sale of MGAH22 or Products or any other exercise of their rights or performance of their obligations hereunder, (b) the use by Green Cross or any of its Related Parties or Permitted Subcontractors of the MacroGenics Licensed Patents or MacroGenics Licensed Know-how except as permitted in this Agreement, (c) the negligence, illegal conduct or willful misconduct of Green Cross, or (d) Green Cross' material breach of this Agreement, except to the extent such Losses arise out of any of MacroGenics Indemnitee's negligence, illegal conduct or willful misconduct, or breach of this Agreement.
+
+14.2 By MacroGenics. MacroGenics agrees to indemnify and hold harmless Green Cross, its Affiliates, and their directors, officers, employees and agents (individually and collectively, the "Green Cross Indemnitee(s)") from and against all Losses to the extent arising from (a) activities performed by MacroGenics or any of its Affiliates or Permitted Subcontractors with respect to the research, Development, manufacture, use, Commercialization or sale of Products, (b) any latent or hidden defect in a Product that is not caused by any act or omission of Green Cross, (c) the use by Green Cross or any of its Related Parties or Permitted Subcontractors of the MacroGenics Licensed Patents or MacroGenics Licensed Know-how or any intellectual property rights under Upstream Agreements as permitted under this Agreement, (d) the negligence, illegal conduct or willful misconduct of MacroGenics, or (e) MacroGenics' material breach of this Agreement, except to the extent such Losses arise out of any of Green Cross Indemnitee's negligence, illegal conduct or willful misconduct, or breach of this Agreement.
+
+14.3 Defense. If any such claims or actions are made, the Indemnitee shall be defended at the Indemnifying Party's sole expense by counsel selected by the Indemnifying Party and reasonably acceptable to the Indemnitee, provided that the Indemnitee may, at its own expense, also be represented by counsel of its own choosing. The Indemnifying Party shall have the sole right to control the defense of any such claim or action, subject to the terms of this Section 14.
+
+14.4 Settlement. The Indemnifying Party may settle any such claim, demand, action or other proceeding or otherwise consent to an adverse judgment (a) with prior written notice to the Indemnitee but without the consent of the Indemnitee where the only liability to the Indemnitee is the payment of money and the Indemnifying Party makes such payment, or (b) in all other cases, only with the prior written consent of the Indemnitee, such consent not to be unreasonably withheld.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+40
+
+
+
+
+
+14.5 Notice. The Indemnitee shall notify the Indemnifying Party promptly of any claim, demand, action or other proceeding under Section 14.1 or Section 14.2 and shall reasonably cooperate with all reasonable requests of the Indemnifying Party with respect thereto.
+
+14.6 Permission by Indemnifying Party. The Indemnitee may not settle any such claim, demand, action or other proceeding or otherwise consent to an adverse judgment in any such action or other proceeding or make any admission as to liability or fault without the express written permission of the Indemnifying Party. Provided, however, that such permission shall not be required if such settlement does not involve (a) any admission of legal wrongdoing by the other Party's Indemnitee(s), or (b) the imposition of any equitable relief against the other Party's Indemnitee(s).
+
+14.7 Limitation of Liability. NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL, PUNITIVE, OR INDIRECT DAMAGES OR FOR LOST PROFITS ARISING FROM OR RELATING TO ANY BREACH OF THIS AGREEMENT, REGARDLESS OF ANY NOTICE OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING THE FOREGOING, NOTHING IN THIS SECTION 14.7 IS INTENDED TO OR SHALL LIMIT OR RESTRICT THE INDEMNIFICATION RIGHTS OR OBLIGATIONS OF ANY PARTY UNDER ARTICLE 14, OR DAMAGES AVAILABLE FOR A PARTY'S BREACH OF CONFIDENTIALITY OBLIGATIONS IN ARTICLE 12.
+
+15. INVENTIONS; PATENT PROVISIONS
+
+15.1 Ownership of Intellectual Property
+
+(a) Ownership of MacroGenics IP. As between MacroGenics and Green Cross, MacroGenics shall remain the sole and exclusive owner of all MacroGenics Licensed Patents, MacroGenics Licensed Trademarks and MacroGenics Licensed Know-how that exist as of the Effective Date.
+
+(b) Ownership of Green Cross IP. As between Green Cross and MacroGenics, Green Cross shall remain the sole and exclusive owner of all Green Cross Licensed know-how that exists as of the Effective Date.
+
+(c) Ownership of Jointly Owned IP. MacroGenics shall own all data, results and inventions, whether patentable or not, conceived or reduced to practice in the course of conducting the Collaboration solely by MacroGenics or its consultants or subcontractors, together with all intellectual property rights therein. Green Cross shall own all data, results and inventions, whether patentable or not, conceived or reduced to practice in the course of conducting the Collaboration solely by Green Cross or its
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+41
+
+
+
+
+
+consultants or subcontractors, together with all intellectual property rights therein. MacroGenics and Green Cross shall jointly own all data, results and inventions, whether patentable or not, conceived or reduced to practice by MacroGenics and Green Cross jointly ("Jointly Owned IP"), together with all intellectual property rights therein, with each Party owning an undivided half interest and the right to exploit without the duty of accounting or seeking consent from the other Party to the extent to be permitted under Applicable Laws and Regulations.
+
+15.2 Patent and Trademark Filing, Prosecution and Maintenance
+
+(a) Overall Strategy. The JSC shall establish an overall strategy for the filing, prosecution and maintenance of MacroGenics Licensed Patents, MacroGenics Licensed Trademarks and Green Cross Licensed Patents in the Territory.
+
+(b) Prosecution
+
+(i) The responsibility for Patent Prosecution and Trademark Prosecution related to a Patent or Trademark that is within the MacroGenics Licensed Patents and MacroGenics Licensed Trademarks or the Green Cross Licensed Patents that is owned solely by a Party shall be the responsibility of such Party. Such Party shall keep the JSC and the other Party informed of the status of all such Patent Prosecution and Trademark Prosecution activities. MacroGenics shall be responsible for undertaking the Patent Prosecution with respect to Patents jointly owned by the Parties (the "Jointly Owned Patents"), and shall do as directed by the JSC.
+
+(ii) MacroGenics shall keep the JSC and Green Cross informed of the status of all matters affecting Patent Prosecution and Trademark Prosecution of MacroGenics Licensed Patents, MacroGenics Licensed Trademarks and Jointly Owned Patents in the Territory, including providing a copy of any correspondence from any governmental authorities to the JSC and Green Cross upon request, and consulting on the strategy and content of submissions to such governmental authorities in advance of any submissions.
+
+(iii) Any dispute regarding Patent Prosecution and Trademark Prosecution of MacroGenics Licensed Patents, MacroGenics Licensed Trademarks, or Jointly Owned Patents, shall be resolved by the JSC.
+
+(iv) Without limiting the generality of the foregoing, MacroGenics shall prosecute and maintain Jointly Owned Patents using outside counsel acceptable to Green Cross, and shall instruct such counsel to provide copies of correspondence and filings directly to Green Cross and otherwise permit Green Cross to participate with MacroGenics in any of the activities of such counsel with respect to the Patent and Trademark Prosecution of such Jointly Owned Patents. Before taking any material step in the Patent Prosecution or Jointly Owned Patents, MacroGenics and its counsel shall allow Green Cross a reasonable opportunity to comment on the action proposed to be taken, and agrees to incorporate in such filings all reasonable comments of Green Cross.
+
+(v) Green Cross acknowledges and understands that its rights and obligations under this Section 15.2 are secondary to and shall be subject to any Third Party rights and obligations under the Upstream Agreements.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+42
+
+
+
+
+
+(c) Patent and Trademark Oppositions. The JSC will decide whether and how to participate in Patent and Trademark oppositions and undertake activities intended to invalidate Third Party Patents.
+
+15.3 Costs of Patent and Trademark Prosecution
+
+(a) Costs. All out­of­pocket costs for Patent Prosecution and Trademark Prosecution of a Party's solely owned Patent or Trademark and for maintaining a Party's solely owned Patent or Trademark shall be solely incurred by and the sole responsibility of that Party. All out­of­pocket costs for Patent Prosecution of Jointly Owned Patents and for maintaining Jointly Owned Patents in the Territory shall be shared equally by the Parties. The out­of­pocket costs of MacroGenics' participation in Patent and Trademark oppositions, interferences and similar actions, and activities intended to invalidate Third Party Patents and Trademarks in the Territory shall be borne solely by Green Cross.
+
+15.4 Patent and Trademark Prosecution Cooperation. With respect to all Patent Prosecution and Trademark Prosecution related to Patents and Trademarks included in MacroGenics Licensed Patents, MacroGenics Licensed Trademarks or Green Cross Licensed Patents, each Party shall:
+
+(a) execute all further instruments to document their respective ownership consistent with this Agreement as reasonably requested by the other Party;
+
+(b) make its employees, agents and consultants reasonably available to the other Party (or to the other Party's authorized attorneys, agents or representatives), to the extent reasonably necessary to enable the appropriate Party hereunder to undertake its Patent Prosecution and Trademark Prosecution responsibilities;
+
+(c) cooperate, if necessary and appropriate, with the other Party in gaining Patent and Trademark term extensions; provided, however, that any dispute regarding the same shall be submitted to the JSC for resolution; and
+
+(d) endeavor in good faith to coordinate its efforts under this Agreement with the other Party to minimize or avoid interference with the Patent Prosecution and Trademark Prosecution of the other Party's Patents and Trademarks.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+43
+
+
+
+
+
+15.5 Enforcement
+
+(a) Notice. Each Party shall promptly provide, but in no event later than ***, the other with written notice reasonably detailing any known or alleged infringement of any Patent or Trademark owned by the other Party and subject to a license under this Agreement.
+
+(b) Enforcement of Intellectual Property Rights
+
+(i) The sole owner of a Patent, Trademark, Know-how or Confidential Information shall have the exclusive right to institute and direct legal proceedings against any Third Party believed to be infringing such Patent or Trademark or misappropriating or otherwise violating such Know-how or Confidential Information. Green Cross shall have the initial right to institute and direct legal proceedings against any Third Party believed to be infringing Jointly Owned Patents that claims or covers a Product sold in the Territory. If Green Cross has the right to direct legal proceedings pursuant to this Section 15.5(b)(i) and does not abate such violation of Jointly Owned Patents, including by commencement of a lawsuit against the accused person if necessary, within *** after receiving notice of such infringement of Jointly Owned Patents and immediately after notice of other violation of such Jointly Owned Patents, then MacroGenics shall be entitled (but shall not be obligated) to take all actions reasonably necessary to abate such violation in the Territory, including commencement of a lawsuit against the accused Third Party if necessary.
+
+(ii) MacroGenics shall have the initial right to institute and direct legal proceedings against any Third Party believed to be infringing Jointly Owned Patents that claims or covers a Product sold outside the Territory. If MacroGenics does not abate such violation of Jointly Owned Patents, including by commencement of a lawsuit against the accused person if necessary, within *** after receiving notice of such infringement of Jointly Owned Patents and immediately after notice of other violation of such Jointly Owned Patents, then Green Cross shall be entitled (but shall not be obligated) to take all actions reasonably necessary to abate such violation in the Territory, including commencement of a lawsuit against the accused Third Party if necessary.
+
+(iii) All amounts recovered from enforcement of any such rights by either Party in the Territory relating to the intellectual property licensed under this Agreement shall be first used to reimburse each Party's costs and expenses incurred in connection with such action, and any remainder of such recovery, other than amounts recovered as lost profits, shall be retained by the Party instituting the action, provided that any remainder retained by Green Cross shall be treated as Net Sales and shall be subject to Green Cross' royalty payment obligations at the applicable rate specified in Section 8.5. For amounts recovered as lost profits the amount of Net Sales represented by such lost profits and Green Cross shall be obligated to pay MacroGenics any amounts due under this Agreement if such projected Net Sales were actually made by Green Cross. All amounts recovered from
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+44
+
+
+
+
+
+enforcement of any such rights by either Party outside the Territory relating to Jointly Owned Patents shall be first used to reimburse each Party's costs and expenses incurred in connection with such action, and any remainder of such recovery, shall be retained by the Party instituting the action.
+
+(c) Cooperation in Enforcement Proceedings. For any action by a Party pursuant to subsection (b) above, in the event that such Party is unable to initiate or prosecute such action solely in its own name, the other Party will join such action voluntarily and will execute all documents necessary for such Party to initiate, prosecute and maintain such action. If either Green Cross or MacroGenics initiates an enforcement action pursuant to Section 15.5(b), then the other Party shall cooperate to the extent reasonably necessary and at the first Parties' sole expense (except for the expenses of the non­controlling Party's counsel, if any). Upon the reasonable request of the Party instituting any such action, such other Party shall join the suit and can be represented in any such legal proceedings using counsel of its own choice. Each Party shall assert and not waive the joint defense privilege with respect to all communications between the Parties reasonably the subject thereof.
+
+(d) Status; Settlement. The Parties shall keep each other informed of the status of and of their respective activities regarding any enforcement action pursuant to Section 15.5(b). Neither Party shall settle any litigation or legal proceeding in the Territory to enforce MacroGenics Licensed Patents or MacroGenics Licensed Trademarks without the other Party's written authorization.
+
+15.6 Defense
+
+(a) Notice of Allegations. Each Party shall notify the other in writing of any allegations it receives from a Third Party that the manufacture, production, use, development, sale or distribution of any Product or any technology or intellectual property licensed by a Party under this Agreement infringes the intellectual property rights of such Third Party. Such notice shall be provided promptly, but in no event after more than fifteen (15) business days, following receipt of such allegations.
+
+(b) Notice of Suit. In the event that a Party receives notice that it or any of its Affiliates have been individually named as a defendant in a legal proceeding by a Third Party alleging infringement of a Third Party's Patents or other intellectual property right as a result of the manufacture, production, use, development, sale or distribution of Products or any technology or intellectual property licensed by a Party under this Agreement, such Party shall immediately notify the other Party in writing and in no event notify such other Party later than *** after the receipt of such notice. Such written notice shall include a copy of any summons or complaint (or the equivalent thereof) received regarding the foregoing. Each Party shall assert and not waive the joint defense privilege with respect to all communications between the Parties reasonably the subject thereof. In such event, the Parties shall agree how best to mitigate or control the defense of any such legal proceeding; provided however, that if either Party or any of its Affiliates have been individually named as a defendant in a legal proceeding relating to
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+45
+
+
+
+
+
+the alleged infringement of a Third Party's Patents or other intellectual property right as a result of the manufacture, production, use, development, sale or distribution of Products, the other Party shall be allowed to join in such action, at its own expense.
+
+(c) Status; Settlement. The Parties shall keep each other informed of the status of and of their respective activities regarding any litigation or settlement thereof initiated by a Third Party in the Territory concerning a Party's manufacture, production, use, development, sale or distribution of Products or any technology or intellectual property licensed by a Party under this Agreement; provided, however, that no settlement or consent judgment or other voluntary final disposition of a suit under this Section 15.6(c) may be undertaken by a Party without the consent of the other Party which consent shall not be unreasonably withheld or delayed.
+
+16. TERMS AND TERMINATION
+
+16.1 Term. Unless earlier terminated, this Agreement shall continue in effect until the expiration of the Royalty Term as defined in Section 1.87 ("Term"), and thereafter Green Cross has no remaining payment obligations with respect to the Products pursuant to Section 8.5 above and MacroGenics shall have no further obligations hereunder.
+
+16.2 Termination for Change in Control of Green Cross. In the event of a Change in Control involving Green Cross, Green Cross shall provide prompt written notice to MacroGenics following such Change in Control, and MacroGenics may, in its sole discretion, terminate this Agreement by providing written notice to Green Cross within *** of MacroGenics' receipt of such written notice of the Change in Control.
+
+16.3 Termination for Change in Control of MacroGenics. In the event of a Change in Control involving MacroGenics, MacroGenics shall provide prompt written notice to Green Cross following such Change in Control, and Green Cross may, in its sole discretion, terminate this Agreement by providing written notice to MacroGenics within *** of Green Cross' receipt of such written notice of the Change in Control.
+
+16.4 Termination for Challenge to Patent Validity. MacroGenics may terminate this Agreement immediately upon written notice to Green Cross in the event Green Cross or any of its Affiliates:
+
+(a) directly or indirectly oppose, or assist any Third Party to oppose, in any patent office proceeding, the grant of any patent or patent application within the MacroGenics Licensed Patents, or, in any patent office proceeding, dispute or directly or indirectly assist any Third Party to dispute, the validity of any patent within the MacroGenics Licensed Patents or any of the claims thereof, including opposing any application for amendment thereto;
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+46
+
+
+
+
+
+(b) directly or indirectly oppose, or assist any Third Party to oppose, in any court proceeding, the grant of any patent or patent application within the MacroGenics Licensed Patents, or, in any court proceeding, dispute or directly or indirectly assist any Third Party to dispute, the validity of any patent within the MacroGenics Licensed Patents or any of the claims thereof; or
+
+(c) bring any claim or proceedings of whatever nature in relation to the MacroGenics Licensed Patents against MacroGenics and/or any of MacroGenics' Affiliates (or in respect of the foregoing their directors and officers) in respect of any activities carried out by them under any MacroGenics Licensed Patents which may be the subject of a Valid Claim of the MacroGenics Licensed Patents.
+
+16.5 Termination for Cause. This Agreement may be terminated at any time during the Term upon written notice by either Party if the other Party is in material breach of its other obligations under this Agreement and, in each case, has not cured such breach within *** after notice requesting cure of the breach (other than for non-payment which shall be cured within ***).
+
+16.6 Effect of Termination
+
+(a) If MacroGenics terminates this Agreement pursuant to Section 16.2, 16.4, or pursuant to Section 16.5 for cause based on material breach by Green Cross:
+
+(i) Green Cross shall pay any amounts due pursuant to Section 8 prior to the date of termination;
+
+(ii) For the avoidance of doubt, the licenses and sublicenses granted to Green Cross under Sections 10.1(a) and 10.4 shall terminate;
+
+(iii) Green Cross shall return to MacroGenics all Products (including, without limitation, all MGAH22) within its possession or control and arrange for the Green Cross Sublicensees to return to MacroGenics all Products (including, without limitation, all MGAH22) within such Green Cross Sublicensees' possession or control;
+
+(iv) Green Cross shall cease to research, develop, market and sell any Product that infringes a Valid Claim in a MacroGenics Licensed Patent;
+
+(v) for the Products (including, without limitation, MGAH22), Green Cross shall assign and promptly transfer to MacroGenics, at no expense to MacroGenics, all of Green Cross' right, title and interest in and to (A) all regulatory filings (such as INDs, CTAs and drug master files), Regulatory Approvals, and clinical trial agreements (to the extent assignable and not cancelled) for such Products(s), to the extent that MacroGenics elects to continue development of such Product(s); (B) all data, including clinical data, materials and information of any kind
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+47
+
+
+
+
+
+or nature whatsoever, in Green Cross' possession or in the possession of its Affiliates or its or their respective agents related to such Product(s); (C) all trademarks related to such Products (if such termination occurs after approval of such trademark by a Regulatory Authority); and (D) all material information, and any other information reasonably requested and required by MacroGenics, relating to the manufacture of such Products;
+
+(vi) all sublicenses under the rights granted pursuant to Section 10.1(b) shall terminate; and
+
+(vii) MacroGenics shall revoke (and Green Cross shall allow revocation of) any powers of attorney for any MacroGenics Licensed Patents that Green Cross holds as of the time of such termination; and
+
+(b) If Green Cross terminates this Agreement pursuant to Section 16.3:
+
+(i) The provisions of Section 16.6(a) shall apply;
+
+(ii) Notwithstanding anything to the contrary, MacroGenics shall continue to provide Green Cross, for up to ***, the Products (including, without limitation, all MGAH22), at the request of Green Cross in accordance with the terms of Section 6.2; and
+
+(c) If Green Cross terminates this Agreement pursuant to Section 16.5 for cause based on material breach by MacroGenics:
+
+(i) As full satisfaction of any claims Green Cross may have based upon such material breach and termination, ***:
+
+(1) Such material breach by MacroGenics results in a substantial reduction in the profit Green Cross would have received if such material breach and termination had not occurred;
+
+(2) MacroGenics committed such material breach other than as a result of a material breach committed by Green Cross; and
+
+(3) Both Parties agree in writing not to undertake arbitration in accordance with Section 17.7 to determine whether MacroGenics committed a material breach.
+
+(ii) For the avoidance of doubt, the license granted under Section 10.3 shall terminate;
+
+(iii) The provisions of Section 16.6(a) shall apply;
+
+(iv) Notwithstanding anything to the contrary, MacroGenics shall continue to provide Green Cross, for up to***, the Products (including, without limitation, all MGAH22), at the request of Green Cross in accordance with the terms of Section 6.2; and
+
+(v) Green Cross shall revoke (and MacroGenics shall allow revocation of) any powers of attorney for any Green Cross Licensed Patents that MacroGenics holds as of the time of such termination.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+48
+
+
+
+
+
+(d) Return of Confidential Information. Upon expiration or termination of this Agreement, the Parties shall comply with Section 12.1(e).
+
+16.7 Survival. The following provisions shall survive the termination or expiration of this Agreement for any reason: Sections 1, 8.9, 8.11, 9, 10.4 (with respect to the license granted to MacroGenics), 12 (to the extent provided therein), 13, 14, 15.1, 16 and 17.
+
+17. MISCELLANEOUS
+
+17.1 Force Majeure. Neither Party shall be held liable to the other Party nor be deemed to have defaulted under or breached this Agreement for failure or delay in performing any obligation under this Agreement to the extent such failure or delay is caused by or results from causes beyond the reasonable control of the affected Party including, but not limited to, embargoes, war, acts of war (whether war be declared or not), insurrections, riots, civil commotions, strikes, lockouts or other labor disturbances, fire, floods, or other acts of God, or acts, omissions or delays in acting by any governmental authority or the other Party ("Force Majeure"). The affected Party shall notify the other Party of such force majeure circumstances as soon as reasonably practical, and shall promptly undertake all reasonable efforts necessary to cure such force majeure circumstances. In the event a Party is unable to perform its obligations under this Agreement due to Force Majeure for a period of ***, the other Party shall have the option of unilaterally terminating this Agreement upon providing *** written notice.
+
+17.2 Section 365(n) of the Bankruptcy Code. All rights and licenses granted under or pursuant to any section of this Agreement are, and shall otherwise be deemed to be, for purposes of Section 365(n) of the U.S. Bankruptcy Code, licenses of rights to "intellectual property" as defined under Section 101(35A) of the U.S. Bankruptcy Code. The Parties shall retain and may fully exercise all of their respective rights and elections under the U.S. Bankruptcy Code. The Parties agree that a Party that is a licensee of such rights under this Agreement shall retain and may fully exercise all of its rights and elections under the U.S. Bankruptcy Code, and that upon commencement of a bankruptcy proceeding by or against the licensing Party (such Party, the "Involved Party") under the U.S. Bankruptcy Code, the other Party (such Party, the "Noninvolved Party") shall be entitled to a complete duplicate of or complete access to (as such Noninvolved Party deems appropriate), any such intellectual property and all embodiments of such intellectual property, provided the Noninvolved Party continues to fulfill its payment or royalty obligations as specified herein in full. Such intellectual property and all
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+49
+
+
+
+
+
+embodiments thereof shall be promptly delivered to the Noninvolved Party (a) upon any such commencement of a bankruptcy proceeding upon written request therefor by the Noninvolved Party, unless the Involved Party elects to continue to perform all of its obligations under this Agreement or (b) if not delivered under (a) above, upon the rejection of this Agreement by or on behalf of the Involved Party upon written request therefor by Noninvolved Party. The foregoing is without prejudice to any rights the Noninvolved Party may have arising under the U.S. Bankruptcy Code or other applicable law.
+
+17.3 Assignment. Neither Party may assign its rights and obligations under this Agreement without the prior written consent of the other Party, provided that either Party may assign its rights and obligations under this Agreement, without such consent from the other Party, to its Affiliate or any successor in interest in connection with the sale of all or substantially all of its assets or a sale of all or substantially of the business related to MGAH22 or a Product, or a merger, acquisition or other similar transactions. For the avoidance of doubt, the terms and conditions of this Agreement shall be binding on the permitted successors and assignees of each Party.
+
+17.4 Severability. If any one or more of the provisions contained in this Agreement is held invalid, illegal or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions contained herein shall not in any way be affected or impaired thereby, unless the absence of the invalidated provision(s) adversely affects the substantive rights of the Parties. The Parties shall in such an instance use their best efforts to replace the invalid, illegal or unenforceable provision(s) with valid, legal and enforceable provision(s) which, insofar as practical, implement the purposes of this Agreement.
+
+17.5 Notices. All notices which are required or permitted hereunder shall be in writing and sufficient if delivered personally, sent by facsimile (and promptly confirmed by personal delivery, registered or certified mail or overnight courier), sent by nationally-recognized overnight courier or sent by registered or certified mail, postage prepaid, return receipt requested, addressed as follows:   if to MacroGenics, to:
+
+
+
+1500 East Gude Drive Rockville, MD 20850 Attention: Chief Executive Officer Facsimile: ***
+
+with copy to: (which shall not constitute notice)
+
+
+
+Arnold & Porter, LLP 1600 Tysons Boulevard Suite 900 McLean, VA 22102 Attention: *** Facsimile: ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+50
+
+
+
+
+
+if to Green Cross, to:
+
+
+
+Green Cross Corporation 303 Bojeong-dong, Giheung-gu Yongin, 446-770, Korea Attn: President Facsimile: ***
+
+with copy to:
+
+
+
+Green Cross Corporation 303 Bojeong-dong, Giheung-gu Yongin, 446-770, Korea Attn: *** Facsimile: ***
+
+or to such other address as the Party to whom notice is to be given may have furnished to the other Party in writing in accordance herewith. Any such notice shall be deemed to have been given upon receipt.
+
+17.6 Applicable Law. All questions of inventorship will be determined in accordance with ***. In respect to all other Patent issues related to the enforceability or validity of a Patent, the laws of the jurisdiction in which the applicable Patent is filed or granted shall govern. Except as otherwise indicated, in all other respects, the right and obligations of the Parties under this Agreement shall be governed by and construed in accordance with the laws of the ***.
+
+17.7 Arbitration
+
+(a) All disputes arising out of or in connection with the Agreement shall be finally settled under the Rules of Arbitration of the *** by three (3) arbitrators ("Arbitral Tribunal").
+
+(b) Each Party shall nominate one arbitrator. Should the claimant fail to appoint an arbitrator in the Request for Arbitration within *** days of being requested to do so, or if the respondent should fail to appoint an arbitrator in its Answer to the Request for Arbitration within *** days of being requested to do so, the other party shall request the *** to make such appointment.
+
+(c) The arbitrators nominated by the parties shall, within *** from the appointment of the arbitrator nominated in the Answer to the Request for Arbitration, and after consultation with the parties, agree and appoint a third arbitrator, who will act as a chairman of the Arbitral Tribunal. Should such procedure not result in an appointment within the *** time limit, either party shall be free to request the *** to appoint the third arbitrator.
+
+(d) *** shall be the seat of the arbitration.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+51
+
+
+
+
+
+(e) The language of the arbitration shall be English. Documents submitted in the arbitration (the originals of which are not in English) shall be submitted together with an English translation.
+
+(f) This arbitration agreement does not preclude either party seeking conservatory or interim measures from any court of competent jurisdiction including, without limitation, the courts having jurisdiction by reason of either party's domicile. Conservatory or interim measures sought by either party in any one or more jurisdictions shall not preclude the Arbitral Tribunal granting conservatory or interim measures. Conservatory or interim measures sought by either party before the Arbitral Tribunal shall not preclude any court of competent jurisdiction granting conservatory or interim measures.
+
+(g) In the event that any issue shall arise which is not clearly provided for in this arbitration agreement the matter shall be resolved in accordance with the *** Arbitration Rules.
+
+17.8 Entire Agreement; Amendments. The Agreement contains the entire understanding of the Parties with respect to the Collaboration and licenses granted hereunder. All express or implied agreements and understandings, either oral or written, with regard to the Collaboration and the licenses granted hereunder are superseded by the terms of this Agreement. The Agreement may be amended, or any term hereof modified, only by a written instrument duly executed by authorized representatives of both Parties hereto.
+
+17.9 Headings. The captions to the several Sections hereof are not a part of the Agreement, but are merely for convenience to assist in locating and reading the several Sections and Sections of this Agreement.
+
+17.10 Independent Contractors. It is expressly agreed that MacroGenics and Green Cross shall be independent contractors and that the relationship between the two Parties shall not constitute a partnership, joint venture or agency. Neither MacroGenics nor Green Cross shall have the authority to make any statements, representations or commitments of any kind, or to take any action, which shall be binding on the other Party, without the prior written consent of the other Party.
+
+17.11 Waiver. The waiver by either Party of any right hereunder, or the failure of the other Party to perform, or a breach by the other Party, shall not be deemed a waiver of any other right hereunder or of any other breach or failure by such other Party whether of a similar nature or otherwise.
+
+17.12 Cumulative Remedies. No remedy referred to in this Agreement is intended to be exclusive, but each shall be cumulative and in addition to any other remedy referred to in this Agreement or otherwise available under law.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+52
+
+
+
+
+
+17.13 Waiver of Rule of Construction. Each Party has had the opportunity to consult with counsel in connection with the review, drafting and negotiation of this Agreement. Accordingly, the rule of construction that any ambiguity in this Agreement shall be construed against the drafting Party shall not apply.
+
+17.14 Counterparts. The Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+
+17.15 Further Assurances. Each Party will duly execute and deliver, or cause to be duly executed and delivered, such further instruments and do and cause to be done such further acts and things, including the filing of such assignments, agreements, documents and instruments, as may be necessary or as the other Party may reasonably request in connection with this Agreement or to carry out more effectively the provisions and purposes, or to better assure and confirm unto such other Party its rights and remedies under this Agreement.
+
+17.16 Construction. Except where the context otherwise requires, wherever used, the singular will include the plural, the plural the singular, the use of any gender will be applicable to all genders, and the word "or" is used in the inclusive sense (and/or). The captions of this Agreement are for convenience of reference only and in no way define, describe, extend or limit the scope or intent of this Agreement or the intent of any provision contained in this Agreement. The term "including" as used herein means including, without limiting the generality of any description preceding such term. References to "Section" or "Sections" are references to the numbered sections of this Agreement, unless expressly stated otherwise. All dollars are United States Dollars.
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+53
+
+
+
+
+
+The Parties have executed this Agreement as of the Effective Date.   Green Cross Corporation   MacroGenics, Inc.
+
+By:  /s/ B. G. Rhee   By:  /s/ Scott Koenig Name: B. G. Rhee   Name: Scott Koenig Title:  President   Title:  President and CEO
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+54
+
+
+
+
+
+Exhibit A
+
+MacroGenics Licensed Patents   ***  ***  *** ***  ***  *** ***  ***  *** ***  ***  *** ***  ***  *** ***  ***  ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+55
+
+
+
+
+
+Exhibit B
+
+MacroGenics Licensed Trademarks
+
+***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+56
+
+
+
+
+
+Exhibit C
+
+Phase I Clinical Development Plan
+
+******   ***  ***  ***
+
+A.***    1. ***    ***  ***  *** 2. ***  ***  *** 3. ***   *** ***  ***  *** 4. ***   *** 5. ***   *** 6. ***   *** 7. ***   *** ***   *** ***  ***  *** 8. ***    ***   *** ***  ***  *** ***  ***  *** 9. ***    ***   *** ***  ***  ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+57
+
+
+
+
+
+***  ***  ***
+
+***  ***  *** 10. ***    ***   *** ***  ***  *** ***  ***  *** 11. ***   *** 12. ***   *** 13. ***   *** 14. ***   *** 15. ***    ***   *** ***  ***  *** B. ***    1. ***  ***   2. ***  ***   3. ***  ***  *** 4. ***   *** 5. ***  ***   6. ***   *** C. ***    1. ***  ***   2. ***  ***  ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+58
+
+
+
+
+
+***  ***  ***
+
+3. ***  ***   4. ***  ***   5. ***  ***   6. ***  ***   7. ***  ***   ***  ***   ***  ***   8. ***  ***   D. ***    1. ***  ***  *** 2. ***  ***  *** 3. ***  ***  *** 4. ***  ***  *** 5. ***  ***   6. ***   *** E. ***    1. ***   *** 2. ***   *** 3. ***   *** 4. ***  ***  *** 5. ***  ***  *** 6. ***  ***  ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+59
+
+
+
+
+
+***  ***  ***
+
+7. ***   *** 8. ***   *** 9. ***  ***  *** 10. ***  ***   11. ***  ***   12. ***  ***  *** 13. ***  ***   14. ***   *** 15. ***  ***  *** 16. ***  ***  *** 17. ***  ***  *** F. ***    1. ***    ***  ***  *** ***  ***  *** ***  ***  *** 2. ***    ***   *** ***   *** 3. ***    ***  ***   ***  ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+60
+
+
+
+
+
+***  ***  ***
+
+***  ***   ***  ***   G. ***    1. ***  ***   2. ***  ***   3. ***   *** 4. ***  ***   5. ***  ***   6. ***  ***   H. ***    1. ***  ***   2. ***  ***   3. ***  ***   4. ***  ***  *** 5. ***   *** 6. ***   *** 7. ***  ***   8. ***   *** 9. ***  ***   10. ***   *** 11. ***   *** 12. ***   ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+61
+
+
+
+
+
+***  ***  ***
+
+13. ***   *** 14. ***   *** I. ***    1. ***  ***  *** 2. ***   *** 3. ***  ***  *** J. ***    1. ***  ***   2. ***   *** 3. ***  ***   4. ***  ***   5. ***  ***   6. ***  ***   7. ***  ***   8. ***  ***   9. ***  ***   10. ***  ***   11. ***  ***   12. ***   *** 13. ***  ***  *** 14. ***  ***   15. ***  ***  ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+62
+
+
+
+
+
+***  ***  ***
+
+16. ***   *** 17. ***   *** K. ***    1. ***   *** 2. ***   *** 3. ***   *** 4. ***   *** 5. ***   *** 6. ***  ***   7. ***   *** ***   *** 8. ***   *** 9. ***   *** 10. ***  ***  *** 11. ***   *** 12. ***   *** L. ***    1. ***  ***  *** 2. ***  ***   3. ***  ***  *** 4. ***   *** 5. ***  ***  ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+63
+
+
+
+
+
+***  ***  ***
+
+6. ***   *** M. ***    1. ***   *** 2. ***   *** 3. ***  ***   N. ***    1. ***   *** 2. ***   *** 3. ***   *** 4. ***  ***   5. ***  ***   6. ***  ***   7. ***  ***   8. ***   *** O. ***    1. ***  ***   2. ***  ***   3. ***  ***   4. ***  ***   5. ***  ***   6. ***  ***   7. ***  ***  ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+64
+
+
+
+
+
+***  ***  ***
+
+8. ***  ***   9. ***  ***   10. ***  ***   11. ***  ***  *** 12. ***  ***   13. ***  ***   ***  ***   ***  ***   14. ***  ***   15. ***  ***   16. ***  ***   17. ***  ***   18. ***  ***   19. ***  ***   20. ***  ***   21. ***  ***   22. ***  ***   23. ***  ***  *** 24. ***  ***   25. ***  ***   26. ***  ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+65
+
+
+
+
+
+***  ***  ***
+
+27. ***  ***   28. ***  ***   29. ***  ***   30. ***  ***   P. ***    1. ***  ***   2. ***  ***   3. ***  ***   4. ***  ***   5. ***  ***   6. ***  ***   7. ***  ***   8. ***  ***   9. ***  ***   10. ***  ***   11. ***  ***   12. ***  ***   13. ***  ***   Q. ***    1. ***  ***   2. ***  ***   3. ***  ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+66
+
+
+
+
+
+***  ***  ***
+
+4. ***  ***   ***  ***   5. ***  ***   R. ***    1. ***  ***   2. ***  ***   3. ***  ***   4. ***  ***   5. ***  ***  *** 6. ***  ***  *** 7. ***  ***   8. ***  ***   9. ***  ***   ***  ***   ***  ***   10. ***  ***   11. ***  ***   12. ***  ***   13. ***  ***   14. ***  ***   15. ***  ***   16. ***  ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+67
+
+
+
+
+
+***  ***  ***
+
+***  ***   17. ***  ***   18. ***  ***   19. ***  ***   20. ***  ***  *** 21. ***  ***   22. ***  ***   a. ***   *** S. ***    1. ***  ***   2. ***  ***   3. ***  ***   4. ***  ***   5. ***  ***   6. ***  ***   7. ***  ***   8. ***  ***  *** 9. ***  ***   10. ***  ***   11. ***  ***   12. ***  ***   T. ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+68
+
+
+
+
+
+***  ***  ***
+
+1. ***  ***   2. ***  ***   3. ***  ***   4. ***  ***   5. ***  ***   6. ***  ***   7. ***  ***   8. ***  ***   9. ***  ***   10. ***  ***   11. ***  ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+69
+
+
+
+
+
+Exhibit D
+
+Phase II Clinical Development Plan
+
+******   ***  •  ***
+
+***  *** ***  *** ***  •  ***
+
+***  *** ***  •  ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+70
+
+
+
+
+
+Exhibit E
+
+Upstream Agreements
+
+***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+71
+
+
+
+
+
+Exhibit F
+
+Joint Steering Committee
+
+MacroGenics:
+
+ 1) ***
+
+ 2) ***
+
+ 3) ***
+
+Green Cross:
+
+ 1) ***
+
+ 2) ***
+
+ 3) ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+72
+
+
+
+
+
+Exhibit G
+
+SAFETY DATA EXCHANGE AGREEMENT COMPONENTS
+
+***
+
+***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+73
+
+
+
+
+
+Exhibit H Product Royalty Rates   ***  ***
+
+***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  ***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+74
+
+
+
+
+
+***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  *** ***  ***
+
+***
+
+***
+
+***
+
+***
+
+*** = Portions of this exhibit have been omitted pursuant to a request for confidential treatment. An unredacted version of this exhibit has been filed separately with the Commission.
+
+75
