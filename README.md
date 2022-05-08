@@ -33,6 +33,6 @@ Upon completion of the course, you will be able to:
 | **1**  | Introduction to Text Processing | [ipynb](notebooks/tutorial1.ipynb) |
 | **2**  | Contract Automation | [ipynb](notebooks/tutorial2.ipynb) |
 | **3**  | Legal NER & Text Categorization  | [ipynb](notebooks/tutorial3.ipynb) |
-| **4**  | [Description]  | [ipynb](notebooks/tutorial4.ipynb) |
+| **4**  | Correlation, Covariance & Cross-Tabulations  | [ipynb](notebooks/tutorial4.ipynb) |
 | **5**  | [Description]  | [ipynb](notebooks/tutorial5.ipynb) |
 | **6**  | [Description] | [ipynb](notebooks/tutorial6.ipynb) |
