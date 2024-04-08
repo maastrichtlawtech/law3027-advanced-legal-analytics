@@ -30,9 +30,6 @@ Upon completion of the course, you will be able to:
 
 | Week   | Tasks                              | Notebook                           |
 |--------|------------------------------------|------------------------------------|
-| **1**  | Introduction to Text Processing | [ipynb](notebooks/tutorial1.ipynb) |
-| **2**  | Contract Automation | [ipynb](notebooks/tutorial2.ipynb) |
-| **3**  | Legal NER & Text Categorization  | [ipynb](notebooks/tutorial3.ipynb) |
-| **4**  | Correlation, Covariance & Cross-Tabulations  | [ipynb](notebooks/tutorial4.ipynb) |
-| **5**  | Intro to Regression & Classification  | [ipynb](notebooks/tutorial5.ipynb) |
-| **6**  | Robot Judge | [ipynb](notebooks/tutorial6.ipynb) |
+| **1**  | Correlation, Covariance & Cross-Tabulations  | [ipynb](notebooks/tutorial1.ipynb) |
+| **2**  | Regression  | [ipynb](notebooks/tutorial2.ipynb) |
+| **3**  | Legal Judgment Prediction | [ipynb](notebooks/tutorial3.ipynb) |
