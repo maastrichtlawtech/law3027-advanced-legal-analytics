@@ -11,6 +11,7 @@ In this course, you will learn about the following major topics:
 * Machine Learning with Legal Texts
 * Natural Language Processing for Legal Texts
 * Semantic Analysis of Legal Texts
+* Large Language Models and Their Applications In Law
 
 ### Course objectives
 
@@ -20,6 +21,7 @@ Upon completion of the course, you will be able to:
 * Explain and apply fundamental concepts of legal artificial intelligence;
 * Identify technical and legal challenges with legal artificial intelligence;
 * Apply and evaluate machine learning methods for computational analysis of law;
+* Leverage advanced prompting techniques to apply large language models in legal text analysis and question answering;
 * Perform programming tasks to engage in legal text analysis, search and prediction.
 
 ### Prerequisites
@@ -33,3 +35,4 @@ Upon completion of the course, you will be able to:
 | **1**  | Correlation, Covariance & Cross-Tabulations  | [ipynb](notebooks/tutorial1.ipynb) |
 | **2**  | Regression  | [ipynb](notebooks/tutorial2.ipynb) |
 | **3**  | Legal Judgment Prediction | [ipynb](notebooks/tutorial3.ipynb) |
+| **4**  | Large Language Models, Legal Question Answering and Legal Information Retrieval | [ipynb](notebooks/tutorial4.ipynb) |
